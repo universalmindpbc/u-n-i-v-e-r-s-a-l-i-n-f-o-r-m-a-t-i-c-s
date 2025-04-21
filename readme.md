@@ -19,7 +19,7 @@ This project combines Python notebooks and helper modules to analyse genomic dat
  
 ## 🏁 Getting started
  
-Clone the repo and replicate the exact Python environment:
+Clone the repo & replicate the exact Python environment:
  
 ```bash
 git clone https://github.com/universalmindpbc/universalinformatics.git
