@@ -13,3 +13,5 @@ def test_imports():
 
 if __name__ == "__main__":
     test_imports()
+    
+    pip install --upgrade --ignore-installed "pydantic>=2.6" "pydantic-core>=2.16"
