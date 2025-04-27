@@ -178,7 +178,7 @@ def get_scout_llm():
                 prompt_str = str(prompt)
                 content = "Simulation Error: Could not generate response."
                 if "HSI Analysis Summary" in prompt_str and "OXTR" in prompt_str:
-                    content = "Based on the simulated HSI features and Hyper-Seq context, the inferred OXTR gene expression level is moderately high (0.75 on a normalized scale). Autofluorescence patterns consistent with target TFBS binding detected."
+                    content = "Based on the simulated HSI features and Hyper-Seq context, the analysed OXTR gene expression level is moderately high (0.75 on a normalized scale). Autofluorescence patterns consistent with target TFBS binding detected."
                 elif "Error" in prompt_str:
                      content = "Acknowledged error state."
 
@@ -190,7 +190,7 @@ def get_scout_llm():
                 prompt_str = str(prompt)
                 content = "Simulation Error: Could not generate async response."
                 if "HSI Analysis Summary" in prompt_str and "OXTR" in prompt_str:
-                    content = "Based on the simulated HSI features and Hyper-Seq context, the inferred OXTR gene expression level is moderately high (0.75 on a normalized scale). Autofluorescence patterns consistent with target TFBS binding detected."
+                    content = "Based on the simulated HSI features and Hyper-Seq context, the analysed OXTR gene expression level is moderately high (0.75 on a normalized scale). Autofluorescence patterns consistent with target TFBS binding detected."
                 elif "Error" in prompt_str:
                     content = "Acknowledged error state."
                 return AIMessage(content=content)
@@ -310,7 +310,7 @@ async def interpret_result_node(state: HsiAnalysisState):
         # --- End Simple Extraction ---
 
         result = {
-            "inferred_oxtr_expression": expression_level,
+            "analysed_oxtr_expression": expression_level,
             "raw_response": raw_response,
             "interpretation_confidence": 0.9 # Placeholder
         }
