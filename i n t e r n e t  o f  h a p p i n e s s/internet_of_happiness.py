@@ -272,7 +272,7 @@ async def invoke_scout_node(state: HsiAnalysisState):
         f"Hyper-Seq Context: {context}"
     )
     prompt = ChatPromptTemplate.from_messages([
-        ("system", "You are an expert AI assistant specialized in interpreting hyperspectral imaging features for biomedical analysis, specifically inferring gene expression based on autofluorescence patterns defined by Hyper-Seq context."),
+        ("system", "You are an expert AI assistant specialized in interpreting hyperspectral imaging features for biomedical analysis, specifically analysing gene expression based on autofluorescence patterns defined by Hyper-Seq context."),
         ("human", f"Analyze the following HSI data summary to infer OXTR gene expression level. Data: {feature_summary}")
     ])
 
@@ -413,7 +413,7 @@ hsi_analysis_graph = workflow_builder.compile(checkpointer=memory)
 # --- FastAPI Application ---
 app = FastAPI(
     title="Internet of Happiness - HSI Gene Expression Analysis",
-    description="API using LangGraph, Scout BioMedical, and Mamba HSI models for gene expression inference.",
+    description="API using LangGraph, Scout BioMedical, and Mamba HSI models for gene expression analysis.",
     version="0.2.0"
 )
 
