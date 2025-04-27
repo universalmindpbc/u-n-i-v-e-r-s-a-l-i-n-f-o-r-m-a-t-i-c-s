@@ -30,7 +30,14 @@ pip install -r requirements.txt
 ```
  
 Open the notebook `universal_informatics.ipynb` to explore the workflow.
- 
+
+.
+
+Join us on Hugging Face
+https://huggingface.co/universalmind
+
+.
+
 ---
  
 ## 📜 License
