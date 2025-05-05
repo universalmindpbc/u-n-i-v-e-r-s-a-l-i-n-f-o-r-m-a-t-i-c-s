@@ -1,0 +1,460 @@
+# .github/workflows/quantum_classical_cicd.yml
+name: Quantum-Classical CI/CD Pipeline
+
+on:
+  push:
+    branches: [ main, develop ]
+    paths-ignore:
+      - '*.md'
+      - 'docs/**'
+  pull_request:
+    branches: [ main, develop ]
+    paths-ignore:
+      - '*.md'
+      - 'docs/**'
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Deployment environment'
+        required: true
+        default: 'staging'
+        type: choice
+        options:
+          - staging
+          - production
+      run_quantum_tests:
+        description: 'Run quantum tests'
+        required: false
+        default: false
+        type: boolean
+
+env:
+  PYTHON_VERSION: '3.10'
+  QUANTUM_SIMULATION: true
+  CACHE_KEY_PREFIX: quantum-classical
+
+jobs:
+  # -------------------------------------------------------------------------
+  # VALIDATION PHASE - Static Analysis and Linting
+  # -------------------------------------------------------------------------
+  validate:
+    name: Validate Source Code
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements-dev.txt
+          pip install black isort mypy pylint
+      
+      - name: Run code formatting check
+        run: |
+          black --check .
+          isort --check-only --profile black .
+      
+      - name: Run static type checking
+        run: |
+          mypy --ignore-missing-imports --disallow-untyped-defs .
+      
+      - name: Run linting
+        run: |
+          pylint --disable=C0111,R0903,C0103 --ignore=venv .
+      
+      - name: Validate quantum circuit definitions
+        run: |
+          python scripts/validate_quantum_circuits.py
+
+  # -------------------------------------------------------------------------
+  # CLASSICAL TESTING PHASE
+  # -------------------------------------------------------------------------
+  classical_tests:
+    name: Classical Unit Tests
+    needs: validate
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pytest pytest-cov pytest-asyncio
+      
+      - name: Set up AWS credentials for tests
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-east-1
+      
+      - name: Mock external service credentials
+        run: |
+          mkdir -p $HOME/.universal_informatics/credentials
+          echo '{"pinecone": "test-key", "dwave": "test-key", "storj": "test-grant", "zama": "test-key", "triall": "test-key", "fhenix": "test-key"}' > $HOME/.universal_informatics/credentials/test_credentials.json
+      
+      - name: Run classical unit tests
+        run: |
+          python -m pytest --cov=. --cov-report=xml --cov-report=html tests/unit/ -v
+      
+      - name: Archive code coverage results
+        uses: actions/upload-artifact@v3
+        with:
+          name: code-coverage-report
+          path: htmlcov
+      
+      - name: Upload coverage to Codecov
+        uses: codecov/codecov-action@v3
+        with:
+          file: ./coverage.xml
+          fail_ci_if_error: true
+
+  # -------------------------------------------------------------------------
+  # QUANTUM SIMULATION TESTING PHASE
+  # -------------------------------------------------------------------------
+  quantum_simulation_tests:
+    name: Quantum Simulation Tests
+    needs: classical_tests
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+      
+      - name: Install quantum simulation dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install -r requirements-quantum.txt
+          pip install pytest pytest-asyncio
+      
+      - name: Run quantum circuit simulation tests
+        run: |
+          python -m pytest tests/quantum/ --quantum-mode=simulator -v
+      
+      - name: Run D-Wave annealing simulation tests
+        run: |
+          python -m pytest tests/quantum/annealing/ --quantum-mode=simulator -v
+      
+      - name: Run gate-based simulation tests
+        run: |
+          python -m pytest tests/quantum/gate/ --quantum-mode=simulator -v
+      
+      - name: Run neutral atom simulation tests
+        run: |
+          python -m pytest tests/quantum/hamiltonian/ --quantum-mode=simulator -v
+      
+      - name: Archive quantum simulation results
+        uses: actions/upload-artifact@v3
+        with:
+          name: quantum-simulation-results
+          path: test_reports/quantum_sim_*.json
+
+  # -------------------------------------------------------------------------
+  # HYBRID INTEGRATION TESTING PHASE
+  # -------------------------------------------------------------------------
+  integration_tests:
+    name: Hybrid Integration Tests
+    needs: [classical_tests, quantum_simulation_tests]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install -r requirements-quantum.txt
+          pip install pytest pytest-asyncio
+      
+      - name: Set up AWS credentials for tests
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-east-1
+      
+      - name: Run integrated quantum-classical tests
+        run: |
+          python -m pytest tests/integration/ --quantum-mode=simulator -v
+      
+      - name: Run API compatibility tests
+        run: |
+          python scripts/check_api_compatibility.py
+      
+      - name: Run quantum classical boundary tests
+        run: |
+          python scripts/test_quantum_classical_boundary.py
+      
+      - name: Archive integration test results
+        uses: actions/upload-artifact@v3
+        with:
+          name: integration-test-results
+          path: |
+            test_reports/integration_*.json
+            test_reports/integration_*.html
+
+  # -------------------------------------------------------------------------
+  # REAL QUANTUM HARDWARE TESTING PHASE (Conditional)
+  # -------------------------------------------------------------------------
+  quantum_hardware_tests:
+    name: Quantum Hardware Tests
+    if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.run_quantum_tests == 'true' }}
+    needs: integration_tests
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+      
+      - name: Install quantum dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install -r requirements-quantum.txt
+          pip install pytest pytest-asyncio
+      
+      - name: Set up quantum provider credentials
+        run: |
+          echo "${{ secrets.DWAVE_CONFIG }}" > ~/.dwrc
+          mkdir -p ~/.qiskit
+          echo "${{ secrets.QISKIT_IBM_TOKEN }}" > ~/.qiskit/qiskitrc
+      
+      - name: Run D-Wave annealing hardware tests
+        run: |
+          python -m pytest tests/quantum/annealing/test_hardware_annealing.py --quantum-mode=hardware -v
+      
+      - name: Run IBM quantum gate hardware tests
+        run: |
+          python -m pytest tests/quantum/gate/test_hardware_gates.py --quantum-mode=hardware -v
+      
+      - name: Archive hardware test results
+        uses: actions/upload-artifact@v3
+        with:
+          name: quantum-hardware-results
+          path: test_reports/quantum_hw_*.json
+
+  # -------------------------------------------------------------------------
+  # BUILD PHASE
+  # -------------------------------------------------------------------------
+  build:
+    name: Build Package
+    needs: integration_tests
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+      
+      - name: Install build dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install build wheel setuptools
+      
+      - name: Build package
+        run: |
+          python -m build
+      
+      - name: Archive built package
+        uses: actions/upload-artifact@v3
+        with:
+          name: universal-informatics-package
+          path: dist/
+
+  # -------------------------------------------------------------------------
+  # DEPLOYMENT PHASE - Amazon SageMaker and API Gateway
+  # -------------------------------------------------------------------------
+  deploy_staging:
+    name: Deploy to Staging
+    if: github.ref == 'refs/heads/develop'
+    needs: build
+    runs-on: ubuntu-latest
+    environment: staging
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Set up AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-east-1
+      
+      - name: Download built package
+        uses: actions/download-artifact@v3
+        with:
+          name: universal-informatics-package
+          path: dist
+      
+      - name: Deploy CloudFormation stack for API Gateway
+        run: |
+          aws cloudformation deploy \
+            --template-file cloudformation/api-gateway.yaml \
+            --stack-name universal-informatics-api-staging \
+            --parameter-overrides Environment=staging
+      
+      - name: Deploy CloudFormation stack for Lambda functions
+        run: |
+          aws cloudformation deploy \
+            --template-file cloudformation/lambda-functions.yaml \
+            --stack-name universal-informatics-lambda-staging \
+            --parameter-overrides Environment=staging
+      
+      - name: Deploy SageMaker notebook
+        run: |
+          aws cloudformation deploy \
+            --template-file cloudformation/sagemaker.yaml \
+            --stack-name universal-informatics-sagemaker-staging \
+            --parameter-overrides Environment=staging
+      
+      - name: Initialize SageMaker notebook with code
+        run: |
+          python scripts/initialize_sagemaker.py --environment staging
+      
+      - name: Run post-deployment tests
+        run: |
+          python scripts/test_deployment.py --environment staging
+
+  # -------------------------------------------------------------------------
+  # PRODUCTION DEPLOYMENT
+  # -------------------------------------------------------------------------
+  deploy_production:
+    name: Deploy to Production
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Set up AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: us-east-1
+      
+      - name: Download built package
+        uses: actions/download-artifact@v3
+        with:
+          name: universal-informatics-package
+          path: dist
+      
+      - name: Deploy CloudFormation stack for API Gateway
+        run: |
+          aws cloudformation deploy \
+            --template-file cloudformation/api-gateway.yaml \
+            --stack-name universal-informatics-api-production \
+            --parameter-overrides Environment=production
+      
+      - name: Deploy CloudFormation stack for Lambda functions
+        run: |
+          aws cloudformation deploy \
+            --template-file cloudformation/lambda-functions.yaml \
+            --stack-name universal-informatics-lambda-production \
+            --parameter-overrides Environment=production
+      
+      - name: Deploy SageMaker notebook
+        run: |
+          aws cloudformation deploy \
+            --template-file cloudformation/sagemaker.yaml \
+            --stack-name universal-informatics-sagemaker-production \
+            --parameter-overrides Environment=production
+      
+      - name: Initialize SageMaker notebook with code
+        run: |
+          python scripts/initialize_sagemaker.py --environment production
+      
+      - name: Deploy to Amazon Braket
+        run: |
+          python scripts/configure_braket.py --environment production
+      
+      - name: Run smoke tests
+        run: |
+          python scripts/smoke_test.py --environment production
+
+# Reusable workflow for automated regression testing
+# This can be called on a schedule or manually
+  regression_tests:
+    name: Regression Testing
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install -r requirements-quantum.txt
+          pip install -r requirements-dev.txt
+      
+      - name: Download benchmark baseline
+        run: |
+          aws s3 cp s3://universal-informatics-benchmarks/baseline_benchmarks.json ./test_reports/
+      
+      - name: Run classical regression tests
+        run: |
+          python scripts/run_regression_tests.py --classical
+      
+      - name: Run quantum simulation regression tests
+        run: |
+          python scripts/run_regression_tests.py --quantum-sim
+      
+      - name: Compare with baseline
+        run: |
+          python scripts/compare_benchmarks.py \
+            --baseline ./test_reports/baseline_benchmarks.json \
+            --current ./test_reports/current_benchmarks.json
+      
+      - name: Archive regression test results
+        uses: actions/upload-artifact@v3
+        with:
+          name: regression-test-results
+          path: test_reports/regression_*.html
