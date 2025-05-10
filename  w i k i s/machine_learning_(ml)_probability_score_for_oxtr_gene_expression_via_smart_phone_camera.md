@@ -1,7 +1,7 @@
 
 ## Overview
 
-When we are happy, our faces glow. The science behind this is that oxytocin, and its gene, OXTR and its protein, OXTR, together subtly illuminate the face. We are able to detect atom level molecular signatures from 31 bands of light, via a smartphone camera, via a technology called hyperspectral imaging. This glow is called "autofluorescence", and rather than being just a generalised glow, it is a specific atomic molecular signature that is grounded truth via single cell RNA sequencing in a laboratory.
+When we are happy, our faces glow. The science behind this is oxytocin, and its gene, OXTR and its protein, OXTR, together subtly illuminate the face. We are able to detect atom level molecular signatures from 31 bands of light, via a smartphone camera, via a technology called hyperspectral imaging. This glow is called "autofluorescence", and rather than being just a generalised glow, it is a specific atomic molecular signature that is grounded truth via single cell RNA sequencing in a laboratory.
 
 The camera and algorithm use the exact motion of an electron, trained via electron motion data from MeV-UAE and CERN, to pick up the way electrons move on your cheeks.
 
