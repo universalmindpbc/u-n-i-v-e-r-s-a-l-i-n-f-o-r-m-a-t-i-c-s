@@ -7,7 +7,7 @@ The camera and algorithm use the exact motion of an electron, trained via electr
 
 The pipeline looks like this:
 
-human face >>> facial blood flows >>> autofluorescence >>> chromatin activity >>> protein activity >>> gene expression >>> electron motion
+**human face** >>> **facial blood flows** >>> **autofluorescence** >>> **chromatin activity** >>> **protein activity** >>> **gene expression ~ transcription (TFBS)** >>> **electron motion**
 
 Together as one.
 
@@ -23,21 +23,21 @@ How do we know if our AI is accurately detecting OXTR gene expression or just li
 
 1. We use three unique gene expression identifiers, together as one: 
    
-    a) location of gene expression, detected via electron motion
+    a) **location** of gene expression, detected via electron motion
     
-    b) quantity of gene expression, detected via electron motion
+    b) **quantity** of gene expression, detected via electron motion
     
-    c) quality of gene expression, detected via electron motion
+    c) **quality** of gene expression, detected via electron motion
 
 ---
 
-The AI then checks its work, at faster than light speed, by comparing its OXTR gene expression probability or "prediction", with many physiological health "vectors", via a "Stability Index", including:
+The AI then checks its work, at proverbially **faster than light speed** via 100X parallel processing of NIVIDA CUDA instances (see open-source codebase within our GitHub). While this algorithm is not inference based and our focus is FDA and TGA approval within SaMD (**Software As A Medical Device**), in every single measurement, for the lifecycle of our technology, the AI compares its OXTR gene expression probability, with many physiological health "vectors", via a "Stability Index", including:
 
-i) Autonomic Balance also known as Baroreflex. It is known within science that oxytocin is released when we are calm and connected, via autonomic balance of the nervous system.
+**i**) Autonomic Balance also known as **Baroreflex**. It is known within science that oxytocin is released when we are calm and connected, via autonomic balance of the nervous system.
 
-ii) Oxytocin Heart Rate Trace, a specific signature within Heart Rate, that is confirmed by science to signify release of the oxytocin neurotransmitter.
+**ii**) **Oxytocin Heart Rate Trace**, a specific signature within Heart Rate, that is confirmed by science to signify release of the oxytocin neurotransmitter.
 
-iii) When blood pressure, heart rate, heart rate variability and blood oxygenation, are all in sync, which we can detect via graphing technology called FFT, this means the entire system, or systems biology, is together as one - a confidence marker for OXTR gene expression.
+**iii**) When blood pressure (**BP**), heart rate (**HR**), heart rate variability (**HRV**) and blood oxygenation (**SpO2**), are all in sync via **HRV PSD**, which we detect via graphing technology called FFT, this means the entire system, or systems biology, is being modulated by a **Mayer Wave at 0.111hz** HRV PSD (**Power Spectral Density**) - a confidence marker for OXTR gene expression.
 
 ---
 
@@ -47,27 +47,38 @@ Once these six indices, across gene expression probability and physiological hea
 
 Bioinformatic analysis combines complex biology, primarily genomics, with complex computation, via mathematics and geometry, together as one.
 
-As an example, we cross reference a tetrahedron, a 3 dimensional equilateral triangle, with many thousands of papers from peer reviewed psychiatric genomics mental illness journals. The AI deduces in real time that, given the atomic activity is threefold, an electron, proton and neutron, completing a whole atom, that it will pursue tetrahedral structures for its quantum biological bioinformatics real time mental health research.
+------
 
-The AI, in real time, analyses for presence of the tetrahedron and other geometries, both via electron motion around the human's face, cross references against all the world's mental illness research, from a grounded mathematical and quantum first principles perspective, together as one.
+**Mental Health Genomics, Automated Research** >>>
 
-If the AI finds that both the human and a target mental illness have a high probability of scientific correlation or significance, then the AI grades the quality of research to ensure it is from the highest quality publications, combined with the highest quality research design, together as one.
+------
+  
+- **step one - mathematics bioinformatics exploratory research**: As an example, we cross reference a tetrahedron, a 3 dimensional equilateral triangle, with many thousands of papers from peer reviewed psychiatric genomics mental illness journals. The AI deduces in real time that, given the atomic activity is threefold, an electron, proton and neutron, completing a whole atom, that it will pursue tetrahedral structures for its quantum biological bioinformatics real time mental health research.
 
-Next the AI, high trust, high impact and high quality of the relevant research are confirmed, the BioMedical LLM next classifies the significance of the mathematical and geometric analysis. For instance,
+- **step two - mathematics geometric computational analysis**: The AI, in real time, analyses for presence of the tetrahedron and other geometries, both via electron motion around the human's face, cross references against all the world's mental illness research, from a grounded mathematical and quantum first principles perspective, together as one.
 
-If the mathematical sequence, algorithm and 3D geometry detected, are found primarily in the creation of cellular life = high weighted scientific significance score (WSS).
+- **step 3** **- research grading - phase alpha**: If the AI finds that both the human and a target mental illness have a high probability of scientific correlation or significance, then the AI grades the quality of research to ensure it is from the highest quality publications, combined with the highest quality research design, together as one.
+
+- **step 4 - research grading - phase beta**: Next the AI, high trust, high impact and high quality of the relevant research are confirmed, the BioMedical LLM next classifies the significance of the mathematical and geometric analysis. For instance,
+
+------
+###### - **4a**: If the mathematical sequence, algorithm and 3D geometry detected, are found primarily in the **creation of cellular life** = **high weighted scientific significance score (WSS)**.
 
 vs
 
-If the mathematical sequence, algorithm and 3D geometry detected, are found primarily in the support of cellular life = medium WSS.
+###### - **4b:** If the mathematical sequence, algorithm and 3D geometry detected, are found primarily in the **support of cellular life** = **medium WSS**.
 
 vs
 
-If the mathematical sequence, algorithm and 3D geometry detected, are found primarily in the creation of elemental life = low WSS.
+###### - **4c**: If the mathematical sequence, algorithm and 3D geometry detected, are found primarily in the **creation of elemental life** = low WSS.
 
-The AI runs the bioinformatic complex mathematical algorithmic search for six primary geometries found within all of quantum, atomic and genomic domains, all in real time, all within seconds.
+------
 
-The final result teaches the AI whether to use its research to evolve the OXTR gene expression algorithm, in real time, alternatively keep the algorithm as is, or, if ML confidence score is low, then ultimately adapt, modify and improve accuracy. The later may involve direct push messages to our laboratory partners at Garvan Institute Of Medical Research and University Of NSW Fabilab, together as one, for expedited further double blind scRNA and mRNA sequencing.
+- **step five - research grading phase gamma**: The AI runs the bioinformatic complex mathematical algorithmic search for six primary geometries found within all of quantum, atomic and genomic domains, all in real time, all within seconds.
+
+- **step 6 - machine learning confidence score and action:** The final result teaches the AI whether to use its research to evolve the OXTR gene expression algorithm, in real time, alternatively keep the algorithm as is, or, if ML confidence score is low, then ultimately adapt, modify and improve accuracy. The later may involve direct push messages to our laboratory partners at Garvan Institute Of Medical Research and University Of NSW Fabilab, together as one, for expedited further double blind scRNA and mRNA sequencing.
+
+- **step 7 - final vetting via automated drug discovery network**: The AI automatically pushes its results to multiple blockchains for immutable, secure, private record - for both patient health record, global open source collaborative research, and an automated drug discovery network, together as one. The later leverages existing automated "agentic" AI systems, including but not limited, a multi-LLM chain of Recursion LOWE and Phenom, Ginko BioWorks, InSilico Network and Pharma.ai, Valence Labs, Future House and more. 
 
 Over many thousands of people, every hour of every day, the AI continuously learns, while from the outset it is already trained on grounded truth DNA sequencing and electron motion data, together as one.
 
@@ -80,10 +91,19 @@ Namaste x
 
 What makes our approach unique in mental health genomics is our comprehensive analysis across multiple dimensions, together as one. Likely the first study of this kind, our WSS analysis utilizes:
 
-1D linear sequence analysis + 2D + grounded truth physical life ~ 3D atom structure, 3D cell structure, 3D DNA structure, 3D RNA structure, 3D gene structure, 3D chromatin structure, 3D protein structure, 3D transcription factors, 3D gene expression, 3D methylation, 3D autofluorescence, 3D mitosis, 3D holliday junction cruciform joint, 3D polymorphism, 3D single nucleotide polymorphism, 3D molecular docking, 3D molecular dynamics, 3D amber force fields, 3D protein folding, 3D structural function, 3D quantum coherence, 3D quantum tunnelling, 3D proton tunnelling, 3D quantum entanglement, 3D non-locality, 3D electron motion - spin/rotation/orbit, 3D proton motion - spin/rotation/orbit, 3D neutron motion - spin/rotation/orbit - together as as one.
+### **Real Time 42+ Gene Expression Vector Analysis**
+
+1D linear sequence analysis to 2D then that of grounded truth. ie. physical life ~ 3D atom structure, 3D cell structure, 3D DNA structure, 3D RNA structure, 3D gene structure, 3D chromatin structure, 3D protein structure, 3D transcription factors, 3D transcription factor binding sites (TFBS), 3D gene expression (mRNA, scRNA), 3D mRNA, 3D scRNA, 3D methylation, 3D DMR, 3D DMR binding sites, 3D CpG, 3D CpG binding sites, 3D autofluorescence, 3D mitosis, 3D Holliday Junction cruciform joint, 3D polymorphism, 3D single nucleotide polymorphism, 3D molecular docking, 3D molecular dynamics, 3D amber force fields, 3D protein folding, 3D structural function, 3D quantum coherence, 3D quantum tunnelling, 3D proton tunnelling, 3D quantum entanglement, 3D non-locality, 3D electron motion - spin/rotation/orbit, 3D proton motion - spin/rotation/orbit, 3D neutron motion - spin/rotation/orbit - together as as one.
 
 This approach transcends traditional linear analysis to create a systems biology 3D view of life in our research, expanding from 1D sequence analysis to 2D patterns and ultimately to grounded truth in physical life structures and mechanisms.
 
+___
+
+### **Parallel Processing Via NVIDIA CUDA ~ GRACE Tensor Kernels With AWS Lambda Caching**
+
+This complex realtime computation is made possible via a combination of NVIDIA CUDA parallel instances on NVIDIA H100 Grace Super-Clusters, combined with a complete cache of neurotransmitter based genes for all 42 vectors, via tensor kernels. This cache is hosted within AWS Lambda, saving people, researchers, device manufacturers and software developers both immense time and money, together as one. The full systems architecture is available for review, as open source code within our GitHub.
+
+___
 ## Research Quality Grading System
 
 Our system employs a unique grading system for trust level, impact factor, and scientific significance of research, together as one:
