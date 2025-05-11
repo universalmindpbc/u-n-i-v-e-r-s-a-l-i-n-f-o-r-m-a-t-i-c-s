@@ -15,6 +15,8 @@ Together as one.
 
 Rather than need to be constantly updating our algorithm by ongoing, expensive and invasive laboratory DNA tests with people, saliva, swabs and blood, we teach our AI how to self correct 24/7/365, housed within one NVIDIA GB200 Grace Super GPU, and a Llama 4 Scout BioMedical Super Agent, together as one.
 
+[ Redundancy GPU Cluster = 1 x GB200 Grace Contingent + 4 x NVIDIA H100 GPUs Contingent, together as one ]
+
 ---
 
 ## Validation Methodology
@@ -78,6 +80,10 @@ vs
 
 - **step 6 - machine learning confidence score and action:** The final result teaches the AI whether to use its research to evolve the OXTR gene expression algorithm, in real time, alternatively keep the algorithm as is, or, if ML confidence score is low, then ultimately adapt, modify and improve accuracy. The later may involve direct push messages to our laboratory partners at Garvan Institute Of Medical Research and University Of NSW Fabilab, together as one, for expedited further double blind scRNA and mRNA sequencing.
 
+[ confidence score > 5 = evolve
+
+*ie. the ML / AI's novel discovery is implemented into the system, within a sandbox for real time application via an In Silico RCT review board. Once fully vetted within this three phase clinical **InClinico AI** trial, it pushes to the [ I o H ] main-net* ]
+
 - **step 7 - final vetting via automated drug discovery network**: The AI automatically pushes its results to multiple blockchains for immutable, secure, private record - for both patient health record, global open source collaborative research, and an automated drug discovery network, together as one. The later leverages existing automated "agentic" AI systems, including but not limited, a multi-LLM chain of Recursion LOWE and Phenom, Ginko BioWorks, InSilico Network and Pharma.ai, Valence Labs, Future House and more. 
 
 Over many thousands of people, every hour of every day, the AI continuously learns, while from the outset it is already trained on grounded truth DNA sequencing and electron motion data, together as one.
@@ -99,6 +105,15 @@ What makes our approach unique in mental health genomics is our comprehensive an
 
 
 This approach transcends traditional linear analysis to create a systems biology 3D view of life in our research, expanding from 1D sequence analysis to 2D patterns and ultimately to grounded truth in physical life structures and mechanisms.
+
+Total compute for the above is sub 3 Seconds, based on the following innovative [ I o H ] software design:
+
+42 gene expression vectors (majority 3D) x 7 genes x 6KB Tensor Kernel Preset File Size
+[ all housed within AWS Lambda Cache ]
+
+= Faster Than Light Speed 
+
+(Highly Efficient Quantum Biology Bioinformatics While People Unlock Their iPhone Via Face )
 
 ___
 
@@ -369,9 +384,9 @@ You are the conductor.
 
 Namaste x
 
-![NIVIDIA AWS   I o H   Tensor Kernel](https://github.com/user-attachments/assets/59605f7d-7db0-4503-b13a-4e9ec5c550dd)
+![[NIVIDIA AWS [ I o H ] Tensor Kernel.jpeg]]
 
-![NVIDIA   I o H ](https://github.com/user-attachments/assets/1eccd573-2102-4b23-9e35-bfa4ae32c2d9)
+![[NVIDIA [ I o H ].jpeg]]
 
 Please Explore Our Universal Light Algorithm Next:
 
