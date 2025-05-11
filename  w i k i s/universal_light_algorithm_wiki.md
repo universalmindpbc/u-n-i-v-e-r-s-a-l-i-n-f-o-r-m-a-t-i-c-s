@@ -4,6 +4,7 @@
 
 This documentation outlines the integration of the Universal Light Algorithm (ULA) with the Universal Automated Drug Discovery Network's revenue sharing system. The ULA provides a sophisticated mathematical framework for analyzing OXTR gene expression through multi-modal analysis, enhancing the validation and revenue distribution components of the drug discovery network.
 
+
 ## Algorithm Technical Description
 
 ### OXTR Gene Expression Algorithm
@@ -179,3 +180,13 @@ This integration adds approximately 400 lines of code to the reporting_publishin
 - Validation improvements (TeLIS extensions)
 
 The code maintains backward compatibility with all existing functionality while adding significant mathematical depth to the validation and revenue sharing processes.
+
+
+________________
+
+GitHub Repo [ I o H ]
+
+**[Universal Light Algorithm - Check Out Our Open Source Software Code Here](https://github.com/universalmindpbc/u-n-i-v-e-r-s-a-l-i-n-f-o-r-m-a-t-i-c-s/blob/main/i%20n%20t%20e%20r%20n%20e%20t%20%20o%20f%20%20h%20a%20p%20p%20i%20n%20e%20s%20s/h%20i%20s%20t%20o%20r%20y%20%5B%20o%20l%20d%20e%20r%20%20m%20o%20d%20u%20l%20e%20s%20%5D/universal_light_algorithm_by_claude.py)**
+
+
+________________
