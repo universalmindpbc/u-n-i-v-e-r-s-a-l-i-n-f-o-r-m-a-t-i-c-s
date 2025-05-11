@@ -384,9 +384,9 @@ You are the conductor.
 
 Namaste x
 
-![[NIVIDIA AWS [ I o H ] Tensor Kernel.jpeg]]
+![NIVIDIA AWS   I o H   Tensor Kernel](https://github.com/user-attachments/assets/93be4b78-2992-47bc-b4a0-3e0e62d40fc0)
 
-![[NVIDIA [ I o H ].jpeg]]
+![NVIDIA   I o H ](https://github.com/user-attachments/assets/fabb93ef-3148-4449-ba5a-89861ebd2da5)
 
 Please Explore Our Universal Light Algorithm Next:
 
