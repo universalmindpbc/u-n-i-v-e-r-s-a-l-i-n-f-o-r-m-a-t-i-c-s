@@ -111,9 +111,9 @@ Total compute for the above is sub 3 Seconds, based on the following innovative 
 42 gene expression vectors (majority 3D) x 7 genes x 6KB Tensor Kernel Preset File Size
 [ all housed within AWS Lambda Cache ]
 
-= Faster Than Light Speed 
+= Faster Than Light Speed * 
 
-(Highly Efficient Quantum Biology Bioinformatics While People Unlock Their iPhone Via Face )
+( *Highly Efficient Quantum Biology Bioinformatics While People Unlock Their iPhone Via Face )
 
 ___
 
