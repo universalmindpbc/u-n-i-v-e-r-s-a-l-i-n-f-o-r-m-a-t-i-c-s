@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "at": "2026-10-25T02:00:36.568Z",
+  "process_audio_muted": true,
+  "initial_results_without_question": true,
+  "result_buttons_submit_nothing": true,
+  "focus_on_selected_result": true,
+  "source_order": {
+    "afterAsk": true,
+    "afterWorkflow": true,
+    "natureAfterFoundations": true,
+    "hypothesisBeforeService": true
+  },
+  "nature_label_and_escape": true,
+  "earlier_hardware_completed": true,
+  "real_openai_response": true,
+  "saved_study_reopened": true,
+  "layouts": [
+    {
+      "width": 390,
+      "scroll": 390
+    },
+    {
+      "width": 320,
+      "scroll": 320
+    }
+  ],
+  "errors": []
+}

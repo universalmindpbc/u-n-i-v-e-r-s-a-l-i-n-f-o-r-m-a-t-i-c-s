@@ -1,0 +1,238 @@
+{
+  "passed": true,
+  "checkedAt": "2026-10-21T06:46:58.056945+00:00",
+  "sourceCommit": "f3507f917c6dffc09454319e69124836feff109f",
+  "stagingHost": "https://staging.universalmind.tv/informatics/",
+  "changedAssetsVerified": 38,
+  "unchangedAtlasAssetsVerified": 5,
+  "results": [
+    {
+      "file": "Informatics/app.js",
+      "sha256": "98116dff0ed4d8a71509284c423fa4507b0ccc3e1f87b7f9414f8421facd6865",
+      "bytes": 14802
+    },
+    {
+      "file": "Informatics/index.html",
+      "sha256": "24cdb957220090a12d0c11aa0bf278d93163934fa861a99cb2a0a944978458a9",
+      "bytes": 23211
+    },
+    {
+      "file": "Informatics/library-data/archive-records.json",
+      "sha256": "a6c81a17ba16d3f02b3688ed19e9b4fdb71d305770f121ed9b7af00cc7460ace",
+      "bytes": 1419339
+    },
+    {
+      "file": "Informatics/library-data/figures/2d1e97a69066.jpg",
+      "sha256": "2d1e97a690668da58e82b93a9061c40db076bcabc7a2f3f418549102e2046268",
+      "bytes": 26801
+    },
+    {
+      "file": "Informatics/library-data/figures/2e23485c20ee.jpg",
+      "sha256": "2e23485c20ee21fdaad48f1be24271e942bb563202f404c05328e38da110ae93",
+      "bytes": 94505
+    },
+    {
+      "file": "Informatics/library-data/figures/36cc491c43ce.jpg",
+      "sha256": "36cc491c43ce7741034c7a664ab13e7066ffb1f01db632c8fb63444ff3ebbaf0",
+      "bytes": 14252
+    },
+    {
+      "file": "Informatics/library-data/figures/46f7634e8459.jpg",
+      "sha256": "46f7634e84594b3ae127e048edb6e67276dd346c1b8a2802803d48c9c7ccf0c2",
+      "bytes": 64862
+    },
+    {
+      "file": "Informatics/library-data/figures/47ffc4c3abbf.jpg",
+      "sha256": "47ffc4c3abbf42736c511d7997641c8cfbe950ec65b2ec45b2145fc4b551617b",
+      "bytes": 51819
+    },
+    {
+      "file": "Informatics/library-data/figures/51aace12beda.jpg",
+      "sha256": "51aace12bedaf0f2c31ea37ec833248b31a395d7398bfa5ea99ada6948501467",
+      "bytes": 165198
+    },
+    {
+      "file": "Informatics/library-data/figures/66691cb200fe.png",
+      "sha256": "66691cb200fe73689ba88c9b9835bf15a2528dac15460967dd4a6c243c5ec640",
+      "bytes": 24849
+    },
+    {
+      "file": "Informatics/library-data/figures/7854eca9c827.png",
+      "sha256": "7854eca9c827126096603ae0795928d5a52e5162f7bf56d21025b0ed1a8c2996",
+      "bytes": 175637
+    },
+    {
+      "file": "Informatics/library-data/figures/94076ff1f6d0.jpg",
+      "sha256": "94076ff1f6d05b37e8fd96db1bd05240736af4bc501292342df3b72d336af0d4",
+      "bytes": 56586
+    },
+    {
+      "file": "Informatics/library-data/figures/986d2fc1169d.jpg",
+      "sha256": "986d2fc1169dca760c40395fc075a076964c1d6d74f4a54ede1de6491d2a3aa1",
+      "bytes": 41420
+    },
+    {
+      "file": "Informatics/library-data/figures/9dbd228d8d75.jpg",
+      "sha256": "9dbd228d8d751906c4933d6dd623af2d13c3a9af26db381a40661d352b907ac4",
+      "bytes": 126020
+    },
+    {
+      "file": "Informatics/library-data/figures/a1e01b1dc2f0.jpg",
+      "sha256": "a1e01b1dc2f0964add29156d10b14c3a2445faf6171f13509ae141be9fac7a1d",
+      "bytes": 265697
+    },
+    {
+      "file": "Informatics/library-data/figures/a3e7168642e3.jpg",
+      "sha256": "a3e7168642e30bff8ecb5d14962bc5014c690c9dc46fdebf75c4ef2aa687c9ea",
+      "bytes": 181897
+    },
+    {
+      "file": "Informatics/library-data/figures/a5c985eed9b6.png",
+      "sha256": "a5c985eed9b6eef9d9591f0d209377ed9f79d6abc1093adf1af01b931ce9b84a",
+      "bytes": 67895
+    },
+    {
+      "file": "Informatics/library-data/figures/abb4e82f5fa6.jpg",
+      "sha256": "abb4e82f5fa6468d29c212f9560589b2f9d88f86fc7c27f5c57277e06225c8ec",
+      "bytes": 47536
+    },
+    {
+      "file": "Informatics/library-data/figures/b7e458d34b3b.jpg",
+      "sha256": "b7e458d34b3b80c7823d80484edb5784b0da881443c227360bf3ed155bbe2240",
+      "bytes": 151515
+    },
+    {
+      "file": "Informatics/library-data/figures/bc7cc70c465e.jpg",
+      "sha256": "bc7cc70c465ebe1a557bebe26b0e6f013df11a51f4ac918d2f9563fb9268d7c9",
+      "bytes": 82914
+    },
+    {
+      "file": "Informatics/library-data/figures/c1bea99e1d89.jpg",
+      "sha256": "c1bea99e1d89233a5dc1de0581adec194eae0184f0b75cddd70c44ac4bfc4d3e",
+      "bytes": 174397
+    },
+    {
+      "file": "Informatics/library-data/figures/cdec699932b9.jpg",
+      "sha256": "cdec699932b93270f7fc1f84007b7cdcae5f47e5c06ac6d9a518e54195467b72",
+      "bytes": 94991
+    },
+    {
+      "file": "Informatics/library-data/figures/cf5c37e03ed4.jpg",
+      "sha256": "cf5c37e03ed406fa8d6cf247b77191411823ef104641ab1d4078a8cd0a106ed1",
+      "bytes": 182406
+    },
+    {
+      "file": "Informatics/library-data/figures/d04185bab997.jpg",
+      "sha256": "d04185bab997209ba0d57f3a3477a99a0e88eea2518582dd0f8d6f93094adc2a",
+      "bytes": 132919
+    },
+    {
+      "file": "Informatics/library-data/figures/d279ce2c826d.jpg",
+      "sha256": "d279ce2c826decd250fc5aff080e5d798d70cdfda8fc8a3ea2933d95d628c275",
+      "bytes": 342411
+    },
+    {
+      "file": "Informatics/library-data/figures/ee107fa4e066.png",
+      "sha256": "ee107fa4e06670685a71b2b4c74704d4ecd4fd29a09cf6216d736016c991bd8e",
+      "bytes": 191818
+    },
+    {
+      "file": "Informatics/library-data/figures/f2aa73aa96f1.jpg",
+      "sha256": "f2aa73aa96f1d3c559b354e4043cb43cd25f05986554dd6802d0db84ac231f8d",
+      "bytes": 107457
+    },
+    {
+      "file": "Informatics/library-data/figures/fb9a8d9373aa.png",
+      "sha256": "fb9a8d9373aa1d2aa6776072aac78d4a1ab6ed58a2396847947f17d6e1719778",
+      "bytes": 2826662
+    },
+    {
+      "file": "Informatics/library-data/language-source.json",
+      "sha256": "39bdf14824ed7f41ffba818494d3cdee89aac17145fb394a2465d18b4cc37021",
+      "bytes": 130009
+    },
+    {
+      "file": "Informatics/library-data/library.json",
+      "sha256": "07455efb6272395f4861410c5a6ff4e3278bd0b213afb0efeee25faf32a086a1",
+      "bytes": 2943828
+    },
+    {
+      "file": "Informatics/library-data/search-log.json",
+      "sha256": "a17a6d5becabd009f4dae37addc335667a2273172306792407646c36fae734ec",
+      "bytes": 4766
+    },
+    {
+      "file": "Informatics/library-data/sound-source.json",
+      "sha256": "e7adb2ee44d4758656ca3c74d0a150bf3b81e75d159874cc7257aa096cdd75fe",
+      "bytes": 264386
+    },
+    {
+      "file": "Informatics/library-data/vision-source.json",
+      "sha256": "4e587a23ac97ae7b76307dfaf117c9ab026b7d022e2d7f158d4b4f710c3308cd",
+      "bytes": 29082
+    },
+    {
+      "file": "Informatics/library-launcher.css",
+      "sha256": "fd25155a4cdc1eb1183b0028e46c953a379912d02923981341f9ca79a9a538ed",
+      "bytes": 4630
+    },
+    {
+      "file": "Informatics/library-launcher.js",
+      "sha256": "e30972a1288175cffd2e179bb730d4f2d0b808959bbf601766d5face9599fa1a",
+      "bytes": 7775
+    },
+    {
+      "file": "Informatics/library.css",
+      "sha256": "66d3fd7c804f7cd1c457b3ba8e747f397f20c7f4551291b36b14ef981f98f64d",
+      "bytes": 9617
+    },
+    {
+      "file": "Informatics/library.html",
+      "sha256": "dc24e43a42e2d89d8f12c05bb216e4d3683fe4877ee77a39022329f1ca43c34b",
+      "bytes": 7283
+    },
+    {
+      "file": "Informatics/library.js",
+      "sha256": "3da737a1f1c7820d0e8cd78194b19950ca3ca185cba609befed52f423648b321",
+      "bytes": 18310
+    },
+    {
+      "file": "Informatics/research.js",
+      "sha256": "0a3a15fe61cf34e357541b677ec1d79585ecb3a2539ab65c34e0ef4a4319f97e",
+      "bytes": 21230
+    },
+    {
+      "file": "Informatics/research.html",
+      "sha256": "857d66bad95b9658de05bacc34b7082198a7d4603da6e61e8a0bd6596f3c0e35",
+      "bytes": 14606
+    },
+    {
+      "file": "Informatics/science.js",
+      "sha256": "29b1d571fd2b055785ef37e442c4c084de544ee3e96726a6462d576b74862b4c",
+      "bytes": 59967
+    },
+    {
+      "file": "Informatics/science-studies.js",
+      "sha256": "039949e3f67211f2f49228bc96f22d92780a970627fbf5fc0b8f46343cdb030d",
+      "bytes": 27508
+    },
+    {
+      "file": "Informatics/pilot-v1/index.json",
+      "sha256": "a4db55764d8505f49b5249a87e423e7e97a242cdf13502030269d4207a49b447",
+      "bytes": 215476
+    }
+  ],
+  "productionReadOnlyChecks": [
+    {
+      "file": "Informatics/index.html",
+      "matchesRecordedMain": true,
+      "sha256": "5f7a8dd07645016b365c84cc6153c1c7f8bfa798fad7c1647304e5141f1e838a"
+    },
+    {
+      "file": "Informatics/app.js",
+      "matchesRecordedMain": true,
+      "sha256": "a5f1e7bc2a21f36f57fc3e2e6524e40647f05f3129688e50ca0f98adcf2db52b"
+    }
+  ],
+  "productionReference": "636bfa9ae41efe036b2cccac0827c724edfde92b"
+}

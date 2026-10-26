@@ -1,0 +1,32 @@
+{
+  "schema": "universal-informatics/experiments/v1",
+  "experiments": [
+    {
+      "id": "oxtr-qrc-01-qualification",
+      "revision": "r1",
+      "title": "Do quantum responses generated from Fibonacci and M9 P24 representations improve our ability to predict transcription factor occupancy around OXTR?",
+      "json": "quantum/experiments/oxtr-qrc-01-qualification/r1/experiment.json",
+      "csv": "quantum/experiments/oxtr-qrc-01-qualification/r1/experiment.csv",
+      "json_sha256": "ea623488ca7bbd06b79a83cbace4b6f50260d820ea8e2ea6bb667a4753e1afd0",
+      "csv_sha256": "bd1ddb14d8e01190072efa8fe56af42bf7af175940e6abcf919574b4d8598ead",
+      "source_sha256": "9fe40670c064ca9f3d2bc76f6b73a99311421b4939a885a178124e1e71881544"
+    },
+    {
+      "id": "oxtr-agent-follow-through-pilot",
+      "revision": "r1",
+      "title": "Do regular Fibonacci sequences, M9 P24 including Alpha, Beta, Gamma and Epsilon, and Phi Ratio help predict transcription factor binding around OXTR?",
+      "json": "quantum/experiments/oxtr-agent-follow-through-pilot/r1/experiment.json",
+      "csv": "quantum/experiments/oxtr-agent-follow-through-pilot/r1/experiment.csv",
+      "json_sha256": "adc1914cac349c28afc5f4d8c72dbddf80f38063ab1bef3e93e21cea8d415876",
+      "csv_sha256": "15ff7773bc65652c10e3598e75c4da01415cc61c58adacdaa8b5b55c6da7bd84",
+      "source_sha256": {
+        "0": "7394b02ddb3664b93adb468a1c75f56c41adda0de9394c30f318ae17f59fd2d2",
+        "1": "ee5624447f4852f48ddf34c03a7d41c5ec7ebf9e86e7c0b93888eb6ad483ec68",
+        "2": "4005b5449ba07d9b58495f51143186e7e3959efd0ad670770fbddf57bf941e8f",
+        "3": "75d5ec59de19ef4832475f26d18060e722371b3adf6f846f7df988c9e324f4ad",
+        "4": "e2e8c1ba5faa8cda35dd35ff8efde4cbf4399660f7ab049662430d328e914670",
+        "recorded_quantum": "9fe40670c064ca9f3d2bc76f6b73a99311421b4939a885a178124e1e71881544"
+      }
+    }
+  ]
+}

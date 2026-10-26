@@ -1,0 +1,352 @@
+{
+  "started": "2026-10-25T21:12:55.348Z",
+  "processAudioDisabled": true,
+  "errors": [],
+  "publications": [
+    {
+      "id": "vision-photoreceptor-mosaic-1998",
+      "title": "The photoreceptor mosaic",
+      "doi": "10.1038/eye.1998.142"
+    },
+    {
+      "id": "vision-retinal-orientation-2011",
+      "title": "Retinal origin of orientation maps in visual cortex",
+      "doi": "10.1038/nn.2824"
+    },
+    {
+      "id": "vision-hexadirectional-2018",
+      "title": "Hexadirectional coding of visual space in human entorhinal cortex",
+      "doi": "10.1038/s41593-017-0050-8"
+    },
+    {
+      "id": "quantum-honeycomb-hastings-haah-2021",
+      "title": "Dynamically Generated Logical Qubits",
+      "doi": "10.22331/q-2021-10-19-564"
+    },
+    {
+      "id": "quantum-penrose-fibonacci-code-2024",
+      "title": "The Penrose Tiling is a Quantum Error-Correcting Code",
+      "doi": "10.48550/arXiv.2311.13040"
+    },
+    {
+      "id": "quantum-ibm-heavy-hex-2021",
+      "title": "The IBM Quantum heavy hex lattice",
+      "doi": null
+    },
+    {
+      "id": "quantum-heavy-hex-scaling-2026",
+      "title": "Surface code scaling on heavy-hex superconducting quantum processors",
+      "doi": "10.1038/s41467-026-76090-6"
+    },
+    {
+      "id": "quantum-kagome-edge-states-2026",
+      "title": "Direct Observation\nof the Zigzag Edge States of a\nSupramolecular Diatomic Kagome Lattice",
+      "doi": "10.1021/acs.nanolett.6c03195"
+    },
+    {
+      "id": "quantum-rydberg-local-error-correction-2024",
+      "title": "Enhancing detection of topological order by local error correction",
+      "doi": "10.1038/s41467-024-45584-6"
+    },
+    {
+      "id": "quantum-haah-fractal-code-2011",
+      "title": "Local stabilizer codes in three dimensions without string logical operators",
+      "doi": "10.1103/PhysRevA.83.042330"
+    }
+  ],
+  "memory": [
+    {
+      "query": "Hexadirectional coding of visual space in human entorhinal cortex; retinal photoreceptor mosaic and orientation maps",
+      "revisions": [
+        {
+          "id": "universal-mind-intent",
+          "revision": "r1"
+        },
+        {
+          "id": "research-directions",
+          "revision": "r2"
+        },
+        {
+          "id": "oxtr-qrc-01-qualification",
+          "revision": "r1"
+        },
+        {
+          "id": "oxtr-agent-follow-through-pilot",
+          "revision": "r1"
+        }
+      ],
+      "literature": [
+        {
+          "id": "vision-retinal-orientation-2011",
+          "title": "Retinal origin of orientation maps in visual cortex"
+        },
+        {
+          "id": "vision-hexadirectional-2018",
+          "title": "Hexadirectional coding of visual space in human entorhinal cortex"
+        },
+        {
+          "id": "vision-photoreceptor-mosaic-1998",
+          "title": "The photoreceptor mosaic"
+        },
+        {
+          "id": "pmid-32313029",
+          "title": "Quantitative cellular-resolution map of the oxytocin receptor in postnatally developing mouse brains"
+        }
+      ],
+      "stimulus": [
+        {
+          "id": "nature-fibonacci-s41586-022-04853-4",
+          "title": "Dynamical topological phase realized in a trapped-ion quantum simulator",
+          "doi": "10.1038/s41586-022-04853-4",
+          "summary": "A quasiperiodic Fibonacci drive creates a dynamical topological phase in a ten-qubit trapped-ion chain. Edge-qubit behaviour exhibits protection against specified control imperfections relative to a periodic-drive comparison.",
+          "limitation": "The result concerns a finite quantum simulator and particular dynamics. It does not demonstrate general-purpose fault tolerance; the present appraisal covers the abstract and accessible extended-data descriptions."
+        }
+      ]
+    },
+    {
+      "query": "The Penrose Tiling is a Quantum Error-Correcting Code, Fibonacci tilings and Dynamically Generated Logical Qubits",
+      "revisions": [
+        {
+          "id": "universal-mind-intent",
+          "revision": "r1"
+        },
+        {
+          "id": "research-directions",
+          "revision": "r2"
+        },
+        {
+          "id": "oxtr-qrc-01-qualification",
+          "revision": "r1"
+        },
+        {
+          "id": "oxtr-agent-follow-through-pilot",
+          "revision": "r1"
+        }
+      ],
+      "literature": [
+        {
+          "id": "quantum-honeycomb-hastings-haah-2021",
+          "title": "Dynamically Generated Logical Qubits"
+        },
+        {
+          "id": "quantum-penrose-fibonacci-code-2024",
+          "title": "The Penrose Tiling is a Quantum Error-Correcting Code"
+        },
+        {
+          "id": "quantum-haah-fractal-code-2011",
+          "title": "Local stabilizer codes in three dimensions without string logical operators"
+        },
+        {
+          "id": "nature-fibonacci-s41467-025-61493-8",
+          "title": "Realizing string-net condensation: Fibonacci anyon braiding for universal gates and sampling chromatic polynomials"
+        }
+      ],
+      "stimulus": [
+        {
+          "id": "nature-fibonacci-s41586-022-04853-4",
+          "title": "Dynamical topological phase realized in a trapped-ion quantum simulator",
+          "doi": "10.1038/s41586-022-04853-4",
+          "summary": "A quasiperiodic Fibonacci drive creates a dynamical topological phase in a ten-qubit trapped-ion chain. Edge-qubit behaviour exhibits protection against specified control imperfections relative to a periodic-drive comparison.",
+          "limitation": "The result concerns a finite quantum simulator and particular dynamics. It does not demonstrate general-purpose fault tolerance; the present appraisal covers the abstract and accessible extended-data descriptions."
+        }
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "question": "Using the papers in our repository, explain what Hexadirectional coding of visual space in human entorhinal cortex found, and what links to M9 P24 remain hypotheses. Cite the paper.",
+      "model": "gpt-6-astra",
+      "version": "research-20261026-geometry-v1",
+      "sources": [
+        {
+          "label": "S1",
+          "id": "vision-hexadirectional-2018",
+          "passageId": null,
+          "title": "Hexadirectional coding of visual space in human entorhinal cortex",
+          "authors": "Matthias Nau; Tobias Navarro Schröder; Jacob L. S. Bellmund; Christian F. Doeller",
+          "journal": "Nature Neuroscience",
+          "year": 2018,
+          "url": "https://www.nature.com/articles/s41593-017-0050-8",
+          "section": "Library record",
+          "kind": "approved-record",
+          "text": "Nau and colleagues found a sixfold directional pattern in human entorhinal-cortex activity during a visual tracking task. The result supports a grid-like representation of visual space and gives Vision Atlas a measured example of sixfold organisation in brain activity.",
+          "doi": "10.1038/s41593-017-0050-8",
+          "rights": null,
+          "sha256": null,
+          "retrievalLabel": "S10"
+        },
+        {
+          "label": "S2",
+          "id": "fibonacci-m9-p24",
+          "passageId": "fibonacci-m9-p24:summary:0",
+          "title": "Fibonacci M9P24",
+          "authors": "",
+          "journal": "Universal Informatics Atlas",
+          "url": "https://staging.universalmind.tv/informatics/?record=fibonacci-m9-p24&area=geometry",
+          "section": "summary",
+          "kind": "atlas",
+          "text": "{\"id\":\"fibonacci-m9-p24\",\"name\":\"Fibonacci M9P24\",\"dataset_version\":\"m1-m48-v1\",\"modulus\":9,\"pisano_period\":24,\"conventions\":{\"node_rule\":\"Native residues divisible by 3, including zero; preserves the approved M6/M9/M12 reference selection. Additional regular formations of all native values are catalogued separately.\",\"orientation\":\"clockwise from north\",\"clock_labels\":[24,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],\"index_origin\":0,\"zero_display\":9,\"m1_convention\":\"Modulo 1 has period 1 and residue 0.\",\"beta_circle_positions\":9,\"alpha_circle_positions\":24},\"geometry_summary\":{\"scope\":\"Shapes in the primary Gamma node set (native residues divisible by 3, including zero). All regular polygons on the period circle are catalogued separately with their native values; their existence alone is a property of the plotting grid.\",\"shapes\":[{\"name\":\"Equilateral triangle\",\"count\":2,\"status\":\"Present\",\"alpha_paths\":[[0,8,16,0],[4,12,20,4]],\"orientation\":\"North / south\",\"rotation_degrees\":null,\"rotations_degrees\":[0,60]},{\"name\":\"Hexagon\",\"count\":1,\"status\":\"Present\",\"alpha_paths\":[[0,4,8,12,16,20,0]],\"orientation\":\"North–south\",\"rotation_degrees\":0,\"rotations_degrees\":[0]},{\"name\":\"2D stellated octahedron\",\"count\":1,\"status\":\"Present\",\"alpha_paths\":[[0,8,16,0],[4,12,20,4]],\"orientation\":\"North–south\",\"rotation_degrees\":0,\"rotations_degrees\":[0]},{\"name\":\"Chevron\",\"count\":1,\"status\":\"Present\",\"alpha_paths\":[],\"orientation\":\"North–south\",\"rotation_degrees\":0,\"rotations_degrees\":[0]},{\"name\":\"Unicursal hexagram\",\"count\":1,\"status\":\"Present\",\"alpha_paths\":[[0,8,20,12,4,16,0],[4,12,0,16,8,20,4],[8,16,4,20,12,0,8]],\"orientation\":\"North–south\",\"rotation_degrees\":0,\"rotations_degrees\":[0]}],\"circle_role\":\"Pisano-period plotting framework\",\"epsilon_rule\":\"A regular six-node formation must support the reference unicursal route through only 3, 6 and 9, containing all three. Rotations and reflections of the route are tested; reversed or cyclically shifted traversals are deduplicated.\",\"rule_version\":\"native-pilot-v1\",\"other_orientations_status\":\"Absent\"},\"research\":{\"focus\":\"OXTR gene expression\",\"tiers\":[{\"name\":\"Creates cellular life\",\"range\":[8,10],\"evidence\":[],\"wss_score\":null},{\"name\":\"Supports cellular life\",\"range\":[5,7],\"evidence\":[],\"wss_score\":null},{\"name\":\"Creates elemental life\",\"range\":[1,4],\"evidence\":[],\"wss_score\":null}],\"background_literature\":{\"scope\":\"Shared background literature for the initial OXTR research programme across M1–M1001. Studies of related mechanisms in other systems provide context for investigation.\",\"register_id\":\"oxtr-phase1-literature\",\"relationship\":\"background_context\",\"register_file\":\"research-register.json\",\"publication_ids\":[\"E01\",\"E02\",\"E03\",\"E04\",\"E05\",\"E06\",\"E07\",\"E08\",\"E09\",\"E10\",\"E11\",\"E12\",\"E13\",\"E14\"],\"register_version\":\"2026-10-18.1\",\"hero_publication_ids\":[\"E03\",\"E06\",\"E08\",\"E11\"],\"modulus_relevance_status\":\"Not yet assessed\"},\"quantum_annealing_status\":\"Not yet performed\",\"biological_significance_status\":\"Not yet assessed\",\"statistical_significance_status\":\"Not yet assessed\"},\"epsilon_status\":\"Present\",\"verification\":{\"scope\":\"Native period, sequences, regular polygon index spacing and reference Epsilon routes; no physical or biological validation.\",\"python\":\"Passed\",\"wolfram\":\"Passed\",\"evidence\":\"wolfram-core-result.json\",\"wolfram_scope\":\"24 native periods, complete Alpha, primary Gamma indices, Beta interval sums/residues, primary regular triangles and hexagons. Extended catalogue, Chevron and Epsilon remain Python-checked only.\"},\"family\":{\"m9\":true,\"label\":\"M9 family\"},\"hypothesis\":\"The Alpha, Beta, Gamma and Epsilon sequences of M9P24 may offer useful descriptions of biological timing, cellular division and molecular organisation in the context of OXTR. Bioinformatics and in si",
+          "doi": null,
+          "rights": null,
+          "sha256": "55da8b5e3406368cece4476720ca9d9208627e30a827fca30533d3235d74d8ff",
+          "retrievalLabel": "S11"
+        },
+        {
+          "label": "S3",
+          "id": "fibonacci-m9-p24",
+          "passageId": "fibonacci-m9-p24:geometry_summary:0",
+          "title": "Fibonacci M9P24",
+          "authors": "",
+          "journal": "Universal Informatics Atlas",
+          "url": "https://staging.universalmind.tv/informatics/?record=fibonacci-m9-p24&area=geometry",
+          "section": "geometry_summary",
+          "kind": "atlas",
+          "text": "{\"scope\":\"Shapes in the primary Gamma node set (native residues divisible by 3, including zero). All regular polygons on the period circle are catalogued separately with their native values; their existence alone is a property of the plotting grid.\",\"shapes\":[{\"name\":\"Equilateral triangle\",\"count\":2,\"status\":\"Present\",\"alpha_paths\":[[0,8,16,0],[4,12,20,4]],\"orientation\":\"North / south\",\"rotation_degrees\":null,\"rotations_degrees\":[0,60]},{\"name\":\"Hexagon\",\"count\":1,\"status\":\"Present\",\"alpha_paths\":[[0,4,8,12,16,20,0]],\"orientation\":\"North–south\",\"rotation_degrees\":0,\"rotations_degrees\":[0]},{\"name\":\"2D stellated octahedron\",\"count\":1,\"status\":\"Present\",\"alpha_paths\":[[0,8,16,0],[4,12,20,4]],\"orientation\":\"North–south\",\"rotation_degrees\":0,\"rotations_degrees\":[0]},{\"name\":\"Chevron\",\"count\":1,\"status\":\"Present\",\"alpha_paths\":[],\"orientation\":\"North–south\",\"rotation_degrees\":0,\"rotations_degrees\":[0]},{\"name\":\"Unicursal hexagram\",\"count\":1,\"status\":\"Present\",\"alpha_paths\":[[0,8,20,12,4,16,0],[4,12,0,16,8,20,4],[8,16,4,20,12,0,8]],\"orientation\":\"North–south\",\"rotation_degrees\":0,\"rotations_degrees\":[0]}],\"circle_role\":\"Pisano-period plotting framework\",\"epsilon_rule\":\"A regular six-node formation must support the reference unicursal route through only 3, 6 and 9, containing all three. Rotations and reflections of the route are tested; reversed or cyclically shifted traversals are deduplicated.\",\"rule_version\":\"native-pilot-v1\",\"other_orientations_status\":\"Absent\"}",
+          "doi": null,
+          "rights": null,
+          "sha256": "55da8b5e3406368cece4476720ca9d9208627e30a827fca30533d3235d74d8ff",
+          "retrievalLabel": "S12"
+        },
+        {
+          "label": "S4",
+          "id": "vision-hexadirectional-2018",
+          "passageId": "vision-hexadirectional-2018:approved-record:7a818879f74f12e79725",
+          "title": "Hexadirectional coding of visual space in human entorhinal cortex",
+          "authors": "Matthias Nau; Tobias Navarro Schröder; Jacob L. S. Bellmund; Christian F. Doeller",
+          "journal": "Nature Neuroscience",
+          "year": 2018,
+          "url": "https://www.nature.com/articles/s41593-017-0050-8",
+          "section": "Verified geometry research summary",
+          "kind": "approved-record",
+          "text": "Hexadirectional coding of visual space in human entorhinal cortex\n\nNau and colleagues found a sixfold directional pattern in human entorhinal-cortex activity during a visual tracking task. The result supports a grid-like representation of visual space and gives Vision Atlas a measured example of sixfold organisation in brain activity.\n\nAn fMRI population signal is not a direct image of individual grid cells or proof of a tetrahedral eye mechanism. This study does not test Fibonacci sequences, EMDR outcomes, or quantum error correction.\n\n{\"evidenceType\":\"Human fMRI during controlled visual tracking\",\"evidenceClass\":\"human_neuroimaging\",\"measurement\":\"Sixfold rotational modulation of a population-level neural signal with gaze direction.\",\"relationshipNote\":\"Use explicit rotational-symmetry tests with competing periodicities and independent data, rather than judging a pattern by visual resemblance.\",\"clinicalEvidence\":false,\"reviewDepth\":\"Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.\",\"hypothesisBoundary\":\"Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism.\"}\n\n{\"category\":\"peer-reviewed\",\"peerReviewed\":true,\"basis\":\"Human fMRI during controlled visual tracking. This is not a clinical efficacy trial.\",\"sources\":[\"https://www.nature.com/articles/s41593-017-0050-8\",\"https://doi.org/10.1038/s41593-017-0050-8\",\"https://pubmed.ncbi.nlm.nih.gov/29311746/\"],\"reviewedAt\":\"2026-10-26\"}",
+          "doi": "10.1038/s41593-017-0050-8",
+          "rights": {
+            "basis": "Original curated summary and verified bibliographic metadata; no full article text reproduced.",
+            "reviewedAt": "2026-10-26"
+          },
+          "sha256": "7a818879f74f12e79725c35b0b72a11f8077ace75eed6f8d0d409f1067fa9b92",
+          "retrievalLabel": "S1"
+        }
+      ],
+      "answer": "UNIVERSAL ONE\nThe paper found a sixfold directional pattern in human entorhinal-cortex activity during controlled visual tracking. Nau and colleagues used fMRI: the population-level signal varied with gaze direction in a manner consistent with a grid-like representation of visual space. “Sixfold” describes rotational organisation—repetition across directions separated by 60°—not a 6 Hz brain rhythm. [1]\n\nThe important limit is the measurement: this was a population-level fMRI result, not direct imaging of individual grid cells. It supports grid-like visual-space coding, but does not establish a tetrahedral mechanism in the eye. It did not test Fibonacci sequences, EMDR outcomes or quantum error correction. [1]\n\nWhat connects it to M9 P24?\n\nThere is a genuine mathematical comparison, but no demonstrated biological mechanism linking them:\n\n- Established in the Atlas: M9 P24 is the Fibonacci modulo-9 pattern with a 24-step period. Its primary Gamma nodes lie at indices 0, 4, 8, 12, 16 and 20. Plotted around the period circle, these form a regular hexagon and two equilateral triangles. These are computed geometric properties. [2][3]\n- Established in the paper: entorhinal activity exhibits sixfold directional modulation during a visual task. [1]\n- Still hypothetical: that the brain implements M9 P24, that Alpha, Beta, Gamma or Epsilon explains the measured neural pattern, or that the shared symmetry reflects a shared physical mechanism. The repository explicitly classifies these connections as research hypotheses. [1]\n\nConsequently, the paper supplies an empirical example of sixfold organisation relevant to the Atlas—not validation of the Atlas’s biological interpretation. Visual resemblance alone cannot establish causation. A meaningful next investigation requires a specific M9-derived prediction, comparisons against competing rotational patterns, and testing on independent neural data. The repository identifies explicit symmetry testing, rather than resemblance, as the methodological connection. [1]\n\nPaper: Nau et al. (2018), “Hexadirectional coding of visual space in human entorhinal cortex.” *Nature Neuroscience*. DOI: [10.1038/s41593-017-0050-8](https://doi.org/10.1038/s41593-017-0050-8). [4]\n\n*Evidence limit:* the repository record provides a curated findings summary and bibliographic/abstract-level coverage, rather than sufficient detail here to report sample size or effect estimates. [1]\n4 sources\nRead aloud",
+      "http": 200
+    },
+    {
+      "question": "In our research repository, explain The Penrose Tiling is a Quantum Error-Correcting Code and its Fibonacci tiling variants. State its publication status and compare it with Dynamically Generated Logical Qubits. Cite both.",
+      "model": "gpt-6-astra",
+      "version": "research-20261026-geometry-v1",
+      "sources": [
+        {
+          "label": "S1",
+          "id": "quantum-penrose-fibonacci-code-2024",
+          "passageId": "quantum-penrose-fibonacci-code-2024:approved-record:eaa760cb2636c20077ea",
+          "title": "The Penrose Tiling is a Quantum Error-Correcting Code",
+          "authors": "Zhi Li; Latham Boyle",
+          "journal": "arXiv",
+          "year": 2024,
+          "url": "https://arxiv.org/abs/2311.13040v2",
+          "section": "Verified geometry research summary",
+          "kind": "approved-record",
+          "text": "The Penrose Tiling is a Quantum Error-Correcting Code\n\nLi and Boyle construct quantum error-correcting codes from Penrose tilings and variants based on Ammann–Beenker and Fibonacci tilings. Their construction connects nonperiodic geometric structure with the ability to recover information after local errors or erasures.\n\nThis is a mathematical construction in a preprint, not an experimental demonstration on Aquila. Its Fibonacci tilings are different from the Atlas M9 P24 sequences. A physical implementation and its resource requirements remain separate questions.\n\n{\"evidenceType\":\"Theoretical preprint; version 2\",\"evidenceClass\":\"quantum_error_correction_preprint\",\"measurement\":\"Quantum information stored in a tiling-based code with local indistinguishability and recoverability.\",\"relationshipNote\":\"Study the explicit Fibonacci-tiling code and compare its mathematical requirements with our sequence representations before proposing a hardware mapping.\",\"clinicalEvidence\":false,\"reviewDepth\":\"Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.\",\"hypothesisBoundary\":\"Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism.\"}\n\n{\"category\":\"preprint\",\"peerReviewed\":false,\"basis\":\"Theoretical preprint; version 2. This is not a clinical efficacy trial.\",\"sources\":[\"https://arxiv.org/abs/2311.13040v2\",\"https://doi.org/10.48550/arXiv.2311.13040\"],\"reviewedAt\":\"2026-10-26\"}",
+          "doi": "10.48550/arXiv.2311.13040",
+          "rights": {
+            "basis": "Original curated summary and verified bibliographic metadata; no full article text reproduced.",
+            "reviewedAt": "2026-10-26"
+          },
+          "sha256": "eaa760cb2636c20077eaa331b5d6c591576376d9db8226186f419806a1d83ee6",
+          "retrievalLabel": "S2"
+        },
+        {
+          "label": "S2",
+          "id": "quantum-honeycomb-hastings-haah-2021",
+          "passageId": "quantum-honeycomb-hastings-haah-2021:approved-record:a039c4b378cf9080e468",
+          "title": "Dynamically Generated Logical Qubits",
+          "authors": "Matthew B. Hastings; Jeongwan Haah",
+          "journal": "Quantum",
+          "year": 2021,
+          "url": "https://quantum-journal.org/papers/q-2021-10-19-564/",
+          "section": "Verified geometry research summary",
+          "kind": "approved-record",
+          "text": "Dynamically Generated Logical Qubits\n\nHastings and Haah construct a honeycomb code in which a repeating schedule of two-qubit measurements creates logical qubits. Information protection comes from the code and measurement sequence acting together on the lattice.\n\nThe paper does not show that a passive hexagon alone protects information. Implementing this code requires the specified measurements and decoding; the current Aquila workflow does not implement that procedure.\n\n{\"evidenceType\":\"Theoretical quantum error-correcting code\",\"evidenceClass\":\"quantum_error_correction_theory\",\"measurement\":\"Dynamically generated logical qubits through scheduled two-qubit Pauli measurements.\",\"relationshipNote\":\"Use the measurement schedule as a separate theoretical benchmark; distinguish logical error correction from longer physical-qubit coherence.\",\"clinicalEvidence\":false,\"reviewDepth\":\"Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.\",\"hypothesisBoundary\":\"Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism.\"}\n\n{\"category\":\"peer-reviewed\",\"peerReviewed\":true,\"basis\":\"Theoretical quantum error-correcting code. This is not a clinical efficacy trial.\",\"sources\":[\"https://quantum-journal.org/papers/q-2021-10-19-564/\",\"https://doi.org/10.22331/q-2021-10-19-564\"],\"reviewedAt\":\"2026-10-26\"}",
+          "doi": "10.22331/q-2021-10-19-564",
+          "rights": {
+            "basis": "Original curated summary and verified bibliographic metadata; no full article text reproduced.",
+            "reviewedAt": "2026-10-26"
+          },
+          "sha256": "a039c4b378cf9080e468e98298c0d82aeed3e2a513d6532ddac09feceb7a096a",
+          "retrievalLabel": "S3"
+        },
+        {
+          "label": "S3",
+          "id": "quantum-penrose-fibonacci-code-2024",
+          "passageId": null,
+          "title": "The Penrose Tiling is a Quantum Error-Correcting Code",
+          "authors": "Zhi Li; Latham Boyle",
+          "journal": "arXiv",
+          "year": 2024,
+          "url": "https://arxiv.org/abs/2311.13040v2",
+          "section": "Library record",
+          "kind": "approved-record",
+          "text": "Li and Boyle construct quantum error-correcting codes from Penrose tilings and variants based on Ammann–Beenker and Fibonacci tilings. Their construction connects nonperiodic geometric structure with the ability to recover information after local errors or erasures.",
+          "doi": "10.48550/arXiv.2311.13040",
+          "rights": null,
+          "sha256": null,
+          "retrievalLabel": "S11"
+        },
+        {
+          "label": "S4",
+          "id": "quantum-honeycomb-hastings-haah-2021",
+          "passageId": null,
+          "title": "Dynamically Generated Logical Qubits",
+          "authors": "Matthew B. Hastings; Jeongwan Haah",
+          "journal": "Quantum",
+          "year": 2021,
+          "url": "https://quantum-journal.org/papers/q-2021-10-19-564/",
+          "section": "Library record",
+          "kind": "approved-record",
+          "text": "Hastings and Haah construct a honeycomb code in which a repeating schedule of two-qubit measurements creates logical qubits. Information protection comes from the code and measurement sequence acting together on the lattice.",
+          "doi": "10.22331/q-2021-10-19-564",
+          "rights": null,
+          "sha256": null,
+          "retrievalLabel": "S12"
+        }
+      ],
+      "answer": "UNIVERSAL ONE\nThe repository distinguishes two theoretical routes to quantum error correction: nonperiodic tiling-based codes and a honeycomb code generated through repeated measurements. Their publication statuses differ. [1][2]\n\nThe Penrose Tiling is a Quantum Error-Correcting Code\n\nLi and Boyle construct quantum error-correcting codes from Penrose tilings, with variants based on Fibonacci and Ammann–Beenker tilings. The central connection is between nonperiodic geometry, *local indistinguishability*, and recovery after local errors or erasures. [3]\n\nIn plain language, local indistinguishability means that examining a limited region does not reveal which protected quantum information is stored. The information resides in the broader structure rather than a single local piece. The tiling-based construction makes this a mathematical error-correction property—not simply a claim that an attractive geometric pattern protects a device. [3]\n\nThe Fibonacci variants extend the construction to Fibonacci tilings; they are not the Atlas M9 P24 sequences. The approved summary establishes their inclusion, but no full text is indexed for this paper, so the repository does not support a detailed account here of their exact construction, finite-size parameters, or recovery procedure. Physical implementation and resource requirements remain separate questions. [3]\n\nRecorded publication status: arXiv theoretical preprint, version 2, recorded as 2024 and not peer-reviewed in the repository’s status review dated 26 October 2026. Reference: arXiv:2311.13040v2; DOI: 10.48550/arXiv.2311.13040. [1]\n\nComparison with Dynamically Generated Logical Qubits\n\nHastings and Haah’s Dynamically Generated Logical Qubits is recorded as a peer-reviewed theoretical paper, published in *Quantum* (2021), DOI: 10.22331/q-2021-10-19-564. Its honeycomb code generates logical qubits—protected units of quantum information—through a repeating schedule of two-qubit Pauli measurements. [2][4]\n\nThe key contrasts are:\n\n- Tiling construction: protection is tied to the mathematical structure of the nonperiodic tiling-based code and its local indistinguishability/recoverability properties. [3]\n- Honeycomb construction: protection depends on the lattice and the measurement sequence together, with the specified decoding procedure. A passive hexagon alone is not the mechanism. [4]\n- Evidence level: both are theoretical code constructions, not hardware demonstrations in these repository records; only the honeycomb paper is recorded as peer-reviewed. [1][2]\n\nFor our Atlas programme, both provide mathematical benchmarks—not validation of M9 P24, Alpha, Beta, Gamma, or Epsilon. The current Aquila workflow does not implement the honeycomb measurement-and-decoding procedure, and shared geometry does not establish shared error protection. [3][4]\n4 sources\nRead aloud",
+      "http": 200
+    }
+  ],
+  "inventory": {
+    "schemaVersion": "1.0",
+    "datasetVersion": "research-20261026-geometry-v1",
+    "counts": {
+      "publications": 821,
+      "atlas": 1001,
+      "full_texts": 149,
+      "public_full_texts": 146,
+      "m9_family": 111
+    },
+    "access": {
+      "records": "Public publication metadata, approved summaries and quotations; complete Atlas records and commentary.",
+      "passages": "CC BY and CC0 passages only, with source, attribution and licence. Other full texts remain outside public exports.",
+      "writing": false
+    },
+    "links": {
+      "publications": "https://informatics-universal-one-staging.universalmind.workers.dev/api/v1/publications",
+      "atlas": "https://informatics-universal-one-staging.universalmind.workers.dev/api/v1/atlas",
+      "openapi": "https://informatics-universal-one-staging.universalmind.workers.dev/api/v1/openapi.json",
+      "mcp": "https://informatics-universal-one-staging.universalmind.workers.dev/mcp",
+      "agentCard": "https://informatics-universal-one-staging.universalmind.workers.dev/.well-known/agent-card.json",
+      "guide": "https://staging.universalmind.tv/informatics/connect.html",
+      "quantum": "https://informatics-universal-one-staging.universalmind.workers.dev/api/v1/quantum/oxtr-qrc-01",
+      "completeDataset": "https://staging.universalmind.tv/informatics/exports/manifest.json"
+    }
+  },
+  "mcp": true,
+  "libraryDownloads": {
+    "jsonRecords": 821,
+    "newRecordsIncluded": 10,
+    "csvSaved": true
+  },
+  "passed": true,
+  "browserClosed": true
+}

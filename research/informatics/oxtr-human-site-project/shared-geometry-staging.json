@@ -1,0 +1,274 @@
+{
+  "verified_at": "2026-10-19T20:55:53.605284+00:00",
+  "source_commit": "82c2c688c0e864dd12d32fecc032d669ac994f47",
+  "proof_url": "https://staging.universalmind.tv/informatics/?atlas=1&record=fibonacci-m9-p24",
+  "deployment": "Existing deploy-panthur-staging.sh informatics; Deploy complete: informatics; 24 changed uploads",
+  "browser": {
+    "candidate": false,
+    "results": [
+      {
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "combinations": 36,
+        "source_counts": {
+          "studies": 2,
+          "encode": 255,
+          "jaspar": 9164
+        },
+        "retry": true,
+        "exports": [
+          "json",
+          "csv",
+          "svg",
+          "png"
+        ],
+        "keyboard": true,
+        "overflow": false,
+        "media_context_preserved": true,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "combinations": 36,
+        "source_counts": {
+          "studies": 2,
+          "encode": 255,
+          "jaspar": 9164
+        },
+        "retry": true,
+        "exports": [
+          "json",
+          "csv",
+          "svg",
+          "png"
+        ],
+        "keyboard": true,
+        "overflow": false,
+        "media_context_preserved": true,
+        "errors": []
+      }
+    ]
+  },
+  "catalogue_browser": {
+    "passed": true,
+    "candidate": false,
+    "processMuted": true,
+    "results": [
+      {
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "teachingGraphicLoaded": true,
+        "teachingZoomAndGlossary": true,
+        "nestedTeachingEscapeAndFocus": true,
+        "dataExplorer": true,
+        "originalEvidenceTypesRestored": true,
+        "all33FilterCombinations": true,
+        "selectedExportMatchesFilter": true,
+        "broaderDescriptionsSeparate": true,
+        "filters": true,
+        "retryAfterFailure": true,
+        "keyboardAndOutsideClose": true,
+        "escapeAndFocus": true,
+        "summaryAndSidebar": true,
+        "aboutNestedLightbox": true,
+        "fullscreenStatePreserved": true,
+        "mediaStatePreserved": true,
+        "downloadsMatched": true,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "teachingGraphicLoaded": true,
+        "teachingZoomAndGlossary": true,
+        "nestedTeachingEscapeAndFocus": true,
+        "dataExplorer": true,
+        "originalEvidenceTypesRestored": true,
+        "all33FilterCombinations": true,
+        "selectedExportMatchesFilter": true,
+        "broaderDescriptionsSeparate": true,
+        "filters": true,
+        "retryAfterFailure": true,
+        "keyboardAndOutsideClose": true,
+        "escapeAndFocus": true,
+        "summaryAndSidebar": true,
+        "aboutNestedLightbox": true,
+        "fullscreenStatePreserved": true,
+        "mediaStatePreserved": true,
+        "downloadsMatched": false,
+        "errors": []
+      }
+    ]
+  },
+  "http_assets": {
+    "source_commit": "82c2c688c0e864dd12d32fecc032d669ac994f47",
+    "verified_assets": 24,
+    "files": [
+      {
+        "file": "Informatics/genomics.html",
+        "bytes": 2244,
+        "sha256": "a65ce4f458cb8fabd909471e06db963f129d92b1ba32ca117ea0d3cd0e85eeef"
+      },
+      {
+        "file": "Informatics/index.html",
+        "bytes": 6375,
+        "sha256": "12a4256811314fc14e485af2e4d69ef008dd520b3242a56aa00e6cb8911d8ded"
+      },
+      {
+        "file": "Informatics/pilot-v1/csv-shared/dataset.csv",
+        "bytes": 557105,
+        "sha256": "5bdd13e7eb53050ffe45df7a3af832f9664199511028275c33f4e437364f80fa"
+      },
+      {
+        "file": "Informatics/pilot-v1/csv-shared/index.csv",
+        "bytes": 423273,
+        "sha256": "ef4a5de438bd645858b450cea93fb1f3178932dfc8cec2e75ba48fec71662f6f"
+      },
+      {
+        "file": "Informatics/pilot-v1/csv-shared/m1-m1001.csv",
+        "bytes": 557105,
+        "sha256": "5bdd13e7eb53050ffe45df7a3af832f9664199511028275c33f4e437364f80fa"
+      },
+      {
+        "file": "Informatics/pilot-v1/dataset.json",
+        "bytes": 267558,
+        "sha256": "4b8b8bb73738f8185ae72cc6b27847f55c71e1044ee72304869a4b1cb1051000"
+      },
+      {
+        "file": "Informatics/pilot-v1/index.json",
+        "bytes": 215470,
+        "sha256": "9f7d8ffc963637264f85a62f81d806c1673d0b325da991f28b48b72396259822"
+      },
+      {
+        "file": "Informatics/pilot-v1/m1-m1001-csv.zip",
+        "bytes": 86725241,
+        "sha256": "d1a3feade6650b0b078a3427bc17c3a48fbb6cd3015c37e22d0b8171861bf15b"
+      },
+      {
+        "file": "Informatics/pilot-v1/m1-m1001-data.zip",
+        "bytes": 59380442,
+        "sha256": "17aaedb27bf35a73c1cc17919e77b55c87e7b9109ee241e8761ea3ad7de65379"
+      },
+      {
+        "file": "Informatics/pilot-v1/m1-m1001.json",
+        "bytes": 267558,
+        "sha256": "4b8b8bb73738f8185ae72cc6b27847f55c71e1044ee72304869a4b1cb1051000"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/catalogue-fields.csv",
+        "bytes": 124656,
+        "sha256": "16e5de4ca59c62a86a16b02ac5bf82a19a2c4316516255952e4ec38ecb4be0c9"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/catalogue.json",
+        "bytes": 82659,
+        "sha256": "a673ef13a7b1f7ac0670c9755e2db5fe04558d5571685c27249b49f01247169e"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/manifest-fields.csv",
+        "bytes": 5590,
+        "sha256": "369a2c057280c7cb21be58d1b0305cc6e957e113b1882b40d4e98cd7450d1898"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/manifest.json",
+        "bytes": 5202,
+        "sha256": "bb09e8f12ce6a783ab39be28223ad5c03e32f63619f4db2a1bb96bac1beccc66"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/methods.md",
+        "bytes": 6454,
+        "sha256": "a0e4222a8b48d4693f4a868000a3a44a3426955c2f08b5e249dda682867185a5"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/overlay-v1-fields.csv",
+        "bytes": 2367,
+        "sha256": "80accc13a7556a0bfb6298dd6151a19a3079e87f4c4fe56b6c0eae0f6dfec809"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/overlay-v1.json",
+        "bytes": 2121,
+        "sha256": "f46d9ba81abafd93d754e7114edbc148ca1aef5865bbc6e41aa97d0c7c2fc078"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/file-manifest.csv",
+        "bytes": 7455,
+        "sha256": "d4142a0c20668b9af030b075124044106bb8a67d9fce21dc40483686c3f426ae"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/oxtr-tfbs-csv.zip",
+        "bytes": 12981067,
+        "sha256": "821c7b5359f40f0355c7fac5e0e66832be589abc0ffb5b0775afb2f23cf8dd07"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/oxtr-tfbs-json.zip",
+        "bytes": 15582487,
+        "sha256": "22a4ca0fb2f60b4cb5a91f76f4daaea9830027c6c8ae75a1f3a558ed313df00f"
+      },
+      {
+        "file": "Informatics/research.html",
+        "bytes": 14526,
+        "sha256": "fc0e452c154e96f99660449ec3030b3a7f485d99dbc047a35c9ebe726011f2f9"
+      },
+      {
+        "file": "Informatics/science.css",
+        "bytes": 27441,
+        "sha256": "a9d54f769ae90219f1933483f2b8ec8b4d5a567c8b05f19d68899930d1eeafa2"
+      },
+      {
+        "file": "Informatics/science.js",
+        "bytes": 49045,
+        "sha256": "afb97ab059c097fce75c7151d3ad458105b17d411faed56af64cc0035327fbf2"
+      },
+      {
+        "file": "Informatics/tfbs-geometry.js",
+        "bytes": 33437,
+        "sha256": "624065032575d3ae9cd7e32f6c6f57ef3404582e0b1b31b5d85d37718c0f6ce2"
+      }
+    ]
+  },
+  "complete_atlas_download_urls": [
+    {
+      "url": "https://staging.universalmind.tv/informatics/pilot-v1/m1-m1001-data.zip?v=oxtr-shared-v1",
+      "sha256": "17aaedb27bf35a73c1cc17919e77b55c87e7b9109ee241e8761ea3ad7de65379",
+      "bytes": 59380442
+    },
+    {
+      "url": "https://staging.universalmind.tv/informatics/pilot-v1/m1-m1001-csv.zip?v=oxtr-shared-v1",
+      "sha256": "d1a3feade6650b0b078a3427bc17c3a48fbb6cd3015c37e22d0b8171861bf15b",
+      "bytes": 86725241
+    }
+  ],
+  "arithmetic_checks": {
+    "intervals": 9421,
+    "coordinate_offsets": 39248,
+    "javascript_python_saved_wolfram_parity": true,
+    "native_overlay_angles": true,
+    "proportional_dot_area": true
+  },
+  "catalogue_checks": {
+    "source_observations_unchanged": 218192,
+    "mathematical_records_unchanged": 1001,
+    "archives_verified": 4,
+    "literature_records": 43,
+    "research_register_publications": 14
+  },
+  "notion": {
+    "pages_updated_and_fetched": [
+      "3fd7b9c9-9c56-815a-8b84-e6839dc1d3ed",
+      "3fd7b9c9-9c56-8123-9265-feb88ed38d68"
+    ],
+    "shared_graph_rules_and_versioned_links_verified": true
+  },
+  "cache_fix": "Actual download-button verification found cached older archives. Versioned catalogue, experiment, iframe and bundle URLs were refreshed; actual download buttons and both full-Atlas bundle URLs now match committed files.",
+  "production_modified": false,
+  "production_main_unchanged": "a0ced3b0adc553d3786441dc293fb3f700f22734"
+}

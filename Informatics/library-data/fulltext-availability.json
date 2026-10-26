@@ -1,0 +1,3068 @@
+{
+  "version": "2026-10-24",
+  "records": {
+    "portal-1542d1de36c9": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10100089/fullTextXML",
+      "pmcid": "PMC10100089",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2023 Farrell, Moran, Zat, Miller, Knibbs, Papanikolopoulos, Prattos, McGowan, McLaughlin, Barron, Mattheß and Kiernan. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "aa602220570da530fa7f5dafa49812787b00fea733143c9f868de542f664f53d",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-37764116": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10536120/fullTextXML",
+      "pmcid": "PMC10536120",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© 2023 by the authors. 2023 https://creativecommons.org/licenses/by/4.0/ Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ )."
+        ]
+      },
+      "sha256": "b76c759b0127ed5e6739b83925bb6bf701bdae8923a99d30dd8f6ee4c1721bdb",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-38040763": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10692168/fullTextXML",
+      "pmcid": "PMC10692168",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2023 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "1e44fc3f1b1aac2873315f6cbc02823f7163fb00184f6f62357ff4c3b7bbf3ae",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-38049408": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10695969.1/PMC10695969.1.xml?md5=e94b4572ca3c57c9583d6554defb0ab6",
+      "pmcid": "PMC10695969",
+      "rights": {
+        "license": "CC BY",
+        "use": "Attribution-preserving reuse",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© The Author(s) 2023 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "9a24906b9a7709aaf6d80e9bd523050f7902d47fbbcb4b717b4cc7b5671d7d0e",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-38250261": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10799678/fullTextXML",
+      "pmcid": "PMC10799678",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "Copyright © 2024 Kaptan, Kaya and Akan. 2024 Kaptan, Kaya and Akan https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "a9779bfa1be26a98446d84c498fa608212aa3e3e34d0330c7a92ec93b81f7672",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-38327501": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10847595/fullTextXML",
+      "pmcid": "PMC10847595",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "Copyright © 2024 Kaplan, Somohano, Zaccari and O’Neil. 2024 Kaplan, Somohano, Zaccari and O’Neil https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "2844b88a8a2bc2220106a6286b702038bf4e07d5363deccb6a07dbf7d8f6061d",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-38418876": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10917684/fullTextXML",
+      "pmcid": "PMC10917684",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2024 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "eabab369067eb27be4838b6ed7c6d34e294321c752425b0ad0da05c3ce1f8c4b",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-39060246": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11282249/fullTextXML",
+      "pmcid": "PMC11282249",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2024 2024 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "789b9f25b939251e36260059985a3fbb40958fc79982de34d1e908ac81818a69",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-39103336": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11300858/fullTextXML",
+      "pmcid": "PMC11300858",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2024 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "686a93c92e6b55279a3d0c352166171e36bed7e3e257a64ced8b990a274fcf07",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-37938765": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11371636.1/PMC11371636.1.xml?md5=9d318f7e60b1a78c08593af6d96074de",
+      "pmcid": "PMC11371636",
+      "rights": {
+        "license": "CC BY",
+        "use": "Attribution-preserving reuse",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© The Author(s) 2023 2023 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "f30f7109e8d32ce5d2a7a0124392f7d0f3f65a5eea10e35a6e80695e36c711e3",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-39295112": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11410872/fullTextXML",
+      "pmcid": "PMC11410872",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© 2024 The Author(s). Brain and Behavior published by Wiley Periodicals LLC. This is an open access article under the terms of the http://creativecommons.org/licenses/by/4.0/ License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited."
+        ]
+      },
+      "sha256": "f853cc1c29d1e3746b5ffe9b1ca6846c33e61b9110f6c9f6680fce0750489d82",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-38862815": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11420060.1/PMC11420060.1.xml?md5=60b1c0cd989e94980c56896eb1008c49",
+      "pmcid": "PMC11420060",
+      "rights": {
+        "license": "CC BY",
+        "use": "Attribution-preserving reuse",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© The Author(s) 2024, corrected publication 2024 2024 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "9c11ee9e0e47fedb348a5751a61e036f8a95d49605e5c16ac6397363ee72197e",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-39731040": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11673372/fullTextXML",
+      "pmcid": "PMC11673372",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2024 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "35de400dfe3f7f7c8f4b0e6287bdf1b3bb15c12051a264b7f25df7743e1dd753",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-39680432": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11686021/fullTextXML",
+      "pmcid": "PMC11686021",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "©Jayaram Thimmapuram, Kamlesh D Patel, Deepti Bhatt, Ajay Chauhan, Divya Madhusudhan, Kashyap K Bhatt, Snehal Deshpande, Urvi Budhbhatti, Chaitanya Joshi. Originally published in JMIR Bioinformatics and Biotechnology (https://bioinform.jmir.org), 16.12.2024. This is an open-access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in JMIR Bioinformatics and Biotechnology, is properly cited. The complete bibliographic information, a link to the original publication on https://bioinform.jmir.org/ , as well as this copyright and license information must be included."
+        ]
+      },
+      "sha256": "ceff6e014ba10f04ef3610e539a9a0b459fba329e4cdb352d8da77b0eb44c7ab",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-39313675": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11735929.1/PMC11735929.1.xml?md5=6c8d1a14bb7479195b061fe028fabc88",
+      "pmcid": "PMC11735929",
+      "rights": {
+        "license": "CC BY",
+        "use": "Attribution-preserving reuse",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© This is a U.S. Government work and not under copyright protection in the US; foreign copyright protection may apply 2024 2024 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "6e831619d1389d8d4d3f6b8c93c3119b3981e59e1fd377c9ba97ec802722b424",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-40379363": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12078190/fullTextXML",
+      "pmcid": "PMC12078190",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© 2025 The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 license This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/)."
+        ]
+      },
+      "sha256": "14d5527530e20769c785745db9f9c70beab9456939512aa44000cd53b09d44bb",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-40417270": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12101063/fullTextXML",
+      "pmcid": "PMC12101063",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "Copyright © 2025 Yasar, Gundogmus, Kubilay, Alban Tunca, Uygun, Zat Çiftçi and Kavakcı 2025 Yasar, Gundogmus, Kubilay, Alban Tunca, Uygun, Zat Çiftçi and Kavakcı https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "55bebaf97b15f1bc6c2b2e3f9f2ecba02769316aa8e3dc6391a294fd6db4dd8c",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-40281224": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12436192/fullTextXML",
+      "pmcid": "PMC12436192",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2025 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "752e87f16baee8dedbc72026401a108848fa79881020c83a7557b89b4e6ae110",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-41020112": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12463968/fullTextXML",
+      "pmcid": "PMC12463968",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "Copyright © 2025 Denninger, Joss, Romero, Khalsa, Hoge, Bhasin, Lazar, Dusek, Macklin, Libermann, Fricchione and Benson. 2025 Denninger, Joss, Romero, Khalsa, Hoge, Bhasin, Lazar, Dusek, Macklin, Libermann, Fricchione and Benson https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "4b125e42c079ffb3fd100b85ba769eec35809caaeb1e302f3976fbbc456cc78d",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-41064114": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12501983/fullTextXML",
+      "pmcid": "PMC12501983",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2025 Gómez-Carballa, Navarro, Mallah, Bello, Pischedda, Viz-Lasheras, Currás, Ferreirós-Vidal, Mallah, Montoto-Louzao, Camino-Mera, Castelo-Martínez, Rey-Vázquez, Redondo, Dacosta-Urbieta, Rivero-Calle, Rodríguez-Tenreiro, Martinón-Torres and Salas. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "5dcfb8d4def74b4efc467bb2b3ce14d766a614477da5676a4f9ade64f16f4cb2",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-41340540": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12676259/fullTextXML",
+      "pmcid": "PMC12676259",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© 2025 The Author(s). Clinical Psychology & Psychotherapy published by John Wiley & Sons Ltd. This is an open access article under the terms of the http://creativecommons.org/licenses/by/4.0/ License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited."
+        ]
+      },
+      "sha256": "c13d7556afb130591fd381dfb662dd9d0c094626204cf8e7f914acd713357017",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-41367385": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12682756/fullTextXML",
+      "pmcid": "PMC12682756",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "Copyright © 2025 Cavenaghi, Mallah, Navarro, Martinón-Torres, Gómez-Carballa and Salas. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY) . The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "1eff8daf8d50e7b8b828fe7cbcd62d9e8862d9acd9329b8571a78c6ef1b202cb",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-42254728": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13236641/fullTextXML",
+      "pmcid": "PMC13236641",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "Copyright © 2026 Çınaroğlu, Yılmazer, Ülker and Sayar. 2026 Çınaroğlu, Yılmazer, Ülker and Sayar https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY) . The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "e5b9b1402b5048d83a2fa0784301ef92f6c3256e985b30cce63d33615921ac19",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-42339887": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13313043/fullTextXML",
+      "pmcid": "PMC13313043",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright 2026 The Authors This work is licensed under a Creative Commons Attribution 4.0 International License."
+        ]
+      },
+      "sha256": "1518f2652ac17b6afcccad429f6dc89f3b46bef8e72956c20c4123aec7fd25ac",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-42324567": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13576352/fullTextXML",
+      "pmcid": "PMC13576352",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2026 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "7c7c28bc6c662b6c413d47ad6274ebbd131671edadc6c5892222719a28f40746",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-42881739": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13664754/fullTextXML",
+      "pmcid": "PMC13664754",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© 2026 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ."
+        ]
+      },
+      "sha256": "645631db28aa211bddd025eb35f2cedc37b903ef618c3baaf6ad74c59cd6816f",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-17987115": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2040517/fullTextXML",
+      "pmcid": "PMC2040517",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "Zak et al. 2007 https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited."
+        ]
+      },
+      "sha256": "ff683a7987a9983190a735ebf7f26bab8cb32780383b5c156a189204fc04955e",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-17854483": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2375027/fullTextXML",
+      "pmcid": "PMC2375027",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/2.0",
+        "statement": [
+          "Copyright © 2007 Cole et al.; licensee BioMed Central Ltd. This is an open access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/2.0 ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited."
+        ]
+      },
+      "sha256": "788cadec25346eb712f79068dd87f6df1ebaf08dd3ae101024fe585350e15af7",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-18596974": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2432467/fullTextXML",
+      "pmcid": "PMC2432467",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Dusek et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited."
+        ]
+      },
+      "sha256": "54f7b170ec448a7e23ecbd1952187560b0dc59d33e59e55e1b8f53b498b0ed61",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-19696930": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2725302/fullTextXML",
+      "pmcid": "PMC2725302",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Cho, Strafella. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited."
+        ]
+      },
+      "sha256": "bf0fb5d146a5d7982f75436155f5bdc2fb70bfe28c0fcf85b20de9efa684288c",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-19646284": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2729076/fullTextXML",
+      "pmcid": "PMC2729076",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/2.0",
+        "statement": [
+          "Copyright © 2009 Hart et al; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/2.0 ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited."
+        ]
+      },
+      "sha256": "2c81150789fba03edcc1086255d25ffb5db36e42a9cc3050ace4333971e5662a",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-20193089": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2836997/fullTextXML",
+      "pmcid": "PMC2836997",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/2.0",
+        "statement": [
+          "Copyright ©2010 Telles et al; licensee BioMed Central Ltd. 2010 Telles et al; licensee BioMed Central Ltd. https://creativecommons.org/licenses/by/2.0/ This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/2.0 ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited."
+        ]
+      },
+      "sha256": "32a6424fb156060d8748728c0676b62dde6d71a1989cff82ac837c5fc1b8151d",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-22146674": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3231939/fullTextXML",
+      "pmcid": "PMC3231939",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/2.0",
+        "statement": [
+          "Copyright ©2011 Ito et al; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/2.0 ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited."
+        ]
+      },
+      "sha256": "b9a765791463dd5ba1dabe085d24c39267038dac28544006dd382f223aaf1b0e",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-22719790": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3375016/fullTextXML",
+      "pmcid": "PMC3375016",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/3.0/",
+        "statement": [
+          "Copyright © 2012 Hua Ren et al. 2012 https://creativecommons.org/licenses/by/3.0/ This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited."
+        ]
+      },
+      "sha256": "1846710d2ab65a5b0010627723fdabcf52602e52760ea58cffcb0d3638ea8ce7",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-22937145": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3429409/fullTextXML",
+      "pmcid": "PMC3429409",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© 2012 Kemp et al 2012 Kemp et al https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited."
+        ]
+      },
+      "sha256": "5c802f38742f3861af06606355e842aae9903bd8f3d6f43f2ed31a16d6c5e902",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-23613970": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3629142/fullTextXML",
+      "pmcid": "PMC3629142",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© 2013 Qu et al 2013 Qu et al https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited."
+        ]
+      },
+      "sha256": "a21070fe9b89d42e328e8c6961076ceafd4500528c68738be384f17a8540cc51",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-23615206": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3636326/fullTextXML",
+      "pmcid": "PMC3636326",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/2.0/",
+        "statement": [
+          "©S Anne Moorhead, Diane E. Hazlett, Laura Harrison, Jennifer K Carroll, Anthea Irwin, Ciska Hoving. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 23.04.2013. 2013 https://creativecommons.org/licenses/by/2.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/2.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in the Journal of Medical Internet Research, is properly cited. The complete bibliographic information, a link to the original publication on http://www.jmir.org/, as well as this copyright and license information must be included."
+        ]
+      },
+      "sha256": "0b0f6391f0f0514b0dcea5300fc7eadb5355a1a89fd21c04797f346a2baa5dfc",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-23574691": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3648394/fullTextXML",
+      "pmcid": "PMC3648394",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/2.0",
+        "statement": [
+          "Copyright © 2013 Cheema et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/2.0 ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited."
+        ]
+      },
+      "sha256": "6bb7eb03f1ff939c51fc66ab1bf748b92daf34dedca4528676e00f4a9cb8b7ae",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-23702050": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3667059/fullTextXML",
+      "pmcid": "PMC3667059",
+      "rights": {
+        "license": "http://www.creativecommons.org/licenses/by/2.0",
+        "statement": [
+          "Copyright © 2013 de Bont et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( http://www.creativecommons.org/licenses/by/2.0 ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited."
+        ]
+      },
+      "sha256": "7afe6335c637a70551cd728ebb7c94b8fa78e4a7ffda5e0256444d0c0a2e3547",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-23742229": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3680337/fullTextXML",
+      "pmcid": "PMC3680337",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/2.0",
+        "statement": [
+          "Copyright © 2013 Ghanizadeh and Berk; licensee BioMed Central Ltd. 2013 Ghanizadeh and Berk; licensee BioMed Central Ltd. https://creativecommons.org/licenses/by/2.0/ This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/2.0 ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited."
+        ]
+      },
+      "sha256": "84bff9276adb4e4ca077b20013e1908774f9f4a41492536b706ffc4bba0b550b",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-23847555": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3705176/fullTextXML",
+      "pmcid": "PMC3705176",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2013 Vickhoff, Malmgren, Åström, Nyberg, Ekström, Engwall, Snygg, Nilsson and Jörnsten. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in other forums, provided the original authors and source are credited and subject to any copyright notices concerning any third-party graphics etc."
+        ]
+      },
+      "sha256": "cb5e0a2dd65d84630f44d9bdc483abddb358c52ba5b31f76e0400034379f6071",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-23914165": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3728977/fullTextXML",
+      "pmcid": "PMC3728977",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2013 Kim, Lee, Kim, Whang and Kang. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "7e5e39e05b83c8e237ad69b8481f14c2827db5ea9574c8dd0c21d564c20efd70",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-24001876": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3786002/fullTextXML",
+      "pmcid": "PMC3786002",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/2.0/",
+        "statement": [
+          "©Lori Ann Post, Federico E Vaca, Kelly M. Doran, Cali Luco, Matthew Naftilan, James Dziura, Cynthia Brandt, Steven Bernstein, Liudvikas Jagminas, Gail D'Onofrio. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 03.09.2013. This is an open-access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/2.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in the Journal of Medical Internet Research, is properly cited. The complete bibliographic information, a link to the original publication on http://www.jmir.org/, as well as this copyright and license information must be included."
+        ]
+      },
+      "sha256": "16346504da69dfd1a8bdaab03d3e8978c8fe4aeac2e706d0480e1a56e6fd7ba1",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-24137142": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3797461/fullTextXML",
+      "pmcid": "PMC3797461",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2013 Barrett, Ashley, Strait and Kraus. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "cf8326272be756c70e8f8020659e4f723908a27dde877d81e755cef3a5c5d0e3",
+      "checkedAt": "2026-10-24"
+    },
+    "src-804727a0fe5d": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3806432/fullTextXML",
+      "pmcid": "PMC3806432",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/2.0/",
+        "statement": [
+          "©Sungkyu Park, Sang Won Lee, Jinah Kwak, Meeyoung Cha, Bumseok Jeong. Originally published in the Journal of Medical Internet Research (http://www.jmir.org), 01.10.2013. This is an open-access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/2.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in the Journal of Medical Internet Research, is properly cited. The complete bibliographic information, a link to the original publication on http://www.jmir.org/, as well as this copyright and license information must be included."
+        ]
+      },
+      "sha256": "7154c173cc898c9fe7139a9f1ffd2cfd67c37eee592f932185f3181552656d5f",
+      "checkedAt": "2026-10-24"
+    },
+    "src-c1a1df977433": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3951248/fullTextXML",
+      "pmcid": "PMC3951248",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© 2014 Coviello et al 2014 Coviello et al https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited."
+        ]
+      },
+      "sha256": "ff2af31f6df0b1f495ae3ec752e152777cb6c115d9399424217ce06109b5f849",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-24883104": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4039650/fullTextXML",
+      "pmcid": "PMC4039650",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/2.0",
+        "statement": [
+          "Copyright © 2014 da Silva et al.; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/2.0 ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited."
+        ]
+      },
+      "sha256": "54c79b6158b10b06d6d10eab2dc6b931b4e54613b3095e4b96c5ff0e4f1292ae",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-25071612": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4092363/fullTextXML",
+      "pmcid": "PMC4092363",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2014 Chalmers, Quintana, Abbott and Kemp. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "7bdde754c08cf7ee1737a413ca9f5360e8ad0dd683eb20921446d5b3f7cc81d2",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-25101684": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4125321/fullTextXML",
+      "pmcid": "PMC4125321",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "© 2014 Chen et al This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited."
+        ]
+      },
+      "sha256": "920217b536c2a7b89fb0c356d47c507fe752c1def57fe9ec7567d7240bf8267a",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-25324805": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4179700/fullTextXML",
+      "pmcid": "PMC4179700",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2014 Tarr, Launay and Dunbar. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "898fd4093fdfdc74a8ecc325590bc4ceb5e661778789830bb6c2ac468e45de90",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-25324790": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4179748/fullTextXML",
+      "pmcid": "PMC4179748",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "Copyright © 2014 Shaffer, McCraty and Zerr. 2014 https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "fee2c43af13f4bf1f2c749cba4925e787c5dc4fed484f0d2b19fc140cd141e02",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-25333470": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4198188/fullTextXML",
+      "pmcid": "PMC4198188",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "© 2014 Naslund et al This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited."
+        ]
+      },
+      "sha256": "9407244d82f0ba5b4fe900009b38fadcb8a92a5a1c06e557e721088fe331d740",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-24257410": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4222891/fullTextXML",
+      "pmcid": "PMC4222891",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/2.0",
+        "statement": [
+          "Copyright © 2013 Shand et al.; licensee BioMed Central Ltd. 2013 Shand et al.; licensee BioMed Central Ltd. https://creativecommons.org/licenses/by/2.0/ This is an open access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/2.0 ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited."
+        ]
+      },
+      "sha256": "59ec40ba246f59027805e160f50bd307b9ce0f9c4f3da7e33974ec6097412e59",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-25452734": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4231835/fullTextXML",
+      "pmcid": "PMC4231835",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "Copyright © 2014 McConnell, Froeliger, Garland, Ives and Sforzo. 2014 https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "602bc7c19aba1ecd782c80ce69276ca85e62172cce36ef4e6ddbca285707b063",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-25386727": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4241983/fullTextXML",
+      "pmcid": "PMC4241983",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "Copyright © 2014, Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. 2014 Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved. https://creativecommons.org/licenses/by/4.0/ This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/"
+        ]
+      },
+      "sha256": "e86f773d36234e14eca408f4bf69768379cfafb288ca54bc41f5fc6b6dede325",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-25881089": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4337200/fullTextXML",
+      "pmcid": "PMC4337200",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0",
+        "statement": [
+          "© Shepherd et al.; licensee BioMed Central. 2015 https://creativecommons.org/licenses/by/4.0/ This is an Open Access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/4.0 ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly credited. The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated."
+        ]
+      },
+      "sha256": "35dd5381ff1bea022ed786d0599aedad8ab36521491d92169e35f334cc826da7",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-25989952": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4438099/fullTextXML",
+      "pmcid": "PMC4438099",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "© 2015 Ceren Acarturk et al. This is an Open Access article distributed under the terms of the Creative Commons Attribution 4.0 International License, allowing third parties to copy and redistribute the material in any medium or format, and to remix, transform, and build upon the material, for any purpose, even commercially, under the condition that appropriate credit is given, that a link to the license is provided, and that you indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use."
+        ]
+      },
+      "sha256": "4faa1b9cb202e87e78248a9891b577d7f1aa74cbe25f8c4f1f3df85fc04204e6",
+      "checkedAt": "2026-10-24"
+    },
+    "src-f613a9d6c16a": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4484868/fullTextXML",
+      "pmcid": "PMC4484868",
+      "rights": {
+        "license": "http://www.creativecommons.org/licenses/by/3.0/",
+        "statement": [
+          "This article is distributed under the terms of the Creative Commons Attribution 3.0 License ( http://www.creativecommons.org/licenses/by/3.0/ ) which permits any use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access page ( http://www.uk.sagepub.com/aboutus/openaccess.htm )."
+        ]
+      },
+      "sha256": "5cb6538db465baa822e87e91bd11798f8447ff7241f2284bf613892a92ac80aa",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-26121678": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4488068/fullTextXML",
+      "pmcid": "PMC4488068",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© 2015 Li et al 2015 Li et al https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited."
+        ]
+      },
+      "sha256": "f734e14ace1c109a6bfc0e9aa55e3401a6164c266028f6e2576bb4631e16e8f2",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-26441614": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4585277/fullTextXML",
+      "pmcid": "PMC4585277",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2015 Keeler, Roth, Neuser, Spitsbergen, Waters and Vianney. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "b42c7086d90f7e023f874ae06cacf8e6c4494667e5f1d1fe757819cfd357878b",
+      "checkedAt": "2026-10-24"
+    },
+    "src-073eaac7c1c6": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4704061/fullTextXML",
+      "pmcid": "PMC4704061",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "Copyright © 2016, Macmillan Publishers Limited This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/"
+        ]
+      },
+      "sha256": "e33b1aa9d373e392c1f2a0c12c7da7584277a95220b4feed7f825c19325c56d1",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-26738630": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4704389/fullTextXML",
+      "pmcid": "PMC4704389",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© Butovskaya et al. 2016 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License ( http://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated."
+        ]
+      },
+      "sha256": "d4b4652b7fbf582a2f71f0eef79a806ab3f750c9cfbb734be6bef8fe089d3bb5",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-26679295": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4704912/fullTextXML",
+      "pmcid": "PMC4704912",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/2.0/",
+        "statement": [
+          "©Nitya Kanuri, Michelle G. Newman, Josef I. Ruzek, Eric Kuhn, M. Manjula, Megan Jones, Neil Thomas, Jo-Anne M. Abbott, Smita Sharma, C. Barr Taylor. Originally published in JMIR Research Protocols (http://www.researchprotocols.org), 11.12.2015. 2015 https://creativecommons.org/licenses/by/2.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/2.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in JMIR Research Protocols, is properly cited. The complete bibliographic information, a link to the original publication on http://www.researchprotocols.org , as well as this copyright and license information must be included."
+        ]
+      },
+      "sha256": "22dfd9cd326a5f89a6761dc152ae03c606cfd62351f7303ccf174777765f74e1",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-26785376": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4718669/fullTextXML",
+      "pmcid": "PMC4718669",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© 2016 Saroka et al 2016 Saroka et al https://creativecommons.org/licenses/by/4.0/ This is an open access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+        ]
+      },
+      "sha256": "0e4ba93e0eaa913fb13ffdb53798b556adf07f658a146d7d5e49a956dd814d3b",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-27217844": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4859856/fullTextXML",
+      "pmcid": "PMC4859856",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2016 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made."
+        ]
+      },
+      "sha256": "13299106c20944a3339e9a6e0ff63bb0ebae6977b94aebe2d1eca9df0e416e82",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-27225519": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4881203/fullTextXML",
+      "pmcid": "PMC4881203",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© Rice et al. 2016 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License ( http://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated."
+        ]
+      },
+      "sha256": "ecc7a7413be433009c13e37c311cb5e8f34f08ec6e9a725cac6149ee36e32468",
+      "checkedAt": "2026-10-24"
+    },
+    "src-d5dc29829a02": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4930136/fullTextXML",
+      "pmcid": "PMC4930136",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "Copyright © 2015 Macmillan Publishers Limited This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/"
+        ]
+      },
+      "sha256": "15c1f444566710d471088f1d4b9310900132ab6d7d8a3118eb4abf1cc32e4c44",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-27417882": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4965613/fullTextXML",
+      "pmcid": "PMC4965613",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/2.0/",
+        "statement": [
+          "©Bhupendra Sheoran, Cara Lynn Silva, James Elliot Lykens, Londiwe Gamedze, Samantha Williams, Jessie VanNess Ford, Melissa A Habel. Originally published in JMIR Mhealth and Uhealth (http://mhealth.jmir.org), 14.07.2016. 2016 https://creativecommons.org/licenses/by/2.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License ( http://creativecommons.org/licenses/by/2.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in JMIR mhealth and uhealth, is properly cited. The complete bibliographic information, a link to the original publication on http://mhealth.jmir.org/ , as well as this copyright and license information must be included."
+        ]
+      },
+      "sha256": "b1fc108c645db9890a8f203c273bef2567920a5dda3acd565214118e77a09450",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-27576169": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5022094.1/PMC5022094.1.xml?md5=f2e852cf6b7f74d83e455c8b0bc10369",
+      "pmcid": "PMC5022094",
+      "rights": {
+        "license": "CC BY",
+        "use": "Attribution-preserving reuse",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "Copyright © 2016 The Author(s) 2016 The Author(s) https://creativecommons.org/licenses/by/4.0/ This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/"
+        ]
+      },
+      "sha256": "8f0f14c499396c77a687ed2bfd09948cd16b3dce20273b379fe739cc9c73bc6a",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-27698453": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5048146.1/PMC5048146.1.xml?md5=2c1caf497908e442a72fe5646abb7d06",
+      "pmcid": "PMC5048146",
+      "rights": {
+        "license": "CC BY",
+        "use": "Attribution-preserving reuse",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "Copyright © 2016, The Author(s) 2016 The Author(s) https://creativecommons.org/licenses/by/4.0/ This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/"
+        ]
+      },
+      "sha256": "0f842024e5403491f134edd9f82d0cf61076255d2b40e3eaa2ff6372e3902b8b",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-27790154": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5063006/fullTextXML",
+      "pmcid": "PMC5063006",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2016 De Melo, Saldanha, Dos Santos, Cruz, Lira, Santana-Filho and Michelini. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "8a00b976195f98f3daac85a087004ec3f7d4bcbcb804489628a6b3c4c1da9729",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-26647109": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5139057/fullTextXML",
+      "pmcid": "PMC5139057",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "©2015 The Authors. Health Expectations. Published by John Wiley & Sons Ltd. This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited."
+        ]
+      },
+      "sha256": "d6858fff68d10a250c286976043ef665a9a997fdc0126c4c98f5ef36d276589b",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-26612201": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5233742/fullTextXML",
+      "pmcid": "PMC5233742",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2015 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License ( http://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made."
+        ]
+      },
+      "sha256": "e7be61c31fe13a7046d7db88377b599e15a2c9de466cd3759d6da04f48f5803f",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-27898068": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5290356.1/PMC5290356.1.xml?md5=d493f169df41e4a98ca18e5fa54f2fe2",
+      "pmcid": "PMC5290356",
+      "rights": {
+        "license": "CC BY",
+        "use": "Attribution-preserving reuse",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "Copyright © 2016 The Author(s) 2016 The Author(s) https://creativecommons.org/licenses/by/4.0/ This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/"
+        ]
+      },
+      "sha256": "92d4f6c179d12821bd23ac6fff7beb6095ce55643d0811b0810b4c8f4364c925",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-28222713": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5320723/fullTextXML",
+      "pmcid": "PMC5320723",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s). 2017 https://creativecommons.org/licenses/by/4.0/ Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License ( http://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated."
+        ]
+      },
+      "sha256": "70a581f87ab33ca9b3aaec26f275335015617f4882453eacebe0629e02ae15bd",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-25806429": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5380155.1/PMC5380155.1.xml?md5=7704e52e4f03a0dd0af7c4cb6b16d57b",
+      "pmcid": "PMC5380155",
+      "rights": {
+        "license": "CC BY",
+        "use": "Attribution-preserving reuse",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "Copyright © 2015, Macmillan Publishers Limited. All rights reserved 2015 Macmillan Publishers Limited. All rights reserved https://creativecommons.org/licenses/by/4.0/ This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder in order to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/"
+        ]
+      },
+      "sha256": "11f498101ac88771b0be326e58059c1b39b11d45b5025165e3d2d61570c699ed",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-28670311": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5472657/fullTextXML",
+      "pmcid": "PMC5472657",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2017 Buric, Farias, Jong, Mee and Brazil. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "fb4e8365070098ff5644e3165b6f1c27321b68a84727c4d9c99f00b136491285",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-28588005": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5478797/fullTextXML",
+      "pmcid": "PMC5478797",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "©Kathleen Kara Fitzpatrick, Alison Darcy, Molly Vierhile. Originally published in JMIR Mental Health (http://mental.jmir.org), 06.06.2017. This is an open-access article distributed under the terms of the Creative Commons Attribution License ( https://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in JMIR Mental Health, is properly cited. The complete bibliographic information, a link to the original publication on http://mental.jmir.org/ , as well as this copyright and license information must be included."
+        ]
+      },
+      "sha256": "aa9d9287c3dc9443e7838687bf63b23ce56bc61e58bb20bf32406df706bb0cef",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-28694775": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5483482/fullTextXML",
+      "pmcid": "PMC5483482",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2017 Cahn, Goodman, Peterson, Maturi and Mills. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "a98aa498b20d48fa32672166067a9cec9b42650a7b0b6690e288df1fd68e8784",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-28721265": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5515010/fullTextXML",
+      "pmcid": "PMC5515010",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "Copyright © 2016 Japanese Society of Anti-Aging Medicine/Macmillan Publishers Limited 2016 Japanese Society of Anti-Aging Medicine/Macmillan Publishers Limited https://creativecommons.org/licenses/by/4.0/ This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/"
+        ]
+      },
+      "sha256": "89d375f97a6e8732736250cac2d117def405ff7e5cc8c5046c64a5773688c663",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-28703754": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5551208/fullTextXML",
+      "pmcid": "PMC5551208",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© 2017 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( http://creativecommons.org/licenses/by/4.0/ )."
+        ]
+      },
+      "sha256": "d3a0016d4646ec022c14278232d0cd06c0c6ff1e7089f6c70d85dfa55ecb2330",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-28912494": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5599599/fullTextXML",
+      "pmcid": "PMC5599599",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2017 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "4c3af38fab7e56f4d09803b50b7bd104cdedce5cecf09ab26833b56f14d3e934",
+      "checkedAt": "2026-10-24"
+    },
+    "src-0bc37ec70145": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5615535/fullTextXML",
+      "pmcid": "PMC5615535",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© 2017 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( http://creativecommons.org/licenses/by/4.0/ )."
+        ]
+      },
+      "sha256": "600044ea292cad32ff84ec4cb0183983cfd9a51c0b04cba0ec24e11a64482c95",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-29075623": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5643505/fullTextXML",
+      "pmcid": "PMC5643505",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2017 McCraty. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) or licensor are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "64b631c9626b653f6b62ffcf3db4477e2a1c31d46bf0bf8225ab730f72341a0a",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-29211795": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5718605/fullTextXML",
+      "pmcid": "PMC5718605",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© 2017 Ooishi et al 2017 Ooishi et al https://creativecommons.org/licenses/by/4.0/ This is an open access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited."
+        ]
+      },
+      "sha256": "2803024d6a7c67106f11a6565646ba1e05951d8a6924e85258055ac1065aa911",
+      "checkedAt": "2026-10-24"
+    },
+    "src-d1eaa478462e": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5805718/fullTextXML",
+      "pmcid": "PMC5805718",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2018 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "9d87f51ca31472b5e6bf2534999b977d8f7c447958c7a74ffb9fc4b3351730c7",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-29946275": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6005903/fullTextXML",
+      "pmcid": "PMC6005903",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2018 Yurtsever, Konuk, Akyüz, Zat, Tükel, Çetinkaya, Savran and Shapiro. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "fe36bb7e3a1cd602d9fd7bedf9208a4c9cbce31287c609ec4fbf39ceaea4d3c1",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-30083522": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6067070/fullTextXML",
+      "pmcid": "PMC6067070",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited."
+        ]
+      },
+      "sha256": "7301de5a0f4c4208abb919a9487f634e12f6ee9ca24a327ca92b33cedfbd694a",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-30108475": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6079225/fullTextXML",
+      "pmcid": "PMC6079225",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2018 Geng, Zhao, Zhou, Ma, Yao, Hurlemann, Becker and Kendrick. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "4058b7468d14c51f4c52527ca8f137335885775f7823fdd6620b927a7b833dad",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-30135663": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6092568/fullTextXML",
+      "pmcid": "PMC6092568",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "Copyright © 2018 Flasbeck, Moser, Kumsta and Brüne. 2018 Flasbeck, Moser, Kumsta and Brüne https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "74d133bc8b571321da277cec2c1a5fafe8a77571a4e7ccca60bd5d3af66c7ffd",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-30166975": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6106867/fullTextXML",
+      "pmcid": "PMC6106867",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "Copyright © 2018 Landin-Romero, Moreno-Alcazar, Pagani and Amann. 2018 Landin-Romero, Moreno-Alcazar, Pagani and Amann https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "14a2ff286a446ca4b338b1fbd62731dafeae36cc25510a172aff47f15844d3e0",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-30186192": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6113947/fullTextXML",
+      "pmcid": "PMC6113947",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "Copyright © 2018 Hase, Plagge, Hase, Braas, Ostacoli, Hofmann and Huchzermeier. 2018 Hase, Plagge, Hase, Braas, Ostacoli, Hofmann and Huchzermeier https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "b202ffb324032b8d7c7f3de3b2f58f08889ab9a5246fa2caf045256c12c34987",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-30197612": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6117416/fullTextXML",
+      "pmcid": "PMC6117416",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2018 Hurley. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "550d50e74198bdaa7f1009e73fc2fe5d5f9c8985d47be1c3c09d827083e8b3dd",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-30618659": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6302112/fullTextXML",
+      "pmcid": "PMC6302112",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2018 Kühlmann, de Rooij, Hunink, De Zeeuw and Jeekel. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "3baeb4cad095ad8e4561e669a8085c57a7659a445f46640623edb7d9c4b085df",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-30545815": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6315222/fullTextXML",
+      "pmcid": "PMC6315222",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "©Russell Fulmer, Angela Joerin, Breanna Gentile, Lysanne Lakerink, Michiel Rauws. Originally published in JMIR Mental Health (http://mental.jmir.org), 13.12.2018. 2018 https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License ( https://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in JMIR Mental Health, is properly cited. The complete bibliographic information, a link to the original publication on http://mental.jmir.org/ , as well as this copyright and license information must be included."
+        ]
+      },
+      "sha256": "7b51e3948831955f3b627d3959973858ca5da224104b588c79de387af06bd230",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-30552076": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6315236/fullTextXML",
+      "pmcid": "PMC6315236",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "©Jorge E Palacios, Derek Richards, Riley Palmer, Carissa Coudray, Stefan G Hofmann, Patrick A Palmieri, Patricia Frazier. Originally published in JMIR Mental Health (http://mental.jmir.org), 14.12.2018. 2018 https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License ( https://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in JMIR Mental Health, is properly cited. The complete bibliographic information, a link to the original publication on http://mental.jmir.org/ , as well as this copyright and license information must be included."
+        ]
+      },
+      "sha256": "f1ca4e4631e5f6a51ae4ae5205c6df7437efa99ec99e71f42e359d934c6b9958",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-30737392": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6368605/fullTextXML",
+      "pmcid": "PMC6368605",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2019 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "802123b575c0038b771fd1b9f14ff2f623fb89a9a6e25e3e3d88aeb3c50e8074",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-30804863": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6378280/fullTextXML",
+      "pmcid": "PMC6378280",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2019 de Mello and de Souza. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "3541c856c316549fce3d5e7b1eb0a57b652a25dbd8be7b3a16292a54e71cf931",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-30858808": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6397860/fullTextXML",
+      "pmcid": "PMC6397860",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2019 Santarnecchi, Bossini, Vatti, Fagiolini, La Porta, Di Lorenzo, Siracusano, Rossi and Rossi. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "da935654e150ff8da1779ce790efcb4c9a70515cf3a9b2c4257c327480d5a3bf",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-30858710": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6402067/fullTextXML",
+      "pmcid": "PMC6402067",
+      "rights": {
+        "license": "http://www.creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2019 This article is distributed under the terms of the Creative Commons Attribution 4.0 License ( http://www.creativecommons.org/licenses/by/4.0/ ) which permits any use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages ( https://us.sagepub.com/en-us/nam/open-access-at-sage )."
+        ]
+      },
+      "sha256": "cce3c9eb1549f411c50d0ce14372e1ab57596023cd0904b9da717f4cac32595c",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-30914965": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6421336/fullTextXML",
+      "pmcid": "PMC6421336",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2019 Yoon, Choi, Kim, Kwon, Oh, Choi, Lee, Jeong and Park. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "fbf1f191ba81583a3d0f23b83815460d96ab45bdaa5f37aa97319beafc04f0b2",
+      "checkedAt": "2026-10-24"
+    },
+    "src-1ce42b7cb8c4": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6425314/fullTextXML",
+      "pmcid": "PMC6425314",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "©Anjum Khurshid, Ashish Gadnis. Originally published in JMIR Research Protocols (http://www.researchprotocols.org), 06.03.2019. This is an open-access article distributed under the terms of the Creative Commons Attribution License ( https://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in JMIR Research Protocols, is properly cited. The complete bibliographic information, a link to the original publication on http://www.researchprotocols.org , as well as this copyright and license information must be included."
+        ]
+      },
+      "sha256": "0d28d9221b7dd2a332561d333ad2354c96ede27112532cd9d0c189b9f986093a",
+      "checkedAt": "2026-10-24"
+    },
+    "src-199d07efad3e": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6510764/fullTextXML",
+      "pmcid": "PMC6510764",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2019 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "123445353421fb9d46f1b6a23ff8308be420c07699f30405742a15e95c101911",
+      "checkedAt": "2026-10-24"
+    },
+    "src-f509442c9ca1": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6531431/fullTextXML",
+      "pmcid": "PMC6531431",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2019 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "7902a4627967ed8c9681a7c053de46cd95de8c4ec982dd71116e6847e595c5b6",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-31507444": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6716055/fullTextXML",
+      "pmcid": "PMC6716055",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2019 West and Turalska. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "0b90a6acb7208a241b4d136a3732c577e172b34996c25f81e3c70a6b0794eeca",
+      "checkedAt": "2026-10-24"
+    },
+    "src-ebacdf327973": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6892895/fullTextXML",
+      "pmcid": "PMC6892895",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2019 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "079513ce9df0162198dd0c5d663b890a081323b5c7496dce8174374b00841f12",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-31794974": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7162862/fullTextXML",
+      "pmcid": "PMC7162862",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© This is a U.S. government work and not under copyright protection in the U.S.; foreign copyright protection may apply. This article is published with open access 2019 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "d088aaf57e3d2bc38f9ea3bf410cf47b420a9070921a0250c456725489cd9447",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-32313029": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7171089.1/PMC7171089.1.xml?md5=23dbae33af352201559e22b452ac2dfe",
+      "pmcid": "PMC7171089",
+      "rights": {
+        "license": "CC BY",
+        "use": "Attribution-preserving reuse",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© The Author(s) 2020 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "aeaaaace87c8a54d4980e8ecaf5a3d4ac9229508941d27724881f135fe6c10eb",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-32655132": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7354990/fullTextXML",
+      "pmcid": "PMC7354990",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2020 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "722b1c605eadddc804dd6628c2cd2c8802a2c17ccb21322b443bde66cbaaa6f6",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-32795360": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7427763/fullTextXML",
+      "pmcid": "PMC7427763",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ . The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated in a credit line to the data."
+        ]
+      },
+      "sha256": "aa0f72c95a7a62e4112ca0b962bccf5a912a706a89e4daad9beaabf982d23ba6",
+      "checkedAt": "2026-10-24"
+    },
+    "src-4981a8e87964": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7576659/fullTextXML",
+      "pmcid": "PMC7576659",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2020 This is an Open Access article, distributed under the terms of the Creative Commons Attribution licence ( http://creativecommons.org/licenses/by/4.0/ ), which permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited."
+        ]
+      },
+      "sha256": "a1d3c8cbf11f6a8cdd7c74f9ff9ec60cfd22d30f5efc2e1edc6920e2a64a66de",
+      "checkedAt": "2026-10-24"
+    },
+    "src-05fee8b7d126": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8145551/fullTextXML",
+      "pmcid": "PMC8145551",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© 2021 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ )."
+        ]
+      },
+      "sha256": "7e761eebd7dd546b83fa7b57efaa9ec704d4b0c4ef3ef45ff5ed1e8bf6aa85e1",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-34050123": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8163818/fullTextXML",
+      "pmcid": "PMC8163818",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2021 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "c431b0972a064da72165f77d5b55bf59d924acac09246594e17d47670ee29e32",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-34512458": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8424043/fullTextXML",
+      "pmcid": "PMC8424043",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2021 Lazzaroni, Invernizzi, Fogliato, Pagani and Maslovaric. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "2a9d617ec610123e892f1b5567cc66ef251104529e479cadd8b4c5252096d8d4",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-34763697": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8581955/fullTextXML",
+      "pmcid": "PMC8581955",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2021 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ . The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated in a credit line to the data."
+        ]
+      },
+      "sha256": "dc688672941d20028fefbdc80be4f42a888687b88c369b666d38918f2b6b0ee9",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-35329068": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8949812/fullTextXML",
+      "pmcid": "PMC8949812",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license ( https://creativecommons.org/licenses/by/4.0/ )."
+        ]
+      },
+      "sha256": "1f4f49a7e7e673354ba6619998b6539984b7bce21688b1fd60010b07c38eb6d6",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-35820992": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9340028/fullTextXML",
+      "pmcid": "PMC9340028",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© Author(s) (or their employer(s)) 2022. Re-use permitted under CC BY. Published by BMJ. This is an open access article distributed in accordance with the Creative Commons Attribution 4.0 Unported (CC BY 4.0) license, which permits others to copy, redistribute, remix, transform and build upon this work for any purpose, provided the original work is properly cited, a link to the licence is given, and indication of whether changes were made. See: https://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "b41479631eb924c6d63932997b82345d17df2b38a961969c5e61102d48309c00",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-36127701": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9490981/fullTextXML",
+      "pmcid": "PMC9490981",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2022 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ . The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/ ) applies to the data made available in this article, unless otherwise stated in a credit line to the data."
+        ]
+      },
+      "sha256": "bf30d40e88b89bfa6395507cda1315c2e011e3ff8d113b676a631237f5e9cff6",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-36171872": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9510615/fullTextXML",
+      "pmcid": "PMC9510615",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "Copyright © 2022 Quevedo, Booij, Herrera, Hernández and Jiménez. 2022 Quevedo, Booij, Herrera, Hernández and Jiménez https://creativecommons.org/licenses/by/4.0/ This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "7ba29c44b2c048902e08a9bf517a33b232eb95cc15ac7b775e3f086661272427",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-36248508": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9559741/fullTextXML",
+      "pmcid": "PMC9559741",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2022 Yurtsever, Bakalim, Karaman, Kaya and Konuk. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "80c899d6b6ad22cbc35b5dfbd1e1b130c40a75af0f5419ad56a6937bdb617d25",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-36266402": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9585146/fullTextXML",
+      "pmcid": "PMC9585146",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2022 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "0607c4228978f1d5cecc9a83ea9c2cb2cc3f31ed7f5fdc80abeb6a460e2eafcc",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-36618821": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9812438/fullTextXML",
+      "pmcid": "PMC9812438",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2022 Borroto-Escuela, Cuesta-Marti, Lopez-Salas, Chruścicka-Smaga, Crespo-Ramírez, Tesoro-Cruz, Palacios-Lagunas, Perez de la Mora, Schellekens and Fuxe. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "cb16595aca7bdb54e723aa7040a7209d2183db43bd4a643feb2b9231a1611700",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-36658116": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9852425/fullTextXML",
+      "pmcid": "PMC9852425",
+      "rights": {
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "statement": [
+          "© The Author(s) 2023 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      },
+      "sha256": "52fdf2f97f29e4006d676f65454d9ac1d788992559b96c9dcc060e0014e83cb2",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-36819725": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9935844/fullTextXML",
+      "pmcid": "PMC9935844",
+      "rights": {
+        "license": "CC BY (version not specified in article)",
+        "statement": [
+          "Copyright © 2023 Navarro, Gómez-Carballa, Pischedda, Montoto-Louzao, Viz-Lasheras, Camino-Mera, Hinault, Martinón-Torres and Salas. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms."
+        ]
+      },
+      "sha256": "0d9f9dc29e07ba50bb77be456f0a3ff8e82f032fd2f03a77a35019ab44d2db60",
+      "checkedAt": "2026-10-24"
+    },
+    "src-8efda8da414f": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.scirp.org/journal/PaperDownload.aspx?DOI=10.4236/psych.2014.51013",
+      "pmcid": null,
+      "rights": {
+        "license": "CC BY",
+        "statement": "vided the original work is properly cited. In accordance of the Creative Commons Attribution License all Co py-"
+      },
+      "sha256": "b797d267d13ba009cf5055e570181c5180fc843210fb768fe2ffc5ec83f7b1b4",
+      "checkedAt": "2026-10-24"
+    },
+    "src-e4870b8eaf8c": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://link.springer.com/content/pdf/10.1186/s41018-018-0044-5.pdf",
+      "pmcid": null,
+      "rights": {
+        "license": "CC BY",
+        "statement": "© The Author(s). 2018 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License ( http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and"
+      },
+      "sha256": "8041327f1b8e747556236e38e0838df77ea0df613c0699bcfdec596ef171ede3",
+      "checkedAt": "2026-10-24"
+    },
+    "src-b8f0554d49a8": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.academicoa.com/ILCPA.30.24.pdf",
+      "pmcid": null,
+      "rights": {
+        "license": "CC BY",
+        "statement": "This paper is an open access paper published under the terms and conditions of the Creative Commons Attribution license (CC BY) (https://creativecommons.org/licenses/by/4.0)"
+      },
+      "sha256": "a1369378a830fa62ae9ce20908f6e8e4525c7b6c48da627f528a7bc3a353b759",
+      "checkedAt": "2026-10-24"
+    },
+    "src-a3bba47bba9b": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.jvejournals.com/article/20480/pdf",
+      "pmcid": null,
+      "rights": {
+        "license": "CC BY",
+        "statement": "yright © 2018 Rollin McCraty, et al. This is an open access article distributed under the Creative Commons Attribution License, "
+      },
+      "sha256": "a73dca50a552e3d27ac34e0a82f1776556ef6b7a44488b9bafb58a6286dd47f5",
+      "checkedAt": "2026-10-24"
+    },
+    "src-ec9560b5ddc0": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://link.springer.com/content/pdf/10.1140/epjds/s13688-017-0110-z.pdf",
+      "pmcid": null,
+      "rights": {
+        "license": "CC BY",
+        "statement": "© The Author(s) 2017. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/),whichpermitsunrestricteduse,distribution,andreproductioninanymedium,pro-"
+      },
+      "sha256": "523f5cb898cbb9765fb60ff9dc927110bd63be09dbf9013b914ef737a57bf84e",
+      "checkedAt": "2026-10-24"
+    },
+    "doi-bbac53b23500d8b1": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.scirp.org/xml/56609.xml",
+      "pmcid": null,
+      "rights": {
+        "license": "CC BY",
+        "statement": " by authors and Scientific Research Publishing Inc.  2014 This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/ {} © Copyright  2014 by authors and Scientific Research Publishing Inc.  {} 2014 {} This work is licensed under the Creative  Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/ {} This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/ {}"
+      },
+      "sha256": "d50ab4b4f58e1ce115286723daabf9e38ced239d18b8179ab539de4dfd0248d1",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-37730989": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10639004.1/PMC10639004.1.xml?md5=1b1542b6f8bfbf6325008bdb63aec4df",
+      "pmcid": "PMC10639004",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "4a95fa348c4bbe8318825d1d78e1bda2ab1cfa277472210598f3da7f1be8a5f9",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-37982547": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11098967.319/PMC11098967.319.xml?md5=d05190b9d4f53781df4336c3187168aa",
+      "pmcid": "PMC11098967",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "1b16dfe2ba8b376ff85637909baac237c51fb570fb20ab9e3948ea59b5be2de8",
+      "checkedAt": "2026-10-24"
+    },
+    "src-7e2f0ecca8d8": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC2695992.1/PMC2695992.1.xml?md5=9868d3af30df18dc7adf4e4db1e217fc",
+      "pmcid": "PMC2695992",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "f09d017620e2decf07b1cbdb26bfe261b680d0df23d859d088c5c6ebfec47da0",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-19234457": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC2944040.1/PMC2944040.1.xml?md5=7dfb3479fca2853e2005e866313477bb",
+      "pmcid": "PMC2944040",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2009 Nature America, Inc. All rights reserved. 2009 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "09c4f9671233a541d98604d1ac8013af1c9278a3af0de922cca0a829762a6d89",
+      "checkedAt": "2026-10-24"
+    },
+    "src-5fad89c454d7": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3083925.1/PMC3083925.1.xml?md5=b3a94857fba8f5ee4bed9010695187d8",
+      "pmcid": "PMC3083925",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2009 Elsevier Ltd. All rights reserved. 2009 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "d71a6f205d169973c9742503b7abaf9321dac0b97e079c04f1567963584af964",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-21372745": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3123409.1/PMC3123409.1.xml?md5=45bac9fe0252b6b3ae3018461597059b",
+      "pmcid": "PMC3123409",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "1fa1f6a9dcb867e4372d17390dc553068873d0cfea00e36baeb754a52adf616b",
+      "checkedAt": "2026-10-24"
+    },
+    "src-56e515aacddb": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3128829.1/PMC3128829.1.xml?md5=3d0003b8562e8523c1d4fccdb5875454",
+      "pmcid": "PMC3128829",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "09eab04f0de42e32363897856fdc8c75ab34cc89fc1ab076c3a72c052786b32d",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-21840289": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3176989.1/PMC3176989.1.xml?md5=ac3c06aa0e1217c776583d08e39bb903",
+      "pmcid": "PMC3176989",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2011 Elsevier Ltd. All rights reserved. 2011 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "b677f940dcb07a24824cecd71451a1f63b120612b2a6938a2ff8e37626624094",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-22374478": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3345952.1/PMC3345952.1.xml?md5=d6dd3c96023cc75aa1bf48f86219b827",
+      "pmcid": "PMC3345952",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2012 Elsevier Inc. All rights reserved. 2012 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "219c4bc5aee107fefd5ca54e7984de82c494b3779c6e72e1b87be11a97a0d7a0",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-21241793": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3358819.1/PMC3358819.1.xml?md5=ab71f9f270378b5b4c4e42c77cd5aafe",
+      "pmcid": "PMC3358819",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "f5d5c052a38d3e47657087d09a1e90c24d11ee3d19df2f124e8f65a9133830dc",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-22169588": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3384690.1/PMC3384690.1.xml?md5=419c9cc8c65e138db963b36f212b0275",
+      "pmcid": "PMC3384690",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "2d318ff1a85efbeb107fac6945b87bbf2dcd1de6389acae8c4e807ed5d4007c4",
+      "checkedAt": "2026-10-24"
+    },
+    "src-e9b23a765f28": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3494746.1/PMC3494746.1.xml?md5=e8bfb3b1ff9af561cef0cf0397deeb27",
+      "pmcid": "PMC3494746",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2012 Elsevier Ltd. All rights reserved. 2012 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "7af261119540be7804e3aae532b67bc324824c5cfe14838429349544805ca9a7",
+      "checkedAt": "2026-10-24"
+    },
+    "src-374faac36b5c": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3567773.1/PMC3567773.1.xml?md5=367ce2521cea1e00699ca5feda643f53",
+      "pmcid": "PMC3567773",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "3c8031e159755bcb9781dff9d8bc1635a0eed48569efafb4eae2b2cbc73450b3",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-22820409": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3635809.1/PMC3635809.1.xml?md5=8591f3493603ec95d6495af420460048",
+      "pmcid": "PMC3635809",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2012 Elsevier Inc. All rights reserved. 2012 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "c8ff5d5d2b6b322b6b925417348b967c67b6682e87de240cc2d704d89981bb4c",
+      "checkedAt": "2026-10-24"
+    },
+    "src-217758559eb4": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3844086.1/PMC3844086.1.xml?md5=950d7e09cca97da956faed231d7a1e0f",
+      "pmcid": "PMC3844086",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2013 Elsevier Ltd. All rights reserved. 2013 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "fef7e7f3364fa9ca9c363d22741b5b7733ecb2288ea34edb76aa3e41f4c7dc5f",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-24485481": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4039194.1/PMC4039194.1.xml?md5=6cd8f6aac92c785fe0ef3aa3809fbe05",
+      "pmcid": "PMC4039194",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2013 Elsevier Ltd. All rights reserved. 2013 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "514b181a9ab9bc13bd8c22c9bfaac95256bacd681ce5f654b3fe86d4386ed68d",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-24703167": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4060606.1/PMC4060606.1.xml?md5=c99c08697f1c9a92f558b06c1e8af477",
+      "pmcid": "PMC4060606",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2014 Elsevier Ltd. All rights reserved. 2014 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "530bb7dc2caf4152a1a792bbc6a6a11050b4f3c7f9c45e64f2aac23f8d4c3cae",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-24025838": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4091761.1/PMC4091761.1.xml?md5=dd9cf28cfcbd56357d225ae24cd6952e",
+      "pmcid": "PMC4091761",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "Users may view, print, copy, and download text and data-mine the content in such documents, for the purposes of academic research, subject always to the full Conditions of use: http://www.nature.com/authors/editorial_policies/license.html#terms"
+        ]
+      },
+      "sha256": "8a7f6e76a44ee08309747c9de2ffa5d1b99c4e1e162365d03c807c54a3cfb84c",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-21768988": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4106278.1/PMC4106278.1.xml?md5=92a5df06bacc186c613691a479748a79",
+      "pmcid": "PMC4106278",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "Copyright © 2008 American Society of Addiction Medicine 2008 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "1bc1772c3edb4e9efa289205727a9911a923899e9e0baa49d4ce09fba378385d",
+      "checkedAt": "2026-10-24"
+    },
+    "src-056d5bb4ab8f": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4200536.1/PMC4200536.1.xml?md5=dacb4dc560a30f4d3ac9d1946a93c4b9",
+      "pmcid": "PMC4200536",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2013 International Communication Association 2013 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "78e7793adf92c94d43e97ced7680a67314d3705c81e4402532b55025eff1517b",
+      "checkedAt": "2026-10-24"
+    },
+    "src-560b5106d25b": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4311753.1/PMC4311753.1.xml?md5=b8e31b4942cd558b6c0ac2361d4f2e10",
+      "pmcid": "PMC4311753",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "d136cf0889edad0ea11c5a827b1d8d54fd1113add9fa818d35a2f3ac35cbf305",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-25537522": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4393338.1/PMC4393338.1.xml?md5=89fbeb9397c47872bea5335d9e82b462",
+      "pmcid": "PMC4393338",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "8c18b64f9196c79b0c1b1bcd1bfdfc855f60b115f613a71c496a95360fcd43ef",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-26178189": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4560652.1/PMC4560652.1.xml?md5=47383e251e538a5796d61c06a8d621e3",
+      "pmcid": "PMC4560652",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "ad443d4cbae0ed21dff86bd4606a4f0487e82df4c8c16044d62ffa59a6c30c99",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-26744309": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4830464.1/PMC4830464.1.xml?md5=61422c3c0a1e7b5c0ddc8d15b31a782a",
+      "pmcid": "PMC4830464",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "ab77ce8492f40cfb2f5c91e122c6b37a89380c3c104ed8dbb3472535d11b70c2",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-27002445": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4914381.1/PMC4914381.1.xml?md5=77844e350d1cee4353165726962a61ee",
+      "pmcid": "PMC4914381",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "63a3abee351d470b3614a194731f797ea948831506f7a85af4e621d52a44d942",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-26799456": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4940234.1/PMC4940234.1.xml?md5=9996ef5369b6f8d668acd2ce09653a98",
+      "pmcid": "PMC4940234",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "40f563122720ca3cb0933227f54f4a56a00cb40dc7c06f3389a1f3bc8e0aa9e3",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-26903384": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5317103.1/PMC5317103.1.xml?md5=181d897c7d6d9e1ea25a0ca7b68b54f0",
+      "pmcid": "PMC5317103",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "89ff9c6bfdab0381e5f310a8d877a50130a22c1fbdc91ef760bed614b681b093",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-27543885": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5359600.1/PMC5359600.1.xml?md5=e699c1fdb864be99b796cc3a4f56a2e2",
+      "pmcid": "PMC5359600",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "3dc4855065130ffff02b4c5a7f762ea188e34e5bc27121f9ce241591751a4a81",
+      "checkedAt": "2026-10-24"
+    },
+    "src-507ea85612c7": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5392238.1/PMC5392238.1.xml?md5=976685a7390590eeb743df8a4a3425eb",
+      "pmcid": "PMC5392238",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "50649c91bc2979392b0d698d95bd124fde28010402b3cea820893955be8906a8",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-28481610": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5540313.1/PMC5540313.1.xml?md5=d6fc43db81365e8209fdddbd53f190e9",
+      "pmcid": "PMC5540313",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "4dd632db659cb59399baf59bb4b1f001eef3f091e76d6c9f7cbd36f0250db04d",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-28526450": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5581254.1/PMC5581254.1.xml?md5=01ef8bcf24d3a7a74ad97330b4c70611",
+      "pmcid": "PMC5581254",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "c28f4397c23ae2b96daa3517958aa482678167121f947e24e618d6c4933f6de2",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-29184215": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5726568.1/PMC5726568.1.xml?md5=f4b3993796231491329df8a048070a3f",
+      "pmcid": "PMC5726568",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "Users may view, print, copy, and download text and data-mine the content in such documents, for the purposes of academic research, subject always to the full Conditions of use: http://www.nature.com/authors/editorial_policies/license.html#terms"
+        ]
+      },
+      "sha256": "99421f87cbda18f9ad68035f2e04c7019226c104cc2ba60c7e297616625395d7",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-28889075": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5863232.1/PMC5863232.1.xml?md5=fc5de2c9a21d3966119d9dc96417ec97",
+      "pmcid": "PMC5863232",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "81b46c42149335c6251bb98f5ae8fb4300c3df2aa501489fa86defd6c93a97b7",
+      "checkedAt": "2026-10-24"
+    },
+    "src-32ff0961cd36": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5891835.1/PMC5891835.1.xml?md5=db0b292b8f60c94f7e259dd68312e22f",
+      "pmcid": "PMC5891835",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "1fe7e128719897eadb80aca7b8342655bd0076f4d925e4ecdc9df66ad3ee0999",
+      "checkedAt": "2026-10-24"
+    },
+    "src-7447bc610298": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6029433.1/PMC6029433.1.xml?md5=b20cbf0963da49eb036a7fef7e0d6c18",
+      "pmcid": "PMC6029433",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "de582fd3f201d640ff7c7b15ee6b522a0772f35ba8401d9cfbb94f3db31d3bc5",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-27603755": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6140334.1/PMC6140334.1.xml?md5=89ebcd08cd670d5fa3990181071289c0",
+      "pmcid": "PMC6140334",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "5c19cf3ecfe2f401871380a8101fbf3f2aa6ed6bf9169b39d5628d147db9df47",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-30301953": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6283620.1/PMC6283620.1.xml?md5=de7f8d0dc4c57789fab62a10e703bd16",
+      "pmcid": "PMC6283620",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "f10b7e572ff4b64c0030e90f2824d02402f84424f3acaba56f04a0c42d061b2c",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-31097900": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6516785.1/PMC6516785.1.xml?md5=51c39d434712a3a103f478cd4bb13aaf",
+      "pmcid": "PMC6516785",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "12c841f6936ef389753a4c45fa70fc24bb74845ba48cb4a208b7f42f788bd13b",
+      "checkedAt": "2026-10-24"
+    },
+    "src-8ad1130190f0": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6824981.1/PMC6824981.1.xml?md5=74292a10a08928f8ebc0cbe8496c2ca3",
+      "pmcid": "PMC6824981",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "45ac42f6d929fadda3f9f3a41ab4ef2fb92d60f27d52ccc152a97364d6a54d76",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-23149426": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7269100.1/PMC7269100.1.xml?md5=e274f063a22f2629091be66811b63e4a",
+      "pmcid": "PMC7269100",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "a18b710e2ad8194bbe378a8f2636bc598b077473de72ad2d41883e9d5aa2b609",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-31521905": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7389869.1/PMC7389869.1.xml?md5=af11aa3c7d3bbf5c93650c6a1f4de3dc",
+      "pmcid": "PMC7389869",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "f1070346ed92b7912ef9fea742297fafab69aa9f7e0c03a77ff932c8f6139231",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-28669546": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7881764.1/PMC7881764.1.xml?md5=e8d93a1980d3470f3dfc702e3d5dc5ed",
+      "pmcid": "PMC7881764",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "589eb5ed39a77da6718bf37d6f56b670621453907fca8f468cc83cee1c1ecfc0",
+      "checkedAt": "2026-10-24"
+    },
+    "src-0096ffba98ce": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8254820.1/PMC8254820.1.xml?md5=24c2c72549e5525d4d9e501ba6a4e63c",
+      "pmcid": "PMC8254820",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "1aaf75693acd1b36f2613e2b4859031db6be0f5aeae49ac5ace692253226fc92",
+      "checkedAt": "2026-10-24"
+    },
+    "pmid-36278141": {
+      "status": "reuse-review",
+      "retrievalAvailable": false,
+      "url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9585929.1/PMC9585929.1.xml?md5=752c4610127d83f0f9309d4715a2004a",
+      "pmcid": "PMC9585929",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      },
+      "sha256": "956f8160b4192e36eebc47b42986eabda4f3c15f95c30ad1db9837f869c05213",
+      "checkedAt": "2026-10-24"
+    },
+    "nature-fibonacci-srep27347": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.nature.com/articles/srep27347",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "authors": "Takuya, Okabe; Jin, Yoshimura",
+        "title": "Optimal hash arrangement of tentacles in jellyfish",
+        "doi": "10.1038/srep27347",
+        "copyright": "2016 The Author(s)",
+        "source": "https://www.nature.com/articles/srep27347",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "6151b5be1c1764981cde4e05d1b075605b288ef027edd8bc680c9b49a1a93357",
+      "checkedAt": "2026-10-24"
+    },
+    "nature-fibonacci-srep15358": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.nature.com/articles/srep15358",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "authors": "Takuya, Okabe",
+        "title": "Biophysical optimality of the golden angle in phyllotaxis",
+        "doi": "10.1038/srep15358",
+        "copyright": "2015 The Author(s)",
+        "source": "https://www.nature.com/articles/srep15358",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "e992eb3c84c037c4fe1fc85e513ff359b9a506639a3340b61a8d986c0833ccf4",
+      "checkedAt": "2026-10-24"
+    },
+    "nature-fibonacci-s41598-023-34880-8": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.nature.com/articles/s41598-023-34880-8",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "authors": "Keene, Lu; Samson, Shen; Lisa M., Miller; Xiaojing, Huang",
+        "title": "Golden ratio in venation patterns of dragonfly wings",
+        "doi": "10.1038/s41598-023-34880-8",
+        "copyright": "2023 The Author(s)",
+        "source": "https://www.nature.com/articles/s41598-023-34880-8",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "c58e7745ae43c755dac4e27dc0030b8dbade38330ae05e38233cb49cd8dd6b65",
+      "checkedAt": "2026-10-24"
+    },
+    "nature-fibonacci-s41598-021-93133-8": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.nature.com/articles/s41598-021-93133-8",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "authors": "Kazuaki, Amikura; Hiroshi, Ito; Miho S., Kitazawa",
+        "title": "Discovery of spatial pattern of prickles on stem of Rosa hybrida ‘Red Queen’ and mathematical model of the pattern",
+        "doi": "10.1038/s41598-021-93133-8",
+        "copyright": "2021 The Author(s)",
+        "source": "https://www.nature.com/articles/s41598-021-93133-8",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "990112ca8da38d36c3ff8942f861d28e420cb2ff125a5a1b03a3547835b606cb",
+      "checkedAt": "2026-10-24"
+    },
+    "nature-fibonacci-s41598-017-13767-5": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.nature.com/articles/s41598-017-13767-5",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "authors": "Marina, Linardić; Siobhan A., Braybrook",
+        "title": "Towards an understanding of spiral patterning in the Sargassum muticum shoot apex",
+        "doi": "10.1038/s41598-017-13767-5",
+        "copyright": "2017 The Author(s)",
+        "source": "https://www.nature.com/articles/s41598-017-13767-5",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "125485fe7248ec2f517c8ed64f7d563d243a29e13c9658f269a8f3d07d07b420",
+      "checkedAt": "2026-10-24"
+    },
+    "nature-fibonacci-srep39821": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.nature.com/articles/srep39821",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "authors": "Stefan, Schuster; Maximilian, Fichtner; Severin, Sasso",
+        "title": "Use of Fibonacci numbers in lipidomics – Enumerating various classes of fatty acids",
+        "doi": "10.1038/srep39821",
+        "copyright": "2017 The Author(s)",
+        "source": "https://www.nature.com/articles/srep39821",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "63f81c49e0135fcf1119825a129de066868e3c659643ac8a2ef773dee797e4c9",
+      "checkedAt": "2026-10-24"
+    },
+    "nature-fibonacci-s41567-024-02529-6": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.nature.com/articles/s41567-024-02529-6",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "authors": "Shibo, Xu; Zheng-Zhi, Sun; Ke, Wang; Hekang, Li; Zitian, Zhu; Hang, Dong; Jinfeng, Deng; Xu, Zhang; Jiachen, Chen; Yaozu, Wu; Chuanyu, Zhang; Feitong, Jin; Xuhao, Zhu; Yu, Gao; Aosai, Zhang; Ning, Wang; Yiren, Zou; Ziqi, Tan; Fanhao, Shen; Jiarun, Zhong; Zehang, Bao; Weikang, Li; Wenjie, Jiang; Li-Wei, Yu; Zixuan, Song; Pengfei, Zhang; Liang, Xiang; Qiujiang, Guo; Zhen, Wang; Chao, Song; H., Wang; Dong-Ling, Deng",
+        "title": "Non-Abelian braiding of Fibonacci anyons with a superconducting processor",
+        "doi": "10.1038/s41567-024-02529-6",
+        "copyright": "2024 The Author(s)",
+        "source": "https://www.nature.com/articles/s41567-024-02529-6",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "9ea04b460ac15199144dd3209cc4878c8042f6e10a627923b25ce4ae5c35e490",
+      "checkedAt": "2026-10-24"
+    },
+    "nature-fibonacci-s41467-025-61493-8": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.nature.com/articles/s41467-025-61493-8",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "authors": "Zlatko K., Minev; Khadijeh, Najafi; Swarnadeep, Majumder; Juven, Wang; Ady, Stern; Eun-Ah, Kim; Chao-Ming, Jian; Guanyu, Zhu",
+        "title": "Realizing string-net condensation: Fibonacci anyon braiding for universal gates and sampling chromatic polynomials",
+        "doi": "10.1038/s41467-025-61493-8",
+        "copyright": "2025 The Author(s)",
+        "source": "https://www.nature.com/articles/s41467-025-61493-8",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "b6fc8c9f0dae8bbb8755581d8d0e544a749463d2f57568475805fb75dcbd45c8",
+      "checkedAt": "2026-10-24"
+    },
+    "nature-fibonacci-srep31350": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.nature.com/articles/srep31350",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "authors": "Hong, Lai; Jun, Zhang; Ming-Xing, Luo; Lei, Pan; Josef, Pieprzyk; Fuyuan, Xiao; Mehmet A., Orgun",
+        "title": "Hybrid threshold adaptable quantum secret sharing scheme with reverse Huffman-Fibonacci-tree coding",
+        "doi": "10.1038/srep31350",
+        "copyright": "2016 The Author(s)",
+        "source": "https://www.nature.com/articles/srep31350",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "f78c7e803143f4bc8c8624d78db20e018734cee946b6579a61a1774362c4cd2f",
+      "checkedAt": "2026-10-24"
+    },
+    "nature-fibonacci-srep46302": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.nature.com/articles/srep46302",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "authors": "Hong, Lai; Ming-Xing, Luo; Josef, Pieprzyk; Jun, Zhang; Lei, Pan; Shudong, Li; Mehmet A., Orgun",
+        "title": "Fast and simple high-capacity quantum cryptography with error detection",
+        "doi": "10.1038/srep46302",
+        "copyright": "2017 The Author(s)",
+        "source": "https://www.nature.com/articles/srep46302",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "ab08ad3dde62412e5d5910925a39fd56f247f18a735df6811dcf7fe52002b73f",
+      "checkedAt": "2026-10-24"
+    },
+    "nature-fibonacci-s41598-023-28367-9": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.nature.com/articles/s41598-023-28367-9",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "authors": "H., Tran-Ngoc; T., Le-Xuan; S., Khatir; G., De Roeck; T., Bui-Tien; Magd, Abdel Wahab",
+        "title": "A promising approach using Fibonacci sequence-based optimization algorithms and advanced computing",
+        "doi": "10.1038/s41598-023-28367-9",
+        "copyright": "2023 The Author(s)",
+        "source": "https://www.nature.com/articles/s41598-023-28367-9",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "66eb2a8f823188afeb084eee92b27ccc32527068fbbf52b36ae533adfd9209a5",
+      "checkedAt": "2026-10-24"
+    },
+    "nature-fibonacci-s41598-024-62260-3": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.nature.com/articles/s41598-024-62260-3",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "authors": "Mohammad Mazyad, Hazzazi; Mujeeb Ur, Rehman; Arslan, Shafique; Amer, Aljaedi; Zaid, Bassfar; Aminu Bello, Usman",
+        "title": "Enhancing image security via chaotic maps, Fibonacci, Tribonacci transformations, and DWT diffusion: a robust data encryption approach",
+        "doi": "10.1038/s41598-024-62260-3",
+        "copyright": "2024 The Author(s)",
+        "source": "https://www.nature.com/articles/s41598-024-62260-3",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "af58d51f88715fc5e0a9934c6236c30fc0c747276ccfe207da700c60bc58e56d",
+      "checkedAt": "2026-10-24"
+    },
+    "nature-fibonacci-s41598-020-64065-6": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.nature.com/articles/s41598-020-64065-6",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "authors": "Dan T., Nguyen; Thien An, Nguyen; Rostislav, Khrapko; Daniel A., Nolan; Nicholas F., Borrelli",
+        "title": "Quantum Walks in Periodic and Quasiperiodic Fibonacci Fibers",
+        "doi": "10.1038/s41598-020-64065-6",
+        "copyright": "2020 The Author(s)",
+        "source": "https://www.nature.com/articles/s41598-020-64065-6",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "54d64319a9afcd90bb8304e5795dc79df38463d8350ac9e8ccbb8aa64c5dc165",
+      "checkedAt": "2026-10-24"
+    },
+    "nature-fibonacci-s41467-020-15760-5": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.nature.com/articles/s41467-020-15760-5",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "authors": "Utkarsh, Agrawal; Sarang, Gopalakrishnan; Romain, Vasseur",
+        "title": "Universality and quantum criticality in quasiperiodic spin chains",
+        "doi": "10.1038/s41467-020-15760-5",
+        "copyright": "2020 The Author(s)",
+        "source": "https://www.nature.com/articles/s41467-020-15760-5",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "436579ce7adef68e7b0e08e80eb2990a6ebf880e78017b3f8b2e7f52969e48fb",
+      "checkedAt": "2026-10-24"
+    },
+    "nature-fibonacci-srep38651": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.nature.com/articles/srep38651",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "authors": "Kedi, Wu; Guo Ping, Wang",
+        "title": "Two-dimensional Fibonacci grating for far-field super-resolution imaging",
+        "doi": "10.1038/srep38651",
+        "copyright": "2016 The Author(s)",
+        "source": "https://www.nature.com/articles/srep38651",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "b50e7da674a1395950f6440eb486ee66a1865e62db9c0f3c5174d0e3e9c2bcc1",
+      "checkedAt": "2026-10-24"
+    },
+    "nature-fibonacci-s41467-018-05950-7": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.nature.com/articles/s41467-018-05950-7",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "authors": "Sam, Coates; Joseph A., Smerdon; Ronan, McGrath; Hem Raj, Sharma",
+        "title": "A molecular overlayer with the Fibonacci square grid structure",
+        "doi": "10.1038/s41467-018-05950-7",
+        "copyright": "2018 The Author(s)",
+        "source": "https://www.nature.com/articles/s41467-018-05950-7",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "78c27c4a0dd3bf4746a76484493c31fb515a394578d78638abdd517cb8b07784",
+      "checkedAt": "2026-10-24"
+    },
+    "nature-fibonacci-s41598-020-67567-5": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.nature.com/articles/s41598-020-67567-5",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "authors": "Graecia, Lugito; Selvaraj, Nagarajan; Eamor M., Woo",
+        "title": "Explosive Fibonacci-sequence growth into unusual sector-face morphology in poly(l-lactic acid) crystallized with polymeric diluents",
+        "doi": "10.1038/s41598-020-67567-5",
+        "copyright": "2020 The Author(s)",
+        "source": "https://www.nature.com/articles/s41598-020-67567-5",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "583942e235a33a8d55f28dcd14413c3899e75f05f21410d608b9eca61d400f2d",
+      "checkedAt": "2026-10-24"
+    },
+    "nature-fibonacci-s41598-017-02170-9": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.nature.com/articles/s41598-017-02170-9",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "authors": "Luca, Dal Negro; Sandeep, Inampudi",
+        "title": "Fractional Transport of Photons in Deterministic Aperiodic Structures",
+        "doi": "10.1038/s41598-017-02170-9",
+        "copyright": "2017 The Author(s)",
+        "source": "https://www.nature.com/articles/s41598-017-02170-9",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "2957f3c2df2a315e48e5548e7ce1f85bec00e1337fd84629ef1d7e235784e6c3",
+      "checkedAt": "2026-10-24"
+    },
+    "nature-fibonacci-s41598-020-72218-w": {
+      "status": "open-license",
+      "retrievalAvailable": true,
+      "url": "https://www.nature.com/articles/s41598-020-72218-w",
+      "rights": {
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "authors": "Francesco, Spinozzi; Claudio, Ferrero; Serge, Perez",
+        "title": "The architecture of starch blocklets follows phyllotaxic rules",
+        "doi": "10.1038/s41598-020-72218-w",
+        "copyright": "2020 The Author(s)",
+        "source": "https://www.nature.com/articles/s41598-020-72218-w",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "f1ff8b6217491f69299a7a38dcdbd4bc0b73bd37b24588f1c9f26b85229d8c05",
+      "checkedAt": "2026-10-24"
+    },
+    "vision-photoreceptor-mosaic-1998": {
+      "status": "curated-record",
+      "retrievalAvailable": false,
+      "url": "https://www.nature.com/articles/eye1998142",
+      "checkedAt": "2026-10-26",
+      "indexedContent": "Verified metadata and original research summary are indexed. Full article text is not indexed in this update."
+    },
+    "vision-retinal-orientation-2011": {
+      "status": "curated-record",
+      "retrievalAvailable": false,
+      "url": "https://www.nature.com/articles/nn.2824",
+      "checkedAt": "2026-10-26",
+      "indexedContent": "Verified metadata and original research summary are indexed. Full article text is not indexed in this update."
+    },
+    "vision-hexadirectional-2018": {
+      "status": "curated-record",
+      "retrievalAvailable": false,
+      "url": "https://www.nature.com/articles/s41593-017-0050-8",
+      "checkedAt": "2026-10-26",
+      "indexedContent": "Verified metadata and original research summary are indexed. Full article text is not indexed in this update."
+    },
+    "quantum-honeycomb-hastings-haah-2021": {
+      "status": "curated-record",
+      "retrievalAvailable": false,
+      "url": "https://quantum-journal.org/papers/q-2021-10-19-564/",
+      "checkedAt": "2026-10-26",
+      "indexedContent": "Verified metadata and original research summary are indexed. Full article text is not indexed in this update."
+    },
+    "quantum-penrose-fibonacci-code-2024": {
+      "status": "curated-record",
+      "retrievalAvailable": false,
+      "url": "https://arxiv.org/abs/2311.13040v2",
+      "checkedAt": "2026-10-26",
+      "indexedContent": "Verified metadata and original research summary are indexed. Full article text is not indexed in this update."
+    },
+    "quantum-ibm-heavy-hex-2021": {
+      "status": "curated-record",
+      "retrievalAvailable": false,
+      "url": "https://www.ibm.com/quantum/blog/heavy-hex-lattice",
+      "checkedAt": "2026-10-26",
+      "indexedContent": "Verified metadata and original research summary are indexed. Full article text is not indexed in this update."
+    },
+    "quantum-heavy-hex-scaling-2026": {
+      "status": "curated-record",
+      "retrievalAvailable": false,
+      "url": "https://www.nature.com/articles/s41467-026-76090-6",
+      "checkedAt": "2026-10-26",
+      "indexedContent": "Verified metadata and original research summary are indexed. Full article text is not indexed in this update."
+    },
+    "quantum-kagome-edge-states-2026": {
+      "status": "curated-record",
+      "retrievalAvailable": false,
+      "url": "https://doi.org/10.1021/acs.nanolett.6c03195",
+      "checkedAt": "2026-10-26",
+      "indexedContent": "Verified metadata and original research summary are indexed. Full article text is not indexed in this update."
+    },
+    "quantum-rydberg-local-error-correction-2024": {
+      "status": "curated-record",
+      "retrievalAvailable": false,
+      "url": "https://www.nature.com/articles/s41467-024-45584-6",
+      "checkedAt": "2026-10-26",
+      "indexedContent": "Verified metadata and original research summary are indexed. Full article text is not indexed in this update."
+    },
+    "quantum-haah-fractal-code-2011": {
+      "status": "curated-record",
+      "retrievalAvailable": false,
+      "url": "https://doi.org/10.1103/PhysRevA.83.042330",
+      "checkedAt": "2026-10-26",
+      "indexedContent": "Verified metadata and original research summary are indexed. Full article text is not indexed in this update."
+    }
+  }
+}

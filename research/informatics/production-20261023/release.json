@@ -1,0 +1,34 @@
+{
+  "approvedSourceCommit": "0c7e0665bb0dbd696850b8e21946d250cdfda660",
+  "sourceImplementationCommit": "017b66b64af14bf4fc40685b5a7618863e35c27e",
+  "previousProductionCommit": "40a7f4d6cb4c108b9a7802f509d7137f465ddff5",
+  "tag": "production-2026-10-23-2223",
+  "scope": [
+    "About",
+    "Sound",
+    "Vision",
+    "Language",
+    "General"
+  ],
+  "deployment": "./deploy-panthurlive.sh informatics",
+  "changedAssetsUploaded": 14,
+  "httpAssetsCompared": 15,
+  "websiteSourceChangedDuringRelease": false,
+  "checks": [
+    "JavaScript syntax",
+    "topic trust tests",
+    "Sound assessment and embedded navigation",
+    "Vision narrative, search and exports",
+    "Language narrative, General cross-listing and exports",
+    "About and nested initial-focus dialog",
+    "four viewports",
+    "three reading modes",
+    "muted browser processes closed",
+    "manifest and deployed asset hashes match"
+  ],
+  "visualReview": [
+    "About mobile",
+    "Initial focus desktop"
+  ],
+  "userAuthorization": "Explicit instruction to publish all Informatics work, including About and all research sections."
+}

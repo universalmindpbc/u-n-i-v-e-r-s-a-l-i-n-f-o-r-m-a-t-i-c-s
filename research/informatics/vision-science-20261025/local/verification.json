@@ -1,0 +1,132 @@
+{
+  "passed": true,
+  "live": false,
+  "processAudioDisabled": true,
+  "nativeFullscreen": false,
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "sourceParagraphsPreserved": 13,
+      "chapters": 3,
+      "retinaControls": true,
+      "moireKeyboardControl": true,
+      "navigation": true,
+      "comparisonPreserved": true,
+      "scopeAndOverflow": true,
+      "references": [
+        {
+          "url": "https://www.nature.com/articles/eye1998142",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.nature.com/articles/nn.2824",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.nature.com/articles/s41593-017-0050-8",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "sourceParagraphsPreserved": 13,
+      "chapters": 3,
+      "retinaControls": true,
+      "moireKeyboardControl": true,
+      "navigation": true,
+      "comparisonPreserved": true,
+      "scopeAndOverflow": true,
+      "references": [
+        {
+          "url": "https://www.nature.com/articles/eye1998142",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.nature.com/articles/nn.2824",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.nature.com/articles/s41593-017-0050-8",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "sourceParagraphsPreserved": 13,
+      "chapters": 3,
+      "retinaControls": true,
+      "moireKeyboardControl": true,
+      "navigation": true,
+      "comparisonPreserved": true,
+      "scopeAndOverflow": true,
+      "references": [
+        {
+          "url": "https://www.nature.com/articles/eye1998142",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.nature.com/articles/nn.2824",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.nature.com/articles/s41593-017-0050-8",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "sourceParagraphsPreserved": 13,
+      "chapters": 3,
+      "retinaControls": true,
+      "moireKeyboardControl": true,
+      "navigation": true,
+      "comparisonPreserved": true,
+      "scopeAndOverflow": true,
+      "references": [
+        {
+          "url": "https://www.nature.com/articles/eye1998142",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.nature.com/articles/nn.2824",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        },
+        {
+          "url": "https://www.nature.com/articles/s41593-017-0050-8",
+          "target": "_blank",
+          "rel": "noopener noreferrer"
+        }
+      ],
+      "errors": []
+    }
+  ]
+}

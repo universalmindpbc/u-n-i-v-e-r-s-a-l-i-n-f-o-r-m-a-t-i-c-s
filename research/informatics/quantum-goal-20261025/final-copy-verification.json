@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "at": "2026-10-25T03:01:12.643Z",
+  "source_commit": "03469bb3",
+  "change": "Removed reading-order-dependent word from next-test status; cache versions updated.",
+  "staging_asset_matches": 9,
+  "vision_update_preserved": true,
+  "live_next_test_opened_and_closed": true,
+  "audio_muted": true,
+  "new_question_requests": 0,
+  "new_gpu_or_qpu_jobs": 0
+}

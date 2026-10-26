@@ -1,0 +1,171 @@
+{
+  "passed": true,
+  "task_id": "95d33a87-ecbf-4700-a178-112daa83ac2a",
+  "model": "gpt-6-astra",
+  "reviews": [
+    {
+      "decision": "approve",
+      "summary": "Astra's design for the OXTR follow-through study is scientifically sound, properly bounded, and adheres to all budget and hardware constraints. It explicitly retains Fibonacci, Phi Ratio, and M9 P24 Alpha, Beta, Gamma, and Epsilon representations alongside ordinary and shuffled controls, clearly separates physical atom excitation from biological binding prediction, uses chromosome-split evaluation with paired bootstrap uncertainty to prevent leakage, and recognizes that M9 P24 variants undergo program checks rather than biological prediction evaluation in this recipe.",
+      "checks": [
+        {
+          "claim": "Explicit retention of all required representations and controls",
+          "finding": "The design explicitly includes ordinary, Fibonacci, Phi Ratio, M9 P24 Alpha, M9 P24 Beta, M9 P24 Gamma, M9 P24 Epsilon, and shuffled control across the saved quantum audit and local CPU CUDA-Q checks.",
+          "evidence": [
+            "recipe.representations",
+            "plan.actions[1]"
+          ],
+          "status": "pass"
+        },
+        {
+          "claim": "Leakage prevention, sample size, and uncertainty quantification in classical pilot",
+          "finding": "Freezing 64 windows on chromosome 1 for learning, 64 on chromosome 2 for selection, and 152 OXTR windows on chromosome 3 for evaluation prevents genomic leakage. Average precision with paired bootstrap uncertainty provides a valid descriptive comparison.",
+          "evidence": [
+            "recipe.method",
+            "plan.actions[2]"
+          ],
+          "status": "pass"
+        },
+        {
+          "claim": "Separation of quantum excitation, simulation agreement, and biological prediction",
+          "finding": "The plan accurately states that the 16 Aquila measurements and 16 GPU simulations measure atom excitation under a pulse across two windows, not binding prediction accuracy, and notes that M9 P24 Alpha/Beta/Gamma/Epsilon are only tested via program checks here.",
+          "evidence": [
+            "plan.interpretation",
+            "prior_measurements.meaning",
+            "recipe.limits[2]"
+          ],
+          "status": "pass"
+        },
+        {
+          "claim": "Provenance, budget compliance, and scope limits",
+          "finding": "All data sources (GRCh38, ENCODE ENCSR932ZMX / ENCFF651DQL, JASPAR MA0139.2) and prior measurement hashes are specified. Zero new paid cloud quantum, GPU, or remote Wolfram jobs are planned. Health benefits and coherence lifetimes are explicitly excluded from inference.",
+          "evidence": [
+            "recipe.budget",
+            "prior_measurements.sha256",
+            "prior_measurements.wolfram.receipt_sha256",
+            "recipe.limits[3]"
+          ],
+          "status": "pass"
+        }
+      ],
+      "required_changes": [],
+      "provider": "google",
+      "model": "gemini-4-argon",
+      "provider_response_id": "fLbeataHCYGH1sgPruSHiA4",
+      "evidence_sha256": "6591a195b7db04bbf2b6615ec33dfa44ccc6a6a44689cf098efe25b785da587d",
+      "usage": {
+        "promptTokenCount": 4385,
+        "candidatesTokenCount": 672,
+        "totalTokenCount": 5057,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 4385
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 672
+          }
+        ]
+      },
+      "reserved_micro_usd": 92448,
+      "reviewed_at": "2026-10-26T02:10:15.571285+00:00",
+      "duration_seconds": 11.608,
+      "accounted_micro_usd": 30980,
+      "phase": "design"
+    },
+    {
+      "decision": "approve",
+      "summary": "Astra's final report and execution receipts accurately reflect the fixed recipe, data provenance, classical pilot outcomes, and local quantum program checks. The classical evaluation properly separates chromosome 1 learning, chromosome 2 selection, and chromosome 3 OXTR evaluation without data leakage, yielding an inconclusive average precision difference of +0.0020 (95% block bootstrap interval -0.0263 to +0.0082) when adding Fibonacci and Phi Ratio features. Quantum binding prediction and M9 P24 Alpha, Beta, Gamma, and Epsilon biological prediction remain untested in this pilot, as clearly reported. All 16 local CPU CUDA-Q checks and the 16 prior Aquila and GPU simulation records are audited with zero new paid cloud spend. Claims are properly bounded without extrapolating to coherence lifetime, biological causation, or health benefits.",
+      "checks": [
+        {
+          "claim": "Classical Fibonacci and Phi Ratio features do not establish a conclusive improvement in CTCF peak ranking around OXTR in this pilot.",
+          "finding": "Verified against the analysis record. Using random forest selected on chr2, OXTR average precision across 152 windows (8 peak windows covering 5 peak regions) changed from 0.07191 to 0.07390 (+0.00199), with a 95% block-bootstrap interval of [-0.02626, +0.00818] across 999 valid replicates.",
+          "evidence": [
+            "report.analysis.models",
+            "report.analysis.difference_average_precision",
+            "report.analysis.block_bootstrap_95_interval",
+            "report.predictions_sha256"
+          ],
+          "status": "pass"
+        },
+        {
+          "claim": "Quantum responses from Fibonacci, Phi Ratio, M9 P24 Alpha, M9 P24 Beta, M9 P24 Gamma, and M9 P24 Epsilon improve CTCF occupancy prediction around OXTR.",
+          "finding": "Untested for predictive accuracy. The two prior Aquila DNA windows (chr3-8752896-8753152 and chr3-8745472-8745728) do not overlap the five OXTR CTCF peak regions, and the newly prepared peak/non-peak pair (chr3-8742912-8743168 and chr3-8743680-8743936) underwent local numerical program checks only, which cannot establish biological predictive value.",
+          "evidence": [
+            "report.analysis.quantum_prediction_status",
+            "report.prior_quantum.rows",
+            "report.prepared_quantum.scope"
+          ],
+          "status": "not_tested"
+        },
+        {
+          "claim": "Sixteen local CPU CUDA-Q checks across one peak-overlapping window and one comparison window agree numerically with reference observables across all eight representations.",
+          "finding": "Verified against local_program_receipts. All 16 runs (ordinary, Fibonacci, Phi Ratio, M9 P24 Alpha, M9 P24 Beta, M9 P24 Gamma, M9 P24 Epsilon, and shuffled control across two windows) completed on cudaq-cpu with maximum export observable errors below 7.8e-5 and implementation probability errors below 1.7e-14. Notice that in the non-peak window chr3-8743680-8743936, Fibonacci and Phi Ratio compiled to identical pulse schedules and observables due to the window's specific motif spacing.",
+          "evidence": [
+            "report.local_program_receipts",
+            "report.prepared_quantum.compiler_sha256",
+            "report.prepared_quantum.template_sha256"
+          ],
+          "status": "pass"
+        },
+        {
+          "claim": "Prior quantum records, Wolfram verification receipts, and zero-spend budget constraints are preserved.",
+          "finding": "Verified. The 16 prior simulation and Aquila rows, cached Wolfram receipt (5fe58d4ccbfc4b69d36c4955cf40e7697a8098ed3246b7bad6cbcadbdbbf9e72), and public genomic source hashes are intact. New Aquila USD and qBraid credits spent equal 0.",
+          "evidence": [
+            "report.prior_quantum.wolfram",
+            "report.prior_quantum.rows",
+            "report.spend",
+            "report.cohort.sources"
+          ],
+          "status": "pass"
+        },
+        {
+          "claim": "Scientific framing separates atom excitation, simulation agreement, binding prediction, quantum coherence lifetime, and health outcomes.",
+          "finding": "Verified. The narrative and metadata explicitly state that excited atom fractions are not binding probabilities, note ENCODE assay quality warnings and lack of accessibility-matched or blacklist-filtered negatives, and avoid claiming coherence lifetime or health benefits.",
+          "evidence": [
+            "report.narrative.answer",
+            "report.narrative.meaning",
+            "report.cohort.qc",
+            "report.cohort.limits"
+          ],
+          "status": "pass"
+        }
+      ],
+      "required_changes": [],
+      "provider": "google",
+      "model": "gemini-4-argon",
+      "provider_response_id": "6L3eapDFJ-q8xdIPvJKmgAw",
+      "evidence_sha256": "2eab202db469d558ac8243ebe765e20b2aa061f5ed1e6a95cad05e240e143173",
+      "usage": {
+        "promptTokenCount": 33410,
+        "candidatesTokenCount": 1239,
+        "totalTokenCount": 34649,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 33410
+          }
+        ],
+        "candidatesTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 1239
+          }
+        ]
+      },
+      "reserved_micro_usd": 249356,
+      "reviewed_at": "2026-10-26T02:42:01.407760+00:00",
+      "duration_seconds": 16.996,
+      "accounted_micro_usd": 158420,
+      "phase": "final"
+    }
+  ],
+  "spend": {
+    "new_Aquila_USD": 0,
+    "new_qBraid_credits": 0
+  },
+  "errors": [],
+  "muted": true
+}

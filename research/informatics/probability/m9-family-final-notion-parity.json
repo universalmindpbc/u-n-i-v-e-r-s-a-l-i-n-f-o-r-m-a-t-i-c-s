@@ -1,0 +1,66 @@
+{
+  "verified_on": "2026-10-18",
+  "source_commit": "9ce661b47d0c874770c52b4f96ab0958239010d9",
+  "records": [
+    {
+      "Modulus": 9,
+      "Stellated count (Alpha)": 4,
+      "Stellated count (Gamma)": 1,
+      "Native doubling": "Present",
+      "Probability": "Approximately 1 in 195.1 billion",
+      "Probability exact": "263/51305410956800",
+      "Probability one in": 195077608200.76047,
+      "Probability method": "uniform-alpha-shuffle-original-alignment-v1",
+      "Source revision": "9ce661b47d0c874770c52b4f96ab0958239010d9",
+      "JSON staging": "https://staging.universalmind.tv/informatics/pilot-v1/m9.json?v=m9-family-summary-v1"
+    },
+    {
+      "Modulus": 18,
+      "Stellated count (Alpha)": 4,
+      "Stellated count (Gamma)": 1,
+      "Native doubling": "Present",
+      "Probability": "Approximately 1 in 5.88 trillion",
+      "Probability exact": "491/2885929366320000",
+      "Probability one in": 5877656550549.898,
+      "Probability method": "uniform-alpha-shuffle-original-alignment-v1",
+      "Source revision": "9ce661b47d0c874770c52b4f96ab0958239010d9",
+      "JSON staging": "https://staging.universalmind.tv/informatics/pilot-v1/m18.json?v=m9-family-summary-v1"
+    },
+    {
+      "Modulus": 27,
+      "Stellated count (Alpha)": 12,
+      "Stellated count (Gamma)": 3,
+      "Native doubling": "Absent",
+      "Probability": null,
+      "Probability exact": null,
+      "Probability one in": null,
+      "Probability method": "Not selected for the current M9 and M18 comparison; probability unassigned.",
+      "Source revision": "9ce661b47d0c874770c52b4f96ab0958239010d9",
+      "JSON staging": "https://staging.universalmind.tv/informatics/pilot-v1/m27.json?v=m9-family-summary-v1"
+    },
+    {
+      "Modulus": 36,
+      "Stellated count (Alpha)": 4,
+      "Stellated count (Gamma)": 1,
+      "Native doubling": "Absent",
+      "Probability": null,
+      "Probability exact": null,
+      "Probability one in": null,
+      "Probability method": "Not selected for the current M9 and M18 comparison; probability unassigned.",
+      "Source revision": "9ce661b47d0c874770c52b4f96ab0958239010d9",
+      "JSON staging": "https://staging.universalmind.tv/informatics/pilot-v1/m36.json?v=m9-family-summary-v1"
+    },
+    {
+      "Modulus": 45,
+      "Stellated count (Alpha)": 20,
+      "Stellated count (Gamma)": 5,
+      "Native doubling": "Absent",
+      "Probability": null,
+      "Probability exact": null,
+      "Probability one in": null,
+      "Probability method": "Not selected for the current M9 and M18 comparison; probability unassigned.",
+      "Source revision": "9ce661b47d0c874770c52b4f96ab0958239010d9",
+      "JSON staging": "https://staging.universalmind.tv/informatics/pilot-v1/m45.json?v=m9-family-summary-v1"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "study_id": "oxtr-recorded-audit-v2-20261025",
+  "scope": "recorded-qualification-audit",
+  "evidence": [
+    {
+      "tool": "audit_recorded_measurements",
+      "result": {
+        "tool": "audit_recorded_measurements",
+        "version": "0.1.0",
+        "study_id": "oxtr-qrc-01",
+        "source_sha256": "9fe40670c064ca9f3d2bc76f6b73a99311421b4939a885a178124e1e71881544",
+        "purpose": "Two-window measurement qualification. Occupancy prediction is not yet evaluated.",
+        "dna_samples": 2,
+        "bases_per_sample": 256,
+        "measurement_preparations": [
+          "ordinary",
+          "fibonacci",
+          "phi",
+          "alpha",
+          "beta",
+          "gamma",
+          "epsilon",
+          "shuffled"
+        ],
+        "programs_per_provider": 16,
+        "requested_hardware_measurements": 1600,
+        "measurements_starting_with_all_atoms_present": 1541,
+        "integrity_checks": "passed",
+        "biological_prediction_evaluated": false,
+        "finding": "The saved dataset contains two DNA samples, each prepared eight ways, with GPU and Aquila measurements. It contains no binding-prediction accuracy test.",
+        "verification_scope": "Checks the saved record structure and recorded job identifiers. Does not contact providers or independently authenticate their receipts.",
+        "new_provider_jobs": 0,
+        "new_provider_spend_usd": 0
+      }
+    },
+    {
+      "tool": "compare_recorded_responses",
+      "result": {
+        "source_sha256": "9fe40670c064ca9f3d2bc76f6b73a99311421b4939a885a178124e1e71881544",
+        "rows": [
+          {
+            "sample": "chr3-8752896-8753152",
+            "method": "ordinary",
+            "calculated_mean": 0.297217,
+            "gpu_mean": 0.301667,
+            "aquila_mean": 0.255102,
+            "calculated_change_percentage_points": 0.0
+          },
+          {
+            "sample": "chr3-8752896-8753152",
+            "method": "fibonacci",
+            "calculated_mean": 0.274809,
+            "gpu_mean": 0.28,
+            "aquila_mean": 0.217172,
+            "calculated_change_percentage_points": -2.241
+          },
+          {
+            "sample": "chr3-8752896-8753152",
+            "method": "phi",
+            "calculated_mean": 0.268847,
+            "gpu_mean": 0.278333,
+            "aquila_mean": 0.241319,
+            "calculated_change_percentage_points": -2.837
+          },
+          {
+            "sample": "chr3-8752896-8753152",
+            "method": "alpha",
+            "calculated_mean": 0.281111,
+            "gpu_mean": 0.283333,
+            "aquila_mean": 0.203125,
+            "calculated_change_percentage_points": -1.611
+          },
+          {
+            "sample": "chr3-8752896-8753152",
+            "method": "beta",
+            "calculated_mean": 0.291293,
+            "gpu_mean": 0.288333,
+            "aquila_mean": 0.242268,
+            "calculated_change_percentage_points": -0.592
+          },
+          {
+            "sample": "chr3-8752896-8753152",
+            "method": "gamma",
+            "calculated_mean": 0.31464,
+            "gpu_mean": 0.298333,
+            "aquila_mean": 0.263889,
+            "calculated_change_percentage_points": 1.742
+          },
+          {
+            "sample": "chr3-8752896-8753152",
+            "method": "epsilon",
+            "calculated_mean": 0.317704,
+            "gpu_mean": 0.301667,
+            "aquila_mean": 0.291667,
+            "calculated_change_percentage_points": 2.049
+          },
+          {
+            "sample": "chr3-8752896-8753152",
+            "method": "shuffled",
+            "calculated_mean": 0.281209,
+            "gpu_mean": 0.276667,
+            "aquila_mean": 0.275439,
+            "calculated_change_percentage_points": -1.601
+          },
+          {
+            "sample": "chr3-8745472-8745728",
+            "method": "ordinary",
+            "calculated_mean": 0.193663,
+            "gpu_mean": 0.211667,
+            "aquila_mean": 0.180702,
+            "calculated_change_percentage_points": 0.0
+          },
+          {
+            "sample": "chr3-8745472-8745728",
+            "method": "fibonacci",
+            "calculated_mean": 0.193528,
+            "gpu_mean": 0.215,
+            "aquila_mean": 0.194158,
+            "calculated_change_percentage_points": -0.014
+          },
+          {
+            "sample": "chr3-8745472-8745728",
+            "method": "phi",
+            "calculated_mean": 0.191816,
+            "gpu_mean": 0.215,
+            "aquila_mean": 0.173611,
+            "calculated_change_percentage_points": -0.185
+          },
+          {
+            "sample": "chr3-8745472-8745728",
+            "method": "alpha",
+            "calculated_mean": 0.169134,
+            "gpu_mean": 0.18,
+            "aquila_mean": 0.150877,
+            "calculated_change_percentage_points": -2.453
+          },
+          {
+            "sample": "chr3-8745472-8745728",
+            "method": "beta",
+            "calculated_mean": 0.176187,
+            "gpu_mean": 0.185,
+            "aquila_mean": 0.161458,
+            "calculated_change_percentage_points": -1.748
+          },
+          {
+            "sample": "chr3-8745472-8745728",
+            "method": "gamma",
+            "calculated_mean": 0.22445,
+            "gpu_mean": 0.241667,
+            "aquila_mean": 0.173684,
+            "calculated_change_percentage_points": 3.079
+          },
+          {
+            "sample": "chr3-8745472-8745728",
+            "method": "epsilon",
+            "calculated_mean": 0.254442,
+            "gpu_mean": 0.263333,
+            "aquila_mean": 0.164948,
+            "calculated_change_percentage_points": 6.078
+          },
+          {
+            "sample": "chr3-8745472-8745728",
+            "method": "shuffled",
+            "calculated_mean": 0.26742,
+            "gpu_mean": 0.261667,
+            "aquila_mean": 0.290323,
+            "calculated_change_percentage_points": 7.376
+          }
+        ],
+        "meaning": "Mean fraction of atoms excited. A higher fraction is not a better binding prediction. No biological accuracy was evaluated."
+      }
+    },
+    {
+      "tool": "read_next_test_evidence",
+      "result": {
+        "source_sha256": "6741d032ea6058f0d66a6d1ecf7e35823f5d4701914a39d50c06993003549a76",
+        "evidence": {
+          "schema": "universal-informatics/next-test-evidence/v1",
+          "checked_at": "2026-10-25T02:55:15.837983+00:00",
+          "purpose": "Post-run data coverage audit; not a biological prediction result. No measurements or selected inputs changed.",
+          "coordinates": "GRCh38 chr3, 0-based start, end-exclusive; UI displays start + 1 and end.",
+          "locus": {
+            "start": 8740380,
+            "end": 8779628
+          },
+          "assay": {
+            "accession": "ENCSR932ZMX",
+            "factor": "CTCF",
+            "cell": "GM23338",
+            "cell_description": "induced pluripotent stem cells",
+            "replicates": 2,
+            "file": "ENCFF651DQL",
+            "output_type": "conservative IDR thresholded peaks",
+            "audit_warnings": [
+              "antibody characterized with exemption",
+              "low read depth",
+              "mild to moderate bottlenecking",
+              "moderate library complexity"
+            ]
+          },
+          "peaks": [
+            {
+              "start": 8742928,
+              "end": 8743128
+            },
+            {
+              "start": 8755748,
+              "end": 8755830
+            },
+            {
+              "start": 8756915,
+              "end": 8757115
+            },
+            {
+              "start": 8767829,
+              "end": 8768017
+            },
+            {
+              "start": 8769391,
+              "end": 8769649
+            }
+          ],
+          "samples": [
+            {
+              "id": "chr3-8752896-8753152",
+              "start": 8752896,
+              "end": 8753152,
+              "overlap_count": 0
+            },
+            {
+              "id": "chr3-8745472-8745728",
+              "start": 8745472,
+              "end": 8745728,
+              "overlap_count": 0
+            }
+          ],
+          "sources": [
+            {
+              "file": "ENCSR932ZMX.json",
+              "sha256": "673c18bf44b64c4a7a9da0e4508f89b31a757502927a03222cf12e80a123ac46"
+            },
+            {
+              "file": "ENCFF651DQL.bed.gz",
+              "sha256": "ee5624447f4852f48ddf34c03a7d41c5ec7ebf9e86e7c0b93888eb6ad483ec68"
+            },
+            {
+              "file": "inputs.json",
+              "sha256": "0a86b5247d1a8e950d525debeed806109f009f6c51c70555eafcef4199336b33"
+            }
+          ],
+          "prediction_test_run": false,
+          "hardware_jobs_submitted": 0
+        }
+      }
+    }
+  ],
+  "tool_calls": [],
+  "steps": 2,
+  "report": "## Recorded qualification study: oxtr-qrc-01\n\n**Goal and audit scope.** Qualify measurements across two DNA windows\u2014not evaluate transcription-factor (TF) occupancy prediction. This report uses all three completed tool results: `audit_recorded_measurements`, `compare_recorded_responses`, and `read_next_test_evidence`. Saved-record integrity checks passed; provider receipts were not independently authenticated. [1]\n\n**What ran.** Two 256-base DNA samples were each prepared eight ways: ordinary, Fibonacci, **Phi Ratio**, alpha, beta, gamma, epsilon, and shuffled. The saved record contains GPU and Aquila measurements for 16 programs per provider. Of 1,600 requested hardware measurements, 1,541 started with all atoms present (96.3%). [1]\n\n**Measured findings.** Responses are mean fractions of **atoms excited**, not TF-binding fractions.\n\n- For chr3:8752896\u20138753152, ordinary preparation gave calculated/GPU/Aquila means of **0.297217 / 0.301667 / 0.255102**. Phi Ratio gave **0.268847 / 0.278333 / 0.241319**.\n- For chr3:8745472\u20138745728, epsilon increased the calculated response by **6.078 percentage points** relative to ordinary. GPU response also rose, from **0.211667 to 0.263333**, but Aquila response fell from **0.180702 to 0.164948**.\n- Shuffling the second sample increased calculated response by **7.376 percentage points**, with Aquila rising from **0.180702 to 0.290323**. [1]\n\nThese results demonstrate preparation-dependent responses and a notable GPU\u2013hardware disagreement for epsilon. They do not establish statistical significance or biological superiority.\n\n**Biological meaning.** Neither tested window overlaps conservative CTCF peaks from ENCSR932ZMX in GM23338 induced pluripotent stem cells, despite five peaks in the audited locus. Consequently, the current samples provide no peak-overlapping positive examples for that assay. Absence of peak overlap is not proof of absent binding. Assay warnings include low read depth, bottlenecking, library complexity, and an antibody-characterization exemption. No biological prediction evaluation is recorded. [2]\n\n**Executable next step.** Offline, intersect GRCh38, 0-based, end-exclusive candidate windows with `ENCFF651DQL.bed.gz`; select peak-overlapping positives and matched non-overlapping controls. Freeze labels, preparation rules, and held-out evaluation criteria before testing TF occupancy. Separately quantify per-preparation hardware\u2013GPU differences and uncertainty from saved measurements.\n\nGemini 4 is the planned Chief Scientific Officer; its review remains pending.\n\n**Source SHA-256**\n- [1] `9fe40670c064ca9f3d2bc76f6b73a99311421b4939a885a178124e1e71881544`\n- [2] `6741d032ea6058f0d66a6d1ecf7e35823f5d4701914a39d50c06993003549a76`",
+  "status": "review_pending",
+  "reviews": [
+    {
+      "stage": "strategy",
+      "decision": "predefined_read_only_scope",
+      "basis": "Owner-authorised implementation verification of existing public records; no new scientific execution."
+    }
+  ]
+}

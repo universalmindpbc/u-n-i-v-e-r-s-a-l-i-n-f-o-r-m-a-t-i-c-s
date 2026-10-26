@@ -1,0 +1,73 @@
+{
+  "passed": true,
+  "results": [
+    {
+      "modulus": 9,
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "probability": true,
+      "lightbox": true,
+      "downloads": true,
+      "originalAlignment": true,
+      "otherRecordsUnassigned": true,
+      "focusReturn": true,
+      "musicContinuous": true,
+      "nativeFullscreenInvoked": false,
+      "errors": []
+    },
+    {
+      "modulus": 9,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "probability": true,
+      "lightbox": true,
+      "downloads": true,
+      "originalAlignment": true,
+      "otherRecordsUnassigned": true,
+      "focusReturn": true,
+      "musicContinuous": true,
+      "nativeFullscreenInvoked": false,
+      "errors": []
+    },
+    {
+      "modulus": 18,
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "probability": true,
+      "lightbox": true,
+      "downloads": true,
+      "originalAlignment": true,
+      "otherRecordsUnassigned": true,
+      "focusReturn": true,
+      "musicContinuous": true,
+      "nativeFullscreenInvoked": false,
+      "errors": []
+    },
+    {
+      "modulus": 18,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "probability": true,
+      "lightbox": true,
+      "downloads": true,
+      "originalAlignment": true,
+      "otherRecordsUnassigned": true,
+      "focusReturn": true,
+      "musicContinuous": true,
+      "nativeFullscreenInvoked": false,
+      "errors": []
+    }
+  ],
+  "source_commit": "a3f19f52c9ec819895998309046d2a5a4a6a2af1",
+  "verified_on": "2026-10-18",
+  "mode": "deployed_staging",
+  "process_audio_disabled": true
+}

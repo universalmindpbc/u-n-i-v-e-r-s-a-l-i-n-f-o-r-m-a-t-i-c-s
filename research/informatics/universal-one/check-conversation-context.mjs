@@ -1,0 +1,15 @@
+import assert from 'node:assert/strict';
+import {compactResearchRequest,compactHistory,byteLength,retrievalQuery} from '../../../Informatics/universal-one-context.js';
+const sources=Array.from({length:10},(_,i)=>({id:'pmid-'+i,title:'Study '+i,text:'Quoted paper passage '.repeat(500),rights:{license:'CC BY'},kind:'full-text'}));
+const history=[{role:'user',content:'EMDR and DNA methylation in PTSD'}];
+for(let i=0;i<100;i++)history.push({role:'assistant',content:'Measured findings. '.repeat(150),sources},{role:'user',content:'What did that study measure?'});
+const before=JSON.stringify(history),payload=compactResearchRequest({question:'And younger participants?',history,context:{page:'/informatics/',area:'vision'}});
+assert(byteLength({history})>1000000);assert(byteLength(payload)<44000);assert(!JSON.stringify(payload).includes('Quoted paper passage'));assert.equal(JSON.stringify(history),before);
+assert.equal(payload.conversation.origin,'EMDR and DNA methylation in PTSD');assert.equal(payload.history.at(-1).content,'What did that study measure?');assert(payload.references.some(s=>s.id==='pmid-0'));assert.equal(payload.context.area,'vision');
+assert.deepEqual(compactResearchRequest(payload),payload,'Server compaction preserves the bounded request');
+for(const content of ['🧬'.repeat(30000),'\u0000"\\\n'.repeat(30000),'研究'.repeat(30000)])assert(byteLength(compactResearchRequest({question:content,history:[{role:'user',content},{role:'assistant',content,sources}]}))<=44000);
+const topics=['emdr','molecular hydrogen'];
+assert.match(retrievalQuery('How long were the sessions?',payload.history,payload.conversation.origin,topics),/EMDR/);
+assert.equal(retrievalQuery('Now explain molecular hydrogen',payload.history,payload.conversation.origin,topics),'Now explain molecular hydrogen');
+assert(compactHistory(history).every(m=>Object.keys(m).join(',')==='role,content'));
+console.log(JSON.stringify({turns:100,originalBytes:byteLength({history}),sentBytes:byteLength(payload),noRepeatedPassages:true,sourceIDsRetained:true,unicodeAndEscapingBounded:true,contextIdempotent:true}));

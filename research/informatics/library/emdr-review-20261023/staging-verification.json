@@ -1,0 +1,49 @@
+{
+  "candidate": false,
+  "checks": [
+    {
+      "width": 1470,
+      "themes": 3,
+      "chapters": 4,
+      "topics": 15,
+      "molecularPapers": 10,
+      "exported": 93,
+      "stats": "Papers & references\n93\nJournals\n50\nRecorded citations\n3,040"
+    },
+    {
+      "width": 1024,
+      "themes": 3,
+      "chapters": 4,
+      "topics": 15,
+      "molecularPapers": 10,
+      "exported": 93,
+      "stats": "Papers & references\n93\nJournals\n50\nRecorded citations\n3,040"
+    },
+    {
+      "width": 390,
+      "themes": 3,
+      "chapters": 4,
+      "topics": 15,
+      "molecularPapers": 10,
+      "exported": 93,
+      "stats": "Papers & references\n93\nJournals\n50\nRecorded citations\n3,040"
+    },
+    {
+      "width": 320,
+      "themes": 3,
+      "chapters": 4,
+      "topics": 15,
+      "molecularPapers": 10,
+      "exported": 93,
+      "stats": "Papers & references\n93\nJournals\n50\nRecorded citations\n3,040"
+    }
+  ],
+  "errors": [],
+  "audio": "Chromium process launched with --mute-audio; all pages paused and closed",
+  "sourceCommit": "017b66b64af14bf4fc40685b5a7618863e35c27e",
+  "url": "https://staging.universalmind.tv/informatics/library.html?collection=vision",
+  "visualReview": "Desktop contents and mobile molecular chapter inspected; readable, no overlap or horizontal clipping.",
+  "deployment": "Existing deploy-panthur-staging.sh informatics; five changed assets uploaded; standard preflights passed.",
+  "publicationAccess": "Publication identity and access audit retained in link-audit.json; publisher restrictions are not treated as dead publications.",
+  "productionModified": false
+}

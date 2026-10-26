@@ -1,0 +1,13 @@
+{
+  "before": {
+    "url": "https://universalmind.tv/informatics/",
+    "sha256": "4c086a251bb63f051735e40830e3a535cb072aea7bc801aa665fb9f1c53f8dab",
+    "bytes": 27027
+  },
+  "after": {
+    "url": "https://universalmind.tv/informatics/",
+    "sha256": "4c086a251bb63f051735e40830e3a535cb072aea7bc801aa665fb9f1c53f8dab",
+    "bytes": 27027
+  },
+  "unchanged": true
+}

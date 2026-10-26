@@ -1,0 +1,47 @@
+# macOS and generated files
+.DS_Store
+**/.DS_Store
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.wrangler/
+**/.wrangler/
+node_modules/
+**/node_modules/
+
+# Local secrets and environment configuration
+.env
+.env.*
+*.pem
+*.key
+*ftp-pass*
+
+# Local video masters are intentionally excluded from GitHub.
+# Production playback uses the hosted media catalogue; these files total about 21 GB.
+*.mp4
+**/*.mp4
+
+# Server-owned credentials: never commit or deploy private runtime files.
+i  a m/api/.runtime-private/
+
+# Confidential owner documents and private Universal Sovereignty runtime.
+.private/
+i  a m/a s s e t s/s o v e r e i g n t y/
+
+# Repository presentation: never publish runtime credentials or private data.
+.env*
+!.env.example
+**/.private/
+**/.runtime-private/
+**/private/
+**/__pycache__/
+**/*.pyc
+**/.venv/
+**/node_modules/
+**/.next/
+**/.vinext/
+**/.wrangler/
+**/dist/
+**/*.tsbuildinfo
+
+*.asset-download

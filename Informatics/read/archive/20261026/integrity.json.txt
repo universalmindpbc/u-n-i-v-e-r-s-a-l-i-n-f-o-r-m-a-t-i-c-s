@@ -1,0 +1,5 @@
+{
+  "algorithm": "SHA-256",
+  "manifest": "manifest.json",
+  "sha256": "df177d308cf36853b5c23e5d47356bc0d7976a1bb12792a0771020477adcbd5a"
+}

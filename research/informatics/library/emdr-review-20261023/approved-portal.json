@@ -1,0 +1,65 @@
+{
+  "url": "https://universalmind.tv/vogue/iam/science.html",
+  "retrievedAt": "2026-10-23T09:32:41.082Z",
+  "reviewedAt": "2026-08-15",
+  "layer": {
+    "id": "emdr",
+    "sequence": "LAYER 01",
+    "name": "Research EMDR layer",
+    "position": "Established clinical EMDR / supported telehealth / growing group evidence",
+    "grade": "A",
+    "gradeLabel": "Established core clinical evidence",
+    "role": "Optional bilateral layer / planned clinician-guided pathway",
+    "summary": "Clinician-delivered EMDR is an established trauma-focused psychotherapy for PTSD. Individual telehealth delivery is supported and increasingly used, while therapist-led online group G-TEP now has a growing evidence base that includes a 2026 meta-analysis.",
+    "boundary": "Universal Mind's current bilateral visual and audio feature is an optional research layer, not yet a complete clinical EMDR protocol. Its planned clinician-guided groups of nine are intended as a protocol-governed online group pathway; clinical equivalence depends on clinician governance, protocol fidelity and product-specific outcomes.",
+    "dossier": {
+      "title": "Universal Mind [ I o H ] - EMDR Medical Research",
+      "file": "a s s e t s/r e s e a r c h/Universal Mind [ I o H ] - EMDR Medical Research.pdf",
+      "pages": 19,
+      "articles": 55,
+      "publications": 33,
+      "citations": 3210
+    },
+    "heroStudies": [
+      {
+        "type": "Clinical practice guideline",
+        "year": 2023,
+        "journal": "U.S. VA / Department of Defense",
+        "title": "VA/DoD Clinical Practice Guideline for the Management of PTSD",
+        "url": "https://www.ptsd.va.gov/professional/treat/txessentials/cpg_ptsd_management.asp",
+        "finding": "The current U.S. military and veterans guideline places EMDR among the individual trauma-focused psychotherapies with the strongest recommendation for PTSD.",
+        "limitation": "A clinical guideline for qualified care; it does not validate an entertainment-platform adaptation."
+      },
+      {
+        "type": "Multisite retrospective review",
+        "year": 2025,
+        "journal": "Psychological Trauma / U.S. VA",
+        "title": "Telehealth versus in-person EMDR for veterans",
+        "url": "https://doi.org/10.1037/tra0001917",
+        "doi": "10.1037/tra0001917",
+        "finding": "Across 256 veterans, both delivery groups improved. Completion, reliable change and clinically significant change did not differ, although the in-person symptom reduction was larger.",
+        "limitation": "Treatment format was chosen rather than randomised. This supports individual telehealth delivery; it does not test online group EMDR."
+      },
+      {
+        "type": "Systematic review + meta-analysis",
+        "year": 2026,
+        "journal": "Clinical Psychology & Psychotherapy",
+        "title": "Effectiveness of the Group Traumatic Episode Protocol",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42129972/",
+        "doi": "10.1002/cpp.70283",
+        "finding": "Twelve G-TEP studies produced a large pooled reduction in PTSD symptoms (Hedges' g=1.28), supporting a feasible group option particularly after collective trauma.",
+        "limitation": "The synthesis covers G-TEP generally, not online delivery alone or a veterans-only population, and the included methods and samples differed."
+      },
+      {
+        "type": "Randomised controlled trial",
+        "year": 2023,
+        "journal": "Frontiers in Psychology",
+        "title": "Video-conference Group EMDR G-TEP for frontline and emergency workers",
+        "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1129912/full",
+        "doi": "10.3389/fpsyg.2023.1129912",
+        "finding": "Eighty-five participants completed a remotely delivered intensive group protocol; PTSD, anxiety and depression measures improved through six-month follow-up.",
+        "limitation": "The authors call the findings tentative, and no treatment effect was found for moral injury."
+      }
+    ]
+  }
+}

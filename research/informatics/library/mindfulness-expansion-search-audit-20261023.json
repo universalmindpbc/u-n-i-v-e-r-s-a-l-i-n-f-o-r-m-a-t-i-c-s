@@ -1,0 +1,1053 @@
+{
+  "date": "2026-10-23",
+  "provider": "Europe PMC and primary publisher/PubMed sources",
+  "searches": [
+    {
+      "name": "molecular-search",
+      "query": "(mindfulness OR meditation OR \"Transcendental Meditation\" OR mantram) AND (\"gene expression\" OR transcriptom* OR \"DNA methylation\" OR epigenetic*) AND FIRST_PDATE:[2022-01-01 TO 2026-10-23]",
+      "hitCount": 2675,
+      "retrieved": 100,
+      "screening": "Discovery only. First 100 relevance-ranked results plus targeted searches; not exhaustive or a systematic review.",
+      "candidates": [
+        {
+          "pmid": "41978849",
+          "doi": "10.26574/maedica.2026.21.1.137",
+          "title": "Transcendental Meditation as a Modulator of Cognitive and Psychological Well-Being."
+        },
+        {
+          "pmid": "39768929",
+          "doi": "10.3390/medicina60122050",
+          "title": "Effectiveness of Meditation Techniques in Treating Post-Traumatic Stress Disorder: A Systematic Review and Meta-Analysis."
+        },
+        {
+          "pmid": "40917096",
+          "doi": "10.3389/fnut.2025.1632999",
+          "title": "Epigenetic modulation by life-style: advances in diet, exercise, and mindfulness for disease prevention and health optimization."
+        },
+        {
+          "pmid": "42093852",
+          "doi": "10.1016/j.ibneur.2026.04.010",
+          "title": "Mind-body exercise as epigenetic modulators: Rewiring neural circuits for stress resilience and cognitive aging."
+        },
+        {
+          "pmid": "42058806",
+          "doi": "10.5662/wjm.v16.i2.114072",
+          "title": "Comprehensive review on the benefits and physiological basis of yoga."
+        },
+        {
+          "pmid": "42064595",
+          "doi": "10.3389/fmolb.2026.1741802",
+          "title": "Preksha Dhyana meditation modulates the serum metabolome in healthy and meditation-naïve participants."
+        },
+        {
+          "pmid": "42670176",
+          "doi": "10.1002/brb3.71733",
+          "title": "The Neuroscience of Religious and Spiritual Practices: A Systematic Review of Neurotheological Evidence."
+        },
+        {
+          "pmid": "38671329",
+          "doi": "10.1007/s12035-024-04096-6",
+          "title": "Serotonin Transporter (SLC6A4) and FK506-Binding Protein 5 (FKBP5) Genotype and Methylation Relationships with Response to Meditation in Veterans with PTSD."
+        },
+        {
+          "pmid": "42809248",
+          "doi": "10.4103/ijo.ijo_15_26",
+          "title": "Understanding the psycho-neuro-endocrine-immunology pathways in glaucoma and their modulation by mindfulness meditation."
+        },
+        {
+          "pmid": "42715216",
+          "doi": "10.1371/journal.pone.0357906",
+          "title": "Protocol for project FIERCE: A randomized controlled trial to evaluate a positive emotion-focused meditation intervention for physicians with elevated stress."
+        },
+        {
+          "pmid": "42560759",
+          "doi": "10.1556/2006.2025.00500",
+          "title": "A trans-therapeutic signature of recovery in internet gaming disorder: From shared network reorganization to molecular underpinnings."
+        },
+        {
+          "pmid": "42106414",
+          "doi": "10.1038/s41598-026-51616-6",
+          "title": "DNA methylation mediates MBSR induced cardioprotection in patients after PCI."
+        },
+        {
+          "pmid": null,
+          "doi": "10.1101/2025.11.17.688316",
+          "title": "Dynamic methylation changes in Alzheimer’s disease-related genes during mindfulness practice – a proof-of-concept study"
+        },
+        {
+          "pmid": null,
+          "doi": null,
+          "title": "A Healthy Lifestyle Can Slow Immune System Aging and Reduce Age-Related Chronic Inflammation: A Narrative Review"
+        },
+        {
+          "pmid": "40448426",
+          "doi": "10.1177/10998004251346179",
+          "title": "Changes in DNA Methylation Associated With Psychobehavioral Interventions: A Scoping Literature Review."
+        },
+        {
+          "pmid": "41262963",
+          "doi": "10.1080/28324765.2025.2477699",
+          "title": "Reducing healthcare burnout through meditation: benefits and challenges."
+        },
+        {
+          "pmid": null,
+          "doi": null,
+          "title": "Environmental exposures and intergenerational cardiovascular risk: epigenetic reprogramming via parental exercise"
+        },
+        {
+          "pmid": "40831882",
+          "doi": "10.2147/prbm.s533200",
+          "title": "Discussion on the Application of Mindfulness Therapy in the Treatment of Diabetic Peripheral Neuropathy: A Narrative Review."
+        },
+        {
+          "pmid": "41717659",
+          "doi": "10.3389/fragi.2026.1743142",
+          "title": "Molecular pathways linking chronic psychological stress to accelerated aging: mechanisms and interventions."
+        },
+        {
+          "pmid": "42158622",
+          "doi": "10.4103/ijoy.ijoy_15_25",
+          "title": "Effect of Yoga and Meditation on Human Gut Microbiota: A Systematic Review."
+        },
+        {
+          "pmid": "40773333",
+          "doi": "10.1037/amp0001576",
+          "title": "The meditation app revolution."
+        },
+        {
+          "pmid": "41440093",
+          "doi": "10.3390/brainsci15121296",
+          "title": "Potential Mechanisms of Influence Between Spiritual Practices and Cognitive Health: A Systematic Review and Conceptual Model."
+        },
+        {
+          "pmid": "39820865",
+          "doi": "10.1007/978-3-031-75980-2_7",
+          "title": "Remodeling the Epigenome Through Meditation: Effects on Brain, Body, and Well-being."
+        },
+        {
+          "pmid": "42238355",
+          "doi": "10.1177/09727531261441080",
+          "title": "Mind-Body Interventions as Modulators of Neural Connectivity and Cognition in Individuals at Risk for Alzheimer's Disease: A Systematic Review."
+        },
+        {
+          "pmid": "39200687",
+          "doi": "10.3390/ijerph21081077",
+          "title": "Comprehensive Review of Chronic Stress Pathways and the Efficacy of Behavioral Stress Reduction Programs (BSRPs) in Managing Diseases."
+        },
+        {
+          "pmid": "40453992",
+          "doi": "10.3389/fpsyg.2025.1538865",
+          "title": "Traditional Islamic spiritual meditative practices: powerful psychotherapies for mental wellbeing."
+        },
+        {
+          "pmid": "42792116",
+          "doi": "10.3390/antiox15091075",
+          "title": "Natural-Product-Derived Antioxidants and DNA Methylation-Based Epigenetic Aging: A Systematic Review of Human Intervention Studies."
+        },
+        {
+          "pmid": "42125239",
+          "doi": "10.3389/fendo.2026.1812524",
+          "title": "Integrated hormonal, metabolic, and epigenetic regulation of corpus luteum function: insights into steroidogenesis, angiogenesis, and regression."
+        },
+        {
+          "pmid": "42553936",
+          "doi": "10.4103/ijoy.ijoy_174_26",
+          "title": "Healthy Aging: A Natural Consequence of Adopting a Yoga-based Lifestyle."
+        },
+        {
+          "pmid": "42609830",
+          "doi": "10.2147/dmso.s597233",
+          "title": "Mindfulness-Based Stress Reduction as an Adjunct Therapy for Gestational Diabetes Mellitus: A Randomized Controlled Trial Protocol."
+        },
+        {
+          "pmid": "41925375",
+          "doi": "10.1080/15592324.2026.2654822",
+          "title": "Plants as silent teachers: bridging plant biology, human physiology, and eastern traditional practices through molecular insights."
+        },
+        {
+          "pmid": "42699264",
+          "doi": "10.2147/jmdh.s629362",
+          "title": "Evidence-Based Perspectives on Complementary and Alternative Medicine in Cancer Treatment: Current Advances and Clinical Relevance."
+        },
+        {
+          "pmid": null,
+          "doi": null,
+          "title": "Biological Mechanisms of Psychotherapeutic Change: A Systematic Review of Neuroimmune, Autonomic and Epigenetic Changes Following CBT, Mindfulness Based and Trauma-Focused Therapies"
+        },
+        {
+          "pmid": "42656482",
+          "doi": "10.3389/fmed.2026.1894441",
+          "title": "A scoping review of clinical &lt;i&gt;Āyurgenomics&lt;/i&gt; studies incorporating &lt;i&gt;Prakṛti&lt;/i&gt; (somatic constitution) assessment and genetic analysis and discussion of their relevance in primary healthcare."
+        },
+        {
+          "pmid": "39595177",
+          "doi": "10.3390/biomedicines12112613",
+          "title": "Neurobiological Changes Induced by Mindfulness and Meditation: A Systematic Review."
+        },
+        {
+          "pmid": "37900433",
+          "doi": "10.7759/cureus.46130",
+          "title": "A Narrative Review of Telomere Length Modulation Through Diverse Yoga and Meditation Styles: Current Insights and Prospective Avenues."
+        },
+        {
+          "pmid": "42701647",
+          "doi": "10.1093/nc/niag046",
+          "title": "Awareness of being: a computational neurophenomenological model of mindfulness, mind-wandering, and meta-attentional control."
+        },
+        {
+          "pmid": "42809251",
+          "doi": "10.4103/ijo.ijo_3157_25",
+          "title": "Cognitive impairment in glaucoma."
+        },
+        {
+          "pmid": null,
+          "doi": "10.31234/osf.io/4xprk_v2",
+          "title": "Effect of meditation across scales: Integrating metabolism, circadian rhythm and epigenetic mechanisms"
+        },
+        {
+          "pmid": "41809163",
+          "doi": "10.5662/wjm.v16.i1.110410",
+          "title": "Role of lifestyle modifications in glaucoma: A systematic review."
+        },
+        {
+          "pmid": "40149853",
+          "doi": "10.3390/biom15030317",
+          "title": "Possible Anti-Aging and Anti-Stress Effects of Long-Term Transcendental Meditation Practice: Differences in Gene Expression, EEG Correlates of Cognitive Function, and Hair Steroids."
+        },
+        {
+          "pmid": "41596440",
+          "doi": "10.3390/ijms27020792",
+          "title": "Training Load Oscillation and Epigenetic Plasticity: Molecular Pathways Connecting Energy Metabolism and Athletic Personality."
+        },
+        {
+          "pmid": "42306381",
+          "doi": "10.7759/cureus.108949",
+          "title": "Neuroscience of Emotional Intelligence: An Integrative Narrative Review."
+        },
+        {
+          "pmid": "41234420",
+          "doi": "10.3389/fpsyt.2025.1671122",
+          "title": "The clinical use of epigenetics in psychiatry: a narrative review of epigenetic mechanisms, key candidate genes, and precision psychiatry."
+        },
+        {
+          "pmid": "40243774",
+          "doi": "10.3390/ijms26073075",
+          "title": "Epigenetic Echoes: Bridging Nature, Nurture, and Healing Across Generations."
+        },
+        {
+          "pmid": "41529878",
+          "doi": "10.1136/bmjopen-2025-110239",
+          "title": "Exploring the mechanisms of yoga-based cardiac rehabilitation in heart failure via assessment of endothelial function, genomics and arterial health (Yoga-EndOmics): a study protocol."
+        },
+        {
+          "pmid": "40400827",
+          "doi": "10.7759/cureus.82690",
+          "title": "Effects of Yoga on Gene Expression: A Systematic Review of Randomised Controlled Trials."
+        },
+        {
+          "pmid": "41925889",
+          "doi": "10.1007/s11033-026-11739-5",
+          "title": "Epigenetic and biomolecular mechanisms in chronic temporomandibular disorder-related pain: an integrative review."
+        },
+        {
+          "pmid": "42415752",
+          "doi": "10.3389/fpubh.2026.1834789",
+          "title": "Contemplative practices for healing historical trauma among BIPOC populations: a scoping review."
+        },
+        {
+          "pmid": "42715153",
+          "doi": "10.12659/msm.952777",
+          "title": "Psychosocial Interventions for Alcohol Use Disorder: A Review of Efficacy, Mechanisms, and Clinical Implications."
+        },
+        {
+          "pmid": "39831098",
+          "doi": "10.4103/jhrs.jhrs_147_24",
+          "title": "Yoga: As a Transformative Approach to Addressing Male Infertility and Enhancing Reproductive Health in Men: A Narrative Review."
+        },
+        {
+          "pmid": "40597247",
+          "doi": "10.1186/s12888-025-07077-8",
+          "title": "Exploring the mechanistic link between the oxytocinergic system and mindfulness training in adults with heightened stress: study protocol for a double-blind, randomized, placebo-controlled trial (MOX-MIND)."
+        },
+        {
+          "pmid": "40414454",
+          "doi": "10.1016/j.neulet.2025.138272",
+          "title": "PCC-hippocampal functional connectivity associated with stress biomarker changes after meditation training for healthy adults."
+        },
+        {
+          "pmid": null,
+          "doi": "10.31234/osf.io/4xprk_v1",
+          "title": "Effect of meditation across scales: Integrating metabolism, circadian rhythm and epigenetic mechanisms in contemplative neuroscience"
+        },
+        {
+          "pmid": "42183570",
+          "doi": "10.1177/09727531261440119",
+          "title": "Alternative and Complementary Therapies: A Review Exploring the Role of Yoga and Ayurveda-based Herbal Medicines in Alleviating Hypothyroidism and Its Neuropsychiatric Manifestations."
+        },
+        {
+          "pmid": null,
+          "doi": null,
+          "title": "Emotional vulnerability and research capacity in medical postgraduates: toward understanding the reciprocal relationship and proposing targeted interventions"
+        },
+        {
+          "pmid": "42499998",
+          "doi": "10.3389/fnsys.2026.1888548",
+          "title": "Neuroinflammation as a failure of allostatic integrity: a hierarchical-circular model of biological memory for pathogenesis in neurodegenerative and neuropsychiatric diseases."
+        },
+        {
+          "pmid": "41623669",
+          "doi": "10.1016/j.bbih.2026.101169",
+          "title": "Novel epigenetic and transcriptomic profiles of immune, inflammatory, and cellular transduction pathways are associated with chronic perceived stress in midlife women."
+        },
+        {
+          "pmid": "42819742",
+          "doi": "10.3389/fonc.2026.1942309",
+          "title": "Beyond survival: psychoneuroimmunology-driven cancer psychological rehabilitation-a paradigm shift from symptom management to biobehavioral remodeling."
+        },
+        {
+          "pmid": "42699749",
+          "doi": "10.1016/j.waojou.2026.101453",
+          "title": "Current perspectives on the psychological stress-immune axis in asthma: Pathophysiology, interventions, and significance for patient care."
+        },
+        {
+          "pmid": "41358649",
+          "doi": "10.1042/ebc20253020",
+          "title": "Epigenetic changes and their potential reversibility in mental health disorders."
+        },
+        {
+          "pmid": null,
+          "doi": "10.31234/osf.io/jw7ze_v2",
+          "title": "Multi-System Brain-Body Mechanisms of Mental Health in Long-Term Meditation: Toward a Science of Advanced Meditation"
+        },
+        {
+          "pmid": "37560036",
+          "doi": "10.1016/j.bbih.2023.100672",
+          "title": "Transcendental Meditation practitioners show reduced expression of the Conserved Transcriptional Response to Adversity."
+        },
+        {
+          "pmid": "42205118",
+          "doi": "10.3389/fnint.2026.1772467",
+          "title": "Consciousness emerges from temporal integration across biological scales: from cellular memory to phenomenological experience."
+        },
+        {
+          "pmid": "42761824",
+          "doi": "10.3389/fpsyt.2026.1887517",
+          "title": "Beyond the brain circuit: a biopsychosocial integrative review of addiction neuroscience, epigenetic mechanisms, and multidisciplinary treatment."
+        },
+        {
+          "pmid": "41809216",
+          "doi": "10.4292/wjgpt.v17.i1.112588",
+          "title": "Liver clock: Malalignment and entrainment therapeutics."
+        },
+        {
+          "pmid": "40535580",
+          "doi": "10.1007/s12671-025-02584-x",
+          "title": "Multidimensional Analysis of Twin Sets During an Intensive Week-Long Meditation Retreat: A Pilot Study."
+        },
+        {
+          "pmid": "41836011",
+          "doi": "10.3389/fphar.2026.1765786",
+          "title": "The impact of nutritional, environmental, and lifestyle factors on neurological disorders: therapeutic implications and mechanistic insights."
+        },
+        {
+          "pmid": "42653184",
+          "doi": "10.3390/ijms27167177",
+          "title": "Prenatal Stress, Enteric Nervous System Development, and the Microbiota-Gut-Brain Axis: A Hypothesis-Generating Framework for Irritable Bowel Syndrome and Fibromyalgia."
+        },
+        {
+          "pmid": "41180129",
+          "doi": "10.1177/27536130251388378",
+          "title": "Efficacy of an Integrated Heartfulness Meditation and Yoga Protocol in Hypertensive Patients: A Randomized Controlled Study."
+        },
+        {
+          "pmid": "41694821",
+          "doi": "10.7759/cureus.101478",
+          "title": "Effects of Isha Yoga Practices on Health Outcomes: A Systematic Review of Controlled Studies."
+        },
+        {
+          "pmid": "37976257",
+          "doi": "10.1371/journal.pone.0283169",
+          "title": "Epigenetic, psychological, and EEG changes after a 1-week retreat based on mindfulness and compassion for stress reduction in healthy adults: Study protocol of a cross-over randomized controlled trial."
+        },
+        {
+          "pmid": "42693340",
+          "doi": "10.1007/s11013-026-10021-4",
+          "title": "…And Breathe! Wellness, the Nation, and Holistic Reproductive Practitioners in India."
+        },
+        {
+          "pmid": "42125186",
+          "doi": "10.1016/j.smhs.2025.07.007",
+          "title": "Regulation of the gut microbiota through meditation and exercise: Potential for enhancing physical well-being across all ages in the twenty-first century."
+        },
+        {
+          "pmid": null,
+          "doi": null,
+          "title": "Chronic Occupational Stress and Immune–Inflammatory Dysregulation: Mechanisms, Clinical Consequences, Biomarkers and Implications for Occupational Medicine"
+        },
+        {
+          "pmid": "41972699",
+          "doi": "10.3390/cells15070609",
+          "title": "When Trauma Crosses Generations: Mechanisms, Clinical Patterns and Therapeutic Implications of Transgenerational Trauma-A Systematic Review."
+        },
+        {
+          "pmid": "42293235",
+          "doi": "10.3389/frph.2026.1821411",
+          "title": "Integrating evidence-based lifestyle and adjunct therapies for long-term management of polycystic ovary syndrome: mechanistic insights and clinical implications."
+        },
+        {
+          "pmid": null,
+          "doi": null,
+          "title": "Epigenomics and Schizophrenia: A Literature Review"
+        },
+        {
+          "pmid": "40862190",
+          "doi": "10.12998/wjcc.v13.i24.106864",
+          "title": "Mindfulness-based interventions in oncology: A scoping review of outcomes and applications."
+        },
+        {
+          "pmid": "41762181",
+          "doi": "10.1016/j.jacasi.2026.01.017",
+          "title": "Cardiovascular Disease Prevention: Contexts, Challenges, and Opportunities to Achieve Implementation of Healthy Lifestyle Behavioral Changes."
+        },
+        {
+          "pmid": "41190086",
+          "doi": "10.1093/ckj/sfaf307",
+          "title": "Epigenetic mechanisms of salt-sensitive hypertension."
+        },
+        {
+          "pmid": "42298556",
+          "doi": "10.1186/s12964-026-02998-7",
+          "title": "Neurotransmitters in cancer: how receptor signaling and posttranslational modifications modulate tumor progression and offer new therapeutic targets."
+        },
+        {
+          "pmid": null,
+          "doi": null,
+          "title": "Impact of a mindfulness-based cognitive behavioral group intervention on psychological outcomes in women with endometriosis: a controlled clinical study plan and protocol"
+        },
+        {
+          "pmid": "41780827",
+          "doi": "10.1016/j.tjnut.2026.101461",
+          "title": "Advancing Whole-Person Health through Informatics: A Narrative Review of Knowledge Resources for Complementary and Integrative Health."
+        },
+        {
+          "pmid": "42311251",
+          "doi": "10.3389/fonc.2026.1865168",
+          "title": "Stress, breast cancer, and the epigenetic echo: moving beyond the polygenic narrative?"
+        },
+        {
+          "pmid": "41751429",
+          "doi": "10.3390/cimb48020163",
+          "title": "From Genetic Determinism to Epigenetic Regulation: Paradigm Shifts in the Understanding of Neurodevelopmental Disorders."
+        },
+        {
+          "pmid": "42756918",
+          "doi": "10.1136/wjps-2026-001205",
+          "title": "Maternal and perinatal risk factors for necrotizing enterocolitis."
+        },
+        {
+          "pmid": "42164563",
+          "doi": "10.2174/0113892029402870251108055234",
+          "title": "Epigenetics of Chronic Stress: Mechanisms and Health Impacts."
+        },
+        {
+          "pmid": "41516982",
+          "doi": "10.3390/healthcare14010051",
+          "title": "Translational Lifestyle Medicine Approaches to Cardiovascular-Kidney-Metabolic Syndrome."
+        },
+        {
+          "pmid": "40502528",
+          "doi": "10.1016/j.bbih.2025.101022",
+          "title": "Psychoneuroimmunology of Mindfulness: What works, how it works, and for whom?"
+        },
+        {
+          "pmid": "42238740",
+          "doi": "10.1177/15593258261444920",
+          "title": "A Modern Odyssey of Prevention: Integrating Nutrition and Lifestyle in Radiation Mitigation- A Narrative Review."
+        },
+        {
+          "pmid": "42242846",
+          "doi": "10.6133/apjcn.202606_35(3).0002",
+          "title": "The rise of nutrigenomic retreats: Integrating culinary education, wellness, and personalized nutrition in the era of genomic health."
+        },
+        {
+          "pmid": "41000340",
+          "doi": "10.3389/fpsyt.2025.1519670",
+          "title": "Digital resilience interventions for healthcare workers: a systematic review."
+        },
+        {
+          "pmid": null,
+          "doi": null,
+          "title": "Low Dose Naltrexone in Depression: A Mechanistic Systematic Review of Convergent Neuroimmune Suppression and Endogenous Opioid Plasticity as a Mechanistic Framework"
+        },
+        {
+          "pmid": "41020112",
+          "doi": "10.3389/fpsyg.2025.1653242",
+          "title": "Psychological assessments, allostatic load and gene expression analyses in a randomized controlled trial comparing meditation, yoga, and stress education."
+        },
+        {
+          "pmid": "41799887",
+          "doi": "10.3389/fnins.2026.1769779",
+          "title": "Tai Chi exercise and neuroplasticity: a narrative review according to neural mechanisms and clinical utilizations in brain health."
+        },
+        {
+          "pmid": "40281701",
+          "doi": "10.3390/bioengineering12040341",
+          "title": "Current Research in Drug-Free Cancer Therapies."
+        },
+        {
+          "pmid": null,
+          "doi": null,
+          "title": "Social exclusion in educational settings and the risk of alienation in adolescent development: a narrative review from a mind-body interaction perspective"
+        },
+        {
+          "pmid": "42077290",
+          "doi": "10.3389/fpsyg.2026.1791262",
+          "title": "Challenging the prescientific frameworks of criminal justice: neurobiology and criminolytic interventions in the legalome era."
+        },
+        {
+          "pmid": "40933164",
+          "doi": "10.5498/wjp.v15.i9.107726",
+          "title": "Epigenetics and immunology: Under-recognized aspects of suicidality."
+        }
+      ]
+    },
+    {
+      "name": "clinical-search",
+      "query": "(mindfulness OR \"mindfulness-based cognitive therapy\" OR \"mindfulness-based stress reduction\") AND (\"randomized controlled trial\" OR \"randomised controlled trial\") AND FIRST_PDATE:[2022-01-01 TO 2026-10-23]",
+      "hitCount": 11354,
+      "retrieved": 100,
+      "screening": "Discovery only. First 100 relevance-ranked results plus targeted searches; not exhaustive or a systematic review.",
+      "candidates": [
+        {
+          "pmid": "42852592",
+          "doi": "10.1111/bjc.70101",
+          "title": "The effect of an integrated application-supported mindfulness-based cognitive therapy programme on depression among adolescents with non-suicidal self-injury: A randomized controlled trial."
+        },
+        {
+          "pmid": "42609640",
+          "doi": "10.15388/amed.2026.33.1.5",
+          "title": "Effects of Psychological Interventions on Depression Symptoms in Oncology Patients: A Systematic Review."
+        },
+        {
+          "pmid": "42726155",
+          "doi": "10.1007/s11764-026-02069-3",
+          "title": "The effect of mindfulness-based cognitive therapy on sexual self-esteem in women with breast cancer after mastectomy: a randomized controlled trial."
+        },
+        {
+          "pmid": "42431671",
+          "doi": "10.1136/bmjopen-2026-116849",
+          "title": "Effects of open- versus closed-skill exercise combined with mindfulness training on inhibitory control in children with ADHD: protocol for a three-arm randomised controlled trial with fMRI."
+        },
+        {
+          "pmid": "42777425",
+          "doi": "10.1016/j.jocn.2026.112303",
+          "title": "Application effect and sleep quality impact of multimodal analgesia (MMA) combined with Mindfulness-Based stress reduction (MBSR) therapy in Post-Spinal fusion surgery patients."
+        },
+        {
+          "pmid": null,
+          "doi": null,
+          "title": "Efficacy of Mindfulness-Based Cognitive Therapy in the Recovery Phase of Schizophrenia"
+        },
+        {
+          "pmid": "42450885",
+          "doi": "10.3390/healthcare14131875",
+          "title": "Digital and In-Person Mindfulness-Based Interventions for University Students' Mental Health: A Systematic Review of Randomized Controlled Trials."
+        },
+        {
+          "pmid": "42648548",
+          "doi": "10.1016/j.jad.2026.122433",
+          "title": "Decreased accumbens-amygdala connectivity is associated with sleep improvement in late-life depression following mindfulness-based cognitive therapy."
+        },
+        {
+          "pmid": null,
+          "doi": "10.64898/2026.06.21.26356048",
+          "title": "Changes in hierarchical brain dynamics of rumination following mindfulness-based cognitive therapy for depression"
+        },
+        {
+          "pmid": "42614598",
+          "doi": "10.3389/fdgth.2026.1902063",
+          "title": "Effect of virtual reality-integrated mindfulness-based cognitive therapy on pain and psychological symptoms in chronic non-specific low back pain: protocol for a randomized controlled trial."
+        },
+        {
+          "pmid": "42720252",
+          "doi": "10.1080/13548506.2026.2728576",
+          "title": "Stress reduction based on awareness for women affected by disasters: a randomized controlled trial."
+        },
+        {
+          "pmid": "42780643",
+          "doi": "10.1002/hsr2.73154",
+          "title": "Effects of a Brief Inpatient Mindfulness-Based Stress Reduction Program on Psychological Distress and Marital Satisfaction in High-Risk Pregnancy: A Randomized Controlled Trial."
+        },
+        {
+          "pmid": "42018993",
+          "doi": "10.2196/81579",
+          "title": "Interventions to Reduce Fear of Cancer Recurrence Among People With Cancer: Scoping Review."
+        },
+        {
+          "pmid": "42777261",
+          "doi": "10.2196/98632",
+          "title": "Feasibility of a Virtual Mindfulness-Based Stress Reduction Intervention for Individuals With Chronic Pain: Pilot Randomized Controlled Trial."
+        },
+        {
+          "pmid": "42283746",
+          "doi": "10.1007/s00406-026-02288-w",
+          "title": "Efficacy of mindfulness-based cognitive therapy in mitigating depressive symptoms and suicidal ideation among institutionalized patients with major depressive disorder: findings from a randomized controlled trial."
+        },
+        {
+          "pmid": "42719907",
+          "doi": "10.2147/amep.s630469",
+          "title": "A Systematic Review of Psychosocial Interventions for Enhancing Resilience in Medical Sciences Students."
+        },
+        {
+          "pmid": "42297152",
+          "doi": "10.1016/j.jad.2026.122131",
+          "title": "The effect of a mindfulness-based stress reduction program on stress and quality of life in mothers of children with physical disabilities: A single-blind randomized controlled trial."
+        },
+        {
+          "pmid": null,
+          "doi": null,
+          "title": "Digital health interventions for psychological and cognitive care in cancer patients and caregivers: A RE‐AIM‐based systematic review"
+        },
+        {
+          "pmid": "42319498",
+          "doi": "10.1007/s00737-026-01737-8",
+          "title": "The effect of mindfulness-based stress reduction training on fear of childbirth and psychological well-being in women experiencing premenstrual syndrome: a randomized controlled trial."
+        },
+        {
+          "pmid": "41791601",
+          "doi": "10.1016/j.jad.2026.121549",
+          "title": "Effects of different mind-body interventions for pregnant women on mental health: A systematic review and network meta-analysis of randomized controlled trials."
+        },
+        {
+          "pmid": "41677086",
+          "doi": "10.1002/cnr2.70494",
+          "title": "Positive Psychology Interventions in Patients With Prostate Cancer: A Systematic Review."
+        },
+        {
+          "pmid": "42560960",
+          "doi": "10.1371/journal.pone.0354802",
+          "title": "Mindfulness-based cognitive therapy for children (MBCT-C) on internalizing, externalizing, and attention problems in children from single-parent families: A study protocol for a crossover randomized clinical trial."
+        },
+        {
+          "pmid": "42477996",
+          "doi": "10.1177/00332941261463476",
+          "title": "The Orientation on Being Program: A Prospective Pilot Study Comparing Its Results With the Standard Mindfulness-Based Stress Reduction Program."
+        },
+        {
+          "pmid": "42245250",
+          "doi": "10.1177/02537176261442071",
+          "title": "Corrigendum to \"The Efficacy and Durability of Mindfulness-based Cognitive Therapy in the Treatment of Anxiety and Depressive Disorders: A Systematic Review and Meta-analysis.\""
+        },
+        {
+          "pmid": "42399888",
+          "doi": "10.1186/s12906-026-05452-w",
+          "title": "Comparison of the effects of haptonomy application and mindfulness-based stress reduction on psychological well-being, perceived stress, and fear of childbirth in primiparous women: a randomized controlled trial."
+        },
+        {
+          "pmid": "42659494",
+          "doi": "10.1590/0034-7167-2025-0252",
+          "title": "Self-compassion interventions for family caregivers of people with dementia: a scoping review."
+        },
+        {
+          "pmid": "42107153",
+          "doi": "10.1016/j.janxdis.2026.103173",
+          "title": "Efficacy and mechanisms of internet-delivered mindfulness-based cognitive therapy for Adjustment Disorder: A randomized controlled trial."
+        },
+        {
+          "pmid": "42166881",
+          "doi": "10.1016/j.pedn.2026.05.008",
+          "title": "Effects of mindfulness-based stress reduction on levels of depression, anxiety, stress, and hopelessness in parents of children with autism: A randomized controlled trial."
+        },
+        {
+          "pmid": "42418697",
+          "doi": "10.2196/85388",
+          "title": "Resilience and Stress Among Health Care Workers Participating in the StressPal Frontline Program: Quasi-Experimental Pretest-Posttest Study."
+        },
+        {
+          "pmid": "42402593",
+          "doi": "10.1186/s13034-026-01134-0",
+          "title": "Follow-up effects of mindfulness-based interventions on anxiety in adolescents: a systematic review and meta-analysis of randomized controlled trials."
+        },
+        {
+          "pmid": "41827626",
+          "doi": "10.3390/healthcare14050673",
+          "title": "Mindfulness-Based Interventions for Bereavement: A Systematized Narrative Review."
+        },
+        {
+          "pmid": "42183495",
+          "doi": "10.3389/fpsyg.2026.1738053",
+          "title": "Mindfulness-based therapy for chronic tinnitus: a narrative review."
+        },
+        {
+          "pmid": "42350829",
+          "doi": "10.1007/s10548-026-01227-1",
+          "title": "Electrocortical Indices of Default Mode Network-Related Activity in ADHD and Modulation Through Mindfulness-Based Cognitive Therapy."
+        },
+        {
+          "pmid": "41973869",
+          "doi": "10.2196/86276",
+          "title": "Feasibility of Internet-Based Mind-Body Training for Adults With Subjective Cognitive Decline: Protocol for a Randomized Controlled Trial."
+        },
+        {
+          "pmid": "42453540",
+          "doi": "10.2147/jmdh.s616728",
+          "title": "Mindfulness-Based Spiritual Interventions for Patients with Advanced Cancer Receiving Palliative Care: A Systematic Review of Randomized Controlled Trials."
+        },
+        {
+          "pmid": "42793561",
+          "doi": "10.3390/healthcare14183024",
+          "title": "Mindfulness in Unemployment and Sense of Coherence: A Systematic Review of Quality of Life and Indirect Evidence."
+        },
+        {
+          "pmid": "41881490",
+          "doi": "10.1111/wvn.70132",
+          "title": "Effectiveness of Mindfulness-Based Art Therapy for Oncology Nurses: A Randomized Controlled Trial."
+        },
+        {
+          "pmid": null,
+          "doi": "10.64898/2026.06.26.26356643",
+          "title": "Complex harmonic manifolds in mindfulness-based cognitive therapy for major depressive disorder"
+        },
+        {
+          "pmid": "41827575",
+          "doi": "10.3390/healthcare14050621",
+          "title": "Mindfulness Interventions on Mental Health in Working Adults: A Scoping Review."
+        },
+        {
+          "pmid": null,
+          "doi": "10.21203/rs.3.rs-9502810/v1",
+          "title": "The Effect of Mindfulness-Based Stress Reduction Training on Fear of Childbirth and Psychological Well-being in Women Experiencing Premenstrual Syndrome: A Randomized Controlled Trial"
+        },
+        {
+          "pmid": "42503602",
+          "doi": "10.1111/jnu.70116",
+          "title": "The Effect of a Mindfulness-Based Stress Reduction (MBSR) Program on Quality of Life, Life Satisfaction, Sleep Quality, and Mental Well-Being in Menopausal Women: A Randomized Controlled Trial."
+        },
+        {
+          "pmid": "42217630",
+          "doi": "10.1016/j.jaad.2026.05.085",
+          "title": "Mindfulness-based cognitive therapy for psoriasis."
+        },
+        {
+          "pmid": "42793441",
+          "doi": "10.3390/healthcare14182902",
+          "title": "Mind-Body Therapies for Multimorbidity: A Bibliometric Analysis and Evidence Map."
+        },
+        {
+          "pmid": null,
+          "doi": null,
+          "title": "277. Efficacy and safety of SAT-014, a digital therapeutic for stress-related disorders: a pivotal randomized controlled trial"
+        },
+        {
+          "pmid": "42240608",
+          "doi": "10.1080/10790268.2026.2662104",
+          "title": "Development and effectiveness of a mindfulness-based cognitive therapy for individuals with spinal cord injury: Changes in quality of life and inflammatory biomarkers."
+        },
+        {
+          "pmid": "41975444",
+          "doi": "10.1186/s13063-026-09697-1",
+          "title": "Effect of brief online mindfulness-based cognitive therapy in patients with digital replantation: a study protocol for a randomized controlled trial."
+        },
+        {
+          "pmid": "42609830",
+          "doi": "10.2147/dmso.s597233",
+          "title": "Mindfulness-Based Stress Reduction as an Adjunct Therapy for Gestational Diabetes Mellitus: A Randomized Controlled Trial Protocol."
+        },
+        {
+          "pmid": "42333254",
+          "doi": "10.2147/jpr.s600859",
+          "title": "Psychological Subtypes and Intervention Strategies in Burning Mouth Syndrome: A Narrative Review."
+        },
+        {
+          "pmid": "42216329",
+          "doi": "10.1097/md.0000000000048780",
+          "title": "A bibliometric analysis and knowledge mapping of cognitive behavioral therapy research in depression over 20 years."
+        },
+        {
+          "pmid": "42633520",
+          "doi": "10.62641/aep.v54i4.2225",
+          "title": "Clinical Outcomes of Phased Rehabilitation Nursing Combined With Mindfulness-Based Stress Reduction in Patients With Acute Cerebral Infarction."
+        },
+        {
+          "pmid": "42094090",
+          "doi": "10.1155/ogi/1249143",
+          "title": "Effect of Online Mindfulness-Based Stress Reduction on Psychological Distress and Pregnancy Rate in Infertile Women Undergoing In Vitro Fertilization."
+        },
+        {
+          "pmid": "42247631",
+          "doi": "10.2196/93627",
+          "title": "Evaluating an Abbreviated Version of Mindfulness-Based Cognitive Therapy Delivered via Telephone or Videoconferencing Compared to Enhanced Usual Care-Treatment for Migraine and Mood (TEAM-M) Study: Protocol for a Three-Arm Multisite Randomized Controlled Feasibility Trial."
+        },
+        {
+          "pmid": "42073006",
+          "doi": "10.3390/healthcare14081106",
+          "title": "Yoga and Mindfulness-Based Rehabilitation After Myocardial Infarction: A Systematic Review."
+        },
+        {
+          "pmid": "42583739",
+          "doi": "10.1002/pon.70566",
+          "title": "Improving Cognitive Impairment in Cancer Patients With an Online Course in Mindfulness-Based Stress Reduction-A Randomized Controlled Trial."
+        },
+        {
+          "pmid": null,
+          "doi": "10.21203/rs.3.rs-8648236/v1",
+          "title": "Traditional Buddhist Mindfulness versus Secular Mindfulness-based Cognitive Therapy for Residual Depressive Symptoms in Patients Treated for Depressive Disorder: A Pilot Randomized Controlled Trial"
+        },
+        {
+          "pmid": "42551008",
+          "doi": "10.2196/88388",
+          "title": "Effects of Remotely Delivered and Web-Based Interventions on Depression Severity During the COVID-19 Pandemic: 3-Arm Randomized Controlled Trial."
+        },
+        {
+          "pmid": "42316845",
+          "doi": "10.1002/pon.70526",
+          "title": "Mindfulness-Based Stress Reduction for Breast Cancer Survivors (MBSR[BC]) Improves Self-Reported Optimism."
+        },
+        {
+          "pmid": "41461577",
+          "doi": "10.1177/00207640251405457",
+          "title": "Evaluating the Efficacy of Mindfulness-Based Cognitive Therapy in Alleviating Depressive Symptoms, Reducing Rumination, and Preventing Relapse Among the Institutionalized Patients in Nigeria: A Randomized Controlled Trial."
+        },
+        {
+          "pmid": "41931358",
+          "doi": "10.1097/md.0000000000048134",
+          "title": "Effectiveness of mindfulness-based stress reduction in managing fatigue, anxiety, and depression among non-small cell lung cancer patients receiving surgery and adjuvant chemotherapy: A randomized controlled trial."
+        },
+        {
+          "pmid": "42805662",
+          "doi": "10.1136/bmjopen-2025-115482",
+          "title": "Why did antidepressant deprescribing fail? A scoping review of contributing factors."
+        },
+        {
+          "pmid": "42109285",
+          "doi": "10.3389/fpsyt.2026.1810049",
+          "title": "Mindfulness-based intervention for patients with generalized anxiety disorder: a randomized controlled trial."
+        },
+        {
+          "pmid": "42023679",
+          "doi": "10.1002/jclp.70137",
+          "title": "Combining Mindfulness-Based Cognitive Therapy With Escitalopram for Cognitive and Emotional Recovery in Older Adults With Treatment-Resistant Depression."
+        },
+        {
+          "pmid": "41637431",
+          "doi": "10.2196/79639",
+          "title": "Mindfulness-Based Self-Management Program Using a Mobile App for Patients With Pulmonary Hypertension: Single-Arm Feasibility Study."
+        },
+        {
+          "pmid": "42518781",
+          "doi": "10.1016/j.bpsgos.2026.100753",
+          "title": "Dynamic Repertoire of Brain Networks in Mindfulness-Based Cognitive Therapy During Rumination: A Randomized Controlled Trial."
+        },
+        {
+          "pmid": "42615503",
+          "doi": "10.1097/j.pain.0000000000004030",
+          "title": "Relationships among mechanisms in psychosocial treatments for chronic pain: mechanism to mechanism lagged effects and relationships with outcomes."
+        },
+        {
+          "pmid": "42509899",
+          "doi": "10.3390/children13070874",
+          "title": "Mindfulness for Stress Reduction in Parents of Children with Attention Deficit Hyperactivity Disorder: A Systematic Review."
+        },
+        {
+          "pmid": "42529893",
+          "doi": "10.1111/nicc.70613",
+          "title": "Effects of an Online Meditation Programme on Stress and Fatigue in Critical Care Nurses: A Randomised Controlled Trial."
+        },
+        {
+          "pmid": null,
+          "doi": null,
+          "title": "Cohesion at First Sight. Experiences from Group Work in the BOJE Mental Health Support Programme (Colours) for LGBTQIA+ People in Croatia"
+        },
+        {
+          "pmid": "42824371",
+          "doi": "10.3389/fpsyg.2026.1810901",
+          "title": "A randomized controlled trial comparing Mindfulness and Heartfulness meditation programmes on stress, anxiety, depressive symptoms and wellbeing among distance-learning postgraduates."
+        },
+        {
+          "pmid": "41446302",
+          "doi": "10.3389/fpsyt.2025.1655057",
+          "title": "Effects of mindfulness-based interventions on insight and stigma in patients with schizophrenia: a systematic review and meta-analysis."
+        },
+        {
+          "pmid": "42596958",
+          "doi": "10.1002/pmf2.70305",
+          "title": "Cost-effectiveness of virtual Mindfulness-Based Cognitive Therapy on pregnancies at high risk of perinatal depression."
+        },
+        {
+          "pmid": "42180004",
+          "doi": "10.3389/fpsyt.2026.1809626",
+          "title": "Effectiveness of mindfulness-based stress reduction for depression in post-stroke patients: a systematic review and meta-analysis."
+        },
+        {
+          "pmid": "42614327",
+          "doi": "10.3389/fpsyt.2026.1868153",
+          "title": "Mindfulness-based interventions for perinatal depression, anxiety, and stress: a systematic review and meta-analysis of randomized controlled trials, with an exploratory subgroup signal by delivery mode."
+        },
+        {
+          "pmid": "41398548",
+          "doi": "10.1007/s11739-025-04225-6",
+          "title": "Supporting emergency departments workers well-being: a systematic review of the literature on interventions."
+        },
+        {
+          "pmid": "41548095",
+          "doi": "10.1080/07481187.2026.2613244",
+          "title": "The effects of Mindfulness-Based Stress Reduction program on stress, subjective anxiety, self-compassion, and prenatal attachment in pregnant women with perinatal loss: A randomized controlled trial."
+        },
+        {
+          "pmid": "42378358",
+          "doi": "10.31053/1853.0605.v83.n2.49503",
+          "title": "Effectiveness of strategies to prevent burnout syndrome in hospital-based healthcare personnel: an overview of systematic reviews"
+        },
+        {
+          "pmid": "41757805",
+          "doi": "10.1177/21650799261421549",
+          "title": "Effectiveness of Mindfulness-Based Stress Reduction Program on Job Satisfaction and Psychological Distress of Care Workers for Older Adults."
+        },
+        {
+          "pmid": "41423851",
+          "doi": "10.1080/09540121.2025.2605514",
+          "title": "The effectiveness of mindfulness-based cognitive therapy on happiness of women with HIV in Iran."
+        },
+        {
+          "pmid": null,
+          "doi": "10.20944/preprints202512.0493.v1",
+          "title": "Effects of Mindfulness-Based Cognitive Therapy on Parental Mental Health and Child Behavior in Families of Children with Autism Spectrum Disorder: A Randomized Controlled Trial"
+        },
+        {
+          "pmid": "41996463",
+          "doi": "10.2196/79928",
+          "title": "Long-Term Outcomes, Moderators, and Predictors in Online Mindfulness-Based Cognitive Therapy for People With Cancer: Secondary Analysis of a Randomized Controlled Trial."
+        },
+        {
+          "pmid": "40544956",
+          "doi": "10.1016/j.cct.2025.107991",
+          "title": "Peer-supported mindfulness-based intervention for managing depressive symptoms in community-dwelling older adults: Protocol for a randomized controlled trial."
+        },
+        {
+          "pmid": "42512159",
+          "doi": "10.3390/ijerph23070853",
+          "title": "Effectiveness of an Online Mindfulness-Based Intervention for Improving Mental Health in Undergraduate Students: A Randomized Clinical Trial."
+        },
+        {
+          "pmid": "42837269",
+          "doi": "10.1093/milmed/usag437",
+          "title": "Interventions to Reduce Burnout for Military Physicians: A Scoping Review."
+        },
+        {
+          "pmid": "41689229",
+          "doi": "10.1136/bmjopen-2025-113227",
+          "title": "Effects of acupuncture and mindfulness-based stress reduction for chronic non-specific low back pain: study protocol for a 2×2 factorial randomised controlled trial."
+        },
+        {
+          "pmid": "42591160",
+          "doi": "10.3389/fonc.2026.1780224",
+          "title": "Efficacy of mindfulness-based stress reduction versus usual care in patients with breast cancer: a meta-analysis with trial sequential analysis of randomized controlled trials."
+        },
+        {
+          "pmid": "41991263",
+          "doi": "10.1136/bmjopen-2025-106362",
+          "title": "Negative effects of mindfulness-based cognitive therapy and cognitive behavioural analysis system of psychotherapy for patients with 'difficult to treat' depression: protocol for a systematic review and individual participant data meta-analysis."
+        },
+        {
+          "pmid": "42061848",
+          "doi": "10.2196/85913",
+          "title": "Effectiveness and Cost-Effectiveness of an App-Based Mindfulness Breast Care Program for Reducing Body Image Distress and Stigma Among Survivors of Breast Cancer: Randomized Controlled Trial."
+        },
+        {
+          "pmid": "41634335",
+          "doi": "10.1038/s44184-026-00188-4",
+          "title": "Effects of mindfulness-based interventions on perceived stress among non-clinical adults: a systematic review and meta-analysis."
+        },
+        {
+          "pmid": "41873031",
+          "doi": "10.1002/pon.70435",
+          "title": "Efficacy of Mindfulness-Based Interventions for Reducing Cancer-Related Fatigue: A Systematic Review and Meta-Analysis."
+        },
+        {
+          "pmid": "41315905",
+          "doi": "10.1186/s10194-025-02237-3",
+          "title": "Efficacy of psychological treatment for tension-type headache: a systematic review and meta-analysis."
+        },
+        {
+          "pmid": "42434742",
+          "doi": "10.3389/fonc.2026.1860619",
+          "title": "Integrative oncology in colorectal cancer: evidence-based strategies from prevention through survivorship."
+        },
+        {
+          "pmid": "42565746",
+          "doi": "10.1111/ggi.70648",
+          "title": "Comment on \"Adaptation Processes to Loneliness Among Older Adults: A Qualitative Study\"."
+        },
+        {
+          "pmid": "41783660",
+          "doi": "10.1007/s40675-026-00359-x",
+          "title": "Behavioral Sleep Therapies During the Perinatal Period: A Scoping Review."
+        },
+        {
+          "pmid": "42533822",
+          "doi": "10.1017/s0033291726104735",
+          "title": "The effect of mindfulness-based cognitive therapy on non-suicidal self-injury in hospitalized adolescents with depressive disorders: a randomized controlled trial."
+        },
+        {
+          "pmid": "41966722",
+          "doi": "10.1016/j.midw.2026.104807",
+          "title": "Asynchronous online versus face-to-face mindfulness training for maternal mental health: A randomised controlled trial."
+        },
+        {
+          "pmid": "42179980",
+          "doi": "10.3389/fpsyt.2026.1798650",
+          "title": "Mindfulness and clinical hypnotherapy in sexual desire disorders: mechanisms, psychophysiological pathways, and integrative therapeutic sequencing."
+        },
+        {
+          "pmid": "39810118",
+          "doi": "10.1186/s12887-024-05310-z",
+          "title": "Assessing the impact of mindfulness programs on attention-deficit/ hyperactivity disorder in children and adolescents: a systematic review."
+        },
+        {
+          "pmid": "40658641",
+          "doi": "10.1093/ibd/izaf116",
+          "title": "Group-Delivered Mindfulness-Based Cognitive Therapy to Reduce Psychological Distress and Improve Sleep in Patients With Inflammatory Bowel Diseases: A Multicenter Randomized Controlled Trial (MindIBD)."
+        },
+        {
+          "pmid": "42218331",
+          "doi": "10.1038/s44184-026-00216-3",
+          "title": "Mindfulness-based interventions and cognitive behavioral therapy for depression, anxiety, and stress in adults with chronic conditions: a stratified subgroup meta-analysis."
+        },
+        {
+          "pmid": "41017006",
+          "doi": "10.1007/s10484-025-09738-6",
+          "title": "The Impact of Neurofeedback and Mindfulness-Based Cognitive Therapy on Chinese Students' Social, Emotional, and Academic Adjustment."
+        }
+      ]
+    }
+  ],
+  "selectedRecords": [
+    "pmid-41534731",
+    "pmid-41020112",
+    "pmid-39680432",
+    "pmid-38671329",
+    "pmid-37982547",
+    "pmid-37560036",
+    "pmid-36350591",
+    "pmid-36267832",
+    "pmid-35820992",
+    "pmid-35427760",
+    "pmid-36278141",
+    "pmid-27002445",
+    "pmid-26241597",
+    "pmid-25907157",
+    "pmid-25537522",
+    "pmid-24485481",
+    "pmid-22820409",
+    "pmid-40379363",
+    "doi-10.1007-s12671-026-02877-9"
+  ],
+  "criteria": [
+    "Direct human molecular measurements connected to a defined meditation or mindfulness intervention; retain null findings and clearly label observational designs.",
+    "Clinical RCTs selected for sample size, active comparators, prespecified outcomes, relevance to anxiety/PTSD/depression and informative null findings. No blanket high-quality label before appraisal.",
+    "Do not count secondary publications as independent trials.",
+    "No Jadad scores inferred from study design, topic crosses or abstract alone."
+  ],
+  "newRecordCount": 8,
+  "augmentedRecordCount": 11
+}

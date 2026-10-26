@@ -1,0 +1,66 @@
+{
+  "verified_on": "2026-10-18",
+  "scope": "M9 and M18 only; native Gamma and Beta with original alignment",
+  "records": [
+    {
+      "modulus": 9,
+      "page_id": "3fb7b9c9-9c56-8137-a2c5-c99b7bc2a1ee",
+      "probability": "Approximately 1 in 195.1 billion",
+      "exact": "263/51305410956800",
+      "one_in": 195077608200.76047,
+      "changed_properties": [],
+      "verified": true
+    },
+    {
+      "modulus": 18,
+      "page_id": "3fb7b9c9-9c56-81dd-8058-e69548b963aa",
+      "probability": "Approximately 1 in 5.88 trillion",
+      "exact": "491/2885929366320000",
+      "one_in": 5877656550549.898,
+      "changed_properties": [
+        "Atlas staging",
+        "JSON staging",
+        "Probability",
+        "Probability exact",
+        "Probability method",
+        "Probability one in"
+      ],
+      "verified": true
+    },
+    {
+      "modulus": 27,
+      "page_id": "3fb7b9c9-9c56-810f-84a9-c5902c0c9b46",
+      "probability": null,
+      "exact": null,
+      "one_in": null,
+      "changed_properties": [
+        "Probability method"
+      ],
+      "verified": true
+    },
+    {
+      "modulus": 36,
+      "page_id": "3fb7b9c9-9c56-81aa-a715-f609e29eeadd",
+      "probability": null,
+      "exact": null,
+      "one_in": null,
+      "changed_properties": [
+        "Probability method"
+      ],
+      "verified": true
+    },
+    {
+      "modulus": 45,
+      "page_id": "3fb7b9c9-9c56-81c9-8d95-f0df3b6e15c6",
+      "probability": null,
+      "exact": null,
+      "one_in": null,
+      "changed_properties": [
+        "Probability method"
+      ],
+      "verified": true
+    }
+  ],
+  "unrelated_properties_preserved": true,
+  "unselected_page_content_preserved": true
+}

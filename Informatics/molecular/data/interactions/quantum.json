@@ -1,0 +1,377 @@
+{
+  "schema": "universal-informatics/quantum-fragment/v1",
+  "software": "PySCF 2.14.0",
+  "method": "PBE0 / def2-SVP",
+  "densityFitting": true,
+  "gridLevel": 3,
+  "scfConverged": true,
+  "convergenceToleranceHartree": 1e-09,
+  "totalEnergyHartree": -617.172473610136,
+  "electrons": 108,
+  "charge": 0,
+  "spin": 0,
+  "atoms": [
+    {
+      "element": "C",
+      "position": [
+        -2.9110593449956235,
+        0.0047819159459252525,
+        -0.0005877208557849567
+      ],
+      "name": "CB",
+      "group": "Tyr2"
+    },
+    {
+      "element": "C",
+      "position": [
+        -1.4033459663835248,
+        -0.00025435688840397264,
+        -0.0006502511557356649
+      ],
+      "name": "CG",
+      "group": "Tyr2"
+    },
+    {
+      "element": "C",
+      "position": [
+        -0.688667923861174,
+        1.1864445934857415,
+        0.0010517233863508446
+      ],
+      "name": "CD1",
+      "group": "Tyr2"
+    },
+    {
+      "element": "C",
+      "position": [
+        0.695892522708559,
+        1.1954591135605457,
+        -0.0004002485262292188
+      ],
+      "name": "CE1",
+      "group": "Tyr2"
+    },
+    {
+      "element": "C",
+      "position": [
+        1.390765341349224,
+        -0.0002543568884041669,
+        -0.0006502511557356649
+      ],
+      "name": "CZ",
+      "group": "Tyr2"
+    },
+    {
+      "element": "C",
+      "position": [
+        0.6950285628536534,
+        -1.1949258072765014,
+        2.8480204892711303e-05
+      ],
+      "name": "CE2",
+      "group": "Tyr2"
+    },
+    {
+      "element": "C",
+      "position": [
+        -0.6896725366667857,
+        -1.186469185993032,
+        0.0006205472463490791
+      ],
+      "name": "CD2",
+      "group": "Tyr2"
+    },
+    {
+      "element": "O",
+      "position": [
+        2.75545757442067,
+        0.0014763707222420486,
+        -0.0003132401936421503
+      ],
+      "name": "OH",
+      "group": "Tyr2"
+    },
+    {
+      "element": "H",
+      "position": [
+        -1.2308355281593835,
+        2.120496842175082,
+        0.0018797136687598304
+      ],
+      "name": "HCD1",
+      "group": "Tyr2"
+    },
+    {
+      "element": "H",
+      "position": [
+        1.2392232702388166,
+        2.128835565551455,
+        -0.0007127498448427083
+      ],
+      "name": "HCE1",
+      "group": "Tyr2"
+    },
+    {
+      "element": "H",
+      "position": [
+        1.2380363029906782,
+        -2.128490263356638,
+        5.0731048282792734e-05
+      ],
+      "name": "HCE2",
+      "group": "Tyr2"
+    },
+    {
+      "element": "H",
+      "position": [
+        -1.2324230955084272,
+        -2.120183056721242,
+        0.0011088983794471652
+      ],
+      "name": "HCD2",
+      "group": "Tyr2"
+    },
+    {
+      "element": "H",
+      "position": [
+        -3.274348027898748,
+        0.005996250354853405,
+        1.0270892022413904
+      ],
+      "name": "HC1",
+      "group": "Tyr2"
+    },
+    {
+      "element": "H",
+      "position": [
+        -3.2773847845555326,
+        -0.8839810851194225,
+        -0.5144028629726521
+      ],
+      "name": "HC2",
+      "group": "Tyr2"
+    },
+    {
+      "element": "H",
+      "position": [
+        -3.271439140612169,
+        0.8959715310989889,
+        -0.5144042958655183
+      ],
+      "name": "HC3",
+      "group": "Tyr2"
+    },
+    {
+      "element": "H",
+      "position": [
+        3.0532715418968808,
+        -0.9111609260446426,
+        -0.0002402599837343644
+      ],
+      "name": "HO",
+      "group": "Tyr2"
+    },
+    {
+      "element": "C",
+      "position": [
+        -0.21376701482169402,
+        -7.714392163799808,
+        -1.3183656278517106
+      ],
+      "name": "CB",
+      "group": "Phe291"
+    },
+    {
+      "element": "C",
+      "position": [
+        -1.1012552809967757,
+        -6.567257442485251,
+        -0.9060168573234773
+      ],
+      "name": "CG",
+      "group": "Phe291"
+    },
+    {
+      "element": "C",
+      "position": [
+        -0.6839479973631067,
+        -5.658487248433028,
+        0.052876445097890024
+      ],
+      "name": "CD1",
+      "group": "Phe291"
+    },
+    {
+      "element": "C",
+      "position": [
+        -1.5005146078935292,
+        -4.606183751716874,
+        0.43523925888326787
+      ],
+      "name": "CE1",
+      "group": "Phe291"
+    },
+    {
+      "element": "C",
+      "position": [
+        -2.744314735104637,
+        -4.454788559420242,
+        -0.13343880408299835
+      ],
+      "name": "CZ",
+      "group": "Phe291"
+    },
+    {
+      "element": "C",
+      "position": [
+        -3.1726970964971373,
+        -5.351366011284566,
+        -1.0835184982436061
+      ],
+      "name": "CE2",
+      "group": "Phe291"
+    },
+    {
+      "element": "C",
+      "position": [
+        -2.357111835561643,
+        -6.402571773249482,
+        -1.4678388439925545
+      ],
+      "name": "CD2",
+      "group": "Phe291"
+    },
+    {
+      "element": "H",
+      "position": [
+        0.2917260252645386,
+        -5.777600343390793,
+        0.5003943466160177
+      ],
+      "name": "HCD1",
+      "group": "Phe291"
+    },
+    {
+      "element": "H",
+      "position": [
+        -1.1666065365715572,
+        -3.9004882545517523,
+        1.181496094823078
+      ],
+      "name": "HCE1",
+      "group": "Phe291"
+    },
+    {
+      "element": "H",
+      "position": [
+        -4.149612201615947,
+        -5.229523922452531,
+        -1.5275808618590612
+      ],
+      "name": "HCE2",
+      "group": "Phe291"
+    },
+    {
+      "element": "H",
+      "position": [
+        -2.6951378866030526,
+        -7.105991911884666,
+        -2.214389912158569
+      ],
+      "name": "HCD2",
+      "group": "Phe291"
+    },
+    {
+      "element": "H",
+      "position": [
+        -3.381218203981736,
+        -3.635374060354028,
+        0.16541542468481696
+      ],
+      "name": "HCZ",
+      "group": "Phe291"
+    },
+    {
+      "element": "H",
+      "position": [
+        -0.4113114205848366,
+        -8.574682936585488,
+        -0.6788533183443008
+      ],
+      "name": "HC1",
+      "group": "Phe291"
+    },
+    {
+      "element": "H",
+      "position": [
+        0.8308720010460705,
+        -7.4196796944709575,
+        -1.218496278454908
+      ],
+      "name": "HC2",
+      "group": "Phe291"
+    },
+    {
+      "element": "H",
+      "position": [
+        -0.4193071773559843,
+        -7.978063564785253,
+        -2.355829185711814
+      ],
+      "name": "HC3",
+      "group": "Phe291"
+    }
+  ],
+  "orbitals": [
+    {
+      "id": "homo-minus-1",
+      "index": 53,
+      "energyEV": -7.1031849597193,
+      "occupation": 2.0,
+      "file": "homo-minus-1.cube",
+      "min": -0.21426538660457028,
+      "max": 0.21950498657705256
+    },
+    {
+      "id": "homo",
+      "index": 54,
+      "energyEV": -6.177474573284318,
+      "occupation": 2.0,
+      "file": "homo.cube",
+      "min": -0.28037254852972066,
+      "max": 0.263746907881252
+    },
+    {
+      "id": "lumo",
+      "index": 55,
+      "energyEV": -0.1414146849892533,
+      "occupation": 0.0,
+      "file": "lumo.cube",
+      "min": -0.200981036825699,
+      "max": 0.20631021746841408
+    }
+  ],
+  "gridSpacingBohr": 0.38,
+  "cubeLengthUnit": "Bohr",
+  "orbitalUnit": "Bohr^(-3/2)",
+  "densityUnit": "electrons / Bohr^3",
+  "sourcePDB": "7QVM",
+  "sourceSHA256": "41b57ce550e83d1aa95308d4d8886bcfb9f0608535ce51b842af6376d77661db",
+  "fragmentSHA256": "c9445c2d800c0b01d12b65ea6b670f21165d9750adbaecb6d32352afa101d9cf",
+  "model": "Neutral p-cresol and toluene pair representing capped Tyr2 and Phe291 side chains.",
+  "preparation": "Deposited heavy atoms fixed; beta-carbon bonds to the omitted backbone replaced by methyl hydrogens. Aromatic and hydroxyl hydrogens added at idealised geometry. No optimisation.",
+  "environment": "Gas phase; no protein embedding, water, membrane or ions.",
+  "interpretation": "Stationary single-point electronic model. Orbitals are wavefunctions, not electron trajectories. Orbital signs are not electrical charges. This fragment model does not predict binding affinity or receptor activation.",
+  "limitations": "Results depend on capping, proton orientation, basis and density functional. No time-dependent response or biological validation. The visualization grid undersamples core-density peaks and is not an electron-count integration grid.",
+  "references": [
+    "https://www.rcsb.org/structure/7QVM",
+    "https://www.nature.com/articles/s41467-022-31325-0",
+    "https://pyscf.org/user/dft.html"
+  ],
+  "files": {
+    "homo-minus-1.cube": "76e110eef447e98007c43ac3de8a8451fa0b3e59657ed87a069244ebfb182d64",
+    "density.cube": "e35efe317f9fbddbdb003567f3d950268e8e00019a34acb18d85d8c96b037f0a",
+    "homo.cube": "2d4f4a177f6a3ec352afa15c1a26e14f456e706afe0b0e2701d58b22223a5b8d",
+    "lumo.cube": "ce88117e7e8fba07f4bc38cca2599b084734c550ed0d6d757c5d2c596150c3f0"
+  }
+}

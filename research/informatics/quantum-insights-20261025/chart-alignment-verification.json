@@ -1,0 +1,70 @@
+{
+  "passed": true,
+  "source_commit": "e6b9e2f3",
+  "at": "2026-10-25T02:38:00.423Z",
+  "audio_muted": true,
+  "no_new_api_or_quantum_jobs": true,
+  "layouts": [
+    {
+      "width": 1470,
+      "kind": "simulation",
+      "barX": 482,
+      "barWidth": 786,
+      "zeroError": 0,
+      "leftError": 0.0031250000000042633,
+      "rightError": 0.003125000000068212,
+      "overflow": 0
+    },
+    {
+      "width": 1470,
+      "kind": "quantum",
+      "barX": 482,
+      "barWidth": 786,
+      "zeroError": 0,
+      "leftError": 0.0031250000000042633,
+      "rightError": 0.003125000000068212,
+      "overflow": 0
+    },
+    {
+      "width": 390,
+      "kind": "simulation",
+      "barX": 26,
+      "barWidth": 338,
+      "zeroError": 0,
+      "leftError": 0.009375000000002132,
+      "rightError": 0.009375000000034106,
+      "overflow": 0
+    },
+    {
+      "width": 390,
+      "kind": "quantum",
+      "barX": 26,
+      "barWidth": 338,
+      "zeroError": 0,
+      "leftError": 0.009375000000002132,
+      "rightError": 0.009375000000034106,
+      "overflow": 0
+    },
+    {
+      "width": 320,
+      "kind": "simulation",
+      "barX": 26,
+      "barWidth": 268,
+      "zeroError": 0,
+      "leftError": 0.009375000000000355,
+      "rightError": 0.009375000000005684,
+      "overflow": 0
+    },
+    {
+      "width": 320,
+      "kind": "quantum",
+      "barX": 26,
+      "barWidth": 268,
+      "zeroError": 0,
+      "leftError": 0.009375000000000355,
+      "rightError": 0.009375000000005684,
+      "overflow": 0
+    }
+  ],
+  "errors": []
+}

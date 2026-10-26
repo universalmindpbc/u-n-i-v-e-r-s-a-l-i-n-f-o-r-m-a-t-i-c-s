@@ -1,0 +1,100 @@
+{
+  "url": "https://universalmind.tv/informatics/library.html?collection=language",
+  "candidate": false,
+  "checkedAt": "2026-10-23T11:22:03.409Z",
+  "processAudioMuted": true,
+  "checks": [
+    {
+      "width": 1470,
+      "languagePapers": 327,
+      "generalPapers": 293,
+      "allPapers": 758,
+      "originalQuotesRetained": 299,
+      "verbatimHeroStudies": true,
+      "languageAssessmentScope": true,
+      "topicTrustScores": [
+        2,
+        null,
+        2
+      ],
+      "studyDesignsRetained": 19,
+      "datedCitationSnapshots": 19,
+      "trustScoreFilters": true,
+      "jadadStates": true,
+      "crossListing": true,
+      "keyboard": true,
+      "themes": 3,
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "languagePapers": 327,
+      "generalPapers": 293,
+      "allPapers": 758,
+      "originalQuotesRetained": 299,
+      "verbatimHeroStudies": true,
+      "languageAssessmentScope": true,
+      "topicTrustScores": [
+        2,
+        null,
+        2
+      ],
+      "studyDesignsRetained": 19,
+      "datedCitationSnapshots": 19,
+      "trustScoreFilters": true,
+      "jadadStates": true,
+      "crossListing": true,
+      "keyboard": true,
+      "themes": 3,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "languagePapers": 327,
+      "generalPapers": 293,
+      "allPapers": 758,
+      "originalQuotesRetained": 299,
+      "verbatimHeroStudies": true,
+      "languageAssessmentScope": true,
+      "topicTrustScores": [
+        2,
+        null,
+        2
+      ],
+      "studyDesignsRetained": 19,
+      "datedCitationSnapshots": 19,
+      "trustScoreFilters": true,
+      "jadadStates": true,
+      "crossListing": true,
+      "keyboard": true,
+      "themes": 3,
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "languagePapers": 327,
+      "generalPapers": 293,
+      "allPapers": 758,
+      "originalQuotesRetained": 299,
+      "verbatimHeroStudies": true,
+      "languageAssessmentScope": true,
+      "topicTrustScores": [
+        2,
+        null,
+        2
+      ],
+      "studyDesignsRetained": 19,
+      "datedCitationSnapshots": 19,
+      "trustScoreFilters": true,
+      "jadadStates": true,
+      "crossListing": true,
+      "keyboard": true,
+      "themes": 3,
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "environment": "production",
+  "baseUrl": "https://universalmind.tv/informatics/",
+  "sourceCommit": "0c7e0665bb0dbd696850b8e21946d250cdfda660"
+}

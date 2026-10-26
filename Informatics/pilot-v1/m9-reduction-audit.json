@@ -1,0 +1,1227 @@
+{
+  "scope": "111 multiples of 9 in M1\u2013M1001; arithmetic comparison only, not full Atlas records",
+  "proof": "For m=9k, reducing modulo m then modulo 9 equals reducing modulo 9. Divisibility by 3 preserves Gamma selection; interior summation commutes with reduction. The minimal M9 period is 24, so each reduced full period is a repetition of it.",
+  "records": [
+    {
+      "modulus": 9,
+      "period": 24,
+      "repeat_count": 1,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 18,
+      "period": 24,
+      "repeat_count": 1,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 27,
+      "period": 72,
+      "repeat_count": 3,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 36,
+      "period": 24,
+      "repeat_count": 1,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 45,
+      "period": 120,
+      "repeat_count": 5,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 54,
+      "period": 72,
+      "repeat_count": 3,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 63,
+      "period": 48,
+      "repeat_count": 2,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 72,
+      "period": 24,
+      "repeat_count": 1,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 81,
+      "period": 216,
+      "repeat_count": 9,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 90,
+      "period": 120,
+      "repeat_count": 5,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 99,
+      "period": 120,
+      "repeat_count": 5,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 108,
+      "period": 72,
+      "repeat_count": 3,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 117,
+      "period": 168,
+      "repeat_count": 7,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 126,
+      "period": 48,
+      "repeat_count": 2,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 135,
+      "period": 360,
+      "repeat_count": 15,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 144,
+      "period": 24,
+      "repeat_count": 1,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 153,
+      "period": 72,
+      "repeat_count": 3,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 162,
+      "period": 216,
+      "repeat_count": 9,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 171,
+      "period": 72,
+      "repeat_count": 3,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 180,
+      "period": 120,
+      "repeat_count": 5,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 189,
+      "period": 144,
+      "repeat_count": 6,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 198,
+      "period": 120,
+      "repeat_count": 5,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 207,
+      "period": 48,
+      "repeat_count": 2,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 216,
+      "period": 72,
+      "repeat_count": 3,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 225,
+      "period": 600,
+      "repeat_count": 25,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 234,
+      "period": 168,
+      "repeat_count": 7,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 243,
+      "period": 648,
+      "repeat_count": 27,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 252,
+      "period": 48,
+      "repeat_count": 2,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 261,
+      "period": 168,
+      "repeat_count": 7,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 270,
+      "period": 360,
+      "repeat_count": 15,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 279,
+      "period": 120,
+      "repeat_count": 5,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 288,
+      "period": 48,
+      "repeat_count": 2,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 297,
+      "period": 360,
+      "repeat_count": 15,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 306,
+      "period": 72,
+      "repeat_count": 3,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 315,
+      "period": 240,
+      "repeat_count": 10,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 324,
+      "period": 216,
+      "repeat_count": 9,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 333,
+      "period": 456,
+      "repeat_count": 19,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 342,
+      "period": 72,
+      "repeat_count": 3,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 351,
+      "period": 504,
+      "repeat_count": 21,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 360,
+      "period": 120,
+      "repeat_count": 5,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 369,
+      "period": 120,
+      "repeat_count": 5,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 378,
+      "period": 144,
+      "repeat_count": 6,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 387,
+      "period": 264,
+      "repeat_count": 11,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 396,
+      "period": 120,
+      "repeat_count": 5,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 405,
+      "period": 1080,
+      "repeat_count": 45,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 414,
+      "period": 48,
+      "repeat_count": 2,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 423,
+      "period": 96,
+      "repeat_count": 4,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 432,
+      "period": 72,
+      "repeat_count": 3,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 441,
+      "period": 336,
+      "repeat_count": 14,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 450,
+      "period": 600,
+      "repeat_count": 25,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 459,
+      "period": 72,
+      "repeat_count": 3,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 468,
+      "period": 168,
+      "repeat_count": 7,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 477,
+      "period": 216,
+      "repeat_count": 9,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 486,
+      "period": 648,
+      "repeat_count": 27,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 495,
+      "period": 120,
+      "repeat_count": 5,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 504,
+      "period": 48,
+      "repeat_count": 2,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 513,
+      "period": 72,
+      "repeat_count": 3,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 522,
+      "period": 168,
+      "repeat_count": 7,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 531,
+      "period": 696,
+      "repeat_count": 29,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 540,
+      "period": 360,
+      "repeat_count": 15,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 549,
+      "period": 120,
+      "repeat_count": 5,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 558,
+      "period": 120,
+      "repeat_count": 5,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 567,
+      "period": 432,
+      "repeat_count": 18,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 576,
+      "period": 96,
+      "repeat_count": 4,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 585,
+      "period": 840,
+      "repeat_count": 35,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 594,
+      "period": 360,
+      "repeat_count": 15,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 603,
+      "period": 408,
+      "repeat_count": 17,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 612,
+      "period": 72,
+      "repeat_count": 3,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 621,
+      "period": 144,
+      "repeat_count": 6,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 630,
+      "period": 240,
+      "repeat_count": 10,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 639,
+      "period": 840,
+      "repeat_count": 35,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 648,
+      "period": 216,
+      "repeat_count": 9,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 657,
+      "period": 888,
+      "repeat_count": 37,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 666,
+      "period": 456,
+      "repeat_count": 19,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 675,
+      "period": 1800,
+      "repeat_count": 75,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 684,
+      "period": 72,
+      "repeat_count": 3,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 693,
+      "period": 240,
+      "repeat_count": 10,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 702,
+      "period": 504,
+      "repeat_count": 21,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 711,
+      "period": 312,
+      "repeat_count": 13,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 720,
+      "period": 120,
+      "repeat_count": 5,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 729,
+      "period": 1944,
+      "repeat_count": 81,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 738,
+      "period": 120,
+      "repeat_count": 5,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 747,
+      "period": 168,
+      "repeat_count": 7,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 756,
+      "period": 144,
+      "repeat_count": 6,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 765,
+      "period": 360,
+      "repeat_count": 15,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 774,
+      "period": 264,
+      "repeat_count": 11,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 783,
+      "period": 504,
+      "repeat_count": 21,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 792,
+      "period": 120,
+      "repeat_count": 5,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 801,
+      "period": 264,
+      "repeat_count": 11,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 810,
+      "period": 1080,
+      "repeat_count": 45,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 819,
+      "period": 336,
+      "repeat_count": 14,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 828,
+      "period": 48,
+      "repeat_count": 2,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 837,
+      "period": 360,
+      "repeat_count": 15,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 846,
+      "period": 96,
+      "repeat_count": 4,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 855,
+      "period": 360,
+      "repeat_count": 15,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 864,
+      "period": 144,
+      "repeat_count": 6,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 873,
+      "period": 1176,
+      "repeat_count": 49,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 882,
+      "period": 336,
+      "repeat_count": 14,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 891,
+      "period": 1080,
+      "repeat_count": 45,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 900,
+      "period": 600,
+      "repeat_count": 25,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 909,
+      "period": 600,
+      "repeat_count": 25,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 918,
+      "period": 72,
+      "repeat_count": 3,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 927,
+      "period": 624,
+      "repeat_count": 26,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 936,
+      "period": 168,
+      "repeat_count": 7,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 945,
+      "period": 720,
+      "repeat_count": 30,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 954,
+      "period": 216,
+      "repeat_count": 9,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 963,
+      "period": 72,
+      "repeat_count": 3,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 972,
+      "period": 648,
+      "repeat_count": 27,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 981,
+      "period": 216,
+      "repeat_count": 9,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 990,
+      "period": 120,
+      "repeat_count": 5,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    },
+    {
+      "modulus": 999,
+      "period": 1368,
+      "repeat_count": 57,
+      "checks": {
+        "alpha": true,
+        "gamma": true,
+        "beta": true,
+        "gamma_indices": true
+      }
+    }
+  ]
+}

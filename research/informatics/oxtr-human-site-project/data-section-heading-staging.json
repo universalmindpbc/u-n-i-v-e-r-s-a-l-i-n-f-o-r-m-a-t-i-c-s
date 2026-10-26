@@ -1,0 +1,83 @@
+{
+  "source_commit": "f5cf4a33671309aeaef0a1e75af305873be45c98",
+  "verified_at_utc": "2026-10-19T20:29:04.477202+00:00",
+  "scope": "Larger Human OXTR data to explore section heading, yellow divider and accessible heading hierarchy. Geometry and data unchanged.",
+  "proof_url": "https://staging.universalmind.tv/informatics/?atlas=1&record=fibonacci-m9-p24",
+  "production_modified": false,
+  "deployment": {
+    "command": "SHOPFRONT_MUGLER_FIXTURE=/private/tmp/um-study-mugler-fixture.mp4 ./deploy-panthur-staging.sh informatics",
+    "exit_code": 0,
+    "changed_assets": 6
+  },
+  "browser": {
+    "processMuted": true,
+    "results": [
+      {
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "styles": {
+          "border": "3px",
+          "color": "rgb(233, 216, 107)",
+          "font": "28px",
+          "label": "tfbs-explorer-heading"
+        },
+        "encode_regions": 255,
+        "m9_counts_unchanged": true,
+        "keyboard_close_and_focus": true,
+        "overflow": false,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "styles": {
+          "border": "3px",
+          "color": "rgb(233, 216, 107)",
+          "font": "24px",
+          "label": "tfbs-explorer-heading"
+        },
+        "encode_regions": 255,
+        "m9_counts_unchanged": true,
+        "keyboard_close_and_focus": true,
+        "overflow": false,
+        "errors": []
+      }
+    ]
+  },
+  "http": [
+    {
+      "file": "Informatics/genomics.html",
+      "sha256": "88513ca2c40be79fcf614eefca464d206488401e3631bfc4b5da0b259793b46b",
+      "bytes": 2243
+    },
+    {
+      "file": "Informatics/index.html",
+      "sha256": "f8be95d7a16ae1c7e776edd1767debf19cfb59e319dd64ce0c311d0abdb52542",
+      "bytes": 6379
+    },
+    {
+      "file": "Informatics/research.html",
+      "sha256": "fe1049b27eb3caed0d4eeb37097257bf04b2fd56eb28fd8a7a21db5887f944c0",
+      "bytes": 14565
+    },
+    {
+      "file": "Informatics/science.css",
+      "sha256": "0e94809fa09edf2df0fbbec69323636f17bc09caad1797e08bdb964598cb6a49",
+      "bytes": 26388
+    },
+    {
+      "file": "Informatics/science.js",
+      "sha256": "35a77f9684f4c2fe52fcad47f4e9b04a0dd2823237b7e7e92ea762ff19a98b58",
+      "bytes": 49049
+    },
+    {
+      "file": "Informatics/tfbs-explorer.js",
+      "sha256": "1726ef320b5c3e331f107b255f0428e0c99a1730fe1000ca6f8aa9084394c071",
+      "bytes": 16411
+    }
+  ]
+}

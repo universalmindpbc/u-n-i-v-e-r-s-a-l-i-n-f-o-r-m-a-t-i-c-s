@@ -1,0 +1,15 @@
+Universal Informatics snapshot timestamp
+
+The RFC3161 response binds the SHA-256 of manifest.json at 2026-10-25 23:29:52 UTC.
+The manifest binds every archived payload. Verify payload hashes before relying on this record.
+
+Verify using OpenSSL and your independent trusted CA store:
+
+openssl ts -verify -data manifest.json -in manifest.tsr -CAfile /path/to/trusted-ca-bundle.pem -untrusted timestamp-chain.pem
+openssl ts -verify -queryfile manifest.tsq -in manifest.tsr -CAfile /path/to/trusted-ca-bundle.pem -untrusted timestamp-chain.pem
+
+The provided certificate chain contains intermediates, not a substitute trust store.
+
+OpenTimestamps: manifest.json.ots contains pending calendar attestations. Bitcoin confirmation is not yet verified. Retain the original manifest and proof, then use ots upgrade and ots verify when the Bitcoin attestation becomes available.
+
+A timestamp records existence and integrity; it is not a legal ownership judgment or scientific validation.

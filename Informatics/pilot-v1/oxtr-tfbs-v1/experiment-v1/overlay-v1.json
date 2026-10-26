@@ -1,0 +1,32 @@
+{
+  "version": "oxtr-comparison-geometry-2026-10-21-v3",
+  "coordinate_experiment": "oxtr-coordinate-experiment-2026-10-20-v1",
+  "purpose": "Explore whether Atlas geometry helps predict binding-site locations, using fixed, explicit visual alignment.",
+  "layout": "Side-by-side DNA and original Atlas reference. Blend is off initially; enabling it overlays the selected guide in the DNA panel while the original reference stays visible.",
+  "data_mapping": "Original experiment-v1 interval mappings are unchanged.",
+  "atlas_registration": {
+    "alpha_gamma_epsilon": "Original 24-position period grid: turn = period_index / 24.",
+    "beta": "Original nine-position residue grid: turn = residue / 9; path starts at 4.",
+    "full_circle": "One complete DNA window occupies one turn; both layers start at north and run clockwise.",
+    "line": "Atlas node offsets equal native turn * full window length. Blended line shows node positions only, without connecting arcs.",
+    "m9": "DNA anchors use residue / 9 turns; each Atlas guide retains its native 9- or 24-position grid. Angular alignment does not equate a period index with a residue value.",
+    "rotation_turns": 0,
+    "fit_to_observations": false
+  },
+  "display": {
+    "m9_dot_area": "Area is proportional to observation count: radius = 19 * sqrt(count / maximum_count_in_current_selection), in SVG units.",
+    "zero_count": "Small grey grid point; no filled observation disc.",
+    "percentages": "100 * node_count / number_of_currently_filtered_observations.",
+    "circle_density_threshold": 2,
+    "circle_density": "Radial length is proportional to the count at one exact plotted centre; zero at the DNA circle, maximum at the outer count guide.",
+    "selection": "Deliberate exact-position selection opens all records at that centre, with original intervals and evidence. No automatic record selection on initial load.",
+    "atlas_path": "Coloured paths retain Atlas geometry; they do not represent measured movement or a temporal binding sequence.",
+    "individual_observations": "Orange diamonds for interval-centre anchors. Short orange marks retain interval widths. Published elements are labelled US-1 and US-2.",
+    "density_scale": "Linear zero-based observation-count scale. Counts represent pooled observations at interval centres, not the number of distinct binding sites.",
+    "source_scope": "All sources use the same 39,248-base OXTR gene-plus-flanks window. JASPAR pools motif models; ENCODE pools targets and experimental cell contexts. The study set is incomplete.",
+    "blend_default": false,
+    "position_counts": "Observations are grouped only by identical anchor_offset_bp. Neighbouring bases remain separate. Marks retain exact full-window coordinates.",
+    "line_zoom": "Full window by default. Busiest-region zoom uses the most populated of 72 fixed sections solely to select a visible range; it does not combine centre counts. Selected-centre zoom shows 50 bases on either side. The origin and M9 mapping never change."
+  },
+  "assessment": "Visual exploration. No positional tolerance, association statistic, matched-control test or biological prediction accuracy has been evaluated."
+}

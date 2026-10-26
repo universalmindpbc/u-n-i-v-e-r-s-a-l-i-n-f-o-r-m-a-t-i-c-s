@@ -1,0 +1,61 @@
+{
+  "decision": "approve",
+  "summary": "The retrospective report accurately interprets the OXTR pilot metrics and local program checks. It properly separates chromosome-split training from chromosome 3 evaluation, reports the inconclusive block-bootstrap interval for Fibonacci and Phi Ratio features, and notes that M9 P24 Alpha, Beta, Gamma, and Epsilon were not tested for classical biological prediction. It also clearly distinguishes local numerical compilation and reused Aquila excitation data from predictive biological validation.",
+  "checks": [
+    {
+      "claim": "Adding Fibonacci and Phi Ratio features yielded an inconclusive OXTR CTCF binding prediction result, while M9 P24 Alpha, Beta, Gamma, and Epsilon were not tested in the classical predictor.",
+      "finding": "Average precision on the 152 OXTR windows changed from 0.0719 to 0.0739 (difference +0.00199), with a 95% block-bootstrap interval of [-0.0263, +0.0082] spanning zero. The classical model only compared ordinary motif/spacing against Fibonacci and Phi Ratio features.",
+      "evidence": [
+        "difference_average_precision: 0.0019879267780844173",
+        "block_bootstrap_95_interval: [-0.026260195602900528, 0.008181524055569506]",
+        "verdict: inconclusive"
+      ],
+      "status": "pass"
+    },
+    {
+      "claim": "Data leakage was prevented by freezing selection and splitting by chromosome, while noting assay quality and sample size limits.",
+      "finding": "Learning used chr1 (64 windows), model selection used chr2 (64 windows), and evaluation used chr3 OXTR (152 windows, 8 peak windows overlapping 5 peak regions) once. ENCODE assay ENCSR932ZMX quality warnings and lack of accessibility-matched controls are properly disclosed.",
+      "evidence": [
+        "selection_frozen_before_scores: true",
+        "OXTR test: windows 152, peak_windows 8",
+        "qc: Antibody characterization exemption, Low read depth, Bottlenecking and library complexity warnings"
+      ],
+      "status": "pass"
+    },
+    {
+      "claim": "Quantum measurements and local CUDA-Q checks do not evaluate OXTR binding prediction.",
+      "finding": "The 16 local cases (2 windows across ordinary, Fibonacci, Phi Ratio, M9 P24 Alpha, Beta, Gamma, Epsilon, and shuffled representations) verify numerical compilation (max implementation error <= 1.59e-14). Reused Aquila data do not overlap the five CTCF peaks, and no new paid quantum jobs were run.",
+      "evidence": [
+        "quantum_prediction_status: Not evaluated",
+        "new_Aquila_USD: 0",
+        "new_qBraid_credits: 0"
+      ],
+      "status": "not_tested"
+    }
+  ],
+  "required_changes": [],
+  "provider": "google",
+  "model": "gemini-4-argon",
+  "provider_response_id": "X5_eavitJfy0vr0Plb25IA",
+  "evidence_sha256": "61c7b7072feb8090fec94d21b9664f36ac7347de50075801dbbfb271c11520b1",
+  "usage": {
+    "promptTokenCount": 4940,
+    "candidatesTokenCount": 645,
+    "totalTokenCount": 5585,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 4940
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 645
+      }
+    ]
+  },
+  "reserved_micro_usd": 72512,
+  "reviewed_at": "2026-10-26T00:31:37.081299+00:00",
+  "duration_seconds": 10.183
+}

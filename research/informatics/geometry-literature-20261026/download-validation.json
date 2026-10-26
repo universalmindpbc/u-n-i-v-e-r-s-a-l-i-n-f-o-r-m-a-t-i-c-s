@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "jsonRecords": 821,
+  "csvRecords": 821,
+  "newRecordsCompared": 10,
+  "fieldsCompared": [
+    "summary",
+    "limitation",
+    "chapterEntries",
+    "fullText"
+  ]
+}

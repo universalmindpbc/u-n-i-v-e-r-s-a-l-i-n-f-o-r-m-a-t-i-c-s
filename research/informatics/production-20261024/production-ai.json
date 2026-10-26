@@ -1,0 +1,805 @@
+{
+  "processAudioDisabled": true,
+  "syntheticMicrophoneOnly": true,
+  "nativeFullscreenInvoked": false,
+  "layouts": [
+    {
+      "label": "research-desktop",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 115,
+        "y": 40,
+        "width": 1240,
+        "height": 920,
+        "top": 40,
+        "right": 1355,
+        "bottom": 960,
+        "left": 115
+      },
+      "planet": {
+        "x": 1258,
+        "y": 865,
+        "width": 72,
+        "height": 72,
+        "top": 865,
+        "right": 1330,
+        "bottom": 937,
+        "left": 1258
+      },
+      "panel": null,
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-text-desktop",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 115,
+        "y": 40,
+        "width": 1240,
+        "height": 920,
+        "top": 40,
+        "right": 1355,
+        "bottom": 960,
+        "left": 115
+      },
+      "planet": {
+        "x": 1258,
+        "y": 865,
+        "width": 72,
+        "height": 72,
+        "top": 865,
+        "right": 1330,
+        "bottom": 937,
+        "left": 1258
+      },
+      "panel": {
+        "x": 810,
+        "y": 207,
+        "width": 520,
+        "height": 620,
+        "top": 207,
+        "right": 1330,
+        "bottom": 827,
+        "left": 810
+      },
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-black",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 115,
+        "y": 40,
+        "width": 1240,
+        "height": 920,
+        "top": 40,
+        "right": 1355,
+        "bottom": 960,
+        "left": 115
+      },
+      "planet": {
+        "x": 1258,
+        "y": 865,
+        "width": 72,
+        "height": 72,
+        "top": 865,
+        "right": 1330,
+        "bottom": 937,
+        "left": 1258
+      },
+      "panel": {
+        "x": 810,
+        "y": 207,
+        "width": 520,
+        "height": 620,
+        "top": 207,
+        "right": 1330,
+        "bottom": 827,
+        "left": 810
+      },
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-white",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 115,
+        "y": 40,
+        "width": 1240,
+        "height": 920,
+        "top": 40,
+        "right": 1355,
+        "bottom": 960,
+        "left": 115
+      },
+      "planet": {
+        "x": 1258,
+        "y": 865,
+        "width": 72,
+        "height": 72,
+        "top": 865,
+        "right": 1330,
+        "bottom": 937,
+        "left": 1258
+      },
+      "panel": {
+        "x": 810,
+        "y": 207,
+        "width": 520,
+        "height": 620,
+        "top": 207,
+        "right": 1330,
+        "bottom": 827,
+        "left": 810
+      },
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(250, 251, 249)"
+    },
+    {
+      "label": "research-video",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 115,
+        "y": 40,
+        "width": 1240,
+        "height": 920,
+        "top": 40,
+        "right": 1355,
+        "bottom": 960,
+        "left": 115
+      },
+      "planet": {
+        "x": 1258,
+        "y": 865,
+        "width": 72,
+        "height": 72,
+        "top": 865,
+        "right": 1330,
+        "bottom": 937,
+        "left": 1258
+      },
+      "panel": {
+        "x": 810,
+        "y": 207,
+        "width": 520,
+        "height": 620,
+        "top": 207,
+        "right": 1330,
+        "bottom": 827,
+        "left": 810
+      },
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-text-1024",
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 20.484375,
+        "y": 23.046875,
+        "width": 983.03125,
+        "height": 721.90625,
+        "top": 23.046875,
+        "right": 1003.515625,
+        "bottom": 744.953125,
+        "left": 20.484375
+      },
+      "planet": {
+        "x": 906.515625,
+        "y": 649.953125,
+        "width": 72,
+        "height": 72,
+        "top": 649.953125,
+        "right": 978.515625,
+        "bottom": 721.953125,
+        "left": 906.515625
+      },
+      "panel": {
+        "x": 458.515625,
+        "y": 100.953125,
+        "width": 520,
+        "height": 511,
+        "top": 100.953125,
+        "right": 978.515625,
+        "bottom": 611.953125,
+        "left": 458.515625
+      },
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-text-390",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 7.796875,
+        "y": 21.09375,
+        "width": 374.390625,
+        "height": 801.796875,
+        "top": 21.09375,
+        "right": 382.1875,
+        "bottom": 822.890625,
+        "left": 7.796875
+      },
+      "planet": {
+        "x": 305.1875,
+        "y": 745.890625,
+        "width": 62,
+        "height": 62,
+        "top": 745.890625,
+        "right": 367.1875,
+        "bottom": 807.890625,
+        "left": 305.1875
+      },
+      "panel": {
+        "x": 23.1875,
+        "y": 90.890625,
+        "width": 344,
+        "height": 609,
+        "top": 90.890625,
+        "right": 367.1875,
+        "bottom": 699.890625,
+        "left": 23.1875
+      },
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-text-320",
+      "viewport": {
+        "width": 320,
+        "height": 700
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 6.40625,
+        "y": 17.5,
+        "width": 307.1875,
+        "height": 665,
+        "top": 17.5,
+        "right": 313.59375,
+        "bottom": 682.5,
+        "left": 6.40625
+      },
+      "planet": {
+        "x": 236.59375,
+        "y": 605.5,
+        "width": 62,
+        "height": 62,
+        "top": 605.5,
+        "right": 298.59375,
+        "bottom": 667.5,
+        "left": 236.59375
+      },
+      "panel": {
+        "x": 21.59375,
+        "y": 87.5,
+        "width": 277,
+        "height": 472,
+        "top": 87.5,
+        "right": 298.59375,
+        "bottom": 559.5,
+        "left": 21.59375
+      },
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-voice-desktop",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 115,
+        "y": 40,
+        "width": 1240,
+        "height": 920,
+        "top": 40,
+        "right": 1355,
+        "bottom": 960,
+        "left": 115
+      },
+      "planet": {
+        "x": 1258,
+        "y": 865,
+        "width": 72,
+        "height": 72,
+        "top": 865,
+        "right": 1330,
+        "bottom": 937,
+        "left": 1258
+      },
+      "panel": null,
+      "dock": {
+        "x": 1070,
+        "y": 835.203125,
+        "width": 176,
+        "height": 101.796875,
+        "top": 835.203125,
+        "right": 1246,
+        "bottom": 937,
+        "left": 1070
+      },
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-voice-390",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 7.796875,
+        "y": 21.09375,
+        "width": 374.390625,
+        "height": 801.796875,
+        "top": 21.09375,
+        "right": 382.1875,
+        "bottom": 822.890625,
+        "left": 7.796875
+      },
+      "planet": {
+        "x": 305.1875,
+        "y": 745.890625,
+        "width": 62,
+        "height": 62,
+        "top": 745.890625,
+        "right": 367.1875,
+        "bottom": 807.890625,
+        "left": 305.1875
+      },
+      "panel": null,
+      "dock": {
+        "x": 127.1875,
+        "y": 700.09375,
+        "width": 166,
+        "height": 107.796875,
+        "top": 700.09375,
+        "right": 293.1875,
+        "bottom": 807.890625,
+        "left": 127.1875
+      },
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-voice-320",
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 6.40625,
+        "y": 21.09375,
+        "width": 307.1875,
+        "height": 801.796875,
+        "top": 21.09375,
+        "right": 313.59375,
+        "bottom": 822.890625,
+        "left": 6.40625
+      },
+      "planet": {
+        "x": 236.59375,
+        "y": 745.890625,
+        "width": 62,
+        "height": 62,
+        "top": 745.890625,
+        "right": 298.59375,
+        "bottom": 807.890625,
+        "left": 236.59375
+      },
+      "panel": null,
+      "dock": {
+        "x": 58.59375,
+        "y": 700.09375,
+        "width": 166,
+        "height": 107.796875,
+        "top": 700.09375,
+        "right": 224.59375,
+        "bottom": 807.890625,
+        "left": 58.59375
+      },
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "atlas-after-research",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "",
+      "planet": {
+        "x": 1374,
+        "y": 906,
+        "width": 72,
+        "height": 72,
+        "top": 906,
+        "right": 1446,
+        "bottom": 978,
+        "left": 1374
+      },
+      "panel": null,
+      "dock": {
+        "x": 1186,
+        "y": 876.203125,
+        "width": 176,
+        "height": 101.796875,
+        "top": 876.203125,
+        "right": 1362,
+        "bottom": 978,
+        "left": 1186
+      },
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-reopened-during-voice",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 115,
+        "y": 40,
+        "width": 1240,
+        "height": 920,
+        "top": 40,
+        "right": 1355,
+        "bottom": 960,
+        "left": 115
+      },
+      "planet": {
+        "x": 1258,
+        "y": 865,
+        "width": 72,
+        "height": 72,
+        "top": 865,
+        "right": 1330,
+        "bottom": 937,
+        "left": 1258
+      },
+      "panel": null,
+      "dock": {
+        "x": 1070,
+        "y": 835.203125,
+        "width": 176,
+        "height": 101.796875,
+        "top": 835.203125,
+        "right": 1246,
+        "bottom": 937,
+        "left": 1070
+      },
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-from-network",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 115,
+        "y": 40,
+        "width": 1240,
+        "height": 920,
+        "top": 40,
+        "right": 1355,
+        "bottom": 960,
+        "left": 115
+      },
+      "planet": {
+        "x": 1258,
+        "y": 865,
+        "width": 72,
+        "height": 72,
+        "top": 865,
+        "right": 1330,
+        "bottom": 937,
+        "left": 1258
+      },
+      "panel": null,
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-paper-open",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 115,
+        "y": 40,
+        "width": 1240,
+        "height": 920,
+        "top": 40,
+        "right": 1355,
+        "bottom": 960,
+        "left": 115
+      },
+      "planet": {
+        "x": 1258,
+        "y": 865,
+        "width": 72,
+        "height": 72,
+        "top": 865,
+        "right": 1330,
+        "bottom": 937,
+        "left": 1258
+      },
+      "panel": null,
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-paper-with-conversation",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 115,
+        "y": 40,
+        "width": 1240,
+        "height": 920,
+        "top": 40,
+        "right": 1355,
+        "bottom": 960,
+        "left": 115
+      },
+      "planet": {
+        "x": 1258,
+        "y": 865,
+        "width": 72,
+        "height": 72,
+        "top": 865,
+        "right": 1330,
+        "bottom": 937,
+        "left": 1258
+      },
+      "panel": {
+        "x": 810,
+        "y": 207,
+        "width": 520,
+        "height": 620,
+        "top": 207,
+        "right": 1330,
+        "bottom": 827,
+        "left": 810
+      },
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "standalone-library",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "",
+      "planet": {
+        "x": 1374,
+        "y": 906,
+        "width": 72,
+        "height": 72,
+        "top": 906,
+        "right": 1446,
+        "bottom": 978,
+        "left": 1374
+      },
+      "panel": {
+        "x": 926,
+        "y": 248,
+        "width": 520,
+        "height": 620,
+        "top": 248,
+        "right": 1446,
+        "bottom": 868,
+        "left": 926
+      },
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    }
+  ],
+  "requests": [
+    {
+      "path": "/research",
+      "status": 200,
+      "question": "Which studies in our Sound collection report gene-expression changes after recreational music making? Give a brief answer with sources.",
+      "context": {
+        "page": "/informatics/",
+        "area": "sound",
+        "atlas": {
+          "record": "fibonacci-m9-p24",
+          "view": ""
+        },
+        "library": {
+          "collection": "sound",
+          "chapter": "0",
+          "query": ""
+        }
+      }
+    },
+    {
+      "path": "/voice-session",
+      "status": 200
+    },
+    {
+      "path": "/v1/realtime/calls",
+      "status": 201
+    }
+  ],
+  "errors": [],
+  "budgetBefore": {
+    "visitors": {
+      "date": "2026-10-24",
+      "counts": {},
+      "limits": {
+        "research_question": 120,
+        "transcription": 60,
+        "speech": 60,
+        "voice": 20
+      },
+      "resetAt": "2026-10-25T00:00:00.000Z"
+    },
+    "verification": {
+      "date": "2026-10-24",
+      "counts": {},
+      "limits": {
+        "research_question": 120,
+        "transcription": 60,
+        "speech": 60,
+        "voice": 20
+      },
+      "resetAt": "2026-10-25T00:00:00.000Z"
+    }
+  },
+  "parentOwnedSingleton": true,
+  "answer": {
+    "role": "assistant",
+    "content": "The directly relevant Sound records are:\n\n- **“Recreational music-making modulates the human stress response: a preliminary individualized gene expression strategy” (2005), Medical Science Monitor.** Reports reversal of individualized stress-induced gene-expression signatures after recreational music-making. **IL6** expression reversal occurred in both the music-making and resting-control groups, so that finding was not unique to music-making. [S1]\n\n- **“Recreational Music-Making alters gene expression pathways in patients with coronary heart disease” (2013), Medical Science Monitor.** Reports gene-expression pathway changes following recreational music-making; the authors suggest active music-making may alter expression more effectively than quiet reading. The retrieved record does not specify individual genes or effect sizes. [S2]\n\nThese are molecular findings, not by themselves proof of clinical benefit.",
+    "sources": [
+      {
+        "label": "S1",
+        "id": "pmid-15668624",
+        "passageId": null,
+        "title": "Recreational music-making modulates the human stress response: a preliminary individualized gene expression strategy",
+        "authors": "Bittman B, Berk L, Shannon M, Sharaf M, Westengard J, Guegler KJ, Ruff DW.",
+        "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+        "year": 2005,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15668624/",
+        "section": "Library record",
+        "kind": "approved-record",
+        "text": "“The resultant amelioration of stress-induced genomic expression supports the underlying premise that recreational music making warrants additional consideration as a rational choice within our armamentarium of stress reduction strategies”\n“While reversing individualized genomic stress induction signatures rather than describing the modulation or mecha- nisms associated with individual gene expression is the focus of this investigation, it should be noted that statistically significant Phase II reversals common to both the resting control and recreational music making experimental groups include: IL6 (interleukin 6)”",
+        "doi": null,
+        "rights": null,
+        "sha256": null,
+        "retrievalLabel": "S10"
+      },
+      {
+        "label": "S2",
+        "id": "pmid-23435350",
+        "passageId": null,
+        "title": "Recreational Music-Making alters gene expression pathways in patients with coronary heart disease",
+        "authors": "Bittman B, Croft DT, Brinker J, van Laar R, Vernalis MN, Ellsworth DL.",
+        "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+        "year": 2013,
+        "url": "https://doi.org/10.12659/msm.883807",
+        "section": "Library record",
+        "kind": "approved-record",
+        "text": "“Relaxation through active engagement in Recreational Music Making may be more effective than quiet reading at altering gene expression and thus more clinically useful for stress amelioration”",
+        "doi": "10.12659/msm.883807",
+        "rights": null,
+        "sha256": null,
+        "retrievalLabel": "S11"
+      }
+    ]
+  },
+  "textWorkflowVerified": true,
+  "greeting": "Hi. What research question can I help you with?",
+  "remoteAudioDecoded": true,
+  "conversationAndVoiceRetained": true,
+  "microphoneReleased": true,
+  "topmostResearchHostVerified": true,
+  "paperOverlayAccess": true,
+  "standaloneAccessible": true,
+  "budgetAfter": {
+    "visitors": {
+      "date": "2026-10-24",
+      "counts": {},
+      "limits": {
+        "research_question": 120,
+        "transcription": 60,
+        "speech": 60,
+        "voice": 20
+      },
+      "resetAt": "2026-10-25T00:00:00.000Z"
+    },
+    "verification": {
+      "date": "2026-10-24",
+      "counts": {
+        "research_question": 1,
+        "voice": 1
+      },
+      "limits": {
+        "research_question": 120,
+        "transcription": 60,
+        "speech": 60,
+        "voice": 20
+      },
+      "resetAt": "2026-10-25T00:00:00.000Z"
+    }
+  },
+  "success": true,
+  "browserClosed": true
+}

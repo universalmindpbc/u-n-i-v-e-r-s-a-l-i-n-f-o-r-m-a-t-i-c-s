@@ -1,0 +1,621 @@
+{
+  "verifiedAt": "2026-10-21T17:54:15.626604+00:00",
+  "sourceCommit": "febbddc810eae4a14dc5244d0384e2595f9bee3b",
+  "integratedOtherChatStagingBaseline": "ce880287f8164763e0d150a1fb4ec5dad335bba2",
+  "productionRefUnchanged": "636bfa9ae41efe036b2cccac0827c724edfde92b",
+  "proofURLs": [
+    "https://staging.universalmind.tv/informatics/?area=molecular",
+    "https://staging.universalmind.tv/informatics/molecular/"
+  ],
+  "scope": [
+    "Geometry Atlas and Molecular Atlas entries under Research Atlas; removed separate overlapping header button.",
+    "Universal Research menu label only; page content and subheader preserved.",
+    "Existing flower logo and homepage wordmark treatment.",
+    "Transparent molecular canvas and panels over the existing parent video; persistent selection across atlas changes.",
+    "Standalone route uses the same background video, starts muted, and respects reduced-motion preference."
+  ],
+  "deployment": {
+    "command": "SHOPFRONT_MUGLER_FIXTURE=/private/tmp/um-study-mugler-fixture.mp4 ./deploy-panthur-staging.sh informatics",
+    "trackedAssets": 11214,
+    "changedUploads": 8,
+    "allExistingPreflightsPassed": true,
+    "completed": true
+  },
+  "browser": {
+    "passed": true,
+    "live": true,
+    "processMuted": true,
+    "nativeFullscreen": false,
+    "results": [
+      {
+        "viewport": {
+          "width": 1470,
+          "height": 956
+        },
+        "structures": [
+          {
+            "target": "OXTR",
+            "pdb": "7QVM",
+            "observed": 250,
+            "visiblePixels": 960
+          },
+          {
+            "target": "SLC6A4",
+            "pdb": "5I6X",
+            "observed": 544,
+            "visiblePixels": 931
+          },
+          {
+            "target": "DRD2",
+            "pdb": "6CM4",
+            "observed": 423,
+            "visiblePixels": 833
+          },
+          {
+            "target": "NMDA",
+            "pdb": "9IYQ",
+            "observed": 781,
+            "visiblePixels": 1232
+          },
+          {
+            "target": "IL6",
+            "pdb": "1ALU",
+            "observed": 157,
+            "visiblePixels": 881
+          },
+          {
+            "target": "NR3C1",
+            "pdb": "1M2Z",
+            "observed": 255,
+            "visiblePixels": 959
+          },
+          {
+            "target": "DOCK2",
+            "pdb": "6TGB",
+            "observed": 1450,
+            "visiblePixels": 752
+          },
+          {
+            "target": "CD38",
+            "pdb": "1YH3",
+            "observed": 252,
+            "visiblePixels": 659
+          }
+        ],
+        "representations": 3,
+        "geometryModes": [
+          "tetrahedron",
+          "cube",
+          "octahedron",
+          "dodecahedron",
+          "icosahedron",
+          "stellated",
+          "odom",
+          "phi"
+        ],
+        "odomRatio": 1.618033989,
+        "cameraDrag": true,
+        "cameraKeyboard": true,
+        "sequenceSelection": true,
+        "downloads": true,
+        "rapidTargetChanges": true
+      },
+      {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "noOverflow": true,
+        "targetSwitch": true,
+        "evidencePanel": true
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "noOverflow": true,
+        "targetSwitch": true,
+        "evidencePanel": true
+      },
+      {
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "noOverflow": true,
+        "targetSwitch": true,
+        "evidencePanel": true
+      },
+      {
+        "failedRequestShowsError": true,
+        "retryRecovers": true
+      }
+    ]
+  },
+  "navigationAndVideo": {
+    "passed": true,
+    "live": true,
+    "processMuted": true,
+    "nativeFullscreen": false,
+    "results": [
+      {
+        "viewport": {
+          "width": 1470,
+          "height": 956
+        },
+        "navigationOrder": [
+          "Geometry Atlas",
+          "Molecular Atlas",
+          "About",
+          "Sound",
+          "Vision",
+          "Language",
+          "Universal Research",
+          "Partners"
+        ],
+        "noHeaderOverlap": true,
+        "transparentCanvas": true,
+        "existingVideoPreserved": true,
+        "playbackContinued": true,
+        "globalSoundControls": true,
+        "selectionPreservedAcrossAreas": true,
+        "dnaEvidenceLink": true,
+        "universalResearchLink": true,
+        "brandLogoAndWeights": true,
+        "standaloneMutedVideoControls": true
+      },
+      {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "navigationOrder": [
+          "Geometry Atlas",
+          "Molecular Atlas",
+          "About",
+          "Sound",
+          "Vision",
+          "Language",
+          "Universal Research",
+          "Partners"
+        ],
+        "noHeaderOverlap": true,
+        "transparentCanvas": true,
+        "existingVideoPreserved": true,
+        "playbackContinued": true,
+        "globalSoundControls": true,
+        "selectionPreservedAcrossAreas": true,
+        "dnaEvidenceLink": true,
+        "universalResearchLink": true,
+        "brandLogoAndWeights": true,
+        "standaloneMutedVideoControls": true
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "navigationOrder": [
+          "Geometry Atlas",
+          "Molecular Atlas",
+          "About",
+          "Sound",
+          "Vision",
+          "Language",
+          "Universal Research",
+          "Partners"
+        ],
+        "noHeaderOverlap": true,
+        "transparentCanvas": true,
+        "existingVideoPreserved": true,
+        "playbackContinued": true,
+        "globalSoundControls": true,
+        "selectionPreservedAcrossAreas": true,
+        "dnaEvidenceLink": true,
+        "universalResearchLink": true,
+        "brandLogoAndWeights": true,
+        "standaloneMutedVideoControls": true
+      },
+      {
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "navigationOrder": [
+          "Geometry Atlas",
+          "Molecular Atlas",
+          "About",
+          "Sound",
+          "Vision",
+          "Language",
+          "Universal Research",
+          "Partners"
+        ],
+        "noHeaderOverlap": true,
+        "transparentCanvas": true,
+        "existingVideoPreserved": true,
+        "playbackContinued": true,
+        "globalSoundControls": true,
+        "selectionPreservedAcrossAreas": true,
+        "dnaEvidenceLink": true,
+        "universalResearchLink": true,
+        "brandLogoAndWeights": true,
+        "standaloneMutedVideoControls": true
+      }
+    ]
+  },
+  "standaloneAutoplay": {
+    "passed": true,
+    "live": true,
+    "processMuted": true,
+    "normalMotionStartsVideoMuted": true,
+    "pauseControl": true
+  },
+  "httpIntegrity": {
+    "verifiedAt": "2026-10-21T17:50:37Z",
+    "sourceCommit": "febbddc810eae4a14dc5244d0384e2595f9bee3b",
+    "passed": true,
+    "assets": [
+      {
+        "path": "Informatics/app.js",
+        "url": "https://staging.universalmind.tv/informatics/app.js",
+        "status": 200,
+        "bytes": 15064,
+        "rawSHA256": "182650203d3dde0be99f950dad0dffa000d30ca979d74a47c0b7240b343349d8",
+        "sourceSHA256": "182650203d3dde0be99f950dad0dffa000d30ca979d74a47c0b7240b343349d8",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/javascript",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/index.html",
+        "url": "https://staging.universalmind.tv/informatics/index.html",
+        "status": 200,
+        "bytes": 24167,
+        "rawSHA256": "154a13ae7397658ad38e066b51e5ac8badfffc6c123af54d4fe1a303cbf25e6f",
+        "sourceSHA256": "1781f6b5524a1d27cc4f3ba5ae96488c752e7497cb381eb2030972c05ab5d8ca",
+        "hostInjectedAnalyticsScripts": 1,
+        "contentType": "text/html",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/library-data/library.json",
+        "url": "https://staging.universalmind.tv/informatics/library-data/library.json",
+        "status": 200,
+        "bytes": 2943828,
+        "rawSHA256": "07455efb6272395f4861410c5a6ff4e3278bd0b213afb0efeee25faf32a086a1",
+        "sourceSHA256": "07455efb6272395f4861410c5a6ff4e3278bd0b213afb0efeee25faf32a086a1",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "application/json",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/library-launcher.css",
+        "url": "https://staging.universalmind.tv/informatics/library-launcher.css",
+        "status": 200,
+        "bytes": 10538,
+        "rawSHA256": "2b33a16f881e9ce25434bb402994ccead2774636fd37c4b2010da1bf76d4886a",
+        "sourceSHA256": "2b33a16f881e9ce25434bb402994ccead2774636fd37c4b2010da1bf76d4886a",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/css",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/library-launcher.js",
+        "url": "https://staging.universalmind.tv/informatics/library-launcher.js",
+        "status": 200,
+        "bytes": 12993,
+        "rawSHA256": "6d545c4a99857c809bc47bcf8f9c28fe5e8475f84042b70986095ce384702476",
+        "sourceSHA256": "6d545c4a99857c809bc47bcf8f9c28fe5e8475f84042b70986095ce384702476",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/javascript",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/library.css",
+        "url": "https://staging.universalmind.tv/informatics/library.css",
+        "status": 200,
+        "bytes": 9617,
+        "rawSHA256": "66d3fd7c804f7cd1c457b3ba8e747f397f20c7f4551291b36b14ef981f98f64d",
+        "sourceSHA256": "66d3fd7c804f7cd1c457b3ba8e747f397f20c7f4551291b36b14ef981f98f64d",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/css",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/library.html",
+        "url": "https://staging.universalmind.tv/informatics/library.html",
+        "status": 200,
+        "bytes": 7650,
+        "rawSHA256": "4790c07c42e4952f780f62f954d12dd683f3c90ef97507deebe7b4ef46774bba",
+        "sourceSHA256": "dc24e43a42e2d89d8f12c05bb216e4d3683fe4877ee77a39022329f1ca43c34b",
+        "hostInjectedAnalyticsScripts": 1,
+        "contentType": "text/html",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/library.js",
+        "url": "https://staging.universalmind.tv/informatics/library.js",
+        "status": 200,
+        "bytes": 18310,
+        "rawSHA256": "3da737a1f1c7820d0e8cd78194b19950ca3ca185cba609befed52f423648b321",
+        "sourceSHA256": "3da737a1f1c7820d0e8cd78194b19950ca3ca185cba609befed52f423648b321",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/javascript",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular-entry.css",
+        "url": "https://staging.universalmind.tv/informatics/molecular-entry.css",
+        "status": 200,
+        "bytes": 474,
+        "rawSHA256": "34e92170839e6613cd71325b857b5b3762fb6334f20bc9fae97a9d4fd2e18bd7",
+        "sourceSHA256": "34e92170839e6613cd71325b857b5b3762fb6334f20bc9fae97a9d4fd2e18bd7",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/css",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular-entry.js",
+        "url": "https://staging.universalmind.tv/informatics/molecular-entry.js",
+        "status": 200,
+        "bytes": 1384,
+        "rawSHA256": "8fdbb216f071349bfe7ca580076e0053de147bb0122014d9741d4486fe519ab2",
+        "sourceSHA256": "8fdbb216f071349bfe7ca580076e0053de147bb0122014d9741d4486fe519ab2",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/javascript",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/atlas.css",
+        "url": "https://staging.universalmind.tv/informatics/molecular/atlas.css",
+        "status": 200,
+        "bytes": 17380,
+        "rawSHA256": "80b0a04532469fbd4eefc2a055ceaad2e066b48851ec1ca22e4654903b06f515",
+        "sourceSHA256": "80b0a04532469fbd4eefc2a055ceaad2e066b48851ec1ca22e4654903b06f515",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/css",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/atlas.js",
+        "url": "https://staging.universalmind.tv/informatics/molecular/atlas.js",
+        "status": 200,
+        "bytes": 17545,
+        "rawSHA256": "4ab21608bb9da6f1e9cb8c7d83849a34a2ad64c049ae2c2b9c0062a2e18981ba",
+        "sourceSHA256": "4ab21608bb9da6f1e9cb8c7d83849a34a2ad64c049ae2c2b9c0062a2e18981ba",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/javascript",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/index.html",
+        "url": "https://staging.universalmind.tv/informatics/molecular/index.html",
+        "status": 200,
+        "bytes": 7868,
+        "rawSHA256": "a08c9134e274586a66ce5981c11aa8eece637ee4974aa54888b0b3c4e24a98a6",
+        "sourceSHA256": "f80d796fcfdd4498ee5e0547c7b4730ed6ee87ad6eeceb681066877a6a62fbb9",
+        "hostInjectedAnalyticsScripts": 1,
+        "contentType": "text/html",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/vendor/engine.js",
+        "url": "https://staging.universalmind.tv/informatics/molecular/vendor/engine.js",
+        "status": 200,
+        "bytes": 3138244,
+        "rawSHA256": "a04078e7570c09a7c537b6456833d21c50faac8531455155aaed53a3d09e6cc2",
+        "sourceSHA256": "a04078e7570c09a7c537b6456833d21c50faac8531455155aaed53a3d09e6cc2",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/javascript",
+        "matchesCommittedSource": true
+      }
+    ]
+  },
+  "protectedResearchSource": [
+    {
+      "path": "Informatics/library-data/archive-records.json",
+      "sha256": "a6c81a17ba16d3f02b3688ed19e9b4fdb71d305770f121ed9b7af00cc7460ace",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/2d1e97a69066.jpg",
+      "sha256": "2d1e97a690668da58e82b93a9061c40db076bcabc7a2f3f418549102e2046268",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/2e23485c20ee.jpg",
+      "sha256": "2e23485c20ee21fdaad48f1be24271e942bb563202f404c05328e38da110ae93",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/36cc491c43ce.jpg",
+      "sha256": "36cc491c43ce7741034c7a664ab13e7066ffb1f01db632c8fb63444ff3ebbaf0",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/46f7634e8459.jpg",
+      "sha256": "46f7634e84594b3ae127e048edb6e67276dd346c1b8a2802803d48c9c7ccf0c2",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/47ffc4c3abbf.jpg",
+      "sha256": "47ffc4c3abbf42736c511d7997641c8cfbe950ec65b2ec45b2145fc4b551617b",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/51aace12beda.jpg",
+      "sha256": "51aace12bedaf0f2c31ea37ec833248b31a395d7398bfa5ea99ada6948501467",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/66691cb200fe.png",
+      "sha256": "66691cb200fe73689ba88c9b9835bf15a2528dac15460967dd4a6c243c5ec640",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/7854eca9c827.png",
+      "sha256": "7854eca9c827126096603ae0795928d5a52e5162f7bf56d21025b0ed1a8c2996",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/94076ff1f6d0.jpg",
+      "sha256": "94076ff1f6d05b37e8fd96db1bd05240736af4bc501292342df3b72d336af0d4",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/986d2fc1169d.jpg",
+      "sha256": "986d2fc1169dca760c40395fc075a076964c1d6d74f4a54ede1de6491d2a3aa1",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/9dbd228d8d75.jpg",
+      "sha256": "9dbd228d8d751906c4933d6dd623af2d13c3a9af26db381a40661d352b907ac4",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/a1e01b1dc2f0.jpg",
+      "sha256": "a1e01b1dc2f0964add29156d10b14c3a2445faf6171f13509ae141be9fac7a1d",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/a3e7168642e3.jpg",
+      "sha256": "a3e7168642e30bff8ecb5d14962bc5014c690c9dc46fdebf75c4ef2aa687c9ea",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/a5c985eed9b6.png",
+      "sha256": "a5c985eed9b6eef9d9591f0d209377ed9f79d6abc1093adf1af01b931ce9b84a",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/abb4e82f5fa6.jpg",
+      "sha256": "abb4e82f5fa6468d29c212f9560589b2f9d88f86fc7c27f5c57277e06225c8ec",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/b7e458d34b3b.jpg",
+      "sha256": "b7e458d34b3b80c7823d80484edb5784b0da881443c227360bf3ed155bbe2240",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/bc7cc70c465e.jpg",
+      "sha256": "bc7cc70c465ebe1a557bebe26b0e6f013df11a51f4ac918d2f9563fb9268d7c9",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/c1bea99e1d89.jpg",
+      "sha256": "c1bea99e1d89233a5dc1de0581adec194eae0184f0b75cddd70c44ac4bfc4d3e",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/cdec699932b9.jpg",
+      "sha256": "cdec699932b93270f7fc1f84007b7cdcae5f47e5c06ac6d9a518e54195467b72",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/cf5c37e03ed4.jpg",
+      "sha256": "cf5c37e03ed406fa8d6cf247b77191411823ef104641ab1d4078a8cd0a106ed1",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/d04185bab997.jpg",
+      "sha256": "d04185bab997209ba0d57f3a3477a99a0e88eea2518582dd0f8d6f93094adc2a",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/d279ce2c826d.jpg",
+      "sha256": "d279ce2c826decd250fc5aff080e5d798d70cdfda8fc8a3ea2933d95d628c275",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/ee107fa4e066.png",
+      "sha256": "ee107fa4e06670685a71b2b4c74704d4ecd4fd29a09cf6216d736016c991bd8e",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/f2aa73aa96f1.jpg",
+      "sha256": "f2aa73aa96f1d3c559b354e4043cb43cd25f05986554dd6802d0db84ac231f8d",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/figures/fb9a8d9373aa.png",
+      "sha256": "fb9a8d9373aa1d2aa6776072aac78d4a1ab6ed58a2396847947f17d6e1719778",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/language-source.json",
+      "sha256": "39bdf14824ed7f41ffba818494d3cdee89aac17145fb394a2465d18b4cc37021",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/library.json",
+      "sha256": "07455efb6272395f4861410c5a6ff4e3278bd0b213afb0efeee25faf32a086a1",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/search-log.json",
+      "sha256": "a17a6d5becabd009f4dae37addc335667a2273172306792407646c36fae734ec",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/sound-source.json",
+      "sha256": "e7adb2ee44d4758656ca3c74d0a150bf3b81e75d159874cc7257aa096cdd75fe",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-data/vision-source.json",
+      "sha256": "4e587a23ac97ae7b76307dfaf117c9ab026b7d022e2d7f158d4b4f710c3308cd",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-launcher.css",
+      "sha256": "2b33a16f881e9ce25434bb402994ccead2774636fd37c4b2010da1bf76d4886a",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library-launcher.js",
+      "sha256": "6d545c4a99857c809bc47bcf8f9c28fe5e8475f84042b70986095ce384702476",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library.css",
+      "sha256": "66d3fd7c804f7cd1c457b3ba8e747f397f20c7f4551291b36b14ef981f98f64d",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library.html",
+      "sha256": "dc24e43a42e2d89d8f12c05bb216e4d3683fe4877ee77a39022329f1ca43c34b",
+      "matchesOtherChatBaseline": true
+    },
+    {
+      "path": "Informatics/library.js",
+      "sha256": "3da737a1f1c7820d0e8cd78194b19950ca3ca185cba609befed52f423648b321",
+      "matchesOtherChatBaseline": true
+    }
+  ],
+  "screenshots": [
+    {
+      "path": "research/informatics/molecular-atlas-style-20261022/embedded-1470.png",
+      "sha256": "5d92fb4568c5387dd1f128ea442990439059194574d80d73e0b89b54441cc94f"
+    },
+    {
+      "path": "research/informatics/molecular-atlas-style-20261022/embedded-390.png",
+      "sha256": "72151978545e840b39fcf1e066e54b6b2fc413c9308e6da1b5db263d972fba82"
+    },
+    {
+      "path": "research/informatics/molecular-atlas-style-20261022/embedded-320.png",
+      "sha256": "751e759b18971bd9074923aeb15e54351cd7093896356059ac78a37e083f826c"
+    },
+    {
+      "path": "research/informatics/molecular-atlas-style-20261022/standalone-1470.png",
+      "sha256": "14196e97592e514f5013358a6c1338459346ef1fb8132f7de791f483bc358927"
+    }
+  ],
+  "verificationLimits": [
+    "All automated browsers used process-level audio muting; no subjective audio assessment.",
+    "Native fullscreen was stubbed during viewport checks.",
+    "Only the host-injected analytics script and its added newline are removed for HTML source hash comparison; raw response hashes are retained."
+  ]
+}

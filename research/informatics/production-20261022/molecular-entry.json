@@ -1,0 +1,146 @@
+{
+  "passed": true,
+  "live": true,
+  "processMuted": true,
+  "nativeFullscreen": false,
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "navigationOrder": [
+        "About",
+        "Geometry Atlas",
+        "Transcription Atlas",
+        "Molecular Atlas",
+        "Sound Atlas",
+        "Vision Atlas",
+        "Language Atlas",
+        "Universal Research",
+        "Partners"
+      ],
+      "aboutFirstKeyboardAndFocus": true,
+      "atlasDestinations": true,
+      "libraryMenuMatches": true,
+      "roadmapFullViewportVideo": true,
+      "roadmapLandingFallbackMuted": true,
+      "roadmapSharedFilmPreserved": true,
+      "roadmapCleanupAndFocus": true,
+      "noHeaderOverlap": true,
+      "transparentCanvas": true,
+      "existingVideoPreserved": true,
+      "playbackContinued": true,
+      "globalSoundControls": true,
+      "selectionPreservedAcrossAreas": true,
+      "dnaEvidenceLink": true,
+      "universalResearchLink": true,
+      "brandLogoAndWeights": true,
+      "standaloneMutedVideoControls": true
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "navigationOrder": [
+        "About",
+        "Geometry Atlas",
+        "Transcription Atlas",
+        "Molecular Atlas",
+        "Sound Atlas",
+        "Vision Atlas",
+        "Language Atlas",
+        "Universal Research",
+        "Partners"
+      ],
+      "aboutFirstKeyboardAndFocus": true,
+      "atlasDestinations": true,
+      "libraryMenuMatches": true,
+      "roadmapFullViewportVideo": true,
+      "roadmapLandingFallbackMuted": true,
+      "roadmapSharedFilmPreserved": true,
+      "roadmapCleanupAndFocus": true,
+      "noHeaderOverlap": true,
+      "transparentCanvas": true,
+      "existingVideoPreserved": true,
+      "playbackContinued": true,
+      "globalSoundControls": true,
+      "selectionPreservedAcrossAreas": true,
+      "dnaEvidenceLink": true,
+      "universalResearchLink": true,
+      "brandLogoAndWeights": true,
+      "standaloneMutedVideoControls": true
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "navigationOrder": [
+        "About",
+        "Geometry Atlas",
+        "Transcription Atlas",
+        "Molecular Atlas",
+        "Sound Atlas",
+        "Vision Atlas",
+        "Language Atlas",
+        "Universal Research",
+        "Partners"
+      ],
+      "aboutFirstKeyboardAndFocus": true,
+      "atlasDestinations": true,
+      "libraryMenuMatches": true,
+      "roadmapFullViewportVideo": true,
+      "roadmapLandingFallbackMuted": true,
+      "roadmapSharedFilmPreserved": true,
+      "roadmapCleanupAndFocus": true,
+      "noHeaderOverlap": true,
+      "transparentCanvas": true,
+      "existingVideoPreserved": true,
+      "playbackContinued": true,
+      "globalSoundControls": true,
+      "selectionPreservedAcrossAreas": true,
+      "dnaEvidenceLink": true,
+      "universalResearchLink": true,
+      "brandLogoAndWeights": true,
+      "standaloneMutedVideoControls": true
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "navigationOrder": [
+        "About",
+        "Geometry Atlas",
+        "Transcription Atlas",
+        "Molecular Atlas",
+        "Sound Atlas",
+        "Vision Atlas",
+        "Language Atlas",
+        "Universal Research",
+        "Partners"
+      ],
+      "aboutFirstKeyboardAndFocus": true,
+      "atlasDestinations": true,
+      "libraryMenuMatches": true,
+      "roadmapFullViewportVideo": true,
+      "roadmapLandingFallbackMuted": true,
+      "roadmapSharedFilmPreserved": true,
+      "roadmapCleanupAndFocus": true,
+      "noHeaderOverlap": true,
+      "transparentCanvas": true,
+      "existingVideoPreserved": true,
+      "playbackContinued": true,
+      "globalSoundControls": true,
+      "selectionPreservedAcrossAreas": true,
+      "dnaEvidenceLink": true,
+      "universalResearchLink": true,
+      "brandLogoAndWeights": true,
+      "standaloneMutedVideoControls": true
+    }
+  ],
+  "verifiedEnvironment": "production",
+  "verifiedBaseURL": "https://universalmind.tv/informatics/"
+}

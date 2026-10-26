@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://staging.universalmind.tv/informatics/?entry=research&area=sound&sound=chromatic",
+    "file": "Informatics/index.html",
+    "sha256": "4b8b84cf13608976556442b6641589b5c11a01e399c1a7112388a9e5e3ba855e",
+    "matches_committed_source": true
+  },
+  {
+    "url": "https://staging.universalmind.tv/informatics/atlas-visuals.js?v=7",
+    "file": "Informatics/atlas-visuals.js",
+    "sha256": "72ebebbb51ad51b094ec5072e051885fdf134ccd51bf0a9bc73ba9dfddbb5235",
+    "matches_committed_source": true
+  },
+  {
+    "url": "https://staging.universalmind.tv/informatics/atlas.css?v=8",
+    "file": "Informatics/atlas.css",
+    "sha256": "ce3acc1519362548ba110a5103d735be62ff903f17c8b40b9caa42c5969c88d3",
+    "matches_committed_source": true
+  }
+]

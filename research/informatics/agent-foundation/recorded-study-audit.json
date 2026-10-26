@@ -1,0 +1,28 @@
+{
+  "tool": "audit_recorded_measurements",
+  "version": "0.1.0",
+  "study_id": "oxtr-qrc-01",
+  "source_sha256": "9fe40670c064ca9f3d2bc76f6b73a99311421b4939a885a178124e1e71881544",
+  "purpose": "Two-window measurement qualification. Occupancy prediction is not yet evaluated.",
+  "dna_samples": 2,
+  "bases_per_sample": 256,
+  "measurement_preparations": [
+    "ordinary",
+    "fibonacci",
+    "phi",
+    "alpha",
+    "beta",
+    "gamma",
+    "epsilon",
+    "shuffled"
+  ],
+  "programs_per_provider": 16,
+  "requested_hardware_measurements": 1600,
+  "measurements_starting_with_all_atoms_present": 1541,
+  "integrity_checks": "passed",
+  "biological_prediction_evaluated": false,
+  "finding": "The saved dataset contains two DNA samples, each prepared eight ways, with GPU and Aquila measurements. It contains no binding-prediction accuracy test.",
+  "verification_scope": "Checks the saved record structure and recorded job identifiers. Does not contact providers or independently authenticate their receipts.",
+  "new_provider_jobs": 0,
+  "new_provider_spend_usd": 0
+}

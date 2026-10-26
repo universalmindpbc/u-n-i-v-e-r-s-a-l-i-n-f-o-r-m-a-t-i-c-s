@@ -1,0 +1,23 @@
+{
+  "task_id": "ac5191ae-7466-47ff-8532-7f36e2136bf1",
+  "astra_calls": 3,
+  "astra_accounted_tokens": 10282,
+  "astra_token_ceiling": 24000,
+  "gemini_reviews_all_tests": 10,
+  "gemini_accounted_micro_usd_all_tests": 904624,
+  "gemini_test_ceiling_micro_usd": 1000000,
+  "gemini_remaining_micro_usd": 95376,
+  "saved_results": [
+    {
+      "file": "result.json",
+      "encryption": "AES256"
+    },
+    {
+      "file": "result.csv",
+      "encryption": "AES256"
+    }
+  ],
+  "new_paid_Aquila_jobs": 0,
+  "new_paid_GPU_jobs": 0,
+  "recorded_at": "2026-10-26T04:35:14.650439+00:00"
+}

@@ -1,0 +1,840 @@
+{
+  "doi": "10.1038/s41593-017-0050-8",
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          15
+        ]
+      ],
+      "date-time": "2026-10-15T06:23:05Z",
+      "timestamp": 1792045385148,
+      "version": "4.4.0"
+    },
+    "reference-count": 20,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "2",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2018,
+              1,
+              8
+            ]
+          ],
+          "date-time": "2018-01-08T00:00:00Z",
+          "timestamp": 1515369600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Nat Neurosci"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          2
+        ]
+      ]
+    },
+    "DOI": "10.1038/s41593-017-0050-8",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          5
+        ]
+      ],
+      "date-time": "2018-01-05T18:21:28Z",
+      "timestamp": 1515176488000
+    },
+    "page": "188-190",
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 196,
+    "title": [
+      "Hexadirectional coding of visual space in human entorhinal cortex"
+    ],
+    "prefix": "10.1038",
+    "volume": "21",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-0956-7815",
+        "authenticated-orcid": false,
+        "given": "Matthias",
+        "family": "Nau",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Tobias",
+        "family": "Navarro Schr\u00f6der",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jacob L. S.",
+        "family": "Bellmund",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4120-4600",
+        "authenticated-orcid": false,
+        "given": "Christian F.",
+        "family": "Doeller",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          8
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "50_CR1",
+        "doi-asserted-by": "crossref",
+        "first-page": "801",
+        "DOI": "10.1038/nature03721",
+        "volume": "436",
+        "author": "T Hafting",
+        "year": "2005",
+        "unstructured": "Hafting, T., Fyhn, M., Molden, S., Moser, M.-B. & Moser, E. I. Nature 436, 801\u2013806 (2005).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "50_CR2",
+        "doi-asserted-by": "crossref",
+        "first-page": "1188",
+        "DOI": "10.1038/nn.3466",
+        "volume": "16",
+        "author": "J Jacobs",
+        "year": "2013",
+        "unstructured": "Jacobs, J. et al. Nat. Neurosci. 16, 1188\u20131190 (2013).",
+        "journal-title": "Nat. Neurosci."
+      },
+      {
+        "key": "50_CR3",
+        "doi-asserted-by": "crossref",
+        "first-page": "72",
+        "DOI": "10.1038/nature11649",
+        "volume": "492",
+        "author": "H Stensola",
+        "year": "2012",
+        "unstructured": "Stensola, H. et al. Nature 492, 72\u201378 (2012).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "50_CR4",
+        "doi-asserted-by": "crossref",
+        "first-page": "1079",
+        "DOI": "10.1016/j.neuron.2014.10.048",
+        "volume": "84",
+        "author": "JG Heys",
+        "year": "2014",
+        "unstructured": "Heys, J. G., Rangarajan, K. V. & Dombeck, D. A. Neuron 84, 1079\u20131090 (2014).",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "50_CR5",
+        "doi-asserted-by": "crossref",
+        "first-page": "15743",
+        "DOI": "10.1073/pnas.1417059112",
+        "volume": "112",
+        "author": "NJ Killian",
+        "year": "2015",
+        "unstructured": "Killian, N. J., Potter, S. M. & Buffalo, E. A. Proc. Natl. Acad. Sci. USA 112, 15743\u201315748 (2015).",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "50_CR6",
+        "doi-asserted-by": "crossref",
+        "first-page": "761",
+        "DOI": "10.1038/nature11587",
+        "volume": "491",
+        "author": "NJ Killian",
+        "year": "2012",
+        "unstructured": "Killian, N. J., Jutras, M. J. & Buffalo, E. A. Nature 491, 761\u2013764 (2012).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "50_CR7",
+        "doi-asserted-by": "crossref",
+        "first-page": "366",
+        "DOI": "10.1016/j.neuron.2007.10.012",
+        "volume": "56",
+        "author": "BA Wandell",
+        "year": "2007",
+        "unstructured": "Wandell, B. A., Dumoulin, S. O. & Brewer, A. A. Neuron 56, 366\u2013383 (2007).",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "50_CR8",
+        "doi-asserted-by": "crossref",
+        "first-page": "657",
+        "DOI": "10.1038/nature08704",
+        "volume": "463",
+        "author": "CF Doeller",
+        "year": "2010",
+        "unstructured": "Doeller, C. F., Barry, C. & Burgess, N. Nature 463, 657\u2013661 (2010).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "50_CR9",
+        "doi-asserted-by": "crossref",
+        "first-page": "1464",
+        "DOI": "10.1126/science.aaf0941",
+        "volume": "352",
+        "author": "AO Constantinescu",
+        "year": "2016",
+        "unstructured": "Constantinescu, A. O., O\u2019Reilly, J. X. & Behrens, T. E. J. Science 352, 1464\u20131468 (2016).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "50_CR10",
+        "doi-asserted-by": "crossref",
+        "first-page": "113",
+        "DOI": "10.1016/S0166-2236(00)01685-4",
+        "volume": "24",
+        "author": "J Ross",
+        "year": "2001",
+        "unstructured": "Ross, J., Morrone, M. C., Goldberg, M. E. & Burr, D. C. Trends Neurosci. 24, 113\u2013121 (2001).",
+        "journal-title": "Trends Neurosci."
+      },
+      {
+        "key": "50_CR11",
+        "doi-asserted-by": "crossref",
+        "first-page": "467",
+        "DOI": "10.1002/(SICI)1098-1063(1999)9:4<467::AID-HIPO13>3.0.CO;2-F",
+        "volume": "9",
+        "author": "ET Rolls",
+        "year": "1999",
+        "unstructured": "Rolls, E. T. Hippocampus 9, 467\u2013480 (1999).",
+        "journal-title": "Hippocampus"
+      },
+      {
+        "key": "50_CR12",
+        "doi-asserted-by": "crossref",
+        "first-page": "731",
+        "DOI": "10.1002/hipo.22449",
+        "volume": "25",
+        "author": "AD Ekstrom",
+        "year": "2015",
+        "unstructured": "Ekstrom, A. D. Hippocampus 25, 731\u2013735 (2015).",
+        "journal-title": "Hippocampus"
+      },
+      {
+        "key": "50_CR13",
+        "doi-asserted-by": "crossref",
+        "first-page": "378",
+        "DOI": "10.1073/pnas.1215834110",
+        "volume": "110",
+        "author": "G Chen",
+        "year": "2013",
+        "unstructured": "Chen, G., King, J. A., Burgess, N. & O\u2019Keefe, J. Proc. Natl. Acad. Sci. USA 110, 378\u2013383 (2013).",
+        "journal-title": "Proc. Natl. Acad. Sci. USA"
+      },
+      {
+        "key": "50_CR14",
+        "doi-asserted-by": "crossref",
+        "first-page": "801",
+        "DOI": "10.1016/j.neuroscience.2008.07.079",
+        "volume": "156",
+        "author": "EM Klier",
+        "year": "2008",
+        "unstructured": "Klier, E. M. & Angelaki, D. E. Neuroscience 156, 801\u2013818 (2008).",
+        "journal-title": "Neuroscience"
+      },
+      {
+        "key": "50_CR15",
+        "doi-asserted-by": "crossref",
+        "first-page": "217",
+        "DOI": "10.1038/nrn3008",
+        "volume": "12",
+        "author": "D Kravitz",
+        "year": "2011",
+        "unstructured": "Kravitz, D., Saleem, K., Baker, C. & Mishkin, M. Nat. Rev. Neurosci. 12, 217\u2013230 (2011).",
+        "journal-title": "Nat. Rev. Neurosci."
+      },
+      {
+        "key": "50_CR16",
+        "doi-asserted-by": "crossref",
+        "first-page": "598",
+        "DOI": "10.1038/33402",
+        "volume": "392",
+        "author": "R Epstein",
+        "year": "1998",
+        "unstructured": "Epstein, R. & Kanwisher, N. Nature 392, 598\u2013601 (1998).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "50_CR17",
+        "doi-asserted-by": "crossref",
+        "first-page": "905",
+        "DOI": "10.1016/j.neuron.2006.01.021",
+        "volume": "49",
+        "author": "JJ Summerfield",
+        "year": "2006",
+        "unstructured": "Summerfield, J. J., Lepsien, J., Gitelman, D. R., Mesulam, M. M. & Nobre, A. C. Neuron 49, 905\u2013916 (2006).",
+        "journal-title": "Neuron"
+      },
+      {
+        "key": "50_CR18",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Bellmund, J. L. S., Deuker, L., Navarro Schr\u00f6der, T. & Doeller, C. F. eLife https://doi.org/10.7554/eLife.16534 (2016).",
+        "DOI": "10.7554/eLife.16534"
+      },
+      {
+        "key": "50_CR19",
+        "doi-asserted-by": "crossref",
+        "first-page": "719",
+        "DOI": "10.1038/nature21692",
+        "volume": "543",
+        "author": "D Aronov",
+        "year": "2017",
+        "unstructured": "Aronov, D., Nevers, R. & Tank, D. W. Nature 543, 719\u2013722 (2017).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "50_CR20",
+        "doi-asserted-by": "crossref",
+        "first-page": "577",
+        "DOI": "10.1016/j.tics.2017.05.008",
+        "volume": "21",
+        "author": "JL Voss",
+        "year": "2017",
+        "unstructured": "Voss, J. L., Bridge, D. J., Cohen, N. J. & Walker, J. A. Trends Cogn. Sci. 21, 577\u2013588 (2017).",
+        "journal-title": "Trends Cogn. Sci."
+      }
+    ],
+    "container-title": [
+      "Nature Neuroscience"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.nature.com/articles/s41593-017-0050-8",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.nature.com/articles/s41593-017-0050-8.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.nature.com/articles/s41593-017-0050-8.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          20
+        ]
+      ],
+      "date-time": "2023-05-20T22:15:31Z",
+      "timestamp": 1684620931000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/s41593-017-0050-8"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          8
+        ]
+      ]
+    },
+    "references-count": 20,
+    "journal-issue": {
+      "issue": "2",
+      "published-print": {
+        "date-parts": [
+          [
+            2018,
+            2
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "50"
+    ],
+    "URL": "https://doi.org/10.1038/s41593-017-0050-8",
+    "relation": {},
+    "ISSN": [
+      "1097-6256",
+      "1546-1726"
+    ],
+    "issn-type": [
+      {
+        "value": "1097-6256",
+        "type": "print"
+      },
+      {
+        "value": "1546-1726",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          1,
+          8
+        ]
+      ]
+    }
+  },
+  "europepmc": [
+    {
+      "id": "29311746",
+      "source": "MED",
+      "pmid": "29311746",
+      "doi": "10.1038/s41593-017-0050-8",
+      "title": "Hexadirectional coding of visual space in human entorhinal cortex.",
+      "authorString": "Nau M, Navarro Schr\u00f6der T, Bellmund JLS, Doeller CF.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Nau M",
+            "lastName": "Nau",
+            "firstName": "Matthias",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-0956-7815"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Kavli Institute for Systems Neuroscience, Centre for Neural Computation, The Egil and Pauline Braathen and Fred Kavli Centre for Cortical Microcircuits, NTNU, Norwegian University of Science and Technology, Trondheim, Norway. matthias.nau@ntnu.no."
+                },
+                {
+                  "affiliation": "Donders Institute for Brain, Cognition and Behaviour, Radboud University, Nijmegen, The Netherlands. matthias.nau@ntnu.no."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Navarro Schr\u00f6der T",
+            "lastName": "Navarro Schr\u00f6der",
+            "firstName": "Tobias",
+            "initials": "T",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-6498-1846"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Kavli Institute for Systems Neuroscience, Centre for Neural Computation, The Egil and Pauline Braathen and Fred Kavli Centre for Cortical Microcircuits, NTNU, Norwegian University of Science and Technology, Trondheim, Norway."
+                },
+                {
+                  "affiliation": "Donders Institute for Brain, Cognition and Behaviour, Radboud University, Nijmegen, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bellmund JLS",
+            "lastName": "Bellmund",
+            "firstName": "Jacob L S",
+            "initials": "JLS",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2098-4487"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Kavli Institute for Systems Neuroscience, Centre for Neural Computation, The Egil and Pauline Braathen and Fred Kavli Centre for Cortical Microcircuits, NTNU, Norwegian University of Science and Technology, Trondheim, Norway."
+                },
+                {
+                  "affiliation": "Donders Institute for Brain, Cognition and Behaviour, Radboud University, Nijmegen, The Netherlands."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Doeller CF",
+            "lastName": "Doeller",
+            "firstName": "Christian F",
+            "initials": "CF",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4120-4600"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Kavli Institute for Systems Neuroscience, Centre for Neural Computation, The Egil and Pauline Braathen and Fred Kavli Centre for Cortical Microcircuits, NTNU, Norwegian University of Science and Technology, Trondheim, Norway. christian.doeller@ntnu.no."
+                },
+                {
+                  "affiliation": "Donders Institute for Brain, Cognition and Behaviour, Radboud University, Nijmegen, The Netherlands. christian.doeller@ntnu.no."
+                },
+                {
+                  "affiliation": "St. Olavs Hospital, Trondheim University Hospital, Trondheim, Norway. christian.doeller@ntnu.no."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-6498-1846"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2098-4487"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-0956-7815"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4120-4600"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics"
+        ]
+      },
+      "journalInfo": {
+        "issue": "2",
+        "volume": "21",
+        "journalIssueId": 2647577,
+        "dateOfPublication": "2018 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2018,
+        "journal": {
+          "medlineAbbreviation": "Nat Neurosci",
+          "title": "Nature neuroscience",
+          "essn": "1546-1726",
+          "issn": "1097-6256",
+          "isoabbreviation": "Nat Neurosci",
+          "nlmid": "9809671"
+        },
+        "printPublicationDate": "2018-02-01"
+      },
+      "pubYear": "2018",
+      "pageInfo": "188-190",
+      "abstractText": "Entorhinal grid cells map the local environment, but their involvement beyond spatial navigation remains elusive. We examined human functional MRI responses during a highly controlled visual tracking task and show that entorhinal cortex exhibited a sixfold rotationally symmetric signal encoding gaze direction. Our results provide evidence for a grid-like entorhinal code for visual space and suggest a more general role of the entorhinal grid system in coding information along continuous dimensions.",
+      "affiliation": "Kavli Institute for Systems Neuroscience, Centre for Neural Computation, The Egil and Pauline Braathen and Fred Kavli Centre for Cortical Microcircuits, NTNU, Norwegian University of Science and Technology, Trondheim, Norway. matthias.nau@ntnu.no.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print-Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Entorhinal Cortex",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "DG",
+                  "qualifierName": "diagnostic imaging"
+                },
+                {
+                  "majorTopic_YN": "Y",
+                  "abbreviation": "PH",
+                  "qualifierName": "physiology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Visual Pathways",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "DG",
+                  "qualifierName": "diagnostic imaging"
+                },
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "PH",
+                  "qualifierName": "physiology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Oxygen",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "BL",
+                  "qualifierName": "blood"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Magnetic Resonance Imaging"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Eye Movements",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "PH",
+                  "qualifierName": "physiology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Linear Models"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Orientation",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "Y",
+                  "abbreviation": "PH",
+                  "qualifierName": "physiology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Space Perception",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "Y",
+                  "abbreviation": "PH",
+                  "qualifierName": "physiology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Attention",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "Y",
+                  "abbreviation": "PH",
+                  "qualifierName": "physiology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Image Processing, Computer-Assisted"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adolescent"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Adult"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Female"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Male"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Young Adult"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Spatial Navigation",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "Y",
+                  "abbreviation": "PH",
+                  "qualifierName": "physiology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Grid Cells",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "PH",
+                  "qualifierName": "physiology"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "chemicalList": {
+        "chemical": [
+          {
+            "name": "Oxygen",
+            "registryNumber": "S88TT14065"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Unpaywall",
+            "url": "http://hdl.handle.net/11250/2632837"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41593-017-0050-8"
+          }
+        ]
+      },
+      "commentCorrectionList": {
+        "commentCorrection": [
+          {
+            "source": "MED",
+            "id": "29371658",
+            "reference": "Nat Neurosci. 2018 Feb;21(2):161-162. doi: 10.1038/s41593-017-0062-4.",
+            "type": "Comment in",
+            "orderIn": 1
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 149,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "Y",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "2019-05-16",
+      "dateOfCreation": "2018-01-10",
+      "dateOfRevision": "2026-10-10",
+      "electronicPublicationDate": "2018-01-08",
+      "firstPublicationDate": "2018-01-08",
+      "firstIndexDate": "2018-01-10",
+      "hasEvaluations": "N"
+    }
+  ],
+  "retrievedAt": "2026-10-26"
+}

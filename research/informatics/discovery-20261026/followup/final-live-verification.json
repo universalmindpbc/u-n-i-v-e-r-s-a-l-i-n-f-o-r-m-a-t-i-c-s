@@ -1,0 +1,34 @@
+{
+  "checkedAt": "2026-10-26T00:12:12.523Z",
+  "sourceCommit": "7e2de1e95711a095c60a4c5b8b1621a2723a7962",
+  "assets": [
+    {
+      "url": "https://staging.universalmind.tv/informatics/index.html",
+      "status": 200,
+      "sha256": "ada28e6552a7ff4ebbf65b6907d1206b0129b1389f813b9914abd37f0d188d65",
+      "matchesLocal": true
+    },
+    {
+      "url": "https://staging.universalmind.tv/informatics/style.css?v=ai-wiki-20261026-1",
+      "status": 200,
+      "sha256": "25f3d5261da342d64fefb27a8418abee0c71bf174a8f459b29dbceb77766b332",
+      "matchesLocal": true
+    },
+    {
+      "url": "https://staging.universalmind.tv/informatics/read/provenance.html",
+      "status": 200,
+      "sha256": "2a01488674170ba7b9358f3545e6593927da71bccd02ee995b56803f81bfc739",
+      "matchesLocal": true
+    },
+    {
+      "url": "https://staging.universalmind.tv/informatics/read/archive/20261026/desci-recovery.txt",
+      "status": 200,
+      "sha256": "a3b09ae510b5dc26074c75e606a26c0c9d3342b82815d424a007035b3d5441f0",
+      "matchesLocal": true
+    }
+  ],
+  "deSciSupport": "submitted-and-confirmed",
+  "deSciEditorRepair": "pending-provider-response",
+  "productionModified": false,
+  "passed": true
+}

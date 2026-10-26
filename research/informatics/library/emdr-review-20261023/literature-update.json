@@ -1,0 +1,241 @@
+{
+  "reviewDate": "2026-10-23",
+  "publicationStatus": "Proposed additions only; website unchanged",
+  "candidates": [
+    {
+      "pmid": "38250261",
+      "doi": "10.3389/fpsyt.2023.1336569",
+      "title": "Addressing mental health need after COVID-19: a systematic review of remote EMDR therapy studies as an emerging option.",
+      "firstPublicationDate": "2024-01-04",
+      "journal": "Frontiers in psychiatry",
+      "proposedSection": "Online EMDR",
+      "design": "Systematic review",
+      "finding": "Sixteen articles with 1,231 participants cover remote individual, group and computerised interventions.",
+      "limitation": "Heterogeneous designs include uncontrolled studies; this is not a randomised comparison of delivery methods.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/38250261/",
+        "https://doi.org/10.3389/fpsyt.2023.1336569"
+      ],
+      "existingRecordIds": [],
+      "citationCount": {
+        "value": 7,
+        "provider": "Europe PMC",
+        "retrievedAt": "2026-10-23"
+      },
+      "status": "Candidate for integration; abstract/metadata screened; full methods and masking appraisal pending",
+      "topicTrustScore": null,
+      "jadadScore": null
+    },
+    {
+      "pmid": "42773467",
+      "doi": "10.1186/s40359-026-05349-w",
+      "title": "The immediate and follow-up effects of EMDR therapy for adults with post-traumatic stress disorder: a meta-analysis of randomized controlled trials.",
+      "firstPublicationDate": "2026-08-12",
+      "journal": "BMC psychology",
+      "proposedSection": "EMDR for PTSD and related mental-health outcomes",
+      "design": "Meta-analysis of randomised controlled trials",
+      "finding": "Sixty-five studies with 3,342 participants include immediate and follow-up PTSD outcomes.",
+      "limitation": "Comparator and trauma type influence results; overlapping trials in earlier reviews are not new independent evidence.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/42773467/",
+        "https://doi.org/10.1186/s40359-026-05349-w"
+      ],
+      "existingRecordIds": [],
+      "citationCount": {
+        "value": 0,
+        "provider": "Europe PMC",
+        "retrievedAt": "2026-10-23"
+      },
+      "status": "Candidate for integration; abstract/metadata screened; full methods and masking appraisal pending",
+      "topicTrustScore": null,
+      "jadadScore": null
+    },
+    {
+      "pmid": "41340540",
+      "doi": "10.1002/cpp.70186",
+      "title": "Clinical and Cost-Effectiveness of Eye Movement Desensitisation and Reprocessing for Post-Traumatic Stress Disorder in Children and Adolescents: A Systematic Review and Meta-Analysis.",
+      "firstPublicationDate": "2025-11-01",
+      "journal": "Clinical psychology & psychotherapy",
+      "proposedSection": "EMDR for PTSD and related mental-health outcomes",
+      "design": "Systematic review and meta-analysis",
+      "finding": "Eight clinical RCTs include 794 children and adolescents; one additional study examines cost-effectiveness.",
+      "limitation": "Most comparisons use waitlist or usual care; limited active-comparator and economic evidence. EMDR UK funding is disclosed.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/41340540/",
+        "https://doi.org/10.1002/cpp.70186"
+      ],
+      "existingRecordIds": [],
+      "citationCount": {
+        "value": 1,
+        "provider": "Europe PMC",
+        "retrievedAt": "2026-10-23"
+      },
+      "status": "Candidate for integration; abstract/metadata screened; full methods and masking appraisal pending",
+      "topicTrustScore": null,
+      "jadadScore": null
+    },
+    {
+      "pmid": "42254728",
+      "doi": "10.3389/fpsyt.2026.1779057",
+      "title": "Remote EMDR versus CBT for PTSD after the Kahramanmaraş earthquakes: a randomized trial.",
+      "firstPublicationDate": "2026-05-22",
+      "journal": "Frontiers in psychiatry",
+      "proposedSection": "Online EMDR",
+      "design": "Randomised controlled trial",
+      "finding": "Eighty-nine earthquake survivors were allocated to remote EMDR, CBT or waitlist.",
+      "limitation": "Benefits against waitlist do not establish EMDR superiority or equivalence to CBT; verify follow-up and masking in the full methods.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/42254728/",
+        "https://doi.org/10.3389/fpsyt.2026.1779057"
+      ],
+      "existingRecordIds": [],
+      "citationCount": {
+        "value": 0,
+        "provider": "Europe PMC",
+        "retrievedAt": "2026-10-23"
+      },
+      "status": "Candidate for integration; abstract/metadata screened; full methods and masking appraisal pending",
+      "topicTrustScore": null,
+      "jadadScore": null
+    },
+    {
+      "pmid": "40417270",
+      "doi": "10.3389/fpsyt.2025.1452206",
+      "title": "The effectiveness of online Eye Movement Desensitization and Reprocessing 2.0 Group Protocol on post-traumatic stress disorders symptoms, depression, anxiety, and stress in individuals who have experienced a traffic accident: a randomized-controlled study.",
+      "firstPublicationDate": "2025-05-09",
+      "journal": "Frontiers in psychiatry",
+      "proposedSection": "Group EMDR; Online EMDR",
+      "design": "Small randomised controlled study",
+      "finding": "Online EMDR 2.0 group delivery after traffic accidents produced advantages on several anxiety, stress and trauma measures.",
+      "limitation": "A small non-clinical sample and one-month follow-up; between-group differences were not significant for depression or intrusion.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/40417270/",
+        "https://doi.org/10.3389/fpsyt.2025.1452206"
+      ],
+      "existingRecordIds": [],
+      "citationCount": {
+        "value": 0,
+        "provider": "Europe PMC",
+        "retrievedAt": "2026-10-23"
+      },
+      "status": "Candidate for integration; abstract/metadata screened; full methods and masking appraisal pending",
+      "topicTrustScore": null,
+      "jadadScore": null
+    },
+    {
+      "pmid": "39023949",
+      "doi": "10.1037/tra0001711",
+      "title": "The use of the \"group traumatic episode protocol (G-TEP) \" in an outpatient randomized and hospital setting: Implementation and effects in heterogeneous patient samples.",
+      "firstPublicationDate": "2024-07-18",
+      "journal": "Psychological trauma : theory, research, practice and policy",
+      "proposedSection": "Group EMDR",
+      "design": "Randomised delayed-waitlist trial and separate hospital implementation study",
+      "finding": "A 44-person outpatient study and a 23-person hospital study extend evidence on group implementation.",
+      "limitation": "The hospital component is distinct from the randomised outpatient component. Verify exact session structure and masking before grading.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/39023949/",
+        "https://doi.org/10.1037/tra0001711"
+      ],
+      "existingRecordIds": [],
+      "citationCount": {
+        "value": 2,
+        "provider": "Europe PMC",
+        "retrievedAt": "2026-10-23"
+      },
+      "status": "Candidate for integration; abstract/metadata screened; full methods and masking appraisal pending",
+      "topicTrustScore": null,
+      "jadadScore": null
+    },
+    {
+      "pmid": "42324567",
+      "doi": "10.1186/s13034-026-01118-0",
+      "title": "Trauma-focused treatments for refugee children and adolescents with PTSD: a three-arm randomized controlled trial comparing the efficacy of EMDR and KIDNET versus a waitlist control group (the KIEM study).",
+      "firstPublicationDate": "2026-06-21",
+      "journal": "Child and adolescent psychiatry and mental health",
+      "proposedSection": "EMDR for PTSD in refugees and asylum seekers",
+      "design": "Randomised controlled trial",
+      "finding": "Ninety-six refugee children aged 8–18 were allocated to EMDR, KIDNET or waitlist; both active treatments improved PTSD outcomes.",
+      "limitation": "Small arms and different dropout rates limit comparative claims. Outcomes do not establish treatment equivalence.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/42324567/",
+        "https://doi.org/10.1186/s13034-026-01118-0"
+      ],
+      "existingRecordIds": [],
+      "citationCount": {
+        "value": 0,
+        "provider": "Europe PMC",
+        "retrievedAt": "2026-10-23"
+      },
+      "status": "Candidate for integration; abstract/metadata screened; full methods and masking appraisal pending",
+      "topicTrustScore": null,
+      "jadadScore": null
+    },
+    {
+      "pmid": "39731040",
+      "doi": "10.1186/s12888-024-06420-9",
+      "title": "The effect of eye movement desensitization on neurocognitive functioning compared to retrieval-only in PTSD patients: a randomized controlled trial.",
+      "firstPublicationDate": "2024-12-27",
+      "journal": "BMC psychiatry",
+      "proposedSection": "Eye movements and treatment mechanisms",
+      "design": "Randomised component trial",
+      "finding": "Ninety-one patients received eye movement desensitisation or retrieval alone; no additional neurocognitive benefit from eye movements was found.",
+      "limitation": "The tested neurocognitive endpoints and component intervention do not represent every outcome or the full clinical protocol.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/39731040/",
+        "https://doi.org/10.1186/s12888-024-06420-9"
+      ],
+      "existingRecordIds": [],
+      "citationCount": {
+        "value": 1,
+        "provider": "Europe PMC",
+        "retrievedAt": "2026-10-23"
+      },
+      "status": "Candidate for integration; abstract/metadata screened; full methods and masking appraisal pending",
+      "topicTrustScore": null,
+      "jadadScore": null
+    },
+    {
+      "pmid": "42880055",
+      "doi": "10.1016/j.janxdis.2026.103243",
+      "title": "Efficacy of eye movement desensitization and reprocessing for anxiety: An umbrella review and meta-meta-analysis of randomized controlled trials.",
+      "firstPublicationDate": "2026-10-12",
+      "journal": "Journal of anxiety disorders",
+      "proposedSection": "EMDR for PTSD and related mental-health outcomes",
+      "design": "Umbrella review and meta-meta-analysis",
+      "finding": "Eleven meta-analyses report an average anxiety reduction, with a smaller advantage against active psychological treatments.",
+      "limitation": "Most comparisons involve PTSD, nine reviews were rated low or critically low quality, and heterogeneity was substantial.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/42880055/",
+        "https://doi.org/10.1016/j.janxdis.2026.103243"
+      ],
+      "existingRecordIds": [],
+      "citationCount": {
+        "value": 0,
+        "provider": "Europe PMC",
+        "retrievedAt": "2026-10-23"
+      },
+      "status": "Candidate for integration; abstract/metadata screened; full methods and masking appraisal pending",
+      "topicTrustScore": null,
+      "jadadScore": null
+    },
+    {
+      "doi": "10.1016/j.fnhli.2025.100070",
+      "title": "The effectiveness of trauma-based therapies for Aboriginal and non-Aboriginal children and adolescents in out-of-home care",
+      "year": 2025,
+      "journal": "First Nations Health and Wellbeing – The Lowitja Journal",
+      "proposedSection": "Trauma-focused therapies for Aboriginal and Torres Strait Islander children and young people",
+      "design": "Observational programme evaluation",
+      "finding": "Analysis of 144 children and adolescents in the LINKS programme reports reduced difficulties and trauma symptoms, with positive findings for EMDR and parent–child interaction therapy.",
+      "limitation": "No randomised treatment assignment or untreated control; the programme includes multiple therapies and cultural adaptations.",
+      "urls": [
+        "https://doi.org/10.1016/j.fnhli.2025.100070",
+        "https://gecko.healthinfonet.org.au/uploads/resources/51223_51223.pdf"
+      ],
+      "existingRecordIds": [],
+      "citationCount": null,
+      "status": "Open full text reviewed; candidate for integration",
+      "topicTrustScore": null,
+      "jadadScore": null
+    }
+  ]
+}

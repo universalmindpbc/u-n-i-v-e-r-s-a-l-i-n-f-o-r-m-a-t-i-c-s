@@ -1,0 +1,176 @@
+{
+  "createdAt": "2026-10-26",
+  "purpose": "Content hashes for the Daytab research selection and public data revision. No external timestamp is claimed.",
+  "files": [
+    {
+      "path": "Informatics/exports/manifest.json",
+      "sha256": "1e7a13dd697b542158224c92e3675e57870674420188fe57ab7b41eb6678512f",
+      "bytes": 2392223
+    },
+    {
+      "path": "Informatics/library-data/clinical-conditions.json",
+      "sha256": "72d41ef50d5718e18152fa6ff280f8bccc59855aef47ee578a46da718eaf4040",
+      "bytes": 137704
+    },
+    {
+      "path": "Informatics/library-data/language-edition.json",
+      "sha256": "9a5a390d836d369786d76be3dc3b07f5e3eb6597acc0d3f7ee2f665f8a2e8060",
+      "bytes": 542413
+    },
+    {
+      "path": "Informatics/library-data/library.json",
+      "sha256": "e201040a7d9d9dd266f6510d876ab89cc98d27eab01381b90f8683e51324adc9",
+      "bytes": 3183263
+    },
+    {
+      "path": "Informatics/library-data/publication-access.json",
+      "sha256": "b6bab65cab09030fc0dcb2bbaf0da58e2c762a30912bffc48fef0b7cfa0327d7",
+      "bytes": 328410
+    },
+    {
+      "path": "Informatics/library-data/sound-edition.json",
+      "sha256": "728762bb2460a20175433f89469fa125024e31effecced542807efdc4f911001",
+      "bytes": 459084
+    },
+    {
+      "path": "Informatics/library-data/vision-edition.json",
+      "sha256": "e7964a11f99c4f3cde3883f5b47f20d355da903160c8cfd83c3e97394b9a9897",
+      "bytes": 271128
+    },
+    {
+      "path": "research/informatics/daytab-20261026/README.md",
+      "sha256": "dbae87dbdd4e414776a5d912a0d164032e4c0f831310b0fd10182d3ab1d97c4f",
+      "bytes": 9536
+    },
+    {
+      "path": "research/informatics/daytab-20261026/additions.csv",
+      "sha256": "4dcb39a2069c58d4584d3dc4e9d9ef89b264a3c71a77facfda624788f683e1d5",
+      "bytes": 114543
+    },
+    {
+      "path": "research/informatics/daytab-20261026/additions.json",
+      "sha256": "0f4cdd75cb96ab05bf99e67fdb7c7ac1871f483694769261bafc1a4daeb872bf",
+      "bytes": 224751
+    },
+    {
+      "path": "research/informatics/daytab-20261026/build_additions.py",
+      "sha256": "1da026a9e296bd547d76c26a2e9952d0e88d52ebc6012c310a4e3a3c5de9a7a8",
+      "bytes": 17008
+    },
+    {
+      "path": "research/informatics/daytab-20261026/complete-export-roundtrip.json",
+      "sha256": "7528ac08f7329b56370bac78f6161d1122af93c4fe4acc5d9c8c759de6000db3",
+      "bytes": 228
+    },
+    {
+      "path": "research/informatics/daytab-20261026/curated-notes.tsv",
+      "sha256": "7d2645e5008ec015c568673d83acb89746594bb3fc88b35b5af5ffd33aea579b",
+      "bytes": 31237
+    },
+    {
+      "path": "research/informatics/daytab-20261026/curation-validation.json",
+      "sha256": "e97c28b882fe073d08c947f05aeb04b0811df3019c6fe8bf73f00d186aea2bb6",
+      "bytes": 1390
+    },
+    {
+      "path": "research/informatics/daytab-20261026/daytab-source-map.json",
+      "sha256": "d69f2fcade8ae999f391dab8ae7e44e189e74286485f637931be6540bd37cebe",
+      "bytes": 14626
+    },
+    {
+      "path": "research/informatics/daytab-20261026/discover.py",
+      "sha256": "510663e45b5e4a68052148238137609f035659c57e40a216f4ed67cc8a6e9f6e",
+      "bytes": 5138
+    },
+    {
+      "path": "research/informatics/daytab-20261026/fetch_daytab_sources.py",
+      "sha256": "38ff1caf57fe443a762c7ff04e0117f84803ca216a3e2ec8417098c48e6a6661",
+      "bytes": 1246
+    },
+    {
+      "path": "research/informatics/daytab-20261026/local-verification.json",
+      "sha256": "019e926f87fb21484a6c59618337da1f822c7e63aee9f733c8c42a91a33c6ccb",
+      "bytes": 389
+    },
+    {
+      "path": "research/informatics/daytab-20261026/release-audit.json",
+      "sha256": "d424b8185536cbeb94c9973264b463d8cc46a2d77f02050279ef9fa86fe31db7",
+      "bytes": 1657
+    },
+    {
+      "path": "research/informatics/daytab-20261026/screening-register.json",
+      "sha256": "b86ba183ba703d99d8fce095c6820930a67d267421a64d1825b8e5adf34c226a",
+      "bytes": 1559516
+    },
+    {
+      "path": "research/informatics/daytab-20261026/selected-pmids.json",
+      "sha256": "1c7a50eca51dd247fa5e31a6aa3990f1327e8ba75928e71803b287ac0cf06637",
+      "bytes": 982
+    },
+    {
+      "path": "research/informatics/daytab-20261026/selected-source-verification.json",
+      "sha256": "787d64fd0e299ab63a18d4512d27eac863a3199402b337e62be4fffd45f36ad4",
+      "bytes": 42174
+    },
+    {
+      "path": "research/informatics/daytab-20261026/staging-qa/complete-export-verification.json",
+      "sha256": "29758c686a2d0cc0bf85c4a6527487c69af58544eda775cf27a33702a097a77e",
+      "bytes": 1125
+    },
+    {
+      "path": "research/informatics/daytab-20261026/staging-qa/library-csv-json-equivalence.json",
+      "sha256": "11f15625942833d767cf109278dabe303d3f1a661e8f04a6bdadeea513b8642b",
+      "bytes": 194
+    },
+    {
+      "path": "research/informatics/daytab-20261026/staging-qa/library-download.csv",
+      "sha256": "69fbd1b97c79d9c28fc5a9aab7f8e9f735a18ead53a2b7db4e5d0fbce63eea3e",
+      "bytes": 2855289
+    },
+    {
+      "path": "research/informatics/daytab-20261026/staging-qa/library-download.json",
+      "sha256": "3f7bea0fd9f77732d1afba9ebdf3893c6a6fc32f20bfd4dbbc60ba36855f8ebd",
+      "bytes": 4145317
+    },
+    {
+      "path": "research/informatics/daytab-20261026/staging-qa/reading-1440.png",
+      "sha256": "c7f3bb91740093a27a880974a5a0d5bffdf4caf113c1de6e9509707ee7cdae39",
+      "bytes": 256949
+    },
+    {
+      "path": "research/informatics/daytab-20261026/staging-qa/reading-390.png",
+      "sha256": "1210b5685321cc563f8e2c5de4abdb1fcf9f7df8bf47373985b76b777be0f508",
+      "bytes": 271401
+    },
+    {
+      "path": "research/informatics/daytab-20261026/staging-qa/sound-paper-1440.png",
+      "sha256": "12e9cf773dc50e87b1720536631c6173c3a42d51a9b02073ed43a6bafb3eb735",
+      "bytes": 252209
+    },
+    {
+      "path": "research/informatics/daytab-20261026/staging-qa/sound-paper-390.png",
+      "sha256": "762716b8d82872d5c4814c4c424fe392829fa4e8f492019c6bafd45f4dbb5aec",
+      "bytes": 119800
+    },
+    {
+      "path": "research/informatics/daytab-20261026/staging-qa/verification.json",
+      "sha256": "510238ec3638fa429f7f2efb01894d6c540c7f2610dd2a680b77fa6e8e281085",
+      "bytes": 15004
+    },
+    {
+      "path": "research/informatics/daytab-20261026/verify-live-exports.py",
+      "sha256": "064c643e8141574edb0acf134c7b1a4bd94d0a3ead91f7c91f4ff67aba60e58d",
+      "bytes": 1571
+    },
+    {
+      "path": "research/informatics/daytab-20261026/verify-staging.mjs",
+      "sha256": "9161a2f5b65b6c9daf52b5770c48654b9a3c631958b8c73455970f4aafe9d4c3",
+      "bytes": 7893
+    },
+    {
+      "path": "research/informatics/daytab-20261026/verify_sources.py",
+      "sha256": "d3300bc803ad3cf99ce0f313df7b73cdf90651d1c87469627ac23fb5348035ef",
+      "bytes": 2212
+    }
+  ]
+}

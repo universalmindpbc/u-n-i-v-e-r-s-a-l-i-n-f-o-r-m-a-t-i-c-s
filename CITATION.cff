@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Cite this software when referring to the project. Citation does not grant software-use permission."
+title: "Universal Informatics"
+type: software
+authors:
+  - family-names: Korbel
+    given-names: Ben
+version: "2026.10.27"
+date-released: 2026-10-27
+url: "https://github.com/universalmindpbc/u-n-i-v-e-r-s-a-l-i-n-f-o-r-m-a-t-i-c-s"
+repository-code: "https://github.com/universalmindpbc/u-n-i-v-e-r-s-a-l-i-n-f-o-r-m-a-t-i-c-s"

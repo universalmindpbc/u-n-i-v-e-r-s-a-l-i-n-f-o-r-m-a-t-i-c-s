@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "record_csv_urls_accessible": 1001,
+  "shared_csv_urls_accessible": 10,
+  "live_files_with_matching_sha256": 13,
+  "csv_and_json_bundles_match": true,
+  "host": "https://universalmind.tv/informatics/"
+}

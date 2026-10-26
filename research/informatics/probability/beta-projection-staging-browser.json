@@ -1,0 +1,101 @@
+{
+  "passed": true,
+  "mode": "deployed_staging",
+  "results": [
+    {
+      "modulus": 9,
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "probability": true,
+      "lightbox": true,
+      "downloads": true,
+      "originalAlignment": true,
+      "otherRecordsUnassigned": true,
+      "nativeBetaObservations": true,
+      "betaNativeReducedToggle": true,
+      "betaFullSequenceAndRepeats": true,
+      "betaExports": true,
+      "epsilonIndependent": true,
+      "formationCounts": true,
+      "familySummary": true,
+      "focusReturn": true,
+      "musicContinuous": true,
+      "nativeFullscreenInvoked": false,
+      "errors": []
+    },
+    {
+      "modulus": 9,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "probability": true,
+      "lightbox": true,
+      "downloads": true,
+      "originalAlignment": true,
+      "otherRecordsUnassigned": true,
+      "nativeBetaObservations": true,
+      "betaNativeReducedToggle": true,
+      "betaFullSequenceAndRepeats": true,
+      "betaExports": true,
+      "epsilonIndependent": true,
+      "formationCounts": true,
+      "familySummary": true,
+      "focusReturn": true,
+      "musicContinuous": true,
+      "nativeFullscreenInvoked": false,
+      "errors": []
+    },
+    {
+      "modulus": 18,
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "probability": true,
+      "lightbox": true,
+      "downloads": true,
+      "originalAlignment": true,
+      "otherRecordsUnassigned": true,
+      "nativeBetaObservations": true,
+      "betaNativeReducedToggle": true,
+      "betaFullSequenceAndRepeats": true,
+      "betaExports": true,
+      "epsilonIndependent": true,
+      "formationCounts": true,
+      "familySummary": true,
+      "focusReturn": true,
+      "musicContinuous": true,
+      "nativeFullscreenInvoked": false,
+      "errors": []
+    },
+    {
+      "modulus": 18,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "probability": true,
+      "lightbox": true,
+      "downloads": true,
+      "originalAlignment": true,
+      "otherRecordsUnassigned": true,
+      "nativeBetaObservations": true,
+      "betaNativeReducedToggle": true,
+      "betaFullSequenceAndRepeats": true,
+      "betaExports": true,
+      "epsilonIndependent": true,
+      "formationCounts": true,
+      "familySummary": true,
+      "focusReturn": true,
+      "musicContinuous": true,
+      "nativeFullscreenInvoked": false,
+      "errors": []
+    }
+  ],
+  "source_commit": "e3b51518634ea79579268262245e53f46d7e0803",
+  "verified_on": "2026-10-18",
+  "process_audio_disabled": true
+}

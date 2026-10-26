@@ -1,0 +1,25 @@
+{
+  "pdb": "7QVM",
+  "sourceSHA256": "41b57ce550e83d1aa95308d4d8886bcfb9f0608535ce51b842af6376d77661db",
+  "source": "https://www.rcsb.org/structure/7QVM",
+  "publication": "https://www.nature.com/articles/s41467-022-31325-0",
+  "measurements": [
+    {
+      "ligand": "Tyr2",
+      "receptorResidue": "TRP288",
+      "aromaticHeavyAtoms": 9,
+      "nearestDistanceAngstrom": 8.180541607986603,
+      "ligandAtom": "CD2",
+      "receptorAtom": "CZ3"
+    },
+    {
+      "ligand": "Tyr2",
+      "receptorResidue": "PHE291",
+      "aromaticHeavyAtoms": 6,
+      "nearestDistanceAngstrom": 3.54130004376924,
+      "ligandAtom": "CD2",
+      "receptorAtom": "CE1"
+    }
+  ],
+  "interpretation": "The supplied infographic depicts a parallel Tyr-Trp stack. The selected deposited model supports the displayed Tyr2-Phe291 contact; Trp288 is part of the receptor activation rearrangement. Distances are geometric measurements from deposited heavy atoms, not electron paths or interaction energies."
+}

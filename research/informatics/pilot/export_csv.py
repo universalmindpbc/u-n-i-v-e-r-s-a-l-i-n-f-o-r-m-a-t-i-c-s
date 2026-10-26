@@ -1,0 +1,58 @@
+"""Human-readable CSV summary plus lossless JSON inside the complete export bundle."""
+import csv,json,io,zipfile,os
+from pathlib import Path
+ROOT=Path(__file__).resolve().parents[1];OUT=Path(os.environ.get('INFORMATICS_DATA_DIR',ROOT/'data/m1-m24-v1'));d=json.loads((OUT/'dataset.json').read_text());records=d['records']
+def write(name,rows):
+ fields=list(dict.fromkeys(k for r in rows for k in r));buf=io.StringIO(newline='');w=csv.DictWriter(buf,fieldnames=fields);w.writeheader();w.writerows(rows);(OUT/name).write_text('\ufeff'+buf.getvalue(),encoding='utf-8')
+def js(v):return json.dumps(v,ensure_ascii=False,separators=(',',':'))
+summary=[];alpha=[];beta=[];gamma=[];epsilon=[];shapes=[];formations=[];formation_beta=[];routes=[]
+for r in records:
+ m,p=r['modulus'],r['pisano_period'];b=r['beta'];base={'record_id':r['id'],'modulus':m,'pisano_period':p,'dataset_version':d['dataset_version']}
+ row={**base,'alpha_display':js(r['alpha']['display_values']),'alpha_raw':js(r['alpha']['residues']),'beta_display':js(b['display_cycle']) if b else '', 'beta_start':b['start_value'] if b else '', 'beta_minimal_raw':js(b['minimal_cycle']) if b else '', 'native_doubling':b['native_doubling'] if b else '', 'm9_doubling_values':b['m9_doubling_cycle_present'] if b else '', 'gamma_display':js(r['gamma']['clockwise_values']),'gamma_clock_positions':js(r['gamma']['clock_positions']),'epsilon_display':js(r['epsilon']['traversal_values']) if r['epsilon'] else '', 'epsilon_clock_route':js(r['epsilon']['clock_positions']) if r['epsilon'] else '', 'python_status':r['verification']['python'],'wolfram_status':r['verification']['wolfram'],'wolfram_scope':r['verification']['wolfram_scope'],'biological_significance':'Not yet assessed','statistical_significance':'Not yet assessed','geometry_scope':r['geometry_summary']['scope']}
+ literature=r['research'].get('background_literature')
+ if literature:row.update({'research_register_id':literature['register_id'],'research_register_version':literature['register_version'],'literature_relationship':literature['relationship'],'background_publication_ids':js(literature['publication_ids']),'hero_publication_ids':js(literature['hero_publication_ids']),'modulus_relevance_status':literature['modulus_relevance_status']})
+ projection=r.get('beta_m9_view')
+ if projection:row.update({'beta_reduced_m9':js(projection['reduced_values']),'beta_reduced_m9_cycle':js(projection['display_cycle']),'beta_reduced_m9_repeat_count':projection['repeat_count'],'beta_projection_rule':projection['operation'],'beta_m9_family_members':projection['family_audit']['matching_family_members'],'beta_m9_audit_range':js(projection['family_audit']['modulus_range']),'beta_m9_family_coverage':projection['family_audit']['coverage_fraction']})
+ for kind,view in r.get('m9_sequence_views',{}).items():
+  row.update({kind+'_m9_values':js(view['reduced_values']),kind+'_m9_cycle':js(view['display_cycle']),kind+'_m9_repeat_count':view['repeat_count'],kind+'_m9_rule':view['operation']})
+  if kind=='epsilon':row['epsilon_m9_block_traversals']=js(view['block_traversals'])
+ observation=r.get('native_beta_observation')
+ if observation:row.update({'native_beta_observation':observation['text'],'native_beta_observation_status':observation['classification']})
+ formations_summary=r.get('other_geometry_summary')
+ if formations_summary:row.update({'stellated_count_all_alpha':formations_summary['all_alpha_count'],'stellated_count_primary_gamma':formations_summary['primary_gamma_count'],'stellated_count_rule':formations_summary['counting_rule']})
+ row['probability_status']='Calculated' if r.get('probability') else r.get('probability_scope',{}).get('status','')
+ probability=r.get('probability')
+ if probability:row.update({'probability':probability['display'],'probability_exact':probability['result']['fraction'],'probability_value':probability['result']['value'],'probability_one_in':probability['result']['one_in_approx'],'probability_method':probability['method']['id']})
+ for s in r['geometry_summary']['shapes']:
+  row[s['name']+'_count']=s['count'];shapes.append({**base,**{k:js(v) if isinstance(v,list) else v for k,v in s.items()}})
+ path=r.get('epsilon_path');row['epsilon_path_native']=js(path['native_values']) if path else '';row['epsilon_path_reduced_m9']=js(path['reduced_m9_values']) if path else '';row['epsilon_path_native_369_qualifies']=path['native_369_qualifies'] if path else '';row['epsilon_path_reduced_369_qualifies']=path['reduced_369_qualifies'] if path else '';summary.append(row)
+ for i,(raw,label) in enumerate(zip(r['alpha']['residues'],r['alpha']['display_values'])):alpha.append({**base,'index':i,'clock_position':i or p,'raw_residue':raw,'display_value':label})
+ if b:
+  for i,x in enumerate(b['intervals']):beta.append({**base,'interval_order':i+1,**{k:js(v) if isinstance(v,list) else v for k,v in x.items()},'display_value':b['display_cycle'][i]})
+ for order,i in enumerate(r['gamma']['alpha_indices'],1):gamma.append({**base,'node_order':order,'alpha_index':i,'clock_position':i or p,'raw_residue':r['alpha']['residues'][i],'display_value':r['alpha']['display_values'][i]})
+ if r['epsilon']:
+  for order,i in enumerate(r['epsilon']['alpha_indices'],1):epsilon.append({**base,'visit_order':order,'alpha_index':i,'clock_position':i or p,'display_value':r['alpha']['display_values'][i]})
+ for f in r['formation_catalogue']:
+  formations.append({**base,**{k:js(v) if isinstance(v,(dict,list)) else v for k,v in f.items() if k not in ['beta','epsilon_routes']}})
+  for i,x in enumerate(f['beta']['intervals']):formation_beta.append({**base,'formation_id':f['id'],'interval_order':i+1,**{k:js(v) if isinstance(v,list) else v for k,v in x.items()}})
+  for route in f.get('epsilon_routes',[]):routes.append({**base,**{k:js(v) if isinstance(v,list) else v for k,v in route.items()}})
+write('epsilon_m9_comparison.csv',[{'record_id':r['id'],'modulus':r['modulus'],**{k:js(v) if isinstance(v,list) else v for k,v in r['epsilon_m9_comparison'].items()}} for r in records])
+diagnostics=[{'record_id':r['id'],'modulus':r['modulus'],'native_369_present':r['epsilon_assessment']['native_369_present'],'absence_reason':r['epsilon_assessment']['absence_reason'],'candidate_count':r['epsilon_assessment']['candidate_count'],'candidates':js(r['epsilon_assessment']['candidates'])} for r in records]
+reductions=[{'record_id':r['id'],'modulus':r['modulus'],**{k:js(v) if isinstance(v,(dict,list)) else v for k,v in r['reduction_to_m9'].items()}} for r in records]
+for name,rows in [('epsilon_assessment',diagnostics),('reduction_to_m9',reductions),('records',summary),('alpha',alpha),('beta_intervals',beta),('gamma',gamma),('epsilon',epsilon),('geometry_summary',shapes),('formation_catalogue',formations),('formation_intervals',formation_beta),('epsilon_routes',routes)]:write(name+'.csv',rows)
+(OUT/'CSV-README.txt').write_text('Universal Informatics M1–M48\n\nrecords.csv: one row per modulus. Other CSVs separate observations, interval sums and geometry candidates. Lists within cells use JSON array notation. Legacy epsilon fields describe native 3-6-9 qualification. Separate epsilon_path columns describe an exact M9 reference-path match and its reduced values; an empty legacy epsilon field does not mean this path is absent. Empty Beta means undefined, not zero. Raw residues and display values are separate. Clock position P is north; machine indices start at zero. Original Beta order is preserved.\n\nThe included dataset.json is the complete lossless source, including conventions, candidates, verification and unassessed research-tier metadata. CSVs are analytical tables derived from it, not a replacement schema. No biological significance or WSS score is assigned.\n')
+if d.get('research_register'):
+ write('research_publications.csv',[{k:js(v) if isinstance(v,(dict,list)) else v for k,v in p.items()} for p in d['research_register']['publications']])
+ with (OUT/'CSV-README.txt').open('a') as f:f.write('\nShared literature: research-register.json and research_publications.csv contain 14 unique studies; the four HERO entries are a subset. Each record links these as background_context. The dataset includes the complete bibliography once; individual JSON records include it for standalone use. Publication trust is a provisional editorial appraisal, separate from future modulus WSS.\n')
+if any(r.get('probability') for r in records):
+ with (OUT/'CSV-README.txt').open('a') as f:f.write('\nProbability: the selected comparisons are M9 P24 and M18 P24. Each uses a uniform shuffle of its own 24 native Alpha values, requiring its exact native Gamma values and positions and original Beta alignment. M9: 263/51305410956800, approximately 1 in 195.1 billion. M18: 491/2885929366320000, approximately 1 in 5.88 trillion. Full rules and exact counts are in m9-probability.json and m18-probability.json, with reproducible Python code alongside. M27, M36 and M45 have probability null and status Not selected; null means unscored for this comparison, not zero. Other records have no assigned probability. Large arrangement counts are JSON strings to retain exact integer precision.\n')
+with (OUT/'CSV-README.txt').open('a') as f:f.write('\nOther Geometry: M9-family records include other_geometry_summary. Each 2D stellated octahedron is the pair of alternating equilateral triangles on one regular six-node set. Full Alpha counts and the primary Gamma subset are separate. Formation IDs link to native values and rotations in formation_catalogue. Full Alpha count follows P / 6 for periods divisible by six. Native Beta presence and doubling status are separate from research priority.\n')
+with (OUT/'CSV-README.txt').open('a') as f:f.write('\nNative Beta observations: M9 and M18 include native_beta_observation, mirrored in records.csv. These are mathematical observations under the Atlas construction rules across M1–M1001, with original alignment retained. The complete published Atlas dataset remains M1–M48.\n')
+with (OUT/'CSV-README.txt').open('a') as f:f.write('\nBeta native/reduced views: every published M9-family record includes beta_m9_view. Native values stay unchanged. The reduced nine-position diagram shows the shared cycle once and labels its repeat count; the full reduced sequence is retained in JSON and CSV. SVG/PNG exports follow the selected view.\n')
+with (OUT/'CSV-README.txt').open('a') as f:f.write('\nM9 family views: m9_sequence_views contains Alpha, Beta, Gamma and cycle-based Epsilon. Alpha and Gamma fold indices modulo 24 after reducing values modulo 9. Epsilon uses the fixed M9 route within each 24-position block; this does not change native full-circle Epsilon qualification. Full sequences, individual Epsilon block traversals, repeat counts and original alignment are retained. m9-sequence-family-audit.json verifies all 111 family members through M999.\n')
+with zipfile.ZipFile(OUT/('m1-m48-data.zip' if len(records)==48 else 'm1-m24-data.zip'),'w',zipfile.ZIP_DEFLATED) as z:
+ for p in sorted(OUT.glob('*.csv'))+[OUT/'CSV-README.txt',OUT/'dataset.json']+sorted(OUT.glob('*.wl'))+sorted(OUT.glob('wolfram-*.json'))+[OUT/'m9-sequence-family-audit.json',OUT/'beta-m9-family-audit.json',OUT/'m9-reduction-audit.json',OUT/'research-register.json',OUT/'m9-probability.json',OUT/'m9-probability.py',OUT/'m9.json',OUT/'m18-probability.json',OUT/'m18-probability.py',OUT/'m18.json',OUT/'m27.json',OUT/'m36.json',OUT/'m45.json']:
+  if p.exists():z.write(p,p.name)
+ for p in sorted((OUT/'views').glob('m*/*-m9.*')):z.write(p,str(p.relative_to(OUT)))
+assert len(list(csv.DictReader((OUT/'records.csv').open(encoding='utf-8-sig'))))==len(records)
+print(f'{len(records)}-row CSV and complete export bundle generated.')

@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "records": 1001,
+  "m9_family": 111,
+  "sequence_views_per_family_member": 4,
+  "wolfram_comparisons": 8008,
+  "reconstructed_formation_intervals": 646188,
+  "image_assets": 8938,
+  "original_48_mathematics_preserved": true,
+  "json_csv_bundle_consistent": true,
+  "unassigned_wss_tiers": 3003
+}

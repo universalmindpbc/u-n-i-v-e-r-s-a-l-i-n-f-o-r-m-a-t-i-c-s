@@ -1,0 +1,50 @@
+{
+  "url": "https://staging.universalmind.tv/informatics/library.html?collection=all&view=search&journal=family%3Anature",
+  "checks": [
+    {
+      "exportsUnchanged": true,
+      "records": 811
+    },
+    {
+      "natureSearchLabels": 79,
+      "natureNamesNotDuplicated": true
+    },
+    {
+      "multipleJournalFilters": true,
+      "filteredPapers": 32
+    },
+    {
+      "chapterLabels": 30
+    },
+    {
+      "articleDetailsLabel": true
+    },
+    {
+      "width": 1470,
+      "articleFits": true
+    },
+    {
+      "width": 390,
+      "articleFits": true
+    },
+    {
+      "width": 320,
+      "articleFits": true
+    }
+  ],
+  "errors": [],
+  "processAudioDisabled": true,
+  "sourceCommit": "1b51d8427a94870b0e9cc3cb202d3d68b5cc745e",
+  "assets": [
+    {
+      "file": "library.html",
+      "sha256": "43c7938db6016dbfddb223fce1065803d636390489130da21141d1d3216eec2f"
+    },
+    {
+      "file": "library.js",
+      "sha256": "58273bfd15fe2d2097662b99e1926bbe02824fde6386aab1d7361536c1e819bf"
+    }
+  ],
+  "productionModified": false,
+  "terminologyReference": "https://www.nature.com/srep/"
+}

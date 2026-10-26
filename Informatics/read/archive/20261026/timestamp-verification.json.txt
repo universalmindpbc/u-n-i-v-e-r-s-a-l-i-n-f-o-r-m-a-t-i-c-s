@@ -1,0 +1,31 @@
+{
+  "type": "RFC3161",
+  "authority": "DigiCert",
+  "source": "https://knowledge.digicert.com/general-information/rfc3161-compliant-time-stamp-authority-server",
+  "issuedAt": "2026-10-25T23:29:52Z",
+  "issuedAtSydney": "2026-10-26T10:29:52+11:00",
+  "manifestSHA256": "df177d308cf36853b5c23e5d47356bc0d7976a1bb12792a0771020477adcbd5a",
+  "serialHex": "FF0F7F8A34BD354FAC62A229C7A2E2AA",
+  "policyOID": "2.16.840.1.114412.7.1",
+  "signatureAndTrustChainVerified": true,
+  "queryNonceVerified": true,
+  "trustStore": "macOS /etc/ssl/cert.pem",
+  "verifiedAt": "2026-10-25T23:30:36.849537+00:00",
+  "files": [
+    {
+      "name": "manifest.tsq",
+      "sha256": "20cd0acb09d69f1336188ab7e751a8cccd13412a05eb2400fac044b0a46c75b0",
+      "bytes": 69
+    },
+    {
+      "name": "manifest.tsr",
+      "sha256": "d2eb843cc8043851160b863e29ec91fec4c5bb198fa0822dc0dd354c2ce88ed9",
+      "bytes": 6007
+    },
+    {
+      "name": "timestamp-chain.pem",
+      "sha256": "450dee95aecff125ad43035a92dc8e63beb93f2064af4e064586627b309855f5",
+      "bytes": 7335
+    }
+  ]
+}

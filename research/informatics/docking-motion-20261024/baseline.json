@@ -1,0 +1,36 @@
+{
+  "live": false,
+  "baseline": true,
+  "processMuted": true,
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "baselineBugReproduced": true,
+      "start": {
+        "pixels": 1368,
+        "x": 607.2792397660819,
+        "y": 344.42397660818716,
+        "width": 1220,
+        "height": 684
+      },
+      "middle": {
+        "pixels": 1368,
+        "x": 607.2792397660819,
+        "y": 344.42397660818716,
+        "width": 1220,
+        "height": 684
+      },
+      "end": {
+        "pixels": 1368,
+        "x": 607.2792397660819,
+        "y": 344.42397660818716,
+        "width": 1220,
+        "height": 684
+      },
+      "displacement": 0
+    }
+  ]
+}

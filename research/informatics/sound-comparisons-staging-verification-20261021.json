@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-21",
+  "source_commit": "f3cd6420",
+  "integrated_staging_baseline": "20cfef9b",
+  "proof_url": "https://staging.universalmind.tv/informatics/?area=sound",
+  "coordination": "Partners chat confirmed a clean worktree, no unpushed website edits and no active deployment before this work began.",
+  "changes": [
+    "Research question and original study wording in a visible right sidebar; consistent Arial/Helvetica typography.",
+    "Explanations and workings beneath the animation; research precedes detailed workings on phones.",
+    "Piano keys synchronised with every matching value of 1, 3, 5 and 8 on the canonical 24-position Alpha circle.",
+    "Blend Beta for sequence structure; Blend Alpha for melody; Blend Gamma and Alpha for Scale.",
+    "Scale precedes Circle of fifths.",
+    "Explicit digit-sum and M9 presets: 528 to 6/hexagon, 444 to 3/triangle, 432 to 0 displayed as 9/circle."
+  ],
+  "preserved": [
+    "Original About text and homepage animation",
+    "Vision section",
+    "Partners including NVIDIA",
+    "Record navigation, app controller, canonical geometry and research data"
+  ],
+  "checks": [
+    "JavaScript syntax and git diff whitespace checks",
+    "Existing Panthur staging preflights passed; 3 changed Informatics assets uploaded",
+    "Beta and Gamma overlay paths exactly match their musical diagram paths",
+    "Alpha values and Gamma indices match geometry.json",
+    "Exact research wording and sans-serif font checks",
+    "Keyboard tab navigation and blend activation",
+    "Scale selection, tuning reference selection, animated progression and pause",
+    "SVG exports retain overlay layers and selected scale",
+    "No horizontal overflow at all four widths",
+    "Sound to detailed Beta record and Partners navigation",
+    "No browser page errors",
+    "Process-level audio disabled before navigation; automated pages closed after verification"
+  ],
+  "candidate": {
+    "candidate": true,
+    "processMuted": true,
+    "report": [
+      {
+        "viewport": {
+          "width": 1470,
+          "height": 956
+        },
+        "passed": true
+      },
+      {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "passed": true
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "passed": true
+      },
+      {
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "passed": true
+      }
+    ]
+  },
+  "live": {
+    "candidate": false,
+    "processMuted": true,
+    "report": [
+      {
+        "viewport": {
+          "width": 1470,
+          "height": 956
+        },
+        "passed": true
+      },
+      {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "passed": true
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "passed": true
+      },
+      {
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "passed": true
+      }
+    ]
+  },
+  "http": [
+    {
+      "name": "index.html",
+      "url": "https://staging.universalmind.tv/informatics/",
+      "status": 200,
+      "identical": true,
+      "normalisedIdentical": true,
+      "sha256": "9260ef36149dbd28d9dbf4adeee9fe3ed4cc27e76c4ecf417520faa68e924e27"
+    },
+    {
+      "name": "app.js",
+      "url": "https://staging.universalmind.tv/Informatics/app.js?v=21",
+      "status": 200,
+      "identical": true,
+      "normalisedIdentical": true,
+      "sha256": "a5f1e7bc2a21f36f57fc3e2e6524e40647f05f3129688e50ca0f98adcf2db52b"
+    },
+    {
+      "name": "atlas.css",
+      "url": "https://staging.universalmind.tv/informatics/atlas.css?v=5",
+      "status": 200,
+      "identical": true,
+      "normalisedIdentical": true,
+      "sha256": "c87f91e085a22453f8361d16e8093b5b25c3c440ca29b8606e3090d099b7d4db"
+    },
+    {
+      "name": "record-navigation.js",
+      "url": "https://staging.universalmind.tv/informatics/record-navigation.js?v=1",
+      "status": 200,
+      "identical": true,
+      "normalisedIdentical": true,
+      "sha256": "07058c2083567bd181e1adafcd6ead3d3782f519825b783ff634e268e51bd856"
+    },
+    {
+      "name": "atlas-visuals.js",
+      "url": "https://staging.universalmind.tv/informatics/atlas-visuals.js?v=3",
+      "status": 200,
+      "identical": true,
+      "normalisedIdentical": true,
+      "sha256": "8b47334d7031d3935c22e0fe3470d60b44a96c3d60e13fb3b2d7fb69b69afbcc"
+    }
+  ],
+  "http_note": "Asset proof uses the exact versioned URLs in the served document. Bare app.js and atlas.css URLs returned older cached copies; the document URLs returned byte-identical current files.",
+  "production": "Not modified; origin/main remained a0ced3b0adc553d3786441dc293fb3f700f22734."
+}

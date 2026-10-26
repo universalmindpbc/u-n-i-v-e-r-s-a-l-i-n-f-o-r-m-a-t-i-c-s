@@ -1,0 +1,22 @@
+{
+  "status": "verified_on_production",
+  "verified_at_utc": "2026-10-18T08:36:34.697716+00:00",
+  "approved_staging_commit": "3ba47fd2c65f734e2a6cef097510fc9234bd92e8",
+  "production_url": "https://universalmind.tv/informatics/?atlas=1&record=fibonacci-m1001-p560",
+  "csv_bundle_url": "https://universalmind.tv/informatics/pilot-v1/m1-m1001-csv.zip?v=1",
+  "production_tag": "production-2026-10-18-1936",
+  "csv_records": 1001,
+  "record_csv_urls_accessible": 1001,
+  "shared_csv_urls_accessible": 10,
+  "live_files_with_matching_sha256": 13,
+  "complete_csv_bundle_downloaded_and_hash_matched": true,
+  "desktop_and_mobile_record_downloads_passed": true,
+  "approved_staging_validation": {
+    "csv_records_reconstruct_json_exactly": 1001,
+    "distinct_image_urls": 8938,
+    "publications": 14,
+    "shared_csv_tables": 10,
+    "json_files_required_by_csv_bundle": 0
+  },
+  "website_source_unchanged_from_approved_staging": true
+}

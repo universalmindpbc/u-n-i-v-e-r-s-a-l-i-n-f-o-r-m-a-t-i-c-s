@@ -1,0 +1,145 @@
+{
+  "results": [
+    {
+      "width": 1470,
+      "mode": "video",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 1470,
+      "mode": "black",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 1470,
+      "mode": "white",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "mode": "video",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "mode": "black",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "mode": "white",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "mode": "video",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "mode": "black",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "mode": "white",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "mode": "video",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "mode": "black",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "mode": "white",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "muted": true,
+  "contextsClosed": true,
+  "chapterLinksPassed": true,
+  "verifiedAt": "2026-10-21T19:50:20.151640+00:00",
+  "sourceCommit": "47aa482ba2fef3ca2bff5eae6e80382f54bfcfb8",
+  "url": "https://staging.universalmind.tv/informatics/library.html?collection=sound#reading-content",
+  "assets": [
+    {
+      "file": "library.html",
+      "url": "https://staging.universalmind.tv/informatics/library.html",
+      "status": 200,
+      "matches": true,
+      "sha256": "a6fbbcca6bffe9c6000ff2242b1e6625d056c7570624554bc28a7bc0f03cb56d"
+    },
+    {
+      "file": "library.css",
+      "url": "https://staging.universalmind.tv/informatics/library.css?v=9",
+      "status": 200,
+      "matches": true,
+      "sha256": "9b54f26452bfb6a40cb072db8936a6d929c45663632cadba88429ea4da18ea6f"
+    },
+    {
+      "file": "library.js",
+      "url": "https://staging.universalmind.tv/informatics/library.js?v=5",
+      "status": 200,
+      "matches": true,
+      "sha256": "4582ac62d80a296b73f2d2157078b9d590262a3efc80717a8b778c2acb0d7181"
+    }
+  ],
+  "visualReview": "Passed desktop Video and phone White inspection. Each subchapter title is followed by one row containing its paper count and original blue medical crosses. Entries have 24px vertical separation.",
+  "scope": "Sound table of contents layout only. Original titles, scores, counts and research data unchanged.",
+  "productionCommitUnchanged": "636bfa9ae41efe036b2cccac0827c724edfde92b"
+}

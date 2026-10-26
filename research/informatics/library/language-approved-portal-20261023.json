@@ -1,0 +1,66 @@
+{
+  "retrievedAt": "2026-10-23T01:05:33.845Z",
+  "url": "https://universalmind.tv/vogue/iam/science-research-data-v1.js",
+  "sourceSHA256": "e22cfc93291066a9d7ee9b997e08f0837014b905e68f41ed93b7eb0a76719859",
+  "layer": {
+    "id": "mantra",
+    "sequence": "LAYER 03",
+    "name": "Research Silent Mantra layer",
+    "position": "Active internal practice / product entry point",
+    "grade": "B",
+    "gradeLabel": "Supported active practice",
+    "role": "Optional silent recitation / mindfulness practice",
+    "summary": "The evidence-backed starting point is active mantra recitation inside the mind: Transcendental Meditation, mantram repetition and related mantra-based mindfulness practices. This is distinct from passively receiving a sub-audible recording.",
+    "boundary": "The B grade applies to active internal mantra or meditation practice. Direct high-quality evidence for an inaudible or sub-audible mantra layer has not been established and would require separate testing.",
+    "dossier": {
+      "title": "Universal Mind [ I o H ] - Mantra Medical Research",
+      "file": "a s s e t s/r e s e a r c h/Universal Mind [ I o H ] - Mantra Medical Research.pdf",
+      "pages": 73,
+      "articles": 298,
+      "publications": 222,
+      "citations": 11226
+    },
+    "heroStudies": [
+      {
+        "type": "Systematic review of RCTs",
+        "year": 2024,
+        "journal": "Frontiers in Psychology / U.S. VA",
+        "title": "Randomised trials of mind-body interventions for PTSD",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38327501/",
+        "doi": "10.3389/fpsyg.2023.1219296",
+        "finding": "Meditation- and mantra-based interventions had moderate strength of evidence versus passive controls in the PTSD trial record reviewed by VA-affiliated researchers.",
+        "limitation": "Comparator quality, heterogeneous measures and limited objective outcomes constrain interpretation."
+      },
+      {
+        "type": "Systematic review + meta-analysis",
+        "year": 2023,
+        "journal": "Journal of Psychiatric and Mental Health Nursing",
+        "title": "Mantram repetition and psychological distress",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36427257/",
+        "doi": "10.1111/jpm.12886",
+        "finding": "Across the eligible comparison studies, mantram repetition produced a small pooled reduction in psychological distress.",
+        "limitation": "Only four of 12 retrieved studies measured distress with comparison groups."
+      },
+      {
+        "type": "Systematic review + meta-analysis",
+        "year": 2022,
+        "journal": "International Journal of Environmental Research and Public Health",
+        "title": "Mantra-based meditation and mental health",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35329068/",
+        "doi": "10.3390/ijerph19063380",
+        "finding": "RCT evidence showed small-to-moderate reductions in anxiety, depression, stress and post-traumatic stress for mantra-based meditation.",
+        "limitation": "The review found risk of bias and too few psychiatric samples or long-term follow-ups."
+      },
+      {
+        "type": "Anchor randomised controlled trial",
+        "year": 2018,
+        "journal": "The Lancet Psychiatry / U.S. DoD funded",
+        "title": "Transcendental Meditation versus exposure therapy in veterans with PTSD",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30449712/",
+        "doi": "10.1016/S2215-0366(18)30384-5",
+        "finding": "In 203 veterans, Transcendental Meditation was non-inferior to prolonged exposure therapy for change in clinician-assessed PTSD symptoms at three months.",
+        "limitation": "One trial of a structured 12-session practice; it does not test passive or sub-audible mantra delivery."
+      }
+    ]
+  }
+}

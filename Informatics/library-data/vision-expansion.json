@@ -1,0 +1,4664 @@
+{
+  "updatedAt": "2026-10-23",
+  "records": [
+    {
+      "id": "doi-67fa7275f4f4ba77",
+      "title": "Effects of EMDR Group Traumatic Episode Protocol on Burnout Within IAPT Healthcare Professionals: A Feasibility and Acceptability Study",
+      "doi": "10.1891/emdr-2022-0029",
+      "pmid": null,
+      "journal": "Journal of EMDR Practice and Research",
+      "year": 2022,
+      "authors": "Jasmin Pink; Mahdi Ghomi; Tanya Smart; Thomas Richardson",
+      "urls": [
+        "https://doi.org/10.1891/emdr-2022-0029"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Peer-reviewed research",
+      "citationCount": 4,
+      "citationSnapshot": {
+        "count": 4,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1891/emdr-2022-0029"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "pmid-36248508",
+      "title": "The effect of the online eye movement desensitization and reprocessing early intervention protocol (EMDR R-TEP) for the risk groups with post-traumatic stress symptoms during the COVID-19 pandemic.",
+      "doi": "10.3389/fpsyg.2022.935782",
+      "pmid": "36248508",
+      "journal": "Frontiers in psychology",
+      "year": 2022,
+      "authors": "Yurtsever A, Bakalim O, Karaman Ş, Kaya S, Konuk E.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9559741/",
+        "https://pubmed.ncbi.nlm.nih.gov/36248508/",
+        "https://doi.org/10.3389/fpsyg.2022.935782"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Peer-reviewed research",
+      "citationCount": 20,
+      "citationSnapshot": {
+        "count": 20,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/36248508/",
+          "https://doi.org/10.3389/fpsyg.2022.935782"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "doi-2a203fb071ddfe54",
+      "title": "“Online delivery gave me privacy and distance from others”: feasibility trial and qualitative evaluation of an online intervention for refugees and asylum seekers; <scp>LTP</scp> + <scp>EMDR G‐TEP</scp>",
+      "doi": "10.1002/capr.12580",
+      "pmid": null,
+      "journal": "Counselling and Psychotherapy Research",
+      "year": 2022,
+      "authors": "Safa Kemal Kaptan; Filippo Varese; Betul Yilmaz; Panoraia Andriopoulou; Nusrat Husain",
+      "urls": [
+        "https://doi.org/10.1002/capr.12580"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Peer-reviewed research",
+      "citationCount": 10,
+      "citationSnapshot": {
+        "count": 10,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1002/capr.12580"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "pmid-34763697",
+      "title": "An evaluation of eye movement desensitization and reprocessing therapy delivered remotely during the Covid-19 pandemic.",
+      "doi": "10.1186/s12888-021-03571-x",
+      "pmid": "34763697",
+      "journal": "BMC psychiatry",
+      "year": 2021,
+      "authors": "McGowan IW, Fisher N, Havens J, Proudlock S.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8581955/",
+        "https://pubmed.ncbi.nlm.nih.gov/34763697/",
+        "https://doi.org/10.1186/s12888-021-03571-x"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Peer-reviewed research",
+      "citationCount": 18,
+      "citationSnapshot": {
+        "count": 18,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/34763697/",
+          "https://doi.org/10.1186/s12888-021-03571-x"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "doi-b4b0af603557eafe",
+      "title": "Low-Intensity Interventions and EMDR Therapy",
+      "doi": "10.1891/emdr-d-21-00009",
+      "pmid": null,
+      "journal": "Journal of EMDR Practice and Research",
+      "year": 2021,
+      "authors": "Louise Maxfield",
+      "urls": [
+        "https://doi.org/10.1891/emdr-d-21-00009"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Review and commentary",
+      "citationCount": 11,
+      "citationSnapshot": {
+        "count": 11,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1891/emdr-d-21-00009"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "doi-37bd65a31f48ce93",
+      "title": "Randomized Controlled Trial: Self-Care Traumatic Episode Protocol, Computerized EMDR Treatment of COVID-19-Related Stress",
+      "doi": "10.1891/emdr-d-20-00047",
+      "pmid": null,
+      "journal": "Journal of EMDR Practice and Research",
+      "year": 2021,
+      "authors": "Judy Moench; Olivia Billsten",
+      "urls": [
+        "https://doi.org/10.1891/emdr-d-20-00047"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial",
+      "citationCount": 12,
+      "citationSnapshot": {
+        "count": 12,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1891/emdr-d-20-00047"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "limitation": "STEP tested 34 mental-health clinicians using a recorded session with worksheets, clinical screening and access to support. This population and protocol differ from general unguided entertainment use."
+    },
+    {
+      "id": "pmid-34025912",
+      "title": "Safety and effectiveness of intensive treatment for complex PTSD delivered via home-based telehealth.",
+      "doi": "10.1080/20008198.2020.1860346",
+      "pmid": "34025912",
+      "journal": "European journal of psychotraumatology",
+      "year": 2021,
+      "authors": "Bongaerts H, Voorendonk EM, van Minnen A, de Jongh A.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8128126/",
+        "https://pubmed.ncbi.nlm.nih.gov/34025912/",
+        "https://doi.org/10.1080/20008198.2020.1860346"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Peer-reviewed research",
+      "citationCount": 19,
+      "citationSnapshot": {
+        "count": 19,
+        "source": "Europe PMC",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/34025912/",
+          "https://doi.org/10.1080/20008198.2020.1860346"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "pmid-30858808",
+      "title": "Psychological and Brain Connectivity Changes Following Trauma-Focused CBT and EMDR Treatment in Single-Episode PTSD Patients.",
+      "doi": "10.3389/fpsyg.2019.00129",
+      "pmid": "30858808",
+      "journal": "Frontiers in psychology",
+      "year": 2019,
+      "authors": "Santarnecchi E, Bossini L, Vatti G, Fagiolini A, La Porta P, Di Lorenzo G, Siracusano A, Rossi S, Rossi A.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6397860/",
+        "https://pubmed.ncbi.nlm.nih.gov/30858808/",
+        "https://doi.org/10.3389/fpsyg.2019.00129"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Peer-reviewed research",
+      "citationCount": 30,
+      "citationSnapshot": {
+        "count": 30,
+        "source": "Europe PMC",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/30858808/",
+          "https://doi.org/10.3389/fpsyg.2019.00129"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "sample": "Single-episode PTSD patients; not a military-specific sample",
+        "measurement": "Clinical outcomes and brain connectivity"
+      }
+    },
+    {
+      "id": "pmid-29946275",
+      "title": "An Eye Movement Desensitization and Reprocessing (EMDR) Group Intervention for Syrian Refugees With Post-traumatic Stress Symptoms: Results of a Randomized Controlled Trial.",
+      "doi": "10.3389/fpsyg.2018.00493",
+      "pmid": "29946275",
+      "journal": "Frontiers in psychology",
+      "year": 2018,
+      "authors": "Yurtsever A, Konuk E, Akyüz T, Zat Z, Tükel F, Çetinkaya M, Savran C, Shapiro E.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6005903/",
+        "https://pubmed.ncbi.nlm.nih.gov/29946275/",
+        "https://doi.org/10.3389/fpsyg.2018.00493"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial · reported single-blind",
+      "citationCount": 81,
+      "citationSnapshot": {
+        "count": 81,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "rct-masking-unclear",
+        "peerReviewed": true,
+        "basis": "The methods call this a single-blind randomized study, but do not sufficiently identify the masked role or maintenance of masking. It remains counted as peer-reviewed evidence without a verified masked-trial contribution.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/29946275/",
+          "https://doi.org/10.3389/fpsyg.2018.00493"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "trialId": "Yurtsever-GTEP-2018"
+      }
+    },
+    {
+      "id": "pmid-30197612",
+      "title": "Effective Treatment of Veterans With PTSD: Comparison Between Intensive Daily and Weekly EMDR Approaches.",
+      "doi": "10.3389/fpsyg.2018.01458",
+      "pmid": "30197612",
+      "journal": "Frontiers in psychology",
+      "year": 2018,
+      "authors": "Hurley EC.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6117416/",
+        "https://pubmed.ncbi.nlm.nih.gov/30197612/",
+        "https://doi.org/10.3389/fpsyg.2018.01458"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Peer-reviewed research",
+      "citationCount": 31,
+      "citationSnapshot": {
+        "count": 31,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/30197612/",
+          "https://doi.org/10.3389/fpsyg.2018.01458"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "pmid-30186192",
+      "title": "Eye Movement Desensitization and Reprocessing Versus Treatment as Usual in the Treatment of Depression: A Randomized-Controlled Trial.",
+      "doi": "10.3389/fpsyg.2018.01384",
+      "pmid": "30186192",
+      "journal": "Frontiers in psychology",
+      "year": 2018,
+      "authors": "Hase M, Plagge J, Hase A, Braas R, Ostacoli L, Hofmann A, Huchzermeier C.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6113947/",
+        "https://pubmed.ncbi.nlm.nih.gov/30186192/",
+        "https://doi.org/10.3389/fpsyg.2018.01384"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial",
+      "citationCount": 35,
+      "citationSnapshot": {
+        "count": 35,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/30186192/",
+          "https://doi.org/10.3389/fpsyg.2018.01384"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "sample": "People with depression; not a veteran-specific sample"
+      }
+    },
+    {
+      "id": "pmid-30166975",
+      "title": "How Does Eye Movement Desensitization and Reprocessing Therapy Work? A Systematic Review on Suggested Mechanisms of Action.",
+      "doi": "10.3389/fpsyg.2018.01395",
+      "pmid": "30166975",
+      "journal": "Frontiers in psychology",
+      "year": 2018,
+      "authors": "Landin-Romero R, Moreno-Alcazar A, Pagani M, Amann BL.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6106867/",
+        "https://pubmed.ncbi.nlm.nih.gov/30166975/",
+        "https://doi.org/10.3389/fpsyg.2018.01395"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Systematic review",
+      "citationCount": 173,
+      "citationSnapshot": {
+        "count": 173,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/30166975/",
+          "https://doi.org/10.3389/fpsyg.2018.01395"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "pmid-28660669",
+      "title": "Comparison of eye movement desensitization and reprocessing therapy, cognitive behavioral writing therapy, and wait-list in pediatric posttraumatic stress disorder following single-incident trauma: a multicenter randomized clinical trial.",
+      "doi": "10.1111/jcpp.12768",
+      "pmid": "28660669",
+      "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+      "year": 2017,
+      "authors": "de Roos C, van der Oord S, Zijlstra B, Lucassen S, Perrin S, Emmelkamp P, de Jongh A.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/28660669/",
+        "https://doi.org/10.1111/jcpp.12768"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial · single-blind (assessor)",
+      "citationCount": 84,
+      "citationSnapshot": {
+        "count": 84,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "single-blind-rct",
+        "peerReviewed": true,
+        "basis": "The primary article identifies a single-blind, three-arm randomized trial in 103 young people aged 8–18.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/28660669/",
+          "https://doi.org/10.1111/jcpp.12768"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "trialId": "de-roos-2017"
+      }
+    },
+    {
+      "id": "doi-648f6da34833f786",
+      "title": "Evaluating the EMDR Group Traumatic Episode Protocol With Refugees: A Field Study",
+      "doi": "10.1891/1933-3196.11.3.129",
+      "pmid": null,
+      "journal": "Journal of EMDR Practice and Research",
+      "year": 2017,
+      "authors": "Maria Lehnung; Elan Shapiro; Melanie Schreiber; Arne Hofmann",
+      "urls": [
+        "https://doi.org/10.1891/1933-3196.11.3.129"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Peer-reviewed research",
+      "citationCount": 61,
+      "citationSnapshot": {
+        "count": 61,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1891/1933-3196.11.3.129"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "pmid-26963955",
+      "title": "Outcomes from eye movement desensitization and reprocessing in active-duty service members with posttraumatic stress disorder.",
+      "doi": "10.1037/tra0000120",
+      "pmid": "26963955",
+      "journal": "Psychological trauma : theory, research, practice and policy",
+      "year": 2016,
+      "authors": "McLay RN, Webb-Murphy JA, Fesperman SF, Delaney EM, Gerard SK, Roesch SC, Nebeker BJ, Pandzic I, Vishnyak EA, Johnston SL.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/26963955/",
+        "https://doi.org/10.1037/tra0000120"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Peer-reviewed research",
+      "citationCount": 15,
+      "citationSnapshot": {
+        "count": 15,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/26963955/",
+          "https://doi.org/10.1037/tra0000120"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "pmid-27353367",
+      "title": "The efficacy of eye movement desensitization and reprocessing for post-traumatic stress disorder and depression among Syrian refugees: results of a randomized controlled trial.",
+      "doi": "10.1017/s0033291716001070",
+      "pmid": "27353367",
+      "journal": "Psychological medicine",
+      "year": 2016,
+      "authors": "Acarturk C, Konuk E, Cetinkaya M, Senay I, Sijbrandij M, Gulen B, Cuijpers P.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/27353367/",
+        "https://doi.org/10.1017/s0033291716001070"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial · single-blind (assessor)",
+      "citationCount": 119,
+      "citationSnapshot": {
+        "count": 119,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "single-blind-rct",
+        "peerReviewed": true,
+        "basis": "The primary report identifies a single-blind randomized trial comparing EMDR and waitlist in Syrian refugees.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/27353367/",
+          "https://doi.org/10.1017/s0033291716001070"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "trialId": "acarturk-2016"
+      }
+    },
+    {
+      "id": "pmid-25989952",
+      "title": "EMDR for Syrian refugees with posttraumatic stress disorder symptoms: results of a pilot randomized controlled trial.",
+      "doi": "10.3402/ejpt.v6.27414",
+      "pmid": "25989952",
+      "journal": "European journal of psychotraumatology",
+      "year": 2015,
+      "authors": "Acarturk C, Konuk E, Cetinkaya M, Senay I, Sijbrandij M, Cuijpers P, Aker T.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4438099/",
+        "https://pubmed.ncbi.nlm.nih.gov/25989952/",
+        "https://doi.org/10.3402/ejpt.v6.27414"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial · single-blind (assessor)",
+      "citationCount": 119,
+      "citationSnapshot": {
+        "count": 119,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "single-blind-rct",
+        "peerReviewed": true,
+        "basis": "The methods identify a single-blind, parallel-group randomized trial. Participants and therapists knew allocation; outcome assessors were kept blind. Self-report scales were administered verbally by a blinded assistant when assistance was required.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/25989952/",
+          "https://doi.org/10.3402/ejpt.v6.27414"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "trialId": "Acarturk-2015-pilot"
+      }
+    },
+    {
+      "id": "pmid-24965797",
+      "title": "Trauma-focused cognitive behavioral therapy or eye movement desensitization and reprocessing: what works in children with posttraumatic stress symptoms? A randomized controlled trial.",
+      "doi": "10.1007/s00787-014-0572-5",
+      "pmid": "24965797",
+      "journal": "European child & adolescent psychiatry",
+      "year": 2014,
+      "authors": "Diehle J, Opmeer BC, Boer F, Mannarino AP, Lindauer RJ.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/24965797/",
+        "https://doi.org/10.1007/s00787-014-0572-5"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial · single-blind (assessor)",
+      "citationCount": 140,
+      "citationSnapshot": {
+        "count": 140,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "single-blind-rct",
+        "peerReviewed": true,
+        "basis": "The methods describe a prospective randomized open-label blinded-endpoint trial. Psychologists assessing outcomes were blinded to treatment allocation.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/24965797/",
+          "https://doi.org/10.1007/s00787-014-0572-5",
+          "https://www.vkjp.nl/media/files/De%20praktijk/Diehle%20et%20al%202014%20Trauma%281%29.pdf"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "trialId": "NTR1814"
+      }
+    },
+    {
+      "id": "doi-4e5b48cad9b6436d",
+      "title": "EMDR With Traumatized Refugees: From Experience-Based to Evidence-Based Practice",
+      "doi": "10.1891/1933-3196.8.3.147",
+      "pmid": null,
+      "journal": "Journal of EMDR Practice and Research",
+      "year": 2014,
+      "authors": "F. Jackie June ter Heide; Trudy T. M. Mooren; Jeroen W. Knipscheer; Rolf J. Kleber",
+      "urls": [
+        "https://doi.org/10.1891/1933-3196.8.3.147"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Peer-reviewed research",
+      "citationCount": 9,
+      "citationSnapshot": {
+        "count": 9,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1891/1933-3196.8.3.147"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "pmid-25101684",
+      "title": "Efficacy of eye-movement desensitization and reprocessing for patients with posttraumatic-stress disorder: a meta-analysis of randomized controlled trials.",
+      "doi": "10.1371/journal.pone.0103676",
+      "pmid": "25101684",
+      "journal": "PloS one",
+      "year": 2014,
+      "authors": "Chen YR, Hung KW, Tsai JC, Chu H, Chung MH, Chen SR, Liao YM, Ou KL, Chang YC, Chou KR.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4125321/",
+        "https://pubmed.ncbi.nlm.nih.gov/25101684/",
+        "https://doi.org/10.1371/journal.pone.0103676"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Systematic review and meta-analysis",
+      "citationCount": 159,
+      "citationSnapshot": {
+        "count": 159,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/25101684/",
+          "https://doi.org/10.1371/journal.pone.0103676"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "pmid-24626074",
+      "title": "The role of eye movement desensitization and reprocessing (EMDR) therapy in medicine: addressing the psychological and physical symptoms stemming from adverse life experiences.",
+      "doi": "10.7812/tpp/13-098",
+      "pmid": "24626074",
+      "journal": "The Permanente journal",
+      "year": 2014,
+      "authors": "Shapiro F.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3951033/",
+        "https://pubmed.ncbi.nlm.nih.gov/24626074/",
+        "https://doi.org/10.7812/tpp/13-098"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Review",
+      "citationCount": 272,
+      "citationSnapshot": {
+        "count": 272,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/24626074/",
+          "https://doi.org/10.7812/tpp/13-098"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "pmid-23702050",
+      "title": "A multi-site single blind clinical study to compare the effects of prolonged exposure, eye movement desensitization and reprocessing and waiting list on patients with a current diagnosis of psychosis and co morbid post traumatic stress disorder: study protocol for the randomized controlled trial Treating Trauma in Psychosis.",
+      "doi": "10.1186/1745-6215-14-151",
+      "pmid": "23702050",
+      "journal": "Trials",
+      "year": 2013,
+      "authors": "de Bont PA, van den Berg DP, van der Vleugel BM, de Roos C, Mulder CL, Becker ES, de Jongh A, van der Gaag M, van Minnen A.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3667059/",
+        "https://pubmed.ncbi.nlm.nih.gov/23702050/",
+        "https://doi.org/10.1186/1745-6215-14-151"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized trial protocol",
+      "citationCount": 39,
+      "citationSnapshot": {
+        "count": 39,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "protocol",
+        "peerReviewed": true,
+        "basis": "Protocol describes a planned single-blind trial. It is not counted as a completed RCT.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/23702050/",
+          "https://doi.org/10.1186/1745-6215-14-151"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "pmid-22893808",
+      "title": "EMDR versus stabilisation in traumatised asylum seekers and refugees: results of a pilot study.",
+      "doi": "10.3402/ejpt.v2i0.5881",
+      "pmid": "22893808",
+      "journal": "European journal of psychotraumatology",
+      "year": 2011,
+      "authors": "Ter Heide FJ, Mooren TM, Kleijn W, de Jongh A, Kleber RJ.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3402110/",
+        "https://pubmed.ncbi.nlm.nih.gov/22893808/",
+        "https://doi.org/10.3402/ejpt.v2i0.5881"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled pilot trial · single-blind (assessor)",
+      "citationCount": 62,
+      "citationSnapshot": {
+        "count": 62,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "single-blind-rct",
+        "peerReviewed": true,
+        "basis": "The randomized pilot used trained blinded diagnostic assessors. Blinding was maintained in 33 of 44 assessments (70%), a stated limitation.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/22893808/",
+          "https://doi.org/10.3402/ejpt.v2i0.5881"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "trialId": "ter-Heide-2011-pilot"
+      }
+    },
+    {
+      "id": "pmid-18612994",
+      "title": "Eye movement desensitization and reprocessing (EMDR) in the treatment of war veterans.",
+      "doi": "10.1002/jclp.20510",
+      "pmid": "18612994",
+      "journal": "Journal of clinical psychology",
+      "year": 2008,
+      "authors": "Silver SM, Rogers S, Russell M.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/18612994/",
+        "https://doi.org/10.1002/jclp.20510"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Review",
+      "citationCount": 30,
+      "citationSnapshot": {
+        "count": 30,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/18612994/",
+          "https://doi.org/10.1002/jclp.20510"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "pmid-17284128",
+      "title": "A randomized clinical trial of eye movement desensitization and reprocessing (EMDR), fluoxetine, and pill placebo in the treatment of posttraumatic stress disorder: treatment effects and long-term maintenance.",
+      "doi": "10.4088/jcp.v68n0105",
+      "pmid": "17284128",
+      "journal": "The Journal of clinical psychiatry",
+      "year": 2007,
+      "authors": "van der Kolk BA, Spinazzola J, Blaustein ME, Hopper JW, Hopper EK, Korn DL, Simpson WB.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/17284128/",
+        "https://doi.org/10.4088/jcp.v68n0105"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial",
+      "citationCount": 315,
+      "citationSnapshot": {
+        "count": 315,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/17284128/",
+          "https://doi.org/10.4088/jcp.v68n0105"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "pmid-16899965",
+      "title": "Eye movement desensitization and reprocessing for posttraumatic stress disorder: a pilot blinded, randomized study of stimulation type.",
+      "doi": "10.1159/000093950",
+      "pmid": "16899965",
+      "journal": "Psychotherapy and psychosomatics",
+      "year": 2006,
+      "authors": "Servan-Schreiber D, Schooler J, Dew MA, Carter C, Bartone P.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/16899965/",
+        "https://doi.org/10.1159/000093950"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial",
+      "citationCount": 48,
+      "citationSnapshot": {
+        "count": 48,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/16899965/",
+          "https://doi.org/10.1159/000093950"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "pmid-9479673",
+      "title": "Eye movement desensitization and reprocessing (EDMR) treatment for combat-related posttraumatic stress disorder.",
+      "doi": "10.1023/a:1024448814268",
+      "pmid": "9479673",
+      "journal": "Journal of traumatic stress",
+      "year": 1998,
+      "authors": "Carlson JG, Chemtob CM, Rusnak K, Hedlund NL, Muraoka MY.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/9479673/",
+        "https://doi.org/10.1023/a:1024448814268"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial",
+      "citationCount": 187,
+      "citationSnapshot": {
+        "count": 187,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/9479673/",
+          "https://doi.org/10.1023/a:1024448814268"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "src-4d549c318fe9",
+      "title": "Assessment and Management of Conditions Specifically related to Stress",
+      "doi": null,
+      "pmid": null,
+      "journal": "World Health Organisation and UNHCR",
+      "year": null,
+      "authors": "",
+      "urls": [
+        "https://apps.who.int/iris/bitstream/handle/10665/85623/9789241505932_eng.pdf"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Methods & context"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Clinical guideline",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Clinical guidance",
+      "studyDesignAssessment": {
+        "category": "context",
+        "peerReviewed": false,
+        "basis": "Guidance, presentation or research-search context; not an individual peer-reviewed trial.",
+        "sources": [
+          "https://apps.who.int/iris/bitstream/handle/10665/85623/9789241505932_eng.pdf"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "src-35cb6bd28036",
+      "title": "Australian Guidelines for PTSD",
+      "doi": null,
+      "pmid": null,
+      "journal": "Australian Government National Research and Medical Council with Phoenix Australia",
+      "year": null,
+      "authors": "",
+      "urls": [
+        "https://www.phoenixaustralia.org/australian-guidelines-for-ptsd"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Methods & context"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Clinical guideline",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Clinical guidance",
+      "studyDesignAssessment": {
+        "category": "context",
+        "peerReviewed": false,
+        "basis": "Guidance, presentation or research-search context; not an individual peer-reviewed trial.",
+        "sources": [
+          "https://www.phoenixaustralia.org/australian-guidelines-for-ptsd"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "src-05fee8b7d126",
+      "title": "COVID-19, Isolation, Quarantine: On the Efficacy of Internet-Based Eye Movement Desensitization and Reprocessing (EMDR) and Cognitive-Behavioral Therapy (CBT) for Ongoing Trauma",
+      "doi": "10.3390/brainsci11050579",
+      "pmid": null,
+      "journal": "Brain Sciences",
+      "year": 2021,
+      "authors": "Rinaldo Perri; Paola Castelli; Cecilia La Rosa; Teresa Zucchi; Antonio Onofri",
+      "urls": [
+        "https://doi.org/10.3390/brainsci11050579"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Peer-reviewed research",
+      "citationCount": 51,
+      "citationSnapshot": {
+        "count": 51,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.3390/brainsci11050579"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "src-3d07e41dbe7a",
+      "title": "The efficacy of trauma-based therapies for Aboriginal children and young people in out-of-home care: a journey through LINKS",
+      "doi": null,
+      "pmid": null,
+      "journal": "NSW Department of Communities and Justice",
+      "year": 2022,
+      "authors": "",
+      "urls": [
+        "https://dcj.nsw.gov.au/content/dam/dcj/dcj-website/documents/about-us/facsiar/research-seminars/past-seminars/2022/Debbie-Haynesv2-.pdf"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Methods & context"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Research context",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Programme evaluation presentation",
+      "studyDesignAssessment": {
+        "category": "context",
+        "peerReviewed": false,
+        "basis": "Guidance, presentation or research-search context; not an individual peer-reviewed trial.",
+        "sources": [
+          "https://www.facs.nsw.gov.au/__data/assets/pdf_file/0005/835457/Debbie-Haynesv2-.pdf"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "src-e9a450b442d3",
+      "title": "Early EMDR Interventions with Syrian Refugees in Turkey R-TEP and G-TEP",
+      "doi": null,
+      "pmid": null,
+      "journal": "EMDR Europe Conference",
+      "year": null,
+      "authors": "",
+      "urls": [
+        "https://www.ifemdr.fr/wp-content/uploads/2014/10/asena-yurtsever.pdf"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Methods & context"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Research context",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Conference presentation",
+      "studyDesignAssessment": {
+        "category": "context",
+        "peerReviewed": false,
+        "basis": "Guidance, presentation or research-search context; not an individual peer-reviewed trial.",
+        "sources": [
+          "https://www.ifemdr.fr/wp-content/uploads/2014/10/asena-yurtsever.pdf"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "src-d5959fcb69bc",
+      "title": "Early intervention for residential out-of-home care staff using eye movement desensitization and reprocessing (EMDR).",
+      "doi": "10.1037/tra0001418",
+      "pmid": null,
+      "journal": "Psychological Trauma: Theory, Research, Practice, and Policy",
+      "year": 2023,
+      "authors": "Heather Morris; Kostas Hatzikiriakidis; Jenny Dwyer; Catrin Lewis; Nick Halfpenny; Robyn Miller; Helen Skouteris",
+      "urls": [
+        "https://doi.org/10.1037/tra0001418"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Peer-reviewed research",
+      "citationCount": 5,
+      "citationSnapshot": {
+        "count": 5,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1037/tra0001418"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "src-d173f7852495",
+      "title": "Eye Movement Desensitization and Reprocessing (EMDR) for PTSD",
+      "doi": null,
+      "pmid": null,
+      "journal": "National Center for PTSD, US Department of Veteran Affairs",
+      "year": null,
+      "authors": "",
+      "urls": [
+        "https://www.ptsd.va.gov/understand_tx/emdr.asp"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Methods & context"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Clinical guideline",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Clinical guidance",
+      "studyDesignAssessment": {
+        "category": "context",
+        "peerReviewed": false,
+        "basis": "Guidance, presentation or research-search context; not an individual peer-reviewed trial.",
+        "sources": [
+          "https://www.ptsd.va.gov/understand_tx/emdr.asp"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "src-688f56d0a555",
+      "title": "Light in the Heart of Darkness: EMDR and the Treatment of War and Terrorism Survivors",
+      "doi": "10.1176/appi.psychotherapy.2003.57.1.148",
+      "pmid": null,
+      "journal": "American Journal of Psychotherapy",
+      "year": 2003,
+      "authors": "Abram Chipman",
+      "urls": [
+        "https://doi.org/10.1176/appi.psychotherapy.2003.57.1.148"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Book review",
+      "citationCount": 1,
+      "citationSnapshot": {
+        "count": 1,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "context",
+        "peerReviewed": false,
+        "basis": "A journal book review, not an intervention study.",
+        "sources": [
+          "https://doi.org/10.1176/appi.psychotherapy.2003.57.1.148"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "src-75491f6f55b4",
+      "title": "Open Arms Mental Health FAQs",
+      "doi": null,
+      "pmid": null,
+      "journal": "Australian Government Department of Veteran Affairs",
+      "year": null,
+      "authors": "",
+      "urls": [
+        "https://www.openarms.gov.au/sites/default/files/2020-01/webinar_9_mental_health_faqs_panelist.pdf"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Methods & context"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Clinical guideline",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Clinical guidance",
+      "studyDesignAssessment": {
+        "category": "context",
+        "peerReviewed": false,
+        "basis": "Guidance, presentation or research-search context; not an individual peer-reviewed trial.",
+        "sources": [
+          "https://www.openarms.gov.au/sites/default/files/2020-01/webinar_9_mental_health_faqs_panelist.pdf"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "src-757129132fdc",
+      "title": "Responding to an identified need: A joint department of defense/department of veterans affairs training program in eye movement desensitization and reprocessing (EMDR) for clinicians providing trauma services.",
+      "doi": "10.1037/1072-5245.14.1.61",
+      "pmid": null,
+      "journal": "International Journal of Stress Management",
+      "year": 2007,
+      "authors": "Mark C. Russell; Steven M. Silver; Susan Rogers; Jolee N. Darnell",
+      "urls": [
+        "https://doi.org/10.1037/1072-5245.14.1.61"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Peer-reviewed research",
+      "citationCount": 18,
+      "citationSnapshot": {
+        "count": 18,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1037/1072-5245.14.1.61"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "src-1a2a9900c208",
+      "title": "The Effects of the EMDR Group Traumatic Episode Protocol With Cancer Survivors",
+      "doi": "10.1891/1933-3196.12.3.105",
+      "pmid": null,
+      "journal": "Journal of EMDR Practice and Research",
+      "year": null,
+      "authors": "",
+      "urls": [
+        "https://doi.org/10.1891/1933-3196.12.3.105"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Peer-reviewed research",
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1891/1933-3196.12.3.105"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "src-796cb6656464",
+      "title": "Use of EMDR-Derived Self-Help Intervention in Children in the Period of COVID-19: A Randomized-Controlled Study",
+      "doi": "10.1891/emdr-d-20-00054",
+      "pmid": null,
+      "journal": "Journal of EMDR Practice and Research",
+      "year": 2021,
+      "authors": "Mehmet Karadag; Zehra Topal; Ravza Nur Ezer; Cem Gokcen",
+      "urls": [
+        "https://doi.org/10.1891/emdr-d-20-00054"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial",
+      "citationCount": 13,
+      "citationSnapshot": {
+        "count": 13,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1891/emdr-d-20-00054"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "limitation": "Parent-supported story-based intervention during COVID-19. This is not a test of unsupervised trauma processing or a complete clinical EMDR protocol."
+    },
+    {
+      "id": "src-dc93723ec7c8",
+      "title": "EMDR randomized trials: literature search",
+      "doi": null,
+      "pmid": null,
+      "journal": "",
+      "year": null,
+      "authors": "",
+      "urls": [
+        "https://scholar.google.com.au/scholar?start=0&q=emdr+randomised+control+trial&hl=en&as_sdt=0,5"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Methods & context"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Research context",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Research search",
+      "studyDesignAssessment": {
+        "category": "context",
+        "peerReviewed": false,
+        "basis": "Guidance, presentation or research-search context; not an individual peer-reviewed trial.",
+        "sources": [
+          "https://scholar.google.com.au/scholar?start=0&q=emdr+randomised+control+trial&hl=en&as_sdt=0,5"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "finding": "A research-search reference; it is not counted as an individual trial in the topic trust score."
+    },
+    {
+      "id": "src-4981a8e87964",
+      "title": "Self-administered EMDR therapy: potential solution for expanding the availability of psychotherapy for PTSD or unregulated recipe for disaster?",
+      "doi": "10.1192/bjo.2020.92",
+      "pmid": null,
+      "journal": "BJPsych Open",
+      "year": 2020,
+      "authors": "Lauren Z. Waterman; Maxwell Cooper",
+      "urls": [
+        "https://doi.org/10.1192/bjo.2020.92"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Review",
+      "citationCount": 11,
+      "citationSnapshot": {
+        "count": 11,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1192/bjo.2020.92"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "limitation": "The quoted improvement describes an earlier feasibility study combining internet CBT and EMDR with clinician contact. It is not a result from a new randomized trial of unguided self-help."
+    },
+    {
+      "id": "pmid-33415797",
+      "title": "Group eye movement desensitization and reprocessing interventions in adults and children: A systematic review of randomized and nonrandomized trials.",
+      "doi": "10.1002/cpp.2549",
+      "pmid": "33415797",
+      "journal": "Clinical psychology & psychotherapy",
+      "year": 2021,
+      "authors": "Kaptan SK, Dursun BO, Knowles M, Husain N, Varese F.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/33415797/",
+        "https://doi.org/10.1002/cpp.2549"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "archive",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Systematic review",
+      "citationCount": 8,
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/33415797/",
+          "https://doi.org/10.1002/cpp.2549"
+        ],
+        "reviewedAt": "2026-10-23"
+      }
+    },
+    {
+      "id": "pmid-25607833",
+      "title": "Prolonged exposure vs eye movement desensitization and reprocessing vs waiting list for posttraumatic stress disorder in patients with a psychotic disorder: a randomized clinical trial.",
+      "doi": "10.1001/jamapsychiatry.2014.2637",
+      "pmid": "25607833",
+      "journal": "JAMA psychiatry",
+      "year": 2015,
+      "authors": "van den Berg DP, de Bont PA, van der Vleugel BM, de Roos C, de Jongh A, Van Minnen A, van der Gaag M.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/25607833/",
+        "https://doi.org/10.1001/jamapsychiatry.2014.2637"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial · single-blind (assessor)",
+      "citationCount": 212,
+      "citationSnapshot": {
+        "count": 212,
+        "source": "Europe PMC",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "single-blind-rct",
+        "peerReviewed": true,
+        "basis": "The completed trial reports a single-blind randomized comparison of prolonged exposure, EMDR and waiting list.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/25607833/",
+          "https://doi.org/10.1001/jamapsychiatry.2014.2637"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "trialId": "ISRCTN79584912"
+      }
+    },
+    {
+      "id": "pmid-42324567",
+      "title": "Trauma-focused treatments for refugee children and adolescents with PTSD: a three-arm randomized controlled trial comparing the efficacy of EMDR and KIDNET versus a waitlist control group (the KIEM study).",
+      "doi": "10.1186/s13034-026-01118-0",
+      "pmid": "42324567",
+      "journal": "Child and adolescent psychiatry and mental health",
+      "year": 2026,
+      "authors": "Velu ME, de Roos C, van der Aa N, Jongedijk R, Lindauer R, Mooren T.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13576352/",
+        "https://pubmed.ncbi.nlm.nih.gov/42324567/",
+        "https://doi.org/10.1186/s13034-026-01118-0"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial · single-blind (assessor)",
+      "citationCount": 0,
+      "citationSnapshot": {
+        "count": 0,
+        "source": "Europe PMC",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "single-blind-rct",
+        "peerReviewed": true,
+        "basis": "Independent assessors were blinded to EMDR versus KIDNET, but knew active-treatment versus waitlist status. The single-blind designation applies to the active-treatment comparison; masking was incomplete across all three arms.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42324567/",
+          "https://doi.org/10.1186/s13034-026-01118-0"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "trialId": "NL-OMON22679"
+      },
+      "finding": "Ninety-six refugee children aged 8–18 were allocated to EMDR, KIDNET or waitlist; both active treatments improved PTSD outcomes.",
+      "limitation": "Small arms and different dropout rates limit comparative claims. Outcomes do not establish treatment equivalence."
+    },
+    {
+      "id": "portal-937934d6d2dd",
+      "title": "VA/DoD Clinical Practice Guideline for the Management of PTSD",
+      "doi": null,
+      "pmid": null,
+      "journal": "U.S. VA / Department of Defense",
+      "year": 2023,
+      "authors": "",
+      "urls": [
+        "https://www.ptsd.va.gov/professional/treat/txessentials/cpg_ptsd_management.asp"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "portal",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Clinical guideline",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Clinical practice guideline",
+      "studyDesignAssessment": {
+        "category": "guidance",
+        "peerReviewed": false,
+        "basis": "Clinical practice guideline; not an individual RCT.",
+        "sources": [
+          "https://www.ptsd.va.gov/professional/treat/txessentials/cpg_ptsd_management.asp"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "finding": "The current U.S. military and veterans guideline places EMDR among the individual trauma-focused psychotherapies with the strongest recommendation for PTSD.",
+      "limitation": "A clinical guideline for qualified care; it does not validate an entertainment-platform adaptation."
+    },
+    {
+      "id": "portal-7c6d9225444d",
+      "title": "A multisite retrospective review exploring the delivery of eye movement desensitization and reprocessing (EMDR) therapy to veterans via telehealth (TH) versus in person (IP).",
+      "doi": "10.1037/tra0001917",
+      "pmid": "40424141",
+      "journal": "Psychological trauma : theory, research, practice and policy",
+      "year": 2025,
+      "authors": "Fairbanks CLD, Penix-Smith EA, Glitsos SC, Keener KD, Giorgio JM, Poulos KH, Albinson LF, Baker CE, McGuirl CA, Wisniewski SP.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/40424141/",
+        "https://doi.org/10.1037/tra0001917"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "portal",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Multisite retrospective review",
+      "citationCount": 2,
+      "citationSnapshot": {
+        "count": 2,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/40424141/",
+          "https://doi.org/10.1037/tra0001917"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "finding": "Across 256 veterans, both delivery groups improved. Completion, reliable change and clinically significant change did not differ, although the in-person symptom reduction was larger.",
+      "limitation": "Treatment format was chosen rather than randomised. This supports individual telehealth delivery; it does not test online group EMDR.",
+      "evidence": {
+        "sample": "VA clinician update: 256 veterans (130 telehealth, 126 in person). Current article abstract: 279 eligible veterans (140 telehealth, 139 in person).",
+        "relationshipNote": "The published summaries use different denominators. The approved finding follows the VA update; an identical analytic denominator has not been established.",
+        "evidenceType": "Retrospective clinical comparison"
+      }
+    },
+    {
+      "id": "portal-66ebe89ad390",
+      "title": "Is the Group Traumatic Episode Protocol (G-TEP) Effective for Post-Traumatic Stress Disorder? A Meta-Analysis.",
+      "doi": "10.1002/cpp.70283",
+      "pmid": "42129972",
+      "journal": "Clinical psychology & psychotherapy",
+      "year": 2026,
+      "authors": "Dalkılınç G, Satıcı B.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/42129972/",
+        "https://doi.org/10.1002/cpp.70283"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "portal",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Systematic review + meta-analysis",
+      "citationCount": 1,
+      "citationSnapshot": {
+        "count": 1,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42129972/",
+          "https://doi.org/10.1002/cpp.70283"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "finding": "Twelve G-TEP studies produced a large pooled reduction in PTSD symptoms (Hedges' g=1.28), supporting a feasible group option particularly after collective trauma.",
+      "limitation": "The synthesis covers G-TEP generally, not online delivery alone or a veterans-only population, and the included methods and samples differed."
+    },
+    {
+      "id": "portal-1542d1de36c9",
+      "title": "Group early intervention eye movement desensitization and reprocessing therapy as a video-conference psychotherapy with frontline/emergency workers in response to the COVID-19 pandemic in the treatment of post-traumatic stress disorder and moral injury-An RCT study.",
+      "doi": "10.3389/fpsyg.2023.1129912",
+      "pmid": "37063579",
+      "journal": "Frontiers in psychology",
+      "year": 2023,
+      "authors": "Farrell D, Moran J, Zat Z, Miller PW, Knibbs L, Papanikolopoulos P, Prattos T, McGowan I, McLaughlin D, Barron I, Mattheß C, Kiernan MD.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10100089/",
+        "https://pubmed.ncbi.nlm.nih.gov/37063579/",
+        "https://doi.org/10.3389/fpsyg.2023.1129912"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "portal",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomised controlled trial",
+      "citationCount": 22,
+      "citationSnapshot": {
+        "count": 22,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "rct-masking-unclear",
+        "peerReviewed": true,
+        "basis": "Randomized delayed-treatment study. The article describes therapists and participants as blinded, but the masking target and allocation masking are not sufficiently specified to establish a double-blind treatment comparison. Trauma non-disclosure to the therapist is a different issue.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/37063579/",
+          "https://doi.org/10.3389/fpsyg.2023.1129912"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "finding": "Eighty-five participants completed a remotely delivered intensive group protocol; PTSD, anxiety and depression measures improved through six-month follow-up.",
+      "limitation": "The authors call the findings tentative, and no treatment effect was found for moral injury."
+    },
+    {
+      "id": "pmid-38250261",
+      "title": "Addressing mental health need after COVID-19: a systematic review of remote EMDR therapy studies as an emerging option.",
+      "doi": "10.3389/fpsyt.2023.1336569",
+      "pmid": "38250261",
+      "journal": "Frontiers in psychiatry",
+      "year": 2024,
+      "authors": "Kaptan SK, Kaya ZM, Akan A.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10799678/",
+        "https://pubmed.ncbi.nlm.nih.gov/38250261/",
+        "https://doi.org/10.3389/fpsyt.2023.1336569"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Systematic review",
+      "citationCount": 7,
+      "citationSnapshot": {
+        "count": 7,
+        "source": "Europe PMC",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/38250261/",
+          "https://doi.org/10.3389/fpsyt.2023.1336569"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "finding": "Sixteen articles with 1,231 participants cover remote individual, group and computerised interventions.",
+      "limitation": "Heterogeneous designs include uncontrolled studies; this is not a randomised comparison of delivery methods."
+    },
+    {
+      "id": "pmid-42773467",
+      "title": "The immediate and follow-up effects of EMDR therapy for adults with post-traumatic stress disorder: a meta-analysis of randomized controlled trials.",
+      "doi": "10.1186/s40359-026-05349-w",
+      "pmid": "42773467",
+      "journal": "BMC psychology",
+      "year": 2026,
+      "authors": "Yang H, Xiong Z, Chen X, Wo Y, Tang H, Qiao M, Chen Y, Wang Z.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13599145/",
+        "https://pubmed.ncbi.nlm.nih.gov/42773467/",
+        "https://doi.org/10.1186/s40359-026-05349-w"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Systematic review and meta-analysis",
+      "citationCount": 0,
+      "citationSnapshot": {
+        "count": 0,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42773467/",
+          "https://doi.org/10.1186/s40359-026-05349-w"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "finding": "Sixty-five studies with 3,342 participants include immediate and follow-up PTSD outcomes.",
+      "limitation": "Comparator and trauma type influence results; overlapping trials in earlier reviews are not new independent evidence."
+    },
+    {
+      "id": "pmid-41340540",
+      "title": "Clinical and Cost-Effectiveness of Eye Movement Desensitisation and Reprocessing for Post-Traumatic Stress Disorder in Children and Adolescents: A Systematic Review and Meta-Analysis.",
+      "doi": "10.1002/cpp.70186",
+      "pmid": "41340540",
+      "journal": "Clinical psychology & psychotherapy",
+      "year": 2025,
+      "authors": "Sutton A, Carroll C, Simpson E, Forsyth J, Rayner A, Ren S, Franklin M, Wood E.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12676259/",
+        "https://pubmed.ncbi.nlm.nih.gov/41340540/",
+        "https://doi.org/10.1002/cpp.70186"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Systematic review and meta-analysis",
+      "citationCount": 1,
+      "citationSnapshot": {
+        "count": 1,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/41340540/",
+          "https://doi.org/10.1002/cpp.70186"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "finding": "Eight clinical RCTs include 794 children and adolescents; one additional study examines cost-effectiveness.",
+      "limitation": "Most comparisons use waitlist or usual care; limited active-comparator and economic evidence. EMDR UK funding is disclosed."
+    },
+    {
+      "id": "pmid-42254728",
+      "title": "Remote EMDR versus CBT for PTSD after the Kahramanmaraş earthquakes: a randomized trial.",
+      "doi": "10.3389/fpsyt.2026.1779057",
+      "pmid": "42254728",
+      "journal": "Frontiers in psychiatry",
+      "year": 2026,
+      "authors": "Çınaroğlu M, Yılmazer E, Ülker SV, Sayar GH.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13236641/",
+        "https://pubmed.ncbi.nlm.nih.gov/42254728/",
+        "https://doi.org/10.3389/fpsyt.2026.1779057"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial · open-label",
+      "citationCount": 0,
+      "citationSnapshot": {
+        "count": 0,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "rct-open-label",
+        "peerReviewed": true,
+        "basis": "The methods describe open-label therapy and self-reported outcomes, with an independent blinded assistant and blinded analysis. No blinded clinical endpoint establishes a single-blind outcome comparison.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42254728/",
+          "https://doi.org/10.3389/fpsyt.2026.1779057"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "finding": "In 89 randomized earthquake survivors, remote EMDR and CBT reduced PTSD, depression and anxiety scores relative to waitlist across 12 sessions.",
+      "limitation": "Outcomes were self-reported. Therapists and participants knew allocation; assessor/analyst masking does not blind the people reporting symptoms. Direct superiority comparisons were not the trial’s primary power target."
+    },
+    {
+      "id": "pmid-40417270",
+      "title": "The effectiveness of online Eye Movement Desensitization and Reprocessing 2.0 Group Protocol on post-traumatic stress disorders symptoms, depression, anxiety, and stress in individuals who have experienced a traffic accident: a randomized-controlled study.",
+      "doi": "10.3389/fpsyt.2025.1452206",
+      "pmid": "40417270",
+      "journal": "Frontiers in psychiatry",
+      "year": 2025,
+      "authors": "Yasar AB, Gundogmus İ, Kubilay D, Alban Tunca G, Uygun E, Zat Çiftçi Z, Kavakcı Ö.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12101063/",
+        "https://pubmed.ncbi.nlm.nih.gov/40417270/",
+        "https://doi.org/10.3389/fpsyt.2025.1452206"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial",
+      "citationCount": 4,
+      "citationSnapshot": {
+        "count": 4,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/40417270/",
+          "https://doi.org/10.3389/fpsyt.2025.1452206"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "finding": "Online EMDR 2.0 group delivery after traffic accidents produced advantages on several anxiety, stress and trauma measures.",
+      "limitation": "A small non-clinical sample and one-month follow-up; between-group differences were not significant for depression or intrusion."
+    },
+    {
+      "id": "pmid-39023949",
+      "title": "The use of the \"group traumatic episode protocol (G-TEP) \" in an outpatient randomized and hospital setting: Implementation and effects in heterogeneous patient samples.",
+      "doi": "10.1037/tra0001711",
+      "pmid": "39023949",
+      "journal": "Psychological trauma : theory, research, practice and policy",
+      "year": 2024,
+      "authors": "Stingl M, Hemmerde M, Drutschmann E, Pape V, Hanewald B.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/39023949/",
+        "https://doi.org/10.1037/tra0001711"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial",
+      "citationCount": 2,
+      "citationSnapshot": {
+        "count": 2,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/39023949/",
+          "https://doi.org/10.1037/tra0001711"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "finding": "A 44-person outpatient study and a 23-person hospital study extend evidence on group implementation.",
+      "limitation": "The hospital component is distinct from the randomised outpatient component. Verify exact session structure and masking before grading."
+    },
+    {
+      "id": "pmid-39731040",
+      "title": "The effect of eye movement desensitization on neurocognitive functioning compared to retrieval-only in PTSD patients: a randomized controlled trial.",
+      "doi": "10.1186/s12888-024-06420-9",
+      "pmid": "39731040",
+      "journal": "BMC psychiatry",
+      "year": 2024,
+      "authors": "Susanty E, Sijbrandij M, Srisayekti W, Suparman Y, Huizink AC.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11673372/",
+        "https://pubmed.ncbi.nlm.nih.gov/39731040/",
+        "https://doi.org/10.1186/s12888-024-06420-9"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial",
+      "citationCount": 0,
+      "citationSnapshot": {
+        "count": 0,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/39731040/",
+          "https://doi.org/10.1186/s12888-024-06420-9"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "finding": "Ninety-one patients received eye movement desensitisation or retrieval alone; no additional neurocognitive benefit from eye movements was found.",
+      "limitation": "The tested neurocognitive endpoints and component intervention do not represent every outcome or the full clinical protocol.",
+      "evidence": {
+        "trialId": "ISRCTN55239132"
+      }
+    },
+    {
+      "id": "pmid-42880055",
+      "title": "Efficacy of eye movement desensitization and reprocessing for anxiety: An umbrella review and meta-meta-analysis of randomized controlled trials.",
+      "doi": "10.1016/j.janxdis.2026.103243",
+      "pmid": "42880055",
+      "journal": "Journal of anxiety disorders",
+      "year": 2026,
+      "authors": "Antuña-Camblor C, Rabito-Alcón MF, Mathias-Fonseca TF.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/42880055/",
+        "https://doi.org/10.1016/j.janxdis.2026.103243"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Systematic review and meta-analysis",
+      "citationCount": 0,
+      "citationSnapshot": {
+        "count": 0,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42880055/",
+          "https://doi.org/10.1016/j.janxdis.2026.103243"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "finding": "Eleven meta-analyses report an average anxiety reduction, with a smaller advantage against active psychological treatments.",
+      "limitation": "Most comparisons involve PTSD, nine reviews were rated low or critically low quality, and heterogeneity was substantial."
+    },
+    {
+      "id": "doi-37881ae999c094e1",
+      "title": "The effectiveness of trauma-based therapies for Aboriginal and non-Aboriginal children and adolescents in out-of-home care",
+      "doi": "10.1016/j.fnhli.2025.100070",
+      "pmid": null,
+      "journal": "First Nations Health and Wellbeing - The Lowitja Journal",
+      "year": 2025,
+      "authors": "Debbie Haynes; Sean A. Halpin; Laurel Williams; Bronwyn Chambers; Frances Heritage Martin",
+      "urls": [
+        "https://doi.org/10.1016/j.fnhli.2025.100070"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Peer-reviewed research",
+      "citationCount": 1,
+      "citationSnapshot": {
+        "count": 1,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1016/j.fnhli.2025.100070"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "finding": "Analysis of 144 children and adolescents in the LINKS programme reports reduced difficulties and trauma symptoms, with positive findings for EMDR and parent–child interaction therapy.",
+      "limitation": "No randomised treatment assignment or untreated control; the programme includes multiple therapies and cultural adaptations."
+    },
+    {
+      "id": "pmid-39630422",
+      "title": "Psychological Interventions for Pediatric Posttraumatic Stress Disorder: A Systematic Review and Network Meta-Analysis.",
+      "doi": "10.1001/jamapsychiatry.2024.3908",
+      "pmid": "39630422",
+      "journal": "JAMA psychiatry",
+      "year": 2025,
+      "authors": "Hoppen TH, Wessarges L, Jehn M, Mutz J, Kip A, Schlechter P, Meiser-Stedman R, Morina N.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11618582/",
+        "https://pubmed.ncbi.nlm.nih.gov/39630422/",
+        "https://doi.org/10.1001/jamapsychiatry.2024.3908"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Systematic review and network meta-analysis",
+      "citationCount": 18,
+      "citationSnapshot": {
+        "count": 18,
+        "source": "Europe PMC",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/39630422/",
+          "https://doi.org/10.1001/jamapsychiatry.2024.3908"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "researchGroup": "children",
+      "finding": "Across 70 pediatric PTSD trials involving 5,528 participants, EMDR reduced symptoms relative to passive controls at treatment end (g = 0.86). Trauma-focused CBT had the most consistent evidence across time points.",
+      "limitation": "The 70 trials cover several therapies, not EMDR alone. Longer-term EMDR data remain limited; included ages extend to 19.",
+      "evidence": {
+        "evidenceType": "Clinical & self-report",
+        "measuredGenes": [],
+        "relationshipNote": "The 70 trials cover several therapies, not EMDR alone. Longer-term EMDR data remain limited; included ages extend to 19."
+      }
+    },
+    {
+      "id": "pmid-33709117",
+      "title": "Long-term effectiveness of eye movement desensitization and reprocessing in children and adolescents with medically related subthreshold post-traumatic stress disorder: a randomized controlled trial.",
+      "doi": "10.1093/eurjcn/zvaa006",
+      "pmid": "33709117",
+      "journal": "European journal of cardiovascular nursing",
+      "year": 2021,
+      "authors": "Meentken MG, van der Mheen M, van Beynum IM, Aendekerk EWC, Legerstee JS, van der Ende J, Del Canho R, Lindauer RJL, Hillegers MHJ, Helbing WA, Moll HA, Utens EMWJ.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/33709117/",
+        "https://doi.org/10.1093/eurjcn/zvaa006"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial",
+      "citationCount": 12,
+      "citationSnapshot": {
+        "count": 12,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/33709117/",
+          "https://doi.org/10.1093/eurjcn/zvaa006"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "researchGroup": "children",
+      "finding": "Among 74 previously hospitalized children aged 4–15 with subthreshold PTSD, EMDR did not outperform care as usual on the primary PTSD outcome through eight months. Parent-reported blood-injection-injury phobia improved more with EMDR.",
+      "limitation": "Subthreshold medically related PTSD differs from diagnosed PTSD after other trauma. Keep this neutral primary result alongside positive trials.",
+      "evidence": {
+        "evidenceType": "Clinical & self-report",
+        "measuredGenes": [],
+        "relationshipNote": "Subthreshold medically related PTSD differs from diagnosed PTSD after other trauma. Keep this neutral primary result alongside positive trials."
+      }
+    },
+    {
+      "id": "pmid-40243164",
+      "title": "Effects of eye movement desensitisation and reprocessing on depressive symptoms, stress and rumination in adolescents with depression: a randomised controlled trial.",
+      "doi": "10.1080/20008066.2025.2488558",
+      "pmid": "40243164",
+      "journal": "European journal of psychotraumatology",
+      "year": 2025,
+      "authors": "Zheng S, Shen Y, Geng F, Ye M, Song S, Wang R, Zhang S, Ou Y, Zhou X.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12006939/",
+        "https://pubmed.ncbi.nlm.nih.gov/40243164/",
+        "https://doi.org/10.1080/20008066.2025.2488558"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial",
+      "citationCount": 7,
+      "citationSnapshot": {
+        "count": 7,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/40243164/",
+          "https://doi.org/10.1080/20008066.2025.2488558"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "researchGroup": "children",
+      "finding": "Thirty adolescents aged 12–18 completed a comparison of EMDR plus an SSRI with an SSRI alone. Six sessions over two weeks were associated with larger improvements in depression, event-related stress and rumination.",
+      "limitation": "Small trial with brief follow-up. This is adjunctive treatment alongside medication; it does not test an entertainment intervention.",
+      "evidence": {
+        "evidenceType": "Clinical & self-report",
+        "measuredGenes": [],
+        "relationshipNote": "Small trial with brief follow-up. This is adjunctive treatment alongside medication; it does not test an entertainment intervention."
+      }
+    },
+    {
+      "id": "pmid-42703195",
+      "title": "Efficacy of the Adapted Integrative Group EMDR Therapy Protocol for Ongoing Traumatic Stress in Adolescents after a Traumatic Event.",
+      "doi": "10.1007/s40653-025-00808-9",
+      "pmid": "42703195",
+      "journal": "Journal of child & adolescent trauma",
+      "year": 2026,
+      "authors": "Almarcha GS, Peinado AI, de Álvaro JI, López-Morales JL, Reyes-Bossio M, Delgado-Campusano M.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/42703195/",
+        "https://doi.org/10.1007/s40653-025-00808-9"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Uncontrolled before-and-after study",
+      "citationCount": 0,
+      "citationSnapshot": {
+        "count": 0,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42703195/",
+          "https://doi.org/10.1007/s40653-025-00808-9"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "researchGroup": "children",
+      "finding": "Eleven school students meeting PTSD criteria received psychoeducation and psychologist-led group EMDR. PTSD symptoms fell following the programme.",
+      "limitation": "Only 11 of 235 screened students entered treatment. No control group isolates treatment effects.",
+      "evidence": {
+        "evidenceType": "Clinical & self-report",
+        "measuredGenes": [],
+        "relationshipNote": "Only 11 of 235 screened students entered treatment. No control group isolates treatment effects."
+      }
+    },
+    {
+      "id": "pmid-34512458",
+      "title": "Coronavirus Disease 2019 Emergency and Remote Eye Movement Desensitization and Reprocessing Group Therapy With Adolescents and Young Adults: Overcoming Lockdown With the Butterfly Hug.",
+      "doi": "10.3389/fpsyg.2021.701381",
+      "pmid": "34512458",
+      "journal": "Frontiers in psychology",
+      "year": 2021,
+      "authors": "Lazzaroni E, Invernizzi R, Fogliato E, Pagani M, Maslovaric G.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8424043/",
+        "https://pubmed.ncbi.nlm.nih.gov/34512458/",
+        "https://doi.org/10.3389/fpsyg.2021.701381"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Uncontrolled clinical cohort",
+      "citationCount": 21,
+      "citationSnapshot": {
+        "count": 21,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/34512458/",
+          "https://doi.org/10.3389/fpsyg.2021.701381"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "researchGroup": "young-adults",
+      "finding": "A remote clinician-led EMDR group intervention during COVID-19 was associated with reduced traumatic stress and anxiety in participants aged 13–24 who were already receiving mental-health care.",
+      "limitation": "Mixed adolescent and young-adult sample with no randomized control. Findings do not isolate an 18–24 subgroup or unguided use.",
+      "evidence": {
+        "evidenceType": "Clinical & self-report",
+        "measuredGenes": [],
+        "relationshipNote": "Mixed adolescent and young-adult sample with no randomized control. Findings do not isolate an 18–24 subgroup or unguided use."
+      }
+    },
+    {
+      "id": "pmid-39835632",
+      "title": "Effectiveness of an intensive outpatient treatment programme combining prolonged exposure and EMDR therapy for adolescents and young adults with PTSD in a naturalistic setting.",
+      "doi": "10.1080/20008066.2025.2451478",
+      "pmid": "39835632",
+      "journal": "European journal of psychotraumatology",
+      "year": 2025,
+      "authors": "Rentinck EM, van Mourik R, de Jongh A, Matthijssen SJMA.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11753006/",
+        "https://pubmed.ncbi.nlm.nih.gov/39835632/",
+        "https://doi.org/10.1080/20008066.2025.2451478"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Naturalistic treatment cohort",
+      "citationCount": 9,
+      "citationSnapshot": {
+        "count": 9,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/39835632/",
+          "https://doi.org/10.1080/20008066.2025.2451478"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "researchGroup": "young-adults",
+      "finding": "A six-day programme combining prolonged exposure, EMDR, physical activity and support from relatives or friends included 74 people aged 12–25. At one month, 65% no longer met PTSD criteria; dropout was 4%.",
+      "limitation": "Intensive clinician-delivered, multimodal treatment with no randomized comparator. The sample included 36 people aged 12–17 and 38 aged 18–25; it does not establish a gentle entertainment effect.",
+      "evidence": {
+        "evidenceType": "Clinical & self-report",
+        "measuredGenes": [],
+        "relationshipNote": "Intensive clinician-delivered, multimodal treatment with no randomized comparator. The sample included 36 people aged 12–17 and 38 aged 18–25; it does not establish a gentle entertainment effect."
+      }
+    },
+    {
+      "id": "pmid-38032626",
+      "title": "The effect of eye movement desensitization and reprocessing-based online group counseling for university students: Psychological need satisfaction, psychological resilience, psychological well-being, and small 't' trauma.",
+      "doi": "10.1037/tra0001629",
+      "pmid": "38032626",
+      "journal": "Psychological trauma : theory, research, practice and policy",
+      "year": 2023,
+      "authors": "Yilmaz Dinç S, Sapmaz F.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/38032626/",
+        "https://doi.org/10.1037/tra0001629"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Controlled experimental study",
+      "citationCount": 6,
+      "citationSnapshot": {
+        "count": 6,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/38032626/",
+          "https://doi.org/10.1037/tra0001629"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "researchGroup": "young-adults",
+      "finding": "EMDR-based online group counselling for university students reported improvements in psychological need satisfaction, resilience, wellbeing and several small-t trauma measures across repeated assessments.",
+      "limitation": "University enrolment does not establish an exclusively 18–24 sample. The abstract does not provide sufficient age or masking detail; body-sense effects were not significant.",
+      "evidence": {
+        "evidenceType": "Clinical & self-report",
+        "measuredGenes": [],
+        "relationshipNote": "University enrolment does not establish an exclusively 18–24 sample. The abstract does not provide sufficient age or masking detail; body-sense effects were not significant."
+      }
+    },
+    {
+      "id": "pmid-42411718",
+      "title": "Peer-delivered combined EMD and imagery rescripting for traumatized Chinese university students: a RCT.",
+      "doi": "10.1080/20008066.2026.2686577",
+      "pmid": "42411718",
+      "journal": "European journal of psychotraumatology",
+      "year": 2026,
+      "authors": "Fan H, Zhang J, Wang Y, Yang K, Wang Y, Yang X.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13347840/",
+        "https://pubmed.ncbi.nlm.nih.gov/42411718/",
+        "https://doi.org/10.1080/20008066.2026.2686577"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial · open-label",
+      "citationCount": 0,
+      "citationSnapshot": {
+        "count": 0,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "rct-open-label",
+        "peerReviewed": true,
+        "basis": "The study describes an open-label randomized design. Participants reported their own outcomes; hypothesis masking and blinded analysis do not establish masked outcome collection.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42411718/",
+          "https://doi.org/10.1080/20008066.2026.2686577"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "researchGroup": "young-adults",
+      "finding": "Ninety-five university students were randomized to peer-delivered EMD plus imagery rescripting, imagery rescripting alone or care as usual. Four supervised sessions produced similar changes in depression and anxiety across groups; the combined intervention better maintained resilience gains at follow-up.",
+      "limitation": "Trained peers received clinical supervision. The trial tested a combined intervention, with no significant group-by-time effects for depression, anxiety or self-efficacy.",
+      "evidence": {
+        "evidenceType": "Clinical & self-report",
+        "measuredGenes": [],
+        "relationshipNote": "Trained peers received clinical supervision. The trial tested a combined intervention, with no significant group-by-time effects for depression, anxiety or self-efficacy.",
+        "trialId": "ChiCTR2400090611"
+      }
+    },
+    {
+      "id": "pmid-9479674",
+      "title": "Brief psychological intervention with traumatized young women: the efficacy of eye movement desensitization and reprocessing.",
+      "doi": "10.1023/a:1024400931106",
+      "pmid": "9479674",
+      "journal": "Journal of traumatic stress",
+      "year": 1998,
+      "authors": "Scheck MM, Schaeffer JA, Gillette C.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/9479674/",
+        "https://doi.org/10.1023/a:1024400931106"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled trial",
+      "citationCount": 134,
+      "citationSnapshot": {
+        "count": 134,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/9479674/",
+          "https://doi.org/10.1023/a:1024400931106"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "researchGroup": "young-adults",
+      "finding": "Sixty women aged 16–25 received two sessions of EMDR or active listening. Both groups improved, with larger immediate changes in the EMDR group.",
+      "limitation": "A small, early trial with a mixed adolescent/young-adult sample. Immediate outcomes do not establish durable effects or an exclusively 18–24 result.",
+      "evidence": {
+        "evidenceType": "Clinical & self-report",
+        "measuredGenes": [],
+        "relationshipNote": "A small, early trial with a mixed adolescent/young-adult sample. Immediate outcomes do not establish durable effects or an exclusively 18–24 result."
+      }
+    },
+    {
+      "id": "pmid-35070159",
+      "title": "Inflammation-related microRNAs are involved in stressful life events exposure and in trauma-focused psychotherapy in treatment-resistant depressed patients.",
+      "doi": "10.1080/20008198.2021.1987655",
+      "pmid": "35070159",
+      "journal": "European journal of psychotraumatology",
+      "year": 2021,
+      "authors": "Maffioletti E, Bocchio-Chiavetto L, Perusi G, Carvalho Silva R, Sacco C, Bazzanella R, Zampieri E, Bortolomasi M, Gennarelli M, Minelli A.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8772504/",
+        "https://pubmed.ncbi.nlm.nih.gov/35070159/",
+        "https://doi.org/10.1080/20008198.2021.1987655"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Genomics & gene expression",
+        "Clinical & self-report"
+      ],
+      "targets": [
+        "MIR15A",
+        "MIR29A",
+        "MIR126",
+        "MIR195",
+        "MIRLET7F",
+        "MIR146A"
+      ],
+      "priority": 0,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Longitudinal molecular study",
+      "citationCount": 36,
+      "citationSnapshot": {
+        "count": 36,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "observational",
+        "peerReviewed": true,
+        "basis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/35070159/",
+          "https://doi.org/10.1080/20008198.2021.1987655"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "researchGroup": "rna",
+      "finding": "Blood microRNA was measured in 41 people with treatment-resistant depression; 21 received EMDR or trauma-focused CBT. miR-15a, miR-29a, miR-126, miR-195 and let-7f changed during treatment; baseline miR-29a was associated with response.",
+      "limitation": "The longitudinal group combined 12 EMDR and nine CBT participants. This cohort also informs the 2023 stress-gene paper, so the two publications are not independent replications.",
+      "evidence": {
+        "evidenceType": "Genomics & gene expression",
+        "measuredGenes": [
+          "MIR15A",
+          "MIR29A",
+          "MIR126",
+          "MIR195",
+          "MIRLET7F",
+          "MIR146A"
+        ],
+        "relationshipNote": "The longitudinal group combined 12 EMDR and nine CBT participants. This cohort also informs the 2023 stress-gene paper, so the two publications are not independent replications.",
+        "sample": "41 baseline; 21 longitudinal (12 EMDR, 9 TF-CBT)",
+        "measurement": "Whole-blood microRNA expression",
+        "trialId": "Brescia-TRD-21"
+      }
+    },
+    {
+      "id": "pmid-42519422",
+      "title": "MicroRNAs expression changes associated with trauma-focused psychotherapy efficacy in treatment-resistant depression: An exploratory study.",
+      "doi": "10.1016/j.nsa.2026.107020",
+      "pmid": "42519422",
+      "journal": "Neuroscience applied",
+      "year": 2026,
+      "authors": "Buson L, Carvalho Silva R, Galbiati C, Bortolomasi M, Scaglia M, Perusi G, Abate M, Maffioletti E, Gennarelli M, Lorenzon N, Dierssen M, European College of Neuropsychopharmacology (ECNP) Pharmacogenomics & Transcriptomics Network, Minelli A.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13383946/",
+        "https://pubmed.ncbi.nlm.nih.gov/42519422/",
+        "https://doi.org/10.1016/j.nsa.2026.107020"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Genomics & gene expression",
+        "Clinical & self-report"
+      ],
+      "targets": [
+        "MIR132"
+      ],
+      "priority": 0,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Exploratory longitudinal microRNA study",
+      "citationCount": 0,
+      "citationSnapshot": {
+        "count": 0,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "observational",
+        "peerReviewed": true,
+        "basis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42519422/",
+          "https://doi.org/10.1016/j.nsa.2026.107020"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "researchGroup": "rna",
+      "finding": "In 24 people receiving EMDR or trauma-focused CBT for treatment-resistant depression, 148 microRNAs passed quality control. The combined sample’s miR-132-3p change survived correction for multiple testing.",
+      "limitation": "EMDR-only subgroup changes did not survive multiple-testing correction. The result does not establish an EMDR-specific microRNA effect.",
+      "evidence": {
+        "evidenceType": "Genomics & gene expression",
+        "measuredGenes": [
+          "MIR132"
+        ],
+        "relationshipNote": "EMDR-only subgroup changes did not survive multiple-testing correction. The result does not establish an EMDR-specific microRNA effect."
+      }
+    },
+    {
+      "id": "pmid-38362742",
+      "title": "DNA methylation changes in association with trauma-focused psychotherapy efficacy in treatment-resistant depression patients: a prospective longitudinal study.",
+      "doi": "10.1080/20008066.2024.2314913",
+      "pmid": "38362742",
+      "journal": "European journal of psychotraumatology",
+      "year": 2024,
+      "authors": "Carvalho Silva R, Martini P, Hohoff C, Mattevi S, Bortolomasi M, Menesello V, Gennarelli M, Baune BT, Minelli A.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10878335/",
+        "https://pubmed.ncbi.nlm.nih.gov/38362742/",
+        "https://doi.org/10.1080/20008066.2024.2314913"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Epigenetics",
+        "Clinical & self-report"
+      ],
+      "targets": [
+        "LTA",
+        "GFI1",
+        "S100A8",
+        "TNF"
+      ],
+      "priority": 0,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Exploratory DNA-methylation study",
+      "citationCount": 26,
+      "citationSnapshot": {
+        "count": 26,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "observational",
+        "peerReviewed": true,
+        "basis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/38362742/",
+          "https://doi.org/10.1080/20008066.2024.2314913"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "researchGroup": "epigenetics",
+      "finding": "Blood DNA methylation was studied in 30 people with treatment-resistant depression receiving EMDR (18) or trauma-focused CBT (12). Differentially methylated regions included inflammation-related genes and pathways.",
+      "limitation": "Small treatment groups and concurrent usual care limit attribution. DNA methylation is a separate measurement from RNA expression.",
+      "evidence": {
+        "evidenceType": "Epigenetics",
+        "measuredGenes": [
+          "LTA",
+          "GFI1",
+          "S100A8",
+          "TNF"
+        ],
+        "relationshipNote": "Small treatment groups and concurrent usual care limit attribution. DNA methylation is a separate measurement from RNA expression."
+      }
+    },
+    {
+      "id": "pmid-39060246",
+      "title": "Distinct saliva DNA methylation profiles in relation to treatment outcome in youth with posttraumatic stress disorder.",
+      "doi": "10.1038/s41398-024-02892-1",
+      "pmid": "39060246",
+      "journal": "Translational psychiatry",
+      "year": 2024,
+      "authors": "Ensink JBM, Henneman P, Venema A, Zantvoord JB, den Kelder RO, Mannens MMAM, Lindauer RJL.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11282249/",
+        "https://pubmed.ncbi.nlm.nih.gov/39060246/",
+        "https://doi.org/10.1038/s41398-024-02892-1"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Epigenetics",
+        "Clinical & self-report"
+      ],
+      "targets": [
+        "C18orf63",
+        "CRHR2",
+        "NUP35"
+      ],
+      "priority": 0,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Longitudinal DNA-methylation study",
+      "citationCount": 7,
+      "citationSnapshot": {
+        "count": 7,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "observational",
+        "peerReviewed": true,
+        "basis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/39060246/",
+          "https://doi.org/10.1038/s41398-024-02892-1"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "researchGroup": "epigenetics",
+      "finding": "The study included 46 young people with PTSD and 41 trauma-exposed controls, aged 8–18. Saliva DNA-methylation differences associated with treatment response included C18orf63 and the stress-related CRHR2 locus.",
+      "limitation": "Treatment combined evidence from EMDR and trauma-focused CBT. Saliva findings do not establish a brain-tissue effect or isolate eye movements.",
+      "evidence": {
+        "evidenceType": "Epigenetics",
+        "measuredGenes": [
+          "C18orf63",
+          "CRHR2",
+          "NUP35"
+        ],
+        "relationshipNote": "Treatment combined evidence from EMDR and trauma-focused CBT. Saliva findings do not establish a brain-tissue effect or isolate eye movements."
+      }
+    },
+    {
+      "id": "pmid-36266402",
+      "title": "Epigenetic impact of a 1-week intensive multimodal group program for adolescents with multiple adverse childhood experiences.",
+      "doi": "10.1038/s41598-022-21246-9",
+      "pmid": "36266402",
+      "journal": "Scientific reports",
+      "year": 2022,
+      "authors": "Kaliman P, Cosín-Tomás M, Madrid A, Roque López S, Llanez-Anaya E, Papale LA, Alisch RS, Davidson RJ.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9585146/",
+        "https://pubmed.ncbi.nlm.nih.gov/36266402/",
+        "https://doi.org/10.1038/s41598-022-21246-9"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Epigenetics",
+        "Clinical & self-report"
+      ],
+      "targets": [
+        "SIRT5",
+        "TRAPPC2L"
+      ],
+      "priority": 0,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized trial · molecular analysis",
+      "citationCount": 24,
+      "citationSnapshot": {
+        "count": 24,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "rct-masking-unclear",
+        "peerReviewed": true,
+        "basis": "The methods report random-number allocation for 44 girls. Post-allocation participant or assessor masking is not established. The intervention combines mindfulness, art and group EMDR.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/36266402/",
+          "https://doi.org/10.1038/s41598-022-21246-9"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "researchGroup": "epigenetics",
+      "finding": "A one-week programme combining mindfulness, artistic expression and EMDR group therapy studied 44 adolescent girls with multiple adverse experiences. Forty-nine DNA-methylation loci differed with intervention; SIRT5 and TRAPPC2L changes correlated with trauma measures.",
+      "limitation": "The programme has several components. Saliva methylation findings do not isolate EMDR; the study detected no intervention effect on intrinsic epigenetic age acceleration.",
+      "evidence": {
+        "evidenceType": "Epigenetics",
+        "measuredGenes": [
+          "SIRT5",
+          "TRAPPC2L"
+        ],
+        "relationshipNote": "The programme has several components. Saliva methylation findings do not isolate EMDR; the study detected no intervention effect on intrinsic epigenetic age acceleration."
+      }
+    },
+    {
+      "id": "pmid-31645664",
+      "title": "Successful treatment of post-traumatic stress disorder reverses DNA methylation marks.",
+      "doi": "10.1038/s41380-019-0549-3",
+      "pmid": "31645664",
+      "journal": "Molecular psychiatry",
+      "year": 2019,
+      "authors": "Vinkers CH, Geuze E, van Rooij SJH, Kennis M, Schür RR, Nispeling DM, Smith AK, Nievergelt CM, Uddin M, Rutten BPF, Vermetten E, Boks MP.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/31645664/",
+        "https://doi.org/10.1038/s41380-019-0549-3"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Epigenetics",
+        "Clinical & self-report"
+      ],
+      "targets": [
+        "ZFP57",
+        "APOB",
+        "MUC4",
+        "EDN2",
+        "GPX6",
+        "AFF3",
+        "TP73"
+      ],
+      "priority": 0,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Longitudinal molecular cohort",
+      "citationCount": 103,
+      "citationSnapshot": {
+        "count": 103,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "observational",
+        "peerReviewed": true,
+        "basis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/31645664/",
+          "https://doi.org/10.1038/s41380-019-0549-3"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "researchGroup": "epigenetics",
+      "finding": "In veterans receiving trauma-focused psychotherapy, remission was associated with changes in 12 blood DNA-methylation regions. ZFP57 also showed evidence in an independent prospective deployment cohort.",
+      "limitation": "Treatment included trauma-focused CBT and/or EMDR. This observational analysis does not isolate EMDR or establish altered gene expression from methylation alone.",
+      "evidence": {
+        "evidenceType": "Epigenetics",
+        "measuredGenes": [
+          "ZFP57",
+          "APOB",
+          "MUC4",
+          "EDN2",
+          "GPX6",
+          "AFF3",
+          "TP73"
+        ],
+        "relationshipNote": "Treatment included trauma-focused CBT and/or EMDR. This observational analysis does not isolate EMDR or establish altered gene expression from methylation alone."
+      }
+    },
+    {
+      "id": "pmid-31352130",
+      "title": "Pretreatment cortisol predicts trauma-focused psychotherapy response in youth with (partial) posttraumatic stress disorder.",
+      "doi": "10.1016/j.psyneuen.2019.104380",
+      "pmid": "31352130",
+      "journal": "Psychoneuroendocrinology",
+      "year": 2019,
+      "authors": "Zantvoord JB, Ensink JBM, Op den Kelder R, Wessel AMA, Lok A, Lindauer RJL.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/31352130/",
+        "https://doi.org/10.1016/j.psyneuen.2019.104380"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Molecular biomarkers",
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Prospective biomarker study",
+      "citationCount": 23,
+      "citationSnapshot": {
+        "count": 23,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "observational",
+        "peerReviewed": true,
+        "basis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/31352130/",
+          "https://doi.org/10.1016/j.psyneuen.2019.104380"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "researchGroup": "biomarkers",
+      "finding": "Among 53 young people aged 8–18 treated with EMDR or trauma-focused CBT, higher pretreatment basal salivary cortisol was associated with greater subsequent symptom improvement.",
+      "limitation": "The trauma script rarely produced a cortisol stress response. The predictive contribution was limited and insufficient for clinical application; this is not a gene-expression measurement.",
+      "evidence": {
+        "evidenceType": "Molecular biomarkers",
+        "measuredGenes": [],
+        "relationshipNote": "The trauma script rarely produced a cortisol stress response. The predictive contribution was limited and insufficient for clinical application; this is not a gene-expression measurement."
+      }
+    },
+    {
+      "id": "pmid-35707677",
+      "title": "The Role of the Endocannabinoids 2-AG and Anandamide in Clinical Symptoms and Treatment Outcome in Veterans with PTSD.",
+      "doi": "10.1177/24705470221107290",
+      "pmid": "35707677",
+      "journal": "Chronic stress (Thousand Oaks, Calif.)",
+      "year": 2022,
+      "authors": "Leen NA, de Weijer AD, van Rooij SJH, Kennis M, Baas JMP, Geuze E.",
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9190205/",
+        "https://pubmed.ncbi.nlm.nih.gov/35707677/",
+        "https://doi.org/10.1177/24705470221107290"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Molecular biomarkers",
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Longitudinal biomarker cohort",
+      "citationCount": 17,
+      "citationSnapshot": {
+        "count": 17,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "observational",
+        "peerReviewed": true,
+        "basis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/35707677/",
+          "https://doi.org/10.1177/24705470221107290"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "researchGroup": "biomarkers",
+      "finding": "Plasma anandamide and 2-AG were measured in 54 veterans with PTSD and 26 combat controls. Pretreatment levels did not predict symptom reduction following trauma-focused therapy; cortisol decreased over time.",
+      "limitation": "Treatments included CBT with exposure or EMDR. Exploratory correlations require replication; endocannabinoid concentrations are distinct from gene expression.",
+      "evidence": {
+        "evidenceType": "Molecular biomarkers",
+        "measuredGenes": [],
+        "relationshipNote": "Treatments included CBT with exposure or EMDR. Exploratory correlations require replication; endocannabinoid concentrations are distinct from gene expression."
+      }
+    },
+    {
+      "id": "pmid-40706348",
+      "title": "Stress and stress reactivity in posttraumatic stress disorder (PTSD) following eye movement desensitization (EMD): A randomized controlled trial.",
+      "doi": "10.1016/j.jbtep.2025.102052",
+      "pmid": "40706348",
+      "journal": "Journal of behavior therapy and experimental psychiatry",
+      "year": 2025,
+      "authors": "Susanty E, Sijbrandij M, van der Mee DJ, Srisayekti W, Suparman Y, Huizink AC.",
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/40706348/",
+        "https://doi.org/10.1016/j.jbtep.2025.102052"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Molecular biomarkers",
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Randomized controlled component trial",
+      "citationCount": 1,
+      "citationSnapshot": {
+        "count": 1,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/40706348/",
+          "https://doi.org/10.1016/j.jbtep.2025.102052"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "researchGroup": "biomarkers",
+      "finding": "Ninety-one adults with PTSD received eye-movement desensitization or memory retrieval alone. Both groups showed reduced stress reactivity; the study found no specific overall benefit of eye movements and inconsistent cortisol differences.",
+      "limitation": "Saliva timing depended on participant adherence. This is the same registered component trial as the 2024 neurocognitive report, not an independent replication.",
+      "evidence": {
+        "evidenceType": "Molecular biomarkers",
+        "measuredGenes": [],
+        "relationshipNote": "Saliva timing depended on participant adherence. This is the same registered component trial as the 2024 neurocognitive report, not an independent replication.",
+        "trialId": "ISRCTN55239132"
+      }
+    },
+    {
+      "id": "doi-14a5c17359f1dfcb",
+      "title": "Transcriptional Modulation of Stress-Related Genes in Association with Early Life Stress Exposure and Trauma-Focused Psychotherapy in Treatment-Resistant Depression Patients",
+      "doi": "10.1891/emdr-2023-0019",
+      "pmid": null,
+      "journal": "Journal of EMDR Practice and Research",
+      "year": 2023,
+      "authors": "Rosana Carvalho Silva; Vincenzo Dattilo; Giulia Perusi; Monica Mazzelli; Elisabetta Maffioletti; Roberta Bazzanella; Marco Bortolomasi; Annamaria Cattaneo; Massimo Gennarelli; Alessandra Minelli",
+      "urls": [
+        "https://doi.org/10.1891/emdr-2023-0019"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "categories": [
+        "Genomics & gene expression"
+      ],
+      "targets": [
+        "NR3C1",
+        "FKBP5",
+        "SGK1"
+      ],
+      "priority": 0,
+      "kind": "Journal article",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "design": "Longitudinal gene-expression study",
+      "citationCount": 4,
+      "citationSnapshot": {
+        "count": 4,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23"
+      },
+      "studyDesignAssessment": {
+        "category": "observational",
+        "peerReviewed": true,
+        "basis": "Longitudinal observational molecular analysis of a combined EMDR/TF-CBT cohort. No randomized masked molecular comparison.",
+        "sources": [
+          "https://spj.science.org/doi/10.1891/EMDR-2023-0019"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "researchGroup": "rna",
+      "finding": "In 21 people receiving EMDR or trauma-focused CBT for treatment-resistant depression, whole-blood NR3C1, FKBP5 and SGK1 expression varied over time. FKBP5 and SGK1 fell significantly at eight weeks; transcript levels rebounded during follow-up.",
+      "limitation": "EMDR and CBT participants were analysed together, alongside medication. The 2021 microRNA paper uses the same underlying cohort; this is not an independent replication or evidence of an isolated eye-movement effect.",
+      "evidence": {
+        "evidenceType": "Direct RNA expression",
+        "intervention": "24 sessions of EMDR or trauma-focused CBT alongside usual medication",
+        "sample": "41 baseline; 21 longitudinal (12 EMDR, 9 TF-CBT)",
+        "measurement": "Whole-blood mRNA using RT-qPCR",
+        "timing": "Baseline, weeks 4, 8 and 12",
+        "measuredGenes": [
+          "NR3C1",
+          "FKBP5",
+          "SGK1"
+        ],
+        "trialId": "Brescia-TRD-21",
+        "relationshipNote": "Combined therapy cohort; no untreated molecular comparator."
+      }
+    },
+    {
+      "id": "vision-photoreceptor-mosaic-1998",
+      "title": "The photoreceptor mosaic",
+      "doi": "10.1038/eye.1998.142",
+      "pmid": "9775214",
+      "journal": "Eye",
+      "year": 1998,
+      "published": "1998-05",
+      "authors": "P K Ahnelt",
+      "urls": [
+        "https://www.nature.com/articles/eye1998142",
+        "https://doi.org/10.1038/eye.1998.142",
+        "https://pubmed.ncbi.nlm.nih.gov/9775214/"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "categories": [
+        "Vision geometry",
+        "Brain & nervous system"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Journal article",
+      "design": "Anatomical review of the human retinal photoreceptor mosaic",
+      "summary": "Ahnelt describes how human rods and cones are distributed across the retina. Cone packing is especially dense near the fovea; different cone populations have different arrangements. This provides biological context for exploring local packing and sampling geometry in Vision Atlas.",
+      "finding": "Ahnelt describes how human rods and cones are distributed across the retina. Cone packing is especially dense near the fovea; different cone populations have different arrangements. This provides biological context for exploring local packing and sampling geometry in Vision Atlas.",
+      "limitation": "The review does not demonstrate a universal perfect hexagonal retina, tetrahedral visual processing, or a Fibonacci mechanism. It is anatomical evidence, not an EMDR treatment trial or a quantum-stability experiment.",
+      "citationCount": 79,
+      "citationSnapshot": {
+        "count": 79,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Anatomical review of the human retinal photoreceptor mosaic. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://www.nature.com/articles/eye1998142",
+          "https://doi.org/10.1038/eye.1998.142",
+          "https://pubmed.ncbi.nlm.nih.gov/9775214/"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Anatomical review of the human retinal photoreceptor mosaic",
+        "evidenceClass": "anatomical_review",
+        "measurement": "Spatial sampling by retinal photoreceptor populations.",
+        "relationshipNote": "Compare the Atlas geometry with measured local packing, density and irregularity; retain the differences between retinal regions.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Vision Atlas citations",
+        "notionPage": null,
+        "reviewedAt": "2026-10-26"
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    {
+      "id": "vision-retinal-orientation-2011",
+      "title": "Retinal origin of orientation maps in visual cortex",
+      "doi": "10.1038/nn.2824",
+      "pmid": "21623365",
+      "journal": "Nature Neuroscience",
+      "year": 2011,
+      "published": "2011-05-29",
+      "authors": "Se-Bum Paik; Dario L Ringach",
+      "urls": [
+        "https://www.nature.com/articles/nn.2824",
+        "https://doi.org/10.1038/nn.2824",
+        "https://pubmed.ncbi.nlm.nih.gov/21623365/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3196663/"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "categories": [
+        "Vision geometry",
+        "Brain & nervous system"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Journal article",
+      "design": "Computational model with comparative visual-cortex observations",
+      "summary": "Paik and Ringach propose that interference between regularly spaced ON- and OFF-centre retinal ganglion-cell mosaics helps form orientation maps in visual cortex. Their model predicts hexagonal organisation of orientation-domain centres, with supporting patterns reported in four mammalian species.",
+      "finding": "Paik and Ringach propose that interference between regularly spaced ON- and OFF-centre retinal ganglion-cell mosaics helps form orientation maps in visual cortex. Their model predicts hexagonal organisation of orientation-domain centres, with supporting patterns reported in four mammalian species.",
+      "limitation": "This is a proposed developmental mechanism with supporting observations. It does not establish that all visual cortex follows this model, that humans prefer hexagons, or that retinal geometry stabilises quantum information.",
+      "citationCount": 151,
+      "citationSnapshot": {
+        "count": 151,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Computational model with comparative visual-cortex observations. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://www.nature.com/articles/nn.2824",
+          "https://doi.org/10.1038/nn.2824",
+          "https://pubmed.ncbi.nlm.nih.gov/21623365/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC3196663/"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Computational model with comparative visual-cortex observations",
+        "evidenceClass": "computational_model_and_observation",
+        "measurement": "Moiré interference between two spatial mosaics.",
+        "relationshipNote": "Test whether similar interference mathematics generates useful candidate patterns in the Atlas, then evaluate each physical system separately.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Vision Atlas citations",
+        "notionPage": null,
+        "reviewedAt": "2026-10-26"
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    {
+      "id": "vision-hexadirectional-2018",
+      "title": "Hexadirectional coding of visual space in human entorhinal cortex",
+      "doi": "10.1038/s41593-017-0050-8",
+      "pmid": "29311746",
+      "journal": "Nature Neuroscience",
+      "year": 2018,
+      "published": "2018-01-08",
+      "authors": "Matthias Nau; Tobias Navarro Schröder; Jacob L. S. Bellmund; Christian F. Doeller",
+      "urls": [
+        "https://www.nature.com/articles/s41593-017-0050-8",
+        "https://doi.org/10.1038/s41593-017-0050-8",
+        "https://pubmed.ncbi.nlm.nih.gov/29311746/"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "categories": [
+        "Vision geometry",
+        "Brain & nervous system"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Journal article",
+      "design": "Human fMRI during controlled visual tracking",
+      "summary": "Nau and colleagues found a sixfold directional pattern in human entorhinal-cortex activity during a visual tracking task. The result supports a grid-like representation of visual space and gives Vision Atlas a measured example of sixfold organisation in brain activity.",
+      "finding": "Nau and colleagues found a sixfold directional pattern in human entorhinal-cortex activity during a visual tracking task. The result supports a grid-like representation of visual space and gives Vision Atlas a measured example of sixfold organisation in brain activity.",
+      "limitation": "An fMRI population signal is not a direct image of individual grid cells or proof of a tetrahedral eye mechanism. This study does not test Fibonacci sequences, EMDR outcomes, or quantum error correction.",
+      "citationCount": 196,
+      "citationSnapshot": {
+        "count": 196,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Human fMRI during controlled visual tracking. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://www.nature.com/articles/s41593-017-0050-8",
+          "https://doi.org/10.1038/s41593-017-0050-8",
+          "https://pubmed.ncbi.nlm.nih.gov/29311746/"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Human fMRI during controlled visual tracking",
+        "evidenceClass": "human_neuroimaging",
+        "measurement": "Sixfold rotational modulation of a population-level neural signal with gaze direction.",
+        "relationshipNote": "Use explicit rotational-symmetry tests with competing periodicities and independent data, rather than judging a pattern by visual resemblance.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Vision Atlas citations",
+        "notionPage": null,
+        "reviewedAt": "2026-10-26"
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    }
+  ],
+  "publicationAccess": {
+    "doi-67fa7275f4f4ba77": {
+      "urls": [
+        "https://doi.org/10.1891/emdr-2022-0029"
+      ],
+      "doi": "10.1891/emdr-2022-0029",
+      "pmid": null,
+      "publicationKey": "doi:10.1891/emdr-2022-0029",
+      "journalKey": "journalofemdrpracticeandresearch",
+      "journalLabel": "Journal of EMDR Practice and Research"
+    },
+    "pmid-36248508": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9559741/",
+        "https://pubmed.ncbi.nlm.nih.gov/36248508/",
+        "https://doi.org/10.3389/fpsyg.2022.935782"
+      ],
+      "doi": "10.3389/fpsyg.2022.935782",
+      "pmid": "36248508",
+      "publicationKey": "doi:10.3389/fpsyg.2022.935782",
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in psychology"
+    },
+    "doi-2a203fb071ddfe54": {
+      "urls": [
+        "https://doi.org/10.1002/capr.12580"
+      ],
+      "doi": "10.1002/capr.12580",
+      "pmid": null,
+      "publicationKey": "doi:10.1002/capr.12580",
+      "journalKey": "counsellingandpsychotherapyresearch",
+      "journalLabel": "Counselling and Psychotherapy Research"
+    },
+    "pmid-34763697": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8581955/",
+        "https://pubmed.ncbi.nlm.nih.gov/34763697/",
+        "https://doi.org/10.1186/s12888-021-03571-x"
+      ],
+      "doi": "10.1186/s12888-021-03571-x",
+      "pmid": "34763697",
+      "publicationKey": "doi:10.1186/s12888-021-03571-x",
+      "journalKey": "bmcpsychiatry",
+      "journalLabel": "BMC psychiatry"
+    },
+    "doi-b4b0af603557eafe": {
+      "urls": [
+        "https://doi.org/10.1891/emdr-d-21-00009"
+      ],
+      "doi": "10.1891/emdr-d-21-00009",
+      "pmid": null,
+      "publicationKey": "doi:10.1891/emdr-d-21-00009",
+      "journalKey": "journalofemdrpracticeandresearch",
+      "journalLabel": "Journal of EMDR Practice and Research"
+    },
+    "doi-37bd65a31f48ce93": {
+      "urls": [
+        "https://doi.org/10.1891/emdr-d-20-00047"
+      ],
+      "doi": "10.1891/emdr-d-20-00047",
+      "pmid": null,
+      "publicationKey": "doi:10.1891/emdr-d-20-00047",
+      "journalKey": "journalofemdrpracticeandresearch",
+      "journalLabel": "Journal of EMDR Practice and Research"
+    },
+    "pmid-34025912": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8128126/",
+        "https://pubmed.ncbi.nlm.nih.gov/34025912/",
+        "https://doi.org/10.1080/20008198.2020.1860346"
+      ],
+      "doi": "10.1080/20008198.2020.1860346",
+      "pmid": "34025912",
+      "publicationKey": "doi:10.1080/20008198.2020.1860346",
+      "journalKey": "europeanjournalofpsychotraumatology",
+      "journalLabel": "European journal of psychotraumatology"
+    },
+    "pmid-30858808": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6397860/",
+        "https://pubmed.ncbi.nlm.nih.gov/30858808/",
+        "https://doi.org/10.3389/fpsyg.2019.00129"
+      ],
+      "doi": "10.3389/fpsyg.2019.00129",
+      "pmid": "30858808",
+      "publicationKey": "doi:10.3389/fpsyg.2019.00129",
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in psychology"
+    },
+    "pmid-29946275": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6005903/",
+        "https://pubmed.ncbi.nlm.nih.gov/29946275/",
+        "https://doi.org/10.3389/fpsyg.2018.00493"
+      ],
+      "doi": "10.3389/fpsyg.2018.00493",
+      "pmid": "29946275",
+      "publicationKey": "doi:10.3389/fpsyg.2018.00493",
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in psychology"
+    },
+    "pmid-30197612": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6117416/",
+        "https://pubmed.ncbi.nlm.nih.gov/30197612/",
+        "https://doi.org/10.3389/fpsyg.2018.01458"
+      ],
+      "doi": "10.3389/fpsyg.2018.01458",
+      "pmid": "30197612",
+      "publicationKey": "doi:10.3389/fpsyg.2018.01458",
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in psychology"
+    },
+    "pmid-30186192": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6113947/",
+        "https://pubmed.ncbi.nlm.nih.gov/30186192/",
+        "https://doi.org/10.3389/fpsyg.2018.01384"
+      ],
+      "doi": "10.3389/fpsyg.2018.01384",
+      "pmid": "30186192",
+      "publicationKey": "doi:10.3389/fpsyg.2018.01384",
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in psychology"
+    },
+    "pmid-30166975": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6106867/",
+        "https://pubmed.ncbi.nlm.nih.gov/30166975/",
+        "https://doi.org/10.3389/fpsyg.2018.01395"
+      ],
+      "doi": "10.3389/fpsyg.2018.01395",
+      "pmid": "30166975",
+      "publicationKey": "doi:10.3389/fpsyg.2018.01395",
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in psychology"
+    },
+    "pmid-28660669": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/28660669/",
+        "https://doi.org/10.1111/jcpp.12768"
+      ],
+      "doi": "10.1111/jcpp.12768",
+      "pmid": "28660669",
+      "publicationKey": "doi:10.1111/jcpp.12768",
+      "journalKey": "journalofchildpsychologyandpsychiatryandallieddisciplines",
+      "journalLabel": "Journal of child psychology and psychiatry, and allied disciplines"
+    },
+    "doi-648f6da34833f786": {
+      "urls": [
+        "https://doi.org/10.1891/1933-3196.11.3.129"
+      ],
+      "doi": "10.1891/1933-3196.11.3.129",
+      "pmid": null,
+      "publicationKey": "doi:10.1891/1933-3196.11.3.129",
+      "journalKey": "journalofemdrpracticeandresearch",
+      "journalLabel": "Journal of EMDR Practice and Research"
+    },
+    "pmid-26963955": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/26963955/",
+        "https://doi.org/10.1037/tra0000120"
+      ],
+      "doi": "10.1037/tra0000120",
+      "pmid": "26963955",
+      "publicationKey": "doi:10.1037/tra0000120",
+      "journalKey": "psychologicaltrauma",
+      "journalLabel": "Psychological trauma : theory, research, practice and policy"
+    },
+    "pmid-27353367": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/27353367/",
+        "https://doi.org/10.1017/s0033291716001070"
+      ],
+      "doi": "10.1017/s0033291716001070",
+      "pmid": "27353367",
+      "publicationKey": "doi:10.1017/s0033291716001070",
+      "journalKey": "psychologicalmedicine",
+      "journalLabel": "Psychological medicine"
+    },
+    "pmid-25989952": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4438099/",
+        "https://pubmed.ncbi.nlm.nih.gov/25989952/",
+        "https://doi.org/10.3402/ejpt.v6.27414"
+      ],
+      "doi": "10.3402/ejpt.v6.27414",
+      "pmid": "25989952",
+      "publicationKey": "doi:10.3402/ejpt.v6.27414",
+      "journalKey": "europeanjournalofpsychotraumatology",
+      "journalLabel": "European journal of psychotraumatology"
+    },
+    "pmid-24965797": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/24965797/",
+        "https://doi.org/10.1007/s00787-014-0572-5"
+      ],
+      "doi": "10.1007/s00787-014-0572-5",
+      "pmid": "24965797",
+      "publicationKey": "doi:10.1007/s00787-014-0572-5",
+      "journalKey": "europeanchildandadolescentpsychiatry",
+      "journalLabel": "European child & adolescent psychiatry"
+    },
+    "doi-4e5b48cad9b6436d": {
+      "urls": [
+        "https://doi.org/10.1891/1933-3196.8.3.147"
+      ],
+      "doi": "10.1891/1933-3196.8.3.147",
+      "pmid": null,
+      "publicationKey": "doi:10.1891/1933-3196.8.3.147",
+      "journalKey": "journalofemdrpracticeandresearch",
+      "journalLabel": "Journal of EMDR Practice and Research"
+    },
+    "pmid-25101684": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4125321/",
+        "https://pubmed.ncbi.nlm.nih.gov/25101684/",
+        "https://doi.org/10.1371/journal.pone.0103676"
+      ],
+      "doi": "10.1371/journal.pone.0103676",
+      "pmid": "25101684",
+      "publicationKey": "doi:10.1371/journal.pone.0103676",
+      "journalKey": "plosone",
+      "journalLabel": "PloS one"
+    },
+    "pmid-24626074": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3951033/",
+        "https://pubmed.ncbi.nlm.nih.gov/24626074/",
+        "https://doi.org/10.7812/tpp/13-098"
+      ],
+      "doi": "10.7812/tpp/13-098",
+      "pmid": "24626074",
+      "publicationKey": "doi:10.7812/tpp/13-098",
+      "journalKey": "permanentejournal",
+      "journalLabel": "The Permanente journal"
+    },
+    "pmid-23702050": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3667059/",
+        "https://pubmed.ncbi.nlm.nih.gov/23702050/",
+        "https://doi.org/10.1186/1745-6215-14-151"
+      ],
+      "doi": "10.1186/1745-6215-14-151",
+      "pmid": "23702050",
+      "publicationKey": "doi:10.1186/1745-6215-14-151",
+      "journalKey": "trials",
+      "journalLabel": "Trials"
+    },
+    "pmid-22893808": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3402110/",
+        "https://pubmed.ncbi.nlm.nih.gov/22893808/",
+        "https://doi.org/10.3402/ejpt.v2i0.5881"
+      ],
+      "doi": "10.3402/ejpt.v2i0.5881",
+      "pmid": "22893808",
+      "publicationKey": "doi:10.3402/ejpt.v2i0.5881",
+      "journalKey": "europeanjournalofpsychotraumatology",
+      "journalLabel": "European journal of psychotraumatology"
+    },
+    "pmid-18612994": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/18612994/",
+        "https://doi.org/10.1002/jclp.20510"
+      ],
+      "doi": "10.1002/jclp.20510",
+      "pmid": "18612994",
+      "publicationKey": "doi:10.1002/jclp.20510",
+      "journalKey": "journalofclinicalpsychology",
+      "journalLabel": "Journal of clinical psychology"
+    },
+    "pmid-17284128": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/17284128/",
+        "https://doi.org/10.4088/jcp.v68n0105"
+      ],
+      "doi": "10.4088/jcp.v68n0105",
+      "pmid": "17284128",
+      "publicationKey": "doi:10.4088/jcp.v68n0105",
+      "journalKey": "journalofclinicalpsychiatry",
+      "journalLabel": "The Journal of clinical psychiatry"
+    },
+    "pmid-16899965": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/16899965/",
+        "https://doi.org/10.1159/000093950"
+      ],
+      "doi": "10.1159/000093950",
+      "pmid": "16899965",
+      "publicationKey": "doi:10.1159/000093950",
+      "journalKey": "psychotherapyandpsychosomatics",
+      "journalLabel": "Psychotherapy and psychosomatics"
+    },
+    "pmid-9479673": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/9479673/",
+        "https://doi.org/10.1023/a:1024448814268"
+      ],
+      "doi": "10.1023/a:1024448814268",
+      "pmid": "9479673",
+      "publicationKey": "doi:10.1023/a:1024448814268",
+      "journalKey": "journaloftraumaticstress",
+      "journalLabel": "Journal of traumatic stress"
+    },
+    "src-4d549c318fe9": {
+      "urls": [
+        "https://www.who.int/publications/i/item/mhgap-module-assessment-management-of-conditions-specifically-related-to-stress",
+        "https://www.ncbi.nlm.nih.gov/sites/books/NBK190416/"
+      ],
+      "journalLabel": "World Health Organisation and UNHCR",
+      "journalKey": "",
+      "pmid": "24649518"
+    },
+    "src-35cb6bd28036": {
+      "urls": [
+        "https://www.phoenixaustralia.org/australian-guidelines-for-ptsd"
+      ],
+      "journalLabel": "Australian Government National Research and Medical Council with Phoenix Australia",
+      "journalKey": ""
+    },
+    "src-05fee8b7d126": {
+      "urls": [
+        "https://doi.org/10.3390/brainsci11050579"
+      ],
+      "doi": "10.3390/brainsci11050579",
+      "pmid": null,
+      "publicationKey": "doi:10.3390/brainsci11050579",
+      "journalKey": "brainsciences",
+      "journalLabel": "Brain Sciences"
+    },
+    "src-3d07e41dbe7a": {
+      "urls": [
+        "https://dcj.nsw.gov.au/content/dam/dcj/dcj-website/documents/about-us/facsiar/research-seminars/past-seminars/2022/Debbie-Haynesv2-.pdf"
+      ],
+      "journalLabel": "NSW Department of Communities and Justice",
+      "journalKey": ""
+    },
+    "src-e9a450b442d3": {
+      "urls": [
+        "https://www.ifemdr.fr/wp-content/uploads/2014/10/asena-yurtsever.pdf"
+      ],
+      "journalLabel": "EMDR Europe Conference",
+      "journalKey": ""
+    },
+    "src-d5959fcb69bc": {
+      "urls": [
+        "https://doi.org/10.1037/tra0001418"
+      ],
+      "doi": "10.1037/tra0001418",
+      "pmid": null,
+      "publicationKey": "doi:10.1037/tra0001418",
+      "journalKey": "psychologicaltrauma",
+      "journalLabel": "Psychological Trauma: Theory, Research, Practice, and Policy"
+    },
+    "src-d173f7852495": {
+      "urls": [
+        "https://www.ptsd.va.gov/understand_tx/emdr.asp"
+      ],
+      "journalLabel": "National Center for PTSD, US Department of Veteran Affairs",
+      "journalKey": ""
+    },
+    "src-688f56d0a555": {
+      "urls": [
+        "https://doi.org/10.1176/appi.psychotherapy.2003.57.1.148"
+      ],
+      "doi": "10.1176/appi.psychotherapy.2003.57.1.148",
+      "pmid": null,
+      "publicationKey": "doi:10.1176/appi.psychotherapy.2003.57.1.148",
+      "journalKey": "",
+      "journalLabel": "American Journal of Psychotherapy"
+    },
+    "src-75491f6f55b4": {
+      "urls": [
+        "https://www.openarms.gov.au/sites/default/files/2020-01/webinar_9_mental_health_faqs_panelist.pdf"
+      ],
+      "journalLabel": "Australian Government Department of Veteran Affairs",
+      "journalKey": ""
+    },
+    "src-757129132fdc": {
+      "urls": [
+        "https://doi.org/10.1037/1072-5245.14.1.61"
+      ],
+      "doi": "10.1037/1072-5245.14.1.61",
+      "pmid": null,
+      "publicationKey": "doi:10.1037/1072-5245.14.1.61",
+      "journalKey": "internationaljournalofstressmanagement",
+      "journalLabel": "International Journal of Stress Management"
+    },
+    "src-1a2a9900c208": {
+      "urls": [
+        "https://doi.org/10.1891/1933-3196.12.3.105"
+      ],
+      "doi": "10.1891/1933-3196.12.3.105",
+      "pmid": null,
+      "publicationKey": "doi:10.1891/1933-3196.12.3.105",
+      "journalKey": "journalofemdrpracticeandresearch",
+      "journalLabel": "Journal of EMDR Practice and Research"
+    },
+    "src-796cb6656464": {
+      "urls": [
+        "https://doi.org/10.1891/emdr-d-20-00054"
+      ],
+      "doi": "10.1891/emdr-d-20-00054",
+      "pmid": null,
+      "publicationKey": "doi:10.1891/emdr-d-20-00054",
+      "journalKey": "journalofemdrpracticeandresearch",
+      "journalLabel": "Journal of EMDR Practice and Research"
+    },
+    "src-dc93723ec7c8": {
+      "urls": [
+        "https://scholar.google.com.au/scholar?start=0&q=emdr+randomised+control+trial&hl=en&as_sdt=0,5"
+      ],
+      "journalLabel": "",
+      "journalKey": ""
+    },
+    "src-4981a8e87964": {
+      "urls": [
+        "https://doi.org/10.1192/bjo.2020.92"
+      ],
+      "doi": "10.1192/bjo.2020.92",
+      "pmid": null,
+      "publicationKey": "doi:10.1192/bjo.2020.92",
+      "journalKey": "bjpsychopen",
+      "journalLabel": "BJPsych Open"
+    },
+    "pmid-33415797": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/33415797/",
+        "https://doi.org/10.1002/cpp.2549"
+      ],
+      "doi": "10.1002/cpp.2549",
+      "pmid": "33415797",
+      "publicationKey": "doi:10.1002/cpp.2549",
+      "journalKey": "clinicalpsychologyandpsychotherapy",
+      "journalLabel": "Clinical psychology & psychotherapy"
+    },
+    "pmid-25607833": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/25607833/",
+        "https://doi.org/10.1001/jamapsychiatry.2014.2637"
+      ],
+      "doi": "10.1001/jamapsychiatry.2014.2637",
+      "pmid": "25607833",
+      "publicationKey": "doi:10.1001/jamapsychiatry.2014.2637",
+      "journalKey": "jamapsychiatry",
+      "journalLabel": "JAMA psychiatry"
+    },
+    "pmid-42324567": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13576352/",
+        "https://pubmed.ncbi.nlm.nih.gov/42324567/",
+        "https://doi.org/10.1186/s13034-026-01118-0"
+      ],
+      "doi": "10.1186/s13034-026-01118-0",
+      "pmid": "42324567",
+      "publicationKey": "doi:10.1186/s13034-026-01118-0",
+      "journalKey": "childandadolescentpsychiatryandmentalhealth",
+      "journalLabel": "Child and adolescent psychiatry and mental health"
+    },
+    "portal-7c6d9225444d": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/40424141/",
+        "https://doi.org/10.1037/tra0001917"
+      ],
+      "doi": "10.1037/tra0001917",
+      "pmid": "40424141",
+      "publicationKey": "doi:10.1037/tra0001917",
+      "journalKey": "psychologicaltrauma",
+      "journalLabel": "Psychological trauma : theory, research, practice and policy"
+    },
+    "portal-66ebe89ad390": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/42129972/",
+        "https://doi.org/10.1002/cpp.70283"
+      ],
+      "doi": "10.1002/cpp.70283",
+      "pmid": "42129972",
+      "publicationKey": "doi:10.1002/cpp.70283",
+      "journalKey": "clinicalpsychologyandpsychotherapy",
+      "journalLabel": "Clinical psychology & psychotherapy"
+    },
+    "portal-1542d1de36c9": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10100089/",
+        "https://pubmed.ncbi.nlm.nih.gov/37063579/",
+        "https://doi.org/10.3389/fpsyg.2023.1129912"
+      ],
+      "doi": "10.3389/fpsyg.2023.1129912",
+      "pmid": "37063579",
+      "publicationKey": "doi:10.3389/fpsyg.2023.1129912",
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in psychology"
+    },
+    "pmid-38250261": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10799678/",
+        "https://pubmed.ncbi.nlm.nih.gov/38250261/",
+        "https://doi.org/10.3389/fpsyt.2023.1336569"
+      ],
+      "doi": "10.3389/fpsyt.2023.1336569",
+      "pmid": "38250261",
+      "publicationKey": "doi:10.3389/fpsyt.2023.1336569",
+      "journalKey": "frontiersinpsychiatry",
+      "journalLabel": "Frontiers in psychiatry"
+    },
+    "pmid-42773467": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13599145/",
+        "https://pubmed.ncbi.nlm.nih.gov/42773467/",
+        "https://doi.org/10.1186/s40359-026-05349-w"
+      ],
+      "doi": "10.1186/s40359-026-05349-w",
+      "pmid": "42773467",
+      "publicationKey": "doi:10.1186/s40359-026-05349-w",
+      "journalKey": "bmcpsychology",
+      "journalLabel": "BMC psychology"
+    },
+    "pmid-41340540": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12676259/",
+        "https://pubmed.ncbi.nlm.nih.gov/41340540/",
+        "https://doi.org/10.1002/cpp.70186"
+      ],
+      "doi": "10.1002/cpp.70186",
+      "pmid": "41340540",
+      "publicationKey": "doi:10.1002/cpp.70186",
+      "journalKey": "clinicalpsychologyandpsychotherapy",
+      "journalLabel": "Clinical psychology & psychotherapy"
+    },
+    "pmid-42254728": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13236641/",
+        "https://pubmed.ncbi.nlm.nih.gov/42254728/",
+        "https://doi.org/10.3389/fpsyt.2026.1779057"
+      ],
+      "doi": "10.3389/fpsyt.2026.1779057",
+      "pmid": "42254728",
+      "publicationKey": "doi:10.3389/fpsyt.2026.1779057",
+      "journalKey": "frontiersinpsychiatry",
+      "journalLabel": "Frontiers in psychiatry"
+    },
+    "pmid-40417270": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12101063/",
+        "https://pubmed.ncbi.nlm.nih.gov/40417270/",
+        "https://doi.org/10.3389/fpsyt.2025.1452206"
+      ],
+      "doi": "10.3389/fpsyt.2025.1452206",
+      "pmid": "40417270",
+      "publicationKey": "doi:10.3389/fpsyt.2025.1452206",
+      "journalKey": "frontiersinpsychiatry",
+      "journalLabel": "Frontiers in psychiatry"
+    },
+    "pmid-39023949": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/39023949/",
+        "https://doi.org/10.1037/tra0001711"
+      ],
+      "doi": "10.1037/tra0001711",
+      "pmid": "39023949",
+      "publicationKey": "doi:10.1037/tra0001711",
+      "journalKey": "psychologicaltrauma",
+      "journalLabel": "Psychological trauma : theory, research, practice and policy"
+    },
+    "pmid-39731040": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11673372/",
+        "https://pubmed.ncbi.nlm.nih.gov/39731040/",
+        "https://doi.org/10.1186/s12888-024-06420-9"
+      ],
+      "doi": "10.1186/s12888-024-06420-9",
+      "pmid": "39731040",
+      "publicationKey": "doi:10.1186/s12888-024-06420-9",
+      "journalKey": "bmcpsychiatry",
+      "journalLabel": "BMC psychiatry"
+    },
+    "pmid-42880055": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/42880055/",
+        "https://doi.org/10.1016/j.janxdis.2026.103243"
+      ],
+      "doi": "10.1016/j.janxdis.2026.103243",
+      "pmid": "42880055",
+      "publicationKey": "doi:10.1016/j.janxdis.2026.103243",
+      "journalKey": "journalofanxietydisorders",
+      "journalLabel": "Journal of anxiety disorders"
+    },
+    "doi-37881ae999c094e1": {
+      "urls": [
+        "https://doi.org/10.1016/j.fnhli.2025.100070"
+      ],
+      "doi": "10.1016/j.fnhli.2025.100070",
+      "pmid": null,
+      "publicationKey": "doi:10.1016/j.fnhli.2025.100070",
+      "journalKey": "firstnationshealthandwellbeingthelowitjajournal",
+      "journalLabel": "First Nations Health and Wellbeing - The Lowitja Journal"
+    },
+    "pmid-39630422": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11618582/",
+        "https://pubmed.ncbi.nlm.nih.gov/39630422/",
+        "https://doi.org/10.1001/jamapsychiatry.2024.3908"
+      ],
+      "doi": "10.1001/jamapsychiatry.2024.3908",
+      "pmid": "39630422",
+      "publicationKey": "doi:10.1001/jamapsychiatry.2024.3908",
+      "journalKey": "jamapsychiatry",
+      "journalLabel": "JAMA psychiatry"
+    },
+    "pmid-33709117": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/33709117/",
+        "https://doi.org/10.1093/eurjcn/zvaa006"
+      ],
+      "doi": "10.1093/eurjcn/zvaa006",
+      "pmid": "33709117",
+      "publicationKey": "doi:10.1093/eurjcn/zvaa006",
+      "journalKey": "europeanjournalofcardiovascularnursing",
+      "journalLabel": "European journal of cardiovascular nursing"
+    },
+    "pmid-40243164": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12006939/",
+        "https://pubmed.ncbi.nlm.nih.gov/40243164/",
+        "https://doi.org/10.1080/20008066.2025.2488558"
+      ],
+      "doi": "10.1080/20008066.2025.2488558",
+      "pmid": "40243164",
+      "publicationKey": "doi:10.1080/20008066.2025.2488558",
+      "journalKey": "europeanjournalofpsychotraumatology",
+      "journalLabel": "European journal of psychotraumatology"
+    },
+    "pmid-42703195": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/42703195/",
+        "https://doi.org/10.1007/s40653-025-00808-9"
+      ],
+      "doi": "10.1007/s40653-025-00808-9",
+      "pmid": "42703195",
+      "publicationKey": "doi:10.1007/s40653-025-00808-9",
+      "journalKey": "journalofchildandadolescenttrauma",
+      "journalLabel": "Journal of child & adolescent trauma"
+    },
+    "pmid-34512458": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8424043/",
+        "https://pubmed.ncbi.nlm.nih.gov/34512458/",
+        "https://doi.org/10.3389/fpsyg.2021.701381"
+      ],
+      "doi": "10.3389/fpsyg.2021.701381",
+      "pmid": "34512458",
+      "publicationKey": "doi:10.3389/fpsyg.2021.701381",
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in psychology"
+    },
+    "pmid-39835632": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11753006/",
+        "https://pubmed.ncbi.nlm.nih.gov/39835632/",
+        "https://doi.org/10.1080/20008066.2025.2451478"
+      ],
+      "doi": "10.1080/20008066.2025.2451478",
+      "pmid": "39835632",
+      "publicationKey": "doi:10.1080/20008066.2025.2451478",
+      "journalKey": "europeanjournalofpsychotraumatology",
+      "journalLabel": "European journal of psychotraumatology"
+    },
+    "pmid-38032626": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/38032626/",
+        "https://doi.org/10.1037/tra0001629"
+      ],
+      "doi": "10.1037/tra0001629",
+      "pmid": "38032626",
+      "publicationKey": "doi:10.1037/tra0001629",
+      "journalKey": "psychologicaltrauma",
+      "journalLabel": "Psychological trauma : theory, research, practice and policy"
+    },
+    "pmid-42411718": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13347840/",
+        "https://pubmed.ncbi.nlm.nih.gov/42411718/",
+        "https://doi.org/10.1080/20008066.2026.2686577"
+      ],
+      "doi": "10.1080/20008066.2026.2686577",
+      "pmid": "42411718",
+      "publicationKey": "doi:10.1080/20008066.2026.2686577",
+      "journalKey": "europeanjournalofpsychotraumatology",
+      "journalLabel": "European journal of psychotraumatology"
+    },
+    "pmid-9479674": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/9479674/",
+        "https://doi.org/10.1023/a:1024400931106"
+      ],
+      "doi": "10.1023/a:1024400931106",
+      "pmid": "9479674",
+      "publicationKey": "doi:10.1023/a:1024400931106",
+      "journalKey": "journaloftraumaticstress",
+      "journalLabel": "Journal of traumatic stress"
+    },
+    "pmid-35070159": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8772504/",
+        "https://pubmed.ncbi.nlm.nih.gov/35070159/",
+        "https://doi.org/10.1080/20008198.2021.1987655"
+      ],
+      "doi": "10.1080/20008198.2021.1987655",
+      "pmid": "35070159",
+      "publicationKey": "doi:10.1080/20008198.2021.1987655",
+      "journalKey": "europeanjournalofpsychotraumatology",
+      "journalLabel": "European journal of psychotraumatology"
+    },
+    "pmid-42519422": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13383946/",
+        "https://pubmed.ncbi.nlm.nih.gov/42519422/",
+        "https://doi.org/10.1016/j.nsa.2026.107020"
+      ],
+      "doi": "10.1016/j.nsa.2026.107020",
+      "pmid": "42519422",
+      "publicationKey": "doi:10.1016/j.nsa.2026.107020",
+      "journalKey": "neuroscienceapplied",
+      "journalLabel": "Neuroscience applied"
+    },
+    "pmid-38362742": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10878335/",
+        "https://pubmed.ncbi.nlm.nih.gov/38362742/",
+        "https://doi.org/10.1080/20008066.2024.2314913"
+      ],
+      "doi": "10.1080/20008066.2024.2314913",
+      "pmid": "38362742",
+      "publicationKey": "doi:10.1080/20008066.2024.2314913",
+      "journalKey": "europeanjournalofpsychotraumatology",
+      "journalLabel": "European journal of psychotraumatology"
+    },
+    "pmid-39060246": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11282249/",
+        "https://pubmed.ncbi.nlm.nih.gov/39060246/",
+        "https://doi.org/10.1038/s41398-024-02892-1"
+      ],
+      "doi": "10.1038/s41398-024-02892-1",
+      "pmid": "39060246",
+      "publicationKey": "doi:10.1038/s41398-024-02892-1",
+      "journalKey": "translationalpsychiatry",
+      "journalLabel": "Translational psychiatry"
+    },
+    "pmid-36266402": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9585146/",
+        "https://pubmed.ncbi.nlm.nih.gov/36266402/",
+        "https://doi.org/10.1038/s41598-022-21246-9"
+      ],
+      "doi": "10.1038/s41598-022-21246-9",
+      "pmid": "36266402",
+      "publicationKey": "doi:10.1038/s41598-022-21246-9",
+      "journalKey": "scientificreports",
+      "journalLabel": "Scientific reports"
+    },
+    "pmid-31645664": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/31645664/",
+        "https://doi.org/10.1038/s41380-019-0549-3"
+      ],
+      "doi": "10.1038/s41380-019-0549-3",
+      "pmid": "31645664",
+      "publicationKey": "doi:10.1038/s41380-019-0549-3",
+      "journalKey": "molecularpsychiatry",
+      "journalLabel": "Molecular psychiatry"
+    },
+    "pmid-31352130": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/31352130/",
+        "https://doi.org/10.1016/j.psyneuen.2019.104380"
+      ],
+      "doi": "10.1016/j.psyneuen.2019.104380",
+      "pmid": "31352130",
+      "publicationKey": "doi:10.1016/j.psyneuen.2019.104380",
+      "journalKey": "psychoneuroendocrinology",
+      "journalLabel": "Psychoneuroendocrinology"
+    },
+    "pmid-35707677": {
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9190205/",
+        "https://pubmed.ncbi.nlm.nih.gov/35707677/",
+        "https://doi.org/10.1177/24705470221107290"
+      ],
+      "doi": "10.1177/24705470221107290",
+      "pmid": "35707677",
+      "publicationKey": "doi:10.1177/24705470221107290",
+      "journalKey": "chronicstress",
+      "journalLabel": "Chronic stress (Thousand Oaks, Calif.)"
+    },
+    "pmid-40706348": {
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/40706348/",
+        "https://doi.org/10.1016/j.jbtep.2025.102052"
+      ],
+      "doi": "10.1016/j.jbtep.2025.102052",
+      "pmid": "40706348",
+      "publicationKey": "doi:10.1016/j.jbtep.2025.102052",
+      "journalKey": "journalofbehaviortherapyandexperimentalpsychiatry",
+      "journalLabel": "Journal of behavior therapy and experimental psychiatry"
+    },
+    "doi-14a5c17359f1dfcb": {
+      "urls": [
+        "https://doi.org/10.1891/emdr-2023-0019"
+      ],
+      "doi": "10.1891/emdr-2023-0019",
+      "pmid": null,
+      "publicationKey": "doi:10.1891/emdr-2023-0019",
+      "journalKey": "journalofemdrpracticeandresearch",
+      "journalLabel": "Journal of EMDR Practice and Research"
+    },
+    "portal-937934d6d2dd": {
+      "urls": [
+        "https://www.ptsd.va.gov/professional/treat/txessentials/cpg_ptsd_management.asp"
+      ],
+      "journalKey": "",
+      "journalLabel": "U.S. VA / Department of Defense"
+    },
+    "vision-photoreceptor-mosaic-1998": {
+      "urls": [
+        "https://www.nature.com/articles/eye1998142",
+        "https://doi.org/10.1038/eye.1998.142",
+        "https://pubmed.ncbi.nlm.nih.gov/9775214/"
+      ],
+      "doi": "10.1038/eye.1998.142",
+      "pmid": "9775214",
+      "publicationKey": "doi:10.1038/eye.1998.142",
+      "journalKey": "eye",
+      "journalLabel": "Eye"
+    },
+    "vision-retinal-orientation-2011": {
+      "urls": [
+        "https://www.nature.com/articles/nn.2824",
+        "https://doi.org/10.1038/nn.2824",
+        "https://pubmed.ncbi.nlm.nih.gov/21623365/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3196663/"
+      ],
+      "doi": "10.1038/nn.2824",
+      "pmid": "21623365",
+      "publicationKey": "doi:10.1038/nn.2824",
+      "journalKey": "natureneuroscience",
+      "journalLabel": "Nature Neuroscience"
+    },
+    "vision-hexadirectional-2018": {
+      "urls": [
+        "https://www.nature.com/articles/s41593-017-0050-8",
+        "https://doi.org/10.1038/s41593-017-0050-8",
+        "https://pubmed.ncbi.nlm.nih.gov/29311746/"
+      ],
+      "doi": "10.1038/s41593-017-0050-8",
+      "pmid": "29311746",
+      "publicationKey": "doi:10.1038/s41593-017-0050-8",
+      "journalKey": "natureneuroscience",
+      "journalLabel": "Nature Neuroscience"
+    }
+  },
+  "policy": "Publication counts and citation counts are separate from topic trust thresholds. New citation snapshots retain provider and date.",
+  "reviewedAt": "2026-10-26"
+}

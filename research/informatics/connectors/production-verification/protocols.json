@@ -1,0 +1,381 @@
+{
+  "checkedAt": "2026-10-24T03:02:23.876Z",
+  "endpoint": "https://informatics-universal-one.universalmind.workers.dev",
+  "server": {
+    "name": "universal-informatics",
+    "version": "1.0.0"
+  },
+  "tools": [
+    "search",
+    "fetch",
+    "get_inventory",
+    "search_publications",
+    "get_publication",
+    "get_passages",
+    "list_atlas_records",
+    "get_atlas_record"
+  ],
+  "inventory": {
+    "schemaVersion": "1.0",
+    "datasetVersion": "research-20261024-v2",
+    "counts": {
+      "publications": 811,
+      "atlas": 1001,
+      "full_texts": 149,
+      "public_full_texts": 146,
+      "m9_family": 111
+    },
+    "access": {
+      "records": "Public publication metadata, approved summaries and quotations; complete Atlas records and commentary.",
+      "passages": "CC BY and CC0 passages only, with source, attribution and licence. Other full texts remain outside public exports.",
+      "writing": false
+    },
+    "links": {
+      "publications": "https://informatics-universal-one.universalmind.workers.dev/api/v1/publications",
+      "atlas": "https://informatics-universal-one.universalmind.workers.dev/api/v1/atlas",
+      "openapi": "https://informatics-universal-one.universalmind.workers.dev/api/v1/openapi.json",
+      "mcp": "https://informatics-universal-one.universalmind.workers.dev/mcp",
+      "agentCard": "https://informatics-universal-one.universalmind.workers.dev/.well-known/agent-card.json",
+      "guide": "https://universalmind.tv/informatics/connect.html"
+    }
+  },
+  "m9": {
+    "schemaVersion": "1.0",
+    "datasetVersion": "research-20261024-v2",
+    "id": "fibonacci-m9-p24",
+    "modulus": 9,
+    "section": "summary",
+    "data": {
+      "id": "fibonacci-m9-p24",
+      "name": "Fibonacci M9P24",
+      "modulus": 9,
+      "pisano_period": 24,
+      "family": {
+        "m9": true,
+        "label": "M9 family"
+      },
+      "conventions": {
+        "node_rule": "Native residues divisible by 3, including zero; preserves the approved M6/M9/M12 reference selection. Additional regular formations of all native values are catalogued separately.",
+        "orientation": "clockwise from north",
+        "clock_labels": [
+          24,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "index_origin": 0,
+        "zero_display": 9,
+        "m1_convention": "Modulo 1 has period 1 and residue 0.",
+        "beta_circle_positions": 9,
+        "alpha_circle_positions": 24
+      },
+      "geometry_summary": {
+        "scope": "Shapes in the primary Gamma node set (native residues divisible by 3, including zero). All regular polygons on the period circle are catalogued separately with their native values; their existence alone is a property of the plotting grid.",
+        "shapes": [
+          {
+            "name": "Equilateral triangle",
+            "count": 2,
+            "status": "Present",
+            "alpha_paths": [
+              [
+                0,
+                8,
+                16,
+                0
+              ],
+              [
+                4,
+                12,
+                20,
+                4
+              ]
+            ],
+            "orientation": "North / south",
+            "rotation_degrees": null,
+            "rotations_degrees": [
+              0,
+              60
+            ]
+          },
+          {
+            "name": "Hexagon",
+            "count": 1,
+            "status": "Present",
+            "alpha_paths": [
+              [
+                0,
+                4,
+                8,
+                12,
+                16,
+                20,
+                0
+              ]
+            ],
+            "orientation": "North–south",
+            "rotation_degrees": 0,
+            "rotations_degrees": [
+              0
+            ]
+          },
+          {
+            "name": "2D stellated octahedron",
+            "count": 1,
+            "status": "Present",
+            "alpha_paths": [
+              [
+                0,
+                8,
+                16,
+                0
+              ],
+              [
+                4,
+                12,
+                20,
+                4
+              ]
+            ],
+            "orientation": "North–south",
+            "rotation_degrees": 0,
+            "rotations_degrees": [
+              0
+            ]
+          },
+          {
+            "name": "Chevron",
+            "count": 1,
+            "status": "Present",
+            "alpha_paths": [],
+            "orientation": "North–south",
+            "rotation_degrees": 0,
+            "rotations_degrees": [
+              0
+            ]
+          },
+          {
+            "name": "Unicursal hexagram",
+            "count": 1,
+            "status": "Present",
+            "alpha_paths": [
+              [
+                0,
+                8,
+                20,
+                12,
+                4,
+                16,
+                0
+              ],
+              [
+                4,
+                12,
+                0,
+                16,
+                8,
+                20,
+                4
+              ],
+              [
+                8,
+                16,
+                4,
+                20,
+                12,
+                0,
+                8
+              ]
+            ],
+            "orientation": "North–south",
+            "rotation_degrees": 0,
+            "rotations_degrees": [
+              0
+            ]
+          }
+        ],
+        "circle_role": "Pisano-period plotting framework",
+        "epsilon_rule": "A regular six-node formation must support the reference unicursal route through only 3, 6 and 9, containing all three. Rotations and reflections of the route are tested; reversed or cyclically shifted traversals are deduplicated.",
+        "rule_version": "native-pilot-v1",
+        "other_orientations_status": "Absent"
+      },
+      "verification": {
+        "scope": "Native period, sequences, regular polygon index spacing and reference Epsilon routes; no physical or biological validation.",
+        "python": "Passed",
+        "wolfram": "Passed",
+        "evidence": "wolfram-core-result.json",
+        "wolfram_scope": "24 native periods, complete Alpha, primary Gamma indices, Beta interval sums/residues, primary regular triangles and hexagons. Extended catalogue, Chevron and Epsilon remain Python-checked only."
+      },
+      "availableSections": [
+        "id",
+        "beta",
+        "name",
+        "alpha",
+        "gamma",
+        "views",
+        "family",
+        "epsilon",
+        "modulus",
+        "research",
+        "conventions",
+        "probability",
+        "beta_m9_view",
+        "verification",
+        "pisano_period",
+        "epsilon_routes",
+        "epsilon_status",
+        "schema_version",
+        "dataset_version",
+        "reduction_to_m9",
+        "geometry_summary",
+        "m9_sequence_views",
+        "research_register",
+        "epsilon_assessment",
+        "formation_catalogue",
+        "epsilon_m9_comparison",
+        "notable_gamma_patterns",
+        "other_geometry_summary",
+        "native_beta_observation"
+      ],
+      "analysisSections": [
+        "research",
+        "research_register",
+        "probability",
+        "m9_sequence_views",
+        "reduction_to_m9"
+      ]
+    },
+    "sourceSHA256": "55da8b5e3406368cece4476720ca9d9208627e30a827fca30533d3235d74d8ff",
+    "url": "https://informatics-universal-one.universalmind.workers.dev/api/v1/atlas/fibonacci-m9-p24",
+    "interpretation": "Preserve native and reduced-to-M9 representations. Computed geometry, conditional shuffle probabilities, commentary and biological hypotheses have distinct evidence status."
+  },
+  "probabilityKeys": [
+    "id",
+    "files",
+    "counts",
+    "method",
+    "result",
+    "status",
+    "display",
+    "heading",
+    "summary",
+    "record_id",
+    "calculation",
+    "verification",
+    "calculated_on",
+    "interpretation",
+    "schema_version",
+    "research_insight"
+  ],
+  "publicationSearch": {
+    "total": 15,
+    "ids": [
+      "pmid-38040763",
+      "pmid-23435350",
+      "src-29826cfefdd8",
+      "pmid-41064114",
+      "pmid-37764116",
+      "pmid-15668624",
+      "pmid-25806429",
+      "src-9f4f86bba592",
+      "pmid-42615937",
+      "pmid-17261984"
+    ]
+  },
+  "genericSearch": {
+    "results": [
+      {
+        "id": "atlas:fibonacci-m9-p24",
+        "title": "Fibonacci M9P24",
+        "url": "https://informatics-universal-one.universalmind.workers.dev/api/v1/atlas/fibonacci-m9-p24"
+      }
+    ],
+    "datasetVersion": "research-20261024-v2"
+  },
+  "resources": [
+    {
+      "name": "Research inventory",
+      "uri": "informatics://inventory",
+      "mimeType": "application/json"
+    }
+  ],
+  "passageCheck": {
+    "id": "pmid-38040763",
+    "total": 30,
+    "rights": [
+      "https://creativecommons.org/licenses/by/4.0/",
+      "https://creativecommons.org/licenses/by/4.0/"
+    ]
+  },
+  "fullM9MatchesOriginal": true,
+  "agentCard": {
+    "name": "Universal One · Universal Informatics",
+    "description": "Research answers grounded in the Universal Research library and M1–M1001 Atlas, including commentary, nested sequences and hypotheses. Single-request answers with citations; no background tasks or research submissions.",
+    "version": "1.0.0",
+    "supportedInterfaces": [
+      {
+        "url": "https://informatics-universal-one.universalmind.workers.dev/a2a/v1",
+        "protocolBinding": "JSONRPC",
+        "protocolVersion": "1.0"
+      }
+    ],
+    "provider": {
+      "organization": "Universal Mind",
+      "url": "https://universalmind.tv/informatics/"
+    },
+    "documentationUrl": "https://universalmind.tv/informatics/connect.html#agents",
+    "capabilities": {
+      "streaming": false,
+      "pushNotifications": false,
+      "extendedAgentCard": false
+    },
+    "defaultInputModes": [
+      "text/plain"
+    ],
+    "defaultOutputModes": [
+      "text/plain",
+      "application/json"
+    ],
+    "skills": [
+      {
+        "id": "research",
+        "name": "Research library and Atlas",
+        "description": "Retrieve scientific evidence and Atlas analysis with cited sources. Supply the complete research question in each message. Public access is rate limited.",
+        "tags": [
+          "research",
+          "genomics",
+          "M1–M1001",
+          "M9",
+          "sound",
+          "vision",
+          "language"
+        ],
+        "examples": [
+          "What evidence links recreational music making to gene expression?",
+          "Explain the M9 probability model and its limitations."
+        ]
+      }
+    ]
+  },
+  "a2aVersionGuard": true,
+  "passed": true
+}

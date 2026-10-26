@@ -1,0 +1,37 @@
+[
+  {
+    "path": "index.html",
+    "sha256": "66b2b09f0d92277b6f8e83b5330a34f7d9f8ecd7a08b378a59c415bd011addb7",
+    "bytes": 26344
+  },
+  {
+    "path": "style.css",
+    "sha256": "9da76c3b11ee2674e42c5904d302979be683b567601075f9eac5da2434949155",
+    "bytes": 12300
+  },
+  {
+    "path": "library.html",
+    "sha256": "0a373a1522fe4222601977e63c5fca4ad631e17f274dbe8851a50ba3a99755ba",
+    "bytes": 33732
+  },
+  {
+    "path": "library.css",
+    "sha256": "e3d93dc1bf29ebaa010a154e64a8183b0dc2b4e353226e4d1466b277640f3b8c",
+    "bytes": 26890
+  },
+  {
+    "path": "library.js",
+    "sha256": "24640a347469f99cb8d61957c4b7593b185d0d48acc399ec31575443e11b3184",
+    "bytes": 32660
+  },
+  {
+    "path": "library-multiselect.js",
+    "sha256": "fe821d9440a04ad19d0216f1058224155a96243d76371bfe3c415d0479e94108",
+    "bytes": 4864
+  },
+  {
+    "path": "library-data/clinical-conditions.json",
+    "sha256": "c443b3e0e94674ea903e773963229ea20cd119c8334e2d5e5e748964500fcfe9",
+    "bytes": 115291
+  }
+]

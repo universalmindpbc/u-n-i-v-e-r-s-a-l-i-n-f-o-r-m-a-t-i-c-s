@@ -1,0 +1,12 @@
+{
+  "base_commit": "7a491fc7",
+  "change": "Move the persistent technology diagram below the question composer and below each active step panel, with a 32px gap.",
+  "diagram_content_preserved": true,
+  "diagram_and_calculation_logic_unchanged": true,
+  "transcription_atlas_unchanged": true,
+  "source_files": [
+    "Informatics/index.html",
+    "Informatics/quantum/index.html",
+    "Informatics/quantum/biology.css"
+  ]
+}

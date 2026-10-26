@@ -1,0 +1,690 @@
+{
+  "version": 1,
+  "title": "Molecular Atlas",
+  "records": [
+    {
+      "id": "OXTR",
+      "pdb": "7QVM",
+      "name": "Oxytocin receptor",
+      "context": "Oxytocin signalling",
+      "genes": [
+        "OXTR"
+      ],
+      "geneIds": [
+        5021
+      ],
+      "chains": [
+        "E"
+      ],
+      "ligandChains": [
+        "D"
+      ],
+      "contextChains": [
+        "A",
+        "B",
+        "C",
+        "F"
+      ],
+      "note": "Engineered receptor complex. Receptor chain R and oxytocin chain L are shown initially. The complete deposited model also contains a G-protein chimera and an antibody fragment.",
+      "title": "Human Oxytocin receptor (OTR) oxytocin Gq chimera (mGoqi) complex",
+      "resolution": 3.25,
+      "method": "ELECTRON MICROSCOPY",
+      "source": "https://www.rcsb.org/structure/7QVM",
+      "sha256": "9df96fcec74a5008a318b50311b95a9faa814126517460c9732414c3190f4242",
+      "retrieved": "2026-10-21",
+      "sequenceType": "Deposited protein construct",
+      "sequences": [
+        {
+          "chain": "E",
+          "authorChain": "R",
+          "name": "Oxytocin receptor",
+          "sequence": "MEGALAANWSAEAANASAAPPGAEGNRTAGPPRRNEALARVEVAVLCLILLLALSGNACVLLALRTTRQKHSRLFFFMKHLSIADLVVAVFQVLPQLLWDITFRFYGPDLLCRLVKYLQVVGMFASTYLLLLMSLDRCLAICQPLRSLRRRTYRLAVLATWLGCLVASAPQVHIFSLREVADGVFDCWAVFIQPWGPKAYITWITLAVYIVPVIVLATCYGLISFKIWQNLRLKTAAAAAAEAPEGAAAGDGGRVALARVSSVKLISKAKIRTVKMTFIIVLAFIVCWTPFFFVQMWSVWDANAPKEASAFIIVMLLASLNSCCNPWIYMLFTGHLFHELVQRFLCCSASYLKGRRLGK",
+          "length": 359
+        }
+      ],
+      "citation": {
+        "country": "UK",
+        "id": "primary",
+        "journal_abbrev": "Nat Commun",
+        "journal_id_ISSN": "2041-1723",
+        "journal_volume": "13",
+        "page_first": "4153",
+        "page_last": "4153",
+        "pdbx_database_id_DOI": "10.1038/s41467-022-31325-0",
+        "pdbx_database_id_PubMed": 35851571,
+        "rcsb_ORCID_identifiers": [
+          "0000-0001-5564-4303",
+          "?",
+          "0000-0002-6570-7336",
+          "0000-0002-2221-6238",
+          "0000-0003-0994-2937",
+          "0000-0003-4191-5306"
+        ],
+        "rcsb_authors": [
+          "Waltenspuhl, Y.",
+          "Ehrenmann, J.",
+          "Vacca, S.",
+          "Thom, C.",
+          "Medalia, O.",
+          "Pluckthun, A."
+        ],
+        "rcsb_journal_abbrev": "Nat Commun",
+        "title": "Structural basis for the activation and ligand recognition of the human oxytocin receptor.",
+        "year": 2022
+      },
+      "depositedLigands": []
+    },
+    {
+      "id": "SLC6A4",
+      "pdb": "5I6X",
+      "name": "Serotonin transporter",
+      "context": "Serotonin transport",
+      "genes": [
+        "SLC6A4"
+      ],
+      "geneIds": [
+        6532
+      ],
+      "chains": [
+        "A"
+      ],
+      "ligands": [
+        "8PR"
+      ],
+      "contextChains": [
+        "B",
+        "C"
+      ],
+      "note": "Thermostabilised human serotonin transporter with paroxetine. Antibody chains are available in the complex layer. This is an engineered experimental construct.",
+      "title": "X-ray structure of the ts3 human serotonin transporter complexed with paroxetine at the central site",
+      "resolution": 3.14,
+      "method": "X-RAY DIFFRACTION",
+      "source": "https://www.rcsb.org/structure/5I6X",
+      "sha256": "29b8d278efa9ed9a9c5a64ea72718e84a6563dda26a7b978d71c7520cadecf61",
+      "retrieved": "2026-10-21",
+      "sequenceType": "Deposited protein construct",
+      "sequences": [
+        {
+          "chain": "A",
+          "authorChain": "A",
+          "name": "Sodium-dependent serotonin transporter",
+          "sequence": "GSQGERETWGKKVDFLLSVIGYAVDLGNVWRFPYICAQNGGGAFLLPYTIMAIFGGIPLFYMELALGQYHRNGCISIWRKICPIFKGIGYAICIIAFYIASYYNTIMAWALYYLISSFTDQLPWTSCKNSWNTGNCTNYFSEDNITWTLHSTSPAEEFYTRHVLQIHRSKGLQDLGGISWQLALCIMLIFTVIYFSIWKGVKTSGKVVWVTATFPYIALSVLLVRGATLPGAWRGVLFYLKPNWQKLLETGVWIDAAAQIFFSLGPGFGVLLAFASYNKFNNNCYQDALVTSVVNCMTSFVSGFVIFTVLGYMAEMRNEDVSEVAKDAGPSLLFITYAEAIANMPASTFFAIIFFLMLITLGLDSSFAGLEGVITAVLDEFPHVWAKRRERFVLAVVITCFFGSLVTLTFGGAYVVKLLEEYATGPAVLTVALIEAVAVSWFYGITQFCRDVKEMLGFSPGWFWRICWVAISPLFLLFIIASFLMSPPQLRLFQYNYPYWSIILGYAIGTSSFICIPTYIAYRLIITPGTFKERIIKSITPETPTLVPR",
+          "length": 549
+        }
+      ],
+      "citation": {
+        "country": "UK",
+        "id": "primary",
+        "journal_abbrev": "Nature",
+        "journal_id_ASTM": "NATUAS",
+        "journal_id_CSD": "0006",
+        "journal_id_ISSN": "1476-4687",
+        "journal_volume": "532",
+        "page_first": "334",
+        "page_last": "339",
+        "pdbx_database_id_DOI": "10.1038/nature17629",
+        "pdbx_database_id_PubMed": 27049939,
+        "rcsb_ORCID_identifiers": [
+          "?",
+          "?",
+          "?"
+        ],
+        "rcsb_authors": [
+          "Coleman, J.A.",
+          "Green, E.M.",
+          "Gouaux, E."
+        ],
+        "rcsb_journal_abbrev": "Nature",
+        "title": "X-ray structures and mechanism of the human serotonin transporter.",
+        "year": 2016
+      },
+      "depositedLigands": [
+        {
+          "id": "NAG",
+          "name": "2-acetamido-2-deoxy-beta-D-glucopyranose"
+        },
+        {
+          "id": "CLR",
+          "name": "CHOLESTEROL"
+        },
+        {
+          "id": "LMT",
+          "name": "DODECYL-BETA-D-MALTOSIDE"
+        },
+        {
+          "id": "8PR",
+          "name": "Paroxetine"
+        },
+        {
+          "id": "CL",
+          "name": "CHLORIDE ION"
+        },
+        {
+          "id": "NA",
+          "name": "SODIUM ION"
+        }
+      ]
+    },
+    {
+      "id": "DRD2",
+      "pdb": "6CM4",
+      "name": "Dopamine D2 receptor",
+      "context": "Dopamine signalling",
+      "genes": [
+        "DRD2"
+      ],
+      "geneIds": [
+        1813
+      ],
+      "chains": [
+        "A"
+      ],
+      "ligands": [
+        "8NU"
+      ],
+      "contextChains": [],
+      "note": "Risperidone-bound D2 receptor\u2013endolysin fusion. The displayed chain includes the engineered fusion domain; it is not a complete native receptor.",
+      "title": "Structure of the D2 Dopamine Receptor Bound to the Atypical Antipsychotic Drug Risperidone",
+      "resolution": 2.867,
+      "method": "X-RAY DIFFRACTION",
+      "source": "https://www.rcsb.org/structure/6CM4",
+      "sha256": "4ef8156b7a0ce71b4c012b8979b6f1ec051173456c4322c329a338393e534daa",
+      "retrieved": "2026-10-21",
+      "sequenceType": "Deposited protein construct",
+      "sequences": [
+        {
+          "chain": "A",
+          "authorChain": "A",
+          "name": "D(2) dopamine receptor, endolysin chimera",
+          "sequence": "NYYATLLTLLIAVIVFGNVLVCMAVSREKALQTTTNYLIVSLAVADLLVATLVMPWVVYLEVVGEWKFSRIHCDIFVTLDVMMCTASALNLCAISIDRYTAVAMPMLYNTRYSSKRRVTVMISIVWVLSFTISCPLLFGLNNADQNECIIANPAFVVYSSIVSFYVPFIVTLLVYIKIYIVLRRRRKRNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKLSQQKEKKATQMAAIVAGVFIICWLPFFITHILNIHCDCNIPPVLYSAFTWLGYVNSAVNPIIYTTFNIEFRKAFLKILHC",
+          "length": 430
+        }
+      ],
+      "citation": {
+        "country": "UK",
+        "id": "primary",
+        "journal_abbrev": "Nature",
+        "journal_id_ASTM": "NATUAS",
+        "journal_id_CSD": "0006",
+        "journal_id_ISSN": "1476-4687",
+        "journal_volume": "555",
+        "page_first": "269",
+        "page_last": "273",
+        "pdbx_database_id_DOI": "10.1038/nature25758",
+        "pdbx_database_id_PubMed": 29466326,
+        "rcsb_ORCID_identifiers": [
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        "rcsb_authors": [
+          "Wang, S.",
+          "Che, T.",
+          "Levit, A.",
+          "Shoichet, B.K.",
+          "Wacker, D.",
+          "Roth, B.L."
+        ],
+        "rcsb_journal_abbrev": "Nature",
+        "title": "Structure of the D2 dopamine receptor bound to the atypical antipsychotic drug risperidone.",
+        "year": 2018
+      },
+      "depositedLigands": [
+        {
+          "id": "8NU",
+          "name": "3-[2-[4-(6-fluoranyl-1,2-benzoxazol-3-yl)piperidin-1-yl]ethyl]-2-methyl-6,7,8,9-tetrahydropyrido[1,2-a]pyrimidin-4-one"
+        },
+        {
+          "id": "PEG",
+          "name": "DI(HYDROXYETHYL)ETHER"
+        },
+        {
+          "id": "OLA",
+          "name": "OLEIC ACID"
+        }
+      ]
+    },
+    {
+      "id": "NMDA",
+      "pdb": "9IYQ",
+      "name": "NMDA receptor",
+      "context": "Learning & memory \u00b7 synaptic plasticity",
+      "genes": [
+        "GRIN1",
+        "GRIN2B"
+      ],
+      "geneIds": [
+        2902,
+        2904
+      ],
+      "chains": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "ligands": [
+        "GLY",
+        "7RC"
+      ],
+      "contextChains": [],
+      "note": "Human GluN1/GluN2B receptor in the Mg\u00b2\u207a-free experimental state, with glycine and the antagonist 7RC. This is one NMDA receptor subtype in a specific ligand-bound state. Unresolved and truncated regions are absent from the coordinates.",
+      "title": "Structure of the human GluN1-N2B NMDA receptors in the Mg2+ free state",
+      "resolution": 3.18,
+      "method": "ELECTRON MICROSCOPY",
+      "source": "https://www.rcsb.org/structure/9IYQ",
+      "sha256": "ed7a363d615476ca41fb7158e55de9e59775fd9488bcce42eaf3be87485f59ca",
+      "retrieved": "2026-10-21",
+      "sequenceType": "Deposited protein construct",
+      "sequences": [
+        {
+          "chain": "A",
+          "authorChain": "A",
+          "name": "Glutamate receptor ionotropic, NMDA 1",
+          "sequence": "MSTMRLLTLALLFSCSVARAACDPKIVNIGAVLSTRKHEQMFREAVNQANKRHGSWKIQLNATSVTHKPNAIQMALSVCEDLISSQVYAILVSHPPTPNDHFTPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVPPYSHQSSVWFEMMRVYSWNHIILLVSDDHEGRAAQKRLETLLEERESKAEKVLQFDPGTKNVTALLMEAKELEARVIILSASEDDAATVYRAAAMLNMTGSGYVWLVGEREISGNALRYAPDGILGLQLINGKNESAHISDAVGVVAQAVHELLEKENITDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFANYSIMNLQNRKLVQVGIYNGTHVIPNDRKIIWPGGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTLSDGTCKEEFTVNGDPVKKVICTGPNDTSPGSPRHTVPQCCYGFCIDLLIKLARTMNFTYEVHLVADGKFGTQERVNNSNKKEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQSTLWLLVGLSVHVVAVMLYLLDRFSPFGRFKVNSEEEEEDALTLSSAMWFSWGVLLNSGIGEGAPRSFSARILGMVWAGFAMIIVASYTANLAAFLVLDRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMRKDSPWKQNVSLSILKSHENGFMEDLDKTWVRYQECDSRSNAPATLTFENMAGVFMLVAGGIVAGIFLIFIEIAYKRHKDARRKQ",
+          "length": 847
+        },
+        {
+          "chain": "C",
+          "authorChain": "C",
+          "name": "Glutamate receptor ionotropic, NMDA 1",
+          "sequence": "MSTMRLLTLALLFSCSVARAACDPKIVNIGAVLSTRKHEQMFREAVNQANKRHGSWKIQLNATSVTHKPNAIQMALSVCEDLISSQVYAILVSHPPTPNDHFTPTPVSYTAGFYRIPVLGLTTRMSIYSDKSIHLSFLRTVPPYSHQSSVWFEMMRVYSWNHIILLVSDDHEGRAAQKRLETLLEERESKAEKVLQFDPGTKNVTALLMEAKELEARVIILSASEDDAATVYRAAAMLNMTGSGYVWLVGEREISGNALRYAPDGILGLQLINGKNESAHISDAVGVVAQAVHELLEKENITDPPRGCVGNTNIWKTGPLFKRVLMSSKYADGVTGRVEFNEDGDRKFANYSIMNLQNRKLVQVGIYNGTHVIPNDRKIIWPGGETEKPRGYQMSTRLKIVTIHQEPFVYVKPTLSDGTCKEEFTVNGDPVKKVICTGPNDTSPGSPRHTVPQCCYGFCIDLLIKLARTMNFTYEVHLVADGKFGTQERVNNSNKKEWNGMMGELLSGQADMIVAPLTINNERAQYIEFSKPFKYQGLTILVKKEIPRSTLDSFMQPFQSTLWLLVGLSVHVVAVMLYLLDRFSPFGRFKVNSEEEEEDALTLSSAMWFSWGVLLNSGIGEGAPRSFSARILGMVWAGFAMIIVASYTANLAAFLVLDRPEERITGINDPRLRNPSDKFIYATVKQSSVDIYFRRQVELSTMYRHMEKHNYESAAEAIQAVRDNKLHAFIWDSAVLEFEASQKCDLVTTGELFFRSGFGIGMRKDSPWKQNVSLSILKSHENGFMEDLDKTWVRYQECDSRSNAPATLTFENMAGVFMLVAGGIVAGIFLIFIEIAYKRHKDARRKQ",
+          "length": 847
+        },
+        {
+          "chain": "B",
+          "authorChain": "B",
+          "name": "Glutamate receptor ionotropic, NMDA 2B",
+          "sequence": "MKPRAECCSPKFWLVLAVLAVSGSRARSQKSPPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRICDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQFGPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLLDMSLDDGDSKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGDTDTVPAEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTHEKRIYQSNMLNRYLINVTFEGRNLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQMKYYVWPRMCPETEEQEDDHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKRIVTENKTDEEPGYIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKRAYMAVGSLTINEERSEVVDFSVPFIETGISVMVSRSNGTVSPSAFLEPFSADVWVMMFVMLLIVSAVAVFVFEYFSPVGYNRCLADGREPGGPSFTIGKAIWLLWGLVFNNSVPVQNPKGTTSKIMVSVWAFFAVIFLASYTANLAAFMIQEEYVDQVSGLSDKKFQRPNDFSPPFRFGTVPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKNEVMSSQLDIDNMAGVFYMLGAAMALSLITFICEHLF",
+          "length": 842
+        },
+        {
+          "chain": "D",
+          "authorChain": "D",
+          "name": "Glutamate receptor ionotropic, NMDA 2B",
+          "sequence": "MKPRAECCSPKFWLVLAVLAVSGSRARSQKSPPSIGIAVILVGTSDEVAIKDAHEKDDFHHLSVVPRVELVAMNETDPKSIITRICDLMSDRKIQGVVFADDTDQEAIAQILDFISAQTLTPILGIHGGSSMIMADKDESSMFFQFGPSIEQQASVMLNIMEEYDWYIFSIVTTYFPGYQDFVNKIRSTIENSFVGWELEEVLLLDMSLDDGDSKIQNQLKKLQSPIILLYCTKEEATYIFEVANSVGLTGYGYTWIVPSLVAGDTDTVPAEFPTGLISVSYDEWDYGLPARVRDGIAIITTAASDMLSEHSFIPEPKSSCYNTHEKRIYQSNMLNRYLINVTFEGRNLSFSEDGYQMHPKLVIILLNKERKWERVGKWKDKSLQMKYYVWPRMCPETEEQEDDHLSIVTLEEAPFVIVESVDPLSGTCMRNTVPCQKRIVTENKTDEEPGYIKKCCKGFCIDILKKISKSVKFTYDLYLVTNGKHGKKINGTWNGMIGEVVMKRAYMAVGSLTINEERSEVVDFSVPFIETGISVMVSRSNGTVSPSAFLEPFSADVWVMMFVMLLIVSAVAVFVFEYFSPVGYNRCLADGREPGGPSFTIGKAIWLLWGLVFNNSVPVQNPKGTTSKIMVSVWAFFAVIFLASYTANLAAFMIQEEYVDQVSGLSDKKFQRPNDFSPPFRFGTVPNGSTERNIRNNYAEMHAYMGKFNQRGVDDALLSLKTGKLDAFIYDAAVLNYMAGRDEGCKLVTIGSGKVFASTGYGIAIQKDSGWKRQVDLAILQLFGDGEMEELEALWLTGICHNEKNEVMSSQLDIDNMAGVFYMLGAAMALSLITFICEHLF",
+          "length": 842
+        }
+      ],
+      "citation": {
+        "country": "US",
+        "id": "primary",
+        "journal_abbrev": "Neuron",
+        "journal_id_ASTM": "NERNET",
+        "journal_id_CSD": "2038",
+        "journal_id_ISSN": "0896-6273",
+        "journal_volume": "113",
+        "page_first": "1006",
+        "pdbx_database_id_DOI": "10.1016/j.neuron.2025.01.021",
+        "pdbx_database_id_PubMed": 40010346,
+        "rcsb_ORCID_identifiers": [
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        "rcsb_authors": [
+          "Huang, X.",
+          "Sun, X.",
+          "Wang, Q.",
+          "Zhang, J.",
+          "Wen, H.",
+          "Chen, W.J.",
+          "Zhu, S."
+        ],
+        "rcsb_journal_abbrev": "Neuron",
+        "title": "Structural insights into the diverse actions of magnesium on NMDA receptors.",
+        "year": 2025
+      },
+      "depositedLigands": [
+        {
+          "id": "GLY",
+          "name": "GLYCINE"
+        },
+        {
+          "id": "NAG",
+          "name": "2-acetamido-2-deoxy-beta-D-glucopyranose"
+        },
+        {
+          "id": "7RC",
+          "name": "(2R)-4-(3-phosphonopropyl)piperazine-2-carboxylic acid"
+        }
+      ]
+    },
+    {
+      "id": "IL6",
+      "pdb": "1ALU",
+      "name": "Interleukin-6",
+      "context": "Cytokine signalling",
+      "genes": [
+        "IL6"
+      ],
+      "geneIds": [
+        3569
+      ],
+      "chains": [
+        "A"
+      ],
+      "ligands": [],
+      "contextChains": [],
+      "note": "Crystal structure of human interleukin-6. The deposited model represents the cytokine; it does not include its receptor complex.",
+      "title": "HUMAN INTERLEUKIN-6",
+      "resolution": 1.9,
+      "method": "X-RAY DIFFRACTION",
+      "source": "https://www.rcsb.org/structure/1ALU",
+      "sha256": "2b3f9bf4c873316e8d6300941dd0f741cda37b9104f6e4e7acb47255e824c03e",
+      "retrieved": "2026-10-21",
+      "sequenceType": "Deposited protein construct",
+      "sequences": [
+        {
+          "chain": "A",
+          "authorChain": "A",
+          "name": "INTERLEUKIN-6",
+          "sequence": "MAPVPPGEDSKDVAAPHRQPLTSSERIDKQIRYILDGISALRKETCNKSNMCESSKEALAENNLNLPKMAEKDGCFQSGFNEETCLVKIITGLLEFEVYLEYLQNRFESSEEQARAVQMSTKVLIQFLQKKAKNLDAITTPDPTTNASLLTKLQAQNQWLQDMTTHLILRSFKEFLQSSLRALRQM",
+          "length": 186
+        }
+      ],
+      "citation": {
+        "country": "UK",
+        "id": "primary",
+        "journal_abbrev": "EMBO J.",
+        "journal_id_ASTM": "EMJODG",
+        "journal_id_CSD": "0897",
+        "journal_id_ISSN": "0261-4189",
+        "journal_volume": "16",
+        "page_first": "989",
+        "page_last": "997",
+        "pdbx_database_id_DOI": "10.1093/emboj/16.5.989",
+        "pdbx_database_id_PubMed": 9118960,
+        "rcsb_ORCID_identifiers": [
+          "?",
+          "?",
+          "?"
+        ],
+        "rcsb_authors": [
+          "Somers, W.",
+          "Stahl, M.",
+          "Seehra, J.S."
+        ],
+        "rcsb_journal_abbrev": "EMBO J",
+        "title": "1.9 A crystal structure of interleukin 6: implications for a novel mode of receptor dimerization and signaling.",
+        "year": 1997
+      },
+      "depositedLigands": [
+        {
+          "id": "SO4",
+          "name": "SULFATE ION"
+        },
+        {
+          "id": "TLA",
+          "name": "L(+)-TARTARIC ACID"
+        }
+      ]
+    },
+    {
+      "id": "NR3C1",
+      "pdb": "1M2Z",
+      "name": "Glucocorticoid receptor",
+      "context": "Glucocorticoid signalling",
+      "genes": [
+        "NR3C1"
+      ],
+      "geneIds": [
+        2908
+      ],
+      "chains": [
+        "A",
+        "C"
+      ],
+      "ligands": [
+        "DEX"
+      ],
+      "contextChains": [
+        "B",
+        "D"
+      ],
+      "note": "Ligand-binding domains with dexamethasone and TIF2 coactivator motifs. This partial, engineered construct does not contain the full glucocorticoid receptor or its DNA-binding domain.",
+      "title": "Crystal structure of a dimer complex of the human glucocorticoid receptor ligand-binding domain bound to dexamethasone and a TIF2 coactivator motif",
+      "resolution": 2.5,
+      "method": "X-RAY DIFFRACTION",
+      "source": "https://www.rcsb.org/structure/1M2Z",
+      "sha256": "b85290f126ed2220beb5907b59d9311239a8a9e79d4ad28ff6da7328b445bd10",
+      "retrieved": "2026-10-21",
+      "sequenceType": "Deposited protein construct",
+      "sequences": [
+        {
+          "chain": "A",
+          "authorChain": "A",
+          "name": "glucocorticoid receptor",
+          "sequence": "VPATLPQLTPTLVSLLEVIEPEVLYAGYDSSVPDSTWRIMTTLNMLGGRQVIAAVKWAKAIPGFRNLHLDDQMTLLQYSWMSLMAFALGWRSYRQSSANLLCFAPDLIINEQRMTLPCMYDQCKHMLYVSSELHRLQVSYEEYLCMKTLLLLSSVPKDGLKSQELFDEIRMTYIKELGKAIVKREGNSSQNWQRFYQLTKLLDSMHEVVENLLNYCFQTFLDKTMSIEFPEMLAEIITNQIPKYSNGNIKKLLFHQK",
+          "length": 257
+        },
+        {
+          "chain": "C",
+          "authorChain": "D",
+          "name": "glucocorticoid receptor",
+          "sequence": "VPATLPQLTPTLVSLLEVIEPEVLYAGYDSSVPDSTWRIMTTLNMLGGRQVIAAVKWAKAIPGFRNLHLDDQMTLLQYSWMSLMAFALGWRSYRQSSANLLCFAPDLIINEQRMTLPCMYDQCKHMLYVSSELHRLQVSYEEYLCMKTLLLLSSVPKDGLKSQELFDEIRMTYIKELGKAIVKREGNSSQNWQRFYQLTKLLDSMHEVVENLLNYCFQTFLDKTMSIEFPEMLAEIITNQIPKYSNGNIKKLLFHQK",
+          "length": 257
+        }
+      ],
+      "citation": {
+        "country": "US",
+        "id": "primary",
+        "journal_abbrev": "Cell(Cambridge,Mass.)",
+        "journal_id_ASTM": "CELLB5",
+        "journal_id_CSD": "0998",
+        "journal_id_ISSN": "0092-8674",
+        "journal_volume": "110",
+        "page_first": "93",
+        "page_last": "105",
+        "pdbx_database_id_DOI": "10.1016/S0092-8674(02)00817-6",
+        "pdbx_database_id_PubMed": 12151000,
+        "rcsb_ORCID_identifiers": [
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        "rcsb_authors": [
+          "Bledsoe, R.B.",
+          "Montana, V.G.",
+          "Stanley, T.B.",
+          "Delves, C.J.",
+          "Apolito, C.J.",
+          "Mckee, D.D.",
+          "Consler, T.G.",
+          "Parks, D.J.",
+          "Stewart, E.L.",
+          "Willson, T.M.",
+          "Lambert, M.H.",
+          "Moore, J.T.",
+          "Pearce, K.H.",
+          "Xu, H.E."
+        ],
+        "rcsb_journal_abbrev": "Cell",
+        "title": "Crystal Structure of the Glucocorticoid Receptor Ligand Binding Domain Reveals a Novel Mode of Receptor Dimerization and Coactivator Recognition",
+        "year": 2002
+      },
+      "depositedLigands": [
+        {
+          "id": "BOG",
+          "name": "octyl beta-D-glucopyranoside"
+        },
+        {
+          "id": "DEX",
+          "name": "DEXAMETHASONE"
+        }
+      ]
+    },
+    {
+      "id": "DOCK2",
+      "pdb": "6TGB",
+      "name": "Dedicator of cytokinesis 2",
+      "context": "RAC activation \u00b7 immune-cell migration",
+      "genes": [
+        "DOCK2"
+      ],
+      "geneIds": [
+        1794
+      ],
+      "chains": [
+        "A",
+        "C"
+      ],
+      "ligands": [],
+      "contextChains": [
+        "B"
+      ],
+      "note": "DOCK2 from the deposited DOCK2\u2013ELMO1 complex. ELMO1 is available in the complex layer. At 5.50 \u00c5 resolution, fine atomic details require cautious interpretation.",
+      "title": "CryoEM structure of the binary DOCK2-ELMO1 complex",
+      "resolution": 5.5,
+      "method": "ELECTRON MICROSCOPY",
+      "source": "https://www.rcsb.org/structure/6TGB",
+      "sha256": "6a42f297e03f533faa40bc6f5bbec85024395b3391c37634e38067deaec0d367",
+      "retrieved": "2026-10-21",
+      "sequenceType": "Deposited protein construct",
+      "sequences": [
+        {
+          "chain": "A",
+          "authorChain": "A",
+          "name": "Dedicator of cytokinesis protein 2",
+          "sequence": "MAPWRKADKERHGVAIYNFQGSGAPQLSLQIGDVVRIQETCGDWYRGYLIKHKMLQGIFPKSFIHIKEVTVEKRRNTENIIPAEIPLAQEVTTTLWEWGSIWKQLYVASKKERFLQVQSMMYDLMEWRSQLLSGTLPKDELKELKQKVTSKIDYGNKILELDLIVRDEDGNILDPDNTSVISLFHAHEEATDKITERIKEEMSKDQPXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXGFPEIIMPGDVRNDIYITLLQGDFDKYNKTTQRNVEVIMCVCAEDGKTLPNAICVGAGDKPMNEYRSVVYYQVKQPRWMETVKVAVPIEDMQRIHLRFMFRHRSSLESKDKGEKNFAMSYVKLMKEDGTTLHDGFHDLVVLKGDSKKMEDASAYLTLPSYRHHVENKGATLSRSSSSVGGLSVSSRDVFSISTLVCSTXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXIMMEHSQSDEYDILVFDALIYIIGLIADRKFQXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSSELVDFLMETFIMFKDLIGKNVYPGDWMAMSMVQNRVFLRAINKFAETMNQKFLEHTNFEFQLWNNYFHLAVAFITQDSLQLEQFSHAKYNKILNKYGDMRRLIGFSIRDMWYKLGQNKICFIPGMVGPILEMTLIPEAELRKATIPIFFDMMLCEYQRSGDFKKFENEIILKLDHEVEGGRGDEQYMQLLESILMECAAEHPTIAKSVENFVNLVKGLLEKLLDYRGVMTDESKDNRMSCTVNLLNFYKDNNREEMYIRYLYKLRDLHLDCDNYTEAAYTLLLHTWLLKWSDEQCASQVMQTGQQHPQTHRQLKETLYETIIGYFDKGKMWEEAISLCKELAEQYEMEIFDYELLSQNLIQQAKFYESIMKILRPKPDYFAVGYYGQGFPSFLRNKVFIYRGKEYERREDFQMQLMTQFPNAEKMNTTSAPGDDVKNAPGQYIQCFTVQPVLDEHPRFKNKPVPDQIINFYKSNYVQRFHYSRPVRRGTVDPENEFASMWIERTSFVTAYKLPGILRWFEVVHMSQTTISPLENAIETMSTANEKILMMINQYQSDETLPINPLSMLLNGIVDPAVMGGFAKYEKAFFTEEYVRDHPEDQDKLTHLKDLIAWQIPFLGAGIKIHEKRVSDNLRPFHDRMEECFKNLKMKVEKEYGVREMPDFDDRRVGRPRSMLRSYRQMSIISLASMNSDCSTPSKPTSESFDLELASPKTPRVEQEEPISPGSTLPEVKLRRSKKRTKRSSVVFADEKAAAESDLKRLSRKHEFMSDTNLSEHAAIPLKASVLSQMSFASQSMPTIPALALSVAGIPGLDEANTSPRLSQTFLQLSDGDKKTLTRKKVNQFFKTMLASKSAEEGKQIPDSLSTDL",
+          "length": 1830
+        },
+        {
+          "chain": "C",
+          "authorChain": "D",
+          "name": "Dedicator of cytokinesis protein 2",
+          "sequence": "MAPWRKADKERHGVAIYNFQGSGAPQLSLQIGDVVRIQETCGDWYRGYLIKHKMLQGIFPKSFIHIKEVTVEKRRNTENIIPAEIPLAQEVTTTLWEWGSIWKQLYVASKKERFLQVQSMMYDLMEWRSQLLSGTLPKDELKELKQKVTSKIDYGNKILELDLIVRDEDGNILDPDNTSVISLFHAHEEATDKITERIKEEMSKDQPXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXGFPEIIMPGDVRNDIYITLLQGDFDKYNKTTQRNVEVIMCVCAEDGKTLPNAICVGAGDKPMNEYRSVVYYQVKQPRWMETVKVAVPIEDMQRIHLRFMFRHRSSLESKDKGEKNFAMSYVKLMKEDGTTLHDGFHDLVVLKGDSKKMEDASAYLTLPSYRHHVENKGATLSRSSSSVGGLSVSSRDVFSISTLVCSTXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXIMMEHSQSDEYDILVFDALIYIIGLIADRKFQXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXSSELVDFLMETFIMFKDLIGKNVYPGDWMAMSMVQNRVFLRAINKFAETMNQKFLEHTNFEFQLWNNYFHLAVAFITQDSLQLEQFSHAKYNKILNKYGDMRRLIGFSIRDMWYKLGQNKICFIPGMVGPILEMTLIPEAELRKATIPIFFDMMLCEYQRSGDFKKFENEIILKLDHEVEGGRGDEQYMQLLESILMECAAEHPTIAKSVENFVNLVKGLLEKLLDYRGVMTDESKDNRMSCTVNLLNFYKDNNREEMYIRYLYKLRDLHLDCDNYTEAAYTLLLHTWLLKWSDEQCASQVMQTGQQHPQTHRQLKETLYETIIGYFDKGKMWEEAISLCKELAEQYEMEIFDYELLSQNLIQQAKFYESIMKILRPKPDYFAVGYYGQGFPSFLRNKVFIYRGKEYERREDFQMQLMTQFPNAEKMNTTSAPGDDVKNAPGQYIQCFTVQPVLDEHPRFKNKPVPDQIINFYKSNYVQRFHYSRPVRRGTVDPENEFASMWIERTSFVTAYKLPGILRWFEVVHMSQTTISPLENAIETMSTANEKILMMINQYQSDETLPINPLSMLLNGIVDPAVMGGFAKYEKAFFTEEYVRDHPEDQDKLTHLKDLIAWQIPFLGAGIKIHEKRVSDNLRPFHDRMEECFKNLKMKVEKEYGVREMPDFDDRRVGRPRSMLRSYRQMSIISLASMNSDCSTPSKPTSESFDLELASPKTPRVEQEEPISPGSTLPEVKLRRSKKRTKRSSVVFADEKAAAESDLKRLSRKHEFMSDTNLSEHAAIPLKASVLSQMSFASQSMPTIPALALSVAGIPGLDEANTSPRLSQTFLQLSDGDKKTLTRKKVNQFFKTMLASKSAEEGKQIPDSLSTDL",
+          "length": 1830
+        }
+      ],
+      "citation": {
+        "country": "UK",
+        "id": "primary",
+        "journal_abbrev": "Nat Commun",
+        "journal_id_ISSN": "2041-1723",
+        "journal_volume": "11",
+        "page_first": "3464",
+        "page_last": "3464",
+        "pdbx_database_id_DOI": "10.1038/s41467-020-17271-9",
+        "pdbx_database_id_PubMed": 32651375,
+        "rcsb_ORCID_identifiers": [
+          "?",
+          "?",
+          "0000-0002-7819-8307",
+          "0000-0003-1218-6714",
+          "0000-0002-7268-9631",
+          "0000-0001-9135-6253",
+          "0000-0002-7848-3327",
+          "?",
+          "0000-0003-2896-9350",
+          "0000-0001-7055-2642",
+          "0000-0001-8810-950X"
+        ],
+        "rcsb_authors": [
+          "Chang, L.",
+          "Yang, J.",
+          "Jo, C.H.",
+          "Boland, A.",
+          "Zhang, Z.",
+          "McLaughlin, S.H.",
+          "Abu-Thuraia, A.",
+          "Killoran, R.C.",
+          "Smith, M.J.",
+          "Cote, J.F.",
+          "Barford, D."
+        ],
+        "rcsb_journal_abbrev": "Nat Commun",
+        "title": "Structure of the DOCK2-ELMO1 complex provides insights into regulation of the auto-inhibited state.",
+        "year": 2020
+      },
+      "depositedLigands": []
+    },
+    {
+      "id": "CD38",
+      "pdb": "1YH3",
+      "name": "CD38 extracellular domain",
+      "context": "NAD metabolism \u00b7 calcium signalling",
+      "genes": [
+        "CD38"
+      ],
+      "geneIds": [
+        952
+      ],
+      "chains": [
+        "A"
+      ],
+      "ligands": [],
+      "contextChains": [
+        "B"
+      ],
+      "note": "Engineered extracellular domain of human CD38. The membrane-spanning region is absent. A second deposited copy is available in the complex layer.",
+      "title": "Crystal structure of human CD38 extracellular domain",
+      "resolution": 1.91,
+      "method": "X-RAY DIFFRACTION",
+      "source": "https://www.rcsb.org/structure/1YH3",
+      "sha256": "067d78c80288a67a7437ccdb7422e67e0a8fbc11288993c09079198b21633632",
+      "retrieved": "2026-10-21",
+      "sequenceType": "Deposited protein construct",
+      "sequences": [
+        {
+          "chain": "A",
+          "authorChain": "A",
+          "name": "ADP-ribosyl cyclase 1",
+          "sequence": "RWRQTWSGPGTTKRFPETVLARCVKYTEIHPEMRHVDCQSVWDAFKGAFISKHPCDITEEDYQPLMKLGTQTVPCNKILLWSRIKDLAHQFTQVQRDMFTLEDTLLGYLADDLTWCGEFATSKINYQSCPDWRKDCSNNPVSVFWKTVSRRFAEAACDVVHVMLDGSRSKIFDKDSTFGSVEVHNLQPEKVQTLEAWVIHGGREDSRDLCQDPTIKELESIISKRNIQFSCKNIYRPDKFLQCVKNPEDSSCTSEI",
+          "length": 256
+        }
+      ],
+      "citation": {
+        "country": "UK",
+        "id": "primary",
+        "journal_abbrev": "Structure",
+        "journal_id_ASTM": "STRUE6",
+        "journal_id_CSD": "2005",
+        "journal_id_ISSN": "0969-2126",
+        "journal_volume": "13",
+        "page_first": "1331",
+        "page_last": "1339",
+        "pdbx_database_id_DOI": "10.1016/j.str.2005.05.012",
+        "pdbx_database_id_PubMed": 16154090,
+        "rcsb_ORCID_identifiers": [
+          "?",
+          "?",
+          "?",
+          "?",
+          "?",
+          "?"
+        ],
+        "rcsb_authors": [
+          "Liu, Q.",
+          "Kriksunov, I.A.",
+          "Graeff, R.",
+          "Munshi, C.",
+          "Lee, H.C.",
+          "Hao, Q."
+        ],
+        "rcsb_journal_abbrev": "Structure",
+        "title": "Crystal structure of human CD38 extracellular domain.",
+        "year": 2005
+      },
+      "depositedLigands": []
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "passed": true,
+  "at": "2026-10-25T00:44:52.743Z",
+  "source_commit": "cb818413",
+  "changed_assets": 3,
+  "unchanged_assets_verified": 5,
+  "assets": [
+    {
+      "path": "Informatics/index.html",
+      "url": "https://staging.universalmind.tv/informatics/index.html",
+      "http": 200,
+      "sha256": "a221892dca1c9f18f28f9eac2097a92ed881952da42842acaf26b21506cac4a3"
+    },
+    {
+      "path": "Informatics/quantum/index.html",
+      "url": "https://staging.universalmind.tv/informatics/quantum/index.html",
+      "http": 200,
+      "sha256": "8135ed7bfeeff443c6f30b0ba82ddabc33e780796a561103bd6c526c9194ef9b"
+    },
+    {
+      "path": "Informatics/quantum/biology.css",
+      "url": "https://staging.universalmind.tv/informatics/quantum/biology.css?v=5",
+      "http": 200,
+      "sha256": "6a049941229b53fb8dbd199cf9fe08a19df89a40de4cf0ad898cc816a9b64bf2"
+    },
+    {
+      "path": "Informatics/quantum/biology.js",
+      "url": "https://staging.universalmind.tv/informatics/quantum/biology.js",
+      "http": 200,
+      "sha256": "08c32b9905a3ce561e3ccfab183b392f411e32221f44410975732ebd273f5716"
+    },
+    {
+      "path": "Informatics/quantum/study.js",
+      "url": "https://staging.universalmind.tv/informatics/quantum/study.js",
+      "http": 200,
+      "sha256": "48e589bdc8f05a3aef672096e21359b928828cdd65f10eff507f216745438eb4"
+    },
+    {
+      "path": "Informatics/science.css",
+      "url": "https://staging.universalmind.tv/informatics/science.css",
+      "http": 200,
+      "sha256": "3b1dc08557873620e70bbce2ad13d4f9526971fcefaeb7e49e3b8216b1f7808f"
+    },
+    {
+      "path": "Informatics/science.js",
+      "url": "https://staging.universalmind.tv/informatics/science.js",
+      "http": 200,
+      "sha256": "3844b867a860e26cb0bc3113470759d4c49eee886f2d6591376dbf78516b3945"
+    },
+    {
+      "path": "Informatics/tfbs-geometry.js",
+      "url": "https://staging.universalmind.tv/informatics/tfbs-geometry.js",
+      "http": 200,
+      "sha256": "8ee3b7eb0dc5f7c60c44c5b01bed9f7b49371b1f34b5a512eae7dda082161e5d"
+    }
+  ]
+}

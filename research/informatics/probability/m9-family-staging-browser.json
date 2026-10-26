@@ -1,0 +1,95 @@
+{
+  "passed": true,
+  "mode": "deployed_staging",
+  "results": [
+    {
+      "modulus": 9,
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "probability": true,
+      "lightbox": true,
+      "downloads": true,
+      "originalAlignment": true,
+      "otherRecordsUnassigned": true,
+      "formationCounts": true,
+      "familySummary": true,
+      "focusReturn": true,
+      "musicContinuous": true,
+      "nativeFullscreenInvoked": false,
+      "errors": []
+    },
+    {
+      "modulus": 9,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "probability": true,
+      "lightbox": true,
+      "downloads": true,
+      "originalAlignment": true,
+      "otherRecordsUnassigned": true,
+      "formationCounts": true,
+      "familySummary": true,
+      "focusReturn": true,
+      "musicContinuous": true,
+      "nativeFullscreenInvoked": false,
+      "errors": []
+    },
+    {
+      "modulus": 18,
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "probability": true,
+      "lightbox": true,
+      "downloads": true,
+      "originalAlignment": true,
+      "otherRecordsUnassigned": true,
+      "formationCounts": true,
+      "familySummary": true,
+      "focusReturn": true,
+      "musicContinuous": true,
+      "nativeFullscreenInvoked": false,
+      "errors": []
+    },
+    {
+      "modulus": 18,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "probability": true,
+      "lightbox": true,
+      "downloads": true,
+      "originalAlignment": true,
+      "otherRecordsUnassigned": true,
+      "formationCounts": true,
+      "familySummary": true,
+      "focusReturn": true,
+      "musicContinuous": true,
+      "nativeFullscreenInvoked": false,
+      "errors": []
+    }
+  ],
+  "source_commit": "9ce661b47d0c874770c52b4f96ab0958239010d9",
+  "verified_on": "2026-10-18",
+  "process_audio_disabled": true,
+  "direct_family_link": {
+    "url": "https://staging.universalmind.tv/informatics/?atlas=1&record=m-summary",
+    "passed": true,
+    "counts": [
+      "Native 2D stellated octahedrons: 4 across Alpha \u00b7 1 in primary Gamma",
+      "Native 2D stellated octahedrons: 4 across Alpha \u00b7 1 in primary Gamma",
+      "Native 2D stellated octahedrons: 12 across Alpha \u00b7 3 in primary Gamma",
+      "Native 2D stellated octahedrons: 4 across Alpha \u00b7 1 in primary Gamma",
+      "Native 2D stellated octahedrons: 20 across Alpha \u00b7 5 in primary Gamma"
+    ],
+    "muted_process": true,
+    "native_fullscreen": false
+  },
+  "verified_after_completed_upload": true
+}

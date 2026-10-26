@@ -1,0 +1,50 @@
+{
+  "checkedAt": "2026-10-21T18:03:44.092093+00:00",
+  "results": [
+    {
+      "asset": "index.html",
+      "sha256": "e635fd904b9c1d9e170f4feb0bddd2eb39c9a71e0e8766f79780b469ceb72e9b",
+      "matchesCommittedSource": true
+    },
+    {
+      "asset": "library.html",
+      "sha256": "c6f9e1190ee1a4a2570b004f64c5d9f60906f8b32f114de16ee8e7dd5c7fb451",
+      "matchesCommittedSource": true
+    },
+    {
+      "asset": "library.css",
+      "sha256": "d392bc21564173c36256f8a914e0b2f0dbe977cefe5e4ccb77886821d224814b",
+      "matchesCommittedSource": true
+    },
+    {
+      "asset": "library-theme.js",
+      "sha256": "29419131491b488d2837d3de05117356e46caa0bd404be31657a32b5c91fd187",
+      "matchesCommittedSource": true
+    },
+    {
+      "asset": "library-launcher.js",
+      "sha256": "2ccca3944f2d6e51d3a7f250ec3dca45eec9eb41bc4a0bd27cb9324647972716",
+      "matchesCommittedSource": true
+    },
+    {
+      "asset": "library-launcher.css",
+      "sha256": "bd3957786ecb670508ae5d421d854429fd3ffb7a87f7d745b19e952cb01ec286",
+      "matchesCommittedSource": true
+    },
+    {
+      "asset": "app.js",
+      "sha256": "182650203d3dde0be99f950dad0dffa000d30ca979d74a47c0b7240b343349d8",
+      "matchesCommittedSource": true
+    },
+    {
+      "asset": "molecular-entry.css",
+      "sha256": "34e92170839e6613cd71325b857b5b3762fb6334f20bc9fae97a9d4fd2e18bd7",
+      "matchesCommittedSource": true
+    },
+    {
+      "asset": "molecular-entry.js",
+      "sha256": "8fdbb216f071349bfe7ca580076e0053de147bb0122014d9741d4486fe519ab2",
+      "matchesCommittedSource": true
+    }
+  ]
+}

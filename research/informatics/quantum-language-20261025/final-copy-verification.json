@@ -1,0 +1,61 @@
+{
+  "passed": true,
+  "at": "2026-10-25T03:30:02.802Z",
+  "audio_muted": true,
+  "ctcf_explained": true,
+  "two_samples_eight_measurement_preparations": true,
+  "independent_test_explained": true,
+  "live_gpt_receipt": "live-openai-receipt.json",
+  "final_copy_only": true,
+  "layouts": [
+    {
+      "viewport": 390,
+      "kind": "next",
+      "width": 368,
+      "scroll": 368
+    },
+    {
+      "viewport": 390,
+      "kind": "simulation",
+      "width": 368,
+      "scroll": 368
+    },
+    {
+      "viewport": 390,
+      "kind": "quantum",
+      "width": 368,
+      "scroll": 368
+    },
+    {
+      "viewport": 390,
+      "kind": "comparison",
+      "width": 368,
+      "scroll": 368
+    },
+    {
+      "viewport": 320,
+      "kind": "next",
+      "width": 298,
+      "scroll": 298
+    },
+    {
+      "viewport": 320,
+      "kind": "simulation",
+      "width": 298,
+      "scroll": 298
+    },
+    {
+      "viewport": 320,
+      "kind": "quantum",
+      "width": 298,
+      "scroll": 298
+    },
+    {
+      "viewport": 320,
+      "kind": "comparison",
+      "width": 298,
+      "scroll": 298
+    }
+  ],
+  "errors": []
+}

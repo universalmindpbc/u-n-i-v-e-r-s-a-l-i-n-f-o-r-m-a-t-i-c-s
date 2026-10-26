@@ -1,0 +1,697 @@
+{
+  "schemaVersion": "2026-10-26",
+  "records": [
+    {
+      "id": "vision-photoreceptor-mosaic-1998",
+      "title": "The photoreceptor mosaic",
+      "doi": "10.1038/eye.1998.142",
+      "pmid": "9775214",
+      "journal": "Eye",
+      "year": 1998,
+      "published": "1998-05",
+      "authors": "P K Ahnelt",
+      "urls": [
+        "https://www.nature.com/articles/eye1998142",
+        "https://doi.org/10.1038/eye.1998.142",
+        "https://pubmed.ncbi.nlm.nih.gov/9775214/"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "categories": [
+        "Vision geometry",
+        "Brain & nervous system"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Journal article",
+      "design": "Anatomical review of the human retinal photoreceptor mosaic",
+      "summary": "Ahnelt describes how human rods and cones are distributed across the retina. Cone packing is especially dense near the fovea; different cone populations have different arrangements. This provides biological context for exploring local packing and sampling geometry in Vision Atlas.",
+      "finding": "Ahnelt describes how human rods and cones are distributed across the retina. Cone packing is especially dense near the fovea; different cone populations have different arrangements. This provides biological context for exploring local packing and sampling geometry in Vision Atlas.",
+      "limitation": "The review does not demonstrate a universal perfect hexagonal retina, tetrahedral visual processing, or a Fibonacci mechanism. It is anatomical evidence, not an EMDR treatment trial or a quantum-stability experiment.",
+      "citationCount": 79,
+      "citationSnapshot": {
+        "count": 79,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Anatomical review of the human retinal photoreceptor mosaic. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://www.nature.com/articles/eye1998142",
+          "https://doi.org/10.1038/eye.1998.142",
+          "https://pubmed.ncbi.nlm.nih.gov/9775214/"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Anatomical review of the human retinal photoreceptor mosaic",
+        "evidenceClass": "anatomical_review",
+        "measurement": "Spatial sampling by retinal photoreceptor populations.",
+        "relationshipNote": "Compare the Atlas geometry with measured local packing, density and irregularity; retain the differences between retinal regions.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Vision Atlas citations",
+        "notionPage": null,
+        "reviewedAt": "2026-10-26"
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    {
+      "id": "vision-retinal-orientation-2011",
+      "title": "Retinal origin of orientation maps in visual cortex",
+      "doi": "10.1038/nn.2824",
+      "pmid": "21623365",
+      "journal": "Nature Neuroscience",
+      "year": 2011,
+      "published": "2011-05-29",
+      "authors": "Se-Bum Paik; Dario L Ringach",
+      "urls": [
+        "https://www.nature.com/articles/nn.2824",
+        "https://doi.org/10.1038/nn.2824",
+        "https://pubmed.ncbi.nlm.nih.gov/21623365/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3196663/"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "categories": [
+        "Vision geometry",
+        "Brain & nervous system"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Journal article",
+      "design": "Computational model with comparative visual-cortex observations",
+      "summary": "Paik and Ringach propose that interference between regularly spaced ON- and OFF-centre retinal ganglion-cell mosaics helps form orientation maps in visual cortex. Their model predicts hexagonal organisation of orientation-domain centres, with supporting patterns reported in four mammalian species.",
+      "finding": "Paik and Ringach propose that interference between regularly spaced ON- and OFF-centre retinal ganglion-cell mosaics helps form orientation maps in visual cortex. Their model predicts hexagonal organisation of orientation-domain centres, with supporting patterns reported in four mammalian species.",
+      "limitation": "This is a proposed developmental mechanism with supporting observations. It does not establish that all visual cortex follows this model, that humans prefer hexagons, or that retinal geometry stabilises quantum information.",
+      "citationCount": 151,
+      "citationSnapshot": {
+        "count": 151,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Computational model with comparative visual-cortex observations. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://www.nature.com/articles/nn.2824",
+          "https://doi.org/10.1038/nn.2824",
+          "https://pubmed.ncbi.nlm.nih.gov/21623365/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC3196663/"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Computational model with comparative visual-cortex observations",
+        "evidenceClass": "computational_model_and_observation",
+        "measurement": "Moiré interference between two spatial mosaics.",
+        "relationshipNote": "Test whether similar interference mathematics generates useful candidate patterns in the Atlas, then evaluate each physical system separately.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Vision Atlas citations",
+        "notionPage": null,
+        "reviewedAt": "2026-10-26"
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    {
+      "id": "vision-hexadirectional-2018",
+      "title": "Hexadirectional coding of visual space in human entorhinal cortex",
+      "doi": "10.1038/s41593-017-0050-8",
+      "pmid": "29311746",
+      "journal": "Nature Neuroscience",
+      "year": 2018,
+      "published": "2018-01-08",
+      "authors": "Matthias Nau; Tobias Navarro Schröder; Jacob L. S. Bellmund; Christian F. Doeller",
+      "urls": [
+        "https://www.nature.com/articles/s41593-017-0050-8",
+        "https://doi.org/10.1038/s41593-017-0050-8",
+        "https://pubmed.ncbi.nlm.nih.gov/29311746/"
+      ],
+      "collections": [
+        "vision"
+      ],
+      "categories": [
+        "Vision geometry",
+        "Brain & nervous system"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Journal article",
+      "design": "Human fMRI during controlled visual tracking",
+      "summary": "Nau and colleagues found a sixfold directional pattern in human entorhinal-cortex activity during a visual tracking task. The result supports a grid-like representation of visual space and gives Vision Atlas a measured example of sixfold organisation in brain activity.",
+      "finding": "Nau and colleagues found a sixfold directional pattern in human entorhinal-cortex activity during a visual tracking task. The result supports a grid-like representation of visual space and gives Vision Atlas a measured example of sixfold organisation in brain activity.",
+      "limitation": "An fMRI population signal is not a direct image of individual grid cells or proof of a tetrahedral eye mechanism. This study does not test Fibonacci sequences, EMDR outcomes, or quantum error correction.",
+      "citationCount": 196,
+      "citationSnapshot": {
+        "count": 196,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Human fMRI during controlled visual tracking. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://www.nature.com/articles/s41593-017-0050-8",
+          "https://doi.org/10.1038/s41593-017-0050-8",
+          "https://pubmed.ncbi.nlm.nih.gov/29311746/"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Human fMRI during controlled visual tracking",
+        "evidenceClass": "human_neuroimaging",
+        "measurement": "Sixfold rotational modulation of a population-level neural signal with gaze direction.",
+        "relationshipNote": "Use explicit rotational-symmetry tests with competing periodicities and independent data, rather than judging a pattern by visual resemblance.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Vision Atlas citations",
+        "notionPage": null,
+        "reviewedAt": "2026-10-26"
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    {
+      "id": "quantum-honeycomb-hastings-haah-2021",
+      "title": "Dynamically Generated Logical Qubits",
+      "doi": "10.22331/q-2021-10-19-564",
+      "pmid": null,
+      "journal": "Quantum",
+      "year": 2021,
+      "published": "2021-10-19",
+      "authors": "Matthew B. Hastings; Jeongwan Haah",
+      "urls": [
+        "https://quantum-journal.org/papers/q-2021-10-19-564/",
+        "https://doi.org/10.22331/q-2021-10-19-564"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Quantum computing",
+        "Geometry and information"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Journal article",
+      "design": "Theoretical quantum error-correcting code",
+      "summary": "Hastings and Haah construct a honeycomb code in which a repeating schedule of two-qubit measurements creates logical qubits. Information protection comes from the code and measurement sequence acting together on the lattice.",
+      "finding": "Hastings and Haah construct a honeycomb code in which a repeating schedule of two-qubit measurements creates logical qubits. Information protection comes from the code and measurement sequence acting together on the lattice.",
+      "limitation": "The paper does not show that a passive hexagon alone protects information. Implementing this code requires the specified measurements and decoding; the current Aquila workflow does not implement that procedure.",
+      "citationCount": 157,
+      "citationSnapshot": {
+        "count": 157,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Theoretical quantum error-correcting code. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://quantum-journal.org/papers/q-2021-10-19-564/",
+          "https://doi.org/10.22331/q-2021-10-19-564"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Theoretical quantum error-correcting code",
+        "evidenceClass": "quantum_error_correction_theory",
+        "measurement": "Dynamically generated logical qubits through scheduled two-qubit Pauli measurements.",
+        "relationshipNote": "Use the measurement schedule as a separate theoretical benchmark; distinguish logical error correction from longer physical-qubit coherence.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Verified follow-up to Gemini research notes",
+        "notionPage": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
+        "reviewedAt": "2026-10-26"
+      }
+    },
+    {
+      "id": "quantum-penrose-fibonacci-code-2024",
+      "title": "The Penrose Tiling is a Quantum Error-Correcting Code",
+      "doi": "10.48550/arXiv.2311.13040",
+      "pmid": null,
+      "journal": "arXiv",
+      "year": 2024,
+      "published": "2024-01-25",
+      "authors": "Zhi Li; Latham Boyle",
+      "urls": [
+        "https://arxiv.org/abs/2311.13040v2",
+        "https://doi.org/10.48550/arXiv.2311.13040"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Quantum computing",
+        "Geometry and information"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Preprint",
+      "design": "Theoretical preprint; version 2",
+      "summary": "Li and Boyle construct quantum error-correcting codes from Penrose tilings and variants based on Ammann–Beenker and Fibonacci tilings. Their construction connects nonperiodic geometric structure with the ability to recover information after local errors or erasures.",
+      "finding": "Li and Boyle construct quantum error-correcting codes from Penrose tilings and variants based on Ammann–Beenker and Fibonacci tilings. Their construction connects nonperiodic geometric structure with the ability to recover information after local errors or erasures.",
+      "limitation": "This is a mathematical construction in a preprint, not an experimental demonstration on Aquila. Its Fibonacci tilings are different from the Atlas M9 P24 sequences. A physical implementation and its resource requirements remain separate questions.",
+      "citationCount": null,
+      "citationSnapshot": {
+        "count": null,
+        "source": "Not available",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "preprint",
+        "peerReviewed": false,
+        "basis": "Theoretical preprint; version 2. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://arxiv.org/abs/2311.13040v2",
+          "https://doi.org/10.48550/arXiv.2311.13040"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Theoretical preprint; version 2",
+        "evidenceClass": "quantum_error_correction_preprint",
+        "measurement": "Quantum information stored in a tiling-based code with local indistinguishability and recoverability.",
+        "relationshipNote": "Study the explicit Fibonacci-tiling code and compare its mathematical requirements with our sequence representations before proposing a hardware mapping.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Verified follow-up to Gemini research notes",
+        "notionPage": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
+        "reviewedAt": "2026-10-26"
+      }
+    },
+    {
+      "id": "quantum-ibm-heavy-hex-2021",
+      "title": "The IBM Quantum heavy hex lattice",
+      "doi": null,
+      "pmid": null,
+      "journal": "IBM Quantum technical blog",
+      "year": 2021,
+      "published": "2021-07-07",
+      "authors": "Paul Nation; Hanhee Paik; Andrew Cross; Zaira Nazario",
+      "urls": [
+        "https://www.ibm.com/quantum/blog/heavy-hex-lattice"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Quantum computing",
+        "Geometry and information"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Technical article",
+      "design": "Hardware architecture explanation",
+      "summary": "IBM explains why its heavy-hex architecture uses a sparse pattern of superconducting-qubit connections. The design reduces frequency collisions and unwanted effects on neighbouring qubits while balancing connectivity and the operations required by a calculation.",
+      "finding": "IBM explains why its heavy-hex architecture uses a sparse pattern of superconducting-qubit connections. The design reduces frequency collisions and unwanted effects on neighbouring qubits while balancing connectivity and the operations required by a calculation.",
+      "limitation": "This is a vendor technical explanation, not a peer-reviewed Fibonacci study. Its benefits depend on superconducting hardware and control choices; the shape alone is not evidence of universal quantum stability.",
+      "citationCount": null,
+      "citationSnapshot": {
+        "count": null,
+        "source": "Not available",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "technical-article",
+        "peerReviewed": false,
+        "basis": "Hardware architecture explanation. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://www.ibm.com/quantum/blog/heavy-hex-lattice"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Hardware architecture explanation",
+        "evidenceClass": "vendor_technical_explanation",
+        "measurement": "Reduced connectivity to manage frequency collisions and spectator errors.",
+        "relationshipNote": "Compare connectivity, noise and operation overhead explicitly when evaluating alternative geometries.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Verified follow-up to Gemini research notes",
+        "notionPage": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
+        "reviewedAt": "2026-10-26"
+      }
+    },
+    {
+      "id": "quantum-heavy-hex-scaling-2026",
+      "title": "Surface code scaling on heavy-hex superconducting quantum processors",
+      "doi": "10.1038/s41467-026-76090-6",
+      "pmid": "42660895",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-07-29",
+      "authors": "Arian Vezvaee; Cesar Benito; Mario Morford-Oberst; Alejandro Bermudez; Daniel A. Lidar",
+      "urls": [
+        "https://www.nature.com/articles/s41467-026-76090-6",
+        "https://doi.org/10.1038/s41467-026-76090-6",
+        "https://pubmed.ncbi.nlm.nih.gov/42660895/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13522603/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Quantum computing",
+        "Geometry and information"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Journal article",
+      "design": "Superconducting quantum-processor experiment and modelling",
+      "summary": "The authors combine surface-code layouts and pulse control on IBM heavy-hex processors. Increasing code size along one direction improves protection of particular logical states. Their analysis shows why both state directions and coherent noise matter when assessing error suppression.",
+      "finding": "The authors combine surface-code layouts and pulse control on IBM heavy-hex processors. Increasing code size along one direction improves protection of particular logical states. Their analysis shows why both state directions and coherent noise matter when assessing error suppression.",
+      "limitation": "Directional improvements do not establish general below-threshold scaling. The paper identifies further noise reduction needed for balanced scaling. It does not test Fibonacci or M9 P24 sequences.",
+      "citationCount": 2,
+      "citationSnapshot": {
+        "count": 2,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Superconducting quantum-processor experiment and modelling. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://www.nature.com/articles/s41467-026-76090-6",
+          "https://doi.org/10.1038/s41467-026-76090-6",
+          "https://pubmed.ncbi.nlm.nih.gov/42660895/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC13522603/"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Superconducting quantum-processor experiment and modelling",
+        "evidenceClass": "quantum_hardware_experiment",
+        "measurement": "Code embedding, SWAP operations and dynamical decoupling on a constrained hardware graph.",
+        "relationshipNote": "Evaluate several initial states and an information-preservation metric; avoid declaring success from one favourable response or direction.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Verified follow-up to Gemini research notes",
+        "notionPage": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
+        "reviewedAt": "2026-10-26"
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    {
+      "id": "quantum-kagome-edge-states-2026",
+      "title": "Direct Observation\nof the Zigzag Edge States of a\nSupramolecular Diatomic Kagome Lattice",
+      "doi": "10.1021/acs.nanolett.6c03195",
+      "pmid": "42915366",
+      "journal": "Nano Letters",
+      "year": 2026,
+      "published": "2026-09-02",
+      "authors": "Ryohei Nemoto; Xiangzhi Meng; Behzad Mortezapour; Alexander Weismann; Saya Nakano; Masahisa Tsuchiizu; Ryuichi Arafune; Noriaki Takagi; Sho Nakamura; Katsunori Wakabayashi; Rie Suizu; Richard Berndt; Takashi Uchihashi; Kunio Awaga",
+      "urls": [
+        "https://doi.org/10.1021/acs.nanolett.6c03195",
+        "https://pubmed.ncbi.nlm.nih.gov/42915366/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Quantum computing",
+        "Geometry and information"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Journal article",
+      "design": "Molecular-lattice microscopy and tight-binding calculations",
+      "summary": "The authors assembled a molecular diatomic kagome lattice and observed electronic states along its zigzag edges. Microscopy and calculations connect these states to the lattice's electronic structure and topology.",
+      "finding": "The authors assembled a molecular diatomic kagome lattice and observed electronic states along its zigzag edges. Microscopy and calculations connect these states to the lattice's electronic structure and topology.",
+      "limitation": "This is a quantum-materials result, not a demonstration of a longer-lived qubit or an error-correcting computer. It provides an example of geometry changing electronic behaviour, without establishing a Fibonacci mechanism.",
+      "citationCount": 0,
+      "citationSnapshot": {
+        "count": 0,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Molecular-lattice microscopy and tight-binding calculations. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://doi.org/10.1021/acs.nanolett.6c03195",
+          "https://pubmed.ncbi.nlm.nih.gov/42915366/"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Molecular-lattice microscopy and tight-binding calculations",
+        "evidenceClass": "quantum_materials_experiment",
+        "measurement": "Topological electronic edge states in a molecular lattice.",
+        "relationshipNote": "Compare edge and bulk observables in an explicitly defined Hamiltonian; treat this as a materials analogy until a quantum-information observable is tested.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Verified follow-up to Gemini research notes",
+        "notionPage": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
+        "reviewedAt": "2026-10-26"
+      }
+    },
+    {
+      "id": "quantum-rydberg-local-error-correction-2024",
+      "title": "Enhancing detection of topological order by local error correction",
+      "doi": "10.1038/s41467-024-45584-6",
+      "pmid": "38378727",
+      "journal": "Nature Communications",
+      "year": 2024,
+      "published": "2024-02-20",
+      "authors": "Iris Cong; Nishad Maskara; Minh C. Tran; Hannes Pichler; Giulia Semeghini; Susanne F. Yelin; Soonwon Choi; Mikhail D. Lukin",
+      "urls": [
+        "https://www.nature.com/articles/s41467-024-45584-6",
+        "https://doi.org/10.1038/s41467-024-45584-6",
+        "https://pubmed.ncbi.nlm.nih.gov/38378727/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10879205/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Quantum computing",
+        "Geometry and information"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Journal article",
+      "design": "Numerical modelling and analysis of Rydberg-atom measurements",
+      "summary": "Cong and colleagues use local error-correction ideas to identify topological order despite noise. They test the method numerically and apply it to measurements from a Rydberg-atom quantum spin liquid, making it directly relevant to analysing neutral-atom experiments.",
+      "finding": "Cong and colleagues use local error-correction ideas to identify topological order despite noise. They test the method numerically and apply it to measurements from a Rydberg-atom quantum spin liquid, making it directly relevant to analysing neutral-atom experiments.",
+      "limitation": "The method improves the diagnosis of a prepared state. It is not a demonstration that Aquila stores arbitrary information fault-tolerantly, and it does not test M9 P24 sequences.",
+      "citationCount": 25,
+      "citationSnapshot": {
+        "count": 25,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Numerical modelling and analysis of Rydberg-atom measurements. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://www.nature.com/articles/s41467-024-45584-6",
+          "https://doi.org/10.1038/s41467-024-45584-6",
+          "https://pubmed.ncbi.nlm.nih.gov/38378727/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10879205/"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Numerical modelling and analysis of Rydberg-atom measurements",
+        "evidenceClass": "numerical_and_quantum_experimental_data_analysis",
+        "measurement": "Locally error-corrected decoration of measured correlations to identify topological order.",
+        "relationshipNote": "Investigate whether the required correlation measurements and state preparation are available in our neutral-atom model before adopting the diagnostic.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Verified follow-up to Gemini research notes",
+        "notionPage": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
+        "reviewedAt": "2026-10-26"
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    {
+      "id": "quantum-haah-fractal-code-2011",
+      "title": "Local stabilizer codes in three dimensions without string logical operators",
+      "doi": "10.1103/PhysRevA.83.042330",
+      "pmid": null,
+      "journal": "Physical Review A",
+      "year": 2011,
+      "published": "2011-04-22",
+      "authors": "Jeongwan Haah",
+      "urls": [
+        "https://doi.org/10.1103/PhysRevA.83.042330"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Quantum computing",
+        "Geometry and information"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Journal article",
+      "design": "Theoretical three-dimensional stabilizer codes",
+      "summary": "Haah constructs local stabilizer codes in three dimensions without string-like logical operators. The work introduces a different geometric organisation of information and errors, associated with the fractal structure of logical operations in the cubic-code family.",
+      "finding": "Haah constructs local stabilizer codes in three dimensions without string-like logical operators. The work introduces a different geometric organisation of information and errors, associated with the fractal structure of logical operations in the cubic-code family.",
+      "limitation": "This is code theory, not evidence that any fractal pattern stabilises a physical quantum computer. It does not demonstrate a Fibonacci connection or a complete self-correcting memory operating at finite temperature.",
+      "citationCount": 591,
+      "citationSnapshot": {
+        "count": 591,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Theoretical three-dimensional stabilizer codes. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://doi.org/10.1103/PhysRevA.83.042330"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Theoretical three-dimensional stabilizer codes",
+        "evidenceClass": "quantum_error_correction_theory",
+        "measurement": "Three-dimensional local constraints and non-string logical operators.",
+        "relationshipNote": "Compare exact code properties and noise response before drawing connections between fractal appearance and information protection.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Verified follow-up to Gemini research notes",
+        "notionPage": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
+        "reviewedAt": "2026-10-26"
+      }
+    }
+  ]
+}

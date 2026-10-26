@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "mutedProcessConfirmed": true,
+  "genomicsDeployedChecksumMatches": true,
+  "results": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "aboutGenomicsLightbox": true,
+      "returnsToAbout": true,
+      "publications": 14,
+      "heroReferences": 4,
+      "registerScope": "M1–M1001",
+      "directGenomicsRegister": true,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "aboutGenomicsLightbox": true,
+      "returnsToAbout": true,
+      "publications": 14,
+      "heroReferences": 4,
+      "registerScope": "M1–M1001",
+      "directGenomicsRegister": true,
+      "errors": []
+    }
+  ]
+}

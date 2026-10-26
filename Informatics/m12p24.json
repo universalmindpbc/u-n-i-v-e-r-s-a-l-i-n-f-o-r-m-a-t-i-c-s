@@ -1,0 +1,307 @@
+{
+  "schema_version": "1.1.0",
+  "id": "fibonacci-m12-p24",
+  "name": "Fibonacci M12P24",
+  "modulus": 12,
+  "pisano_period": 24,
+  "conventions": {
+    "index_origin": 0,
+    "clock_labels": [
+      24,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "orientation": "clockwise from north",
+    "zero_display": 12,
+    "alpha_circle_positions": 24,
+    "beta_circle_positions": 12,
+    "node_rule": "Native residues divisible by 3, including zero; no modulo9 projection."
+  },
+  "alpha": {
+    "residues": [
+      0,
+      1,
+      1,
+      2,
+      3,
+      5,
+      8,
+      1,
+      9,
+      10,
+      7,
+      5,
+      0,
+      5,
+      5,
+      10,
+      3,
+      1,
+      4,
+      5,
+      9,
+      2,
+      11,
+      1
+    ],
+    "display_values": [
+      12,
+      1,
+      1,
+      2,
+      3,
+      5,
+      8,
+      1,
+      9,
+      10,
+      7,
+      5,
+      12,
+      5,
+      5,
+      10,
+      3,
+      1,
+      4,
+      5,
+      9,
+      2,
+      11,
+      1
+    ]
+  },
+  "beta": {
+    "interval_sums": [
+      4,
+      14,
+      22,
+      20,
+      10,
+      14
+    ],
+    "interval_residues": [
+      4,
+      2,
+      10,
+      8,
+      10,
+      2
+    ],
+    "display_cycle": [
+      4,
+      2,
+      10,
+      8,
+      10,
+      2
+    ],
+    "recognised_doubling_cycle": null,
+    "rotation_to_recognised": null,
+    "start_value": 4,
+    "start_interval_clock_positions": [
+      24,
+      4
+    ],
+    "start_interval_values": [
+      1,
+      1,
+      2
+    ],
+    "endpoint_rule": "Exclude Gamma nodes; include wraparound interval.",
+    "circle_positions": 12,
+    "cycle_length": 6,
+    "m9_doubling_cycle_present": false
+  },
+  "gamma": {
+    "alpha_indices": [
+      0,
+      4,
+      8,
+      12,
+      16,
+      20
+    ],
+    "clock_positions": [
+      24,
+      4,
+      8,
+      12,
+      16,
+      20
+    ],
+    "clockwise_values": [
+      12,
+      3,
+      9,
+      12,
+      3,
+      9
+    ],
+    "triangle_paths": [
+      [
+        0,
+        8,
+        16,
+        0
+      ],
+      [
+        4,
+        12,
+        20,
+        4
+      ]
+    ]
+  },
+  "epsilon": null,
+  "epsilon_status": "Null: requires sequential mapping of all three values 3, 6 and 9. M12/P24 contains no 6.",
+  "views": [
+    {
+      "id": "alpha",
+      "name": "Alpha",
+      "description": "Clock position 24 is north; zero is displayed as 12.",
+      "svg": "views/m12/alpha.svg?v=2",
+      "png": "views/m12/alpha.png?v=2"
+    },
+    {
+      "id": "beta",
+      "name": "Beta",
+      "description": "Interval-derived sequence; not a doubling cycle modulo 12.",
+      "svg": "views/m12/beta.svg?v=2",
+      "png": "views/m12/beta.png?v=2"
+    },
+    {
+      "id": "gamma",
+      "name": "Gamma",
+      "description": "Same nodal positions as M9; different native values.",
+      "svg": "views/m12/gamma.svg?v=2",
+      "png": "views/m12/gamma.png?v=2"
+    },
+    {
+      "id": "fibonacci-m12p24",
+      "name": "Fibonacci M12P24",
+      "description": "Alpha uses 24 positions; Beta uses twelve positions.",
+      "svg": "views/m12/fibonacci-m12p24.svg?v=2",
+      "png": "views/m12/fibonacci-m12p24.png?v=2"
+    }
+  ],
+  "research": {
+    "focus": "OXTR gene expression",
+    "biological_significance_status": "Not yet assessed",
+    "statistical_significance_status": "Not yet assessed",
+    "quantum_annealing_status": "Not yet performed"
+  },
+  "verification": {
+    "python": "Exact state recurrence, node positions, triangle spacing and native doubling checked.",
+    "wolfram": "Pending independent verification."
+  },
+  "geometry_summary": {
+    "rule_version": "selected-nodes-v2",
+    "scope": "Selected Gamma nodes, derived Beta and Epsilon traversal only. Other node selections and rotated shapes are not yet assessed.",
+    "circle_role": "Pisano-period plotting framework",
+    "angle_convention": "Clockwise from north; 0 degrees means the reference north-south alignment.",
+    "shapes": [
+      {
+        "name": "Equilateral triangle",
+        "status": "Present",
+        "count": 2,
+        "orientation": "North / south",
+        "rotation_degrees": 0,
+        "alpha_paths": [
+          [
+            0,
+            8,
+            16,
+            0
+          ],
+          [
+            4,
+            12,
+            20,
+            4
+          ]
+        ]
+      },
+      {
+        "name": "Hexagon",
+        "status": "Present",
+        "count": 1,
+        "orientation": "North\u2013south",
+        "rotation_degrees": 0,
+        "alpha_paths": [
+          [
+            0,
+            4,
+            8,
+            12,
+            16,
+            20,
+            0
+          ]
+        ]
+      },
+      {
+        "name": "2D stellated octahedron",
+        "status": "Present",
+        "count": 1,
+        "orientation": "North\u2013south",
+        "rotation_degrees": 0,
+        "alpha_paths": [
+          [
+            0,
+            8,
+            16,
+            0
+          ],
+          [
+            4,
+            12,
+            20,
+            4
+          ]
+        ],
+        "definition": "Two intersecting equilateral triangles in this 2D construction."
+      },
+      {
+        "name": "Chevron",
+        "status": "Absent",
+        "count": 0,
+        "orientation": null,
+        "rotation_degrees": null,
+        "beta_values": []
+      },
+      {
+        "name": "Unicursal hexagram",
+        "status": "Absent",
+        "count": 0,
+        "orientation": null,
+        "rotation_degrees": null,
+        "alpha_paths": [],
+        "traversal_values": [],
+        "rule": "The continuous Epsilon traversal must contain all three node values 3, 6 and 9."
+      }
+    ],
+    "other_orientations_status": "Not yet assessed"
+  }
+}

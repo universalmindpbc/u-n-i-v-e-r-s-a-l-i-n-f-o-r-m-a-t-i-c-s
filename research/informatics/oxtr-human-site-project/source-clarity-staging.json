@@ -1,0 +1,270 @@
+{
+  "deployed_source_commit": "24440fdf729b64a4089135494e09f4e71b79e4a9",
+  "verified_at_utc": "2026-10-19T21:52:44.103578+00:00",
+  "staging_url": "https://staging.universalmind.tv/informatics/?atlas=1&record=fibonacci-m9-p24",
+  "scope": "Prominent source definitions, evidence priority, positive binding outcomes and separate gene-activity effects",
+  "http": {
+    "source_commit": "24440fdf729b64a4089135494e09f4e71b79e4a9",
+    "verified_assets": 20,
+    "files": [
+      {
+        "file": "Informatics/genomics.html",
+        "bytes": 2244,
+        "sha256": "7b2ab096f1792449605cc8566931bee2fabdc9949e4d6a5c37565aa559ace822"
+      },
+      {
+        "file": "Informatics/index.html",
+        "bytes": 6376,
+        "sha256": "c3acd0baecdebe56e9199312bc6c0297c79d1830a081cd93de3f75f3492fdeaf"
+      },
+      {
+        "file": "Informatics/pilot-v1/m1-m1001-csv.zip",
+        "bytes": 86781582,
+        "sha256": "1fdf199f6decaa18f4952c09607f26e61a155369bd09d6b989fd53af0b9c5936"
+      },
+      {
+        "file": "Informatics/pilot-v1/m1-m1001-data.zip",
+        "bytes": 59450423,
+        "sha256": "6fafd415967680be13d8da821350da872c801a71b564f2f2dbbace33df6fac32"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/README.txt",
+        "bytes": 7022,
+        "sha256": "532f792ef082e3dc4b5141173e84c64a064179d46a9add9c58721e64c83f1820"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/binding-outcomes-fields.csv",
+        "bytes": 7292,
+        "sha256": "0c6ae34acd184cb0d8dc87f268f43cc8fb871c53c4357655bd836262edd760fb"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/binding-outcomes.json",
+        "bytes": 5694,
+        "sha256": "7ecb313032e24ce7d1a64ddafd95164defc10cea312b95542a4d35824798da43"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/catalogue-fields.csv",
+        "bytes": 133896,
+        "sha256": "a9de9fabb0b07a190914ecf518ed39f8455e1baa3e7a7b6daf074aa33220cce8"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/catalogue.json",
+        "bytes": 88382,
+        "sha256": "fa2b62728ab992a570a1c2eb9373a1314b7668be9b6a7bf4e881febaeea696ed"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/file-manifest.csv",
+        "bytes": 8066,
+        "sha256": "af4cc52351e043ad3ed89b9cc02eaff4950951d76074953675d06fc144399dda"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/mapped-binding-outcomes.csv",
+        "bytes": 4403919,
+        "sha256": "d1b8bdb44af8336c27992f664c19e863a9abe4f53f10ceb0f2872a534c8bfb8c"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/mapped-binding-outcomes.json",
+        "bytes": 6146666,
+        "sha256": "95b87eabefb52ff8d6d2acb78b3f760d62631b5d0f86510b76b6795ba44bdf56"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/oxtr-tfbs-csv.zip",
+        "bytes": 13032312,
+        "sha256": "db7204adb954265256aa082d20d572979ca3b4d702edc5fae410436ba6145129"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/oxtr-tfbs-json.zip",
+        "bytes": 15647328,
+        "sha256": "62a0c7823a5c1fc469d399a56660a77e0cf2161a51851a7a8b7155335bbe9c9d"
+      },
+      {
+        "file": "Informatics/research.html",
+        "bytes": 14606,
+        "sha256": "bd9f7822c23eee0ae7d373125f2087c978b54944c1f19ba2f6ce20a76353a550"
+      },
+      {
+        "file": "Informatics/science.css",
+        "bytes": 33660,
+        "sha256": "0d98220c228051664562f10673b3548016fa533ece50caa388443967cf57a030"
+      },
+      {
+        "file": "Informatics/science.js",
+        "bytes": 53294,
+        "sha256": "bb42cc6add623800839aa13d4d162aac1a309eb67e57d24a81133d610ab4cacf"
+      },
+      {
+        "file": "Informatics/tfbs-evidence.js",
+        "bytes": 635,
+        "sha256": "f55a48cf4d45f865766695850151dbd03f1d457eb5bc20a76f87305ea64d68ba"
+      },
+      {
+        "file": "Informatics/tfbs-explorer.js",
+        "bytes": 17012,
+        "sha256": "ed81540c10a406dceec742750cbeef14cfb04f87d9cce5a478c0b6c14362d512"
+      },
+      {
+        "file": "Informatics/tfbs-geometry.js",
+        "bytes": 42172,
+        "sha256": "9b658623b314da4e65cb7c38c574838db7526be140997456128a14a930826442"
+      }
+    ]
+  },
+  "geometry_browser": {
+    "candidate": false,
+    "results": [
+      {
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "combinations": 36,
+        "blend_states_per_combination": 2,
+        "source_definitions_prominent": true,
+        "binding_outcomes_and_exports": true,
+        "side_by_side": true,
+        "blend_default_off": true,
+        "selection_deliberate": true,
+        "encode_empty_bins": 41,
+        "source_counts": {
+          "studies": 2,
+          "encode": 255,
+          "jaspar": 9164
+        },
+        "retry": true,
+        "exports": [
+          "json",
+          "csv",
+          "svg",
+          "png"
+        ],
+        "keyboard": true,
+        "overflow": false,
+        "media_context_preserved": true,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "combinations": 36,
+        "blend_states_per_combination": 2,
+        "source_definitions_prominent": true,
+        "binding_outcomes_and_exports": true,
+        "side_by_side": true,
+        "blend_default_off": true,
+        "selection_deliberate": true,
+        "encode_empty_bins": 41,
+        "source_counts": {
+          "studies": 2,
+          "encode": 255,
+          "jaspar": 9164
+        },
+        "retry": true,
+        "exports": [
+          "json",
+          "csv",
+          "svg",
+          "png"
+        ],
+        "keyboard": true,
+        "overflow": false,
+        "media_context_preserved": true,
+        "errors": []
+      }
+    ]
+  },
+  "data_checks": {
+    "mapped_binding_outcomes": 9421,
+    "positive_sequence_elements": 2,
+    "regional_associations": 255,
+    "predictions": 9164,
+    "negative_controls_curated": 0,
+    "all_four_archives_verified": true,
+    "mathematical_records_unchanged": 1001,
+    "research_register_publications_unchanged": 14
+  },
+  "production_modified": false,
+  "implementation_commit": "7c1839a665c6e395c542815e6737ca22db9edee1",
+  "catalogue_browser": {
+    "passed": true,
+    "candidate": false,
+    "processMuted": true,
+    "results": [
+      {
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "teachingGraphicLoaded": true,
+        "teachingZoomAndGlossary": true,
+        "nestedTeachingEscapeAndFocus": true,
+        "dataExplorer": true,
+        "originalEvidenceTypesRestored": true,
+        "all33FilterCombinations": true,
+        "selectedExportMatchesFilter": true,
+        "broaderDescriptionsSeparate": true,
+        "filters": true,
+        "retryAfterFailure": true,
+        "keyboardAndOutsideClose": true,
+        "escapeAndFocus": true,
+        "summaryAndSidebar": true,
+        "aboutNestedLightbox": true,
+        "fullscreenStatePreserved": true,
+        "mediaStatePreserved": true,
+        "downloadsMatched": true,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "teachingGraphicLoaded": true,
+        "teachingZoomAndGlossary": true,
+        "nestedTeachingEscapeAndFocus": true,
+        "dataExplorer": true,
+        "originalEvidenceTypesRestored": true,
+        "all33FilterCombinations": true,
+        "selectedExportMatchesFilter": true,
+        "broaderDescriptionsSeparate": true,
+        "filters": true,
+        "retryAfterFailure": true,
+        "keyboardAndOutsideClose": true,
+        "escapeAndFocus": true,
+        "summaryAndSidebar": true,
+        "aboutNestedLightbox": true,
+        "fullscreenStatePreserved": true,
+        "mediaStatePreserved": true,
+        "downloadsMatched": false,
+        "errors": []
+      }
+    ],
+    "note": "Complete archive byte comparison performed at desktop; mobile repeats the interaction and selected-export checks without re-downloading the same archives."
+  },
+  "notion": [
+    {
+      "id": "3fd7b9c9-9c56-815a-8b84-e6839dc1d3ed",
+      "title": "Human OXTR sites \u2014 recovery, harmonisation and overlap",
+      "verified": true
+    },
+    {
+      "id": "3fd7b9c9-9c56-8123-9265-feb88ed38d68",
+      "title": "OXTR binding-site catalogue \u2014 source data",
+      "verified": true
+    },
+    {
+      "id": "3fd7b9c9-9c56-81c1-99cb-f4aa8196bca5",
+      "title": "TFBS012 \u00b7 Unresolved \u00b7 US-1 enhancer",
+      "verified": true
+    },
+    {
+      "id": "3fd7b9c9-9c56-81ad-8e9d-cefd9bb0cbb5",
+      "title": "TFBS013 \u00b7 MAFF \u00b7 US-2 element",
+      "verified": true
+    }
+  ],
+  "download_cache_fix": "The first live archive-button check exposed the previous compare-v2 cached archive. Download links now use binding-outcomes-v1; the repeated actual-button check passes byte-for-byte.",
+  "next_review": "After Ben proofs this version, discuss where to insert the existing binding-site and transcription infographic or a link. No new placement in this release.",
+  "geometry_browser_note": "Full geometry matrix passed at implementation commit 7c1839a6. The subsequent source change updates download cache versions only; final catalogue journeys, downloads and all 20 changed asset hashes were verified again."
+}

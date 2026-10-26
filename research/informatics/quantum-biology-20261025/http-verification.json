@@ -1,0 +1,154 @@
+{
+  "verifiedAt": "2026-10-24T19:03:10.946Z",
+  "source": "7cfd44b0",
+  "passed": true,
+  "checks": [
+    {
+      "file": "Informatics/app.js",
+      "url": "https://staging.universalmind.tv/informatics/app.js",
+      "http": 200,
+      "sha256": "43220af01742e7fc1c3efa76a29201908754d8b2bb813bdacc244c82592a0526",
+      "bytes": 16867
+    },
+    {
+      "file": "Informatics/connect.html",
+      "url": "https://staging.universalmind.tv/informatics/connect.html",
+      "http": 200,
+      "sha256": "b00e45df516831947324fc169b037d329e5a3d8fdd0d4eb12a009c29caaee49a",
+      "bytes": 10851
+    },
+    {
+      "file": "Informatics/global-navigation.js",
+      "url": "https://staging.universalmind.tv/informatics/global-navigation.js",
+      "http": 200,
+      "sha256": "a08ff7aea8557d4eef355941e5d4735107a828fbaeb272b2ba1c5e9b66d81b27",
+      "bytes": 2059
+    },
+    {
+      "file": "Informatics/index.html",
+      "url": "https://staging.universalmind.tv/informatics/index.html",
+      "http": 200,
+      "sha256": "6ce8212ccb0299676be29837cd64b9c71f2a21e8f9ee9f230ffb3219f8eee228",
+      "bytes": 27898
+    },
+    {
+      "file": "Informatics/library-theme.js",
+      "url": "https://staging.universalmind.tv/informatics/library-theme.js",
+      "http": 200,
+      "sha256": "f9595ab6810d7f41d64afc0d863514d2777248b6c93d99efd352d81fbc1c7f04",
+      "bytes": 4050
+    },
+    {
+      "file": "Informatics/library.css",
+      "url": "https://staging.universalmind.tv/informatics/library.css",
+      "http": 200,
+      "sha256": "fa53261889024631208f7e7279c87449489740647a26841eba54bf6ad8897d4d",
+      "bytes": 27176
+    },
+    {
+      "file": "Informatics/library.html",
+      "url": "https://staging.universalmind.tv/informatics/library.html",
+      "http": 200,
+      "sha256": "7626e184b37f48d64104d4f982fc9cc1af7a12310863677a304ee312516d13b4",
+      "bytes": 34546
+    },
+    {
+      "file": "Informatics/molecular-entry.js",
+      "url": "https://staging.universalmind.tv/informatics/molecular-entry.js",
+      "http": 200,
+      "sha256": "460a2b6e67a5c184e171d7f374f47d6f36147b9e417bd1e957c92ff9babe70cf",
+      "bytes": 1648
+    },
+    {
+      "file": "Informatics/molecular/atlas.css",
+      "url": "https://staging.universalmind.tv/informatics/molecular/atlas.css",
+      "http": 200,
+      "sha256": "1056d7f89414c4630741f162e9b5f38d1a111da3e895cf629e3f658f59adb6fb",
+      "bytes": 22898
+    },
+    {
+      "file": "Informatics/molecular/index.html",
+      "url": "https://staging.universalmind.tv/informatics/molecular/index.html",
+      "http": 200,
+      "sha256": "549bf9ed3a4311c22c584ddb719062f296957fdfcb0cce2e0878a194d42494a1",
+      "bytes": 10033
+    },
+    {
+      "file": "Informatics/quantum/biology.css",
+      "url": "https://staging.universalmind.tv/informatics/quantum/biology.css",
+      "http": 200,
+      "sha256": "2dab1788161ae07c940d280e101a159d80cc07e050fe0f40b87c347b4c12d34a",
+      "bytes": 13387
+    },
+    {
+      "file": "Informatics/quantum/biology.js",
+      "url": "https://staging.universalmind.tv/informatics/quantum/biology.js",
+      "http": 200,
+      "sha256": "722efdbe023047e286b7da825d81729ae5f6f15cadc2f9fb62a2f03212c4a18f",
+      "bytes": 11308
+    },
+    {
+      "file": "Informatics/quantum/index.html",
+      "url": "https://staging.universalmind.tv/informatics/quantum/index.html",
+      "http": 200,
+      "sha256": "7ced9ca32e677ea688a87dfc6ef2cfb0116be57907e433bdfa7730a4bac1283c",
+      "bytes": 10418
+    },
+    {
+      "file": "Informatics/quantum/lab.js",
+      "url": "https://staging.universalmind.tv/informatics/quantum/lab.js",
+      "http": 200,
+      "sha256": "1c8025df5c2a6b1936b59895a4742ed95a14cecea45cc6906b2029a9c43f6c0e",
+      "bytes": 20639
+    },
+    {
+      "file": "Informatics/quantum/verification.html",
+      "url": "https://staging.universalmind.tv/informatics/quantum/verification.html",
+      "http": 200,
+      "sha256": "7b7acec881addef62bd6c536c16b42526678d86c9dd3b1b24aeb9faf2941830b",
+      "bytes": 11940
+    },
+    {
+      "file": "Informatics/research.html",
+      "url": "https://staging.universalmind.tv/informatics/research.html",
+      "http": 200,
+      "sha256": "b7ce07f1e6d7cb871c2109b4118bf6acd71d02deb41332ac7f2244686f9d2e2c",
+      "bytes": 14616
+    },
+    {
+      "file": "Informatics/science.css",
+      "url": "https://staging.universalmind.tv/informatics/science.css",
+      "http": 200,
+      "sha256": "3d4d811062a0ab7e1880ca781d36627a1229fbe8837a735fa83330d358ac0307",
+      "bytes": 39041
+    },
+    {
+      "file": "Informatics/science.js",
+      "url": "https://staging.universalmind.tv/informatics/science.js",
+      "http": 200,
+      "sha256": "3d67f26947b62c391eca112f543e88c76366acd8e19d620cd550ef3d7b7fd1e2",
+      "bytes": 61680
+    },
+    {
+      "file": "Informatics/shared-experience.css",
+      "url": "https://staging.universalmind.tv/informatics/shared-experience.css",
+      "http": 200,
+      "sha256": "c01069c6af3910971cf562666e86c6c2f7eb31074410656ef337808c20070b3c",
+      "bytes": 1231
+    },
+    {
+      "file": "Informatics/shared-experience.js",
+      "url": "https://staging.universalmind.tv/informatics/shared-experience.js",
+      "http": 200,
+      "sha256": "b0ff825af3d938146832790d69ab57db694a1b5f9aac5eaaa2b9fb625cb81a71",
+      "bytes": 2395
+    },
+    {
+      "file": "Informatics/shared-shell-route.js",
+      "url": "https://staging.universalmind.tv/informatics/shared-shell-route.js",
+      "http": 200,
+      "sha256": "6ecfcf7fc994a6a036e38cc426e3c5c2493c5c1f1e816df47f1198375f8f30b6",
+      "bytes": 689
+    }
+  ]
+}

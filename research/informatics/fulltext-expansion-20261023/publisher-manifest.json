@@ -1,0 +1,242 @@
+{
+  "checkedAt": "2026-10-23T12:25:43.188070+00:00",
+  "method": "Crossref publisher-deposited links screened for matching DOI, explicit CC BY permission and substantial full article body. Only official publisher locations followed. No abstract-only page counted as full text.",
+  "records": [
+    {
+      "id": "doi-37881ae999c094e1",
+      "doi": "10.1016/j.fnhli.2025.100070",
+      "title": "The effectiveness of trauma-based therapies for Aboriginal and non-Aboriginal children and adolescents in out-of-home care",
+      "attempts": [
+        {
+          "url": "https://api.elsevier.com/content/article/PII:S2949840625000282?httpAccept=text/xml",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "url": "https://api.elsevier.com/content/article/PII:S2949840625000282?httpAccept=text/plain",
+          "error": "HTTP Error 429: Too Many Requests"
+        },
+        {
+          "url": "https://linkinghub.elsevier.com/retrieve/pii/S2949840625000282",
+          "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+        }
+      ],
+      "status": "not-retained"
+    },
+    {
+      "id": "doi-2a203fb071ddfe54",
+      "doi": "10.1002/capr.12580",
+      "title": "“Online delivery gave me privacy and distance from others”: feasibility trial and qualitative evaluation of an online intervention for refugees and asylum seekers; <scp>LTP</scp> + <scp>EMDR G‐TEP</scp>",
+      "attempts": [
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/capr.12580",
+          "error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/capr.12580",
+          "error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/10.1002/capr.12580",
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ],
+      "status": "not-retained"
+    },
+    {
+      "id": "src-ae3dc0d94fef",
+      "doi": "10.4236/health.2018.109088",
+      "title": "Effect of 528 Hz Music on the Endocrine System and Autonomic Nervous System",
+      "attempts": [
+        {
+          "url": "https://www.scirp.org/journal/doi.aspx?DOI=10.4236/health.2018.109088",
+          "status": "content-or-licence-review",
+          "bodyCharacters": 0,
+          "identity": true,
+          "permission": true,
+          "conflict": false
+        }
+      ],
+      "status": "not-retained"
+    },
+    {
+      "id": "doi-4177d8a1b6597791",
+      "doi": "10.3390/atmos7090116",
+      "title": "ELF Electromagnetic Waves from Lightning: The Schumann Resonances",
+      "attempts": [
+        {
+          "url": "https://www.mdpi.com/2073-4433/7/9/116/pdf",
+          "error": "HTTP Error 403: Forbidden"
+        },
+        {
+          "url": "https://www.mdpi.com/2073-4433/7/9/116",
+          "error": "HTTP Error 403: Forbidden"
+        }
+      ],
+      "status": "not-retained"
+    },
+    {
+      "id": "doi-bbac53b23500d8b1",
+      "doi": "10.4236/jsip.2015.62015",
+      "title": "Human Quantitative Electroencephalographic and Schumann Resonance Exhibit Real-Time Coherence of Spectral Power Densities: Implications for Interactive Information Processing",
+      "attempts": [],
+      "status": "publisher-fulltext-cached",
+      "source": "https://www.scirp.org/xml/56609.xml",
+      "format": "xml",
+      "bytes": 65114,
+      "sha256": "d50ab4b4f58e1ce115286723daabf9e38ced239d18b8179ab539de4dfd0248d1",
+      "license": "CC BY",
+      "rightsExcerpt": " by authors and Scientific Research Publishing Inc.  2014 This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/ {} © Copyright  2014 by authors and Scientific Research Publishing Inc.  {} 2014 {} This work is licensed under the Creative  Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/ {} This work is licensed under the Creative Commons Attribution International License (CC BY). http://creativecommons.org/licenses/by/4.0/ {}",
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/open-fulltext-20261023/doi-bbac53b23500d8b1"
+    },
+    {
+      "id": "src-48e0742b692c",
+      "doi": "10.4236/wjns.2013.34028",
+      "title": "Alpha-rhythm stimulation using brain entrainment enhances heart rate variability in subjects with reduced HRV",
+      "attempts": [
+        {
+          "url": "https://www.scirp.org/journal/PaperDownload.aspx?DOI=10.4236/wjns.2013.34028",
+          "status": "content-or-licence-review",
+          "bodyCharacters": 35567,
+          "identity": true,
+          "permission": false,
+          "conflict": false
+        },
+        {
+          "url": "https://www.scirp.org/journal/paperinformation?paperid=36722",
+          "status": "content-or-licence-review",
+          "bodyCharacters": 0,
+          "identity": true,
+          "permission": true,
+          "conflict": false
+        }
+      ],
+      "status": "not-retained"
+    },
+    {
+      "id": "src-e4870b8eaf8c",
+      "doi": "10.1186/s41018-018-0044-5",
+      "title": "Blockchain for humanitarian action and development aid",
+      "attempts": [],
+      "status": "publisher-fulltext-cached",
+      "source": "https://link.springer.com/content/pdf/10.1186/s41018-018-0044-5.pdf",
+      "format": "pdf",
+      "bytes": 427819,
+      "sha256": "8041327f1b8e747556236e38e0838df77ea0df613c0699bcfdec596ef171ede3",
+      "license": "CC BY",
+      "rightsExcerpt": "© The Author(s). 2018 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License ( http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and",
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/open-fulltext-20261023/doi-43318007d96fa79b"
+    },
+    {
+      "id": "src-ec9560b5ddc0",
+      "doi": "10.1140/epjds/s13688-017-0110-z",
+      "title": "Instagram photos reveal predictive markers of depression",
+      "attempts": [],
+      "status": "publisher-fulltext-cached",
+      "source": "https://link.springer.com/content/pdf/10.1140/epjds/s13688-017-0110-z.pdf",
+      "format": "pdf",
+      "bytes": 1719642,
+      "sha256": "523f5cb898cbb9765fb60ff9dc927110bd63be09dbf9013b914ef737a57bf84e",
+      "license": "CC BY",
+      "rightsExcerpt": "© The Author(s) 2017. This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/),whichpermitsunrestricteduse,distribution,andreproductioninanymedium,pro-",
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/open-fulltext-20261023/doi-89d009fd8c1a16ca"
+    },
+    {
+      "id": "src-18b777c33bb6",
+      "doi": "10.4236/jss.2013.16007",
+      "title": "Personality and Heart Rate Variability: Exploring Pathways from Personality to Cardiac Coherence and Health",
+      "attempts": [
+        {
+          "url": "https://www.scirp.org/journal/PaperDownload.aspx?DOI=10.4236/jss.2013.16007",
+          "status": "content-or-licence-review",
+          "bodyCharacters": 53985,
+          "identity": true,
+          "permission": false,
+          "conflict": false
+        },
+        {
+          "url": "https://www.scirp.org/journal/paperinformation?paperid=40317",
+          "status": "content-or-licence-review",
+          "bodyCharacters": 0,
+          "identity": true,
+          "permission": true,
+          "conflict": false
+        }
+      ],
+      "status": "not-retained"
+    },
+    {
+      "id": "src-8b2ea769f9f9",
+      "doi": "10.1103/physrevx.6.031007",
+      "title": "Scalable Quantum Simulation of Molecular Energies",
+      "attempts": [
+        {
+          "url": "https://link.aps.org/article/10.1103/PhysRevX.6.031007",
+          "status": "content-or-licence-review",
+          "bodyCharacters": 0,
+          "identity": true,
+          "permission": true,
+          "conflict": false
+        },
+        {
+          "url": "https://harvest.aps.org/v2/journals/articles/10.1103/PhysRevX.6.031007/fulltext",
+          "status": "content-or-licence-review",
+          "bodyCharacters": 57054,
+          "identity": true,
+          "permission": false,
+          "conflict": false
+        },
+        {
+          "url": "https://link.aps.org/doi/10.1103/PhysRevX.6.031007",
+          "status": "content-or-licence-review",
+          "bodyCharacters": 4733,
+          "identity": true,
+          "permission": true,
+          "conflict": false
+        }
+      ],
+      "status": "not-retained"
+    },
+    {
+      "id": "src-b8f0554d49a8",
+      "doi": "10.56431/p-ly2br0",
+      "title": "Schumann Resonance Frequencies Found within Quantitative Electroencephalographic Activity: Implications for Earth-Brain Interactions",
+      "attempts": [],
+      "status": "publisher-fulltext-cached",
+      "source": "https://www.academicoa.com/ILCPA.30.24.pdf",
+      "format": "pdf",
+      "bytes": 603326,
+      "sha256": "a1369378a830fa62ae9ce20908f6e8e4525c7b6c48da627f528a7bc3a353b759",
+      "license": "CC BY",
+      "rightsExcerpt": "This paper is an open access paper published under the terms and conditions of the Creative Commons Attribution license (CC BY) (https://creativecommons.org/licenses/by/4.0)",
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/open-fulltext-20261023/doi-5d7391a91c68b57c"
+    },
+    {
+      "id": "src-8efda8da414f",
+      "doi": "10.4236/psych.2014.51013",
+      "title": "Stress Management Based on Trait ‐ Anxiety Levels and Sleep Quality in Middle ‐ Aged Employees Confronted with Psychosocial Chronic Stress",
+      "attempts": [],
+      "status": "publisher-fulltext-cached",
+      "source": "https://www.scirp.org/journal/PaperDownload.aspx?DOI=10.4236/psych.2014.51013",
+      "format": "pdf",
+      "bytes": 366247,
+      "sha256": "b797d267d13ba009cf5055e570181c5180fc843210fb768fe2ffc5ec83f7b1b4",
+      "license": "CC BY",
+      "rightsExcerpt": "vided the original work is properly cited. In accordance of the Creative Commons Attribution License all Co py-",
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/open-fulltext-20261023/doi-2caf488e1c479257"
+    },
+    {
+      "id": "src-a3bba47bba9b",
+      "doi": "10.21595/chs.2018.20480",
+      "title": "The Influence of Heart Coherence on Synchronization Between Human Heart Rate Variability and Geomagnetic Activity",
+      "attempts": [],
+      "status": "publisher-fulltext-cached",
+      "source": "https://www.jvejournals.com/article/20480/pdf",
+      "format": "pdf",
+      "bytes": 434806,
+      "sha256": "a73dca50a552e3d27ac34e0a82f1776556ef6b7a44488b9bafb58a6286dd47f5",
+      "license": "CC BY",
+      "rightsExcerpt": "yright © 2018 Rollin McCraty, et al. This is an open access article distributed under the Creative Commons Attribution License, ",
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/open-fulltext-20261023/doi-7b049d9342249144"
+    }
+  ]
+}

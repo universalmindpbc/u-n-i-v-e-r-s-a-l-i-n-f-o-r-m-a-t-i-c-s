@@ -1,0 +1,64 @@
+{
+  "passed": true,
+  "version": "research-20261026-geometry-v1",
+  "added": 10,
+  "counts": {
+    "publications": 821,
+    "passages": 4198,
+    "fullTextArticles": 149,
+    "atlasRecords": 1001
+  },
+  "embeddingTokens": 3074,
+  "sourceHashes": [
+    {
+      "id": "vision-photoreceptor-mosaic-1998",
+      "sha256": "7b5d71389e41e1fa32b657a84e6d801377c47779018994c7fca60dfc7e7c4445",
+      "embedded": true
+    },
+    {
+      "id": "vision-retinal-orientation-2011",
+      "sha256": "278094f41e9651cb1b45727f0d4a8d4b789058be8dd1ab537c0edf644fa9eeea",
+      "embedded": true
+    },
+    {
+      "id": "vision-hexadirectional-2018",
+      "sha256": "7a818879f74f12e79725c35b0b72a11f8077ace75eed6f8d0d409f1067fa9b92",
+      "embedded": true
+    },
+    {
+      "id": "quantum-honeycomb-hastings-haah-2021",
+      "sha256": "a039c4b378cf9080e468e98298c0d82aeed3e2a513d6532ddac09feceb7a096a",
+      "embedded": true
+    },
+    {
+      "id": "quantum-penrose-fibonacci-code-2024",
+      "sha256": "eaa760cb2636c20077eaa331b5d6c591576376d9db8226186f419806a1d83ee6",
+      "embedded": true
+    },
+    {
+      "id": "quantum-ibm-heavy-hex-2021",
+      "sha256": "f7e255640244c0150822b034917fec0f370e46f8a8ded38f69ebfffe55596404",
+      "embedded": true
+    },
+    {
+      "id": "quantum-heavy-hex-scaling-2026",
+      "sha256": "ae62fa443f4d68b2de61d88e3a5f6de77648c0ae92c42fbea38537c5631a67de",
+      "embedded": true
+    },
+    {
+      "id": "quantum-kagome-edge-states-2026",
+      "sha256": "87e53a86040c2aec12dc935d76012c2630fee1aa00c770621b70721182f796b1",
+      "embedded": true
+    },
+    {
+      "id": "quantum-rydberg-local-error-correction-2024",
+      "sha256": "30eb90985894050aa7300b7ceb6465a248a85d5dd023c1e8bda8baa08827350b",
+      "embedded": true
+    },
+    {
+      "id": "quantum-haah-fractal-code-2011",
+      "sha256": "01e2740b1aa3fb3bf62e136e35e98ef07c8f1e7511bbe3fc20f2bc10b24b40a2",
+      "embedded": true
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "passed": true,
+  "live": true,
+  "process_audio_muted": true,
+  "records": [
+    {
+      "width": 1470,
+      "noOverflow": true,
+      "fiveStages": true,
+      "timingVisible": true,
+      "canonicalGeometry": true,
+      "keyboardTabs": true,
+      "sharedControls": true,
+      "assistantUncovered": true,
+      "noExternalSubmissions": true,
+      "errors": []
+    },
+    {
+      "width": 1024,
+      "noOverflow": true,
+      "fiveStages": true,
+      "timingVisible": true,
+      "canonicalGeometry": true,
+      "keyboardTabs": true,
+      "sharedControls": true,
+      "assistantUncovered": true,
+      "noExternalSubmissions": true,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "noOverflow": true,
+      "fiveStages": true,
+      "timingVisible": true,
+      "canonicalGeometry": true,
+      "keyboardTabs": true,
+      "sharedControls": true,
+      "assistantUncovered": true,
+      "noExternalSubmissions": true,
+      "errors": []
+    },
+    {
+      "width": 320,
+      "noOverflow": true,
+      "fiveStages": true,
+      "timingVisible": true,
+      "canonicalGeometry": true,
+      "keyboardTabs": true,
+      "sharedControls": true,
+      "assistantUncovered": true,
+      "noExternalSubmissions": true,
+      "errors": []
+    }
+  ]
+}

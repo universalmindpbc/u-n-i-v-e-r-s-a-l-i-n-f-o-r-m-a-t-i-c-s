@@ -1,0 +1,53 @@
+{
+  "version": "quantum-question-v3",
+  "id": "82371765-9377-4a92-96e2-ed68722c1ada",
+  "createdAt": "2026-10-25T01:36:35.320Z",
+  "question": "Do quantum responses generated from Fibonacci, the Phi Ratio and M9 P24 Alpha, Beta, Gamma and Epsilon improve our ability to predict transcription factor occupancy around OXTR?",
+  "model": "gpt-6-astra",
+  "provider_response_id": "resp_0b6c3951c3ddbe6a016add5d2108d887d0b82f83a90a0176ea",
+  "route": "oxtr_occupancy",
+  "allowance": {
+    "allowed": true,
+    "unit": "AI questions",
+    "periods": {
+      "day": {
+        "key": "2026-10-25T00:00:00.000Z",
+        "used": 9,
+        "limit": 30,
+        "resetAt": "2026-10-26T00:00:00.000Z",
+        "remaining": 21
+      },
+      "week": {
+        "key": "2026-10-19T00:00:00.000Z",
+        "used": 19,
+        "limit": 120,
+        "resetAt": "2026-10-26T00:00:00.000Z",
+        "remaining": 101
+      },
+      "month": {
+        "key": "2026-10-01T00:00:00.000Z",
+        "used": 19,
+        "limit": 300,
+        "resetAt": "2026-11-01T00:00:00.000Z",
+        "remaining": 281
+      }
+    },
+    "resetAt": null,
+    "hardware": {
+      "available": false,
+      "reason": "The approved Study 01 batch is recorded separately. New hardware submissions are not enabled through this question endpoint."
+    }
+  },
+  "study": {
+    "id": "oxtr-qrc-01",
+    "version": "1.0.0"
+  },
+  "status": "study_linked",
+  "message": "Your question is linked to the OXTR study. The first measurement phase is active; recorded results and processing status appear in the next steps.",
+  "reports": {
+    "classical": null,
+    "simulation": null,
+    "quantum": null,
+    "comparison": null
+  }
+}

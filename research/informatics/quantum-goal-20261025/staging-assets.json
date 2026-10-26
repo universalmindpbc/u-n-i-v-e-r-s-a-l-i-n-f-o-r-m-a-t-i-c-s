@@ -1,0 +1,56 @@
+[
+  {
+    "file": "Informatics/index.html",
+    "url": "https://staging.universalmind.tv/informatics/index.html?v=15",
+    "sha256": "0b8e5d82c2b57680fa38863c4eeab3e798dc2f85db9862fb52e088eb6aa21c85",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/index.html",
+    "url": "https://staging.universalmind.tv/informatics/quantum/index.html?v=15",
+    "sha256": "9fe0f3cd2c6598be6d8bd7135beffe6d68ebee6a5041ef339ec3c781511e5416",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/biology.css",
+    "url": "https://staging.universalmind.tv/informatics/quantum/biology.css?v=12",
+    "sha256": "316df20c669c274c0a8acba2d7ba5a63f2a27a2838500f637d045b9c5feba2fc",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/biology.js",
+    "url": "https://staging.universalmind.tv/informatics/quantum/biology.js?v=13",
+    "sha256": "c32ac2b897f4f3cab19e9435e6ee2c8c26d2d7411dac60c0b159d1caa589103c",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/insights.js",
+    "url": "https://staging.universalmind.tv/informatics/quantum/insights.js?v=3",
+    "sha256": "35a762f5849a2c0762411b569ff9744dd8ec4365a11edc5d09321408fc5001e3",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/response-view.js",
+    "url": "https://staging.universalmind.tv/informatics/quantum/response-view.js?v=5",
+    "sha256": "e2a4ff17e0b76b56b786dc6f1c69f42e9d76c32a6c55cbfef6e3e02698aad7fb",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/study.js",
+    "url": "https://staging.universalmind.tv/informatics/quantum/study.js?v=5",
+    "sha256": "464dad7b88a376777c721886d78935f7527d68a6912a0a7314d71f0f2f87f880",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/data/oxtr-next-test-evidence.json",
+    "url": "https://staging.universalmind.tv/informatics/quantum/data/oxtr-next-test-evidence.json?v=1",
+    "sha256": "6741d032ea6058f0d66a6d1ecf7e35823f5d4701914a39d50c06993003549a76",
+    "match": true
+  },
+  {
+    "file": "Informatics/vision-science.js",
+    "url": "https://staging.universalmind.tv/informatics/vision-science.js?v=2",
+    "sha256": "d3995b1d01eb19eb0152bb5af0e4cfb7c65c2c902bf683181deeb04fd6e71d5f",
+    "match": true
+  }
+]

@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0.0",
+  "id": "m18p24-fixed-gamma-beta-shuffle-v1",
+  "record_id": "fibonacci-m18-p24",
+  "calculated_on": "2026-10-18",
+  "status": "Calculated",
+  "heading": "Probability",
+  "display": "Approximately 1 in 5.88 trillion",
+  "summary": "Shuffle the 24 Alpha values around the circle. This is the chance of recovering the original Gamma arrangement and deriving Beta as 4, 8, 16, 14, 10, 2, with the same starting position.",
+  "research_insight": {
+    "status": "Open research",
+    "quote": "We are exploring equilateral triangles, honeycomb theorem, and carbon structures in relationship to this Atlas for useful directions for computation in OXTR research."
+  },
+  "method": {
+    "id": "uniform-alpha-shuffle-original-alignment-v1",
+    "comparison_rule": "Preserve each record's original Gamma values, positions and Beta alignment.",
+    "sampling": "Uniform random permutation of existing 24 Alpha entries, preserving all multiplicities.",
+    "coordinate_system": "Fixed indices 0..23, clockwise from north; 0 displayed as 18.",
+    "alpha_frequencies": {
+      "0": 2,
+      "1": 4,
+      "2": 2,
+      "3": 2,
+      "5": 2,
+      "8": 1,
+      "10": 1,
+      "13": 2,
+      "15": 2,
+      "16": 2,
+      "17": 4
+    },
+    "gamma_indices": [
+      0,
+      4,
+      8,
+      12,
+      16,
+      20
+    ],
+    "gamma_clock_positions": [
+      24,
+      4,
+      8,
+      12,
+      16,
+      20
+    ],
+    "gamma_values": [
+      18,
+      3,
+      3,
+      18,
+      15,
+      15
+    ],
+    "beta_values": [
+      4,
+      8,
+      16,
+      14,
+      10,
+      2
+    ],
+    "beta_start_interval_clock_positions": [
+      24,
+      4
+    ],
+    "beta_interior_indices": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        5,
+        6,
+        7
+      ],
+      [
+        9,
+        10,
+        11
+      ],
+      [
+        13,
+        14,
+        15
+      ],
+      [
+        17,
+        18,
+        19
+      ],
+      [
+        21,
+        22,
+        23
+      ]
+    ],
+    "beta_rule": "Sum three interior Alpha values in each gap, exclude Gamma endpoints, reduce modulo 18, include wraparound.",
+    "allow_rotated_gamma_positions": false,
+    "allow_reordered_gamma_values": false,
+    "allow_rotated_beta_cycle": false,
+    "allow_reversed_beta_cycle": false
+  },
+  "counts": {
+    "all_arrangements": "8415370032189120000",
+    "arrangements_given_gamma": "694702008000",
+    "matching_arrangements": "1431756",
+    "qualifying_triple_combinations": 74
+  },
+  "result": {
+    "numerator": "491",
+    "denominator": "2885929366320000",
+    "fraction": "491/2885929366320000",
+    "value": 1.7013583413723666e-13,
+    "one_in_approx": 5877656550549.898
+  },
+  "calculation": {
+    "steps": [
+      "Shuffle the same 24 Alpha values, keeping every value and its frequency.",
+      "Place Gamma values 18, 3, 3, 18, 15, 15 at clock positions 24, 4, 8, 12, 16, 20.",
+      "Sum the three Alpha values between each pair of Gamma nodes, excluding the endpoints, and reduce each sum modulo 18.",
+      "Match Beta to 4, 8, 16, 14, 10, 2, starting with the interval from clock position 24 to 4."
+    ],
+    "formula": "1,431,756 / 8,415,370,032,189,120,000 = 491 / 2,885,929,366,320,000",
+    "counting_note": "For the six Beta intervals, 74 combinations of three-value groups use exactly the available values. Counting the possible orders within each group gives 1,431,756 matching arrangements.",
+    "verification_note": "Three exact counting methods agree: remaining-value enumeration, complete three-value-group enumeration, and a separate count treating each card individually."
+  },
+  "verification": {
+    "calculation_version": "m18p24-exact-shuffle-v1",
+    "mathematical_input_sha256": "199a094d16cdbb53a93e43d1488a393a33244d4faaad28997b9677832c76e0d5",
+    "checks": {
+      "approved_native_record_assertions": "passed",
+      "unrestricted_count_equals_multinomial": "passed",
+      "six_rotations_counted_separately": "passed",
+      "exhaustive_triple_multiset_enumeration": "passed",
+      "independent_labelled_bitmask_enumeration": "passed",
+      "monte_carlo_used": false
+    }
+  },
+  "interpretation": {
+    "type": "exact_configuration_shuffle_probability",
+    "selection_adjustment_applied": false,
+    "statistical_significance_status": "Not yet assessed",
+    "biological_significance_status": "Not yet assessed"
+  },
+  "files": {
+    "data": "m18-probability.json",
+    "code": "m18-probability.py"
+  }
+}

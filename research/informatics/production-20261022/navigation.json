@@ -1,0 +1,110 @@
+{
+  "passed": true,
+  "live": true,
+  "processMuted": true,
+  "nativeFullscreen": false,
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "sharedMenuLabels": [
+        "About",
+        "Geometry Atlas",
+        "Transcription Atlas",
+        "Molecular Atlas",
+        "Sound Atlas",
+        "Vision Atlas",
+        "Language Atlas",
+        "Universal Research",
+        "Partners"
+      ],
+      "keyboardAndFocus": true,
+      "allMenusFit": true,
+      "mainAndEmbeddedMolecularTranscription": true,
+      "standaloneMolecularTranscription": true,
+      "embeddedAndStandaloneResearchTranscription": true,
+      "originalCatalogueReused": true,
+      "mediaSourceAndFullscreenPreserved": true,
+      "noPageErrors": true
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "sharedMenuLabels": [
+        "About",
+        "Geometry Atlas",
+        "Transcription Atlas",
+        "Molecular Atlas",
+        "Sound Atlas",
+        "Vision Atlas",
+        "Language Atlas",
+        "Universal Research",
+        "Partners"
+      ],
+      "keyboardAndFocus": true,
+      "allMenusFit": true,
+      "mainAndEmbeddedMolecularTranscription": true,
+      "standaloneMolecularTranscription": true,
+      "embeddedAndStandaloneResearchTranscription": true,
+      "originalCatalogueReused": true,
+      "mediaSourceAndFullscreenPreserved": true,
+      "noPageErrors": true
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "sharedMenuLabels": [
+        "About",
+        "Geometry Atlas",
+        "Transcription Atlas",
+        "Molecular Atlas",
+        "Sound Atlas",
+        "Vision Atlas",
+        "Language Atlas",
+        "Universal Research",
+        "Partners"
+      ],
+      "keyboardAndFocus": true,
+      "allMenusFit": true,
+      "mainAndEmbeddedMolecularTranscription": true,
+      "standaloneMolecularTranscription": true,
+      "embeddedAndStandaloneResearchTranscription": true,
+      "originalCatalogueReused": true,
+      "mediaSourceAndFullscreenPreserved": true,
+      "noPageErrors": true
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "sharedMenuLabels": [
+        "About",
+        "Geometry Atlas",
+        "Transcription Atlas",
+        "Molecular Atlas",
+        "Sound Atlas",
+        "Vision Atlas",
+        "Language Atlas",
+        "Universal Research",
+        "Partners"
+      ],
+      "keyboardAndFocus": true,
+      "allMenusFit": true,
+      "mainAndEmbeddedMolecularTranscription": true,
+      "standaloneMolecularTranscription": true,
+      "embeddedAndStandaloneResearchTranscription": true,
+      "originalCatalogueReused": true,
+      "mediaSourceAndFullscreenPreserved": true,
+      "noPageErrors": true
+    }
+  ],
+  "verifiedEnvironment": "production",
+  "verifiedBaseURL": "https://universalmind.tv/informatics/"
+}

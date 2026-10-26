@@ -1,0 +1,292 @@
+{
+  "doi": "10.1103/PhysRevA.83.042330",
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          24
+        ]
+      ],
+      "date-time": "2026-10-24T04:51:10Z",
+      "timestamp": 1792817470334,
+      "version": "4.5.0"
+    },
+    "reference-count": 13,
+    "publisher": "American Physical Society (APS)",
+    "issue": "4",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2011,
+              4,
+              22
+            ]
+          ],
+          "date-time": "2011-04-22T00:00:00Z",
+          "timestamp": 1303430400000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "http://link.aps.org/licenses/aps-default-license"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2012,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2012-04-21T00:00:00Z",
+          "timestamp": 1334966400000
+        },
+        "content-version": "am",
+        "delay-in-days": 365,
+        "URL": "http://link.aps.org/licenses/aps-default-accepted-manuscript-license"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100000001",
+        "name": "National Science Foundation",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100000001",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000015",
+        "name": "U.S. Department of Energy",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/100000015",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Phys. Rev. A"
+    ],
+    "DOI": "10.1103/physreva.83.042330",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          4,
+          22
+        ]
+      ],
+      "date-time": "2011-04-22T16:23:54Z",
+      "timestamp": 1303489434000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 591,
+    "title": [
+      "Local stabilizer codes in three dimensions without string logical operators"
+    ],
+    "prefix": "10.1103",
+    "volume": "83",
+    "author": [
+      {
+        "given": "Jeongwan",
+        "family": "Haah",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "16",
+    "published-online": {
+      "date-parts": [
+        [
+          2011,
+          4,
+          22
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "PhysRevA.83.042330Cc1R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1063/1.1499754"
+      },
+      {
+        "key": "PhysRevA.83.042330Cc2R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1142/S1230161210000023"
+      },
+      {
+        "key": "PhysRevA.83.042330Cc3R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1367-2630/11/4/043029"
+      },
+      {
+        "key": "PhysRevA.83.042330Cc6R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevB.77.064302"
+      },
+      {
+        "key": "PhysRevA.83.042330Cc7R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevB.78.155120"
+      },
+      {
+        "key": "PhysRevA.83.042330Cc8R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.94.040402"
+      },
+      {
+        "key": "PhysRevA.83.042330Cc9R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevB.75.075103"
+      },
+      {
+        "key": "PhysRevA.83.042330Cc11R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevA.73.012340"
+      },
+      {
+        "key": "PhysRevA.83.042330Cc12R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.78.405"
+      },
+      {
+        "key": "PhysRevA.83.042330Cc13R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1103/PhysRevLett.104.190401"
+      },
+      {
+        "key": "PhysRevA.83.042330Cc14R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/S0003-4916(02)00018-0"
+      },
+      {
+        "key": "PhysRevA.83.042330Cc15R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1016/j.aop.2010.11.002"
+      },
+      {
+        "key": "PhysRevA.83.042330Cc16R1",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1088/1367-2630/12/2/025013"
+      }
+    ],
+    "container-title": [
+      "Physical Review A"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://link.aps.org/accepted/10.1103/PhysRevA.83.042330",
+        "content-type": "application/pdf",
+        "content-version": "am",
+        "intended-application": "unspecified"
+      },
+      {
+        "URL": "http://link.aps.org/article/10.1103/PhysRevA.83.042330",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "http://harvest.aps.org/v2/journals/articles/10.1103/PhysRevA.83.042330/fulltext",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2017,
+          4,
+          6
+        ]
+      ],
+      "date-time": "2017-04-06T12:15:58Z",
+      "timestamp": 1491480958000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://link.aps.org/doi/10.1103/PhysRevA.83.042330"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          4,
+          22
+        ]
+      ]
+    },
+    "references-count": 13,
+    "journal-issue": {
+      "issue": "4",
+      "published-print": {
+        "date-parts": [
+          [
+            2011,
+            4
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1103/physreva.83.042330",
+    "relation": {},
+    "ISSN": [
+      "1050-2947",
+      "1094-1622"
+    ],
+    "issn-type": [
+      {
+        "value": "1050-2947",
+        "type": "print"
+      },
+      {
+        "value": "1094-1622",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2011,
+          4,
+          22
+        ]
+      ]
+    },
+    "article-number": "042330"
+  },
+  "europepmc": [],
+  "retrievedAt": "2026-10-26"
+}

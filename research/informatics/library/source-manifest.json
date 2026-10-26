@@ -1,0 +1,26 @@
+[
+  {
+    "collection": "sound",
+    "file": "Universal Mind [ I o H ] - Sound Medical Research.pdf",
+    "sha256": "54a09305ff40e2babb2121b449badc72ca84a1e57c055e9ef48fd3aad1cbeabc",
+    "pages": 144,
+    "extraction": "pdfplumber positioned text and hyperlinks; pypdf embedded images",
+    "excludedPresentation": "Legacy branding, footers and promotional artwork are removed from the public reader."
+  },
+  {
+    "collection": "vision",
+    "file": "Universal Mind [ I o H ] - EMDR Medical Research.pdf",
+    "sha256": "3dec583525e6c5b83579d07cf4adcf93c68752aeca9936ee3b183d40097f7e31",
+    "pages": 19,
+    "extraction": "pdfplumber positioned text and hyperlinks; pypdf embedded images",
+    "excludedPresentation": "Legacy branding, footers and promotional artwork are removed from the public reader."
+  },
+  {
+    "collection": "language",
+    "file": "Universal Mind [ I o H ] - Mantra Medical Research.pdf",
+    "sha256": "25116a721b22f330ed77ab41f78b97b8a76a389220dc011614b72b808379707f",
+    "pages": 73,
+    "extraction": "pdfplumber positioned text and hyperlinks; pypdf embedded images",
+    "excludedPresentation": "Legacy branding, footers and promotional artwork are removed from the public reader."
+  }
+]

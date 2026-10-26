@@ -1,0 +1,18 @@
+{
+  "build": "informatics-astra-staging:e543fb03-0b32-4b7c-aec1-114a1f2aab61",
+  "image": "sha256:f3fb73dda21000cb01f893844d29595e747131462deb6b26742a25d37c6b9131",
+  "source": "645cddad2",
+  "state": "Active",
+  "last_update": "Successful",
+  "shared_monthly_attempt_limit": 120,
+  "paid_quantum_jobs_enabled": false,
+  "production_worker_version": "f66cfa41-d2ee-466c-aede-9992f5498aa7",
+  "staging_worker_version": "30a757ca-e66f-46db-8b70-354df285643d",
+  "previous_deployment": {
+    "build": "informatics-astra-staging:1920206f-bcfd-4aea-b1c9-eb506f1ef388",
+    "image": "sha256:8639078c5aee221ca8f98bb7a0fcdcfe1765cb4af296db65f35fcb903c1e524d",
+    "source": "cd005b154",
+    "state": "Active",
+    "last_update": "Successful"
+  }
+}

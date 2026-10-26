@@ -1,0 +1,106 @@
+{
+  "verified_on": "2026-10-18",
+  "source_commit": "a3f19f52c9ec819895998309046d2a5a4a6a2af1",
+  "base_url": "https://staging.universalmind.tv/informatics/",
+  "files": [
+    {
+      "path": "Informatics/index.html",
+      "sha256": "802bae8e341420b8fc96ebe585da95b3ec1d3ca19b92389b08fc54d4cd5648b2",
+      "bytes": 6380,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/CSV-README.txt",
+      "sha256": "9da1c2c2426d06d411eae1ee32a0fe9a47fd4dbb8c401500ca2490d87daf44c7",
+      "bytes": 1916,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/dataset.json",
+      "sha256": "7c1dbc3e762b6a1299c10106050b25d67844e342d751ab4a7dc1f6579069071b",
+      "bytes": 4696718,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/m1-m48-data.zip",
+      "sha256": "85fcc0f1ff221b50342c734825e189f3e42e257b8a39fce2d33796eee41bd532",
+      "bytes": 542934,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/m18-probability.json",
+      "sha256": "c6767b9f837ebfc8c7fda420681d8b969fe899063d7b3f8ca04836e2bf20f806",
+      "bytes": 4477,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/m18-probability.py",
+      "sha256": "bade8a76b0b361e95b7f9a383ef6a1acbd6c200257d58993ac1f4b7d5c8bfad1",
+      "bytes": 8594,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/m18.json",
+      "sha256": "7302b00ff7cef47cdedc35bf26a9ad3914c0c091b8d37397bdb69219a877d948",
+      "bytes": 91252,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/m27.json",
+      "sha256": "d638cfc962bcd0add3894c0fa1b34aef49e4cd3b441af0eb8556c20507db33c5",
+      "bytes": 249939,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/m36.json",
+      "sha256": "2bac8c547a71f6e0687833c80d3298e0091360c6cb9971b8b7e8cabeb4f7130a",
+      "bytes": 86384,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/m45.json",
+      "sha256": "1e894da62dc0e04f551ebe7aeb9fcf93708c7c74c53a9fee24ec47e63332edab",
+      "bytes": 508332,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/probability.js",
+      "sha256": "d88f7ee8858a4201bd4e6661294445c38e01e0cb820ac755c1a7301f474a2aa8",
+      "bytes": 3363,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/records.csv",
+      "sha256": "96fbd0e97ca55c7013a6fa8f1c0d5659c8e719315baed488a45fd47cafddd402",
+      "bytes": 56825,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/research.html",
+      "sha256": "3a69eb0f2852140e8969665173689322b367ed5afa384de43137e8810b5ed65b",
+      "bytes": 13097,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/research.js",
+      "sha256": "bc5d0bc7735a3689c4234115b344d089ff935f48770fd2abace0371de0856cfa",
+      "bytes": 17134,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    }
+  ],
+  "passed": true
+}

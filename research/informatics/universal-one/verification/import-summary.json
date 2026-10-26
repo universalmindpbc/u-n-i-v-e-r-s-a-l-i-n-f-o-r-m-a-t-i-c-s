@@ -1,0 +1,12 @@
+{
+  "version": "research-20261024-v2",
+  "database": {
+    "publications": 811,
+    "passages": 4188,
+    "atlas": 1001,
+    "bytes": "121176064"
+  },
+  "embeddingTokens": 222447,
+  "archivedObjects": 300,
+  "archivedBytes": 37783601
+}

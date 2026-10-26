@@ -1,0 +1,133 @@
+{
+  "sourceCommit": "a5310660c3886b21f458d83d8f85491ec075b428",
+  "verifiedAt": "2026-10-23T21:51:12.788Z",
+  "passed": true,
+  "results": [
+    {
+      "file": "molecular/index.html",
+      "group": "changed",
+      "status": 200,
+      "bytes": 9958,
+      "sha256": "47f6bfbcdb4ba7b24cdac4677de353979bcc1863363f4a36c0e3bfd8cc420ed7"
+    },
+    {
+      "file": "molecular/atlas.js",
+      "group": "changed",
+      "status": 200,
+      "bytes": 36839,
+      "sha256": "fee0c3cbf4b8820e46b5674931c966d5f74e74d1470eb165a90c05d09bc688ac"
+    },
+    {
+      "file": "molecular/interaction-ui.js",
+      "group": "changed",
+      "status": 200,
+      "bytes": 22665,
+      "sha256": "bfa28324268e2be47f6e4eb0f4250270b8846b37013f4eb78eed6bf255d86d6e"
+    },
+    {
+      "file": "molecular/interactions.css",
+      "group": "changed",
+      "status": 200,
+      "bytes": 10202,
+      "sha256": "3aaa4f06467fa2a55a685bb7df4899cbca0ec5dda8e7cee390fed9a39b22e6a7"
+    },
+    {
+      "file": "molecular/vendor/engine.js",
+      "group": "changed",
+      "status": 200,
+      "bytes": 3163747,
+      "sha256": "98bc2afc91a19c468bc8e949bf2ac25c0be50a372821f6932ac0ed02bcc5be9f"
+    },
+    {
+      "file": "index.html",
+      "group": "preserved",
+      "status": 200,
+      "bytes": 27027,
+      "sha256": "f0f81961fa61632b54b0857482413b4085b75bb31b867939e71f1d1c596e98e2"
+    },
+    {
+      "file": "universal-one-live.js",
+      "group": "preserved",
+      "status": 200,
+      "bytes": 11603,
+      "sha256": "d502c8d7eb3187772f66acd845dd156942a28cc118df156c2086370f5a670678"
+    },
+    {
+      "file": "universal-one-routing.js",
+      "group": "preserved",
+      "status": 200,
+      "bytes": 770,
+      "sha256": "a45e3a5787e18b1b84e8c82ac7c304a2a959323e1c7b0ef449c92663c8730308"
+    },
+    {
+      "file": "universal-one.css",
+      "group": "preserved",
+      "status": 200,
+      "bytes": 8337,
+      "sha256": "d1e5327625bc824b5aa2108dd2ebf1bade66c6f43dfc7f6a6d1690ed194cd846"
+    },
+    {
+      "file": "molecular/atlas.css",
+      "group": "preserved",
+      "status": 200,
+      "bytes": 22755,
+      "sha256": "8f32f56bbb7207efe838cacfd7e414e7a34d7c7c5c49746426578ad6f6d95713"
+    },
+    {
+      "file": "molecular/data/interactions/contact.json",
+      "group": "preserved",
+      "status": 200,
+      "bytes": 12468,
+      "sha256": "e2b892dfdd7bea1df79399a1fe238b03850d73269459248c145c562bb8f143b6"
+    },
+    {
+      "file": "molecular/data/interactions/quantum.json",
+      "group": "preserved",
+      "status": 200,
+      "bytes": 8730,
+      "sha256": "75bfdfaf6402066e232b748dc8cb153cb408580f43d852481bdab77f8583537c"
+    },
+    {
+      "file": "molecular/data/interactions/fragment.pdb",
+      "group": "preserved",
+      "status": 200,
+      "bytes": 2453,
+      "sha256": "55ba520116e7268c00a3c92d076ad2dd3ad52bb720d513795075b9b1b3f7e9e8"
+    },
+    {
+      "file": "molecular/data/interactions/fragment.xyz",
+      "group": "preserved",
+      "status": 200,
+      "bytes": 1312,
+      "sha256": "7c4521492d46b589214b73a6fb47e97f82edb317a992bcc9561f83d30b7af3fa"
+    },
+    {
+      "file": "molecular/data/interactions/homo.cube",
+      "group": "preserved",
+      "status": 200,
+      "bytes": 1632655,
+      "sha256": "2d4f4a177f6a3ec352afa15c1a26e14f456e706afe0b0e2701d58b22223a5b8d"
+    },
+    {
+      "file": "molecular/data/interactions/homo-minus-1.cube",
+      "group": "preserved",
+      "status": 200,
+      "bytes": 1632655,
+      "sha256": "76e110eef447e98007c43ac3de8a8451fa0b3e59657ed87a069244ebfb182d64"
+    },
+    {
+      "file": "molecular/data/interactions/lumo.cube",
+      "group": "preserved",
+      "status": 200,
+      "bytes": 1632655,
+      "sha256": "ce88117e7e8fba07f4bc38cca2599b084734c550ed0d6d757c5d2c596150c3f0"
+    },
+    {
+      "file": "molecular/data/interactions/density.cube",
+      "group": "preserved",
+      "status": 200,
+      "bytes": 1632658,
+      "sha256": "e35efe317f9fbddbdb003567f3d950268e8e00019a34acb18d85d8c96b037f0a"
+    }
+  ]
+}

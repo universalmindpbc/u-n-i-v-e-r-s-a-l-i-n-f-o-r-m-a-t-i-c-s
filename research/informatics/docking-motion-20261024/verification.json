@@ -1,0 +1,236 @@
+{
+  "environment": "staging",
+  "sourceCommit": "648df4f2bd34ffb2487d737b31011e7fbdee363b",
+  "integratedBase": "78972a30bfd635eb2c6e74804004057977cd1576",
+  "verifiedAt": "2026-10-23T21:23:15.997080+00:00",
+  "proofUrl": "https://staging.universalmind.tv/informatics/molecular/?level=docking",
+  "deployment": {
+    "command": "./deploy-panthur-staging.sh informatics",
+    "changedUploads": 5,
+    "exitCode": 0,
+    "manifestSHA256": "5350c0fbd94b8b6857c9ef67d88cdcf538850c8c379372513b1c91b07fc2f16b"
+  },
+  "motion": {
+    "live": true,
+    "baseline": false,
+    "processMuted": true,
+    "results": [
+      {
+        "viewport": {
+          "width": 1470,
+          "height": 956
+        },
+        "start": {
+          "pixels": 1413,
+          "x": 799.0261854210898,
+          "y": 262.7685774946921,
+          "width": 1220,
+          "height": 684
+        },
+        "middle": {
+          "pixels": 1344,
+          "x": 704.9084821428571,
+          "y": 301.62276785714283,
+          "width": 1220,
+          "height": 684
+        },
+        "end": {
+          "pixels": 1263,
+          "x": 610.680126682502,
+          "y": 340.4394299287411,
+          "width": 1220,
+          "height": 684
+        },
+        "displacement": 203.73266591342542,
+        "halfDisplacement": 101.82234616768079,
+        "actualPlaybackPixelsMoved": true,
+        "pausePixelsStable": true,
+        "boundPosePixelsRestored": true,
+        "playbackCompletesAtDepositedPose": true,
+        "geometryControlsAndPixels": true,
+        "geometryExport": true,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "start": {
+          "pixels": 830,
+          "x": 334.23855421686744,
+          "y": 196.66265060240963,
+          "width": 390,
+          "height": 515
+        },
+        "middle": {
+          "pixels": 834,
+          "x": 266.8549160671463,
+          "y": 226.9640287769784,
+          "width": 390,
+          "height": 515
+        },
+        "end": {
+          "pixels": 783,
+          "x": 195.0727969348659,
+          "y": 256.27075351213284,
+          "width": 390,
+          "height": 515
+        },
+        "displacement": 151.394299537232,
+        "halfDisplacement": 73.88320654635118,
+        "actualPlaybackPixelsMoved": true,
+        "pausePixelsStable": true,
+        "boundPosePixelsRestored": true,
+        "playbackCompletesAtDepositedPose": true,
+        "geometryControlsAndPixels": true,
+        "geometryExport": true,
+        "errors": []
+      }
+    ]
+  },
+  "http": {
+    "sourceCommit": "648df4f2bd34ffb2487d737b31011e7fbdee363b",
+    "verifiedAt": "2026-10-23T21:21:50.080Z",
+    "passed": true,
+    "results": [
+      {
+        "file": "molecular/index.html",
+        "group": "changed",
+        "status": 200,
+        "bytes": 9958,
+        "sha256": "57b891163008cd7685faf958d97a8d37b9bb715aaa3e109b623ffdee55b4fecf"
+      },
+      {
+        "file": "molecular/atlas.js",
+        "group": "changed",
+        "status": 200,
+        "bytes": 36854,
+        "sha256": "69201424315efd1e0262d1e972f840357c4fa1a87819d0e3bbd1818cbb00162c"
+      },
+      {
+        "file": "molecular/interaction-ui.js",
+        "group": "changed",
+        "status": 200,
+        "bytes": 13931,
+        "sha256": "809b8c7f455634aa0e533c1a0ef84700dc5788034a6fc022ae67e667de138ec0"
+      },
+      {
+        "file": "molecular/interactions.css",
+        "group": "changed",
+        "status": 200,
+        "bytes": 5905,
+        "sha256": "bdc5aab73e98d00ae020d92221d0c299ddeba9fe38aa25d8eab16edd50e677de"
+      },
+      {
+        "file": "molecular/vendor/engine.js",
+        "group": "changed",
+        "status": 200,
+        "bytes": 3156722,
+        "sha256": "4d25d74f2098cebaef6509a0aeb017390025212cf18f432751fb4d7077fce704"
+      },
+      {
+        "file": "index.html",
+        "group": "preserved",
+        "status": 200,
+        "bytes": 26900,
+        "sha256": "80a0cd1e73f8bb1ce889b9971da3d22e661e04bb25f0c4d4bfac950d13901ae5"
+      },
+      {
+        "file": "molecular/atlas.css",
+        "group": "preserved",
+        "status": 200,
+        "bytes": 22755,
+        "sha256": "8f32f56bbb7207efe838cacfd7e414e7a34d7c7c5c49746426578ad6f6d95713"
+      },
+      {
+        "file": "molecular/data/interactions/contact.json",
+        "group": "preserved",
+        "status": 200,
+        "bytes": 12468,
+        "sha256": "e2b892dfdd7bea1df79399a1fe238b03850d73269459248c145c562bb8f143b6"
+      },
+      {
+        "file": "molecular/data/interactions/quantum.json",
+        "group": "preserved",
+        "status": 200,
+        "bytes": 8730,
+        "sha256": "75bfdfaf6402066e232b748dc8cb153cb408580f43d852481bdab77f8583537c"
+      },
+      {
+        "file": "molecular/data/interactions/fragment.pdb",
+        "group": "preserved",
+        "status": 200,
+        "bytes": 2453,
+        "sha256": "55ba520116e7268c00a3c92d076ad2dd3ad52bb720d513795075b9b1b3f7e9e8"
+      },
+      {
+        "file": "molecular/data/interactions/fragment.xyz",
+        "group": "preserved",
+        "status": 200,
+        "bytes": 1312,
+        "sha256": "7c4521492d46b589214b73a6fb47e97f82edb317a992bcc9561f83d30b7af3fa"
+      },
+      {
+        "file": "molecular/data/interactions/homo.cube",
+        "group": "preserved",
+        "status": 200,
+        "bytes": 1632655,
+        "sha256": "2d4f4a177f6a3ec352afa15c1a26e14f456e706afe0b0e2701d58b22223a5b8d"
+      },
+      {
+        "file": "molecular/data/interactions/homo-minus-1.cube",
+        "group": "preserved",
+        "status": 200,
+        "bytes": 1632655,
+        "sha256": "76e110eef447e98007c43ac3de8a8451fa0b3e59657ed87a069244ebfb182d64"
+      },
+      {
+        "file": "molecular/data/interactions/lumo.cube",
+        "group": "preserved",
+        "status": 200,
+        "bytes": 1632655,
+        "sha256": "ce88117e7e8fba07f4bc38cca2599b084734c550ed0d6d757c5d2c596150c3f0"
+      },
+      {
+        "file": "molecular/data/interactions/density.cube",
+        "group": "preserved",
+        "status": 200,
+        "bytes": 1632658,
+        "sha256": "e35efe317f9fbddbdb003567f3d950268e8e00019a34acb18d85d8c96b037f0a"
+      }
+    ]
+  },
+  "productionModified": false,
+  "embedded": {
+    "live": true,
+    "audioMutedAtProcessLevel": true,
+    "nativeFullscreen": false,
+    "results": [
+      {
+        "viewport": {
+          "width": 1470,
+          "height": 956
+        },
+        "embedded": true,
+        "entry": true,
+        "separateViews": true,
+        "pauseOnExit": true,
+        "selectionPreserved": true
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "embedded": true,
+        "entry": true,
+        "separateViews": true,
+        "pauseOnExit": true,
+        "selectionPreserved": true
+      }
+    ],
+    "directQuantum": true,
+    "checksumFailureVisible": true
+  }
+}

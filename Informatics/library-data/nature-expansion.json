@@ -1,0 +1,2190 @@
+{
+  "reviewedAt": "2026-10-23",
+  "records": [
+    {
+      "title": "CD38 is critical for social behaviour by regulating oxytocin secretion",
+      "journal": "Nature",
+      "year": 2007,
+      "authors": "Duo Jin; Hong-Xiang Liu; Hirokazu Hirai; Takashi Torashima; Taku Nagai; Olga Lopatina; Natalia A. Shnayder; Kiyofumi Yamada; Mami Noda; Toshihiro Seike; Kyota Fujita; Shin Takasawa; Shigeru Yokoyama; Keita Koizumi; Yoshitake Shiraishi; Shigenori Tanaka; Minako Hashii; Toru Yoshihara; Kazuhiro Higashida; Mohammad Saharul Islam; Nobuaki Yamada; Kenshi Hayashi; Naoya Noguchi; Ichiro Kato; Hiroshi Okamoto; Akihiro Matsushima; Alla Salmina; Toshio Munesue; Nobuaki Shimizu; Sumiko Mochida; Masahide Asano; Haruhiro Higashida",
+      "doi": "10.1038/nature05526",
+      "pmid": "17287729",
+      "id": "pmid-17287729",
+      "collections": [
+        "general"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/nature05526",
+        "https://doi.org/10.1038/nature05526",
+        "https://pubmed.ncbi.nlm.nih.gov/17287729/"
+      ],
+      "design": "Experimental mouse study",
+      "categories": [
+        "Molecular biomarkers"
+      ],
+      "targets": [
+        "CD38",
+        "OXT"
+      ],
+      "neurotransmitters": [
+        "Oxytocin"
+      ],
+      "priority": 1,
+      "finding": "Mice lacking CD38 had reduced oxytocin secretion and impaired maternal and social behaviour. Oxytocin administration or restoration of CD38 rescued aspects of the behavioural changes, linking CD38-dependent calcium signalling to oxytocin release.",
+      "limitation": "A mechanistic animal study; it does not establish a clinical treatment effect in humans.",
+      "kind": "Journal article",
+      "citationCount": 585,
+      "citationSnapshot": {
+        "count": 585,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/nature05526"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Experimental mouse study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/nature05526",
+          "https://doi.org/10.1038/nature05526",
+          "https://pubmed.ncbi.nlm.nih.gov/17287729/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Molecular biomarkers",
+        "sample": "Cd38-knockout and control mice",
+        "measurement": "Oxytocin secretion, calcium signalling and social behaviour",
+        "measuredGenes": [],
+        "relationshipNote": "A mechanistic animal study; it does not establish a clinical treatment effect in humans.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/nature05526",
+          "https://doi.org/10.1038/nature05526",
+          "https://pubmed.ncbi.nlm.nih.gov/17287729/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "Social reward requires coordinated activity of nucleus accumbens oxytocin and serotonin",
+      "journal": "Nature",
+      "year": 2013,
+      "authors": "Gül Dölen; Ayeh Darvishzadeh; Kee Wui Huang; Robert C. Malenka",
+      "doi": "10.1038/nature12518",
+      "pmid": "24025838",
+      "id": "pmid-24025838",
+      "collections": [
+        "general"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/nature12518",
+        "https://doi.org/10.1038/nature12518",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4091761/",
+        "https://pubmed.ncbi.nlm.nih.gov/24025838/"
+      ],
+      "design": "Experimental mouse study",
+      "categories": [
+        "Brain & nervous system"
+      ],
+      "targets": [
+        "OXTR",
+        "HTR1B"
+      ],
+      "neurotransmitters": [
+        "Oxytocin",
+        "Serotonin"
+      ],
+      "priority": 1,
+      "finding": "In mice, social reward required coordinated oxytocin and serotonin signalling in the nucleus accumbens. Removing oxytocin receptors from dorsal raphe inputs, or blocking accumbens serotonin 5-HT1B receptors, prevented the rewarding effect of social interaction.",
+      "limitation": "The experiments identify a mouse neural mechanism. They do not measure SLC6A4 gene expression or test a human therapy.",
+      "kind": "Journal article",
+      "citationCount": 1160,
+      "citationSnapshot": {
+        "count": 1160,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/nature12518"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Experimental mouse study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/nature12518",
+          "https://doi.org/10.1038/nature12518",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC4091761/",
+          "https://pubmed.ncbi.nlm.nih.gov/24025838/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Brain & nervous system",
+        "sample": "Mice",
+        "measurement": "Receptor deletion, pharmacology, synaptic responses and social reward",
+        "measuredGenes": [],
+        "relationshipNote": "The experiments identify a mouse neural mechanism. They do not measure SLC6A4 gene expression or test a human therapy.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/nature12518",
+          "https://doi.org/10.1038/nature12518",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC4091761/",
+          "https://pubmed.ncbi.nlm.nih.gov/24025838/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "Evidence for the existence of dopamine d2-oxytocin receptor heteromers in the ventral and dorsal striatum with facilitatory receptor–receptor interactions",
+      "journal": "Molecular Psychiatry",
+      "year": 2012,
+      "authors": "W Romero-Fernandez; D O Borroto-Escuela; L F Agnati; K Fuxe",
+      "doi": "10.1038/mp.2012.103",
+      "pmid": "22824810",
+      "id": "pmid-22824810",
+      "collections": [
+        "general"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/mp2012103",
+        "https://doi.org/10.1038/mp.2012.103",
+        "https://pubmed.ncbi.nlm.nih.gov/22824810/"
+      ],
+      "design": "Laboratory receptor-interaction study; research letter",
+      "categories": [
+        "Molecular biomarkers"
+      ],
+      "targets": [
+        "DRD2",
+        "OXTR"
+      ],
+      "neurotransmitters": [
+        "Dopamine",
+        "Oxytocin"
+      ],
+      "priority": 1,
+      "finding": "The authors report dopamine D2–oxytocin receptor complexes in the ventral and dorsal striatum, with facilitatory interactions between the receptors. The findings provide a molecular explanation to investigate alongside wider evidence linking dopamine and oxytocin to social behaviour.",
+      "limitation": "Receptor interactions in laboratory preparations do not establish their clinical importance or demonstrate a change in gene expression.",
+      "kind": "Journal article",
+      "citationCount": 149,
+      "citationSnapshot": {
+        "count": 149,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/mp.2012.103"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Laboratory receptor-interaction study; research letter. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/mp2012103",
+          "https://doi.org/10.1038/mp.2012.103",
+          "https://pubmed.ncbi.nlm.nih.gov/22824810/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Molecular biomarkers",
+        "sample": "Laboratory receptor and rat striatal preparations",
+        "measurement": "Receptor proximity and functional receptor interactions",
+        "measuredGenes": [],
+        "relationshipNote": "Receptor interactions in laboratory preparations do not establish their clinical importance or demonstrate a change in gene expression.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/mp2012103",
+          "https://doi.org/10.1038/mp.2012.103",
+          "https://pubmed.ncbi.nlm.nih.gov/22824810/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "The neural mechanisms and circuitry of the pair bond",
+      "journal": "Nature Reviews Neuroscience",
+      "year": 2018,
+      "authors": "Hasse Walum; Larry J. Young",
+      "doi": "10.1038/s41583-018-0072-6",
+      "pmid": "30301953",
+      "id": "pmid-30301953",
+      "collections": [
+        "general"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/s41583-018-0072-6",
+        "https://doi.org/10.1038/s41583-018-0072-6",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6283620/",
+        "https://pubmed.ncbi.nlm.nih.gov/30301953/"
+      ],
+      "design": "Narrative review",
+      "categories": [
+        "Brain & nervous system"
+      ],
+      "targets": [
+        "OXTR",
+        "DRD2",
+        "AVPR1A"
+      ],
+      "neurotransmitters": [
+        "Oxytocin",
+        "Dopamine",
+        "Vasopressin"
+      ],
+      "priority": 1,
+      "finding": "This review describes how oxytocin, dopamine and vasopressin interact with reward and social-memory circuits during pair-bond formation and maintenance. It connects experimental work in prairie voles and other animals with questions about human attachment.",
+      "limitation": "A narrative synthesis with substantial animal evidence; it is not a pooled estimate of a human treatment effect.",
+      "kind": "Review",
+      "citationCount": 346,
+      "citationSnapshot": {
+        "count": 346,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/s41583-018-0072-6"
+      },
+      "studyDesignAssessment": {
+        "category": "review",
+        "peerReviewed": true,
+        "basis": "Narrative review. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/s41583-018-0072-6",
+          "https://doi.org/10.1038/s41583-018-0072-6",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC6283620/",
+          "https://pubmed.ncbi.nlm.nih.gov/30301953/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Brain & nervous system",
+        "sample": "Animal studies and human attachment research",
+        "measurement": "Review of neural circuits and receptor mechanisms",
+        "measuredGenes": [],
+        "relationshipNote": "A narrative synthesis with substantial animal evidence; it is not a pooled estimate of a human treatment effect.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/s41583-018-0072-6",
+          "https://doi.org/10.1038/s41583-018-0072-6",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC6283620/",
+          "https://pubmed.ncbi.nlm.nih.gov/30301953/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "Quantitative cellular-resolution map of the oxytocin receptor in postnatally developing mouse brains",
+      "journal": "Nature Communications",
+      "year": 2020,
+      "authors": "Kyra T. Newmaster; Zachary T. Nolan; Uree Chon; Daniel J. Vanselow; Abigael R. Weit; Manal Tabbaa; Shizu Hidema; Katsuhiko Nishimori; Elizabeth A. D. Hammock; Yongsoo Kim",
+      "doi": "10.1038/s41467-020-15659-1",
+      "pmid": "32313029",
+      "id": "pmid-32313029",
+      "collections": [
+        "general"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/s41467-020-15659-1",
+        "https://doi.org/10.1038/s41467-020-15659-1",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7171089/",
+        "https://pubmed.ncbi.nlm.nih.gov/32313029/"
+      ],
+      "design": "Experimental developmental brain-mapping study",
+      "categories": [
+        "Gene expression"
+      ],
+      "targets": [
+        "OXTR"
+      ],
+      "neurotransmitters": [
+        "Oxytocin"
+      ],
+      "priority": 0,
+      "finding": "Cellular-resolution maps show that oxytocin receptor expression changes across brain regions and postnatal development in mice. Reporter imaging and RNA measurements identify transient cortical expression and region-specific patterns, providing an anatomical reference for oxytocin research.",
+      "limitation": "Mouse developmental maps do not establish the corresponding receptor distribution or functional connections in the human brain.",
+      "kind": "Journal article",
+      "citationCount": 124,
+      "citationSnapshot": {
+        "count": 124,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/s41467-020-15659-1"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Experimental developmental brain-mapping study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/s41467-020-15659-1",
+          "https://doi.org/10.1038/s41467-020-15659-1",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7171089/",
+          "https://pubmed.ncbi.nlm.nih.gov/32313029/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Gene expression",
+        "sample": "Postnatally developing mice",
+        "measurement": "Oxytocin receptor reporter imaging and in situ RNA measurements",
+        "measuredGenes": [
+          "OXTR"
+        ],
+        "relationshipNote": "Mouse developmental maps do not establish the corresponding receptor distribution or functional connections in the human brain.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/s41467-020-15659-1",
+          "https://doi.org/10.1038/s41467-020-15659-1",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7171089/",
+          "https://pubmed.ncbi.nlm.nih.gov/32313029/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "Oxytocin mediates early experience–dependent cross-modal plasticity in the sensory cortices",
+      "journal": "Nature Neuroscience",
+      "year": 2014,
+      "authors": "Jing-Jing Zheng; Shu-Jing Li; Xiao-Di Zhang; Wan-Ying Miao; Dinghong Zhang; Haishan Yao; Xiang Yu",
+      "doi": "10.1038/nn.3634",
+      "pmid": "24464043",
+      "id": "pmid-24464043",
+      "collections": [
+        "general"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/nn.3634",
+        "https://doi.org/10.1038/nn.3634",
+        "https://pubmed.ncbi.nlm.nih.gov/24464043/"
+      ],
+      "design": "Experimental mouse study",
+      "categories": [
+        "Brain & nervous system"
+      ],
+      "targets": [
+        "OXT"
+      ],
+      "neurotransmitters": [
+        "Oxytocin"
+      ],
+      "priority": 1,
+      "finding": "Early sensory deprivation altered oxytocin synthesis and release and reduced excitatory synaptic transmission across sensory cortices in mice. Oxytocin treatment restored aspects of this transmission, linking early sensory experience to oxytocin-dependent cortical plasticity.",
+      "limitation": "Experiments in developing mice; the study does not test EMDR, music therapy or a human clinical intervention.",
+      "kind": "Journal article",
+      "citationCount": 198,
+      "citationSnapshot": {
+        "count": 198,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/nn.3634"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Experimental mouse study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/nn.3634",
+          "https://doi.org/10.1038/nn.3634",
+          "https://pubmed.ncbi.nlm.nih.gov/24464043/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Brain & nervous system",
+        "sample": "Developing mice exposed to sensory deprivation",
+        "measurement": "Oxytocin synthesis and release; cortical synaptic transmission",
+        "measuredGenes": [],
+        "relationshipNote": "Experiments in developing mice; the study does not test EMDR, music therapy or a human clinical intervention.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/nn.3634",
+          "https://doi.org/10.1038/nn.3634",
+          "https://pubmed.ncbi.nlm.nih.gov/24464043/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "Oxytocin-dependent reopening of a social reward learning critical period with MDMA",
+      "journal": "Nature",
+      "year": 2019,
+      "authors": "Romain Nardou; Eastman M. Lewis; Rebecca Rothhaas; Ran Xu; Aimei Yang; Edward Boyden; Gül Dölen",
+      "doi": "10.1038/s41586-019-1075-9",
+      "pmid": "30944474",
+      "id": "pmid-30944474",
+      "collections": [
+        "general"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/s41586-019-1075-9",
+        "https://doi.org/10.1038/s41586-019-1075-9",
+        "https://pubmed.ncbi.nlm.nih.gov/30944474/"
+      ],
+      "design": "Experimental mouse study",
+      "categories": [
+        "Brain & nervous system"
+      ],
+      "targets": [
+        "OXTR",
+        "SLC6A4"
+      ],
+      "neurotransmitters": [
+        "Oxytocin",
+        "Serotonin",
+        "Dopamine"
+      ],
+      "priority": 1,
+      "finding": "In adult mice, MDMA reopened a developmental period for social-reward learning. The effect involved oxytocin-dependent plasticity in the nucleus accumbens, connecting serotonergic drug action with oxytocin signalling and social learning.",
+      "limitation": "An animal mechanism study. SLC6A4 is indexed for serotonin-transporter involvement, not a measured change in its gene expression. The study does not establish human treatment efficacy.",
+      "kind": "Journal article",
+      "citationCount": 308,
+      "citationSnapshot": {
+        "count": 308,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/s41586-019-1075-9"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Experimental mouse study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/s41586-019-1075-9",
+          "https://doi.org/10.1038/s41586-019-1075-9",
+          "https://pubmed.ncbi.nlm.nih.gov/30944474/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Brain & nervous system",
+        "sample": "Mice",
+        "measurement": "Social-reward learning, pharmacology and synaptic plasticity",
+        "measuredGenes": [],
+        "relationshipNote": "An animal mechanism study. SLC6A4 is indexed for serotonin-transporter involvement, not a measured change in its gene expression. The study does not establish human treatment efficacy.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/s41586-019-1075-9",
+          "https://doi.org/10.1038/s41586-019-1075-9",
+          "https://pubmed.ncbi.nlm.nih.gov/30944474/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "Functional involvement of septal miR-132 in extinction and oxytocin-mediated reversal of social fear",
+      "journal": "Molecular Psychiatry",
+      "year": 2023,
+      "authors": "Anna Bludau; Uwe Schwartz; Daniela M. Zeitler; Melanie Royer; Gunter Meister; Inga D. Neumann; Rohit Menon",
+      "doi": "10.1038/s41380-023-02309-3",
+      "pmid": "37938765",
+      "id": "pmid-37938765",
+      "collections": [
+        "general"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/s41380-023-02309-3",
+        "https://doi.org/10.1038/s41380-023-02309-3",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11371636/",
+        "https://pubmed.ncbi.nlm.nih.gov/37938765/"
+      ],
+      "design": "Experimental mouse molecular study",
+      "categories": [
+        "Gene expression"
+      ],
+      "targets": [
+        "OXTR",
+        "MIR132",
+        "GDF5"
+      ],
+      "neurotransmitters": [
+        "Oxytocin"
+      ],
+      "priority": 0,
+      "finding": "Septal miR-132 contributed to social-fear extinction and oxytocin-mediated reversal of social fear in male mice. Manipulation in oxytocin-receptor-expressing neurons linked this microRNA to behavioural responses and downstream Gdf5 regulation.",
+      "limitation": "The molecular and behavioural findings come from male mice; they do not establish a therapy or biomarker for human social anxiety.",
+      "kind": "Journal article",
+      "citationCount": 14,
+      "citationSnapshot": {
+        "count": 14,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/s41380-023-02309-3"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Experimental mouse molecular study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/s41380-023-02309-3",
+          "https://doi.org/10.1038/s41380-023-02309-3",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC11371636/",
+          "https://pubmed.ncbi.nlm.nih.gov/37938765/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Gene expression",
+        "sample": "Male mice",
+        "measurement": "Septal microRNA expression and manipulation; social-fear behaviour",
+        "measuredGenes": [
+          "MIR132",
+          "GDF5"
+        ],
+        "relationshipNote": "The molecular and behavioural findings come from male mice; they do not establish a therapy or biomarker for human social anxiety.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/s41380-023-02309-3",
+          "https://doi.org/10.1038/s41380-023-02309-3",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC11371636/",
+          "https://pubmed.ncbi.nlm.nih.gov/37938765/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "Effects of intranasal oxytocin on fear extinction learning",
+      "journal": "Neuropsychopharmacology",
+      "year": 2024,
+      "authors": "Mahmoud Rashidi; Joe J. Simon; Katja Bertsch; Gerhard Vincent Wegen; Beate Ditzen; Herta Flor; Valery Grinevich; Robert Christian Wolf; Sabine C. Herpertz",
+      "doi": "10.1038/s41386-024-01996-y",
+      "pmid": "39313675",
+      "id": "pmid-39313675",
+      "collections": [
+        "general"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/s41386-024-01996-y",
+        "https://doi.org/10.1038/s41386-024-01996-y",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11735929/",
+        "https://pubmed.ncbi.nlm.nih.gov/39313675/"
+      ],
+      "design": "Double-blind randomized placebo-controlled trial",
+      "categories": [
+        "Brain & nervous system"
+      ],
+      "targets": [],
+      "neurotransmitters": [
+        "Oxytocin"
+      ],
+      "priority": 1,
+      "finding": "In 124 healthy women, intranasal oxytocin impaired fear-extinction learning relative to placebo. The result challenges the assumption that oxytocin uniformly improves extinction and highlights the importance of timing and experimental context.",
+      "limitation": "Healthy participants completed a laboratory conditioning task. The trial did not test a clinical PTSD treatment or measure gene expression.",
+      "kind": "Journal article",
+      "citationCount": 8,
+      "citationSnapshot": {
+        "count": 8,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/s41386-024-01996-y"
+      },
+      "studyDesignAssessment": {
+        "category": "double-blind-rct",
+        "peerReviewed": true,
+        "basis": "The article reports a randomized, double-blind, placebo-controlled human experiment. Its outcome is laboratory fear extinction.",
+        "sources": [
+          "https://www.nature.com/articles/s41386-024-01996-y",
+          "https://doi.org/10.1038/s41386-024-01996-y",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC11735929/",
+          "https://pubmed.ncbi.nlm.nih.gov/39313675/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Brain & nervous system",
+        "sample": "124 healthy women",
+        "measurement": "Fear conditioning and extinction responses",
+        "measuredGenes": [],
+        "relationshipNote": "Healthy participants completed a laboratory conditioning task. The trial did not test a clinical PTSD treatment or measure gene expression.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/s41386-024-01996-y",
+          "https://doi.org/10.1038/s41386-024-01996-y",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC11735929/",
+          "https://pubmed.ncbi.nlm.nih.gov/39313675/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "Interdependency between oxytocin and dopamine in trust-based learning in mice",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "authors": "Samuel Budniok; Zsuzsanna Callaerts-Vegh; Marian Bakermans-Kranenburg; Guy Bosmans; Rudi D’Hooge",
+      "doi": "10.1038/s41598-026-38976-9",
+      "pmid": "41663511",
+      "id": "pmid-41663511",
+      "collections": [
+        "general"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/s41598-026-38976-9",
+        "https://doi.org/10.1038/s41598-026-38976-9",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12957489/",
+        "https://pubmed.ncbi.nlm.nih.gov/41663511/"
+      ],
+      "design": "Experimental mouse study",
+      "categories": [
+        "Brain & nervous system"
+      ],
+      "targets": [],
+      "neurotransmitters": [
+        "Oxytocin",
+        "Dopamine"
+      ],
+      "priority": 1,
+      "finding": "Oxytocin and dopamine interacted during socially acquired food-preference learning in mice. Oxytocin affected updating after an aversive outcome, and dopamine depletion removed this effect, indicating dependence on intact dopaminergic signalling.",
+      "limitation": "“Trust” is operationalised through a mouse food-learning task. The experiment does not directly measure human trust or DRD2 gene expression.",
+      "kind": "Journal article",
+      "citationCount": 1,
+      "citationSnapshot": {
+        "count": 1,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/s41598-026-38976-9"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Experimental mouse study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/s41598-026-38976-9",
+          "https://doi.org/10.1038/s41598-026-38976-9",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12957489/",
+          "https://pubmed.ncbi.nlm.nih.gov/41663511/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Brain & nervous system",
+        "sample": "Mice",
+        "measurement": "Social transmission of food preference and pharmacological manipulation",
+        "measuredGenes": [],
+        "relationshipNote": "“Trust” is operationalised through a mouse food-learning task. The experiment does not directly measure human trust or DRD2 gene expression.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/s41598-026-38976-9",
+          "https://doi.org/10.1038/s41598-026-38976-9",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12957489/",
+          "https://pubmed.ncbi.nlm.nih.gov/41663511/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "Neural circuitry for maternal oxytocin release induced by infant cries",
+      "journal": "Nature",
+      "year": 2023,
+      "authors": "Silvana Valtcheva; Habon A. Issa; Chloe J. Bair-Marshall; Kathleen A. Martin; Kanghoon Jung; Yiyao Zhang; Hyung-Bae Kwon; Robert C. Froemke",
+      "doi": "10.1038/s41586-023-06540-4",
+      "pmid": "37730989",
+      "id": "pmid-37730989",
+      "collections": [
+        "general"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/s41586-023-06540-4",
+        "https://doi.org/10.1038/s41586-023-06540-4",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10639004/",
+        "https://pubmed.ncbi.nlm.nih.gov/37730989/"
+      ],
+      "design": "Experimental mouse neural-circuit study",
+      "categories": [
+        "Brain & nervous system"
+      ],
+      "targets": [
+        "OXT"
+      ],
+      "neurotransmitters": [
+        "Oxytocin"
+      ],
+      "priority": 1,
+      "finding": "Pup calls activated a thalamus-to-hypothalamus pathway that promoted maternal oxytocin release in mice. Prolonged disinhibition of oxytocin neurons linked an auditory social cue to neuropeptide release.",
+      "limitation": "The study examines maternal responses to infant calls in mice. It does not test music, brain entrainment or human stress reduction.",
+      "kind": "Journal article",
+      "citationCount": 110,
+      "citationSnapshot": {
+        "count": 110,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/s41586-023-06540-4"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Experimental mouse neural-circuit study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/s41586-023-06540-4",
+          "https://doi.org/10.1038/s41586-023-06540-4",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10639004/",
+          "https://pubmed.ncbi.nlm.nih.gov/37730989/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Brain & nervous system",
+        "sample": "Maternal mice",
+        "measurement": "Neural recordings, circuit manipulation and oxytocin release",
+        "measuredGenes": [],
+        "relationshipNote": "The study examines maternal responses to infant calls in mice. It does not test music, brain entrainment or human stress reduction.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/s41586-023-06540-4",
+          "https://doi.org/10.1038/s41586-023-06540-4",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10639004/",
+          "https://pubmed.ncbi.nlm.nih.gov/37730989/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood abuse",
+      "journal": "Nature Neuroscience",
+      "year": 2009,
+      "authors": "Patrick O McGowan; Aya Sasaki; Ana C D'Alessio; Sergiy Dymov; Benoit Labonté; Moshe Szyf; Gustavo Turecki; Michael J Meaney",
+      "doi": "10.1038/nn.2270",
+      "pmid": "19234457",
+      "id": "pmid-19234457",
+      "collections": [
+        "general"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/nn.2270",
+        "https://doi.org/10.1038/nn.2270",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC2944040/",
+        "https://pubmed.ncbi.nlm.nih.gov/19234457/"
+      ],
+      "design": "Human postmortem observational study and laboratory assays",
+      "categories": [
+        "Epigenetics"
+      ],
+      "targets": [
+        "NR3C1"
+      ],
+      "neurotransmitters": [],
+      "priority": 0,
+      "finding": "Hippocampal tissue from suicide victims with a history of childhood abuse showed altered glucocorticoid-receptor promoter methylation and lower receptor transcript levels. Laboratory promoter assays supported a potential regulatory link between methylation and transcription.",
+      "limitation": "Postmortem associations cannot establish that childhood adversity caused the molecular differences or that the pattern applies to every exposed person.",
+      "kind": "Journal article",
+      "citationCount": 2913,
+      "citationSnapshot": {
+        "count": 2913,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/nn.2270"
+      },
+      "studyDesignAssessment": {
+        "category": "observational",
+        "peerReviewed": true,
+        "basis": "Human postmortem observational study and laboratory assays. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/nn.2270",
+          "https://doi.org/10.1038/nn.2270",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC2944040/",
+          "https://pubmed.ncbi.nlm.nih.gov/19234457/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Epigenetics",
+        "sample": "Human postmortem hippocampal tissue",
+        "measurement": "NR3C1 promoter methylation and messenger RNA",
+        "measuredGenes": [
+          "NR3C1"
+        ],
+        "relationshipNote": "Postmortem associations cannot establish that childhood adversity caused the molecular differences or that the pattern applies to every exposed person.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/nn.2270",
+          "https://doi.org/10.1038/nn.2270",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC2944040/",
+          "https://pubmed.ncbi.nlm.nih.gov/19234457/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "Social stress induces neurovascular pathology promoting depression",
+      "journal": "Nature Neuroscience",
+      "year": 2017,
+      "authors": "Caroline Menard; Madeline L. Pfau; Georgia E. Hodes; Veronika Kana; Victoria X. Wang; Sylvain Bouchard; Aki Takahashi; Meghan E. Flanigan; Hossein Aleyasin; Katherine B. LeClair; William G. Janssen; Benoit Labonté; Eric M. Parise; Zachary S. Lorsch; Sam A. Golden; Mitra Heshmati; Carol Tamminga; Gustavo Turecki; Matthew Campbell; Zahi A. Fayad; Cheuk Ying Tang; Miriam Merad; Scott J. Russo",
+      "doi": "10.1038/s41593-017-0010-3",
+      "pmid": "29184215",
+      "id": "pmid-29184215",
+      "collections": [
+        "general"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/s41593-017-0010-3",
+        "https://doi.org/10.1038/s41593-017-0010-3",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5726568/",
+        "https://pubmed.ncbi.nlm.nih.gov/29184215/"
+      ],
+      "design": "Experimental mouse study with human postmortem comparison",
+      "categories": [
+        "Molecular biomarkers"
+      ],
+      "targets": [
+        "IL6",
+        "CLDN5"
+      ],
+      "neurotransmitters": [],
+      "priority": 1,
+      "finding": "Chronic social stress reduced the tight-junction protein claudin-5 in susceptible mice, increasing blood–brain barrier permeability and allowing peripheral IL-6 into the brain. Reduced CLDN5 was also observed in postmortem tissue from people with depression.",
+      "limitation": "Causal manipulations were performed in mice. IL-6 infiltration is a protein-level finding; the human comparison is observational.",
+      "kind": "Journal article",
+      "citationCount": 971,
+      "citationSnapshot": {
+        "count": 971,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/s41593-017-0010-3"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Experimental mouse study with human postmortem comparison. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/s41593-017-0010-3",
+          "https://doi.org/10.1038/s41593-017-0010-3",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC5726568/",
+          "https://pubmed.ncbi.nlm.nih.gov/29184215/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Molecular biomarkers",
+        "sample": "Mice and human postmortem tissue",
+        "measurement": "Blood–brain barrier permeability, CLDN5 expression and IL-6 protein",
+        "measuredGenes": [
+          "CLDN5"
+        ],
+        "relationshipNote": "Causal manipulations were performed in mice. IL-6 infiltration is a protein-level finding; the human comparison is observational.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/s41593-017-0010-3",
+          "https://doi.org/10.1038/s41593-017-0010-3",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC5726568/",
+          "https://pubmed.ncbi.nlm.nih.gov/29184215/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "NMDA receptor trafficking in synaptic plasticity and neuropsychiatric disorders",
+      "journal": "Nature Reviews Neuroscience",
+      "year": 2007,
+      "authors": "C. Geoffrey Lau; R. Suzanne Zukin",
+      "doi": "10.1038/nrn2153",
+      "pmid": "17514195",
+      "id": "pmid-17514195",
+      "collections": [
+        "general"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/nrn2153",
+        "https://doi.org/10.1038/nrn2153",
+        "https://pubmed.ncbi.nlm.nih.gov/17514195/"
+      ],
+      "design": "Narrative review",
+      "categories": [
+        "Brain & nervous system"
+      ],
+      "targets": [
+        "NMDA"
+      ],
+      "neurotransmitters": [],
+      "priority": 1,
+      "finding": "This review explains how NMDA receptor trafficking and subunit composition influence synaptic plasticity, and discusses their relevance to neuropsychiatric disorders. It provides background for interpreting activity-dependent changes in excitatory signalling.",
+      "limitation": "NMDA denotes a receptor family. This review does not establish a direct OXTR interaction or the efficacy of a particular intervention.",
+      "kind": "Review",
+      "citationCount": 993,
+      "citationSnapshot": {
+        "count": 993,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/nrn2153"
+      },
+      "studyDesignAssessment": {
+        "category": "review",
+        "peerReviewed": true,
+        "basis": "Narrative review. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/nrn2153",
+          "https://doi.org/10.1038/nrn2153",
+          "https://pubmed.ncbi.nlm.nih.gov/17514195/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Brain & nervous system",
+        "sample": "Cellular, animal and neuropsychiatric literature",
+        "measurement": "Review of receptor trafficking and synaptic plasticity",
+        "measuredGenes": [],
+        "relationshipNote": "NMDA denotes a receptor family. This review does not establish a direct OXTR interaction or the efficacy of a particular intervention.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/nrn2153",
+          "https://doi.org/10.1038/nrn2153",
+          "https://pubmed.ncbi.nlm.nih.gov/17514195/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "The effect of music performance on the transcriptome of professional musicians",
+      "journal": "Scientific Reports",
+      "year": 2015,
+      "authors": "Chakravarthi Kanduri; Tuire Kuusi; Minna Ahvenainen; Anju K. Philips; Harri Lähdesmäki; Irma Järvelä",
+      "doi": "10.1038/srep09506",
+      "pmid": "25806429",
+      "id": "pmid-25806429",
+      "collections": [
+        "sound"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/srep09506",
+        "https://doi.org/10.1038/srep09506",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5380155/",
+        "https://pubmed.ncbi.nlm.nih.gov/25806429/"
+      ],
+      "design": "Controlled, non-randomized transcriptome study",
+      "categories": [
+        "Gene expression"
+      ],
+      "targets": [
+        "SNCA",
+        "FOS",
+        "DUSP1"
+      ],
+      "neurotransmitters": [],
+      "priority": 0,
+      "finding": "Whole-blood gene expression changed after a two-hour concert performed by professional musicians. Genes including SNCA, FOS and DUSP1 contributed to the reported response, with enrichment of pathways related to neuronal activity and plasticity.",
+      "limitation": "Ten performers were compared with ten music-free controls. Blood transcription does not directly measure gene expression in the brain, and allocation was not randomized.",
+      "kind": "Journal article",
+      "citationCount": 49,
+      "citationSnapshot": {
+        "count": 49,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/srep09506"
+      },
+      "studyDesignAssessment": {
+        "category": "observational",
+        "peerReviewed": true,
+        "basis": "Controlled, non-randomized transcriptome study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/srep09506",
+          "https://doi.org/10.1038/srep09506",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC5380155/",
+          "https://pubmed.ncbi.nlm.nih.gov/25806429/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Gene expression",
+        "sample": "10 professional performers and 10 controls",
+        "measurement": "Whole-blood transcriptome before and after two hours",
+        "measuredGenes": [
+          "SNCA",
+          "FOS",
+          "DUSP1"
+        ],
+        "relationshipNote": "Ten performers were compared with ten music-free controls. Blood transcription does not directly measure gene expression in the brain, and allocation was not randomized.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/srep09506",
+          "https://doi.org/10.1038/srep09506",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC5380155/",
+          "https://pubmed.ncbi.nlm.nih.gov/25806429/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "Anatomically distinct dopamine release during anticipation and experience of peak emotion to music",
+      "journal": "Nature Neuroscience",
+      "year": 2011,
+      "authors": "Valorie N Salimpoor; Mitchel Benovoy; Kevin Larcher; Alain Dagher; Robert J Zatorre",
+      "doi": "10.1038/nn.2726",
+      "pmid": "21217764",
+      "id": "pmid-21217764",
+      "collections": [
+        "sound"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/nn.2726",
+        "https://doi.org/10.1038/nn.2726",
+        "https://pubmed.ncbi.nlm.nih.gov/21217764/"
+      ],
+      "design": "Human PET and functional MRI study",
+      "categories": [
+        "Brain & nervous system"
+      ],
+      "targets": [],
+      "neurotransmitters": [
+        "Dopamine"
+      ],
+      "priority": 1,
+      "finding": "Pleasurable music was associated with dopamine release in the striatum. Anticipation and peak emotional experience recruited different regions, with caudate involvement during anticipation and nucleus accumbens involvement during peak pleasure.",
+      "limitation": "A small laboratory study of selected listeners. Dopamine release is not a measurement of DRD2 gene expression or a music-therapy outcome.",
+      "kind": "Journal article",
+      "citationCount": 1354,
+      "citationSnapshot": {
+        "count": 1354,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/nn.2726"
+      },
+      "studyDesignAssessment": {
+        "category": "observational",
+        "peerReviewed": true,
+        "basis": "Human PET and functional MRI study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/nn.2726",
+          "https://doi.org/10.1038/nn.2726",
+          "https://pubmed.ncbi.nlm.nih.gov/21217764/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Brain & nervous system",
+        "sample": "Healthy listeners selected for strong emotional responses to music",
+        "measurement": "PET dopamine-sensitive radioligand imaging and fMRI",
+        "measuredGenes": [],
+        "relationshipNote": "A small laboratory study of selected listeners. Dopamine release is not a measurement of DRD2 gene expression or a music-therapy outcome.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/nn.2726",
+          "https://doi.org/10.1038/nn.2726",
+          "https://pubmed.ncbi.nlm.nih.gov/21217764/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "Biological principles for music and mental health",
+      "journal": "Translational Psychiatry",
+      "year": 2023,
+      "authors": "Daniel L. Bowling",
+      "doi": "10.1038/s41398-023-02671-4",
+      "pmid": "38049408",
+      "id": "pmid-38049408",
+      "collections": [
+        "sound"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/s41398-023-02671-4",
+        "https://doi.org/10.1038/s41398-023-02671-4",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10695969/",
+        "https://pubmed.ncbi.nlm.nih.gov/38049408/"
+      ],
+      "design": "Narrative review",
+      "categories": [
+        "Brain & nervous system"
+      ],
+      "targets": [],
+      "neurotransmitters": [
+        "Oxytocin",
+        "Dopamine"
+      ],
+      "priority": 1,
+      "finding": "The authors organise music and mental-health research around biological principles involving reward, rhythm, learning and social connection. The review examines neural and physiological mechanisms, including dopamine and oxytocin signalling, that may help explain responses to music.",
+      "limitation": "A broad mechanistic review; it does not supply one pooled treatment effect or establish that every music intervention acts through the same pathways.",
+      "kind": "Review",
+      "citationCount": 51,
+      "citationSnapshot": {
+        "count": 51,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/s41398-023-02671-4"
+      },
+      "studyDesignAssessment": {
+        "category": "review",
+        "peerReviewed": true,
+        "basis": "Narrative review. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/s41398-023-02671-4",
+          "https://doi.org/10.1038/s41398-023-02671-4",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10695969/",
+          "https://pubmed.ncbi.nlm.nih.gov/38049408/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Brain & nervous system",
+        "sample": "Human and animal literature",
+        "measurement": "Review of biological mechanisms relevant to music and mental health",
+        "measuredGenes": [],
+        "relationshipNote": "A broad mechanistic review; it does not supply one pooled treatment effect or establish that every music intervention acts through the same pathways.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/s41398-023-02671-4",
+          "https://doi.org/10.1038/s41398-023-02671-4",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10695969/",
+          "https://pubmed.ncbi.nlm.nih.gov/38049408/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "Brain correlates of music-evoked emotions",
+      "journal": "Nature Reviews Neuroscience",
+      "year": 2014,
+      "authors": "Stefan Koelsch",
+      "doi": "10.1038/nrn3666",
+      "pmid": "24552785",
+      "id": "pmid-24552785",
+      "collections": [
+        "sound"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/nrn3666",
+        "https://doi.org/10.1038/nrn3666",
+        "https://pubmed.ncbi.nlm.nih.gov/24552785/"
+      ],
+      "design": "Narrative review",
+      "categories": [
+        "Brain & nervous system"
+      ],
+      "targets": [],
+      "neurotransmitters": [
+        "Dopamine"
+      ],
+      "priority": 1,
+      "finding": "Neuroimaging research links music-evoked emotions to networks involving reward, autonomic regulation and emotional processing, including the nucleus accumbens, amygdala and hypothalamus. The review examines how musical structure and expectation engage these systems.",
+      "limitation": "A review of mechanisms and brain responses; it does not estimate clinical efficacy for a defined music-therapy programme.",
+      "kind": "Review",
+      "citationCount": 1237,
+      "citationSnapshot": {
+        "count": 1237,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/nrn3666"
+      },
+      "studyDesignAssessment": {
+        "category": "review",
+        "peerReviewed": true,
+        "basis": "Narrative review. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/nrn3666",
+          "https://doi.org/10.1038/nrn3666",
+          "https://pubmed.ncbi.nlm.nih.gov/24552785/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Brain & nervous system",
+        "sample": "Human neuroimaging literature",
+        "measurement": "Review of music-evoked emotion and brain activity",
+        "measuredGenes": [],
+        "relationshipNote": "A review of mechanisms and brain responses; it does not estimate clinical efficacy for a defined music-therapy programme.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/nrn3666",
+          "https://doi.org/10.1038/nrn3666",
+          "https://pubmed.ncbi.nlm.nih.gov/24552785/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "Self-administered mindfulness interventions reduce stress in a large, randomized controlled multi-site study",
+      "journal": "Nature Human Behaviour",
+      "year": 2024,
+      "authors": "Alessandro Sparacio; Hans IJzerman; Ivan Ropovik; Filippo Giorgini; Christoph Spiessens; Bert N. Uchino; Joshua Landvatter; Tracey Tacana; Sandra J. Diller; Jaye L. Derrick; Joahana Segundo; Jace D. Pierce; Robert M. Ross; Zoë Francis; Amanda LaBoucane; Christine Ma-Kellams; Maire B. Ford; Kathleen Schmidt; Celia C. Wong; Wendy C. Higgins; Bryant M. Stone; Samantha K. Stanley; Gianni Ribeiro; Paul T. Fuglestad; Valerie Jaklin; Andrea Kübler; Philipp Ziebell; Crystal L. Jewell; Yulia Kovas; Mahnoosh Allahghadri; Charlotte Fransham; Michael F. Baranski; Hannah Burgess; Annika B. E. Benz; Maysa DeSousa; Catherine E. Nylin; Janae C. Brooks; Caitlyn M. Goldsmith; Jessica M. Benson; Siobhán M. Griffin; Stephen Dunne; William E. Davis; Tam J. Watermeyer; William B. Meese; Jennifer L. Howell; Laurel Standiford Reyes; Megan G. Strickland; Sally S. Dickerson; Samantha Pescatore; Shayna Skakoon-Sparling; Zachary I. Wunder; Martin V. Day; Shawna Brenton; Audrey H. Linden; Christopher E. Hawk; Léan V. O’Brien; Tenzin Urgyen; Jennifer S. McDonald; Kim Lien van der Schans; Heidi Blocker; Caroline Ng Tseung-Wong; Gabriela M. Jiga-Boy",
+      "doi": "10.1038/s41562-024-01907-7",
+      "pmid": "38862815",
+      "id": "pmid-38862815",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/s41562-024-01907-7",
+        "https://doi.org/10.1038/s41562-024-01907-7",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11420060/",
+        "https://pubmed.ncbi.nlm.nih.gov/38862815/"
+      ],
+      "design": "Randomized controlled multisite study",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "neurotransmitters": [],
+      "priority": 1,
+      "finding": "Across 37 sites and 2,239 participants, four brief self-administered mindfulness exercises reduced immediate self-reported stress compared with an active control. The body-scan exercise produced the largest reduction among the tested exercises.",
+      "limitation": "The outcomes were short term and self-reported, with predominantly English-speaking participants in higher-income settings. Gene expression was not measured.",
+      "kind": "Journal article",
+      "citationCount": 24,
+      "citationSnapshot": {
+        "count": 24,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/s41562-024-01907-7"
+      },
+      "studyDesignAssessment": {
+        "category": "rct",
+        "peerReviewed": true,
+        "basis": "Random assignment and an active comparison are reported. A single- or double-blind classification is not established from the reviewed methods.",
+        "sources": [
+          "https://www.nature.com/articles/s41562-024-01907-7",
+          "https://doi.org/10.1038/s41562-024-01907-7",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC11420060/",
+          "https://pubmed.ncbi.nlm.nih.gov/38862815/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Clinical & self-report",
+        "sample": "2,239 participants at 37 sites",
+        "measurement": "Immediate self-reported stress",
+        "measuredGenes": [],
+        "relationshipNote": "The outcomes were short term and self-reported, with predominantly English-speaking participants in higher-income settings. Gene expression was not measured.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/s41562-024-01907-7",
+          "https://doi.org/10.1038/s41562-024-01907-7",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC11420060/",
+          "https://pubmed.ncbi.nlm.nih.gov/38862815/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "Meditation and vacation effects have an impact on disease-associated molecular phenotypes",
+      "journal": "Translational Psychiatry",
+      "year": 2016,
+      "authors": "E S Epel; E Puterman; J Lin; E H Blackburn; P Y Lum; N D Beckmann; J Zhu; E Lee; A Gilbert; R A Rissman; R E Tanzi; E E Schadt",
+      "doi": "10.1038/tp.2016.164",
+      "pmid": "27576169",
+      "id": "pmid-27576169",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/tp2016164",
+        "https://doi.org/10.1038/tp.2016.164",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5022094/",
+        "https://pubmed.ncbi.nlm.nih.gov/27576169/"
+      ],
+      "design": "Randomized retreat comparison with an observational experienced-meditator group",
+      "categories": [
+        "Gene expression"
+      ],
+      "targets": [],
+      "neurotransmitters": [],
+      "priority": 0,
+      "finding": "A six-day resort stay was associated with substantial blood gene-expression changes in both meditation and vacation groups. Experienced meditators showed additional molecular patterns, but the randomized novice-meditation comparison did not establish a gene-expression advantage over vacation.",
+      "limitation": "The experienced-meditator group was not randomized. Shared changes across groups cannot be attributed specifically to meditation.",
+      "kind": "Journal article",
+      "citationCount": 92,
+      "citationSnapshot": {
+        "count": 92,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/tp.2016.164"
+      },
+      "studyDesignAssessment": {
+        "category": "rct",
+        "peerReviewed": true,
+        "basis": "Novices were randomized to meditation or vacation; experienced meditators formed a separate observational group. Masked molecular superiority of meditation was not established.",
+        "sources": [
+          "https://www.nature.com/articles/tp2016164",
+          "https://doi.org/10.1038/tp.2016.164",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC5022094/",
+          "https://pubmed.ncbi.nlm.nih.gov/27576169/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Gene expression",
+        "sample": "Healthy women: meditation-naive participants randomized to retreat or vacation, plus experienced meditators",
+        "measurement": "Blood transcriptome and disease-associated molecular phenotypes",
+        "measuredGenes": [],
+        "relationshipNote": "The experienced-meditator group was not randomized. Shared changes across groups cannot be attributed specifically to meditation.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/tp2016164",
+          "https://doi.org/10.1038/tp.2016.164",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC5022094/",
+          "https://pubmed.ncbi.nlm.nih.gov/27576169/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "Preliminary indications of the effect of a brief yoga intervention on markers of inflammation and DNA methylation in chronically stressed women",
+      "journal": "Translational Psychiatry",
+      "year": 2016,
+      "authors": "K N Harkess; J Ryan; P H Delfabbro; S Cohen-Woods",
+      "doi": "10.1038/tp.2016.234",
+      "pmid": "27898068",
+      "id": "pmid-27898068",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/tp2016234",
+        "https://doi.org/10.1038/tp.2016.234",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5290356/",
+        "https://pubmed.ncbi.nlm.nih.gov/27898068/"
+      ],
+      "design": "Exploratory molecular substudy of a yoga trial",
+      "categories": [
+        "Epigenetics"
+      ],
+      "targets": [
+        "TNF",
+        "IL6"
+      ],
+      "neurotransmitters": [],
+      "priority": 0,
+      "finding": "An exploratory substudy in chronically stressed women reported lower methylation in a TNF region following a brief yoga intervention. Comparable regional changes were not found for IL6 or CRP, and a reduction in circulating inflammatory markers was not established.",
+      "limitation": "The molecular sample contained 28 women. Its retrospective and uncontrolled longitudinal components limit causal interpretation, despite recruitment from a larger randomized trial.",
+      "kind": "Journal article",
+      "citationCount": 75,
+      "citationSnapshot": {
+        "count": 75,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/tp.2016.234"
+      },
+      "studyDesignAssessment": {
+        "category": "observational",
+        "peerReviewed": true,
+        "basis": "Exploratory molecular substudy of a yoga trial. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/tp2016234",
+          "https://doi.org/10.1038/tp.2016.234",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC5290356/",
+          "https://pubmed.ncbi.nlm.nih.gov/27898068/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Epigenetics",
+        "sample": "28 chronically stressed women from a larger trial",
+        "measurement": "Targeted DNA methylation and inflammatory proteins",
+        "measuredGenes": [
+          "TNF",
+          "IL6",
+          "CRP"
+        ],
+        "relationshipNote": "The molecular sample contained 28 women. Its retrospective and uncontrolled longitudinal components limit causal interpretation, despite recruitment from a larger randomized trial.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/tp2016234",
+          "https://doi.org/10.1038/tp.2016.234",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC5290356/",
+          "https://pubmed.ncbi.nlm.nih.gov/27898068/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "Neural circuits underlying a psychotherapeutic regimen for fear disorders",
+      "journal": "Nature",
+      "year": 2019,
+      "authors": "Jinhee Baek; Sukchan Lee; Taesup Cho; Seong-Wook Kim; Minsoo Kim; Yongwoo Yoon; Ko Keun Kim; Junweon Byun; Sang Jeong Kim; Jaeseung Jeong; Hee-Sup Shin",
+      "doi": "10.1038/s41586-019-0931-y",
+      "pmid": "30760920",
+      "id": "pmid-30760920",
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/s41586-019-0931-y",
+        "https://doi.org/10.1038/s41586-019-0931-y",
+        "https://pubmed.ncbi.nlm.nih.gov/30760920/"
+      ],
+      "design": "Experimental mouse neural-circuit study",
+      "categories": [
+        "Brain & nervous system"
+      ],
+      "targets": [],
+      "neurotransmitters": [],
+      "priority": 1,
+      "finding": "Alternating bilateral visual stimulation during fear extinction recruited a superior-colliculus–thalamus–amygdala circuit in mice and reduced the return of conditioned fear. The experiments identify a possible neural mechanism relevant to eye-movement-based approaches.",
+      "limitation": "A mouse model inspired by a psychotherapeutic component; it is not a trial of clinical EMDR or a self-administered treatment in humans.",
+      "kind": "Journal article",
+      "citationCount": 136,
+      "citationSnapshot": {
+        "count": 136,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/s41586-019-0931-y"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Experimental mouse neural-circuit study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/s41586-019-0931-y",
+          "https://doi.org/10.1038/s41586-019-0931-y",
+          "https://pubmed.ncbi.nlm.nih.gov/30760920/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Brain & nervous system",
+        "sample": "Mice",
+        "measurement": "Circuit manipulation, neural activity and conditioned fear",
+        "measuredGenes": [],
+        "relationshipNote": "A mouse model inspired by a psychotherapeutic component; it is not a trial of clinical EMDR or a self-administered treatment in humans.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/s41586-019-0931-y",
+          "https://doi.org/10.1038/s41586-019-0931-y",
+          "https://pubmed.ncbi.nlm.nih.gov/30760920/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    },
+    {
+      "title": "Possible neural mechanisms of psychotherapy for trauma-related symptoms: cerebral responses to the neuropsychological treatment of post-traumatic stress disorder model individuals",
+      "journal": "Scientific Reports",
+      "year": 2016,
+      "authors": "Tamaki Amano; Motomi Toichi",
+      "doi": "10.1038/srep34610",
+      "pmid": "27698453",
+      "id": "pmid-27698453",
+      "collections": [
+        "vision"
+      ],
+      "origin": "update",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "urls": [
+        "https://www.nature.com/articles/srep34610",
+        "https://doi.org/10.1038/srep34610",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5048146/",
+        "https://pubmed.ncbi.nlm.nih.gov/27698453/"
+      ],
+      "design": "Human experimental neuroimaging study",
+      "categories": [
+        "Brain & nervous system"
+      ],
+      "targets": [],
+      "neurotransmitters": [],
+      "priority": 1,
+      "finding": "During an EMDR-related procedure, healthy volunteers recalled moderately unpleasant memories while researchers measured cortical haemodynamic responses. The study examined temporal and orbitofrontal activity as possible correlates of memory processing.",
+      "limitation": "Participants were model volunteers, not a clinical PTSD cohort. The study does not establish treatment efficacy or a gene-expression effect.",
+      "kind": "Journal article",
+      "citationCount": 10,
+      "citationSnapshot": {
+        "count": 10,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1038/srep34610"
+      },
+      "studyDesignAssessment": {
+        "category": "observational",
+        "peerReviewed": true,
+        "basis": "Human experimental neuroimaging study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://www.nature.com/articles/srep34610",
+          "https://doi.org/10.1038/srep34610",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC5048146/",
+          "https://pubmed.ncbi.nlm.nih.gov/27698453/"
+        ],
+        "reviewedAt": "2026-10-23"
+      },
+      "evidence": {
+        "evidenceType": "Brain & nervous system",
+        "sample": "Healthy volunteers recalling moderately unpleasant memories",
+        "measurement": "Functional near-infrared spectroscopy and subjective responses",
+        "measuredGenes": [],
+        "relationshipNote": "Participants were model volunteers, not a clinical PTSD cohort. The study does not establish treatment efficacy or a gene-expression effect.",
+        "sourceURLs": [
+          "https://www.nature.com/articles/srep34610",
+          "https://doi.org/10.1038/srep34610",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC5048146/",
+          "https://pubmed.ncbi.nlm.nih.gov/27698453/"
+        ],
+        "checkedAt": "2026-10-23"
+      },
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      }
+    }
+  ],
+  "publicationAccess": {
+    "pmid-40281224": {
+      "journalKey": "molecularpsychiatry",
+      "journalLabel": "Molecular Psychiatry",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-39060246": {
+      "journalKey": "translationalpsychiatry",
+      "journalLabel": "Translational Psychiatry",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-36658116": {
+      "journalKey": "translationalpsychiatry",
+      "journalLabel": "Translational Psychiatry",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-38040763": {
+      "journalKey": "scientificreports",
+      "journalLabel": "Scientific Reports",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-36266402": {
+      "journalKey": "scientificreports",
+      "journalLabel": "Scientific Reports",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-30737392": {
+      "journalKey": "naturecommunications",
+      "journalLabel": "Nature Communications",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-31645664": {
+      "journalKey": "molecularpsychiatry",
+      "journalLabel": "Molecular Psychiatry",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-28912494": {
+      "journalKey": "scientificreports",
+      "journalLabel": "Scientific Reports",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-28721265": {
+      "journalKey": "npjagingandmechanismsofdisease",
+      "journalLabel": "npj Aging and Mechanisms of Disease",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-25386727": {
+      "journalKey": "naturecommunications",
+      "journalLabel": "Nature Communications",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "src-d5dc29829a02": {
+      "journalKey": "translationalpsychiatry",
+      "journalLabel": "Translational Psychiatry",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "src-f509442c9ca1": {
+      "journalKey": "scientificreports",
+      "journalLabel": "Scientific Reports",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "src-073eaac7c1c6": {
+      "journalKey": "scientificreports",
+      "journalLabel": "Scientific Reports",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "src-32ff0961cd36": {
+      "journalKey": "npjquantuminformation",
+      "journalLabel": "npj Quantum Information",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-39103336": {
+      "journalKey": "celldiscovery",
+      "journalLabel": "Cell Discovery",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-38418876": {
+      "journalKey": "nature",
+      "journalLabel": "Nature",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-34050123": {
+      "journalKey": "translationalpsychiatry",
+      "journalLabel": "Translational Psychiatry",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-32655132": {
+      "journalKey": "translationalpsychiatry",
+      "journalLabel": "Translational Psychiatry",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-31794974": {
+      "journalKey": "neuropsychopharmacology",
+      "journalLabel": "Neuropsychopharmacology",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-22891157": {
+      "journalKey": "scientificreports",
+      "journalLabel": "Scientific Reports",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-11319676": {
+      "journalKey": "journalofhumanhypertension",
+      "journalLabel": "Journal of Human Hypertension",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "src-56e515aacddb": {
+      "journalKey": "americanjournalofhypertension",
+      "journalLabel": "American Journal of Hypertension"
+    },
+    "src-ebacdf327973": {
+      "journalKey": "translationalpsychiatry",
+      "journalLabel": "Translational Psychiatry",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "src-d1eaa478462e": {
+      "journalKey": "scientificreports",
+      "journalLabel": "Scientific Reports",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "src-0096ffba98ce": {
+      "journalKey": "naturemethods",
+      "journalLabel": "Nature Methods",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "src-1023e40a3842": {
+      "journalKey": "eye",
+      "journalLabel": "Eye",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "src-199d07efad3e": {
+      "journalKey": "scientificreports",
+      "journalLabel": "Scientific Reports",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-17287729": {
+      "journalKey": "nature",
+      "journalLabel": "Nature",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-24025838": {
+      "journalKey": "nature",
+      "journalLabel": "Nature",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-22824810": {
+      "journalKey": "molecularpsychiatry",
+      "journalLabel": "Molecular Psychiatry",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-30301953": {
+      "journalKey": "naturereviewsneuroscience",
+      "journalLabel": "Nature Reviews Neuroscience",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-32313029": {
+      "journalKey": "naturecommunications",
+      "journalLabel": "Nature Communications",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-24464043": {
+      "journalKey": "natureneuroscience",
+      "journalLabel": "Nature Neuroscience",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-30944474": {
+      "journalKey": "nature",
+      "journalLabel": "Nature",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-19234457": {
+      "journalKey": "natureneuroscience",
+      "journalLabel": "Nature Neuroscience",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-29184215": {
+      "journalKey": "natureneuroscience",
+      "journalLabel": "Nature Neuroscience",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-17514195": {
+      "journalKey": "naturereviewsneuroscience",
+      "journalLabel": "Nature Reviews Neuroscience",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-37938765": {
+      "journalKey": "molecularpsychiatry",
+      "journalLabel": "Molecular Psychiatry",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-39313675": {
+      "journalKey": "neuropsychopharmacology",
+      "journalLabel": "Neuropsychopharmacology",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-41663511": {
+      "journalKey": "scientificreports",
+      "journalLabel": "Scientific Reports",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-37730989": {
+      "journalKey": "nature",
+      "journalLabel": "Nature",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-25806429": {
+      "journalKey": "scientificreports",
+      "journalLabel": "Scientific Reports",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-21217764": {
+      "journalKey": "natureneuroscience",
+      "journalLabel": "Nature Neuroscience",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-38049408": {
+      "journalKey": "translationalpsychiatry",
+      "journalLabel": "Translational Psychiatry",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-24552785": {
+      "journalKey": "naturereviewsneuroscience",
+      "journalLabel": "Nature Reviews Neuroscience",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-38862815": {
+      "journalKey": "naturehumanbehaviour",
+      "journalLabel": "Nature Human Behaviour",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-27576169": {
+      "journalKey": "translationalpsychiatry",
+      "journalLabel": "Translational Psychiatry",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-27898068": {
+      "journalKey": "translationalpsychiatry",
+      "journalLabel": "Translational Psychiatry",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-30760920": {
+      "journalKey": "nature",
+      "journalLabel": "Nature",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-27698453": {
+      "journalKey": "scientificreports",
+      "journalLabel": "Scientific Reports",
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    "pmid-41367385": {
+      "journalKey": "frontiersinmolecularbiosciences",
+      "journalLabel": "Frontiers in Molecular Biosciences",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-41064114": {
+      "journalKey": "frontiersinagingneuroscience",
+      "journalLabel": "Frontiers in Aging Neuroscience",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-41020112": {
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in Psychology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-36819725": {
+      "journalKey": "frontiersinagingneuroscience",
+      "journalLabel": "Frontiers in Aging Neuroscience",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-36171872": {
+      "journalKey": "frontiersinhumanneuroscience",
+      "journalLabel": "Frontiers in Human Neuroscience",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-30135663": {
+      "journalKey": "frontiersinpsychiatry",
+      "journalLabel": "Frontiers in Psychiatry",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-28670311": {
+      "journalKey": "frontiersinimmunology",
+      "journalLabel": "Frontiers in Immunology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-22303405": {
+      "journalKey": "frontiersingenetics",
+      "journalLabel": "Frontiers in Genetics",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-42254728": {
+      "journalKey": "frontiersinpsychiatry",
+      "journalLabel": "Frontiers in Psychiatry",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-40417270": {
+      "journalKey": "frontiersinpsychiatry",
+      "journalLabel": "Frontiers in Psychiatry",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-38250261": {
+      "journalKey": "frontiersinpsychiatry",
+      "journalLabel": "Frontiers in Psychiatry",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "portal-1542d1de36c9": {
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in Psychology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-38327501": {
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in Psychology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-36248508": {
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in Psychology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-36618821": {
+      "journalKey": "frontiersinmolecularneuroscience",
+      "journalLabel": "Frontiers in Molecular Neuroscience",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-34512458": {
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in Psychology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-30914965": {
+      "journalKey": "frontiersinphysiology",
+      "journalLabel": "Frontiers in Physiology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-31507444": {
+      "journalKey": "frontiersinphysiology",
+      "journalLabel": "Frontiers in Physiology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-30858808": {
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in Psychology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-30804863": {
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in Psychology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-29946275": {
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in Psychology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-30197612": {
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in Psychology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-30186192": {
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in Psychology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-30166975": {
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in Psychology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-30618659": {
+      "journalKey": "frontiersinbehavioralneuroscience",
+      "journalLabel": "Frontiers in Behavioral Neuroscience",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-30108475": {
+      "journalKey": "frontiersinneuroscience",
+      "journalLabel": "Frontiers in Neuroscience",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-29075623": {
+      "journalKey": "frontiersinpublichealth",
+      "journalLabel": "Frontiers in Public Health",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-28694775": {
+      "journalKey": "frontiersinhumanneuroscience",
+      "journalLabel": "Frontiers in Human Neuroscience",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-27790154": {
+      "journalKey": "frontiersinphysiology",
+      "journalLabel": "Frontiers in Physiology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-26441614": {
+      "journalKey": "frontiersinhumanneuroscience",
+      "journalLabel": "Frontiers in Human Neuroscience",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-25324790": {
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in Psychology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-25071612": {
+      "journalKey": "frontiersinpsychiatry",
+      "journalLabel": "Frontiers in Psychiatry",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-25452734": {
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in Psychology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-25324805": {
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in Psychology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-24137142": {
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in Psychology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-23914165": {
+      "journalKey": "frontiersinhumanneuroscience",
+      "journalLabel": "Frontiers in Human Neuroscience",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-23847555": {
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in Psychology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-22393318": {
+      "journalKey": "frontiersinhumanneuroscience",
+      "journalLabel": "Frontiers in Human Neuroscience",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-21716581": {
+      "journalKey": "frontiersinpsychology",
+      "journalLabel": "Frontiers in Psychology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-22144961": {
+      "journalKey": "frontiersinphysiology",
+      "journalLabel": "Frontiers in Physiology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-21423355": {
+      "journalKey": "frontiersinphysiology",
+      "journalLabel": "Frontiers in Physiology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    },
+    "pmid-21423358": {
+      "journalKey": "frontiersinphysiology",
+      "journalLabel": "Frontiers in Physiology",
+      "publisherFamily": "frontiers",
+      "publisherFamilyLabel": "Frontiers"
+    }
+  }
+}

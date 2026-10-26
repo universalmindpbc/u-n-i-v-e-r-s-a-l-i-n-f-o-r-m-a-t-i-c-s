@@ -1,0 +1,15 @@
+{
+  "recordedAt": "2026-10-26T00:24:09.572224+00:00",
+  "sourceCommit": "04f572ea9ae1788bad31103460dd5e212bc5d691",
+  "scope": [
+    "About initial focus summary",
+    "Expanded initial research focus panel",
+    "Research reading room introduction",
+    "Informatics and root LLM reading guides"
+  ],
+  "copy": "Approved quantum-inspired computer vision for genomics introduction and proposed triangular-mesh and tetrahedral-model approach",
+  "verification": "verification.json",
+  "deployment": "Existing Panthur staging script, informatics and redirects modes",
+  "productionModified": false,
+  "productionRemote": "017f6d1aa1f1688745a9e40c6e0cc421238d19ac"
+}

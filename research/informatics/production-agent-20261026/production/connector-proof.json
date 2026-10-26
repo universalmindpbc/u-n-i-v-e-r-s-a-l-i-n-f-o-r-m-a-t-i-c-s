@@ -1,0 +1,92 @@
+{
+  "passed": true,
+  "endpoint": "https://informatics-universal-one.universalmind.workers.dev",
+  "tools": [
+    "get_quantum_study",
+    "search",
+    "fetch",
+    "get_inventory",
+    "search_publications",
+    "get_publication",
+    "get_passages",
+    "list_atlas_records",
+    "get_atlas_record"
+  ],
+  "inventory": {
+    "schemaVersion": "1.0",
+    "datasetVersion": "research-20261026-daytab-v1",
+    "counts": {
+      "publications": 891,
+      "atlas": 1001,
+      "full_texts": 149,
+      "public_full_texts": 146,
+      "m9_family": 111
+    },
+    "access": {
+      "records": "Public publication metadata, approved summaries and quotations; complete Atlas records and commentary.",
+      "passages": "CC BY and CC0 passages only, with source, attribution and licence. Other full texts remain outside public exports.",
+      "writing": false
+    },
+    "links": {
+      "publications": "https://informatics-universal-one.universalmind.workers.dev/api/v1/publications",
+      "atlas": "https://informatics-universal-one.universalmind.workers.dev/api/v1/atlas",
+      "openapi": "https://informatics-universal-one.universalmind.workers.dev/api/v1/openapi.json",
+      "mcp": "https://informatics-universal-one.universalmind.workers.dev/mcp",
+      "agentCard": "https://informatics-universal-one.universalmind.workers.dev/.well-known/agent-card.json",
+      "guide": "https://universalmind.tv/informatics/connect.html",
+      "quantum": "https://informatics-universal-one.universalmind.workers.dev/api/v1/quantum/oxtr-qrc-01",
+      "completeDataset": "https://universalmind.tv/informatics/exports/manifest.json"
+    }
+  },
+  "publication_id": "pmid-32412916",
+  "study_id": "oxtr-qrc-01",
+  "agentCard": {
+    "name": "Universal One · Universal Informatics",
+    "description": "Research answers grounded in the Universal Research library and M1–M1001 Atlas, including commentary, nested sequences and hypotheses. Single-request answers with citations; no background tasks or research submissions.",
+    "version": "1.0.0",
+    "supportedInterfaces": [
+      {
+        "url": "https://informatics-universal-one.universalmind.workers.dev/a2a/v1",
+        "protocolBinding": "JSONRPC",
+        "protocolVersion": "1.0"
+      }
+    ],
+    "provider": {
+      "organization": "Universal Mind",
+      "url": "https://universalmind.tv/informatics/"
+    },
+    "documentationUrl": "https://universalmind.tv/informatics/connect.html#agents",
+    "capabilities": {
+      "streaming": false,
+      "pushNotifications": false,
+      "extendedAgentCard": false
+    },
+    "defaultInputModes": [
+      "text/plain"
+    ],
+    "defaultOutputModes": [
+      "text/plain",
+      "application/json"
+    ],
+    "skills": [
+      {
+        "id": "research",
+        "name": "Research library and Atlas",
+        "description": "Retrieve scientific evidence and Atlas analysis with cited sources. Supply the complete research question in each message. Public access is rate limited.",
+        "tags": [
+          "research",
+          "genomics",
+          "M1–M1001",
+          "M9",
+          "sound",
+          "vision",
+          "language"
+        ],
+        "examples": [
+          "What evidence links recreational music making to gene expression?",
+          "Explain the M9 probability model and its limitations."
+        ]
+      }
+    ]
+  }
+}

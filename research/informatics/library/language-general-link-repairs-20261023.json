@@ -1,0 +1,261 @@
+{
+  "checkedAt": "2026-10-23",
+  "repairs": [
+    {
+      "recordId": "src-79f3e30fa012",
+      "previousURLs": [
+        "http://www.conecomm.com/research-blog/2015-cone-communications-ebiquity-global-csr-study"
+      ],
+      "urls": [
+        "https://odpowiedzialnybiznes.pl/wp-content/uploads/2015/06/publikacje_2015_cone_communications_ebiquity_global_csr_study.pdf"
+      ],
+      "identityEvidence": "Same 2015 Cone/Ebiquity report hosted by Responsible Business Forum.",
+      "httpCheck": {
+        "status": 200,
+        "finalUrl": "https://odpowiedzialnybiznes.pl/wp-content/uploads/2015/06/publikacje_2015_cone_communications_ebiquity_global_csr_study.pdf",
+        "curlExit": 0
+      }
+    },
+    {
+      "recordId": "src-0331f0f8df05",
+      "previousURLs": [
+        "https://www.nielsen.com/content/dam/nielsenglobal/apac/docs/reports/2014/Nielsen-Global-Corporate-Social-Responsibility-Report-June-2014.pdf"
+      ],
+      "urls": [
+        "https://www.unioncamere.gov.it/sites/default/files/articoli/2022-04/corporate-social-responsibilty-nielsen%20%283%29.pdf"
+      ],
+      "identityEvidence": "Same June 2014 Nielsen report on the Unioncamere government website.",
+      "httpCheck": {
+        "status": 200,
+        "finalUrl": "https://www.unioncamere.gov.it/sites/default/files/articoli/2022-04/corporate-social-responsibilty-nielsen%20%283%29.pdf",
+        "curlExit": 0
+      }
+    },
+    {
+      "recordId": "src-1bdc22144734",
+      "previousURLs": [
+        "https://www2.deloitte.com/content/dam/Deloitte/au/Documents/human-capital/deloitte-au-hc-human-capital-trends-2019-150419.pdf"
+      ],
+      "urls": [
+        "https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends/2019/leading-social-enterprise.html"
+      ],
+      "identityEvidence": "Official 2019 report chapter; title and survey findings match.",
+      "httpCheck": {
+        "status": 200,
+        "finalUrl": "https://www.deloitte.com/us/en/insights/topics/talent/human-capital-trends/2019/leading-social-enterprise.html",
+        "curlExit": 0
+      }
+    },
+    {
+      "recordId": "src-8fc39ea39386",
+      "previousURLs": [
+        "https://www.meaningful-brands.com/en"
+      ],
+      "urls": [
+        "https://meaningful-brands.com/"
+      ],
+      "identityEvidence": "Current official research programme homepage; original record is undated.",
+      "httpCheck": {
+        "status": 200,
+        "finalUrl": "https://meaningful-brands.com/",
+        "curlExit": 0
+      }
+    },
+    {
+      "recordId": "src-eb73dd2f6645",
+      "previousURLs": [
+        "https://www.comfama.com/contenidos/servicios/Gerenciasocial/html/Cursos/Columbia/Lecturas/Strategy-Society.pdf"
+      ],
+      "urls": [
+        "https://hbr.org/2006/12/strategy-and-society-the-link-between-competitive-advantage-and-corporate-social-responsibility"
+      ],
+      "identityEvidence": "Original 2006 Porter/Kramer article at Harvard Business Review.",
+      "httpCheck": {
+        "status": 200,
+        "finalUrl": "https://hbr.org/2006/12/strategy-and-society-the-link-between-competitive-advantage-and-corporate-social-responsibility",
+        "curlExit": 0
+      }
+    },
+    {
+      "recordId": "src-0b5043af2ada",
+      "previousURLs": [
+        "https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/beyond-corporate-social-responsibility-integrated-external-engagement"
+      ],
+      "urls": [
+        "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/beyond-corporate-social-responsibility-integrated-external-engagement"
+      ],
+      "identityEvidence": "Original article at updated official URL.",
+      "httpCheck": {
+        "status": 0,
+        "finalUrl": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/beyond-corporate-social-responsibility-integrated-external-engagement",
+        "curlExit": 28
+      }
+    },
+    {
+      "recordId": "src-62d753228d9f",
+      "previousURLs": [
+        "https://home.kpmg/content/dam/kpmg/xx/pdf/2017/10/kpmg-survey-of-corporate-responsibility-reporting-2017.pdf"
+      ],
+      "urls": [
+        "https://assets.kpmg.com/content/dam/kpmg/xx/pdf/2017/10/kpmg-survey-of-corporate-responsibility-reporting-2017.pdf"
+      ],
+      "identityEvidence": "Same 2017 KPMG report on official asset host.",
+      "httpCheck": {
+        "status": 200,
+        "finalUrl": "https://assets.kpmg.com/content/dam/kpmg/xx/pdf/2017/10/kpmg-survey-of-corporate-responsibility-reporting-2017.pdf",
+        "curlExit": 0
+      }
+    },
+    {
+      "recordId": "src-f8cfd5c578c0",
+      "previousURLs": [
+        "https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/valuing-social-responsibility-programs"
+      ],
+      "urls": [
+        "https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Strategy%20and%20Corporate%20Finance/Our%20Insights/Valuing%20social%20responsibility%20programs/Valuing%20social%20responsibility%20programs.pdf"
+      ],
+      "identityEvidence": "Original article PDF on official McKinsey host.",
+      "httpCheck": {
+        "status": 0,
+        "finalUrl": "https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Strategy%20and%20Corporate%20Finance/Our%20Insights/Valuing%20social%20responsibility%20programs/Valuing%20social%20responsibility%20programs.pdf",
+        "curlExit": 28
+      }
+    },
+    {
+      "recordId": "src-26666e925d94",
+      "previousURLs": [
+        "http://www.acrwebsite.org/volumes/6720/volumes/v14/NA-14"
+      ],
+      "urls": [
+        "https://webspace.royalroads.ca/llefevre/wp-content/uploads/sites/258/2017/08/Media-Materialism-and-Human-Happiness-by-Marsha-L.pdf"
+      ],
+      "identityEvidence": "Same Richins 1987 ACR paper, university-hosted copy.",
+      "httpCheck": {
+        "status": 200,
+        "finalUrl": "https://webspace.royalroads.ca/llefevre/wp-content/uploads/sites/258/2017/08/Media-Materialism-and-Human-Happiness-by-Marsha-L.pdf",
+        "curlExit": 0
+      }
+    },
+    {
+      "recordId": "src-e33851fc9d08",
+      "previousURLs": [
+        "https://link.springer.com/article/10.1007/s10903-010-9318-",
+        "https://doi.org/10.1007/s10903-010-9318-8"
+      ],
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/20224938/"
+      ],
+      "identityEvidence": "Exact title and authors matched; original DOI was truncated: 10.1007/s10903-010-9318-8.",
+      "httpCheck": {
+        "status": 200,
+        "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/20224938/",
+        "curlExit": 0
+      }
+    },
+    {
+      "recordId": "src-7079ef417f29",
+      "previousURLs": [
+        "https://accan.org.au/files/Grants/homelessandconnected/Homeless_and_Connected_web.pdf"
+      ],
+      "urls": [
+        "https://researchers.westernsydney.edu.au/en/publications/homeless-and-connected-mobile-phones-and-the-internet-in-the-live-4/"
+      ],
+      "identityEvidence": "Author university repository record for the same 2014 report; old ACCAN PDF currently returns 404.",
+      "httpCheck": {
+        "status": 200,
+        "finalUrl": "https://researchers.westernsydney.edu.au/en/publications/homeless-and-connected-mobile-phones-and-the-internet-in-the-live-4/",
+        "curlExit": 0
+      }
+    },
+    {
+      "recordId": "src-66b12deb6c93",
+      "previousURLs": [
+        "https://upcommons.upc.edu/bitstream/handle/2099.1/22866/Wirelesscommunicationsystemdesignforrefugeecampsandconflictareas.pdf"
+      ],
+      "urls": [
+        "https://upcommons.upc.edu/bitstream/handle/2099.1/22866/Wireless%20communication%20system%20design%20for%20refugee%20camps%20and%20conflict%20areas.pdf"
+      ],
+      "identityEvidence": "Exact 2014 thesis on original university repository; filename spaces restored.",
+      "httpCheck": {
+        "status": 200,
+        "finalUrl": "https://upcommons.upc.edu/server/api/core/bitstreams/a4bb30f7-1b6c-4954-96bb-9e50ad7ce653/content",
+        "curlExit": 0
+      }
+    },
+    {
+      "recordId": "src-765723fc55e2",
+      "previousURLs": [
+        "https://www.unhcr.org/innovation/connectivity-for-refugees"
+      ],
+      "urls": [
+        "https://emergency.unhcr.org/emergency-assistance/core-relief-items/connectivity-refugees"
+      ],
+      "identityEvidence": "Official current programme guidance. Original record has no date or quoted findings.",
+      "httpCheck": {
+        "status": 200,
+        "finalUrl": "https://emergency.unhcr.org/emergency-assistance/core-relief-items/connectivity-refugees",
+        "curlExit": 0
+      }
+    },
+    {
+      "recordId": "src-38150b2a118e",
+      "previousURLs": [
+        "https://www.gsma.com/r/mobileeconomy/sub-saharan-africa"
+      ],
+      "urls": [
+        "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-economy/wp-content/uploads/2024/05/ME-SSA-2018.pdf"
+      ],
+      "identityEvidence": "Exact 2018 report on updated official host; retains historical edition.",
+      "httpCheck": {
+        "status": 403,
+        "finalUrl": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-economy/wp-content/uploads/2024/05/ME-SSA-2018.pdf",
+        "curlExit": 0
+      }
+    },
+    {
+      "recordId": "src-507ea85612c7",
+      "previousURLs": [
+        "http://www.sciencedirect.com/science/article/pii/S0005796716300663"
+      ],
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5392238/"
+      ],
+      "identityEvidence": "Exact original paper and full text; PMID 27183343 DOI 10.1016/j.brat.2016.05.002.",
+      "httpCheck": {
+        "status": 200,
+        "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5392238/",
+        "curlExit": 0
+      }
+    },
+    {
+      "recordId": "src-973ffd9f69b7",
+      "previousURLs": [
+        "https://www.sciencedirect.com/science/article/pii/S2214462516300135"
+      ],
+      "urls": [
+        "https://www.econstor.eu/bitstream/10419/187533/1/S2214462516300135-main.pdf"
+      ],
+      "identityEvidence": "Same open-access publisher PDF via EconStor institutional repository.",
+      "httpCheck": {
+        "status": 200,
+        "finalUrl": "https://www.econstor.eu/bitstream/10419/187533/1/S2214462516300135-main.pdf",
+        "curlExit": 0
+      }
+    },
+    {
+      "recordId": "src-8fa7c87846bb",
+      "previousURLs": [
+        "https://probonoaustralia.com.au/news/2018/07/jb-hi-fi-saving-tune-8m-workplace-giving-program"
+      ],
+      "urls": [
+        "https://web.archive.org/web/20251016055613/https://probonoaustralia.com.au/news/2018/07/jb-hi-fi-saving-tune-8m-workplace-giving-program/"
+      ],
+      "identityEvidence": "Internet Archive availability API returned this exact original article snapshot, 16 October 2025, status 200.",
+      "httpCheck": {
+        "status": 200,
+        "finalUrl": "https://web.archive.org/web/20251016055613/https://probonoaustralia.com.au/news/2018/07/jb-hi-fi-saving-tune-8m-workplace-giving-program/",
+        "curlExit": 0
+      }
+    }
+  ]
+}

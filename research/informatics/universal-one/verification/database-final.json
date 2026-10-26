@@ -1,0 +1,35 @@
+{
+  "publicationDataMatch": true,
+  "publications": 811,
+  "atlasBytesHashMatch": true,
+  "atlasRange": [
+    1,
+    1001
+  ],
+  "full_texts": 149,
+  "passages": 4188,
+  "missing_embeddings": 0,
+  "access": {
+    "current_user": "informatics_reader",
+    "read_only": "on",
+    "can_insert": false
+  },
+  "manifest": {
+    "version": "research-20261024-v2",
+    "passages": 4188,
+    "unmatched": [],
+    "collections": {
+      "sound": 288,
+      "vision": 95,
+      "general": 337,
+      "language": 330
+    },
+    "atlasRecords": 1001,
+    "publications": 811,
+    "recordsSHA256": "ece912a4124e045ff661747c6f1f77b93583cb7c9e7d976dc7c79e89c905d8e7",
+    "embeddingModel": "text-embedding-3-small",
+    "fullTextArticles": 149,
+    "embeddingDimensions": 512,
+    "withheldManuscripts": 44
+  }
+}

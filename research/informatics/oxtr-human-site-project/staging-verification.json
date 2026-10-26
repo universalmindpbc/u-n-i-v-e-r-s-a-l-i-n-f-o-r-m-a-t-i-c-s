@@ -1,0 +1,291 @@
+{
+  "completed_at_utc": "2026-10-18T19:14:06.055837+00:00",
+  "source_commit": "ee799741eb046ce313d64451ad2d82c03d5e2ef9",
+  "environment": "https://staging.universalmind.tv",
+  "proof_url": "https://staging.universalmind.tv/informatics/?atlas=1&record=fibonacci-m9-p24",
+  "integrity": {
+    "passed": true,
+    "source_commit": "ee799741eb046ce313d64451ad2d82c03d5e2ef9",
+    "files": [
+      {
+        "file": "Informatics/genomics.html",
+        "bytes": 2242,
+        "sha256": "d02dc080661d692330b15fee018e5d8e9c01e6b6d82f0a9df7da44761814deb3",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/index.html",
+        "bytes": 6378,
+        "sha256": "9c6c8b48cdd195f4edefd860e0e93bb226dc7ece6cb4f069298f81b68499e20d",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/csv-shared/dataset.csv",
+        "bytes": 555596,
+        "sha256": "e7d975583e1d33272a20211fdf29ccf4b1e849a3104008322ff66be6cabd2d6e",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/csv-shared/index.csv",
+        "bytes": 421764,
+        "sha256": "992a022f0c03022ed101c169fdf5379cfb473571e6ec52b322390cf840136b0b",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/csv-shared/m1-m1001.csv",
+        "bytes": 555596,
+        "sha256": "e7d975583e1d33272a20211fdf29ccf4b1e849a3104008322ff66be6cabd2d6e",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/dataset.json",
+        "bytes": 266925,
+        "sha256": "b342b01d6c3a5f12afdddcd102cb2fefda9c9fc76cfdd755e196e479c3df749c",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/index.json",
+        "bytes": 214837,
+        "sha256": "bf97834d5e828a950d66807ef5c13065b67773df8cc61fbb590b352ef5afdb5c",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/m1-m1001-csv.zip",
+        "bytes": 85845894,
+        "sha256": "8d169441bbfe88f365bda3554376334058d9ec7251b3ea241314ea065c78ce62",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/m1-m1001-data.zip",
+        "bytes": 58683039,
+        "sha256": "69f36592152d160d5c061def8a9c80b81ff532bed172de0d15dfd5d26051c01d",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/m1-m1001.json",
+        "bytes": 266925,
+        "sha256": "b342b01d6c3a5f12afdddcd102cb2fefda9c9fc76cfdd755e196e479c3df749c",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/README.txt",
+        "bytes": 5259,
+        "sha256": "1b9cec7f62d35c0ef41bab9043be18278fcad280bf848acc514ba5af2860a1dc",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/catalogue-fields.csv",
+        "bytes": 123619,
+        "sha256": "f7f03a9d3d4d0d5cbafefe1b7217cab3efbc7b2a5607f311eccd191e3646f901",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/catalogue.json",
+        "bytes": 82032,
+        "sha256": "80c04948da734e49048b90d8bf734a20f72ec09c069a49c13738992cb33a6f59",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/evidence-relationships.csv",
+        "bytes": 684,
+        "sha256": "0257d1ef3db4189ea9af3c9e0e68c53e14f466b74aaf464acd323a2a34c18023",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/evidence-relationships.json",
+        "bytes": 817,
+        "sha256": "7e21da2c6ac5c3dd0559f52c7ad37fbcc12442d7e80df246d312e273a92d9389",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/file-manifest.csv",
+        "bytes": 5607,
+        "sha256": "faff7c04edd54665e04ba04e2b4554a7e4ded834b0fa6b02af95f00362f4e41a",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/human-evidence-summary.csv",
+        "bytes": 382,
+        "sha256": "08f9cf5bcd7e5b13947802942979f73474342e34166dafc02af154bfb701df56",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/human-site-project-fields.csv",
+        "bytes": 6622,
+        "sha256": "949681e921fab4328dc61f96fe6c832265066ab4e11c2cebc58571be078bb185",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/human-site-project.json",
+        "bytes": 5122,
+        "sha256": "9860df4b6c46705d1346dd5751d43fbf9b9429abd675232b26d6c0dce35d0f49",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/literature-overlaps.csv",
+        "bytes": 808679,
+        "sha256": "22176573b3e70d6e86e59a2fef0a6e5c6f3a784e0d280bb063eb37cc86c5f96b",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/literature-overlaps.json",
+        "bytes": 1601397,
+        "sha256": "76fadee21e301ce21cedec1261f969b2cc74707e1193e56eacea540d3b6218b6",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/mapped-literature.bed",
+        "bytes": 99,
+        "sha256": "1fc91abc0fa5caf4c7e2ab2ace1dba7f4adbd41ad075e84d6c760044c3f7b3f1",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/normalized-literature.csv",
+        "bytes": 21939,
+        "sha256": "b93e80d39c6e336192e949f60252763a5c38fd71d2629afef846f61df2a777dc",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/normalized-literature.json",
+        "bytes": 43102,
+        "sha256": "f5ba7890917d14162eca427461e13f536671356d14840f940bdeb688b39e7b1b",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/normalized-observations.csv",
+        "bytes": 90055649,
+        "sha256": "9f6d9e9c1dd761775a80e4a32710c40b1c0143f2309a64e5ba31a94ade3f04d4",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/normalized-observations.json.gz",
+        "bytes": 7400941,
+        "sha256": "d8815a97476dd86d51d43c69ab7377ae6683c39240b4392c5b7d2758b1ac1982",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/oxtr-tfbs-csv.zip",
+        "bytes": 12103964,
+        "sha256": "b929eb60b29b43436c1aeb636c8c0561ff2cb6686c7f7c60257572c5e3f42872",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/oxtr-tfbs-json.zip",
+        "bytes": 14887558,
+        "sha256": "da35f53e1c5dd2b6aaead344bc8edb1328d5f3c46d44bc6cf79ccc5b506eaa9f",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/reference-intervals.csv",
+        "bytes": 7018412,
+        "sha256": "4da52a6752b6fab2a3e6f40a577aa93bf1feda55e9ec2c4aeed05b0f2269a583",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/reference-intervals.json.gz",
+        "bytes": 1366508,
+        "sha256": "cfea8d3c5e98891d1c55b23355b7c5c200821a5f9a1873d2eaf437062c9b4c52",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/sequence-mapping.csv",
+        "bytes": 954,
+        "sha256": "6eeebae26d62bf75c9c2326868e8c188d8b5133b2a8b82c36db5dc9f213e4eba",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/sequence-mapping.json",
+        "bytes": 1237,
+        "sha256": "4b8fc2b250685af248eacd1525c83d44f8ca96ae822f8849637cfdbcb524cbfb",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/research.html",
+        "bytes": 14564,
+        "sha256": "3b07a9e3323f6250480e4d431b1f6a8341b77f3f9754361136a92d5fced65522",
+        "status": "matched"
+      },
+      {
+        "file": "Informatics/science.js",
+        "bytes": 47023,
+        "sha256": "5cbfaebe7afc39eca0cad93b91147fbcec7a83c8fa44a591676d5496430555a5",
+        "status": "matched"
+      }
+    ]
+  },
+  "browser": {
+    "passed": true,
+    "candidate": false,
+    "processMuted": true,
+    "results": [
+      {
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "teachingGraphicLoaded": true,
+        "teachingZoomAndGlossary": true,
+        "nestedTeachingEscapeAndFocus": true,
+        "filters": true,
+        "retryAfterFailure": true,
+        "keyboardAndOutsideClose": true,
+        "escapeAndFocus": true,
+        "summaryAndSidebar": true,
+        "aboutNestedLightbox": true,
+        "fullscreenStatePreserved": true,
+        "mediaStatePreserved": true,
+        "downloadsMatched": true,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "teachingGraphicLoaded": true,
+        "teachingZoomAndGlossary": true,
+        "nestedTeachingEscapeAndFocus": true,
+        "filters": true,
+        "retryAfterFailure": true,
+        "keyboardAndOutsideClose": true,
+        "escapeAndFocus": true,
+        "summaryAndSidebar": true,
+        "aboutNestedLightbox": true,
+        "fullscreenStatePreserved": true,
+        "mediaStatePreserved": true,
+        "downloadsMatched": false,
+        "errors": []
+      }
+    ]
+  },
+  "selected_json_export_human_functional_records": 8,
+  "selected_csv_export_human_functional_records": 8,
+  "notion_records_read_back": 43,
+  "notion_field_mismatches": 0,
+  "notion_project_url": "https://www.notion.so/3fd7b9c99c56815a8b84e6839dc1d3ed",
+  "normalisation": {
+    "total_observations": 218192,
+    "literature_records": 43,
+    "human_literature_records": 26,
+    "distinct_reference_intervals": 87691,
+    "colocated_interval_groups": 34817,
+    "retained_observations": 218192,
+    "discarded_observations": 0,
+    "mapped_human_literature_records": 3,
+    "exact_published_sequence_mappings": 2,
+    "literature_database_overlap_pairs": 5114,
+    "human_evidence_categories": {
+      "annotation_prediction": 8,
+      "laboratory_tested": 18,
+      "binding_evidence": 11,
+      "functional_evidence": 8,
+      "regulatory_context": 5
+    },
+    "unique_confirmed_human_site_total": null
+  },
+  "original_15_individual_sites_recovered": 0,
+  "original_15_fulltext_access": "Publisher lists purchase; individual sequence tables not recovered. No purchase or author contact made.",
+  "raw_source_records_preserved": true,
+  "mathematical_records_unchanged": 1001,
+  "production_modified": false
+}

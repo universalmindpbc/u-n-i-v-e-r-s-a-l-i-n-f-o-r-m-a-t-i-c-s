@@ -1,0 +1,654 @@
+{
+  "checkedAt": "2026-10-23T12:38:06.741013+00:00",
+  "scope": "Original 86 access exceptions plus verified replacement destinations. HTTP 203 and anti-bot challenges are not successful article loads.",
+  "records": [
+    {
+      "url": "https://doi.org/10.1001/jamapsychiatry.2014.2637",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1001/jamapsychiatry.2024.3908",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1002/capr.12580",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1002/cpp.2549",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1002/cpp.70186",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1002/cpp.70283",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1002/jclp.20510",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1023/a:1024400931106",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1023/a:1024448814268",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1080/20008066.2024.2314913",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1080/20008066.2025.2451478",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1080/20008066.2025.2488558",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1080/20008066.2026.2686577",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1080/20008198.2020.1860346",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1080/20008198.2021.1987655",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1093/eurjcn/zvaa006",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1111/jcpp.12768",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1159/000093950",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1176/appi.psychotherapy.2003.57.1.148",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1177/24705470221107290",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1891/1933-3196.11.3.129",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1891/1933-3196.12.3.105",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1891/1933-3196.8.3.147",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1891/emdr-2022-0029",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1891/emdr-2023-0019",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1891/emdr-d-20-00047",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1891/emdr-d-20-00054",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.1891/emdr-d-21-00009",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.3389/fpsyg.2018.00493",
+      "status": 200,
+      "finalURL": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00493/full",
+      "challenge": false,
+      "characters": 119979,
+      "accessible": true
+    },
+    {
+      "url": "https://doi.org/10.3390/brainsci11050579",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.3402/ejpt.v2i0.5881",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.3402/ejpt.v6.27414",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://doi.org/10.7812/tpp/13-098",
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden",
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16899965/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/16899965/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17284128/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/17284128/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18612994/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/18612994/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22893808/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/22893808/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23702050/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/23702050/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24626074/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/24626074/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24965797/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/24965797/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25101684/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/25101684/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25607833/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/25607833/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25989952/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/25989952/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26963955/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/26963955/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27353367/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/27353367/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28660669/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/28660669/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29946275/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/29946275/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30166975/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/30166975/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30186192/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/30186192/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30197612/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/30197612/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30858808/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/30858808/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31352130/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/31352130/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31645664/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/31645664/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33415797/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/33415797/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33709117/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/33709117/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34025912/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/34025912/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34512458/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/34512458/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34763697/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/34763697/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35070159/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/35070159/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35707677/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/35707677/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36248508/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/36248508/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36266402/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/36266402/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37063579/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/37063579/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38032626/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/38032626/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38250261/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/38250261/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38362742/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/38362742/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39023949/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/39023949/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39060246/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/39060246/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39630422/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/39630422/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39731040/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/39731040/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39835632/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/39835632/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40243164/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/40243164/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40417270/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/40417270/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40424141/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/40424141/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40706348/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/40706348/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41340540/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/41340540/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42129972/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/42129972/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42254728/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/42254728/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42324567/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/42324567/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42411718/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/42411718/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42519422/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/42519422/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42703195/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/42703195/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42773467/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/42773467/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42880055/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/42880055/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9479673/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/9479673/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9479674/",
+      "status": 203,
+      "finalURL": "https://pubmed.ncbi.nlm.nih.gov/9479674/",
+      "challenge": false,
+      "characters": 5590,
+      "accessible": false
+    },
+    {
+      "url": "https://www.who.int/publications/i/item/mhgap-module-assessment-management-of-conditions-specifically-related-to-stress",
+      "status": 200,
+      "finalURL": "https://www.who.int/publications/i/item/mhgap-module-assessment-management-of-conditions-specifically-related-to-stress",
+      "challenge": false,
+      "characters": 88154,
+      "accessible": true
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK190416/",
+      "status": 200,
+      "finalURL": "https://www.ncbi.nlm.nih.gov/sites/books/NBK190416/",
+      "challenge": false,
+      "characters": 50622,
+      "accessible": true
+    },
+    {
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00493/full",
+      "status": 200,
+      "finalURL": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.00493/full",
+      "challenge": false,
+      "characters": 119979,
+      "accessible": true
+    }
+  ]
+}

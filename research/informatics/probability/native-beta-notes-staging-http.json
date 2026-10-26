@@ -1,0 +1,78 @@
+{
+  "verified_on": "2026-10-18",
+  "source_commit": "25683fc743e336836c455086d875c5e9073df835",
+  "base_url": "https://staging.universalmind.tv/informatics/",
+  "files": [
+    {
+      "path": "Informatics/index.html",
+      "sha256": "5d579b41e8710fe77af298a0ba5ea255c53b3d52ebd21334a4f3815020233fe9",
+      "bytes": 6379,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/CSV-README.txt",
+      "sha256": "1862adf5862551da2e9afd965a99010fec30d5c51bc6b42809a8998b86280b87",
+      "bytes": 2639,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/dataset.json",
+      "sha256": "1bc10e7536b09283f8e321bef0ec2680ccc2fd1faec2a6d93eb34d3f67c8619c",
+      "bytes": 4706114,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/m1-m48-data.zip",
+      "sha256": "f6be0aec83e8661156b057a640e5f11d94e1195f63540f26cc832b455de3614a",
+      "bytes": 549008,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/m18.json",
+      "sha256": "80a4368926ce6188df79e5636c25c37449f9caf504f9c75b9769878b24afb230",
+      "bytes": 93369,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/m9.json",
+      "sha256": "1e1865504bb1abdf445a25881a7d9a131209745c4cff73986bf4c83c233a6796",
+      "bytes": 96619,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/records.csv",
+      "sha256": "23cf2825fce7490da5927b0e9fbbfca7fda0e32c0d6c570f118e939011076495",
+      "bytes": 58582,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/research.css",
+      "sha256": "d2d56c4b6aa8c823f21b7d654880e872eccc9c7d377135804d75285655a412b4",
+      "bytes": 16575,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/research.html",
+      "sha256": "acc21fbf50ca9091fc67fbe67baec22ee4fec62d021cd0fdc9700b402f51a108",
+      "bytes": 13559,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/research.js",
+      "sha256": "35a15f46cd4c6af0701304a53d79c570efe06371c8f176d295f2ac6923527dab",
+      "bytes": 18416,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    }
+  ],
+  "passed": true
+}

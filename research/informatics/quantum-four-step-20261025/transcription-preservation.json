@@ -1,0 +1,36 @@
+{
+  "approved_base": "e0809363",
+  "signed_off_assets": [
+    {
+      "path": "Informatics/science.css",
+      "sha256": "3b1dc08557873620e70bbce2ad13d4f9526971fcefaeb7e49e3b8216b1f7808f",
+      "unchanged": true
+    },
+    {
+      "path": "Informatics/science.js",
+      "sha256": "3844b867a860e26cb0bc3113470759d4c49eee886f2d6591376dbf78516b3945",
+      "unchanged": true
+    },
+    {
+      "path": "Informatics/tfbs-geometry.js",
+      "sha256": "8ee3b7eb0dc5f7c60c44c5b01bed9f7b49371b1f34b5a512eae7dda082161e5d",
+      "unchanged": true
+    },
+    {
+      "path": "Informatics/shared-experience.css",
+      "sha256": "c01069c6af3910971cf562666e86c6c2f7eb31074410656ef337808c20070b3c",
+      "unchanged": true
+    },
+    {
+      "path": "Informatics/global-navigation.js",
+      "sha256": "a08ff7aea8557d4eef355941e5d4735107a828fbaeb272b2ba1c5e9b66d81b27",
+      "unchanged": true
+    },
+    {
+      "path": "Informatics/app.js",
+      "sha256": "43220af01742e7fc1c3efa76a29201908754d8b2bb813bdacc244c82592a0526",
+      "unchanged": true
+    }
+  ],
+  "shared_shell_change": "Quantum iframe cache version only"
+}

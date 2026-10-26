@@ -1,0 +1,59 @@
+{
+  "successful_reviews": 3,
+  "reserved_USD": 0.92656,
+  "successful_review_token_counts": [
+    {
+      "promptTokenCount": 1151,
+      "candidatesTokenCount": 436,
+      "totalTokenCount": 1587,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1151
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 436
+        }
+      ]
+    },
+    {
+      "promptTokenCount": 27873,
+      "candidatesTokenCount": 1786,
+      "totalTokenCount": 29659,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 27873
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1786
+        }
+      ]
+    },
+    {
+      "promptTokenCount": 11962,
+      "candidatesTokenCount": 827,
+      "totalTokenCount": 12789,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 11962
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 827
+        }
+      ]
+    }
+  ],
+  "estimated_successful_review_cost_USD": 0.112462,
+  "basis": "Provider token receipts and published October 2026 standard rates; excludes any unreported billing adjustments. Failed pre-activation request retains its conservative reservation."
+}

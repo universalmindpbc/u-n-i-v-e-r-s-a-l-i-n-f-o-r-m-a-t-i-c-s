@@ -1,0 +1,487 @@
+{
+  "date": "2026-10-21",
+  "source_commit": "b0fdd63eb058b51b7220f2b1815c3104b1c0bad6",
+  "combined_base": "a0e1b6e2",
+  "staging_url": "https://staging.universalmind.tv/informatics/",
+  "scope": [
+    "BrainTF human brain occupancy: 126 screened records, 43 assayed protein targets, 13 contexts",
+    "2025 OXTR enhancer study: functional reporter evidence with construct-coordinate uncertainty retained",
+    "Three main evidence bundles: Studies, ENCODE, JASPAR",
+    "Completed Sound update, shared navigation and approved Partners preserved"
+  ],
+  "data_checks": {
+    "publications": 26,
+    "literature_records": 45,
+    "screened_brain_occupancy_records": 126,
+    "promoter_overlap_records": 114,
+    "normalized_observations": 218320,
+    "reviewed_locus_records": 390,
+    "complete_archives_verified": 4,
+    "unchanged_geometry_study_elements": 2,
+    "new_exact_binding_sites_asserted": 0
+  },
+  "browser": {
+    "passed": true,
+    "candidate": false,
+    "processMuted": true,
+    "results": [
+      {
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "transcriptionTeachingAndFocus": true,
+        "teachingGraphicLoaded": true,
+        "teachingZoomAndGlossary": true,
+        "nestedTeachingEscapeAndFocus": true,
+        "dataExplorer": true,
+        "originalEvidenceTypesRestored": true,
+        "all33FilterCombinations": true,
+        "selectedExportMatchesFilter": true,
+        "broaderDescriptionsSeparate": true,
+        "filters": true,
+        "retryAfterFailure": true,
+        "keyboardAndOutsideClose": true,
+        "escapeAndFocus": true,
+        "summaryAndSidebar": true,
+        "aboutNestedLightbox": true,
+        "fullscreenStatePreserved": true,
+        "mediaStatePreserved": true,
+        "downloadsMatched": true,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "transcriptionTeachingAndFocus": true,
+        "teachingGraphicLoaded": true,
+        "teachingZoomAndGlossary": true,
+        "nestedTeachingEscapeAndFocus": true,
+        "dataExplorer": true,
+        "originalEvidenceTypesRestored": true,
+        "all33FilterCombinations": true,
+        "selectedExportMatchesFilter": true,
+        "broaderDescriptionsSeparate": true,
+        "filters": true,
+        "retryAfterFailure": true,
+        "keyboardAndOutsideClose": true,
+        "escapeAndFocus": true,
+        "summaryAndSidebar": true,
+        "aboutNestedLightbox": true,
+        "fullscreenStatePreserved": true,
+        "mediaStatePreserved": true,
+        "downloadsMatched": false,
+        "errors": []
+      }
+    ]
+  },
+  "partners_and_navigation_viewports": [
+    1440,
+    1024,
+    390,
+    320
+  ],
+  "served_assets": [
+    {
+      "file": "Informatics/index.html",
+      "status": 200,
+      "bytes": 20582,
+      "sha256": "03260d54ee0281727dbfd768afd1546eb70bebfe03cacdc2b1d27fb24d61f6b4",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/csv-shared/dataset.csv",
+      "status": 200,
+      "bytes": 557109,
+      "sha256": "0a1eabc51959fb61a91a817210533a07d55105cb52b28422509e0476d5b64d7a",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/csv-shared/index.csv",
+      "status": 200,
+      "bytes": 423277,
+      "sha256": "2fd17cdd6842f628e399011efd3ba546b12c118ccdadbfbffe2604e6c3510fd8",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/csv-shared/m1-m1001.csv",
+      "status": 200,
+      "bytes": 557109,
+      "sha256": "0a1eabc51959fb61a91a817210533a07d55105cb52b28422509e0476d5b64d7a",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/dataset.json",
+      "status": 200,
+      "bytes": 267562,
+      "sha256": "17218757f10a51c527b4f50aa1c3ce2dead3f8c49abc705bcac5a8defe3715f9",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/index.json",
+      "status": 200,
+      "bytes": 215474,
+      "sha256": "29c989060ba0a3215278124fdae73db03ba37d64d4ac7ecdaf7f267855be17bb",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/m1-m1001-csv.zip",
+      "status": 200,
+      "bytes": 86894955,
+      "sha256": "ed072e88cce12dc28b1615e79c4588890bb593c64f8847e72fe0f752d0be9ced",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/m1-m1001-data.zip",
+      "status": 200,
+      "bytes": 59591813,
+      "sha256": "e2eae94c3e9dd299c7e921c38d0aab916d346a300711bb83923abc4fc0aa05e0",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/m1-m1001.json",
+      "status": 200,
+      "bytes": 267562,
+      "sha256": "17218757f10a51c527b4f50aa1c3ce2dead3f8c49abc705bcac5a8defe3715f9",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/README.txt",
+      "status": 200,
+      "bytes": 8323,
+      "sha256": "8c809fdb8bcee30ae2813dc527742846a9a145adf39add1babd5008c4995d09e",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/binding-outcomes-fields.csv",
+      "status": 200,
+      "bytes": 9767,
+      "sha256": "029b35100296c2d2b9999d86b643cc1d062a5797948d2be864de0725a2870798",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/binding-outcomes.json",
+      "status": 200,
+      "bytes": 7567,
+      "sha256": "bb07aeece5b24982e06796ce83a174d6a6069d55d550d0fee12fd05011495e72",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/catalogue-fields.csv",
+      "status": 200,
+      "bytes": 148393,
+      "sha256": "388e82fde16a0716da19653fc324a79c9928a413d86700a28832c8ad050a439e",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/catalogue.json",
+      "status": 200,
+      "bytes": 98502,
+      "sha256": "d79971e3cf5486b8f5ad8bab8415ad16ef5285c2ebfe0a45a2e9040b70c60500",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/file-manifest.csv",
+      "status": 200,
+      "bytes": 9825,
+      "sha256": "a19df80eb8de3fcab07bef934d3feb2701bef6b7ffedff4f65f303d1369907e1",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/human-evidence-summary.csv",
+      "status": 200,
+      "bytes": 382,
+      "sha256": "b78fbbf4192e404b2d6df3b80171f6d3a6641eb48e86d7d3156577814eb0bd78",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/human-site-project-fields.csv",
+      "status": 200,
+      "bytes": 6761,
+      "sha256": "f878e05d381c0d3cb5070a6a6a3c8ff4386576a690b28bcb64ab41ee6148f640",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/human-site-project.json",
+      "status": 200,
+      "bytes": 5243,
+      "sha256": "b2fdcf4b4543e4a1b26cc3f3bc60605fafde5371d75b3d511ac7529aaf98e6b7",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/literature-evidence.csv",
+      "status": 200,
+      "bytes": 21276,
+      "sha256": "db27a1f2aec0ac99fc1bf809f6ea388d8722d7aab60522bf1b59fe2f321f3780",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/literature-evidence.json",
+      "status": 200,
+      "bytes": 37765,
+      "sha256": "952570dbf5dc5de4b65a0ab7b7843d437943449debd3df4aa8856f78d73fdd5e",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/literature-overlaps.csv",
+      "status": 200,
+      "bytes": 809351,
+      "sha256": "7ae32baf7ada79e56cbcbd646c30dfc30e95b6f2d8d8cd9ccb8addfda33fb1ea",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/literature-overlaps.json",
+      "status": 200,
+      "bytes": 1602705,
+      "sha256": "a96f162784a06f2c9e49bd6297a001d2825b7cd26e34117c285692a8854d36b1",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/mapped-binding-outcomes.csv",
+      "status": 200,
+      "bytes": 4403919,
+      "sha256": "413049f83a747771ac2b0adc54d356f26cbb14da058ae6d544e200d1eb9444ca",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/mapped-binding-outcomes.json",
+      "status": 200,
+      "bytes": 6146666,
+      "sha256": "6e8e00b2ae481460bee00de07ec397a20387f7d47dc0182be811bc3b53643792",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/normalized-literature.csv",
+      "status": 200,
+      "bytes": 23925,
+      "sha256": "415f013c46ea18c22abb05809b2561aa1c69cd90331171fce363847a5b51a082",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/normalized-literature.json",
+      "status": 200,
+      "bytes": 46082,
+      "sha256": "97ff71d8663ae4509f8eb73de923d12517b6aef785182d7384c9c96c2da9b9e4",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/normalized-observations.csv",
+      "status": 200,
+      "bytes": 90176017,
+      "sha256": "34250393e1483b02dffacc547674d0ee9f64f0bb358c3c4c65c510bc50a35fb6",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/normalized-observations.json.gz",
+      "status": 200,
+      "bytes": 7408968,
+      "sha256": "0759b4da8459cacf53d8af3a24149796523c4d6a4a787ca5fa9f0560eb979090",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/oxtr-tfbs-csv.zip",
+      "status": 200,
+      "bytes": 13137316,
+      "sha256": "67ad1ea9622f00949c63c2a0ee71c40524d0858cb399d7ff72aadd4f2bd130b1",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/oxtr-tfbs-json.zip",
+      "status": 200,
+      "bytes": 15780160,
+      "sha256": "0d68e402fb655d621dfc75deae80e228d6946deff51708e0814d6a6be5e93c56",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/publications.csv",
+      "status": 200,
+      "bytes": 13545,
+      "sha256": "6d9a37a29eb655535f539c2f682f6c58c0db4f8e790cac1c03238c806570fcee",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/publications.json",
+      "status": 200,
+      "bytes": 18883,
+      "sha256": "71f687f5031133c9af9da7ac3239a2f2d80e3b43700f3a0396b3cde69e9fdbf0",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/reference-intervals.csv",
+      "status": 200,
+      "bytes": 7028468,
+      "sha256": "a3b7a773adcd478d5fb7884d98b24de8d3ff21cfc4023cadcc3934c57a841898",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/reference-intervals.json.gz",
+      "status": 200,
+      "bytes": 1368638,
+      "sha256": "db8318db3ee0c52c1296344a5534e90b361922f7e5f87dcd4fd8a88458f4644b",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/BrainTF-LICENSE.txt",
+      "status": 200,
+      "bytes": 1068,
+      "sha256": "9252b2ac7c103bedb175a07ecc71baf6e75933784dcab8f223d6a52667f971dc",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/README.txt",
+      "status": 200,
+      "bytes": 1077,
+      "sha256": "cf09479dc51d77388f4f79cb573673bb6eccd7ef29061aa1e191d010780f909e",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/braintf-locus-review.csv",
+      "status": 200,
+      "bytes": 114267,
+      "sha256": "e4869cc606a18593e0b0155e9163fbf4fc95789263edd54072cbbfd917e858ba",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/braintf-locus-review.json",
+      "status": 200,
+      "bytes": 303896,
+      "sha256": "5bd1cae8201d0e99f5a245a61133a8acb4180afaa45f696cb0f68bbe3533d4a1",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/braintf-peaks.csv",
+      "status": 200,
+      "bytes": 162519,
+      "sha256": "80761be33476f9fd76f42e781de142d8f96a52cf2738a5146e6dcbdb70f7365f",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/braintf-peaks.json",
+      "status": 200,
+      "bytes": 235226,
+      "sha256": "2135e0f2198bba5b0a2d2a3c60ba425d52e212dae6978f3d613b638b585777a9",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/braintf-qc-rows.csv",
+      "status": 200,
+      "bytes": 17479,
+      "sha256": "3dc5d7e6fd2fbfdfd83069e99ea9ff0bcb197dbeba1ebc1030ef92310d14d24e",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/braintf-qc-rows.json",
+      "status": 200,
+      "bytes": 42756,
+      "sha256": "495d2072ef5fe9aa8c4040f78ef71d6518d1796f2a9cf05a09c54740da108f56",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/enhancer-regions.csv",
+      "status": 200,
+      "bytes": 2928,
+      "sha256": "851d9f845db30fb490765adea78795f264a638aff53425b17d06b51ad433fe07",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/enhancer-regions.json",
+      "status": 200,
+      "bytes": 3988,
+      "sha256": "b13ad5184015df76c4570a12ef851b55638991b10ed45eaaa4f5b95bfd0f2c62",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/review-fields.csv",
+      "status": 200,
+      "bytes": 3816,
+      "sha256": "89827b30c22d244687f7e0deb3146941c161bb320a8de77fadb9c1c8b3f51b5d",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/review.json",
+      "status": 200,
+      "bytes": 3327,
+      "sha256": "572890fd356d9d6ee6a301d88ff59019220e45ff16ec2cde97df0b6b87805579",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/source-file-hashes.csv",
+      "status": 200,
+      "bytes": 62925,
+      "sha256": "b22fba7d3576414c035ca05534769b9c01d24b2345a2c2a7f3378ce1125cc8e5",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/source-file-hashes.json",
+      "status": 200,
+      "bytes": 78768,
+      "sha256": "58347b27c2b86b833997a7d66ce387365223d3f38a3a306ad83d38c407e08c80",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/sources.csv",
+      "status": 200,
+      "bytes": 77697,
+      "sha256": "e2c08c9e2c59823b4a21103f0ccfa08ade2c00ac926af50aa40c5281a9d774a5",
+      "match": true
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/sources.json",
+      "status": 200,
+      "bytes": 91564,
+      "sha256": "fe4acac1c295db9b20e3d3f62aae98b87ca90edde5a1c8470e3685330655b0d2",
+      "match": true
+    },
+    {
+      "file": "Informatics/research.html",
+      "status": 200,
+      "bytes": 14606,
+      "sha256": "54d9ffe6c9755545ea62c07f3f965f21207de96f2e664a571734fa3d26798e79",
+      "match": true
+    },
+    {
+      "file": "Informatics/science.css",
+      "status": 200,
+      "bytes": 37317,
+      "sha256": "9dcf74060413d245fb96a3cdf2937e989614a248a51708533af6b66e708179a3",
+      "match": true
+    },
+    {
+      "file": "Informatics/science.js",
+      "status": 200,
+      "bytes": 58628,
+      "sha256": "63956d007716be36ea423ef67e8d1a5710bc9e090312dc6f3e3b532d662154f8",
+      "match": true
+    },
+    {
+      "file": "Informatics/tfbs-evidence.js",
+      "status": 200,
+      "bytes": 679,
+      "sha256": "21f5b9da1947a1ac8e3956b24c88820e9a29252be7e43bc1d7e59ed789df6c21",
+      "match": true
+    },
+    {
+      "file": "Informatics/tfbs-explorer.js",
+      "status": 200,
+      "bytes": 17272,
+      "sha256": "7d5271021644d7fc543cafd5513a2bcdd46f8d63436f56728d32e7ed21c911ce",
+      "match": true
+    },
+    {
+      "file": "Informatics/tfbs-geometry.js",
+      "status": 200,
+      "bytes": 45701,
+      "sha256": "1ea9404c77d62301644b7f23ca6872a233443e9b6351118e13b30d91b8a4ae14",
+      "match": true
+    }
+  ],
+  "visual_review": [
+    "Desktop three-source guide",
+    "Expanded study details at desktop and phone widths",
+    "Partners desktop and phone layouts"
+  ],
+  "deployment": "Existing ./deploy-panthur-staging.sh informatics; preflights passed; 56 changed uploads completed",
+  "production": "Unchanged. Ben authorized one combined release after his approval of the completed work in Research music and Fibonacci links; that approval is pending."
+}

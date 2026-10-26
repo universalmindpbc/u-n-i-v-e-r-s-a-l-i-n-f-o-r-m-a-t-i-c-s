@@ -1,0 +1,72 @@
+{
+  "passed": true,
+  "at": "2026-10-25T01:38:32.023554+00:00",
+  "files": [
+    {
+      "file": "Informatics/index.html",
+      "url": "https://staging.universalmind.tv/informatics/index.html?v=d734674a",
+      "sha256": "700bc07556d56e97895397844671efdb7c952afcd6d19a088c55ab62cce59fb0",
+      "matched": true
+    },
+    {
+      "file": "Informatics/quantum/index.html",
+      "url": "https://staging.universalmind.tv/informatics/quantum/index.html?v=d734674a",
+      "sha256": "4a6d0639c21ec9479633cc579db38092dd7c7f8b9901bdaf994d52d1466a6f96",
+      "matched": true
+    },
+    {
+      "file": "Informatics/quantum/biology.css",
+      "url": "https://staging.universalmind.tv/informatics/quantum/biology.css?v=8",
+      "sha256": "7a5e71fac861566582ef6f550b81f45c862675fd7cbd28a300f51f96b5a9f9a0",
+      "matched": true
+    },
+    {
+      "file": "Informatics/quantum/biology.js",
+      "url": "https://staging.universalmind.tv/informatics/quantum/biology.js?v=7",
+      "sha256": "fd31dbba80865d08d198e1852709639d91dce470b3f2abc807cce6e74981ff49",
+      "matched": true
+    },
+    {
+      "file": "Informatics/quantum/study.js",
+      "url": "https://staging.universalmind.tv/informatics/quantum/study.js?v=4",
+      "sha256": "25d1a2a9682c2bda6c0049b00e258fb9028b202802c5d38525526da812b92b5c",
+      "matched": true
+    },
+    {
+      "file": "Informatics/quantum/response-view.js",
+      "url": "https://staging.universalmind.tv/informatics/quantum/response-view.js?v=2",
+      "sha256": "5d0114af0419ab37bf5fa80417b1d1b2262bb6893e66dfadb4b5f452f5d01470",
+      "matched": true
+    },
+    {
+      "file": "Informatics/quantum/hypothesis.js",
+      "url": "https://staging.universalmind.tv/informatics/quantum/hypothesis.js?v=1",
+      "sha256": "11bcf4afab33943cfa6f5d40aa644089d16b1a7f7875f910cc503a4a2abec063",
+      "matched": true
+    },
+    {
+      "file": "Informatics/quantum/data/oxtr-qrc-qualification.json",
+      "url": "https://staging.universalmind.tv/informatics/quantum/data/oxtr-qrc-qualification.json?v=d734674a",
+      "sha256": "9fe40670c064ca9f3d2bc76f6b73a99311421b4939a885a178124e1e71881544",
+      "matched": true
+    },
+    {
+      "file": "Informatics/quantum/data/oxtr-qrc-qualification.md",
+      "url": "https://staging.universalmind.tv/informatics/quantum/data/oxtr-qrc-qualification.md?v=d734674a",
+      "sha256": "00d02ea441764039e7c2fddd27115571ddca1480c3305a9ad8703b22b41e8b07",
+      "matched": true
+    },
+    {
+      "file": "Informatics/quantum/data/oxtr-qrc-study.json",
+      "url": "https://staging.universalmind.tv/informatics/quantum/data/oxtr-qrc-study.json?v=d734674a",
+      "sha256": "1d642109b02815929416a986a5a0889ea7edab6b9410613306669d5388ef0a69",
+      "matched": true
+    },
+    {
+      "file": "Informatics/quantum/data/oxtr-qrc-state.json",
+      "url": "https://staging.universalmind.tv/informatics/quantum/data/oxtr-qrc-state.json?v=d734674a",
+      "sha256": "f5e3775ed2a8294358668b777332c3abc69947aeb6ba1dbe8fb8abc0fb456cb5",
+      "matched": true
+    }
+  ]
+}

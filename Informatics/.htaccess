@@ -1,0 +1,7 @@
+# The same public source is proofed on staging; indexing stays disabled there.
+<IfModule mod_setenvif.c>
+  SetEnvIfNoCase Host "^staging\.universalmind\.tv(:[0-9]+)?$" informatics_staging=1
+</IfModule>
+<IfModule mod_headers.c>
+  Header always set X-Robots-Tag "noindex, nofollow" env=informatics_staging
+</IfModule>

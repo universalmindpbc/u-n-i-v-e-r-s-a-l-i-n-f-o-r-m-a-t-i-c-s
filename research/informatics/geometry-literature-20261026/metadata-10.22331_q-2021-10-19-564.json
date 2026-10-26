@@ -1,0 +1,265 @@
+{
+  "doi": "10.22331/q-2021-10-19-564",
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          24
+        ]
+      ],
+      "date-time": "2026-10-24T05:15:10Z",
+      "timestamp": 1792818910179,
+      "version": "4.5.0"
+    },
+    "reference-count": 13,
+    "publisher": "Verein zur Forderung des Open Access Publizierens in den Quantenwissenschaften",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2021,
+              10,
+              19
+            ]
+          ],
+          "date-time": "2021-10-19T00:00:00Z",
+          "timestamp": 1634601600000
+        },
+        "content-version": "unspecified",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "quantum-journal.org"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Quantum"
+    ],
+    "abstract": "<jats:p>\n                    We present a quantum error correcting code with\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mrow class=\"MJX-TeXAtom-ORD\">\n                        <mml:mtext class=\"MJX-tex-mathit\" mathvariant=\"italic\">dynamically generated logical qubits</mml:mtext>\n                      </mml:mrow>\n                    </mml:math>\n                    . When viewed as a subsystem code, the code has no logical qubits. Nevertheless, our measurement patterns generate logical qubits, allowing the code to act as a fault-tolerant quantum memory. Our particular code gives a model very similar to the two-dimensional toric code, but each measurement is a\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:mi>t</mml:mi>\n                      <mml:mi>w</mml:mi>\n                      <mml:mi>o</mml:mi>\n                    </mml:math>\n                    -qubit Pauli measurement.\n                  </jats:p>",
+    "DOI": "10.22331/q-2021-10-19-564",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          19
+        ]
+      ],
+      "date-time": "2021-10-19T10:48:25Z",
+      "timestamp": 1634640505000
+    },
+    "page": "564",
+    "update-policy": "https://doi.org/10.22331/q-crossmark-policy-page",
+    "source": "Crossref",
+    "is-referenced-by-count": 157,
+    "title": [
+      "Dynamically Generated Logical Qubits"
+    ],
+    "prefix": "10.22331",
+    "volume": "5",
+    "author": [
+      {
+        "given": "Matthew B.",
+        "family": "Hastings",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Station Q, Microsoft Quantum, Santa Barbara, CA 93106-6105, USA"
+          },
+          {
+            "name": "Microsoft Quantum and Microsoft Research, Redmond, WA 98052, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jeongwan",
+        "family": "Haah",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Microsoft Quantum and Microsoft Research, Redmond, WA 98052, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "9598",
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          19
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "0",
+        "doi-asserted-by": "publisher",
+        "unstructured": "A. Kitaev, ``Fault-tolerant quantum computation by anyons,'' Annals of Physics 303, 2\u201330 (2003), arXiv:quant-ph/9707021.",
+        "DOI": "10.1016/s0003-4916(02)00018-0"
+      },
+      {
+        "key": "1",
+        "doi-asserted-by": "publisher",
+        "unstructured": "D. Poulin, ``Stabilizer formalism for operator quantum error correction,'' Physical Review Letters 95, 230504 (2005), arXiv:quant-ph/0508131.",
+        "DOI": "10.1103/physrevlett.95.230504"
+      },
+      {
+        "key": "2",
+        "doi-asserted-by": "publisher",
+        "unstructured": "S. Bravyi, G. Duclos-Cianci, D. Poulin, and M. Suchara, ``Subsystem surface codes with three-qubit check operators,'' Quantum Information and Computation 13, 963\u2013985 (2013), arXiv:1207.1443.",
+        "DOI": "10.26421/qic13.11-12-4"
+      },
+      {
+        "key": "3",
+        "doi-asserted-by": "publisher",
+        "unstructured": "H. Bombin, ``Topological subsystem codes,'' Physical Review A 81, 032301 (2010), arXiv:0908.4246.",
+        "DOI": "10.1103/physreva.81.032301"
+      },
+      {
+        "key": "4",
+        "doi-asserted-by": "publisher",
+        "unstructured": "D. Bacon, ``Operator quantum error-correcting subsystems for self-correcting quantum memories,'' Physical Review A 73, 012340 (2006), arXiv:quant-ph/0506023.",
+        "DOI": "10.1103/physreva.73.012340"
+      },
+      {
+        "key": "5",
+        "doi-asserted-by": "publisher",
+        "unstructured": "T. Karzig, C. Knapp, R. M. Lutchyn, P. Bonderson, M. B. Hastings, C. Nayak, J. Alicea, K. Flensberg, S. Plugge, Y. Oreg, C. M. Marcus, and M. H. Freedman, ``Scalable designs for quasiparticle-poisoning-protected topological quantum computation with majorana zero modes,'' Physical Review B 95, 235305 (2017), arXiv:1610.05289.",
+        "DOI": "10.1103/physrevb.95.235305"
+      },
+      {
+        "key": "6",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Y. Li, X. Chen, and M. P. A. Fisher, ``Quantum zeno effect and the many-body entanglement transition,'' Phys. Rev. B 98, 205136 (2018), arXiv:1808.06134.",
+        "DOI": "10.1103/PhysRevB.98.205136"
+      },
+      {
+        "key": "7",
+        "doi-asserted-by": "publisher",
+        "unstructured": "B. Skinner, J. Ruhman, and A. Nahum, ``Measurement-induced phase transitions in the dynamics of entanglement,'' Phys. Rev. X 9, 031009 (2019), arXiv:1808.05953.",
+        "DOI": "10.1103/PhysRevX.9.031009"
+      },
+      {
+        "key": "8",
+        "doi-asserted-by": "publisher",
+        "unstructured": "M. J. Gullans and D. A. Huse, ``Dynamical purification phase transition induced by quantum measurements,'' Physical Review X 10, 041020 (2020), arXiv:1905.05195.",
+        "DOI": "10.1103/physrevx.10.041020"
+      },
+      {
+        "key": "9",
+        "doi-asserted-by": "publisher",
+        "unstructured": "A. Kitaev, ``Anyons in an exactly solved model and beyond,'' Annals of Physics 321, 2\u2013111 (2006), arXiv:cond-mat/0506438.",
+        "DOI": "10.1016/j.aop.2005.10.005"
+      },
+      {
+        "key": "10",
+        "doi-asserted-by": "publisher",
+        "unstructured": "K. Kawagoe and M. Levin, ``Microscopic definitions of anyon data,'' Physical Review B 101, 1910.11353 (2020), arXiv:115113.",
+        "DOI": "10.1103/physrevb.101.115113"
+      },
+      {
+        "key": "11",
+        "doi-asserted-by": "publisher",
+        "unstructured": "S. A. Kivelson, D. S. Rokhsar, and J. P. Sethna, ``2e or not 2e : Flux quantization in the resonating valence bond state,'' Europhysics Letters (EPL) 6, 353\u2013358 (1988).",
+        "DOI": "10.1209/0295-5075/6/4/013"
+      },
+      {
+        "key": "12",
+        "doi-asserted-by": "publisher",
+        "unstructured": "L. Fidkowski, J. Haah, and M. B. Hastings, ``How dynamical quantum memories forget,'' Quantum 5, 382 (2021), arXiv:2008.10611.",
+        "DOI": "10.22331/q-2021-01-17-382"
+      }
+    ],
+    "container-title": [
+      "Quantum"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://quantum-journal.org/papers/q-2021-10-19-564/pdf/",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          19
+        ]
+      ],
+      "date-time": "2021-10-19T10:50:35Z",
+      "timestamp": 1634640635000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://quantum-journal.org/papers/q-2021-10-19-564/"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          19
+        ]
+      ]
+    },
+    "references-count": 13,
+    "URL": "https://doi.org/10.22331/q-2021-10-19-564",
+    "archive": [
+      "CLOCKSS"
+    ],
+    "relation": {},
+    "ISSN": [
+      "2521-327X"
+    ],
+    "issn-type": [
+      {
+        "value": "2521-327X",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          19
+        ]
+      ]
+    },
+    "article-number": "564"
+  },
+  "europepmc": [],
+  "retrievedAt": "2026-10-26"
+}

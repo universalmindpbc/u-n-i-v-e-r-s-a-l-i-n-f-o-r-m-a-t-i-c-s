@@ -1,0 +1,54 @@
+{
+  "verifiedAt": "2026-10-21T19:32:52.211217+00:00",
+  "sourceCommit": "8f5b06b1aac84838695326bcd688cb3e2f8bbbaa",
+  "assets": [
+    {
+      "path": "Informatics/app.js",
+      "url": "https://staging.universalmind.tv/informatics/app.js",
+      "sha256": "a6d6b6eb21e4e71f295431a4be1c924edc31b16f42957ca0d15b364e7905d4c9",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/global-navigation.js",
+      "url": "https://staging.universalmind.tv/informatics/global-navigation.js",
+      "sha256": "c0dab2f17753f7284ab5049f779c7247c8e02f154b884ef629d4bf52c0379a98",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/index.html",
+      "url": "https://staging.universalmind.tv/informatics/index.html",
+      "sha256": "fd90901602bfdec980d5cf0f78c374e0346bbd3f18904f9c299ac3f1f3f4ff81",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/library-launcher.js",
+      "url": "https://staging.universalmind.tv/informatics/library-launcher.js",
+      "sha256": "20b772600cf8db23b5450ac74ba18482856315ed1aae8bb4382e8f5e1e518735",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/library.html",
+      "url": "https://staging.universalmind.tv/informatics/library.html",
+      "sha256": "cb515da32849421ac2d485373df77f11f6897759039a1a4405260f76d456402c",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/molecular/atlas.css",
+      "url": "https://staging.universalmind.tv/informatics/molecular/atlas.css",
+      "sha256": "8f32f56bbb7207efe838cacfd7e414e7a34d7c7c5c49746426578ad6f6d95713",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/molecular/index.html",
+      "url": "https://staging.universalmind.tv/informatics/molecular/index.html",
+      "sha256": "03f3fd0cf46f43091be5ec1e9add9dd32682fad1a6da47c525761607032d49ca",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/science.js",
+      "url": "https://staging.universalmind.tv/informatics/science.js",
+      "sha256": "d3221bb128047183b34aca9eb9966386101ed4b07347e9c1b606f508d2857718",
+      "matchesCommittedSource": true
+    }
+  ]
+}

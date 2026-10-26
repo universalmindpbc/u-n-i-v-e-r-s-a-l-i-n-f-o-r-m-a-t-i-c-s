@@ -1,0 +1,68 @@
+{
+  "checkedAt": "2026-10-24T02:52:00.797130+00:00",
+  "synapse": {
+    "projectId": "syn78366147",
+    "folderId": "syn78366366",
+    "authentication": "verified",
+    "certification": "completed",
+    "projectACL": "owner-only",
+    "upload": "verified-private-test",
+    "filesUploaded": 3,
+    "files": [
+      {
+        "name": "connection-check.txt",
+        "id": "syn78366367",
+        "bytes": 174,
+        "sha256Verified": true,
+        "access": "owner-only",
+        "provenanceVerified": true
+      },
+      {
+        "name": "manifest.json",
+        "id": "syn78366368",
+        "bytes": 425,
+        "sha256Verified": true,
+        "access": "owner-only",
+        "provenanceVerified": true
+      },
+      {
+        "name": "integrity.json",
+        "id": "syn78366369",
+        "bytes": 140,
+        "sha256Verified": true,
+        "access": "owner-only",
+        "provenanceVerified": true
+      }
+    ],
+    "researchContentUploaded": false
+  },
+  "desci": {
+    "authentication": "verified",
+    "draftId": "pC6RBXus7yEUVvcvbjLHdzp77rN8UAUwEw__O6K9aC0",
+    "published": false,
+    "licenceSelected": false,
+    "anonymousReadStatus": 401,
+    "files": [
+      {
+        "name": "connection-check.txt",
+        "bytes": 174,
+        "sha256Verified": true,
+        "access": "Private"
+      },
+      {
+        "name": "manifest.json",
+        "bytes": 425,
+        "sha256Verified": true,
+        "access": "Private"
+      },
+      {
+        "name": "integrity.json",
+        "bytes": 140,
+        "sha256Verified": true,
+        "access": "Private"
+      }
+    ],
+    "providerReturned500AfterSave": true,
+    "reconciliation": "Saved raw IPFS CIDs match the SHA-256 of every local file. No duplicate upload; no research content uploaded."
+  }
+}

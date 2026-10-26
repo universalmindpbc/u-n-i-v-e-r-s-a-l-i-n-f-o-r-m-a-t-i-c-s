@@ -1,0 +1,53 @@
+{
+  "counts": {
+    "paperCount": 282,
+    "topicCount": 19,
+    "uniquePaperCount": 275
+  },
+  "omittedFromRetainedTopics": [],
+  "citationCorrections": [
+    {
+      "record": "src-8ad1130190f0",
+      "change": "Reconciled the title and publication link with PMID 31230462. Isolated the source frequency sentence for review; quotation text retained."
+    },
+    {
+      "record": "pmid-16314076",
+      "change": "Flagged the frequency insertion in the selected source wording without rewriting the quotation."
+    },
+    {
+      "record": "src-8ad1130190f0",
+      "change": "Reconciled the title and publication link with PMID 31230462. Isolated the source frequency sentence for review; quotation text retained."
+    }
+  ],
+  "portalIntegrations": [
+    {
+      "record": "portal-e25cb1d2bb79",
+      "topic": "i",
+      "action": "Integrated after the original papers in the relevant topic."
+    },
+    {
+      "record": "pmid-40547443",
+      "topic": "vii",
+      "action": "Integrated after the original papers in the relevant topic."
+    },
+    {
+      "record": "pmid-39004412",
+      "topic": "i",
+      "action": "Integrated after the original papers in the relevant topic."
+    },
+    {
+      "record": "pmid-40655918",
+      "topic": "vii",
+      "action": "Integrated after the original papers in the relevant topic."
+    },
+    {
+      "record": "portal-75ae9eff6740",
+      "topic": "ii",
+      "action": "Merged with the existing PDF paper; no duplicate entry."
+    }
+  ],
+  "trustScores": "Original subsection scores preserved. No article scores added. The IL6 subsection has no score in the PDF. Scores describe the original topic appraisal, not an assessment of later additions.",
+  "quotations": "Selected wording preserved; source bold emphasis recovered from positioned PDF text. Known frequency discrepancies are isolated for review.",
+  "sourceFilesModified": false,
+  "frequencyPassageReview": "Two disputed frequency passages are retained in structured data for editorial review and omitted from displayed quotations."
+}

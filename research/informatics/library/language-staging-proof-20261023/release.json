@@ -1,0 +1,41 @@
+{
+  "verifiedAt": "2026-10-23T01:57:00.902561+00:00",
+  "sourceCommit": "8345550fb71d225148470652960b07a373ec29a5",
+  "baseProductionCommit": "40a7f4d6cb4c108b9a7802f509d7137f465ddff5",
+  "stagingURL": "https://staging.universalmind.tv/informatics/library.html?collection=language",
+  "sourceDataUnchanged": [
+    "sound-edition.json",
+    "library.json",
+    "sound-source.json",
+    "language-source.json"
+  ],
+  "scope": {
+    "languageOriginalBodyTopics": 18,
+    "languageOriginalEntriesPreserved": 295,
+    "languageChapters": 4,
+    "languageTopics": 21,
+    "languageCanonicalRecords": 323,
+    "generalCanonicalRecords": 292,
+    "allCanonicalRecords": 726,
+    "mindfulnessStudiesAddedOrEnriched": 19,
+    "publicationPrimaryDestinationsChecked": 456,
+    "publicationDestinationsRepaired": 17,
+    "jadadNumericalScoresAssigned": 0
+  },
+  "evidenceFiles": [
+    "language-general.json",
+    "sound-regression.json",
+    "advanced-search.json",
+    "assets.json",
+    "language-desktop-white.png",
+    "language-mobile-white.png",
+    "jadad-mobile-white.png"
+  ],
+  "productionModified": false,
+  "reviewItems": [
+    "Original topic xvi has different index/body trust scores; body retained.",
+    "DVA evidence-review topic retains original three-cross score pending joint proof.",
+    "Foundation bibliography veteran study attribution corrected in reader."
+  ],
+  "verification": "Live browser tests passed in dedicated headless Chromium with process-level audio disabled. All eight uploaded assets returned HTTP 200 through the browser and matched local SHA-256. Generic command-line requests were rejected by the hosting firewall; browser verification succeeded."
+}

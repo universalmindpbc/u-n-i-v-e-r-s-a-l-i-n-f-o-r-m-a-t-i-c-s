@@ -1,0 +1,18 @@
+{
+  "started": "2026-10-25T20:53:19.517Z",
+  "muted": true,
+  "errors": [],
+  "unauthorisedDenied": true,
+  "taskId": "62c79a3b-0e1c-43b4-ba7c-93b86b353136",
+  "routingModel": "gpt-6-astra",
+  "routeHttp": 200,
+  "noLoginRequired": true,
+  "visibleReport": "CUDA-Q\nAquila\nGenomic analysis\nCompare\nNext test\n\nStudy question: Do quantum responses generated from Fibonacci and M9 P24 representations improve our ability to predict transcription factor occupancy around OXTR?\n\nASTRA · AUTOMATED PRELIMINARY INSIGHTS\nDoes adding Fibonacci information help locate OXTR binding regions?\n\nNot yet: this pilot does not establish that Fibonacci sequences or Phi Ratio improve binding prediction around OXTR. M9 P24 Alpha, Beta, Gamma and Epsilon were not evaluated for biological prediction in the new classical test. The laboratory evidence covers CTCF, one DNA-binding protein, in one stem-cell context—not transcription factors generally.\n\nWhat the agent completed\n\nThe agent completed a classical comparison of familiar DNA binding patterns and their spacing, with and without Fibonacci/Phi Ratio features. It learned on chromosome 1, chose the method on chromosome 2 and tested 152 OXTR windows on chromosome 3: it did not see OXTR laboratory answers while learning. The agent also prepared a new matched pair of DNA windows, one overlapping a reported CTCF peak and one comparison window, compiled all eight representations for each and completed 16 local CUDA-Q CPU checks. These are the same DNA prepared as ordinary, Fibonacci, Phi Ratio, Alpha, Beta, Gamma, Epsilon and shuffled controls.\n\nWhat this means for your question\n\nAverage precision, a ranking score rather than percent accuracy, changed from 0.0719 to 0.0739. The estimated uncertainty range for that change was −0.0263 to +0.0082, spanning both harm and benefit. This noisy change leaves benefit unresolved. The small pilot covers five OXTR peak regions and has laboratory quality warnings. Saved CUDA-Q/Aquila readings measure programmed quantum responses, not binding probabilities; the saved Aquila samples miss those peak regions and cannot validate binding prediction. The new pair checks programs, not predictive performance.\n\nThe comparison, in plain numbers\n\nCTCF is one protein that binds DNA. We checked whether each method ranked the eight OXTR windows overlapping reported CTCF regions above the other 144 windows. The laboratory map contains five peak regions; some span more than one window.\n\nAverage precision is a ranking score from 0 to 1. Higher is better; it is not percentage accuracy.\nMethod\tOXTR ranking score\nDNA motif and spacing features\t0.0719\nSame features + Fibonacci spacing and Phi Ratio\t0.0739\n\nChange: 0.0020. The 95% interval from resampling DNA blocks runs from -0.0263 to 0.0082. An interval spanning zero leaves the benefit unresolved.\n\nData, quality checks and exact methods\nDownload complete study · JSON ↓\nDownload complete study · CSV ↓",
+  "reportModel": "gpt-6-astra",
+  "reportTokens": 6208,
+  "researchMemory": true,
+  "runtimeTest": "AWS worker with local worker stopped",
+  "resumeAfterReload": true,
+  "idempotentRetry": true,
+  "passed": true
+}

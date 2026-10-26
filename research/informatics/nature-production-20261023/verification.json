@@ -1,0 +1,47 @@
+{
+  "base": "https://universalmind.tv/informatics/library.html",
+  "checks": [
+    {
+      "width": 1470,
+      "publisherGroups": true,
+      "nature": 49,
+      "frontiers": 42,
+      "uniqueRecords": 781,
+      "multipleSelections": true,
+      "themes": 3,
+      "newChaptersAndTrustScores": true
+    },
+    {
+      "width": 1024,
+      "publisherGroups": true,
+      "nature": 49,
+      "frontiers": 42,
+      "uniqueRecords": 781,
+      "multipleSelections": true,
+      "themes": 3,
+      "newChaptersAndTrustScores": true
+    },
+    {
+      "width": 390,
+      "publisherGroups": true,
+      "nature": 49,
+      "frontiers": 42,
+      "uniqueRecords": 781,
+      "multipleSelections": true,
+      "themes": 3,
+      "newChaptersAndTrustScores": true
+    },
+    {
+      "width": 320,
+      "publisherGroups": true,
+      "nature": 49,
+      "frontiers": 42,
+      "uniqueRecords": 781,
+      "multipleSelections": true,
+      "themes": 3,
+      "newChaptersAndTrustScores": true
+    }
+  ],
+  "errors": [],
+  "audioMuted": true
+}

@@ -1,0 +1,594 @@
+﻿field,type,value,escaped
+,object,,0
+/schema,string,universal-informatics/scientific-review/v1,0
+/study_id,string,62c79a3b-0e1c-43b4-ba7c-93b86b353136,0
+/review_status,string,model_review_complete,0
+/review_kind,string,retrospective,0
+/source,object,,0
+/source/question,string,"Do regular Fibonacci sequences, M9 P24 including Alpha, Beta, Gamma and Epsilon, and Phi Ratio help predict transcription factor binding around OXTR?",0
+/source/plan,object,,0
+/source/plan/scope,string,Retrospective audit of completed public OXTR work; no new jobs.,0
+/source/plan/question,string,"Do regular Fibonacci sequences, M9 P24 including Alpha, Beta, Gamma and Epsilon, and Phi Ratio help predict transcription factor binding around OXTR?",0
+/source/plan/hypotheses,array,,0
+/source/plan/hypotheses/0,string,Fibonacci and Phi Ratio may improve occupancy prediction,0
+/source/plan/hypotheses/1,string,M9 P24 Alpha/Beta/Gamma/Epsilon responses are candidate future predictive features,0
+/source/plan/controls,array,,0
+/source/plan/controls/0,string,Ordinary DNA inputs,0
+/source/plan/controls/1,string,Shuffled input control,0
+/source/plan/controls/2,string,Classical motif baseline,0
+/source/plan/current_evidence_boundary,string,The two-window 16-run quantum batch qualifies measurements. It does not evaluate biological prediction or coherence lifetime. The later 152-window classical OXTR test is a separate pilot.,0
+/source/plan/next_test,string,"Prespecify more labelled genomic windows, partition adjacent windows together, freeze all representations and model selection, then compare held-out prediction against ordinary and shuffled controls.",0
+/source/plan/authority,object,,0
+/source/plan/authority/new_Aquila_jobs,boolean,false,0
+/source/plan/authority/new_paid_GPU_jobs,boolean,false,0
+/source/plan/success,string,Improvement on independent biological test regions with uncertainty and matched baselines; null findings remain reportable.,0
+/source/evidence,object,,0
+/source/evidence/record_sha256,string,fec93e37a37c7594913c76bc7cf18ad338e74dbb7ba9668ec37bcf9dd8f2ec92,0
+/source/evidence/source,string,https://universalmind.tv/informatics/quantum/experiments/oxtr-agent-follow-through-pilot/r1/experiment.json,0
+/source/execution,object,,0
+/source/execution/cohort,object,,0
+/source/execution/cohort/version,string,oxtr-follow-through-v1,0
+/source/execution/cohort/analysis_code_sha256,string,9a40f5fd28523e40421217534b71e8ddc7ef8bdaf17fd83d0f288376723c7818,0
+/source/execution/cohort/assay,string,ENCSR932ZMX,0
+/source/execution/cohort/factor,string,CTCF,0
+/source/execution/cohort/cell,string,GM23338 iPSCs,0
+/source/execution/cohort/assembly,string,GRCh38,0
+/source/execution/cohort/sampling,string,"32 peak-centred and 32 nearby non-peak windows per development chromosome; all 152 fixed OXTR windows for evaluation. Non-peak means no peak reported in this assay, not proven absence.",0
+/source/execution/cohort/qc,array,,0
+/source/execution/cohort/qc/0,string,Antibody characterization exemption,0
+/source/execution/cohort/qc/1,string,Low read depth,0
+/source/execution/cohort/qc/2,string,Bottlenecking and library complexity warnings,0
+/source/execution/cohort/sources,array,,0
+/source/execution/cohort/sources/0,object,,0
+/source/execution/cohort/sources/0/kind,string,GRCh38 DNA,0
+/source/execution/cohort/sources/0/sha256,string,7394b02ddb3664b93adb468a1c75f56c41adda0de9394c30f318ae17f59fd2d2,0
+/source/execution/cohort/sources/0/source,string,https://api.genome.ucsc.edu/getData/sequence,0
+/source/execution/cohort/sources/1,object,,0
+/source/execution/cohort/sources/1/kind,string,ENCODE peaks,0
+/source/execution/cohort/sources/1/sha256,string,ee5624447f4852f48ddf34c03a7d41c5ec7ebf9e86e7c0b93888eb6ad483ec68,0
+/source/execution/cohort/sources/1/source,string,https://www.encodeproject.org/files/ENCFF651DQL/,0
+/source/execution/cohort/sources/2,object,,0
+/source/execution/cohort/sources/2/kind,string,JASPAR motif library,0
+/source/execution/cohort/sources/2/sha256,string,4005b5449ba07d9b58495f51143186e7e3959efd0ad670770fbddf57bf941e8f,0
+/source/execution/cohort/sources/2/source,string,https://jaspar.elixir.no/matrix/MA0139.2/,0
+/source/execution/cohort/sources/3,object,,0
+/source/execution/cohort/sources/3/kind,string,GRCh38 DNA chr1,0
+/source/execution/cohort/sources/3/sha256,string,35262b9fb52b14d97983a1c31d18dcba6707f765b861273abb2cf38c0b292f0e,0
+/source/execution/cohort/sources/3/source,string,https://api.genome.ucsc.edu/getData/sequence?genome=hg38;chrom=chr1;start=10032536;end=10708035,0
+/source/execution/cohort/sources/4,object,,0
+/source/execution/cohort/sources/4/kind,string,GRCh38 DNA chr2,0
+/source/execution/cohort/sources/4/sha256,string,f6f62a9b953300479f5b4a6036b82e80bfc30f48db97942d6937c176e07d3b8f,0
+/source/execution/cohort/sources/4/source,string,https://api.genome.ucsc.edu/getData/sequence?genome=hg38;chrom=chr2;start=10020094;end=10310877,0
+/source/execution/cohort/selection_frozen_before_scores,boolean,true,0
+/source/execution/cohort/model_selection,string,"Use chr1 for learning, chr2 to choose a fixed candidate, then evaluate chr3/OXTR once. No OXTR labels enter fitting or candidate selection.",0
+/source/execution/cohort/primary_measure,string,Average precision: how often regions ranked as likely binding regions match the laboratory peak map.,0
+/source/execution/cohort/limits,array,,0
+/source/execution/cohort/limits/0,string,"Small pilot with five OXTR peak regions; descriptive results, not an independent confirmation.",0
+/source/execution/cohort/limits/1,string,Local background selection and one cell context limit generalisation.,0
+/source/execution/cohort/limits/2,string,No accessibility-matched negative set or ENCODE blacklist filtering in this pilot.,0
+/source/execution/cohort/limits/3,string,Additional hardware and population-wide inference are outside this task.,0
+/source/execution/analysis,object,,0
+/source/execution/analysis/version,string,oxtr-follow-through-v1,0
+/source/execution/analysis/counts,object,,0
+/source/execution/analysis/counts/development,object,,0
+/source/execution/analysis/counts/development/windows,number,64,0
+/source/execution/analysis/counts/development/peak_windows,number,32,0
+/source/execution/analysis/counts/validation,object,,0
+/source/execution/analysis/counts/validation/windows,number,64,0
+/source/execution/analysis/counts/validation/peak_windows,number,32,0
+/source/execution/analysis/counts/OXTR test,object,,0
+/source/execution/analysis/counts/OXTR test/windows,number,152,0
+/source/execution/analysis/counts/OXTR test/peak_windows,number,8,0
+/source/execution/analysis/models,object,,0
+/source/execution/analysis/models/ordinary motif and spacing,object,,0
+/source/execution/analysis/models/ordinary motif and spacing/selected_model,string,random forest,0
+/source/execution/analysis/models/ordinary motif and spacing/validation_candidates,array,,0
+/source/execution/analysis/models/ordinary motif and spacing/validation_candidates/0,object,,0
+/source/execution/analysis/models/ordinary motif and spacing/validation_candidates/0/name,string,logistic C=0.1,0
+/source/execution/analysis/models/ordinary motif and spacing/validation_candidates/0/validation_average_precision,number,0.9046791083103668,0
+/source/execution/analysis/models/ordinary motif and spacing/validation_candidates/1,object,,0
+/source/execution/analysis/models/ordinary motif and spacing/validation_candidates/1/name,string,logistic C=1,0
+/source/execution/analysis/models/ordinary motif and spacing/validation_candidates/1/validation_average_precision,number,0.9217927095925503,0
+/source/execution/analysis/models/ordinary motif and spacing/validation_candidates/2,object,,0
+/source/execution/analysis/models/ordinary motif and spacing/validation_candidates/2/name,string,logistic C=10,0
+/source/execution/analysis/models/ordinary motif and spacing/validation_candidates/2/validation_average_precision,number,0.9200778321905081,0
+/source/execution/analysis/models/ordinary motif and spacing/validation_candidates/3,object,,0
+/source/execution/analysis/models/ordinary motif and spacing/validation_candidates/3/name,string,random forest,0
+/source/execution/analysis/models/ordinary motif and spacing/validation_candidates/3/validation_average_precision,number,0.930813898180016,0
+/source/execution/analysis/models/ordinary motif and spacing/validation_average_precision,number,0.930813898180016,0
+/source/execution/analysis/models/ordinary motif and spacing/OXTR_average_precision,number,0.0719144453117206,0
+/source/execution/analysis/models/ordinary motif and spacing/OXTR_roc_auc,number,0.5963541666666667,0
+/source/execution/analysis/models/with Fibonacci and Phi Ratio,object,,0
+/source/execution/analysis/models/with Fibonacci and Phi Ratio/selected_model,string,random forest,0
+/source/execution/analysis/models/with Fibonacci and Phi Ratio/validation_candidates,array,,0
+/source/execution/analysis/models/with Fibonacci and Phi Ratio/validation_candidates/0,object,,0
+/source/execution/analysis/models/with Fibonacci and Phi Ratio/validation_candidates/0/name,string,logistic C=0.1,0
+/source/execution/analysis/models/with Fibonacci and Phi Ratio/validation_candidates/0/validation_average_precision,number,0.9098333461479924,0
+/source/execution/analysis/models/with Fibonacci and Phi Ratio/validation_candidates/1,object,,0
+/source/execution/analysis/models/with Fibonacci and Phi Ratio/validation_candidates/1/name,string,logistic C=1,0
+/source/execution/analysis/models/with Fibonacci and Phi Ratio/validation_candidates/1/validation_average_precision,number,0.9245496005487566,0
+/source/execution/analysis/models/with Fibonacci and Phi Ratio/validation_candidates/2,object,,0
+/source/execution/analysis/models/with Fibonacci and Phi Ratio/validation_candidates/2/name,string,logistic C=10,0
+/source/execution/analysis/models/with Fibonacci and Phi Ratio/validation_candidates/2/validation_average_precision,number,0.9110348608488567,0
+/source/execution/analysis/models/with Fibonacci and Phi Ratio/validation_candidates/3,object,,0
+/source/execution/analysis/models/with Fibonacci and Phi Ratio/validation_candidates/3/name,string,random forest,0
+/source/execution/analysis/models/with Fibonacci and Phi Ratio/validation_candidates/3/validation_average_precision,number,0.9291072679012629,0
+/source/execution/analysis/models/with Fibonacci and Phi Ratio/validation_average_precision,number,0.9291072679012629,0
+/source/execution/analysis/models/with Fibonacci and Phi Ratio/OXTR_average_precision,number,0.07390237208980502,0
+/source/execution/analysis/models/with Fibonacci and Phi Ratio/OXTR_roc_auc,number,0.6145833333333334,0
+/source/execution/analysis/difference_average_precision,number,0.0019879267780844173,0
+/source/execution/analysis/block_bootstrap_95_interval,array,,0
+/source/execution/analysis/block_bootstrap_95_interval/0,number,'-0.026260195602900528,1
+/source/execution/analysis/block_bootstrap_95_interval/1,number,0.008181524055569506,0
+/source/execution/analysis/bootstrap_valid_replicates,number,999,0
+/source/execution/analysis/verdict,string,inconclusive,0
+/source/execution/analysis/positive_result_rule,string,The added features improve average precision and the block-resampled interval remains above zero. This small pilot still needs a fresh independent dataset.,0
+/source/execution/analysis/negative_result_rule,string,An interval below zero is discouraging for this recipe; an interval spanning zero leaves benefit unresolved.,0
+/source/execution/analysis/test_prevalence,number,0.05263157894736842,0
+/source/execution/analysis/limits,array,,0
+/source/execution/analysis/limits/0,string,"Small pilot with five OXTR peak regions; descriptive results, not an independent confirmation.",0
+/source/execution/analysis/limits/1,string,Local background selection and one cell context limit generalisation.,0
+/source/execution/analysis/limits/2,string,No accessibility-matched negative set or ENCODE blacklist filtering in this pilot.,0
+/source/execution/analysis/limits/3,string,Additional hardware and population-wide inference are outside this task.,0
+/source/execution/analysis/quantum_prediction_status,string,Not evaluated: the two DNA samples with saved Aquila measurements do not overlap the five CTCF peak regions. They cannot train or test a binding predictor.,0
+/source/execution/positive_test_windows,array,,0
+/source/execution/positive_test_windows/0,object,,0
+/source/execution/positive_test_windows/0/sample,string,chr3-8742912-8743168,0
+/source/execution/positive_test_windows/0/start,number,8742912,0
+/source/execution/positive_test_windows/0/end,number,8743168,0
+/source/execution/positive_test_windows/0/reported_CTCF_peak,number,1,0
+/source/execution/positive_test_windows/0/ordinary_score,number,0.2531080325367973,0
+/source/execution/positive_test_windows/0/Fibonacci_Phi_score,number,0.33721638908993123,0
+/source/execution/positive_test_windows/0/motif_hits,number,7,0
+/source/execution/positive_test_windows/0/fibonacci_gap_signal,number,0.25,0
+/source/execution/positive_test_windows/0/phi_gap_signal,number,0,0
+/source/execution/positive_test_windows/1,object,,0
+/source/execution/positive_test_windows/1/sample,string,chr3-8755712-8755968,0
+/source/execution/positive_test_windows/1/start,number,8755712,0
+/source/execution/positive_test_windows/1/end,number,8755968,0
+/source/execution/positive_test_windows/1/reported_CTCF_peak,number,1,0
+/source/execution/positive_test_windows/1/ordinary_score,number,0.5482449649724352,0
+/source/execution/positive_test_windows/1/Fibonacci_Phi_score,number,0.5363357204043285,0
+/source/execution/positive_test_windows/1/motif_hits,number,3,0
+/source/execution/positive_test_windows/1/fibonacci_gap_signal,number,0,0
+/source/execution/positive_test_windows/1/phi_gap_signal,number,0,0
+/source/execution/positive_test_windows/2,object,,0
+/source/execution/positive_test_windows/2/sample,string,chr3-8756736-8756992,0
+/source/execution/positive_test_windows/2/start,number,8756736,0
+/source/execution/positive_test_windows/2/end,number,8756992,0
+/source/execution/positive_test_windows/2/reported_CTCF_peak,number,1,0
+/source/execution/positive_test_windows/2/ordinary_score,number,0.2139273366717749,0
+/source/execution/positive_test_windows/2/Fibonacci_Phi_score,number,0.2761326801558592,0
+/source/execution/positive_test_windows/2/motif_hits,number,5,0
+/source/execution/positive_test_windows/2/fibonacci_gap_signal,number,0,0
+/source/execution/positive_test_windows/2/phi_gap_signal,number,0,0
+/source/execution/positive_test_windows/3,object,,0
+/source/execution/positive_test_windows/3/sample,string,chr3-8756992-8757248,0
+/source/execution/positive_test_windows/3/start,number,8756992,0
+/source/execution/positive_test_windows/3/end,number,8757248,0
+/source/execution/positive_test_windows/3/reported_CTCF_peak,number,1,0
+/source/execution/positive_test_windows/3/ordinary_score,number,0.190760053923115,0
+/source/execution/positive_test_windows/3/Fibonacci_Phi_score,number,0.21779310115525227,0
+/source/execution/positive_test_windows/3/motif_hits,number,6,0
+/source/execution/positive_test_windows/3/fibonacci_gap_signal,number,0,0
+/source/execution/positive_test_windows/3/phi_gap_signal,number,0,0
+/source/execution/positive_test_windows/4,object,,0
+/source/execution/positive_test_windows/4/sample,string,chr3-8767744-8768000,0
+/source/execution/positive_test_windows/4/start,number,8767744,0
+/source/execution/positive_test_windows/4/end,number,8768000,0
+/source/execution/positive_test_windows/4/reported_CTCF_peak,number,1,0
+/source/execution/positive_test_windows/4/ordinary_score,number,0.5935188450899769,0
+/source/execution/positive_test_windows/4/Fibonacci_Phi_score,number,0.522171866489204,0
+/source/execution/positive_test_windows/4/motif_hits,number,8,0
+/source/execution/positive_test_windows/4/fibonacci_gap_signal,number,0.21428571428571427,0
+/source/execution/positive_test_windows/4/phi_gap_signal,number,0.03073419947947344,0
+/source/execution/positive_test_windows/5,object,,0
+/source/execution/positive_test_windows/5/sample,string,chr3-8768000-8768256,0
+/source/execution/positive_test_windows/5/start,number,8768000,0
+/source/execution/positive_test_windows/5/end,number,8768256,0
+/source/execution/positive_test_windows/5/reported_CTCF_peak,number,1,0
+/source/execution/positive_test_windows/5/ordinary_score,number,0.5142459233718826,0
+/source/execution/positive_test_windows/5/Fibonacci_Phi_score,number,0.5216907662101627,0
+/source/execution/positive_test_windows/5/motif_hits,number,7,0
+/source/execution/positive_test_windows/5/fibonacci_gap_signal,number,0.16666666666666666,0
+/source/execution/positive_test_windows/5/phi_gap_signal,number,0.1067535280966018,0
+/source/execution/positive_test_windows/6,object,,0
+/source/execution/positive_test_windows/6/sample,string,chr3-8769280-8769536,0
+/source/execution/positive_test_windows/6/start,number,8769280,0
+/source/execution/positive_test_windows/6/end,number,8769536,0
+/source/execution/positive_test_windows/6/reported_CTCF_peak,number,1,0
+/source/execution/positive_test_windows/6/ordinary_score,number,0.2572977827719424,0
+/source/execution/positive_test_windows/6/Fibonacci_Phi_score,number,0.26480835599837416,0
+/source/execution/positive_test_windows/6/motif_hits,number,5,0
+/source/execution/positive_test_windows/6/fibonacci_gap_signal,number,0,0
+/source/execution/positive_test_windows/6/phi_gap_signal,number,0,0
+/source/execution/positive_test_windows/7,object,,0
+/source/execution/positive_test_windows/7/sample,string,chr3-8769536-8769792,0
+/source/execution/positive_test_windows/7/start,number,8769536,0
+/source/execution/positive_test_windows/7/end,number,8769792,0
+/source/execution/positive_test_windows/7/reported_CTCF_peak,number,1,0
+/source/execution/positive_test_windows/7/ordinary_score,number,0.2539840963830818,0
+/source/execution/positive_test_windows/7/Fibonacci_Phi_score,number,0.34850149849352435,0
+/source/execution/positive_test_windows/7/motif_hits,number,6,0
+/source/execution/positive_test_windows/7/fibonacci_gap_signal,number,0.1,0
+/source/execution/positive_test_windows/7/phi_gap_signal,number,0.25410760576842173,0
+/source/execution/prior_quantum,object,,0
+/source/execution/prior_quantum/sha256,string,9fe40670c064ca9f3d2bc76f6b73a99311421b4939a885a178124e1e71881544,0
+/source/execution/prior_quantum/wolfram,object,,0
+/source/execution/prior_quantum/wolfram/mode,string,cached_template_verification,0
+/source/execution/prior_quantum/wolfram/program,string,chr3-8752896-8753152-ordinary,0
+/source/execution/prior_quantum/wolfram/passed,boolean,true,0
+/source/execution/prior_quantum/wolfram/maximum_probability_error,number,7.257771376945055e-09,0
+/source/execution/prior_quantum/wolfram/receipt_sha256,string,5fe58d4ccbfc4b69d36c4955cf40e7697a8098ed3246b7bad6cbcadbdbbf9e72,0
+/source/execution/prior_quantum/wolfram/physical_model_sha256,string,6f4c108202cf5ea103c13d8b80a4e0a269c708ac92d1ea4b652006a67acb7262,0
+/source/execution/prior_quantum/wolfram/scope,string,Saved ordinary-input program; no new remote Wolfram call or new Hamiltonian validation claimed.,0
+/source/execution/prior_quantum/rows,array,,0
+/source/execution/prior_quantum/rows/0,object,,0
+/source/execution/prior_quantum/rows/0/sample,string,chr3-8752896-8753152,0
+/source/execution/prior_quantum/rows/0/representation,string,ordinary,0
+/source/execution/prior_quantum/rows/0/simulation_mean,number,0.3016666666666667,0
+/source/execution/prior_quantum/rows/0/Aquila_mean,number,0.25510204081632654,0
+/source/execution/prior_quantum/rows/0/reference_mean,number,0.2972165941120539,0
+/source/execution/prior_quantum/rows/0/Aquila_change_percentage_points,number,0,0
+/source/execution/prior_quantum/rows/1,object,,0
+/source/execution/prior_quantum/rows/1/sample,string,chr3-8752896-8753152,0
+/source/execution/prior_quantum/rows/1/representation,string,fibonacci,0
+/source/execution/prior_quantum/rows/1/simulation_mean,number,0.28,0
+/source/execution/prior_quantum/rows/1/Aquila_mean,number,0.21717171717171715,0
+/source/execution/prior_quantum/rows/1/reference_mean,number,0.2748087531131463,0
+/source/execution/prior_quantum/rows/1/Aquila_change_percentage_points,number,'-3.793032364460938,1
+/source/execution/prior_quantum/rows/2,object,,0
+/source/execution/prior_quantum/rows/2/sample,string,chr3-8752896-8753152,0
+/source/execution/prior_quantum/rows/2/representation,string,phi,0
+/source/execution/prior_quantum/rows/2/simulation_mean,number,0.2783333333333334,0
+/source/execution/prior_quantum/rows/2/Aquila_mean,number,0.24131944444444445,0
+/source/execution/prior_quantum/rows/2/reference_mean,number,0.2688469682614885,0
+/source/execution/prior_quantum/rows/2/Aquila_change_percentage_points,number,'-1.3782596371882088,1
+/source/execution/prior_quantum/rows/3,object,,0
+/source/execution/prior_quantum/rows/3/sample,string,chr3-8752896-8753152,0
+/source/execution/prior_quantum/rows/3/representation,string,alpha,0
+/source/execution/prior_quantum/rows/3/simulation_mean,number,0.2833333333333334,0
+/source/execution/prior_quantum/rows/3/Aquila_mean,number,0.203125,0
+/source/execution/prior_quantum/rows/3/reference_mean,number,0.28111071249328123,0
+/source/execution/prior_quantum/rows/3/Aquila_change_percentage_points,number,'-5.197704081632653,1
+/source/execution/prior_quantum/rows/4,object,,0
+/source/execution/prior_quantum/rows/4/sample,string,chr3-8752896-8753152,0
+/source/execution/prior_quantum/rows/4/representation,string,beta,0
+/source/execution/prior_quantum/rows/4/simulation_mean,number,0.2883333333333334,0
+/source/execution/prior_quantum/rows/4/Aquila_mean,number,0.24226804123711343,0
+/source/execution/prior_quantum/rows/4/reference_mean,number,0.2912929479467206,0
+/source/execution/prior_quantum/rows/4/Aquila_change_percentage_points,number,'-1.2833999579213107,1
+/source/execution/prior_quantum/rows/5,object,,0
+/source/execution/prior_quantum/rows/5/sample,string,chr3-8752896-8753152,0
+/source/execution/prior_quantum/rows/5/representation,string,gamma,0
+/source/execution/prior_quantum/rows/5/simulation_mean,number,0.29833333333333334,0
+/source/execution/prior_quantum/rows/5/Aquila_mean,number,0.2638888888888889,0
+/source/execution/prior_quantum/rows/5/reference_mean,number,0.3146403274328215,0
+/source/execution/prior_quantum/rows/5/Aquila_change_percentage_points,number,0.8786848072562359,0
+/source/execution/prior_quantum/rows/6,object,,0
+/source/execution/prior_quantum/rows/6/sample,string,chr3-8752896-8753152,0
+/source/execution/prior_quantum/rows/6/representation,string,epsilon,0
+/source/execution/prior_quantum/rows/6/simulation_mean,number,0.3016666666666667,0
+/source/execution/prior_quantum/rows/6/Aquila_mean,number,0.2916666666666667,0
+/source/execution/prior_quantum/rows/6/reference_mean,number,0.31770366600623073,0
+/source/execution/prior_quantum/rows/6/Aquila_change_percentage_points,number,3.656462585034015,0
+/source/execution/prior_quantum/rows/7,object,,0
+/source/execution/prior_quantum/rows/7/sample,string,chr3-8752896-8753152,0
+/source/execution/prior_quantum/rows/7/representation,string,shuffled,0
+/source/execution/prior_quantum/rows/7/simulation_mean,number,0.27666666666666667,0
+/source/execution/prior_quantum/rows/7/Aquila_mean,number,0.2754385964912281,0
+/source/execution/prior_quantum/rows/7/reference_mean,number,0.28120871076145454,0
+/source/execution/prior_quantum/rows/7/Aquila_change_percentage_points,number,2.0336555674901557,0
+/source/execution/prior_quantum/rows/8,object,,0
+/source/execution/prior_quantum/rows/8/sample,string,chr3-8745472-8745728,0
+/source/execution/prior_quantum/rows/8/representation,string,ordinary,0
+/source/execution/prior_quantum/rows/8/simulation_mean,number,0.21166666666666664,0
+/source/execution/prior_quantum/rows/8/Aquila_mean,number,0.18070175438596492,0
+/source/execution/prior_quantum/rows/8/reference_mean,number,0.19366276748557543,0
+/source/execution/prior_quantum/rows/8/Aquila_change_percentage_points,number,0,0
+/source/execution/prior_quantum/rows/9,object,,0
+/source/execution/prior_quantum/rows/9/sample,string,chr3-8745472-8745728,0
+/source/execution/prior_quantum/rows/9/representation,string,fibonacci,0
+/source/execution/prior_quantum/rows/9/simulation_mean,number,0.215,0
+/source/execution/prior_quantum/rows/9/Aquila_mean,number,0.19415807560137455,0
+/source/execution/prior_quantum/rows/9/reference_mean,number,0.19352774497750133,0
+/source/execution/prior_quantum/rows/9/Aquila_change_percentage_points,number,1.3456321215409628,0
+/source/execution/prior_quantum/rows/10,object,,0
+/source/execution/prior_quantum/rows/10/sample,string,chr3-8745472-8745728,0
+/source/execution/prior_quantum/rows/10/representation,string,phi,0
+/source/execution/prior_quantum/rows/10/simulation_mean,number,0.21499999999999997,0
+/source/execution/prior_quantum/rows/10/Aquila_mean,number,0.17361111111111113,0
+/source/execution/prior_quantum/rows/10/reference_mean,number,0.19181574999115006,0
+/source/execution/prior_quantum/rows/10/Aquila_change_percentage_points,number,'-0.7090643274853786,1
+/source/execution/prior_quantum/rows/11,object,,0
+/source/execution/prior_quantum/rows/11/sample,string,chr3-8745472-8745728,0
+/source/execution/prior_quantum/rows/11/representation,string,alpha,0
+/source/execution/prior_quantum/rows/11/simulation_mean,number,0.18000000000000002,0
+/source/execution/prior_quantum/rows/11/Aquila_mean,number,0.15087719298245614,0
+/source/execution/prior_quantum/rows/11/reference_mean,number,0.1691344536029761,0
+/source/execution/prior_quantum/rows/11/Aquila_change_percentage_points,number,'-2.982456140350878,1
+/source/execution/prior_quantum/rows/12,object,,0
+/source/execution/prior_quantum/rows/12/sample,string,chr3-8745472-8745728,0
+/source/execution/prior_quantum/rows/12/representation,string,beta,0
+/source/execution/prior_quantum/rows/12/simulation_mean,number,0.18500000000000003,0
+/source/execution/prior_quantum/rows/12/Aquila_mean,number,0.16145833333333334,0
+/source/execution/prior_quantum/rows/12/reference_mean,number,0.17618737236750492,0
+/source/execution/prior_quantum/rows/12/Aquila_change_percentage_points,number,'-1.9243421052631575,1
+/source/execution/prior_quantum/rows/13,object,,0
+/source/execution/prior_quantum/rows/13/sample,string,chr3-8745472-8745728,0
+/source/execution/prior_quantum/rows/13/representation,string,gamma,0
+/source/execution/prior_quantum/rows/13/simulation_mean,number,0.24166666666666667,0
+/source/execution/prior_quantum/rows/13/Aquila_mean,number,0.17368421052631577,0
+/source/execution/prior_quantum/rows/13/reference_mean,number,0.22444963615407762,0
+/source/execution/prior_quantum/rows/13/Aquila_change_percentage_points,number,'-0.7017543859649145,1
+/source/execution/prior_quantum/rows/14,object,,0
+/source/execution/prior_quantum/rows/14/sample,string,chr3-8745472-8745728,0
+/source/execution/prior_quantum/rows/14/representation,string,epsilon,0
+/source/execution/prior_quantum/rows/14/simulation_mean,number,0.26333333333333336,0
+/source/execution/prior_quantum/rows/14/Aquila_mean,number,0.16494845360824742,0
+/source/execution/prior_quantum/rows/14/reference_mean,number,0.2544423008082389,0
+/source/execution/prior_quantum/rows/14/Aquila_change_percentage_points,number,'-1.57533007777175,1
+/source/execution/prior_quantum/rows/15,object,,0
+/source/execution/prior_quantum/rows/15/sample,string,chr3-8745472-8745728,0
+/source/execution/prior_quantum/rows/15/representation,string,shuffled,0
+/source/execution/prior_quantum/rows/15/simulation_mean,number,0.26166666666666666,0
+/source/execution/prior_quantum/rows/15/Aquila_mean,number,0.29032258064516125,0
+/source/execution/prior_quantum/rows/15/reference_mean,number,0.267420073461925,0
+/source/execution/prior_quantum/rows/15/Aquila_change_percentage_points,number,10.962082625919633,0
+/source/execution/prior_quantum/new_Aquila_jobs,number,0,0
+/source/execution/prior_quantum/new_qBraid_jobs,number,0,0
+/source/execution/prior_quantum/meaning,string,Fraction of atoms excited under the programmed pulse; not binding probabilities. All provider measurements here are reused from 25 October 2026.,0
+/source/execution/spend,object,,0
+/source/execution/spend/new_Aquila_USD,number,0,0
+/source/execution/spend/new_qBraid_credits,number,0,0
+/source/execution/prepared_quantum,object,,0
+/source/execution/prepared_quantum/version,string,oxtr-matched-pair-preparation-v1,0
+/source/execution/prepared_quantum/cohort_sha256,string,eed1d7d6d2508165a0172125c16e8351004625e87995b03b86f11ad480bc2cfd,0
+/source/execution/prepared_quantum/compiler_sha256,string,50a7c401263cb7f93acb5f6299f7f1cdde50c3d9cf877b8f8eee98c74152d518,0
+/source/execution/prepared_quantum/template_sha256,string,2e69559c1b034cf206626490a3a278ef1d8e1d9b3a727d0a57aa0c4d977c140e,0
+/source/execution/prepared_quantum/physical_sha256,string,6f4c108202cf5ea103c13d8b80a4e0a269c708ac92d1ea4b652006a67acb7262,0
+/source/execution/prepared_quantum/template_id,string,rydberg-reservoir-global-pulse-v1,0
+/source/execution/prepared_quantum/scope,string,"One reported CTCF peak window and one nearby non-peak window, each prepared eight ways. Local numerical preparation only; two samples cannot establish binding-prediction accuracy.",0
+/source/execution/prepared_quantum/Wolfram,string,Reuses the previously checked Hamiltonian family. No fresh Wolfram service evaluation.,0
+/source/execution/prepared_quantum/qBraid,object,,0
+/source/execution/prepared_quantum/qBraid/submitted,boolean,false,0
+/source/execution/prepared_quantum/qBraid/reason,string,No new paid credit allowance; local CUDA-Q execution used.,0
+/source/execution/prepared_quantum/Aquila,object,,0
+/source/execution/prepared_quantum/Aquila/submitted,boolean,false,0
+/source/execution/prepared_quantum/Aquila/reason,string,Owner disabled new Aquila submissions today.,0
+/source/execution/prepared_quantum/Aquila/requires,string,Fresh device validation and explicit allowance before submission.,0
+/source/execution/prepared_cases,array,,0
+/source/execution/prepared_cases/0,object,,0
+/source/execution/prepared_cases/0/id,string,chr3-8742912-8743168-ordinary,0
+/source/execution/prepared_cases/0/sample,string,chr3-8742912-8743168,0
+/source/execution/prepared_cases/0/reported_CTCF_peak,number,1,0
+/source/execution/prepared_cases/0/representation,string,ordinary,0
+/source/execution/prepared_cases/0/execution,string,cudaq-cpu,0
+/source/execution/prepared_cases/0/max_export_observable_error,number,1.814456321189148e-05,0
+/source/execution/prepared_cases/0/max_implementation_probability_error,number,1.5654144647214707e-14,0
+/source/execution/prepared_cases/0/qasm_sha256,string,4ff419d337c19045fb04d6b8eae39c8ab1be37e085703b7c0fdb21081e8c4098,0
+/source/execution/prepared_cases/0/ahs_sha256,string,ed8ddda57b2a217d1a5190982888a1e3d03618a6882e243a5ffada4c1913f482,0
+/source/execution/prepared_cases/1,object,,0
+/source/execution/prepared_cases/1/id,string,chr3-8742912-8743168-fibonacci,0
+/source/execution/prepared_cases/1/sample,string,chr3-8742912-8743168,0
+/source/execution/prepared_cases/1/reported_CTCF_peak,number,1,0
+/source/execution/prepared_cases/1/representation,string,fibonacci,0
+/source/execution/prepared_cases/1/execution,string,cudaq-cpu,0
+/source/execution/prepared_cases/1/max_export_observable_error,number,3.1857500038149555e-05,0
+/source/execution/prepared_cases/1/max_implementation_probability_error,number,1.3405943022348765e-14,0
+/source/execution/prepared_cases/1/qasm_sha256,string,0b547a952b1a78237917d875e2b22266acff1742c7ac2afa300a1fb96a9ca5bd,0
+/source/execution/prepared_cases/1/ahs_sha256,string,97c2c5ced8bc0813aca994cdb93a638a5b4b42504ad06ba317530fc34e3247f8,0
+/source/execution/prepared_cases/2,object,,0
+/source/execution/prepared_cases/2/id,string,chr3-8742912-8743168-phi,0
+/source/execution/prepared_cases/2/sample,string,chr3-8742912-8743168,0
+/source/execution/prepared_cases/2/reported_CTCF_peak,number,1,0
+/source/execution/prepared_cases/2/representation,string,phi,0
+/source/execution/prepared_cases/2/execution,string,cudaq-cpu,0
+/source/execution/prepared_cases/2/max_export_observable_error,number,3.660459427747369e-05,0
+/source/execution/prepared_cases/2/max_implementation_probability_error,number,1.0769163338864018e-14,0
+/source/execution/prepared_cases/2/qasm_sha256,string,264fdc38306c60319b5b98a623b966a6f506f53d3b3009e7b025dcac6ecb5274,0
+/source/execution/prepared_cases/2/ahs_sha256,string,a9edc973bb12dcb11633ba3521cc755fa986ff8c1869867a01f908b28632032c,0
+/source/execution/prepared_cases/3,object,,0
+/source/execution/prepared_cases/3/id,string,chr3-8742912-8743168-alpha,0
+/source/execution/prepared_cases/3/sample,string,chr3-8742912-8743168,0
+/source/execution/prepared_cases/3/reported_CTCF_peak,number,1,0
+/source/execution/prepared_cases/3/representation,string,alpha,0
+/source/execution/prepared_cases/3/execution,string,cudaq-cpu,0
+/source/execution/prepared_cases/3/max_export_observable_error,number,2.2058689838335517e-05,0
+/source/execution/prepared_cases/3/max_implementation_probability_error,number,1.532107773982716e-14,0
+/source/execution/prepared_cases/3/qasm_sha256,string,bdfa01e0ec1f140eeaa367146b1d29a1f27a499da27a71efd34462c91fbc45c6,0
+/source/execution/prepared_cases/3/ahs_sha256,string,b06b5ddadc23e1c11b7065f7106dbf530e2bb8dc6e5b4add5423e211b692c021,0
+/source/execution/prepared_cases/4,object,,0
+/source/execution/prepared_cases/4/id,string,chr3-8742912-8743168-beta,0
+/source/execution/prepared_cases/4/sample,string,chr3-8742912-8743168,0
+/source/execution/prepared_cases/4/reported_CTCF_peak,number,1,0
+/source/execution/prepared_cases/4/representation,string,beta,0
+/source/execution/prepared_cases/4/execution,string,cudaq-cpu,0
+/source/execution/prepared_cases/4/max_export_observable_error,number,8.092851107374524e-06,0
+/source/execution/prepared_cases/4/max_implementation_probability_error,number,1.659783421814609e-14,0
+/source/execution/prepared_cases/4/qasm_sha256,string,f52611fb90770ad2a942b0e851d5dd865e0c0b13cd78e8353ec7eff0e956592f,0
+/source/execution/prepared_cases/4/ahs_sha256,string,42614be9ce74d16465c687258e4a5a2f36dce77834f84d81782b68acf8949967,0
+/source/execution/prepared_cases/5,object,,0
+/source/execution/prepared_cases/5/id,string,chr3-8742912-8743168-gamma,0
+/source/execution/prepared_cases/5/sample,string,chr3-8742912-8743168,0
+/source/execution/prepared_cases/5/reported_CTCF_peak,number,1,0
+/source/execution/prepared_cases/5/representation,string,gamma,0
+/source/execution/prepared_cases/5/execution,string,cudaq-cpu,0
+/source/execution/prepared_cases/5/max_export_observable_error,number,1.902762714095727e-05,0
+/source/execution/prepared_cases/5/max_implementation_probability_error,number,9.71445146547012e-15,0
+/source/execution/prepared_cases/5/qasm_sha256,string,463c13eba246bb13665d2528e62e5ef289755f008e8a2ef9c281c285b8415317,0
+/source/execution/prepared_cases/5/ahs_sha256,string,ed7e8b10bd8b86922dd91646c365d5edab3d57ad9e04ddf73d8cb33e37e09188,0
+/source/execution/prepared_cases/6,object,,0
+/source/execution/prepared_cases/6/id,string,chr3-8742912-8743168-epsilon,0
+/source/execution/prepared_cases/6/sample,string,chr3-8742912-8743168,0
+/source/execution/prepared_cases/6/reported_CTCF_peak,number,1,0
+/source/execution/prepared_cases/6/representation,string,epsilon,0
+/source/execution/prepared_cases/6/execution,string,cudaq-cpu,0
+/source/execution/prepared_cases/6/max_export_observable_error,number,2.3081191081609284e-05,0
+/source/execution/prepared_cases/6/max_implementation_probability_error,number,1.5432100042289676e-14,0
+/source/execution/prepared_cases/6/qasm_sha256,string,89d4bf02044cb0db30ee5ddc7a7967cb753e7081964fa2dd5eb5eac44596c4b0,0
+/source/execution/prepared_cases/6/ahs_sha256,string,da1b5328a3194cb4b1898582b13b135d0a3cbf2182b9008cf2d434dcee50686d,0
+/source/execution/prepared_cases/7,object,,0
+/source/execution/prepared_cases/7/id,string,chr3-8742912-8743168-shuffled,0
+/source/execution/prepared_cases/7/sample,string,chr3-8742912-8743168,0
+/source/execution/prepared_cases/7/reported_CTCF_peak,number,1,0
+/source/execution/prepared_cases/7/representation,string,shuffled,0
+/source/execution/prepared_cases/7/execution,string,cudaq-cpu,0
+/source/execution/prepared_cases/7/max_export_observable_error,number,1.8491964542254362e-05,0
+/source/execution/prepared_cases/7/max_implementation_probability_error,number,1.5709655798445965e-14,0
+/source/execution/prepared_cases/7/qasm_sha256,string,f1fdfa4e0b6bc06eb7f858c4872eed3a54542a02ef629d967fdc73779e227af3,0
+/source/execution/prepared_cases/7/ahs_sha256,string,6019d4a6071100816524e49e724905d50ce584a0918699df73e30c308c99eb27,0
+/source/execution/prepared_cases/8,object,,0
+/source/execution/prepared_cases/8/id,string,chr3-8743680-8743936-ordinary,0
+/source/execution/prepared_cases/8/sample,string,chr3-8743680-8743936,0
+/source/execution/prepared_cases/8/reported_CTCF_peak,number,0,0
+/source/execution/prepared_cases/8/representation,string,ordinary,0
+/source/execution/prepared_cases/8/execution,string,cudaq-cpu,0
+/source/execution/prepared_cases/8/max_export_observable_error,number,5.008700107364265e-05,0
+/source/execution/prepared_cases/8/max_implementation_probability_error,number,5.689893001203927e-15,0
+/source/execution/prepared_cases/8/qasm_sha256,string,cda9338af73a8d9154f35f3bfd1a33cbe2d80ff1ce2e8f77794d90166ef9d50b,0
+/source/execution/prepared_cases/8/ahs_sha256,string,39f7fa3b9d61ea5baa276ef5fb2b727eb89b55e8e454dabad51390fdc09a8321,0
+/source/execution/prepared_cases/9,object,,0
+/source/execution/prepared_cases/9/id,string,chr3-8743680-8743936-fibonacci,0
+/source/execution/prepared_cases/9/sample,string,chr3-8743680-8743936,0
+/source/execution/prepared_cases/9/reported_CTCF_peak,number,0,0
+/source/execution/prepared_cases/9/representation,string,fibonacci,0
+/source/execution/prepared_cases/9/execution,string,cudaq-cpu,0
+/source/execution/prepared_cases/9/max_export_observable_error,number,7.747152541576147e-05,0
+/source/execution/prepared_cases/9/max_implementation_probability_error,number,8.104628079763643e-15,0
+/source/execution/prepared_cases/9/qasm_sha256,string,1b67e1cd2c47c7137fb1552ceaf79619806bf24c7037b9e0afc553e6091ad050,0
+/source/execution/prepared_cases/9/ahs_sha256,string,58edd9e79cd9c29cc73bd10a64dc88b32ebe5fed779c625ef8268bb6c3a89b82,0
+/source/execution/prepared_cases/10,object,,0
+/source/execution/prepared_cases/10/id,string,chr3-8743680-8743936-phi,0
+/source/execution/prepared_cases/10/sample,string,chr3-8743680-8743936,0
+/source/execution/prepared_cases/10/reported_CTCF_peak,number,0,0
+/source/execution/prepared_cases/10/representation,string,phi,0
+/source/execution/prepared_cases/10/execution,string,cudaq-cpu,0
+/source/execution/prepared_cases/10/max_export_observable_error,number,7.747152541576147e-05,0
+/source/execution/prepared_cases/10/max_implementation_probability_error,number,8.104628079763643e-15,0
+/source/execution/prepared_cases/10/qasm_sha256,string,1b67e1cd2c47c7137fb1552ceaf79619806bf24c7037b9e0afc553e6091ad050,0
+/source/execution/prepared_cases/10/ahs_sha256,string,58edd9e79cd9c29cc73bd10a64dc88b32ebe5fed779c625ef8268bb6c3a89b82,0
+/source/execution/prepared_cases/11,object,,0
+/source/execution/prepared_cases/11/id,string,chr3-8743680-8743936-alpha,0
+/source/execution/prepared_cases/11/sample,string,chr3-8743680-8743936,0
+/source/execution/prepared_cases/11/reported_CTCF_peak,number,0,0
+/source/execution/prepared_cases/11/representation,string,alpha,0
+/source/execution/prepared_cases/11/execution,string,cudaq-cpu,0
+/source/execution/prepared_cases/11/max_export_observable_error,number,7.548924967765616e-05,0
+/source/execution/prepared_cases/11/max_implementation_probability_error,number,4.218847493575595e-15,0
+/source/execution/prepared_cases/11/qasm_sha256,string,eb8d438080cfa52c80ccad3948e8cc40654483a3de1d2d2349e18c4668b04caf,0
+/source/execution/prepared_cases/11/ahs_sha256,string,a9342abedec29fc90c08f5d4830010af29deeea82959dba06d2bba2af596590e,0
+/source/execution/prepared_cases/12,object,,0
+/source/execution/prepared_cases/12/id,string,chr3-8743680-8743936-beta,0
+/source/execution/prepared_cases/12/sample,string,chr3-8743680-8743936,0
+/source/execution/prepared_cases/12/reported_CTCF_peak,number,0,0
+/source/execution/prepared_cases/12/representation,string,beta,0
+/source/execution/prepared_cases/12/execution,string,cudaq-cpu,0
+/source/execution/prepared_cases/12/max_export_observable_error,number,4.215526694377372e-05,0
+/source/execution/prepared_cases/12/max_implementation_probability_error,number,5.4817261840867104e-15,0
+/source/execution/prepared_cases/12/qasm_sha256,string,e16c30532dde531765dc89d413a1b1e29397279dae04d22f948dcc485c0079db,0
+/source/execution/prepared_cases/12/ahs_sha256,string,06081fc9c62a12a28937d36e85721b07b578d88280029a57170b8031b1921702,0
+/source/execution/prepared_cases/13,object,,0
+/source/execution/prepared_cases/13/id,string,chr3-8743680-8743936-gamma,0
+/source/execution/prepared_cases/13/sample,string,chr3-8743680-8743936,0
+/source/execution/prepared_cases/13/reported_CTCF_peak,number,0,0
+/source/execution/prepared_cases/13/representation,string,gamma,0
+/source/execution/prepared_cases/13/execution,string,cudaq-cpu,0
+/source/execution/prepared_cases/13/max_export_observable_error,number,5.508268328546131e-05,0
+/source/execution/prepared_cases/13/max_implementation_probability_error,number,7.53563877964325e-15,0
+/source/execution/prepared_cases/13/qasm_sha256,string,220a4fd7acb979a741a853248029a6c16a7bddfa5a136caf42e29ee58f55886b,0
+/source/execution/prepared_cases/13/ahs_sha256,string,de705ceebbefbc19cafb989e6af72fa1a7c86a569ccf4234a583cc2c24f5aa99,0
+/source/execution/prepared_cases/14,object,,0
+/source/execution/prepared_cases/14/id,string,chr3-8743680-8743936-epsilon,0
+/source/execution/prepared_cases/14/sample,string,chr3-8743680-8743936,0
+/source/execution/prepared_cases/14/reported_CTCF_peak,number,0,0
+/source/execution/prepared_cases/14/representation,string,epsilon,0
+/source/execution/prepared_cases/14/execution,string,cudaq-cpu,0
+/source/execution/prepared_cases/14/max_export_observable_error,number,5.108014598984222e-05,0
+/source/execution/prepared_cases/14/max_implementation_probability_error,number,4.5102810375396984e-15,0
+/source/execution/prepared_cases/14/qasm_sha256,string,43243a8027e3d0f2d9b6cb60613cb701c08f71d44645bdbabce370ed263fac52,0
+/source/execution/prepared_cases/14/ahs_sha256,string,a0c6b0076b164a07fe1bb46d0ae9246ee8c5f56028e482e783172ff0fcd2340a,0
+/source/execution/prepared_cases/15,object,,0
+/source/execution/prepared_cases/15/id,string,chr3-8743680-8743936-shuffled,0
+/source/execution/prepared_cases/15/sample,string,chr3-8743680-8743936,0
+/source/execution/prepared_cases/15/reported_CTCF_peak,number,0,0
+/source/execution/prepared_cases/15/representation,string,shuffled,0
+/source/execution/prepared_cases/15/execution,string,cudaq-cpu,0
+/source/execution/prepared_cases/15/max_export_observable_error,number,4.662522965649624e-05,0
+/source/execution/prepared_cases/15/max_implementation_probability_error,number,4.6074255521944e-15,0
+/source/execution/prepared_cases/15/qasm_sha256,string,bed8c2c0602bb412bf497ea5a1030812098a53477c6a1e53d928ef89ff78c9eb,0
+/source/execution/prepared_cases/15/ahs_sha256,string,95188123eb3bcbb91993e409dce8f74ff3818fb7d01a31216aa6eb9f4cfddece,0
+/source/report,object,,0
+/source/report/answer,string,"Not yet: this pilot does not establish that Fibonacci sequences or Phi Ratio improve binding prediction around OXTR. M9 P24 Alpha, Beta, Gamma and Epsilon were not evaluated for biological prediction in the new classical test. The laboratory evidence covers CTCF, one DNA-binding protein, in one stem-cell context—not transcription factors generally.",0
+/source/report/what_we_did,string,"The agent completed a classical comparison of familiar DNA binding patterns and their spacing, with and without Fibonacci/Phi Ratio features. It learned on chromosome 1, chose the method on chromosome 2 and tested 152 OXTR windows on chromosome 3: it did not see OXTR laboratory answers while learning. The agent also prepared a new matched pair of DNA windows, one overlapping a reported CTCF peak and one comparison window, compiled all eight representations for each and completed 16 local CUDA-Q CPU checks. These are the same DNA prepared as ordinary, Fibonacci, Phi Ratio, Alpha, Beta, Gamma, Epsilon and shuffled controls.",0
+/source/report/meaning,string,"Average precision, a ranking score rather than percent accuracy, changed from 0.0719 to 0.0739. The estimated uncertainty range for that change was −0.0263 to +0.0082, spanning both harm and benefit. This noisy change leaves benefit unresolved. The small pilot covers five OXTR peak regions and has laboratory quality warnings. Saved CUDA-Q/Aquila readings measure programmed quantum responses, not binding probabilities; the saved Aquila samples miss those peak regions and cannot validate binding prediction. The new pair checks programs, not predictive performance.",0
+/source/report/next_dependency,string,"A larger quantum prediction test still needs more matched quantum measurements linked to laboratory binding evidence. New Aquila submissions are disabled today; fresh device validation and explicit allowance are required before submission, and no new paid GPU allowance exists. No new quantum jobs were submitted. A larger independent biological prediction test is still needed. This is an automated preliminary report, with Gemini oversight deferred, as recorded in research memory oxtr-agent-follow-through-pilot, revision r1. The useful result today is a completed but inconclusive pilot, not evidence of biological or mental health benefit.",0
+/source/report_context,object,,0
+/source/report_context/completed_at,string,2026-10-25T21:03:06.579309+00:00,0
+/source/report_context/review_at_original_completion,object,,0
+/source/report_context/review_at_original_completion/status,string,automated_preliminary,0
+/source/report_context/review_at_original_completion/Gemini,string,deferred_by_owner,0
+/source/report_context/current_review,string,Retrospective review; preserve the original historical report status. New review is recorded separately.,0
+/source/report_context/sampling_definition,string,Eight labelled 256-base windows overlap five reported peak regions. Peak regions and DNA windows are different counting units.,0
+/review,object,,0
+/review/decision,string,approve,0
+/review/summary,string,"Astra's final report and execution receipts accurately reflect an inconclusive classical pilot and local quantum program preparation without overstating biological or clinical significance. Fibonacci, Phi Ratio, and M9 P24 Alpha, Beta, Gamma, and Epsilon are explicitly tracked, controls and uncertainty intervals are properly reported, and budget and hardware boundaries were respected.",0
+/review/checks,array,,0
+/review/checks/0,object,,0
+/review/checks/0/claim,string,Classical Fibonacci and Phi Ratio features do not demonstrably improve CTCF binding prediction around OXTR in this pilot.,0
+/review/checks/0/finding,string,"Average precision on the 152 held-out OXTR windows changed from 0.071914 (ordinary motif and spacing) to 0.073902 (with Fibonacci and Phi Ratio), a difference of +0.001988 with a 95% block-bootstrap interval of [-0.026260, +0.008182] spanning zero.",0
+/review/checks/0/evidence,array,,0
+/review/checks/0/evidence/0,string,execution.analysis.models,0
+/review/checks/0/evidence/1,string,execution.analysis.difference_average_precision,0
+/review/checks/0/evidence/2,string,execution.analysis.block_bootstrap_95_interval,0
+/review/checks/0/evidence/3,string,report.meaning,0
+/review/checks/0/status,string,pass,0
+/review/checks/1,object,,0
+/review/checks/1/claim,string,Partitioning and model selection avoided test leakage into the OXTR evaluation.,0
+/review/checks/1/finding,string,"Models were trained on chr1 (64 windows), selected on chr2 (64 windows), and evaluated once on chr3 OXTR (152 windows, 8 positive peak windows across 5 peak regions) with selection frozen before scoring.",0
+/review/checks/1/evidence,array,,0
+/review/checks/1/evidence/0,string,execution.cohort.model_selection,0
+/review/checks/1/evidence/1,string,execution.cohort.selection_frozen_before_scores,0
+/review/checks/1/evidence/2,string,execution.analysis.counts,0
+/review/checks/1/evidence/3,string,report_context.sampling_definition,0
+/review/checks/1/status,string,pass,0
+/review/checks/2,object,,0
+/review/checks/2/claim,string,"M9 P24 Alpha, Beta, Gamma, and Epsilon biological binding prediction and coherence lifetime effects.",0
+/review/checks/2/finding,string,"Not tested for biological prediction. Saved Aquila runs for two windows do not overlap the five CTCF peak regions, and the 16 new matched-pair runs (ordinary, Fibonacci, Phi Ratio, Alpha, Beta, Gamma, Epsilon, and shuffled) are local CUDA-Q CPU program checks on two windows, which cannot establish predictive accuracy or biological causation.",0
+/review/checks/2/evidence,array,,0
+/review/checks/2/evidence/0,string,execution.analysis.quantum_prediction_status,0
+/review/checks/2/evidence/1,string,execution.prior_quantum.meaning,0
+/review/checks/2/evidence/2,string,execution.prepared_quantum.scope,0
+/review/checks/2/evidence/3,string,execution.prepared_cases,0
+/review/checks/2/status,string,not_tested,0
+/review/checks/3,object,,0
+/review/checks/3/claim,string,"Authority, budget, and provenance constraints were maintained.",0
+/review/checks/3/finding,string,"Zero new Aquila or paid qBraid jobs were submitted; all source hashes, ENCODE quality warnings, and local CUDA-Q execution receipts are properly logged. Notice: in the non-peak window chr3-8743680-8743936, the Fibonacci and Phi Ratio compiled artifacts share identical QASM and AHS SHA-256 hashes because zero motif gaps were present to differentiate the two schedules.",0
+/review/checks/3/evidence,array,,0
+/review/checks/3/evidence/0,string,execution.spend,0
+/review/checks/3/evidence/1,string,execution.prior_quantum.new_Aquila_jobs,0
+/review/checks/3/evidence/2,string,execution.prepared_quantum.Aquila,0
+/review/checks/3/evidence/3,string,execution.prepared_quantum.qBraid,0
+/review/checks/3/evidence/4,string,execution.prepared_cases,0
+/review/checks/3/status,string,pass,0
+/review/required_changes,array,,0
+/review/provider,string,google,0
+/review/model,string,gemini-4-argon,0
+/review/provider_response_id,string,VZjearKnHJTmosUPppeEiAI,0
+/review/evidence_sha256,string,09fae995404c64811b2c4fb2559fc8384c95cce937d8ef14005a33e208aa7f47,0
+/review/usage,object,,0
+/review/usage/promptTokenCount,number,11962,0
+/review/usage/candidatesTokenCount,number,827,0
+/review/usage/totalTokenCount,number,12789,0
+/review/usage/promptTokensDetails,array,,0
+/review/usage/promptTokensDetails/0,object,,0
+/review/usage/promptTokensDetails/0/modality,string,TEXT,0
+/review/usage/promptTokensDetails/0/tokenCount,number,11962,0
+/review/usage/candidatesTokensDetails,array,,0
+/review/usage/candidatesTokensDetails/0,object,,0
+/review/usage/candidatesTokensDetails/0/modality,string,TEXT,0
+/review/usage/candidatesTokensDetails/0/tokenCount,number,827,0
+/review/reserved_micro_usd,number,188480,0
+/review/reviewed_at,string,2026-10-26T00:01:38.246883+00:00,0
+/review/duration_seconds,number,13.426,0
+/meaning,string,A later cross-model review of saved public work. It is not a new scientific experiment or an independent laboratory confirmation.,0

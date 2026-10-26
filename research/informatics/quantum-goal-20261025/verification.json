@@ -1,0 +1,64 @@
+{
+  "passed": true,
+  "at": "2026-10-25T02:59:06.331Z",
+  "audio_muted": true,
+  "goal_and_actual_verdict_before_charts": true,
+  "future_rules_not_retroactive": true,
+  "next_test_with_traceable_binding_data": true,
+  "all_8_variants_both_windows": true,
+  "closable_readers_preserve_question_scroll_and_focus": true,
+  "wet_lab_and_public_data_steps_distinguished": true,
+  "real_openai_response": true,
+  "no_new_gpu_or_qpu_jobs": true,
+  "layouts": [
+    {
+      "viewport": 390,
+      "kind": "next",
+      "width": 368,
+      "scroll": 368
+    },
+    {
+      "viewport": 390,
+      "kind": "simulation",
+      "width": 368,
+      "scroll": 368
+    },
+    {
+      "viewport": 390,
+      "kind": "quantum",
+      "width": 368,
+      "scroll": 368
+    },
+    {
+      "viewport": 390,
+      "kind": "comparison",
+      "width": 368,
+      "scroll": 368
+    },
+    {
+      "viewport": 320,
+      "kind": "next",
+      "width": 298,
+      "scroll": 298
+    },
+    {
+      "viewport": 320,
+      "kind": "simulation",
+      "width": 298,
+      "scroll": 298
+    },
+    {
+      "viewport": 320,
+      "kind": "quantum",
+      "width": 298,
+      "scroll": 298
+    },
+    {
+      "viewport": 320,
+      "kind": "comparison",
+      "width": 298,
+      "scroll": 298
+    }
+  ],
+  "errors": []
+}

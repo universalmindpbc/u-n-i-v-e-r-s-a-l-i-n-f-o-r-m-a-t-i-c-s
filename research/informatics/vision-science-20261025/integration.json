@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "parallel_release": "e0452ddaceb62127b0fc830ed5a523ff15dc278a",
+  "source_commit": "637f194b4010e8543f4e80f64af0b3d61faf8602",
+  "quantum_assets_unchanged": true,
+  "inherited_manifest_unchanged": true,
+  "index_change": "One stylesheet and script include; remainder identical to parallel release",
+  "notion_last_edited_at": "2026-10-25T02:26:54.305Z"
+}

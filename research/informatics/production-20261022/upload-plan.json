@@ -1,0 +1,417 @@
+[
+  {
+    "file": "Informatics/app.js",
+    "remote": "informatics/app.js",
+    "sha256": "a6d6b6eb21e4e71f295431a4be1c924edc31b16f42957ca0d15b364e7905d4c9"
+  },
+  {
+    "file": "Informatics/global-navigation.js",
+    "remote": "informatics/global-navigation.js",
+    "sha256": "c0dab2f17753f7284ab5049f779c7247c8e02f154b884ef629d4bf52c0379a98"
+  },
+  {
+    "file": "Informatics/index.html",
+    "remote": "informatics/index.html",
+    "sha256": "fd90901602bfdec980d5cf0f78c374e0346bbd3f18904f9c299ac3f1f3f4ff81"
+  },
+  {
+    "file": "Informatics/library-data/archive-records.json",
+    "remote": "informatics/library-data/archive-records.json",
+    "sha256": "a6c81a17ba16d3f02b3688ed19e9b4fdb71d305770f121ed9b7af00cc7460ace"
+  },
+  {
+    "file": "Informatics/library-data/figures/2d1e97a69066.jpg",
+    "remote": "informatics/library-data/figures/2d1e97a69066.jpg",
+    "sha256": "2d1e97a690668da58e82b93a9061c40db076bcabc7a2f3f418549102e2046268"
+  },
+  {
+    "file": "Informatics/library-data/figures/2e23485c20ee.jpg",
+    "remote": "informatics/library-data/figures/2e23485c20ee.jpg",
+    "sha256": "2e23485c20ee21fdaad48f1be24271e942bb563202f404c05328e38da110ae93"
+  },
+  {
+    "file": "Informatics/library-data/figures/36cc491c43ce.jpg",
+    "remote": "informatics/library-data/figures/36cc491c43ce.jpg",
+    "sha256": "36cc491c43ce7741034c7a664ab13e7066ffb1f01db632c8fb63444ff3ebbaf0"
+  },
+  {
+    "file": "Informatics/library-data/figures/46f7634e8459.jpg",
+    "remote": "informatics/library-data/figures/46f7634e8459.jpg",
+    "sha256": "46f7634e84594b3ae127e048edb6e67276dd346c1b8a2802803d48c9c7ccf0c2"
+  },
+  {
+    "file": "Informatics/library-data/figures/47ffc4c3abbf.jpg",
+    "remote": "informatics/library-data/figures/47ffc4c3abbf.jpg",
+    "sha256": "47ffc4c3abbf42736c511d7997641c8cfbe950ec65b2ec45b2145fc4b551617b"
+  },
+  {
+    "file": "Informatics/library-data/figures/51aace12beda.jpg",
+    "remote": "informatics/library-data/figures/51aace12beda.jpg",
+    "sha256": "51aace12bedaf0f2c31ea37ec833248b31a395d7398bfa5ea99ada6948501467"
+  },
+  {
+    "file": "Informatics/library-data/figures/66691cb200fe.png",
+    "remote": "informatics/library-data/figures/66691cb200fe.png",
+    "sha256": "66691cb200fe73689ba88c9b9835bf15a2528dac15460967dd4a6c243c5ec640"
+  },
+  {
+    "file": "Informatics/library-data/figures/7854eca9c827.png",
+    "remote": "informatics/library-data/figures/7854eca9c827.png",
+    "sha256": "7854eca9c827126096603ae0795928d5a52e5162f7bf56d21025b0ed1a8c2996"
+  },
+  {
+    "file": "Informatics/library-data/figures/94076ff1f6d0.jpg",
+    "remote": "informatics/library-data/figures/94076ff1f6d0.jpg",
+    "sha256": "94076ff1f6d05b37e8fd96db1bd05240736af4bc501292342df3b72d336af0d4"
+  },
+  {
+    "file": "Informatics/library-data/figures/986d2fc1169d.jpg",
+    "remote": "informatics/library-data/figures/986d2fc1169d.jpg",
+    "sha256": "986d2fc1169dca760c40395fc075a076964c1d6d74f4a54ede1de6491d2a3aa1"
+  },
+  {
+    "file": "Informatics/library-data/figures/9dbd228d8d75.jpg",
+    "remote": "informatics/library-data/figures/9dbd228d8d75.jpg",
+    "sha256": "9dbd228d8d751906c4933d6dd623af2d13c3a9af26db381a40661d352b907ac4"
+  },
+  {
+    "file": "Informatics/library-data/figures/a1e01b1dc2f0.jpg",
+    "remote": "informatics/library-data/figures/a1e01b1dc2f0.jpg",
+    "sha256": "a1e01b1dc2f0964add29156d10b14c3a2445faf6171f13509ae141be9fac7a1d"
+  },
+  {
+    "file": "Informatics/library-data/figures/a3e7168642e3.jpg",
+    "remote": "informatics/library-data/figures/a3e7168642e3.jpg",
+    "sha256": "a3e7168642e30bff8ecb5d14962bc5014c690c9dc46fdebf75c4ef2aa687c9ea"
+  },
+  {
+    "file": "Informatics/library-data/figures/a5c985eed9b6.png",
+    "remote": "informatics/library-data/figures/a5c985eed9b6.png",
+    "sha256": "a5c985eed9b6eef9d9591f0d209377ed9f79d6abc1093adf1af01b931ce9b84a"
+  },
+  {
+    "file": "Informatics/library-data/figures/abb4e82f5fa6.jpg",
+    "remote": "informatics/library-data/figures/abb4e82f5fa6.jpg",
+    "sha256": "abb4e82f5fa6468d29c212f9560589b2f9d88f86fc7c27f5c57277e06225c8ec"
+  },
+  {
+    "file": "Informatics/library-data/figures/b7e458d34b3b.jpg",
+    "remote": "informatics/library-data/figures/b7e458d34b3b.jpg",
+    "sha256": "b7e458d34b3b80c7823d80484edb5784b0da881443c227360bf3ed155bbe2240"
+  },
+  {
+    "file": "Informatics/library-data/figures/bc7cc70c465e.jpg",
+    "remote": "informatics/library-data/figures/bc7cc70c465e.jpg",
+    "sha256": "bc7cc70c465ebe1a557bebe26b0e6f013df11a51f4ac918d2f9563fb9268d7c9"
+  },
+  {
+    "file": "Informatics/library-data/figures/c1bea99e1d89.jpg",
+    "remote": "informatics/library-data/figures/c1bea99e1d89.jpg",
+    "sha256": "c1bea99e1d89233a5dc1de0581adec194eae0184f0b75cddd70c44ac4bfc4d3e"
+  },
+  {
+    "file": "Informatics/library-data/figures/cdec699932b9.jpg",
+    "remote": "informatics/library-data/figures/cdec699932b9.jpg",
+    "sha256": "cdec699932b93270f7fc1f84007b7cdcae5f47e5c06ac6d9a518e54195467b72"
+  },
+  {
+    "file": "Informatics/library-data/figures/cf5c37e03ed4.jpg",
+    "remote": "informatics/library-data/figures/cf5c37e03ed4.jpg",
+    "sha256": "cf5c37e03ed406fa8d6cf247b77191411823ef104641ab1d4078a8cd0a106ed1"
+  },
+  {
+    "file": "Informatics/library-data/figures/d04185bab997.jpg",
+    "remote": "informatics/library-data/figures/d04185bab997.jpg",
+    "sha256": "d04185bab997209ba0d57f3a3477a99a0e88eea2518582dd0f8d6f93094adc2a"
+  },
+  {
+    "file": "Informatics/library-data/figures/d279ce2c826d.jpg",
+    "remote": "informatics/library-data/figures/d279ce2c826d.jpg",
+    "sha256": "d279ce2c826decd250fc5aff080e5d798d70cdfda8fc8a3ea2933d95d628c275"
+  },
+  {
+    "file": "Informatics/library-data/figures/ee107fa4e066.png",
+    "remote": "informatics/library-data/figures/ee107fa4e066.png",
+    "sha256": "ee107fa4e06670685a71b2b4c74704d4ecd4fd29a09cf6216d736016c991bd8e"
+  },
+  {
+    "file": "Informatics/library-data/figures/f2aa73aa96f1.jpg",
+    "remote": "informatics/library-data/figures/f2aa73aa96f1.jpg",
+    "sha256": "f2aa73aa96f1d3c559b354e4043cb43cd25f05986554dd6802d0db84ac231f8d"
+  },
+  {
+    "file": "Informatics/library-data/figures/fb9a8d9373aa.png",
+    "remote": "informatics/library-data/figures/fb9a8d9373aa.png",
+    "sha256": "fb9a8d9373aa1d2aa6776072aac78d4a1ab6ed58a2396847947f17d6e1719778"
+  },
+  {
+    "file": "Informatics/library-data/language-source.json",
+    "remote": "informatics/library-data/language-source.json",
+    "sha256": "39bdf14824ed7f41ffba818494d3cdee89aac17145fb394a2465d18b4cc37021"
+  },
+  {
+    "file": "Informatics/library-data/library.json",
+    "remote": "informatics/library-data/library.json",
+    "sha256": "07455efb6272395f4861410c5a6ff4e3278bd0b213afb0efeee25faf32a086a1"
+  },
+  {
+    "file": "Informatics/library-data/publication-access.json",
+    "remote": "informatics/library-data/publication-access.json",
+    "sha256": "eda1a19b123e782dba358a0f0078205d54d9c54d5386b687207aa8d0aacc318b"
+  },
+  {
+    "file": "Informatics/library-data/search-log.json",
+    "remote": "informatics/library-data/search-log.json",
+    "sha256": "a17a6d5becabd009f4dae37addc335667a2273172306792407646c36fae734ec"
+  },
+  {
+    "file": "Informatics/library-data/sound-edition.json",
+    "remote": "informatics/library-data/sound-edition.json",
+    "sha256": "72b21f12aa82d6f2e0fd4033dc3b047322db8fd9945994e3d1225093966592bc"
+  },
+  {
+    "file": "Informatics/library-data/sound-source.json",
+    "remote": "informatics/library-data/sound-source.json",
+    "sha256": "e7adb2ee44d4758656ca3c74d0a150bf3b81e75d159874cc7257aa096cdd75fe"
+  },
+  {
+    "file": "Informatics/library-data/vision-source.json",
+    "remote": "informatics/library-data/vision-source.json",
+    "sha256": "4e587a23ac97ae7b76307dfaf117c9ab026b7d022e2d7f158d4b4f710c3308cd"
+  },
+  {
+    "file": "Informatics/library-launcher.css",
+    "remote": "informatics/library-launcher.css",
+    "sha256": "2d230e7215cc10c868765d9050a5173d405d9ba343300116e512339bc682bdf9"
+  },
+  {
+    "file": "Informatics/library-launcher.js",
+    "remote": "informatics/library-launcher.js",
+    "sha256": "20b772600cf8db23b5450ac74ba18482856315ed1aae8bb4382e8f5e1e518735"
+  },
+  {
+    "file": "Informatics/library-model.js",
+    "remote": "informatics/library-model.js",
+    "sha256": "82137ad87566cef86fdf1991fe09fc6bbb0adbc3fd57553ad3d7fac8e5ac3984"
+  },
+  {
+    "file": "Informatics/library-navigation.js",
+    "remote": "informatics/library-navigation.js",
+    "sha256": "8901b3e870e48664b1a7db9e667c9ca387ed1afc2d5c41591893e0d7a4abf10e"
+  },
+  {
+    "file": "Informatics/library-theme.js",
+    "remote": "informatics/library-theme.js",
+    "sha256": "29419131491b488d2837d3de05117356e46caa0bd404be31657a32b5c91fd187"
+  },
+  {
+    "file": "Informatics/library.css",
+    "remote": "informatics/library.css",
+    "sha256": "9b54f26452bfb6a40cb072db8936a6d929c45663632cadba88429ea4da18ea6f"
+  },
+  {
+    "file": "Informatics/library.html",
+    "remote": "informatics/library.html",
+    "sha256": "a6fbbcca6bffe9c6000ff2242b1e6625d056c7570624554bc28a7bc0f03cb56d"
+  },
+  {
+    "file": "Informatics/library.js",
+    "remote": "informatics/library.js",
+    "sha256": "4582ac62d80a296b73f2d2157078b9d590262a3efc80717a8b778c2acb0d7181"
+  },
+  {
+    "file": "Informatics/molecular-entry.css",
+    "remote": "informatics/molecular-entry.css",
+    "sha256": "34e92170839e6613cd71325b857b5b3762fb6334f20bc9fae97a9d4fd2e18bd7"
+  },
+  {
+    "file": "Informatics/molecular-entry.js",
+    "remote": "informatics/molecular-entry.js",
+    "sha256": "8fdbb216f071349bfe7ca580076e0053de147bb0122014d9741d4486fe519ab2"
+  },
+  {
+    "file": "Informatics/molecular/atlas.css",
+    "remote": "informatics/molecular/atlas.css",
+    "sha256": "8f32f56bbb7207efe838cacfd7e414e7a34d7c7c5c49746426578ad6f6d95713"
+  },
+  {
+    "file": "Informatics/molecular/atlas.js",
+    "remote": "informatics/molecular/atlas.js",
+    "sha256": "b370b34dd14917336a39d0a6191099ffde41dc1b3f6b58ace1bc09b7be8e4c9d"
+  },
+  {
+    "file": "Informatics/molecular/data/1alu.bcif",
+    "remote": "informatics/molecular/data/1alu.bcif",
+    "sha256": "2b3f9bf4c873316e8d6300941dd0f741cda37b9104f6e4e7acb47255e824c03e"
+  },
+  {
+    "file": "Informatics/molecular/data/1m2z.bcif",
+    "remote": "informatics/molecular/data/1m2z.bcif",
+    "sha256": "b85290f126ed2220beb5907b59d9311239a8a9e79d4ad28ff6da7328b445bd10"
+  },
+  {
+    "file": "Informatics/molecular/data/1yh3.bcif",
+    "remote": "informatics/molecular/data/1yh3.bcif",
+    "sha256": "067d78c80288a67a7437ccdb7422e67e0a8fbc11288993c09079198b21633632"
+  },
+  {
+    "file": "Informatics/molecular/data/5i6x.bcif",
+    "remote": "informatics/molecular/data/5i6x.bcif",
+    "sha256": "29b8d278efa9ed9a9c5a64ea72718e84a6563dda26a7b978d71c7520cadecf61"
+  },
+  {
+    "file": "Informatics/molecular/data/6cm4.bcif",
+    "remote": "informatics/molecular/data/6cm4.bcif",
+    "sha256": "4ef8156b7a0ce71b4c012b8979b6f1ec051173456c4322c329a338393e534daa"
+  },
+  {
+    "file": "Informatics/molecular/data/6tgb.bcif",
+    "remote": "informatics/molecular/data/6tgb.bcif",
+    "sha256": "6a42f297e03f533faa40bc6f5bbec85024395b3391c37634e38067deaec0d367"
+  },
+  {
+    "file": "Informatics/molecular/data/7qvm.bcif",
+    "remote": "informatics/molecular/data/7qvm.bcif",
+    "sha256": "9df96fcec74a5008a318b50311b95a9faa814126517460c9732414c3190f4242"
+  },
+  {
+    "file": "Informatics/molecular/data/9iyq.bcif",
+    "remote": "informatics/molecular/data/9iyq.bcif",
+    "sha256": "ed7a363d615476ca41fb7158e55de9e59775fd9488bcce42eaf3be87485f59ca"
+  },
+  {
+    "file": "Informatics/molecular/data/catalogue.json",
+    "remote": "informatics/molecular/data/catalogue.json",
+    "sha256": "52fe47c82c28997bd15ba7ed59e8643125546fa38242d80f6c7d7c8da597c04c"
+  },
+  {
+    "file": "Informatics/molecular/data/genes/cd38.json",
+    "remote": "informatics/molecular/data/genes/cd38.json",
+    "sha256": "6db6c07fec44ac703e426802d97db12c8c99f2932e9c2b84fba183995c2e8a2a"
+  },
+  {
+    "file": "Informatics/molecular/data/genes/dock2.json",
+    "remote": "informatics/molecular/data/genes/dock2.json",
+    "sha256": "261cc9ab7811b0ee4b630ab200aa4000da7cace13e31bfd8bc7c291c443d764f"
+  },
+  {
+    "file": "Informatics/molecular/data/genes/drd2.json",
+    "remote": "informatics/molecular/data/genes/drd2.json",
+    "sha256": "75b10e87f4467a9e7c703abde0268ec847eec5e11d625f3fca770bada3bb32d4"
+  },
+  {
+    "file": "Informatics/molecular/data/genes/grin1.json",
+    "remote": "informatics/molecular/data/genes/grin1.json",
+    "sha256": "2f9ee2c23a1ca2930c3f3725f9bb603cd6f722f7018d07a3bcca698090d52d38"
+  },
+  {
+    "file": "Informatics/molecular/data/genes/grin2b.json",
+    "remote": "informatics/molecular/data/genes/grin2b.json",
+    "sha256": "475bc33a1b07da010830c1db0b64a84ecd6462434c3cff389f8789764c23b455"
+  },
+  {
+    "file": "Informatics/molecular/data/genes/il6.json",
+    "remote": "informatics/molecular/data/genes/il6.json",
+    "sha256": "029a31d979aa4592133889096f944c79273f920b971cc065f9dec5999fab4e3b"
+  },
+  {
+    "file": "Informatics/molecular/data/genes/index.json",
+    "remote": "informatics/molecular/data/genes/index.json",
+    "sha256": "0a21b971ddbc818da981abafe662df47466ce0836740c0807657fa184dbb76b2"
+  },
+  {
+    "file": "Informatics/molecular/data/genes/nr3c1.json",
+    "remote": "informatics/molecular/data/genes/nr3c1.json",
+    "sha256": "4b650457c6bc0ce31addfe697e6df798b1ac85310970c65a9d57660bf0ac9654"
+  },
+  {
+    "file": "Informatics/molecular/data/genes/oxtr.json",
+    "remote": "informatics/molecular/data/genes/oxtr.json",
+    "sha256": "ed254465508ce7d2a5e43b112d9f6738701d92f8fde2fbcc8bce98afc50a114b"
+  },
+  {
+    "file": "Informatics/molecular/data/genes/slc6a4.json",
+    "remote": "informatics/molecular/data/genes/slc6a4.json",
+    "sha256": "d8d4f5f6d00e833cffb6f496e0e00b21343d3f9ec22ab7151e5faefcd55f9347"
+  },
+  {
+    "file": "Informatics/molecular/gene-thumb.svg",
+    "remote": "informatics/molecular/gene-thumb.svg",
+    "sha256": "ea282ef2fb13c044ea097cfd3bf7dc03866305b5c6faf30c2835f5295edbbe8c"
+  },
+  {
+    "file": "Informatics/molecular/index.html",
+    "remote": "informatics/molecular/index.html",
+    "sha256": "03f3fd0cf46f43091be5ec1e9add9dd32682fad1a6da47c525761607032d49ca"
+  },
+  {
+    "file": "Informatics/molecular/thumbnails/cd38.png",
+    "remote": "informatics/molecular/thumbnails/cd38.png",
+    "sha256": "773cff65b575e4c034c1ee40bee59bd7025187367fb1220a56d5599e971111e4"
+  },
+  {
+    "file": "Informatics/molecular/thumbnails/dock2.png",
+    "remote": "informatics/molecular/thumbnails/dock2.png",
+    "sha256": "a03c836fb059f9f7fa39bc7031f52fc44bead17a658bb08e39f649176d3b942d"
+  },
+  {
+    "file": "Informatics/molecular/thumbnails/drd2.png",
+    "remote": "informatics/molecular/thumbnails/drd2.png",
+    "sha256": "ef293bbeb9d6d13c21ace84a5041b531c718884e70d922c350266ec558fc81b2"
+  },
+  {
+    "file": "Informatics/molecular/thumbnails/il6.png",
+    "remote": "informatics/molecular/thumbnails/il6.png",
+    "sha256": "9d62e459ce1d355f29f3998b80861ec65e82d08d9f98bfd8a6aa60f96ff39eea"
+  },
+  {
+    "file": "Informatics/molecular/thumbnails/nmda.png",
+    "remote": "informatics/molecular/thumbnails/nmda.png",
+    "sha256": "dca09e09aed799b6cf74cdf5bdda787316e1e4c2ce4b30fa5597b36d271d25cb"
+  },
+  {
+    "file": "Informatics/molecular/thumbnails/nr3c1.png",
+    "remote": "informatics/molecular/thumbnails/nr3c1.png",
+    "sha256": "8c33114bc1b4004e81360af6cc45d13933b03976e4870e623d5a93a2e7810e41"
+  },
+  {
+    "file": "Informatics/molecular/thumbnails/oxtr.png",
+    "remote": "informatics/molecular/thumbnails/oxtr.png",
+    "sha256": "d2a352e382944d7cf1ef18cb883eeb5ee9873a79a2412de7ddeea23ca52e7d94"
+  },
+  {
+    "file": "Informatics/molecular/thumbnails/slc6a4.png",
+    "remote": "informatics/molecular/thumbnails/slc6a4.png",
+    "sha256": "929f419f36dfa90c301c6a705bf93d55d1be21f2ce60813d07c6d0a0ad48d8c4"
+  },
+  {
+    "file": "Informatics/molecular/vendor/BIOEXCEL-LICENSE.txt",
+    "remote": "informatics/molecular/vendor/BIOEXCEL-LICENSE.txt",
+    "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+  },
+  {
+    "file": "Informatics/molecular/vendor/LICENSE-Molstar.txt",
+    "remote": "informatics/molecular/vendor/LICENSE-Molstar.txt",
+    "sha256": "aa42900c6ea7bfcf22d25a4c369025e01a526c66501fd9193f9a8aecee7a0753"
+  },
+  {
+    "file": "Informatics/molecular/vendor/NOTICE.txt",
+    "remote": "informatics/molecular/vendor/NOTICE.txt",
+    "sha256": "2fb16a763647a50bef87176cf1ac1390b1c55b99a2cccceb09bb9d1bf5774a89"
+  },
+  {
+    "file": "Informatics/molecular/vendor/dna-model-notice.txt",
+    "remote": "informatics/molecular/vendor/dna-model-notice.txt",
+    "sha256": "537f6757036e08886c87e9e3be4879f4b208f492d1c076fa318955bf1ac4527d"
+  },
+  {
+    "file": "Informatics/molecular/vendor/engine.js",
+    "remote": "informatics/molecular/vendor/engine.js",
+    "sha256": "c9b21fb5c2eb0c0fae64bd865699ec16e44df7b6d754bfaf3240190c3f3673f8"
+  },
+  {
+    "file": "Informatics/science.js",
+    "remote": "informatics/science.js",
+    "sha256": "d3221bb128047183b34aca9eb9966386101ed4b07347e9c1b606f508d2857718"
+  }
+]

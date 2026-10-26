@@ -1,0 +1,22 @@
+{
+  "status": "verified_on_staging",
+  "verified_at_utc": "2026-10-18T06:38:14.049495+00:00",
+  "source_commit": "c14dcb2db2887275d66a44d790dc2071cabfbcdd",
+  "staging_url": "https://staging.universalmind.tv/informatics/?atlas=1&record=fibonacci-m1001-p560",
+  "csv_bundle_url": "https://staging.universalmind.tv/informatics/pilot-v1/m1-m1001-csv.zip?v=1",
+  "csv_records": 1001,
+  "exact_roundtrip_to_json_records": true,
+  "json_files_required": 0,
+  "image_urls": 8938,
+  "publications": 14,
+  "shared_csv_tables": 10,
+  "native_and_m9_png_svg_columns": true,
+  "download_clicks_passed": [
+    "desktop record CSV",
+    "desktop complete CSV bundle",
+    "mobile record CSV"
+  ],
+  "production_commit_unchanged": "639a29c446cc9245e72c54edf574a76b6aa9be7d",
+  "production_tag": "production-2026-10-18-1732",
+  "production_scope": "The previously approved M1\u2013M1001 Atlas release is live. This additional complete CSV export awaits proofing on staging."
+}

@@ -1,0 +1,3 @@
+// Run the existing browser suites against production without editing approved website source.
+import {registerHooks} from 'node:module';
+registerHooks({load(url,context,nextLoad){const result=nextLoad(url,context);if(url.includes('/tools/check-')&&url.endsWith('-browser.mjs')&&result.format==='module'){return {...result,source:String(result.source).replaceAll('https://staging.universalmind.tv/informatics/','https://universalmind.tv/informatics/').replaceAll('/private/tmp/research-search-','/private/tmp/informatics-production-20261022/research-search-').replaceAll('/private/tmp/sound-narrative-','/private/tmp/informatics-production-20261022/sound-narrative-')};}return result;}});

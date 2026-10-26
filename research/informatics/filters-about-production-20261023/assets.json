@@ -1,0 +1,48 @@
+{
+  "approvedSource": "445975a365fc2e0e8e77171a71b4fb32377649aa",
+  "verifiedAt": "2026-10-23T12:11:40.098555+00:00",
+  "assets": [
+    {
+      "file": "index.html",
+      "local": "66b2b09f0d92277b6f8e83b5330a34f7d9f8ecd7a08b378a59c415bd011addb7",
+      "production": "66b2b09f0d92277b6f8e83b5330a34f7d9f8ecd7a08b378a59c415bd011addb7",
+      "staging": "66b2b09f0d92277b6f8e83b5330a34f7d9f8ecd7a08b378a59c415bd011addb7"
+    },
+    {
+      "file": "style.css",
+      "local": "9da76c3b11ee2674e42c5904d302979be683b567601075f9eac5da2434949155",
+      "production": "9da76c3b11ee2674e42c5904d302979be683b567601075f9eac5da2434949155",
+      "staging": "9da76c3b11ee2674e42c5904d302979be683b567601075f9eac5da2434949155"
+    },
+    {
+      "file": "library.html",
+      "local": "0a373a1522fe4222601977e63c5fca4ad631e17f274dbe8851a50ba3a99755ba",
+      "production": "0a373a1522fe4222601977e63c5fca4ad631e17f274dbe8851a50ba3a99755ba",
+      "staging": "0a373a1522fe4222601977e63c5fca4ad631e17f274dbe8851a50ba3a99755ba"
+    },
+    {
+      "file": "library.css",
+      "local": "e3d93dc1bf29ebaa010a154e64a8183b0dc2b4e353226e4d1466b277640f3b8c",
+      "production": "e3d93dc1bf29ebaa010a154e64a8183b0dc2b4e353226e4d1466b277640f3b8c",
+      "staging": "e3d93dc1bf29ebaa010a154e64a8183b0dc2b4e353226e4d1466b277640f3b8c"
+    },
+    {
+      "file": "library.js",
+      "local": "24640a347469f99cb8d61957c4b7593b185d0d48acc399ec31575443e11b3184",
+      "production": "24640a347469f99cb8d61957c4b7593b185d0d48acc399ec31575443e11b3184",
+      "staging": "24640a347469f99cb8d61957c4b7593b185d0d48acc399ec31575443e11b3184"
+    },
+    {
+      "file": "library-multiselect.js",
+      "local": "fe821d9440a04ad19d0216f1058224155a96243d76371bfe3c415d0479e94108",
+      "production": "fe821d9440a04ad19d0216f1058224155a96243d76371bfe3c415d0479e94108",
+      "staging": "fe821d9440a04ad19d0216f1058224155a96243d76371bfe3c415d0479e94108"
+    },
+    {
+      "file": "library-data/clinical-conditions.json",
+      "local": "c443b3e0e94674ea903e773963229ea20cd119c8334e2d5e5e748964500fcfe9",
+      "production": "c443b3e0e94674ea903e773963229ea20cd119c8334e2d5e5e748964500fcfe9",
+      "staging": "c443b3e0e94674ea903e773963229ea20cd119c8334e2d5e5e748964500fcfe9"
+    }
+  ]
+}

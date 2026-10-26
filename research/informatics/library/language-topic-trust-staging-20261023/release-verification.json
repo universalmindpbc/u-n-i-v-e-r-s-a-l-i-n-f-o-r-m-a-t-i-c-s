@@ -1,0 +1,40 @@
+{
+  "checkedAt": "2026-10-23T09:23:48.182996+00:00",
+  "sourceCommit": "67facc10cc98e703d33b13762f1c58f9ce5a5d51",
+  "proofUrl": "https://staging.universalmind.tv/informatics/library.html?collection=language",
+  "chapterUrl": "https://staging.universalmind.tv/informatics/library.html?collection=language&chapter=4",
+  "topicScores": {
+    "mindfulness-rna": 2,
+    "mindfulness-epigenetics": null,
+    "mindfulness-clinical": 2
+  },
+  "rule": "One score per subchapter; minimum three qualifying studies.",
+  "sourcePreservation": {
+    "originalLanguageChaptersUnchanged": 3,
+    "originalEntriesAndQuotesRetained": 299,
+    "newStudyTextAndCitationSnapshotsUnchanged": 19,
+    "soundEditionUnchanged": true,
+    "heroStudyFindingsVerbatim": true
+  },
+  "visualAcceptance": {
+    "contentsDesktopAndMobile": "One icon group aligned with the paper count; ungraded two-paper topic identified; clear topic spacing.",
+    "chapterMobile": "One two-cross topic score; study design and citation count remain with each paper.",
+    "themes": [
+      "video",
+      "black",
+      "white"
+    ],
+    "widths": [
+      1470,
+      1024,
+      390,
+      320
+    ]
+  },
+  "browserAudio": "Separate Chromium process launched with --mute-audio; media paused and contexts closed.",
+  "assetsMatched": 9,
+  "assetCacheNote": "An unversioned library.js request returned an older cached response. All versioned URLs actually loaded by the page were checked and matched the committed files.",
+  "deploymentManifestSHA256": "d9d87d9e7546e4782b7ca8da8e5a76b2692148e700acabce25afb38a6f512152",
+  "productionCommitUnchanged": "40a7f4d6cb4c108b9a7802f509d7137f465ddff5",
+  "productionModified": false
+}

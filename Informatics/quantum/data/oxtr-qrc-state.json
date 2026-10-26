@@ -1,0 +1,383 @@
+{
+  "schema": "universal-informatics/study-state/v1",
+  "study_id": "oxtr-qrc-01",
+  "study_version": "1.0.0",
+  "updated_on": "2026-10-25",
+  "state": "qualification_complete",
+  "stages": {
+    "question": {
+      "state": "ready",
+      "label": "Ready for a question"
+    },
+    "model": {
+      "state": "complete",
+      "label": "Model checks passed",
+      "message": "All 16 programs passed numerical checks. Wolfram Quantum Framework independently verified the reference Hamiltonian and evolution."
+    },
+    "simulation": {
+      "state": "complete",
+      "label": "16 GPU runs complete",
+      "message": "All eight representations were simulated for two OXTR windows. CUDA-Q compiled programs ran through qBraid on an NVIDIA GPU at zero credit cost."
+    },
+    "hardware": {
+      "state": "complete",
+      "label": "16 Aquila runs complete",
+      "message": "All 16 tasks returned 100 measurements each. 1,541 measurements began with all six atoms present. The recorded quantum comparison is available under Quantum results."
+    },
+    "evidence": {
+      "state": "specified",
+      "label": "Prediction evaluation follows",
+      "message": "This first batch checks the measurement route. The larger benchmark compares held-out occupancy predictions against strong classical baselines."
+    },
+    "result": {
+      "state": "complete",
+      "label": "Measurement comparison ready",
+      "message": "Classical, GPU and Aquila measurement results are available. This is the first measurement phase; the biological prediction question remains open."
+    },
+    "classical": {
+      "state": "complete",
+      "label": "Numerical checks complete"
+    }
+  },
+  "jobs": [
+    {
+      "provider": "qBraid",
+      "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add543a2a6c33b9a67fcf6a",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "qBraid",
+      "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add544c2a6c33b9a67fcf6e",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "qBraid",
+      "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add545d2a6c33b9a67fcf75",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "qBraid",
+      "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add546f2a6c33b9a67fcf7d",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "qBraid",
+      "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add54802a6c33b9a67fcf85",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "qBraid",
+      "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add54912a6c33b9a67fcf8b",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "qBraid",
+      "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add54a32a6c33b9a67fcf90",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "qBraid",
+      "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add54b52a6c33b9a67fcf99",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "qBraid",
+      "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add54c82a6c33b9a67fcf9e",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "qBraid",
+      "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add54dd2a6c33b9a67fcfa2",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "qBraid",
+      "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add54ef2a6c33b9a67fcfae",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "qBraid",
+      "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add55002a6c33b9a67fcfb4",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "qBraid",
+      "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add55112a6c33b9a67fcfbd",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "qBraid",
+      "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add55222a6c33b9a67fcfc1",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "qBraid",
+      "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add55332a6c33b9a67fcfc5",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "qBraid",
+      "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add55442a6c33b9a67fcfcf",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "qBraid",
+      "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add55542a6c33b9a67fcfd5",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "Amazon Braket / QuEra",
+      "id": "92a97488-675a-4126-838a-75ff29e0c539",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "Amazon Braket / QuEra",
+      "id": "4d690682-bbcd-471f-84fe-d7d29ab4f0f3",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "Amazon Braket / QuEra",
+      "id": "fd03b07f-1c48-40a1-8510-05bcfa38987b",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "Amazon Braket / QuEra",
+      "id": "1408321b-3bbf-42d0-98d8-b2a3f6a2282d",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "Amazon Braket / QuEra",
+      "id": "21a80a56-064a-4940-8ed9-9d77122436c7",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "Amazon Braket / QuEra",
+      "id": "056c9488-bd07-469c-93e2-edf24e8fff9c",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "Amazon Braket / QuEra",
+      "id": "46eac414-f077-4214-81ef-e21635955bb9",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "Amazon Braket / QuEra",
+      "id": "f4bc57c5-2ab1-463e-8e3b-88c7c61e4eb0",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "Amazon Braket / QuEra",
+      "id": "393fd233-18b4-47f4-ba5e-af2d142e8512",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "Amazon Braket / QuEra",
+      "id": "aff105ae-441b-49d7-a5b0-9797edc60b05",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "Amazon Braket / QuEra",
+      "id": "17ffbfd0-8304-4b30-a749-8d0c91eab2d9",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "Amazon Braket / QuEra",
+      "id": "941daa0a-4939-411e-a7f1-88fcb16baaca",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "Amazon Braket / QuEra",
+      "id": "ea4bb9a4-c91a-492a-80a7-c59fd051a807",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "Amazon Braket / QuEra",
+      "id": "f30cda70-0079-41e9-aa40-72e24b51f15d",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "Amazon Braket / QuEra",
+      "id": "1cbb29aa-c1b8-49bb-af31-dd18a7cbd480",
+      "state": "COMPLETED"
+    },
+    {
+      "provider": "Amazon Braket / QuEra",
+      "id": "8408039a-06e1-4782-910f-44a9313c8e12",
+      "state": "COMPLETED"
+    }
+  ],
+  "result": null,
+  "reports": {
+    "classical": {
+      "state": "complete",
+      "kind": "classical",
+      "study_id": "oxtr-qrc-01",
+      "study_version": "1.0.0",
+      "title": "The Fibonacci representations change the response to the same OXTR DNA.",
+      "finding": "Holding the DNA window and six-atom model fixed, changing its mathematical representation changes the calculated quantum response. The effects differ between the two OXTR windows: the representations do not act as one interchangeable Fibonacci pattern.",
+      "receipt": {
+        "run_id": "oxtr-qrc-01-local-qualification",
+        "model_version": "1.1.0-qualification",
+        "execution": "classical-cpu",
+        "backend": "SciPy reference + CUDA-Q CPU + Wolfram Quantum Framework",
+        "completed_at": "2026-10-25T00:54:32.397532+00:00",
+        "input_sha256": "0a86b5247d1a8e950d525debeed806109f009f6c51c70555eafcef4199336b33"
+      },
+      "metrics": [
+        {
+          "label": "Model cases checked",
+          "value": 16
+        },
+        {
+          "label": "Maximum final numerical difference",
+          "value": "0.0000583 in probability"
+        },
+        {
+          "label": "Wolfram reference difference",
+          "value": "0.00000000726 in probability"
+        }
+      ],
+      "details": [
+        "Six atoms, full 64-state evolution, all 15 pair interactions. Same coordinates, pulses and interactions in the GPU and Aquila programs.",
+        "Two motif-rich 256-base OXTR windows were selected without occupancy labels. They qualify execution and are not an independent prediction test.",
+        "Native Fibonacci, Phi Ratio, Alpha, Beta, Gamma and Epsilon are compared with ordinary and shuffled inputs.",
+        "Gamma and Epsilon produce distinct simulated responses. At 100 shots, measurement uncertainty can be larger than that difference."
+      ],
+      "phase": "qualification",
+      "insights": [
+        {
+          "title": "What this tells us about the occupancy question",
+          "text": "We have generated distinct candidate features from OXTR DNA. This batch did not compare them with measured transcription-factor occupancy, so improved prediction has not yet been established."
+        },
+        {
+          "title": "The contribution of this first experiment",
+          "text": "It identifies which representations alter the calculated response and tests whether a physical quantum processor reproduces those changes. Those are concrete properties to examine before interpreting a response as biological information."
+        }
+      ]
+    },
+    "simulation": {
+      "state": "complete",
+      "kind": "simulation",
+      "study_id": "oxtr-qrc-01",
+      "study_version": "1.0.0",
+      "title": "Gamma and Epsilon increase the simulated response in both DNA windows.",
+      "finding": "Among the six proposed representations, Gamma and Epsilon produce the largest increases over ordinary input in the ideal model. The GPU samples accompany that reference calculation below. A larger atom response is not a measure of better binding-site prediction.",
+      "receipt": {
+        "run_id": "oxtr-qrc-01-gpu-qualification",
+        "model_version": "1.1.0-qualification",
+        "execution": "cudaq-gpu",
+        "backend": "CUDA-Q compiled programs \u2192 qBraid NVIDIA GPU",
+        "completed_at": "2026-10-25T01:03:34.356758+00:00",
+        "input_sha256": "0a86b5247d1a8e950d525debeed806109f009f6c51c70555eafcef4199336b33",
+        "task_id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add544c2a6c33b9a67fcf6e"
+      },
+      "metrics": [
+        {
+          "label": "Study simulations",
+          "value": "16 \u00d7 100 shots"
+        },
+        {
+          "label": "Ordering check",
+          "value": "Passed \u00b7 8 shots"
+        },
+        {
+          "label": "GPU charge",
+          "value": "0 credits"
+        }
+      ],
+      "details": [
+        "The circles show simulated excitation probabilities, not protein binding probabilities. Every point includes 100-shot sampling uncertainty.",
+        "The acceptance check uses six binomial standard errors plus two counts; it is an execution check, not a predictive-performance result.",
+        "No classifier was trained in this qualification batch. OXTR occupancy evaluation remains a separate phase using held-out biological evidence."
+      ],
+      "phase": "qualification",
+      "response_data": "oxtr-qrc-qualification.json",
+      "insights": [
+        {
+          "title": "Native Fibonacci and Phi Ratio",
+          "text": "Native Fibonacci changes the ideal response by -2.2 and -0.0 percentage points in windows 1 and 2. Phi Ratio changes it by -2.8 and -0.2. Their effect is much smaller in the second window."
+        },
+        {
+          "title": "Alpha and Beta",
+          "text": "Both reduce the ideal response in both windows: Alpha -1.6 and -2.5 percentage points; Beta -0.6 and -1.7. The individual M9 P24 paths generate different responses."
+        },
+        {
+          "title": "Gamma and Epsilon",
+          "text": "Gamma increases the ideal response by +1.7 and +3.1 percentage points; Epsilon by +2.0 and +6.1. Their different path ordering remains visible even though they use the same six period positions."
+        },
+        {
+          "title": "Why the shuffled control matters",
+          "text": "The shuffled representation increases the second-window response by 7.4 percentage points, more than any proposed Fibonacci representation. Response size alone cannot identify a specific Fibonacci benefit."
+        }
+      ]
+    },
+    "quantum": {
+      "state": "complete",
+      "kind": "quantum",
+      "study_id": "oxtr-qrc-01",
+      "study_version": "1.0.0",
+      "title": "Aquila reproduces some changes\u2014and reveals a mismatch for Gamma and Epsilon.",
+      "finding": "Alpha and Beta reduce the observed response in both OXTR windows, matching the direction predicted by the model. Gamma and Epsilon increase it in the first window but decrease it in the second. The hardware therefore does not reproduce one consistent ordering of the representations across both DNA windows.",
+      "receipt": {
+        "run_id": "oxtr-qrc-01-aquila-qualification",
+        "model_version": "1.1.0-qualification",
+        "execution": "aquila-qpu",
+        "backend": "QuEra Aquila via Amazon Braket",
+        "completed_at": "2026-10-25T01:21:52.327Z",
+        "input_sha256": "0a86b5247d1a8e950d525debeed806109f009f6c51c70555eafcef4199336b33",
+        "task_id": "92a97488-675a-4126-838a-75ff29e0c539"
+      },
+      "metrics": [
+        {
+          "label": "Quantum programs",
+          "value": "16 \u00d7 100 shots"
+        },
+        {
+          "label": "Fully occupied measurements",
+          "value": "1,541 / 1,600"
+        },
+        {
+          "label": "Average difference from reference",
+          "value": "2.68 percentage points"
+        }
+      ],
+      "details": [
+        "The average absolute difference covers all 21 observables in each of 16 programs. It is descriptive, not an occupancy-prediction score.",
+        "59 measurements began with at least one atom missing and are excluded from the conditional response. 0 measurements were reported as failed.",
+        "An atom absent at readout can indicate excitation or loss. The displayed 95% intervals cover sampling uncertainty and do not include every hardware error.",
+        "These completed measurements qualify the execution route. Whether the representations improve OXTR occupancy prediction remains an independent biological test.",
+        "All contrasts are exploratory descriptions. There is one hardware task per representation and window, run in a fixed order. Sampling uncertainty, drift and systematic errors limit causal or repeatability claims; multiple comparisons have not been used to declare a significant winner."
+      ],
+      "phase": "qualification",
+      "response_data": "oxtr-qrc-qualification.json",
+      "insights": [
+        {
+          "title": "Native Fibonacci and Phi Ratio",
+          "text": "Native Fibonacci changes the measured response by -3.8 and +1.3 percentage points in windows 1 and 2. Phi Ratio changes it by -1.4 and -0.7. These are observed differences from ordinary input, not changes in biological binding probability."
+        },
+        {
+          "title": "Alpha and Beta",
+          "text": "Alpha changes the measured response by -5.2 and -3.0 percentage points; Beta by -1.3 and -1.9. Their downward direction matches the model in both windows. This small batch does not establish that the pattern repeats reliably."
+        },
+        {
+          "title": "Gamma and Epsilon",
+          "text": "Gamma changes the measured response by +0.9 and -0.7 percentage points; Epsilon by +3.7 and -1.6. The second-window reversal shows that the ideal model does not fully describe these hardware measurements."
+        },
+        {
+          "title": "The control and the OXTR question",
+          "text": "The shuffled control has the largest measured response in window 2 (+11.0 percentage points). We have measured representation-dependent responses, but have not established a Fibonacci-specific predictive benefit. Occupancy labels were not tested in this batch."
+        }
+      ]
+    },
+    "comparison": {
+      "state": "complete",
+      "classical_run_id": "oxtr-qrc-01-local-qualification",
+      "quantum_run_id": "oxtr-qrc-01-aquila-qualification",
+      "finding": "The first experiment shows that Fibonacci, Phi Ratio and the four M9 P24 paths generate different calculated responses to OXTR DNA. Aquila reproduces some directional changes but not all; the shuffled control also generates a strong response. This gives us candidate quantum features and a concrete simulation\u2013hardware mismatch to investigate. It does not yet answer whether those features improve transcription-factor occupancy prediction: no occupancy predictor or held-out biological test was run."
+    }
+  },
+  "updated_at": "2026-10-25T01:22:56.336442+00:00",
+  "phase": "qualification",
+  "status_label": "First measurement phase complete",
+  "caption": "16 GPU simulations and 16 Aquila programs complete. Explore both sets of responses. OXTR occupancy prediction remains to be evaluated."
+}

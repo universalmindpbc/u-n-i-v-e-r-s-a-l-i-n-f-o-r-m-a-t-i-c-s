@@ -1,0 +1,3 @@
+#quantum-panel{flex:1;min-height:0;width:100%;height:calc(100svh - 100px)}
+#quantum-frame{display:block;width:100%;height:100%;border:0;background:#080e14}
+@media(max-width:760px){#quantum-panel{height:calc(100svh - 108px)}}

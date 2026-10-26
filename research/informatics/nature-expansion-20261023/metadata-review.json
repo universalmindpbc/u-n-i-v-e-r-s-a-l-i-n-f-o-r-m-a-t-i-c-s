@@ -1,0 +1,4818 @@
+{
+  "checkedAt": "2026-10-23T12:18:14.475246+00:00",
+  "records": [
+    {
+      "doi": "10.1038/s41380-025-03038-5",
+      "publisherURL": null,
+      "existingRecordId": "pmid-40281224",
+      "title": "Epigenetic markers of disease risk and psychotherapy response in anxiety disorders – a longitudinal analysis of the DNA methylome",
+      "journal": "Molecular Psychiatry",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2025,
+      "authors": "Katharina Domschke; Miriam A. Schiele; Óscar Crespo Salvador; Lea Zillich; Jan Lipovsek; Andre Pittig; Ingmar Heinig; Isabelle C. Ridderbusch; Benjamin Straube; Jan Richter; Maike Hollandt; Jens Plag; Thomas Fydrich; Katja Koelkebeck; Heike Weber; Ulrike Lueken; Udo Dannlowski; Jürgen Margraf; Silvia Schneider; Elisabeth B. Binder; Andreas Ströhle; Winfried Rief; Tilo Kircher; Paul Pauli; Alfons Hamm; Volker Arolt; Jürgen Hoyer; Hans-Ulrich Wittchen; Angelika Erhardt-Lehmann; Anna Köttgen; Pascal Schlosser; Jürgen Deckert",
+      "citations": 18,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                4,
+                25
+              ]
+            ],
+            "date-time": "2025-04-25T00:00:00Z",
+            "timestamp": 1745539200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                4,
+                25
+              ]
+            ],
+            "date-time": "2025-04-25T00:00:00Z",
+            "timestamp": 1745539200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "40281224",
+      "pmcid": "PMC12436192",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Unpaywall",
+            "url": "https://resolver.sub.uni-goettingen.de/purl?gro-2/148935"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41380-025-03038-5"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12436192"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12436192?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "10",
+        "volume": "30",
+        "journalIssueId": 4017461,
+        "dateOfPublication": "2025 Oct",
+        "monthOfPublication": 10,
+        "yearOfPublication": 2025,
+        "journal": {
+          "medlineAbbreviation": "Mol Psychiatry",
+          "title": "Molecular psychiatry",
+          "essn": "1476-5578",
+          "issn": "1359-4184",
+          "isoabbreviation": "Mol Psychiatry",
+          "nlmid": "9607835"
+        },
+        "printPublicationDate": "2025-10-01"
+      },
+      "originalTitle": "Epigenetic markers of disease risk and psychotherapy response in anxiety disorders - a longitudinal analysis of the DNA methylome",
+      "originalJournal": "Molecular psychiatry",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "b5b3ab567c3c2e03ca366c269876dc269aea996e79afade9d58fc3113bb1b69b"
+    },
+    {
+      "doi": "10.1038/s41398-024-02892-1",
+      "publisherURL": null,
+      "existingRecordId": "pmid-39060246",
+      "title": "Distinct saliva DNA methylation profiles in relation to treatment outcome in youth with posttraumatic stress disorder",
+      "journal": "Translational Psychiatry",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2024,
+      "authors": "Judith B. M. Ensink; Peter Henneman; Andrea Venema; Jasper B. Zantvoord; Rosanne op den Kelder; Marcel M. A. M. Mannens; Ramón J. L. Lindauer",
+      "citations": 7,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                7,
+                26
+              ]
+            ],
+            "date-time": "2024-07-26T00:00:00Z",
+            "timestamp": 1721952000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                7,
+                26
+              ]
+            ],
+            "date-time": "2024-07-26T00:00:00Z",
+            "timestamp": 1721952000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "39060246",
+      "pmcid": "PMC11282249",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41398-024-02892-1"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11282249"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11282249?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "1",
+        "volume": "14",
+        "journalIssueId": 3794106,
+        "dateOfPublication": "2024 Jul",
+        "monthOfPublication": 7,
+        "yearOfPublication": 2024,
+        "journal": {
+          "medlineAbbreviation": "Transl Psychiatry",
+          "title": "Translational psychiatry",
+          "essn": "2158-3188",
+          "issn": "2158-3188",
+          "isoabbreviation": "Transl Psychiatry",
+          "nlmid": "101562664"
+        },
+        "printPublicationDate": "2024-07-01"
+      },
+      "originalTitle": "Distinct saliva DNA methylation profiles in relation to treatment outcome in youth with posttraumatic stress disorder.",
+      "originalJournal": "Translational psychiatry",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "f5eac5799966098d43f97df1b4fbd9112dba1090e8850e42764899e01137699d"
+    },
+    {
+      "doi": "10.1038/s41398-023-02316-6",
+      "publisherURL": null,
+      "existingRecordId": "pmid-36658116",
+      "title": "Epigenetics of traumatic stress: The association of NR3C1 methylation and posttraumatic stress disorder symptom changes in response to narrative exposure therapy",
+      "journal": "Translational Psychiatry",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2023,
+      "authors": "Sarah Wilker; Vanja Vukojevic; Anna Schneider; Anett Pfeiffer; Stefan Inerle; Markus Pauly; Thomas Elbert; Andreas Papassotiropoulos; Dominique de Quervain; Iris-Tatjana Kolassa",
+      "citations": 41,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                1,
+                19
+              ]
+            ],
+            "date-time": "2023-01-19T00:00:00Z",
+            "timestamp": 1674086400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                1,
+                19
+              ]
+            ],
+            "date-time": "2023-01-19T00:00:00Z",
+            "timestamp": 1674086400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "36658116",
+      "pmcid": "PMC9852425",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41398-023-02316-6"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9852425"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9852425?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "1",
+        "volume": "13",
+        "journalIssueId": 3482891,
+        "dateOfPublication": "2023 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2023,
+        "journal": {
+          "medlineAbbreviation": "Transl Psychiatry",
+          "title": "Translational psychiatry",
+          "essn": "2158-3188",
+          "issn": "2158-3188",
+          "isoabbreviation": "Transl Psychiatry",
+          "nlmid": "101562664"
+        },
+        "printPublicationDate": "2023-01-01"
+      },
+      "originalTitle": "Epigenetics of traumatic stress: The association of NR3C1 methylation and posttraumatic stress disorder symptom changes in response to narrative exposure therapy",
+      "originalJournal": "Translational psychiatry",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "519b3cfabd1876b2c2381a7b6631a84cbd2c00cf4423c76ded288742953722aa"
+    },
+    {
+      "doi": "10.1038/s41598-023-48094-5",
+      "publisherURL": null,
+      "existingRecordId": "pmid-38040763",
+      "title": "Music compensates for altered gene expression in age-related cognitive disorders",
+      "journal": "Scientific Reports",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2023,
+      "authors": "Alberto Gómez-Carballa; Laura Navarro; Jacobo Pardo-Seco; Xabier Bello; Sara Pischedda; Sandra Viz-Lasheras; Alba Camino-Mera; María José Currás; Isabel Ferreirós; Narmeen Mallah; Sara Rey-Vázquez; Lorenzo Redondo; Ana Dacosta-Urbieta; Fernando Caamaño-Viña; Irene Rivero-Calle; Carmen Rodriguez-Tenreiro; Federico Martinón-Torres; Antonio Salas",
+      "citations": 22,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                12,
+                2
+              ]
+            ],
+            "date-time": "2023-12-02T00:00:00Z",
+            "timestamp": 1701475200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                12,
+                2
+              ]
+            ],
+            "date-time": "2023-12-02T00:00:00Z",
+            "timestamp": 1701475200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "38040763",
+      "pmcid": "PMC10692168",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41598-023-48094-5"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10692168"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10692168?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "1",
+        "volume": "13",
+        "journalIssueId": 3671610,
+        "dateOfPublication": "2023 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2023,
+        "journal": {
+          "medlineAbbreviation": "Sci Rep",
+          "title": "Scientific reports",
+          "essn": "2045-2322",
+          "issn": "2045-2322",
+          "isoabbreviation": "Sci Rep",
+          "nlmid": "101563288"
+        },
+        "printPublicationDate": "2023-12-01"
+      },
+      "originalTitle": "Music compensates for altered gene expression in age-related cognitive disorders",
+      "originalJournal": "Scientific reports",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "197e74d80cf5c2529fabe230ab91b88d95ce21c1a07ecbd39a18e81d46113492"
+    },
+    {
+      "doi": "10.1038/s41598-022-21246-9",
+      "publisherURL": null,
+      "existingRecordId": "pmid-36266402",
+      "title": "Epigenetic impact of a 1-week intensive multimodal group program for adolescents with multiple adverse childhood experiences",
+      "journal": "Scientific Reports",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2022,
+      "authors": "Perla Kaliman; Marta Cosín-Tomás; Andy Madrid; Susana Roque López; Elkin Llanez-Anaya; Ligia A. Papale; Reid S. Alisch; Richard J. Davidson",
+      "citations": 24,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                10,
+                20
+              ]
+            ],
+            "date-time": "2022-10-20T00:00:00Z",
+            "timestamp": 1666224000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                10,
+                20
+              ]
+            ],
+            "date-time": "2022-10-20T00:00:00Z",
+            "timestamp": 1666224000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "36266402",
+      "pmcid": "PMC9585146",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Randomized Controlled Trial",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.nature.com/articles/s41598-022-21246-9.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41598-022-21246-9"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9585146"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9585146?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "1",
+        "volume": "12",
+        "journalIssueId": 3432052,
+        "dateOfPublication": "2022 Oct",
+        "monthOfPublication": 10,
+        "yearOfPublication": 2022,
+        "journal": {
+          "medlineAbbreviation": "Sci Rep",
+          "title": "Scientific reports",
+          "essn": "2045-2322",
+          "issn": "2045-2322",
+          "isoabbreviation": "Sci Rep",
+          "nlmid": "101563288"
+        },
+        "printPublicationDate": "2022-10-01"
+      },
+      "originalTitle": "Epigenetic impact of a 1-week intensive multimodal group program for adolescents with multiple adverse childhood experiences.",
+      "originalJournal": "Scientific reports",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "9498c2a642bcb3eb7cd4575e2af6e07e1033f24ea3a6016be783b1774e1f865e"
+    },
+    {
+      "doi": "10.1038/s41467-019-08503-8",
+      "publisherURL": null,
+      "existingRecordId": "pmid-30737392",
+      "title": "Oxytocin pathway gene networks in the human brain",
+      "journal": "Nature Communications",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2019,
+      "authors": "Daniel S. Quintana; Jaroslav Rokicki; Dennis van der Meer; Dag Alnæs; Tobias Kaufmann; Aldo Córdova-Palomera; Ingrid Dieset; Ole A. Andreassen; Lars T. Westlye",
+      "citations": 278,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                2,
+                8
+              ]
+            ],
+            "date-time": "2019-02-08T00:00:00Z",
+            "timestamp": 1549584000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                2,
+                8
+              ]
+            ],
+            "date-time": "2019-02-08T00:00:00Z",
+            "timestamp": 1549584000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "30737392",
+      "pmcid": "PMC6368605",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41467-019-08503-8"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6368605"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6368605?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "1",
+        "volume": "10",
+        "journalIssueId": 2776942,
+        "dateOfPublication": "2019 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2019,
+        "journal": {
+          "medlineAbbreviation": "Nat Commun",
+          "title": "Nature communications",
+          "essn": "2041-1723",
+          "issn": "2041-1723",
+          "nlmid": "101528555",
+          "isoabbreviation": "Nat Commun"
+        },
+        "printPublicationDate": "2019-02-01"
+      },
+      "originalTitle": "Oxytocin pathway gene networks in the human brain",
+      "originalJournal": "Nature",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "1f424ab95a0342794775609d951079a0015d7841954d7bae173916b94fbe73b5"
+    },
+    {
+      "doi": "10.1038/s41380-019-0549-3",
+      "publisherURL": null,
+      "existingRecordId": "pmid-31645664",
+      "title": "Successful treatment of post-traumatic stress disorder reverses DNA methylation marks",
+      "journal": "Molecular Psychiatry",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2019,
+      "authors": "Christiaan H. Vinkers; Elbert Geuze; Sanne J. H. van Rooij; Mitzy Kennis; Remmelt R. Schür; Danny M. Nispeling; Alicia K. Smith; Caroline M. Nievergelt; Monica Uddin; Bart P. F. Rutten; Eric Vermetten; Marco P. Boks",
+      "citations": 103,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                10,
+                23
+              ]
+            ],
+            "date-time": "2019-10-23T00:00:00Z",
+            "timestamp": 1571788800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                10,
+                23
+              ]
+            ],
+            "date-time": "2019-10-23T00:00:00Z",
+            "timestamp": 1571788800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "pmid": "31645664",
+      "pmcid": null,
+      "pubTypes": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41380-019-0549-3"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "4",
+        "volume": "26",
+        "journalIssueId": 3137123,
+        "dateOfPublication": "2021 Apr",
+        "monthOfPublication": 4,
+        "yearOfPublication": 2021,
+        "journal": {
+          "medlineAbbreviation": "Mol Psychiatry",
+          "title": "Molecular psychiatry",
+          "essn": "1476-5578",
+          "issn": "1359-4184",
+          "isoabbreviation": "Mol Psychiatry",
+          "nlmid": "9607835"
+        },
+        "printPublicationDate": "2021-04-01"
+      },
+      "originalTitle": "Successful treatment of post-traumatic stress disorder reverses DNA methylation marks.",
+      "originalJournal": "Molecular psychiatry",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "fab05bea29786f8ce169b117659131cf717934c09e541c9ceb62d7aba8514ad7"
+    },
+    {
+      "doi": "10.1038/s41598-017-10821-0",
+      "publisherURL": null,
+      "existingRecordId": "pmid-28912494",
+      "title": "Oxytocin Receptor Polymorphisms are Differentially Associated with Social Abilities across Neurodevelopmental Disorders",
+      "journal": "Scientific Reports",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2017,
+      "authors": "Danielle A. Baribeau; Annie Dupuis; Tara A. Paton; Stephen W. Scherer; Russell J. Schachar; Paul D. Arnold; Peter Szatmari; Rob Nicolson; Stelios Georgiades; Jennifer Crosbie; Jessica Brian; Alana Iaboni; Jason Lerch; Evdokia Anagnostou",
+      "citations": 40,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                9,
+                14
+              ]
+            ],
+            "date-time": "2017-09-14T00:00:00Z",
+            "timestamp": 1505347200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                9,
+                14
+              ]
+            ],
+            "date-time": "2017-09-14T00:00:00Z",
+            "timestamp": 1505347200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "28912494",
+      "pmcid": "PMC5599599",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41598-017-10821-0"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5599599"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5599599?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "1",
+        "volume": "7",
+        "journalIssueId": 2591886,
+        "dateOfPublication": "2017 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2017,
+        "journal": {
+          "medlineAbbreviation": "Sci Rep",
+          "title": "Scientific reports",
+          "essn": "2045-2322",
+          "issn": "2045-2322",
+          "isoabbreviation": "Sci Rep",
+          "nlmid": "101563288"
+        },
+        "printPublicationDate": "2017-09-01"
+      },
+      "originalTitle": "Oxytocin Receptor Polymorphisms are Differentially Associated with Social Abilities across Neurodevelopmental Disorders",
+      "originalJournal": "Nature",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "09eaec3fcc14cbf77cbacdd734f701b9a527b76c409978b99e6c7a2b8cccd296"
+    },
+    {
+      "doi": "10.1038/npjamd.2016.8",
+      "publisherURL": null,
+      "existingRecordId": "pmid-28721265",
+      "title": "Molecular hydrogen stimulates the gene expression of transcriptional coactivator PGC-1α to enhance fatty acid metabolism",
+      "journal": "npj Aging and Mechanisms of Disease",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2016,
+      "authors": "Naomi Kamimura; Harumi Ichimiya; Katsuya Iuchi; Shigeo Ohta",
+      "citations": 64,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                4,
+                28
+              ]
+            ],
+            "date-time": "2016-04-28T00:00:00Z",
+            "timestamp": 1461801600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                4,
+                28
+              ]
+            ],
+            "date-time": "2016-04-28T00:00:00Z",
+            "timestamp": 1461801600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "28721265",
+      "pmcid": "PMC5515010",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/npjamd.2016.8"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5515010"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5515010?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "2",
+        "journalIssueId": 2423083,
+        "dateOfPublication": "2016",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2016,
+        "journal": {
+          "medlineAbbreviation": "NPJ Aging Mech Dis",
+          "title": "NPJ aging and mechanisms of disease",
+          "essn": "2056-3973",
+          "issn": "2056-3973",
+          "isoabbreviation": "NPJ Aging Mech Dis",
+          "nlmid": "101678947"
+        },
+        "printPublicationDate": "2016-01-01"
+      },
+      "originalTitle": "Molecular hydrogen stimulates the gene expression of transcriptional coactivator PGC-1 α to enhance fatty acid metabolism",
+      "originalJournal": "Nature",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "95cf520114d18e5f6faea3c9d10be64a585810ad9892d03b4e09c5ab48016a12"
+    },
+    {
+      "doi": "10.1038/ncomms6392",
+      "publisherURL": null,
+      "existingRecordId": "pmid-25386727",
+      "title": "Mind-controlled transgene expression by a wireless-powered optogenetic designer cell implant",
+      "journal": "Nature Communications",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2014,
+      "authors": "Marc Folcher; Sabine Oesterle; Katharina Zwicky; Thushara Thekkottil; Julie Heymoz; Muriel Hohmann; Matthias Christen; Marie Daoud El-Baba; Peter Buchmann; Martin Fussenegger",
+      "citations": 115,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2014,
+                11,
+                11
+              ]
+            ],
+            "date-time": "2014-11-11T00:00:00Z",
+            "timestamp": 1415664000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2014,
+                11,
+                11
+              ]
+            ],
+            "date-time": "2014-11-11T00:00:00Z",
+            "timestamp": 1415664000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "25386727",
+      "pmcid": "PMC4241983",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/ncomms6392"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4241983"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4241983?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "5",
+        "journalIssueId": 2474534,
+        "dateOfPublication": "2014 Nov",
+        "monthOfPublication": 11,
+        "yearOfPublication": 2014,
+        "journal": {
+          "medlineAbbreviation": "Nat Commun",
+          "title": "Nature communications",
+          "essn": "2041-1723",
+          "issn": "2041-1723",
+          "isoabbreviation": "Nat Commun",
+          "nlmid": "101528555"
+        },
+        "printPublicationDate": "2014-11-01"
+      },
+      "originalTitle": "Mind-controlled transgene expression by a wireless-powered optogenetic designer cell implant",
+      "originalJournal": "Natural Communication",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "f15670666d3da888487a88cb41f28eb9787c1ea1b74456ad8a100e5e745ce03f"
+    },
+    {
+      "doi": "10.1038/tp.2015.163",
+      "publisherURL": null,
+      "existingRecordId": "src-d5dc29829a02",
+      "title": "Genetic modulation of oxytocin sensitivity: a pharmacogenetic approach",
+      "journal": "Translational Psychiatry",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2015,
+      "authors": "F S Chen; R Kumsta; F Dvorak; G Domes; O S Yim; R P Ebstein; M Heinrichs",
+      "citations": 54,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2015,
+                10,
+                27
+              ]
+            ],
+            "date-time": "2015-10-27T00:00:00Z",
+            "timestamp": 1445904000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2015,
+                10,
+                27
+              ]
+            ],
+            "date-time": "2015-10-27T00:00:00Z",
+            "timestamp": 1445904000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "26506050",
+      "pmcid": "PMC4930136",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.nature.com/articles/tp2015163.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/tp.2015.163"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4930136"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4930136?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "5",
+        "journalIssueId": 2476680,
+        "dateOfPublication": "2015 Oct",
+        "monthOfPublication": 10,
+        "yearOfPublication": 2015,
+        "journal": {
+          "medlineAbbreviation": "Transl Psychiatry",
+          "title": "Translational psychiatry",
+          "essn": "2158-3188",
+          "issn": "2158-3188",
+          "nlmid": "101562664",
+          "isoabbreviation": "Transl Psychiatry"
+        },
+        "printPublicationDate": "2015-10-01"
+      },
+      "originalTitle": "Genetic modulation of oxytocin sensitivity: a pharmacogenetic approach",
+      "originalJournal": "Nature",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "29bfb9c6c53844c160e53fb21e9d1e8a01b4f68c5681ab9197f739985c40c870"
+    },
+    {
+      "doi": "10.1038/s41598-019-44175-6",
+      "publisherURL": null,
+      "existingRecordId": "src-f509442c9ca1",
+      "title": "Interaction effect of oxytocin receptor (OXTR) rs53576 genotype and maternal postpartum depression on child behavioural problems",
+      "journal": "Scientific Reports",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2019,
+      "authors": "Damee Choi; Kenji J. Tsuchiya; Nori Takei",
+      "citations": 24,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                5,
+                22
+              ]
+            ],
+            "date-time": "2019-05-22T00:00:00Z",
+            "timestamp": 1558483200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                5,
+                22
+              ]
+            ],
+            "date-time": "2019-05-22T00:00:00Z",
+            "timestamp": 1558483200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "31118457",
+      "pmcid": "PMC6531431",
+      "pubTypes": {
+        "pubType": [
+          "Comparative Study",
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.nature.com/articles/s41598-019-44175-6.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41598-019-44175-6"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6531431"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6531431?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "1",
+        "volume": "9",
+        "journalIssueId": 2810580,
+        "dateOfPublication": "2019 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2019,
+        "journal": {
+          "medlineAbbreviation": "Sci Rep",
+          "title": "Scientific reports",
+          "essn": "2045-2322",
+          "issn": "2045-2322",
+          "nlmid": "101563288",
+          "isoabbreviation": "Sci Rep"
+        },
+        "printPublicationDate": "2019-05-01"
+      },
+      "originalTitle": "Interaction effect of oxytocin receptor (OXTR) rs53576 genotype and maternal postpartum depression on child behavioural problems",
+      "originalJournal": "Nature",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "873c525ddedf81eed32484857ee83d5643549a9e5d547723919a711031d02058"
+    },
+    {
+      "doi": "10.1038/srep18971",
+      "publisherURL": null,
+      "existingRecordId": "src-073eaac7c1c6",
+      "title": "Molecular hydrogen regulates gene expression by modifying the free radical chain reaction-dependent generation of oxidized phospholipid mediators",
+      "journal": "Scientific Reports",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2016,
+      "authors": "Katsuya Iuchi; Akemi Imoto; Naomi Kamimura; Kiyomi Nishimaki; Harumi Ichimiya; Takashi Yokota; Shigeo Ohta",
+      "citations": 106,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                1,
+                7
+              ]
+            ],
+            "date-time": "2016-01-07T00:00:00Z",
+            "timestamp": 1452124800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                1,
+                7
+              ]
+            ],
+            "date-time": "2016-01-07T00:00:00Z",
+            "timestamp": 1452124800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "26739257",
+      "pmcid": "PMC4704061",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/srep18971"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4704061"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4704061?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "6",
+        "journalIssueId": 2477087,
+        "dateOfPublication": "2016 Jan",
+        "monthOfPublication": 1,
+        "yearOfPublication": 2016,
+        "journal": {
+          "medlineAbbreviation": "Sci Rep",
+          "title": "Scientific reports",
+          "essn": "2045-2322",
+          "issn": "2045-2322",
+          "isoabbreviation": "Sci Rep",
+          "nlmid": "101563288"
+        },
+        "printPublicationDate": "2016-01-01"
+      },
+      "originalTitle": "Molecular hydrogen regulates gene expression by modifying the free radical chain reaction-dependent generation of oxidized phospholipid mediators",
+      "originalJournal": "Nature",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "cabf1130944a7990ee6434abbb6acd953878b4bc145b1a8396e3ca2d1b6ffef7"
+    },
+    {
+      "doi": "10.1038/s41534-018-0060-8",
+      "publisherURL": null,
+      "existingRecordId": "src-32ff0961cd36",
+      "title": "Quantum annealing versus classical machine learning applied to a simplified computational biology problem",
+      "journal": "npj Quantum Information",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2018,
+      "authors": "Richard Y. Li; Rosa Di Felice; Remo Rohs; Daniel A. Lidar",
+      "citations": 173,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                2,
+                21
+              ]
+            ],
+            "date-time": "2018-02-21T00:00:00Z",
+            "timestamp": 1519171200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                2,
+                21
+              ]
+            ],
+            "date-time": "2018-02-21T00:00:00Z",
+            "timestamp": 1519171200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "29652405",
+      "pmcid": "PMC5891835",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41534-018-0060-8"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5891835"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5891835?pdf=render"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41534-018-0060-8"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "4",
+        "journalIssueId": 2672818,
+        "dateOfPublication": "2018 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2018,
+        "journal": {
+          "medlineAbbreviation": "npj Quantum Inf",
+          "title": "NPJ quantum information",
+          "essn": "2056-6387",
+          "issn": "2056-6387",
+          "isoabbreviation": "npj Quantum Inf",
+          "nlmid": "101722857"
+        },
+        "printPublicationDate": "2018-01-01"
+      },
+      "originalTitle": "Quantum annealing versus classical machine learning applied to a simplified computational biology problem",
+      "originalJournal": "Nature",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "82815554c76eeeb590dba408b5b0c447e44f5961aae0277cf9c9f2f4e23cdc4c"
+    },
+    {
+      "doi": "10.1038/s41421-024-00701-z",
+      "publisherURL": null,
+      "existingRecordId": "pmid-39103336",
+      "title": "40 Hz light flickering facilitates the glymphatic flow via adenosine signaling in mice",
+      "journal": "Cell Discovery",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2024,
+      "authors": "Xiaoting Sun; Liliana Dias; Chenlei Peng; Ziyi Zhang; Haoting Ge; Zejun Wang; Jiayi Jin; Manli Jia; Tao Xu; Wei Guo; Wu Zheng; Yan He; Youru Wu; Xiaohong Cai; Paula Agostinho; Jia Qu; Rodrigo A. Cunha; Xuzhao Zhou; Ruiliang Bai; Jiang-fan Chen",
+      "citations": 77,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                8,
+                6
+              ]
+            ],
+            "date-time": "2024-08-06T00:00:00Z",
+            "timestamp": 1722902400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                8,
+                6
+              ]
+            ],
+            "date-time": "2024-08-06T00:00:00Z",
+            "timestamp": 1722902400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "39103336",
+      "pmcid": "PMC11300858",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41421-024-00701-z"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11300858"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11300858?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "1",
+        "volume": "10",
+        "journalIssueId": 3809696,
+        "dateOfPublication": "2024 Aug",
+        "monthOfPublication": 8,
+        "yearOfPublication": 2024,
+        "journal": {
+          "medlineAbbreviation": "Cell Discov",
+          "title": "Cell discovery",
+          "essn": "2056-5968",
+          "issn": "2056-5968",
+          "isoabbreviation": "Cell Discov",
+          "nlmid": "101661034"
+        },
+        "printPublicationDate": "2024-08-01"
+      },
+      "originalTitle": "40 Hz light flickering facilitates the glymphatic flow via adenosine signaling in mice",
+      "originalJournal": "Cell discovery",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "6eba77502040a5dd918886816f1abc5050d8dc3db6f45c872996ffd06e5343f2"
+    },
+    {
+      "doi": "10.1038/s41586-024-07132-6",
+      "publisherURL": null,
+      "existingRecordId": "pmid-38418876",
+      "title": "Multisensory gamma stimulation promotes glymphatic clearance of amyloid",
+      "journal": "Nature",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2024,
+      "authors": "Mitchell H. Murdock; Cheng-Yi Yang; Na Sun; Ping-Chieh Pao; Cristina Blanco-Duque; Martin C. Kahn; TaeHyun Kim; Nicolas S. Lavoie; Matheus B. Victor; Md Rezaul Islam; Fabiola Galiana; Noelle Leary; Sidney Wang; Adele Bubnys; Emily Ma; Leyla A. Akay; Madison Sneve; Yong Qian; Cuixin Lai; Michelle M. McCarthy; Nancy Kopell; Manolis Kellis; Kiryl D. Piatkevich; Edward S. Boyden; Li-Huei Tsai",
+      "citations": 368,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                2,
+                28
+              ]
+            ],
+            "date-time": "2024-02-28T00:00:00Z",
+            "timestamp": 1709078400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                2,
+                28
+              ]
+            ],
+            "date-time": "2024-02-28T00:00:00Z",
+            "timestamp": 1709078400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "38418876",
+      "pmcid": "PMC10917684",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41586-024-07132-6"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10917684"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10917684?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "8002",
+        "volume": "627",
+        "journalIssueId": 3731283,
+        "dateOfPublication": "2024 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2024,
+        "journal": {
+          "medlineAbbreviation": "Nature",
+          "title": "Nature",
+          "essn": "1476-4687",
+          "issn": "0028-0836",
+          "isoabbreviation": "Nature",
+          "nlmid": "0410462"
+        },
+        "printPublicationDate": "2024-03-01"
+      },
+      "originalTitle": "Multisensory gamma stimulation promotes glymphatic clearance of amyloid",
+      "originalJournal": "Nature",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "1b63d3bd674707b37d5b77cf34661194602168110ea2f7442afd25407ebebccb"
+    },
+    {
+      "doi": "10.1038/s41398-021-01441-4",
+      "publisherURL": null,
+      "existingRecordId": "pmid-34050123",
+      "title": "Theta burst stimulation for the acute treatment of major depressive disorder: A systematic review and meta-analysis",
+      "journal": "Translational Psychiatry",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2021,
+      "authors": "Jeffrey D. Voigt; Andrew F. Leuchter; Linda L. Carpenter",
+      "citations": 78,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                5,
+                28
+              ]
+            ],
+            "date-time": "2021-05-28T00:00:00Z",
+            "timestamp": 1622160000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                5,
+                28
+              ]
+            ],
+            "date-time": "2021-05-28T00:00:00Z",
+            "timestamp": 1622160000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "34050123",
+      "pmcid": "PMC8163818",
+      "pubTypes": {
+        "pubType": [
+          "Meta-Analysis",
+          "research-article",
+          "Systematic Review",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Unpaywall",
+            "url": "https://escholarship.org/uc/item/6cw879jt"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41398-021-01441-4"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC8163818"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC8163818?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "1",
+        "volume": "11",
+        "journalIssueId": 3162114,
+        "dateOfPublication": "2021 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2021,
+        "journal": {
+          "medlineAbbreviation": "Transl Psychiatry",
+          "title": "Translational psychiatry",
+          "essn": "2158-3188",
+          "issn": "2158-3188",
+          "nlmid": "101562664",
+          "isoabbreviation": "Transl Psychiatry"
+        },
+        "printPublicationDate": "2021-05-01"
+      },
+      "originalTitle": "Theta burst stimulation for the acute treatment of major depressive disorder: A systematic review and meta-analysis",
+      "originalJournal": "Translational psychiatry",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "e636183e2c6aea611058e9426454315c5922913ec25b6ced77bb753a43b964a4"
+    },
+    {
+      "doi": "10.1038/s41398-020-00890-7",
+      "publisherURL": null,
+      "existingRecordId": "pmid-32655132",
+      "title": "Intranasal oxytocin increases heart-rate variability in men at clinical high risk for psychosis: a proof-of-concept study",
+      "journal": "Translational Psychiatry",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2020,
+      "authors": "Daniel Martins; Cathy Davies; Andrea De Micheli; Dominic Oliver; Alicja Krawczun-Rygmaczewska; Paolo Fusar-Poli; Yannis Paloyelis",
+      "citations": 26,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2020,
+                7,
+                12
+              ]
+            ],
+            "date-time": "2020-07-12T00:00:00Z",
+            "timestamp": 1594512000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2020,
+                7,
+                12
+              ]
+            ],
+            "date-time": "2020-07-12T00:00:00Z",
+            "timestamp": 1594512000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "32655132",
+      "pmcid": "PMC7354990",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.nature.com/articles/s41398-020-00890-7.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41398-020-00890-7"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7354990"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7354990?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "1",
+        "volume": "10",
+        "journalIssueId": 2973628,
+        "dateOfPublication": "2020 Jul",
+        "monthOfPublication": 7,
+        "yearOfPublication": 2020,
+        "journal": {
+          "medlineAbbreviation": "Transl Psychiatry",
+          "title": "Translational psychiatry",
+          "essn": "2158-3188",
+          "issn": "2158-3188",
+          "isoabbreviation": "Transl Psychiatry",
+          "nlmid": "101562664"
+        },
+        "printPublicationDate": "2020-07-01"
+      },
+      "originalTitle": "Intranasal oxytocin increases heart-rate variability in men at clinical high risk for psychosis: a proof-of-concept study",
+      "originalJournal": "Nature",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "1684854f35970e1e5e59e880323a9bdd3ed3c024819972f6ce31df162b47d441"
+    },
+    {
+      "doi": "10.1038/s41386-019-0584-4",
+      "publisherURL": null,
+      "existingRecordId": "pmid-31794974",
+      "title": "One-year clinical outcomes following theta burst stimulation for post-traumatic stress disorder",
+      "journal": "Neuropsychopharmacology",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2019,
+      "authors": "Nicholas J. Petrosino; Mascha van ’t Wout-Frank; Emily Aiken; Hannah R. Swearingen; Jennifer Barredo; Amin Zandvakili; Noah S. Philip",
+      "citations": 42,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                12,
+                3
+              ]
+            ],
+            "date-time": "2019-12-03T00:00:00Z",
+            "timestamp": 1575331200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                12,
+                3
+              ]
+            ],
+            "date-time": "2019-12-03T00:00:00Z",
+            "timestamp": 1575331200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "31794974",
+      "pmcid": "PMC7162862",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.nature.com/articles/s41386-019-0584-4.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41386-019-0584-4"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7162862"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7162862?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "6",
+        "volume": "45",
+        "journalIssueId": 2943464,
+        "dateOfPublication": "2020 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2020,
+        "journal": {
+          "medlineAbbreviation": "Neuropsychopharmacology",
+          "title": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+          "essn": "1740-634X",
+          "issn": "0893-133X",
+          "isoabbreviation": "Neuropsychopharmacology",
+          "nlmid": "8904907"
+        },
+        "printPublicationDate": "2020-05-01"
+      },
+      "originalTitle": "One-year clinical outcomes following theta burst stimulation for post-traumatic stress disorder",
+      "originalJournal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "5cb8bbe098abf1405c2ac854184559a97572210814fecedcf744ff507b982071"
+    },
+    {
+      "doi": "10.1038/srep00571",
+      "publisherURL": null,
+      "existingRecordId": "pmid-22891157",
+      "title": "Finding low-energy conformations of lattice protein models by quantum annealing",
+      "journal": "Scientific Reports",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2012,
+      "authors": "Alejandro Perdomo-Ortiz; Neil Dickson; Marshall Drew-Brook; Geordie Rose; Alán Aspuru-Guzik",
+      "citations": 310,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                8,
+                13
+              ]
+            ],
+            "date-time": "2012-08-13T00:00:00Z",
+            "timestamp": 1344816000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                8,
+                13
+              ]
+            ],
+            "date-time": "2012-08-13T00:00:00Z",
+            "timestamp": 1344816000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+        }
+      ],
+      "pmid": "22891157",
+      "pmcid": "PMC3417777",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/srep00571"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3417777"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3417777?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "2",
+        "journalIssueId": 1895123,
+        "dateOfPublication": "2012 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2012,
+        "journal": {
+          "medlineAbbreviation": "Sci Rep",
+          "title": "Scientific reports",
+          "essn": "2045-2322",
+          "issn": "2045-2322",
+          "isoabbreviation": "Sci Rep",
+          "nlmid": "101563288"
+        },
+        "printPublicationDate": "2012-01-01"
+      },
+      "originalTitle": "Finding low-energy conformations of lattice protein models by quantum annealing",
+      "originalJournal": "Nature",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "ceb98929950f9f7b32f35414666311b8c78fea14a6976c999db6aafaf3f3ad00"
+    },
+    {
+      "doi": "10.1038/sj.jhh.1001148",
+      "publisherURL": null,
+      "existingRecordId": "pmid-11319676",
+      "title": "Treating hypertension with a device that slows and regularises breathing: a randomised, double-blind controlled study",
+      "journal": "Journal of Human Hypertension",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2001,
+      "authors": "MH Schein; B Gavish; M Herz; D Rosner-Kahana; P Naveh; B Knishkowy; E Zlotnikov; N Ben-Zvi; RN Melmed",
+      "citations": 128,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2001,
+                4,
+                1
+              ]
+            ],
+            "date-time": "2001-04-01T00:00:00Z",
+            "timestamp": 986083200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.springer.com/tdm"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2001,
+                4,
+                1
+              ]
+            ],
+            "date-time": "2001-04-01T00:00:00Z",
+            "timestamp": 986083200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.springer.com/tdm"
+        }
+      ],
+      "pmid": "11319676",
+      "pmcid": null,
+      "pubTypes": {
+        "pubType": [
+          "Clinical Trial",
+          "Research Support, Non-U.S. Gov't",
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/sj.jhh.1001148"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "4",
+        "volume": "15",
+        "journalIssueId": 967503,
+        "dateOfPublication": "2001 Apr",
+        "monthOfPublication": 4,
+        "yearOfPublication": 2001,
+        "journal": {
+          "medlineAbbreviation": "J Hum Hypertens",
+          "title": "Journal of human hypertension",
+          "essn": "1476-5527",
+          "issn": "0950-9240",
+          "nlmid": "8811625",
+          "isoabbreviation": "J Hum Hypertens"
+        },
+        "printPublicationDate": "2001-04-01"
+      },
+      "originalTitle": "Treating hypertension with a device that slows and regularises breathing: a randomised, double-blind controlled study",
+      "originalJournal": "Nature",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "32b1428b70a1de57e71506b1577c2b9bf5240976db69f458956d02a568500feb"
+    },
+    {
+      "doi": "10.1038/ajh.2009.184",
+      "publisherURL": null,
+      "existingRecordId": "src-56e515aacddb",
+      "title": "A Randomized Controlled Trial on Effects of the Transcendental Meditation Program on Blood Pressure, Psychological Distress, and Coping in Young Adults",
+      "journal": "American Journal of Hypertension",
+      "publisher": "Oxford University Press (OUP)",
+      "year": 2009,
+      "authors": "S. I. Nidich; M. V. Rainforth; D. A. F. Haaga; J. Hagelin; J. W. Salerno; F. Travis; M. Tanner; C. Gaylord-King; S. Grosswald; R. H. Schneider",
+      "citations": 140,
+      "licenses": [],
+      "pmid": "19798037",
+      "pmcid": "PMC3128829",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Randomized Controlled Trial",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://europepmc.org/articles/pmc3128829?pdf=render"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/ajh.2009.184"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3128829"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3128829?pdf=render"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/ajh.2009.184"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "12",
+        "volume": "22",
+        "journalIssueId": 1666487,
+        "dateOfPublication": "2009 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2009,
+        "journal": {
+          "medlineAbbreviation": "Am J Hypertens",
+          "title": "American journal of hypertension",
+          "essn": "1941-7225",
+          "issn": "0895-7061",
+          "isoabbreviation": "Am J Hypertens",
+          "nlmid": "8803676"
+        },
+        "printPublicationDate": "2009-12-01"
+      },
+      "originalTitle": "A Randomized Controlled Trial on Effects of the Transcendental Meditation Program on Blood Pressure, Psychological Distress, and Coping in Young Adults",
+      "originalJournal": "American Journal of Hypertension",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "6197f3ac4fbbc5d0d8d4326349c3e120f976728d58301ebf3731538b40d182d9"
+    },
+    {
+      "doi": "10.1038/s41398-019-0658-4",
+      "publisherURL": null,
+      "existingRecordId": "src-ebacdf327973",
+      "title": "Effects of intranasal oxytocin administration on empathy and approach motivation in women with borderline personality disorder: a randomized controlled trial",
+      "journal": "Translational Psychiatry",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2019,
+      "authors": "Gregor Domes; Nicole Ower; Bernadette von Dawans; Franny B. Spengler; Isabel Dziobek; Martin Bohus; Swantje Matthies; Alexandra Philipsen; Markus Heinrichs",
+      "citations": 46,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                12,
+                4
+              ]
+            ],
+            "date-time": "2019-12-04T00:00:00Z",
+            "timestamp": 1575417600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                12,
+                4
+              ]
+            ],
+            "date-time": "2019-12-04T00:00:00Z",
+            "timestamp": 1575417600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "31801937",
+      "pmcid": "PMC6892895",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.nature.com/articles/s41398-019-0658-4.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41398-019-0658-4"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6892895"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6892895?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "1",
+        "volume": "9",
+        "journalIssueId": 2887500,
+        "dateOfPublication": "2019 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2019,
+        "journal": {
+          "medlineAbbreviation": "Transl Psychiatry",
+          "title": "Translational psychiatry",
+          "essn": "2158-3188",
+          "issn": "2158-3188",
+          "isoabbreviation": "Transl Psychiatry",
+          "nlmid": "101562664"
+        },
+        "printPublicationDate": "2019-12-01"
+      },
+      "originalTitle": "Effects of intranasal oxytocin administration on empathy and approach motivation in women with borderline personality disorder: a randomized controlled trial",
+      "originalJournal": "Nature",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "230627ff33da950ebabad49a56a75a3a44dd572eaea6af72f75709d9cb9a2ff0"
+    },
+    {
+      "doi": "10.1038/s41598-018-20932-x",
+      "publisherURL": null,
+      "existingRecordId": "src-d1eaa478462e",
+      "title": "Long-Term Study of Heart Rate Variability Responses to Changes in the Solar and Geomagnetic Environment",
+      "journal": "Scientific Reports",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2018,
+      "authors": "Abdullah Alabdulgader; Rollin McCraty; Michael Atkinson; York Dobyns; Alfonsas Vainoras; Minvydas Ragulskis; Viktor Stolc",
+      "citations": 103,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                2,
+                8
+              ]
+            ],
+            "date-time": "2018-02-08T00:00:00Z",
+            "timestamp": 1518048000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                2,
+                8
+              ]
+            ],
+            "date-time": "2018-02-08T00:00:00Z",
+            "timestamp": 1518048000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "29422633",
+      "pmcid": "PMC5805718",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41598-018-20932-x"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5805718"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5805718?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "1",
+        "volume": "8",
+        "journalIssueId": 2645780,
+        "dateOfPublication": "2018 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2018,
+        "journal": {
+          "medlineAbbreviation": "Sci Rep",
+          "title": "Scientific reports",
+          "essn": "2045-2322",
+          "issn": "2045-2322",
+          "isoabbreviation": "Sci Rep",
+          "nlmid": "101563288"
+        },
+        "printPublicationDate": "2018-02-01"
+      },
+      "originalTitle": "Long ‐ Term Study of Heart Rate Variability Responses to Changes in the Solar and Geomagnetic Environment",
+      "originalJournal": "Scientific Reports",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "4bd590fde70a230b841a2b95d3deb7816287ea7fa75ce3b42c56a66e3cf03877"
+    },
+    {
+      "doi": "10.1038/s41592-020-01004-3",
+      "publisherURL": null,
+      "existingRecordId": "src-0096ffba98ce",
+      "title": "Quantum computing at the frontiers of biological sciences",
+      "journal": "Nature Methods",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2021,
+      "authors": "Prashant S. Emani; Jonathan Warrell; Alan Anticevic; Stefan Bekiranov; Michael Gandal; Michael J. McConnell; Guillermo Sapiro; Alán Aspuru-Guzik; Justin T. Baker; Matteo Bastiani; John D. Murray; Stamatios N. Sotiropoulos; Jacob Taylor; Geetha Senthil; Thomas Lehner; Mark B. Gerstein; Aram W. Harrow",
+      "citations": 135,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                1,
+                4
+              ]
+            ],
+            "date-time": "2021-01-04T00:00:00Z",
+            "timestamp": 1609718400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.springer.com/tdm"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                1,
+                4
+              ]
+            ],
+            "date-time": "2021-01-04T00:00:00Z",
+            "timestamp": 1609718400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.springer.com/tdm"
+        }
+      ],
+      "pmid": "33398186",
+      "pmcid": "PMC8254820",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://nottingham-repository.worktribe.com/preview/4986160/49004_2_merged_1595817186.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41592-020-01004-3"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC8254820"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC8254820?pdf=render"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41592-020-01004-3"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "7",
+        "volume": "18",
+        "journalIssueId": 3199401,
+        "dateOfPublication": "2021 Jul",
+        "monthOfPublication": 7,
+        "yearOfPublication": 2021,
+        "journal": {
+          "medlineAbbreviation": "Nat Methods",
+          "title": "Nature methods",
+          "essn": "1548-7105",
+          "issn": "1548-7091",
+          "nlmid": "101215604",
+          "isoabbreviation": "Nat Methods"
+        },
+        "printPublicationDate": "2021-07-01"
+      },
+      "originalTitle": "Quantum Computing at the Frontiers of Biological Sciences",
+      "originalJournal": "ArXiv Quantum Physics",
+      "similarity": 1.0
+    },
+    {
+      "doi": "10.1038/eye.2016.160",
+      "publisherURL": null,
+      "existingRecordId": "src-1023e40a3842",
+      "title": "The effect of music with and without binaural beat audio on operative anxiety in patients undergoing cataract surgery: a randomized controlled trial",
+      "journal": "Eye",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2016,
+      "authors": "D Wiwatwongwana; P Vichitvejpaisal; L Thaikruea; J Klaphajone; A Tantong; A Wiwatwongwana",
+      "citations": 100,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                10,
+                14
+              ]
+            ],
+            "date-time": "2016-10-14T00:00:00Z",
+            "timestamp": 1476403200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "pmid": "27740618",
+      "pmcid": "PMC5108018",
+      "pubTypes": {
+        "pubType": [
+          "other",
+          "Comparative Study",
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/eye.2016.160"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5108018"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5108018?pdf=render"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/eye.2016.160"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "11",
+        "volume": "30",
+        "journalIssueId": 2488640,
+        "dateOfPublication": "2016 Nov",
+        "monthOfPublication": 11,
+        "yearOfPublication": 2016,
+        "journal": {
+          "medlineAbbreviation": "Eye (Lond)",
+          "title": "Eye (London, England)",
+          "essn": "1476-5454",
+          "issn": "0950-222X",
+          "nlmid": "8703986",
+          "isoabbreviation": "Eye (Lond)"
+        },
+        "printPublicationDate": "2016-11-01"
+      },
+      "originalTitle": "The effect of music with and without binaural beat audio on operative anxiety in patients undergoing cataract surgery: a randomized controlled trial",
+      "originalJournal": "Nature",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "944f03fdf3d99acf60106a63ac3bc69c2ebab05de7f98a9b4fafe734e32dec6a"
+    },
+    {
+      "doi": "10.1038/s41598-019-43697-3",
+      "publisherURL": null,
+      "existingRecordId": "src-199d07efad3e",
+      "title": "Α Quantum Pattern Recognition Method for Improving Pairwise Sequence Alignment",
+      "journal": "Scientific Reports",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2019,
+      "authors": "Konstantinos Prousalis; Nikos Konofaos",
+      "citations": 31,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                5,
+                10
+              ]
+            ],
+            "date-time": "2019-05-10T00:00:00Z",
+            "timestamp": 1557446400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                5,
+                10
+              ]
+            ],
+            "date-time": "2019-05-10T00:00:00Z",
+            "timestamp": 1557446400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "31076611",
+      "pmcid": "PMC6510764",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41598-019-43697-3"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6510764"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6510764?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "1",
+        "volume": "9",
+        "journalIssueId": 2810580,
+        "dateOfPublication": "2019 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2019,
+        "journal": {
+          "medlineAbbreviation": "Sci Rep",
+          "title": "Scientific reports",
+          "essn": "2045-2322",
+          "issn": "2045-2322",
+          "nlmid": "101563288",
+          "isoabbreviation": "Sci Rep"
+        },
+        "printPublicationDate": "2019-05-01"
+      },
+      "originalTitle": "Α Quantum Pattern Recognition Method for Improving Pairwise Sequence Alignment",
+      "originalJournal": "Nature",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "aa33006b013d05b6b665964be8804d2b7bd83803437d38719fca787284f5b173"
+    },
+    {
+      "doi": "10.1038/nature05526",
+      "publisherURL": "https://www.nature.com/articles/nature05526",
+      "existingRecordId": null,
+      "title": "CD38 is critical for social behaviour by regulating oxytocin secretion",
+      "journal": "Nature",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2007,
+      "authors": "Duo Jin; Hong-Xiang Liu; Hirokazu Hirai; Takashi Torashima; Taku Nagai; Olga Lopatina; Natalia A. Shnayder; Kiyofumi Yamada; Mami Noda; Toshihiro Seike; Kyota Fujita; Shin Takasawa; Shigeru Yokoyama; Keita Koizumi; Yoshitake Shiraishi; Shigenori Tanaka; Minako Hashii; Toru Yoshihara; Kazuhiro Higashida; Mohammad Saharul Islam; Nobuaki Yamada; Kenshi Hayashi; Naoya Noguchi; Ichiro Kato; Hiroshi Okamoto; Akihiro Matsushima; Alla Salmina; Toshio Munesue; Nobuaki Shimizu; Sumiko Mochida; Masahide Asano; Haruhiro Higashida",
+      "citations": 585,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2007,
+                2,
+                7
+              ]
+            ],
+            "date-time": "2007-02-07T00:00:00Z",
+            "timestamp": 1170806400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "pmid": "17287729",
+      "pmcid": null,
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/nature05526"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "7131",
+        "volume": "446",
+        "journalIssueId": 1380564,
+        "dateOfPublication": "2007 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2007,
+        "journal": {
+          "medlineAbbreviation": "Nature",
+          "title": "Nature",
+          "essn": "1476-4687",
+          "issn": "0028-0836",
+          "isoabbreviation": "Nature",
+          "nlmid": "0410462"
+        },
+        "printPublicationDate": "2007-03-01"
+      },
+      "abstractReviewedSHA256": "6ee37cf4c56aba68c2df9e75ec902133aef2f82d2b5d855553ca031c60851697"
+    },
+    {
+      "doi": "10.1038/nature12518",
+      "publisherURL": "https://www.nature.com/articles/nature12518",
+      "existingRecordId": null,
+      "title": "Social reward requires coordinated activity of nucleus accumbens oxytocin and serotonin",
+      "journal": "Nature",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2013,
+      "authors": "Gül Dölen; Ayeh Darvishzadeh; Kee Wui Huang; Robert C. Malenka",
+      "citations": 1160,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2013,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2013-09-01T00:00:00Z",
+            "timestamp": 1377993600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "pmid": "24025838",
+      "pmcid": "PMC4091761",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/nature12518"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4091761"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4091761?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "7466",
+        "volume": "501",
+        "journalIssueId": 2074971,
+        "dateOfPublication": "2013 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2013,
+        "journal": {
+          "medlineAbbreviation": "Nature",
+          "title": "Nature",
+          "essn": "1476-4687",
+          "issn": "0028-0836",
+          "isoabbreviation": "Nature",
+          "nlmid": "0410462"
+        },
+        "printPublicationDate": "2013-09-01"
+      },
+      "abstractReviewedSHA256": "965a94dee7b8eaac9cafe3fdcc4442e092ec8621157e3eb611292438fa72a59e"
+    },
+    {
+      "doi": "10.1038/mp.2012.103",
+      "publisherURL": "https://www.nature.com/articles/mp2012103",
+      "existingRecordId": null,
+      "title": "Evidence for the existence of dopamine d2-oxytocin receptor heteromers in the ventral and dorsal striatum with facilitatory receptor–receptor interactions",
+      "journal": "Molecular Psychiatry",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2012,
+      "authors": "W Romero-Fernandez; D O Borroto-Escuela; L F Agnati; K Fuxe",
+      "citations": 149,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                7,
+                24
+              ]
+            ],
+            "date-time": "2012-07-24T00:00:00Z",
+            "timestamp": 1343088000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.springer.com/tdm"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                7,
+                24
+              ]
+            ],
+            "date-time": "2012-07-24T00:00:00Z",
+            "timestamp": 1343088000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.springer.com/tdm"
+        }
+      ],
+      "pmid": "22824810",
+      "pmcid": null,
+      "pubTypes": {
+        "pubType": [
+          "Letter",
+          "Research Support, Non-U.S. Gov't"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.nature.com/articles/mp2012103.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/mp.2012.103"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "8",
+        "volume": "18",
+        "journalIssueId": 2060529,
+        "dateOfPublication": "2013 Aug",
+        "monthOfPublication": 8,
+        "yearOfPublication": 2013,
+        "journal": {
+          "medlineAbbreviation": "Mol Psychiatry",
+          "title": "Molecular psychiatry",
+          "essn": "1476-5578",
+          "issn": "1359-4184",
+          "isoabbreviation": "Mol Psychiatry",
+          "nlmid": "9607835"
+        },
+        "printPublicationDate": "2013-08-01"
+      }
+    },
+    {
+      "doi": "10.1038/s41583-018-0072-6",
+      "publisherURL": "https://www.nature.com/articles/s41583-018-0072-6",
+      "existingRecordId": null,
+      "title": "The neural mechanisms and circuitry of the pair bond",
+      "journal": "Nature Reviews Neuroscience",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2018,
+      "authors": "Hasse Walum; Larry J. Young",
+      "citations": 346,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                10,
+                9
+              ]
+            ],
+            "date-time": "2018-10-09T00:00:00Z",
+            "timestamp": 1539043200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "pmid": "30301953",
+      "pmcid": "PMC6283620",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Review",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41583-018-0072-6"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6283620"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6283620?pdf=render"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41583-018-0072-6"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "11",
+        "volume": "19",
+        "journalIssueId": 2740341,
+        "dateOfPublication": "2018 Nov",
+        "monthOfPublication": 11,
+        "yearOfPublication": 2018,
+        "journal": {
+          "medlineAbbreviation": "Nat Rev Neurosci",
+          "title": "Nature reviews. Neuroscience",
+          "essn": "1471-0048",
+          "issn": "1471-003X",
+          "isoabbreviation": "Nat Rev Neurosci",
+          "nlmid": "100962781"
+        },
+        "printPublicationDate": "2018-11-01"
+      },
+      "abstractReviewedSHA256": "17102f1a1045fbfdf885ffdd79a514e5cd76ede794928590e65f7a3fcc1328c8"
+    },
+    {
+      "doi": "10.1038/s41467-020-15659-1",
+      "publisherURL": "https://www.nature.com/articles/s41467-020-15659-1",
+      "existingRecordId": null,
+      "title": "Quantitative cellular-resolution map of the oxytocin receptor in postnatally developing mouse brains",
+      "journal": "Nature Communications",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2020,
+      "authors": "Kyra T. Newmaster; Zachary T. Nolan; Uree Chon; Daniel J. Vanselow; Abigael R. Weit; Manal Tabbaa; Shizu Hidema; Katsuhiko Nishimori; Elizabeth A. D. Hammock; Yongsoo Kim",
+      "citations": 124,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2020,
+                4,
+                20
+              ]
+            ],
+            "date-time": "2020-04-20T00:00:00Z",
+            "timestamp": 1587340800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2020,
+                4,
+                20
+              ]
+            ],
+            "date-time": "2020-04-20T00:00:00Z",
+            "timestamp": 1587340800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "32313029",
+      "pmcid": "PMC7171089",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.nature.com/articles/s41467-020-15659-1.pdf"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.nature.com/articles/s41467-020-15659-1.pdf"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.nature.com/articles/s41467-020-15659-1.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41467-020-15659-1"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7171089"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC7171089?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "1",
+        "volume": "11",
+        "journalIssueId": 2931277,
+        "dateOfPublication": "2020 Apr",
+        "monthOfPublication": 4,
+        "yearOfPublication": 2020,
+        "journal": {
+          "medlineAbbreviation": "Nat Commun",
+          "title": "Nature communications",
+          "essn": "2041-1723",
+          "issn": "2041-1723",
+          "isoabbreviation": "Nat Commun",
+          "nlmid": "101528555"
+        },
+        "printPublicationDate": "2020-04-01"
+      },
+      "abstractReviewedSHA256": "6cc5fe0a97ee5ba85b31f0b688a27243425a59a4ac8e261cd36e07ee342a964e"
+    },
+    {
+      "doi": "10.1038/nn.3634",
+      "publisherURL": "https://www.nature.com/articles/nn.3634",
+      "existingRecordId": null,
+      "title": "Oxytocin mediates early experience–dependent cross-modal plasticity in the sensory cortices",
+      "journal": "Nature Neuroscience",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2014,
+      "authors": "Jing-Jing Zheng; Shu-Jing Li; Xiao-Di Zhang; Wan-Ying Miao; Dinghong Zhang; Haishan Yao; Xiang Yu",
+      "citations": 198,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2014,
+                1,
+                26
+              ]
+            ],
+            "date-time": "2014-01-26T00:00:00Z",
+            "timestamp": 1390694400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "pmid": "24464043",
+      "pmcid": null,
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/nn.3634"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "3",
+        "volume": "17",
+        "journalIssueId": 2132576,
+        "dateOfPublication": "2014 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2014,
+        "journal": {
+          "medlineAbbreviation": "Nat Neurosci",
+          "title": "Nature neuroscience",
+          "essn": "1546-1726",
+          "issn": "1097-6256",
+          "nlmid": "9809671",
+          "isoabbreviation": "Nat Neurosci"
+        },
+        "printPublicationDate": "2014-03-01"
+      },
+      "abstractReviewedSHA256": "54bac895a106cf446656fc3505f6bbbd367949c2ef3159f038ef3a46d82c5cfd"
+    },
+    {
+      "doi": "10.1038/s41586-019-1075-9",
+      "publisherURL": "https://www.nature.com/articles/s41586-019-1075-9",
+      "existingRecordId": null,
+      "title": "Oxytocin-dependent reopening of a social reward learning critical period with MDMA",
+      "journal": "Nature",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2019,
+      "authors": "Romain Nardou; Eastman M. Lewis; Rebecca Rothhaas; Ran Xu; Aimei Yang; Edward Boyden; Gül Dölen",
+      "citations": 308,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                4,
+                3
+              ]
+            ],
+            "date-time": "2019-04-03T00:00:00Z",
+            "timestamp": 1554249600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "pmid": "30944474",
+      "pmcid": null,
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41586-019-1075-9"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "7754",
+        "volume": "569",
+        "journalIssueId": 2809613,
+        "dateOfPublication": "2019 May",
+        "monthOfPublication": 5,
+        "yearOfPublication": 2019,
+        "journal": {
+          "medlineAbbreviation": "Nature",
+          "title": "Nature",
+          "essn": "1476-4687",
+          "issn": "0028-0836",
+          "isoabbreviation": "Nature",
+          "nlmid": "0410462"
+        },
+        "printPublicationDate": "2019-05-01"
+      },
+      "abstractReviewedSHA256": "12a347256bb60415cc8e7960edb2602a7b6677eca34d2555d1605852df0cf072"
+    },
+    {
+      "doi": "10.1038/nn.2270",
+      "publisherURL": "https://www.nature.com/articles/nn.2270",
+      "existingRecordId": null,
+      "title": "Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood abuse",
+      "journal": "Nature Neuroscience",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2009,
+      "authors": "Patrick O McGowan; Aya Sasaki; Ana C D'Alessio; Sergiy Dymov; Benoit Labonté; Moshe Szyf; Gustavo Turecki; Michael J Meaney",
+      "citations": 2913,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2009,
+                2,
+                22
+              ]
+            ],
+            "date-time": "2009-02-22T00:00:00Z",
+            "timestamp": 1235260800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "pmid": "19234457",
+      "pmcid": "PMC2944040",
+      "pubTypes": {
+        "pubType": [
+          "Comparative Study",
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "Unpaywall",
+            "url": "https://doi.org/10.1038/nn.2270"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/nn.2270"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC2944040"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC2944040?pdf=render"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/nn.2270"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "3",
+        "volume": "12",
+        "journalIssueId": 1600240,
+        "dateOfPublication": "2009 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2009,
+        "journal": {
+          "medlineAbbreviation": "Nat Neurosci",
+          "title": "Nature neuroscience",
+          "essn": "1546-1726",
+          "issn": "1097-6256",
+          "isoabbreviation": "Nat Neurosci",
+          "nlmid": "9809671"
+        },
+        "printPublicationDate": "2009-03-01"
+      },
+      "abstractReviewedSHA256": "76b867f826ad27e6d962671006ee38dd2fd6b5d297e06c449db00e20dc2ebbe9"
+    },
+    {
+      "doi": "10.1038/s41593-017-0010-3",
+      "publisherURL": "https://www.nature.com/articles/s41593-017-0010-3",
+      "existingRecordId": null,
+      "title": "Social stress induces neurovascular pathology promoting depression",
+      "journal": "Nature Neuroscience",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2017,
+      "authors": "Caroline Menard; Madeline L. Pfau; Georgia E. Hodes; Veronika Kana; Victoria X. Wang; Sylvain Bouchard; Aki Takahashi; Meghan E. Flanigan; Hossein Aleyasin; Katherine B. LeClair; William G. Janssen; Benoit Labonté; Eric M. Parise; Zachary S. Lorsch; Sam A. Golden; Mitra Heshmati; Carol Tamminga; Gustavo Turecki; Matthew Campbell; Zahi A. Fayad; Cheuk Ying Tang; Miriam Merad; Scott J. Russo",
+      "citations": 971,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                11,
+                13
+              ]
+            ],
+            "date-time": "2017-11-13T00:00:00Z",
+            "timestamp": 1510531200000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "pmid": "29184215",
+      "pmcid": "PMC5726568",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41593-017-0010-3"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5726568"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5726568?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "12",
+        "volume": "20",
+        "journalIssueId": 2622943,
+        "dateOfPublication": "2017 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2017,
+        "journal": {
+          "medlineAbbreviation": "Nat Neurosci",
+          "title": "Nature neuroscience",
+          "essn": "1546-1726",
+          "issn": "1097-6256",
+          "isoabbreviation": "Nat Neurosci",
+          "nlmid": "9809671"
+        },
+        "printPublicationDate": "2017-12-01"
+      },
+      "abstractReviewedSHA256": "a024f624a77288f18773a4822c9a0bd82e706885d917ec6200fc55bda2eca33d"
+    },
+    {
+      "doi": "10.1038/nrn2153",
+      "publisherURL": "https://www.nature.com/articles/nrn2153",
+      "existingRecordId": null,
+      "title": "NMDA receptor trafficking in synaptic plasticity and neuropsychiatric disorders",
+      "journal": "Nature Reviews Neuroscience",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2007,
+      "authors": "C. Geoffrey Lau; R. Suzanne Zukin",
+      "citations": 993,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2007,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2007-06-01T00:00:00Z",
+            "timestamp": 1180656000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.springer.com/tdm"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2007,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2007-06-01T00:00:00Z",
+            "timestamp": 1180656000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.springer.com/tdm"
+        }
+      ],
+      "pmid": "17514195",
+      "pmcid": null,
+      "pubTypes": {
+        "pubType": [
+          "Review",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/nrn2153"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "6",
+        "volume": "8",
+        "journalIssueId": 1396134,
+        "dateOfPublication": "2007 Jun",
+        "monthOfPublication": 6,
+        "yearOfPublication": 2007,
+        "journal": {
+          "medlineAbbreviation": "Nat Rev Neurosci",
+          "title": "Nature reviews. Neuroscience",
+          "essn": "1471-0048",
+          "issn": "1471-003X",
+          "nlmid": "100962781",
+          "isoabbreviation": "Nat Rev Neurosci"
+        },
+        "printPublicationDate": "2007-06-01"
+      },
+      "abstractReviewedSHA256": "ee789b6400fd735fe2a51a7384d519651663cf16c24b49e59e34cba9cc80c5c2"
+    },
+    {
+      "doi": "10.1038/s41380-023-02309-3",
+      "publisherURL": "https://www.nature.com/articles/s41380-023-02309-3",
+      "existingRecordId": null,
+      "title": "Functional involvement of septal miR-132 in extinction and oxytocin-mediated reversal of social fear",
+      "journal": "Molecular Psychiatry",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2023,
+      "authors": "Anna Bludau; Uwe Schwartz; Daniela M. Zeitler; Melanie Royer; Gunter Meister; Inga D. Neumann; Rohit Menon",
+      "citations": 14,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                11,
+                8
+              ]
+            ],
+            "date-time": "2023-11-08T00:00:00Z",
+            "timestamp": 1699401600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                11,
+                8
+              ]
+            ],
+            "date-time": "2023-11-08T00:00:00Z",
+            "timestamp": 1699401600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "37938765",
+      "pmcid": "PMC11371636",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41380-023-02309-3"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11371636"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11371636?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "6",
+        "volume": "29",
+        "journalIssueId": 3823435,
+        "dateOfPublication": "2024 Jun",
+        "monthOfPublication": 6,
+        "yearOfPublication": 2024,
+        "journal": {
+          "medlineAbbreviation": "Mol Psychiatry",
+          "title": "Molecular psychiatry",
+          "essn": "1476-5578",
+          "issn": "1359-4184",
+          "isoabbreviation": "Mol Psychiatry",
+          "nlmid": "9607835"
+        },
+        "printPublicationDate": "2024-06-01"
+      },
+      "abstractReviewedSHA256": "1dcbb7982a3b003f0bd1f1d5a532ac47d349a9b85d253ddde25e2ec422ff7ee5"
+    },
+    {
+      "doi": "10.1038/s41386-024-01996-y",
+      "publisherURL": "https://www.nature.com/articles/s41386-024-01996-y",
+      "existingRecordId": null,
+      "title": "Effects of intranasal oxytocin on fear extinction learning",
+      "journal": "Neuropsychopharmacology",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2024,
+      "authors": "Mahmoud Rashidi; Joe J. Simon; Katja Bertsch; Gerhard Vincent Wegen; Beate Ditzen; Herta Flor; Valery Grinevich; Robert Christian Wolf; Sabine C. Herpertz",
+      "citations": 8,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                9,
+                24
+              ]
+            ],
+            "date-time": "2024-09-24T00:00:00Z",
+            "timestamp": 1727136000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                9,
+                24
+              ]
+            ],
+            "date-time": "2024-09-24T00:00:00Z",
+            "timestamp": 1727136000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "39313675",
+      "pmcid": "PMC11735929",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41386-024-01996-y"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11735929"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11735929?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "3",
+        "volume": "50",
+        "journalIssueId": 3887983,
+        "dateOfPublication": "2025 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2025,
+        "journal": {
+          "medlineAbbreviation": "Neuropsychopharmacology",
+          "title": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+          "essn": "1740-634X",
+          "issn": "0893-133X",
+          "nlmid": "8904907",
+          "isoabbreviation": "Neuropsychopharmacology"
+        },
+        "printPublicationDate": "2025-02-01"
+      },
+      "abstractReviewedSHA256": "ab825eedd2e80c69ea3fc372fe28b43a23ec7717e8eb7bae53f11b75d79ea8f5"
+    },
+    {
+      "doi": "10.1038/s41598-026-38976-9",
+      "publisherURL": "https://www.nature.com/articles/s41598-026-38976-9",
+      "existingRecordId": null,
+      "title": "Interdependency between oxytocin and dopamine in trust-based learning in mice",
+      "journal": "Scientific Reports",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2026,
+      "authors": "Samuel Budniok; Zsuzsanna Callaerts-Vegh; Marian Bakermans-Kranenburg; Guy Bosmans; Rudi D’Hooge",
+      "citations": 1,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                2,
+                9
+              ]
+            ],
+            "date-time": "2026-02-09T00:00:00Z",
+            "timestamp": 1770595200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                3,
+                3
+              ]
+            ],
+            "date-time": "2026-03-03T00:00:00Z",
+            "timestamp": 1772496000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 22,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+        }
+      ],
+      "pmid": "41663511",
+      "pmcid": "PMC12957489",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41598-026-38976-9"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12957489"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12957489?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "1",
+        "volume": "16",
+        "journalIssueId": 4112047,
+        "dateOfPublication": "2026 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Sci Rep",
+          "title": "Scientific reports",
+          "essn": "2045-2322",
+          "issn": "2045-2322",
+          "isoabbreviation": "Sci Rep",
+          "nlmid": "101563288"
+        },
+        "printPublicationDate": "2026-02-01"
+      },
+      "abstractReviewedSHA256": "f3b28055b04afd983e0a577af501cb72e618e3bbfd42226a480aca41b358eb28"
+    },
+    {
+      "doi": "10.1038/s41586-023-06540-4",
+      "publisherURL": "https://www.nature.com/articles/s41586-023-06540-4",
+      "existingRecordId": null,
+      "title": "Neural circuitry for maternal oxytocin release induced by infant cries",
+      "journal": "Nature",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2023,
+      "authors": "Silvana Valtcheva; Habon A. Issa; Chloe J. Bair-Marshall; Kathleen A. Martin; Kanghoon Jung; Yiyao Zhang; Hyung-Bae Kwon; Robert C. Froemke",
+      "citations": 110,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                9,
+                20
+              ]
+            ],
+            "date-time": "2023-09-20T00:00:00Z",
+            "timestamp": 1695168000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                9,
+                20
+              ]
+            ],
+            "date-time": "2023-09-20T00:00:00Z",
+            "timestamp": 1695168000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        }
+      ],
+      "pmid": "37730989",
+      "pmcid": "PMC10639004",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Research Support, U.S. Gov't, Non-P.H.S.",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.researchsquare.com/article/rs-970204/latest.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41586-023-06540-4"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10639004"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10639004?pdf=render"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41586-023-06540-4"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "7980",
+        "volume": "621",
+        "journalIssueId": 3637207,
+        "dateOfPublication": "2023 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2023,
+        "journal": {
+          "medlineAbbreviation": "Nature",
+          "title": "Nature",
+          "essn": "1476-4687",
+          "issn": "0028-0836",
+          "nlmid": "0410462",
+          "isoabbreviation": "Nature"
+        },
+        "printPublicationDate": "2023-09-01"
+      },
+      "abstractReviewedSHA256": "c8a2cce0a12c7c962129b1734280c4674f3a55cf01b79d6d4991551d8e1e4e61"
+    },
+    {
+      "doi": "10.1038/srep09506",
+      "publisherURL": "https://www.nature.com/articles/srep09506",
+      "existingRecordId": null,
+      "title": "The effect of music performance on the transcriptome of professional musicians",
+      "journal": "Scientific Reports",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2015,
+      "authors": "Chakravarthi Kanduri; Tuire Kuusi; Minna Ahvenainen; Anju K. Philips; Harri Lähdesmäki; Irma Järvelä",
+      "citations": 49,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2015,
+                3,
+                25
+              ]
+            ],
+            "date-time": "2015-03-25T00:00:00Z",
+            "timestamp": 1427241600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2015,
+                3,
+                25
+              ]
+            ],
+            "date-time": "2015-03-25T00:00:00Z",
+            "timestamp": 1427241600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "25806429",
+      "pmcid": "PMC5380155",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/srep09506"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5380155"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5380155?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "5",
+        "journalIssueId": 2474808,
+        "dateOfPublication": "2015 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2015,
+        "journal": {
+          "medlineAbbreviation": "Sci Rep",
+          "title": "Scientific reports",
+          "essn": "2045-2322",
+          "issn": "2045-2322",
+          "nlmid": "101563288",
+          "isoabbreviation": "Sci Rep"
+        },
+        "printPublicationDate": "2015-03-01"
+      },
+      "abstractReviewedSHA256": "d326276a6af119f9d72ea8f5ef5a21928c593f86debbbb713d9e051a788b4d7d"
+    },
+    {
+      "doi": "10.1038/nn.2726",
+      "publisherURL": "https://www.nature.com/articles/nn.2726",
+      "existingRecordId": null,
+      "title": "Anatomically distinct dopamine release during anticipation and experience of peak emotion to music",
+      "journal": "Nature Neuroscience",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2011,
+      "authors": "Valorie N Salimpoor; Mitchel Benovoy; Kevin Larcher; Alain Dagher; Robert J Zatorre",
+      "citations": 1354,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2011,
+                1,
+                9
+              ]
+            ],
+            "date-time": "2011-01-09T00:00:00Z",
+            "timestamp": 1294531200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "pmid": "21217764",
+      "pmcid": null,
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/nn.2726"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "2",
+        "volume": "14",
+        "journalIssueId": 1802841,
+        "dateOfPublication": "2011 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2011,
+        "journal": {
+          "medlineAbbreviation": "Nat Neurosci",
+          "title": "Nature neuroscience",
+          "essn": "1546-1726",
+          "issn": "1097-6256",
+          "nlmid": "9809671",
+          "isoabbreviation": "Nat Neurosci"
+        },
+        "printPublicationDate": "2011-02-01"
+      },
+      "abstractReviewedSHA256": "1d0aa82355f2ae708ddcbded122874babbfb64f7fbcb6df21994ae5779f57c92"
+    },
+    {
+      "doi": "10.1038/s41398-023-02671-4",
+      "publisherURL": "https://www.nature.com/articles/s41398-023-02671-4",
+      "existingRecordId": null,
+      "title": "Biological principles for music and mental health",
+      "journal": "Translational Psychiatry",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2023,
+      "authors": "Daniel L. Bowling",
+      "citations": 51,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                12,
+                4
+              ]
+            ],
+            "date-time": "2023-12-04T00:00:00Z",
+            "timestamp": 1701648000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                12,
+                4
+              ]
+            ],
+            "date-time": "2023-12-04T00:00:00Z",
+            "timestamp": 1701648000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "38049408",
+      "pmcid": "PMC10695969",
+      "pubTypes": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article",
+          "Research Support, N.I.H., Extramural"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.nature.com/articles/s41398-023-02671-4.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41398-023-02671-4"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10695969"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10695969?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "1",
+        "volume": "13",
+        "journalIssueId": 3672521,
+        "dateOfPublication": "2023 Dec",
+        "monthOfPublication": 12,
+        "yearOfPublication": 2023,
+        "journal": {
+          "medlineAbbreviation": "Transl Psychiatry",
+          "title": "Translational psychiatry",
+          "essn": "2158-3188",
+          "issn": "2158-3188",
+          "isoabbreviation": "Transl Psychiatry",
+          "nlmid": "101562664"
+        },
+        "printPublicationDate": "2023-12-01"
+      },
+      "abstractReviewedSHA256": "4bac023fdd77c474e3c9cd26e13df8a201396d1dd9fa9a5d0f21de6f919b753f"
+    },
+    {
+      "doi": "10.1038/nrn3666",
+      "publisherURL": "https://www.nature.com/articles/nrn3666",
+      "existingRecordId": null,
+      "title": "Brain correlates of music-evoked emotions",
+      "journal": "Nature Reviews Neuroscience",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2014,
+      "authors": "Stefan Koelsch",
+      "citations": 1237,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2014,
+                2,
+                20
+              ]
+            ],
+            "date-time": "2014-02-20T00:00:00Z",
+            "timestamp": 1392854400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "pmid": "24552785",
+      "pmcid": null,
+      "pubTypes": {
+        "pubType": [
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/nrn3666"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "3",
+        "volume": "15",
+        "journalIssueId": 2131161,
+        "dateOfPublication": "2014 Mar",
+        "monthOfPublication": 3,
+        "yearOfPublication": 2014,
+        "journal": {
+          "medlineAbbreviation": "Nat Rev Neurosci",
+          "title": "Nature reviews. Neuroscience",
+          "essn": "1471-0048",
+          "issn": "1471-003X",
+          "nlmid": "100962781",
+          "isoabbreviation": "Nat Rev Neurosci"
+        },
+        "printPublicationDate": "2014-03-01"
+      },
+      "abstractReviewedSHA256": "241adffdc16a377dd7b9000a6441c1ad2cb57dcf1d173d7cc37ca9efb48e5dec"
+    },
+    {
+      "doi": "10.1038/s41562-024-01907-7",
+      "publisherURL": "https://www.nature.com/articles/s41562-024-01907-7",
+      "existingRecordId": null,
+      "title": "Self-administered mindfulness interventions reduce stress in a large, randomized controlled multi-site study",
+      "journal": "Nature Human Behaviour",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2024,
+      "authors": "Alessandro Sparacio; Hans IJzerman; Ivan Ropovik; Filippo Giorgini; Christoph Spiessens; Bert N. Uchino; Joshua Landvatter; Tracey Tacana; Sandra J. Diller; Jaye L. Derrick; Joahana Segundo; Jace D. Pierce; Robert M. Ross; Zoë Francis; Amanda LaBoucane; Christine Ma-Kellams; Maire B. Ford; Kathleen Schmidt; Celia C. Wong; Wendy C. Higgins; Bryant M. Stone; Samantha K. Stanley; Gianni Ribeiro; Paul T. Fuglestad; Valerie Jaklin; Andrea Kübler; Philipp Ziebell; Crystal L. Jewell; Yulia Kovas; Mahnoosh Allahghadri; Charlotte Fransham; Michael F. Baranski; Hannah Burgess; Annika B. E. Benz; Maysa DeSousa; Catherine E. Nylin; Janae C. Brooks; Caitlyn M. Goldsmith; Jessica M. Benson; Siobhán M. Griffin; Stephen Dunne; William E. Davis; Tam J. Watermeyer; William B. Meese; Jennifer L. Howell; Laurel Standiford Reyes; Megan G. Strickland; Sally S. Dickerson; Samantha Pescatore; Shayna Skakoon-Sparling; Zachary I. Wunder; Martin V. Day; Shawna Brenton; Audrey H. Linden; Christopher E. Hawk; Léan V. O’Brien; Tenzin Urgyen; Jennifer S. McDonald; Kim Lien van der Schans; Heidi Blocker; Caroline Ng Tseung-Wong; Gabriela M. Jiga-Boy",
+      "citations": 24,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                6,
+                11
+              ]
+            ],
+            "date-time": "2024-06-11T00:00:00Z",
+            "timestamp": 1718064000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                6,
+                11
+              ]
+            ],
+            "date-time": "2024-06-11T00:00:00Z",
+            "timestamp": 1718064000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "38862815",
+      "pmcid": "PMC11420060",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Multicenter Study",
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41562-024-01907-7"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11420060"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC11420060?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "9",
+        "volume": "8",
+        "journalIssueId": 3831773,
+        "dateOfPublication": "2024 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2024,
+        "journal": {
+          "medlineAbbreviation": "Nat Hum Behav",
+          "title": "Nature human behaviour",
+          "essn": "2397-3374",
+          "issn": "2397-3374",
+          "nlmid": "101697750",
+          "isoabbreviation": "Nat Hum Behav"
+        },
+        "printPublicationDate": "2024-09-01"
+      },
+      "abstractReviewedSHA256": "16c68bd7e1963a00cf523231d6cc6491bd5eca9aa08eb3e53ace1b79b441e21f"
+    },
+    {
+      "doi": "10.1038/tp.2016.164",
+      "publisherURL": "https://www.nature.com/articles/tp2016164",
+      "existingRecordId": null,
+      "title": "Meditation and vacation effects have an impact on disease-associated molecular phenotypes",
+      "journal": "Translational Psychiatry",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2016,
+      "authors": "E S Epel; E Puterman; J Lin; E H Blackburn; P Y Lum; N D Beckmann; J Zhu; E Lee; A Gilbert; R A Rissman; R E Tanzi; E E Schadt",
+      "citations": 92,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                8,
+                30
+              ]
+            ],
+            "date-time": "2016-08-30T00:00:00Z",
+            "timestamp": 1472515200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                8,
+                30
+              ]
+            ],
+            "date-time": "2016-08-30T00:00:00Z",
+            "timestamp": 1472515200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "27576169",
+      "pmcid": "PMC5022094",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/tp.2016.164"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5022094"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5022094?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "8",
+        "volume": "6",
+        "journalIssueId": 2499108,
+        "dateOfPublication": "2016 Aug",
+        "monthOfPublication": 8,
+        "yearOfPublication": 2016,
+        "journal": {
+          "medlineAbbreviation": "Transl Psychiatry",
+          "title": "Translational psychiatry",
+          "essn": "2158-3188",
+          "issn": "2158-3188",
+          "isoabbreviation": "Transl Psychiatry",
+          "nlmid": "101562664"
+        },
+        "printPublicationDate": "2016-08-01"
+      },
+      "abstractReviewedSHA256": "62d71852d9db5e11376c2d3083d119d63be8c8dfd3e83ffdfafbc83265fc1bd3"
+    },
+    {
+      "doi": "10.1038/tp.2016.234",
+      "publisherURL": "https://www.nature.com/articles/tp2016234",
+      "existingRecordId": null,
+      "title": "Preliminary indications of the effect of a brief yoga intervention on markers of inflammation and DNA methylation in chronically stressed women",
+      "journal": "Translational Psychiatry",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2016,
+      "authors": "K N Harkess; J Ryan; P H Delfabbro; S Cohen-Woods",
+      "citations": 75,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                11,
+                29
+              ]
+            ],
+            "date-time": "2016-11-29T00:00:00Z",
+            "timestamp": 1480377600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                11,
+                29
+              ]
+            ],
+            "date-time": "2016-11-29T00:00:00Z",
+            "timestamp": 1480377600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "27898068",
+      "pmcid": "PMC5290356",
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "research-article",
+          "Randomized Controlled Trial",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/tp.2016.234"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5290356"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5290356?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "11",
+        "volume": "6",
+        "journalIssueId": 2483780,
+        "dateOfPublication": "2016 Nov",
+        "monthOfPublication": 11,
+        "yearOfPublication": 2016,
+        "journal": {
+          "medlineAbbreviation": "Transl Psychiatry",
+          "title": "Translational psychiatry",
+          "essn": "2158-3188",
+          "issn": "2158-3188",
+          "isoabbreviation": "Transl Psychiatry",
+          "nlmid": "101562664"
+        },
+        "printPublicationDate": "2016-11-01"
+      },
+      "abstractReviewedSHA256": "0330190450d8bd5b1943ffdc76bd5d22425e2727a30cdf3bd841e3f133683928"
+    },
+    {
+      "doi": "10.1038/s41586-019-0931-y",
+      "publisherURL": "https://www.nature.com/articles/s41586-019-0931-y",
+      "existingRecordId": null,
+      "title": "Neural circuits underlying a psychotherapeutic regimen for fear disorders",
+      "journal": "Nature",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2019,
+      "authors": "Jinhee Baek; Sukchan Lee; Taesup Cho; Seong-Wook Kim; Minsoo Kim; Yongwoo Yoon; Ko Keun Kim; Junweon Byun; Sang Jeong Kim; Jaeseung Jeong; Hee-Sup Shin",
+      "citations": 136,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                2,
+                13
+              ]
+            ],
+            "date-time": "2019-02-13T00:00:00Z",
+            "timestamp": 1550016000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                2,
+                13
+              ]
+            ],
+            "date-time": "2019-02-13T00:00:00Z",
+            "timestamp": 1550016000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        }
+      ],
+      "pmid": "30760920",
+      "pmcid": null,
+      "pubTypes": {
+        "pubType": [
+          "Research Support, Non-U.S. Gov't",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41586-019-0931-y"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "issue": "7744",
+        "volume": "566",
+        "journalIssueId": 2784302,
+        "dateOfPublication": "2019 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2019,
+        "journal": {
+          "medlineAbbreviation": "Nature",
+          "title": "Nature",
+          "essn": "1476-4687",
+          "issn": "0028-0836",
+          "isoabbreviation": "Nature",
+          "nlmid": "0410462"
+        },
+        "printPublicationDate": "2019-02-01"
+      },
+      "abstractReviewedSHA256": "b141e23c6d8b2bb8cb1fa58480aa70a60d4f38856c885e6502d29d258f059972"
+    },
+    {
+      "doi": "10.1038/srep34610",
+      "publisherURL": "https://www.nature.com/articles/srep34610",
+      "existingRecordId": null,
+      "title": "Possible neural mechanisms of psychotherapy for trauma-related symptoms: cerebral responses to the neuropsychological treatment of post-traumatic stress disorder model individuals",
+      "journal": "Scientific Reports",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2016,
+      "authors": "Tamaki Amano; Motomi Toichi",
+      "citations": 10,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                10,
+                4
+              ]
+            ],
+            "date-time": "2016-10-04T00:00:00Z",
+            "timestamp": 1475539200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                10,
+                4
+              ]
+            ],
+            "date-time": "2016-10-04T00:00:00Z",
+            "timestamp": 1475539200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "pmid": "27698453",
+      "pmcid": "PMC5048146",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/srep34610"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5048146"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5048146?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "6",
+        "journalIssueId": 2457456,
+        "dateOfPublication": "2016 Oct",
+        "monthOfPublication": 10,
+        "yearOfPublication": 2016,
+        "journal": {
+          "medlineAbbreviation": "Sci Rep",
+          "title": "Scientific reports",
+          "essn": "2045-2322",
+          "issn": "2045-2322",
+          "nlmid": "101563288",
+          "isoabbreviation": "Sci Rep"
+        },
+        "printPublicationDate": "2016-10-01"
+      },
+      "abstractReviewedSHA256": "cc42d807d5d013f9a99249f0eed4e0d00db0909aca0455b95aade9b18f22f736"
+    }
+  ]
+}

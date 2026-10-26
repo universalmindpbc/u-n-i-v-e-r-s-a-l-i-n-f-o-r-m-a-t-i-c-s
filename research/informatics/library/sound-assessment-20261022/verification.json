@@ -1,0 +1,100 @@
+{
+  "url": "https://staging.universalmind.tv/informatics/library.html?collection=sound",
+  "candidate": false,
+  "checkedAt": "2026-10-21T23:16:23.959Z",
+  "processAudioMuted": true,
+  "mediaPausedAndContextsClosed": true,
+  "sources": [
+    "https://pubmed.ncbi.nlm.nih.gov/40547443/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12244202/",
+    "https://pubmed.ncbi.nlm.nih.gov/39004412/",
+    "https://www.scirp.org/journal/paperinformation?paperid=87146",
+    "https://pubmed.ncbi.nlm.nih.gov/42349368/",
+    "https://pubmed.ncbi.nlm.nih.gov/15668624/",
+    "https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2025.1622816/full"
+  ],
+  "checks": [
+    {
+      "width": 1470,
+      "height": 956,
+      "modes": [
+        "video",
+        "black",
+        "white"
+      ],
+      "keyboard": true,
+      "collectionIsolation": true,
+      "chapterNavigation": true,
+      "countsPreserved": true,
+      "overflow": false,
+      "status": "passed"
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "modes": [
+        "video",
+        "black",
+        "white"
+      ],
+      "keyboard": true,
+      "collectionIsolation": true,
+      "chapterNavigation": true,
+      "countsPreserved": true,
+      "overflow": false,
+      "status": "passed"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "modes": [
+        "video",
+        "black",
+        "white"
+      ],
+      "keyboard": true,
+      "collectionIsolation": true,
+      "chapterNavigation": true,
+      "countsPreserved": true,
+      "overflow": false,
+      "status": "passed"
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "modes": [
+        "video",
+        "black",
+        "white"
+      ],
+      "keyboard": true,
+      "collectionIsolation": true,
+      "chapterNavigation": true,
+      "countsPreserved": true,
+      "overflow": false,
+      "status": "passed"
+    },
+    {
+      "embedded": true,
+      "internalNavigationPreservesParent": true,
+      "status": "passed"
+    }
+  ],
+  "errors": [],
+  "sourceCommit": "d638233ac5045cb1a4450cfd995c492fc979d30d",
+  "agreedGradeWordingVerified": true,
+  "visualReview": {
+    "desktop": "Compact grade label and expanded study rows align cleanly.",
+    "mobile": "Grade remains beside its description; title wraps without clipping.",
+    "reviewer": "Codex",
+    "layoutCheckPassed": true
+  },
+  "scope": {
+    "collection": "sound",
+    "keyStudies": 5,
+    "molecularExamples": 2,
+    "libraryDataChanged": false,
+    "futureCollectionNotes": "research/informatics/library/VISION_LANGUAGE_ASSESSMENT_HANDOFF.md",
+    "productionChanged": false
+  }
+}

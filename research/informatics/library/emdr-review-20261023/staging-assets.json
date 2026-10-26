@@ -1,0 +1,69 @@
+{
+  "verifiedAt": "2026-10-23T10:27:37.933183+00:00",
+  "sourceCommit": "017b66b64af14bf4fc40685b5a7618863e35c27e",
+  "url": "https://staging.universalmind.tv/informatics/library.html?collection=vision",
+  "assets": [
+    {
+      "path": "library.html",
+      "status": 200,
+      "sha256": "30520665a263d74bb89c7d6f4afc129255df2db815e21a27a45632392030c0ab",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "library.js",
+      "status": 200,
+      "sha256": "10ea398619d1799dfe1cbf8034be401894eefa95bad7c585ec01cc17badd9864",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "library.css",
+      "status": 200,
+      "sha256": "cf75127a4a43690d06d664664032b526eb5f2e6e91f985f7c3972bd862b71d60",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "library-data/vision-edition.json",
+      "status": 200,
+      "sha256": "c349c4c7d1b878966cece663841fa2706f8f458a5a037bf23cd0d1c676ae215f",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "library-data/vision-expansion.json",
+      "status": 200,
+      "sha256": "ddfe21e7913784100ee8d7013b6801bee8e2688aa9c9699368594220b6fa565b",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "library-data/sound-edition.json",
+      "status": 200,
+      "sha256": "72b21f12aa82d6f2e0fd4033dc3b047322db8fd9945994e3d1225093966592bc",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "library-data/language-edition.json",
+      "status": 200,
+      "sha256": "0b86ca6658f780949554f335078e0c8804ee99941fe980fbb20a0668a636b0b1",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "index.html",
+      "status": 200,
+      "sha256": "e017e05abc8442b906c7a53d1d670a422bf51bd03519dfd558aa811f8f6983a0",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "app.js",
+      "status": 200,
+      "sha256": "f9999e33bb659137932bbfad78a7b5396deda101e7489a85f94d35d52d8df3e0",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "style.css",
+      "status": 200,
+      "sha256": "37fbbfe43a8897bda00bd061aa196cb7cf8f777983b9400f38de0e5d88912cf9",
+      "matchesCommittedSource": true
+    }
+  ],
+  "manifestMatches": true,
+  "productionModified": false
+}

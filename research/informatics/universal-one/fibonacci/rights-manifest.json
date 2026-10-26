@@ -1,0 +1,733 @@
+{
+  "checkedAt": "2026-10-24",
+  "policy": "Only publisher-licensed CC BY 3.0 or 4.0 article text retained for the initial retrieval bundle. No paywall bypass, image download, or supplementary-file download.",
+  "records": [
+    {
+      "recordId": "nature-fibonacci-srep27347",
+      "doi": "10.1038/srep27347",
+      "title": "Optimal hash arrangement of tentacles in jellyfish",
+      "authors": "Takuya, Okabe; Jin, Yoshimura",
+      "publisherURL": "https://www.nature.com/articles/srep27347",
+      "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2016 The Author(s)",
+      "fullTextRetained": true,
+      "files": [
+        {
+          "path": "fulltext/srep27347.html",
+          "sha256": "6151b5be1c1764981cde4e05d1b075605b288ef027edd8bc680c9b49a1a93357",
+          "bytes": 266175,
+          "mediaType": "text/html"
+        },
+        {
+          "path": "fulltext/srep27347.txt",
+          "sha256": "c9f0cd8ce353904a41fdcea19fa92741646b4bd08f43db77eac6ba5791c77a0c",
+          "bytes": 14624,
+          "transformation": "HTML text extraction; equations and images may be incomplete; original HTML retained."
+        }
+      ],
+      "status": "CC BY article text retained with attribution.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+    },
+    {
+      "recordId": "nature-fibonacci-srep15358",
+      "doi": "10.1038/srep15358",
+      "title": "Biophysical optimality of the golden angle in phyllotaxis",
+      "authors": "Takuya, Okabe",
+      "publisherURL": "https://www.nature.com/articles/srep15358",
+      "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2015 The Author(s)",
+      "fullTextRetained": true,
+      "files": [
+        {
+          "path": "fulltext/srep15358.html",
+          "sha256": "e992eb3c84c037c4fe1fc85e513ff359b9a506639a3340b61a8d986c0833ccf4",
+          "bytes": 338319,
+          "mediaType": "text/html"
+        },
+        {
+          "path": "fulltext/srep15358.txt",
+          "sha256": "72ef3d6ffea4db3addf0d93c58fbeb35e022b33fab75f094862949c133095e05",
+          "bytes": 27417,
+          "transformation": "HTML text extraction; equations and images may be incomplete; original HTML retained."
+        }
+      ],
+      "status": "CC BY article text retained with attribution.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-023-34880-8",
+      "doi": "10.1038/s41598-023-34880-8",
+      "title": "Golden ratio in venation patterns of dragonfly wings",
+      "authors": "Keene, Lu; Samson, Shen; Lisa M., Miller; Xiaojing, Huang",
+      "publisherURL": "https://www.nature.com/articles/s41598-023-34880-8",
+      "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2023 The Author(s)",
+      "fullTextRetained": true,
+      "files": [
+        {
+          "path": "fulltext/s41598-023-34880-8.html",
+          "sha256": "c58e7745ae43c755dac4e27dc0030b8dbade38330ae05e38233cb49cd8dd6b65",
+          "bytes": 325215,
+          "mediaType": "text/html"
+        },
+        {
+          "path": "fulltext/s41598-023-34880-8.txt",
+          "sha256": "7cf896b4c4c1fae59aed11808248d3c99d714775a3bb51292963ba4a8c6398ce",
+          "bytes": 27468,
+          "transformation": "HTML text extraction; equations and images may be incomplete; original HTML retained."
+        }
+      ],
+      "status": "CC BY article text retained with attribution.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+    },
+    {
+      "recordId": "nature-fibonacci-nature02081",
+      "doi": "10.1038/nature02081",
+      "title": "Regulation of phyllotaxis by polar auxin transport",
+      "authors": "Didier, Reinhardt; Eva-Rachele, Pesce; Pia, Stieger; Therese, Mandel; Kurt, Baltensperger; Malcolm, Bennett; Jan, Traas; Jiří, Friml; Cris, Kuhlemeier",
+      "publisherURL": "https://www.nature.com/articles/nature02081",
+      "licenseURL": null,
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2003 Macmillan Magazines Ltd.",
+      "fullTextRetained": false,
+      "files": [],
+      "status": "No reusable open article licence verified; full text not retained.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": null
+    },
+    {
+      "recordId": "nature-fibonacci-nature12791",
+      "doi": "10.1038/nature12791",
+      "title": "Cytokinin signalling inhibitory fields provide robustness to phyllotaxis",
+      "authors": "Fabrice, Besnard; Yassin, Refahi; Valérie, Morin; Benjamin, Marteaux; Géraldine, Brunoud; Pierre, Chambrier; Frédérique, Rozier; Vincent, Mirabet; Jonathan, Legrand; Stéphanie, Lainé; Emmanuel, Thévenon; Etienne, Farcot; Coralie, Cellier; Pradeep, Das; Anthony, Bishopp; Renaud, Dumas; François, Parcy; Ykä, Helariutta; Arezki, Boudaoud; Christophe, Godin; Jan, Traas; Yann, Guédon; Teva, Vernoux",
+      "publisherURL": "https://www.nature.com/articles/nature12791",
+      "licenseURL": null,
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2013 Springer Nature Limited",
+      "fullTextRetained": false,
+      "files": [],
+      "status": "No reusable open article licence verified; full text not retained.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": null
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-021-93133-8",
+      "doi": "10.1038/s41598-021-93133-8",
+      "title": "Discovery of spatial pattern of prickles on stem of Rosa hybrida ‘Red Queen’ and mathematical model of the pattern",
+      "authors": "Kazuaki, Amikura; Hiroshi, Ito; Miho S., Kitazawa",
+      "publisherURL": "https://www.nature.com/articles/s41598-021-93133-8",
+      "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2021 The Author(s)",
+      "fullTextRetained": true,
+      "files": [
+        {
+          "path": "fulltext/s41598-021-93133-8.html",
+          "sha256": "990112ca8da38d36c3ff8942f861d28e420cb2ff125a5a1b03a3547835b606cb",
+          "bytes": 362534,
+          "mediaType": "text/html"
+        },
+        {
+          "path": "fulltext/s41598-021-93133-8.txt",
+          "sha256": "e6075e6288873ca7ea980129beabbd76bedccaf80cddbdd80250fce4d67fa721",
+          "bytes": 34792,
+          "transformation": "HTML text extraction; equations and images may be incomplete; original HTML retained."
+        }
+      ],
+      "status": "CC BY article text retained with attribution.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-017-13767-5",
+      "doi": "10.1038/s41598-017-13767-5",
+      "title": "Towards an understanding of spiral patterning in the Sargassum muticum shoot apex",
+      "authors": "Marina, Linardić; Siobhan A., Braybrook",
+      "publisherURL": "https://www.nature.com/articles/s41598-017-13767-5",
+      "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2017 The Author(s)",
+      "fullTextRetained": true,
+      "files": [
+        {
+          "path": "fulltext/s41598-017-13767-5.html",
+          "sha256": "125485fe7248ec2f517c8ed64f7d563d243a29e13c9658f269a8f3d07d07b420",
+          "bytes": 436049,
+          "mediaType": "text/html"
+        },
+        {
+          "path": "fulltext/s41598-017-13767-5.txt",
+          "sha256": "2c29e318c35e362db7195927f1918972f4fba6438614e72f14615316e94e96dc",
+          "bytes": 53556,
+          "transformation": "HTML text extraction; equations and images may be incomplete; original HTML retained."
+        }
+      ],
+      "status": "CC BY article text retained with attribution.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+    },
+    {
+      "recordId": "nature-fibonacci-srep39821",
+      "doi": "10.1038/srep39821",
+      "title": "Use of Fibonacci numbers in lipidomics – Enumerating various classes of fatty acids",
+      "authors": "Stefan, Schuster; Maximilian, Fichtner; Severin, Sasso",
+      "publisherURL": "https://www.nature.com/articles/srep39821",
+      "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2017 The Author(s)",
+      "fullTextRetained": true,
+      "files": [
+        {
+          "path": "fulltext/srep39821.html",
+          "sha256": "63f81c49e0135fcf1119825a129de066868e3c659643ac8a2ef773dee797e4c9",
+          "bytes": 379801,
+          "mediaType": "text/html"
+        },
+        {
+          "path": "fulltext/srep39821.txt",
+          "sha256": "0439ba0d4858ed67862c846963a71032481b8d3314a132ad321cbc0a1621cf8c",
+          "bytes": 38129,
+          "transformation": "HTML text extraction; equations and images may be incomplete; original HTML retained."
+        }
+      ],
+      "status": "CC BY article text retained with attribution.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+    },
+    {
+      "recordId": "nature-fibonacci-s41540-026-00733-z",
+      "doi": "10.1038/s41540-026-00733-z",
+      "title": "Bacterial gene regulatory neural network as a biocomputing library of mathematical solvers",
+      "authors": "Adrian, Ratwatte; Samitha, Somathilaka; Ngoc Dan Thanh, Cao; Xu, Li; Sasitharan, Balasubramaniam",
+      "publisherURL": "https://www.nature.com/articles/s41540-026-00733-z",
+      "licenseURL": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2026 The Author(s)",
+      "fullTextRetained": false,
+      "files": [],
+      "status": "CC BY-NC-ND identified; full text excluded from this product-oriented retrieval bundle.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": null
+    },
+    {
+      "recordId": "nature-fibonacci-s41586-025-09570-2",
+      "doi": "10.1038/s41586-025-09570-2",
+      "title": "Heat-rechargeable computation in DNA logic circuits and neural networks",
+      "authors": "Tianqi, Song; Lulu, Qian",
+      "publisherURL": "https://www.nature.com/articles/s41586-025-09570-2",
+      "licenseURL": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2025 The Author(s)",
+      "fullTextRetained": false,
+      "files": [],
+      "status": "CC BY-NC-ND identified; full text excluded from this product-oriented retrieval bundle.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": null
+    },
+    {
+      "recordId": "nature-fibonacci-s41567-024-02529-6",
+      "doi": "10.1038/s41567-024-02529-6",
+      "title": "Non-Abelian braiding of Fibonacci anyons with a superconducting processor",
+      "authors": "Shibo, Xu; Zheng-Zhi, Sun; Ke, Wang; Hekang, Li; Zitian, Zhu; Hang, Dong; Jinfeng, Deng; Xu, Zhang; Jiachen, Chen; Yaozu, Wu; Chuanyu, Zhang; Feitong, Jin; Xuhao, Zhu; Yu, Gao; Aosai, Zhang; Ning, Wang; Yiren, Zou; Ziqi, Tan; Fanhao, Shen; Jiarun, Zhong; Zehang, Bao; Weikang, Li; Wenjie, Jiang; Li-Wei, Yu; Zixuan, Song; Pengfei, Zhang; Liang, Xiang; Qiujiang, Guo; Zhen, Wang; Chao, Song; H., Wang; Dong-Ling, Deng",
+      "publisherURL": "https://www.nature.com/articles/s41567-024-02529-6",
+      "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2024 The Author(s)",
+      "fullTextRetained": true,
+      "files": [
+        {
+          "path": "fulltext/s41567-024-02529-6.html",
+          "sha256": "9ea04b460ac15199144dd3209cc4878c8042f6e10a627923b25ce4ae5c35e490",
+          "bytes": 561385,
+          "mediaType": "text/html"
+        },
+        {
+          "path": "fulltext/s41567-024-02529-6.txt",
+          "sha256": "54c559c279ac345b68d4d88b6e5f0a4703df420b795a9ed9385a002dd1bd3011",
+          "bytes": 63116,
+          "transformation": "HTML text extraction; equations and images may be incomplete; original HTML retained."
+        }
+      ],
+      "status": "CC BY article text retained with attribution.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+    },
+    {
+      "recordId": "nature-fibonacci-s41467-025-61493-8",
+      "doi": "10.1038/s41467-025-61493-8",
+      "title": "Realizing string-net condensation: Fibonacci anyon braiding for universal gates and sampling chromatic polynomials",
+      "authors": "Zlatko K., Minev; Khadijeh, Najafi; Swarnadeep, Majumder; Juven, Wang; Ady, Stern; Eun-Ah, Kim; Chao-Ming, Jian; Guanyu, Zhu",
+      "publisherURL": "https://www.nature.com/articles/s41467-025-61493-8",
+      "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2025 The Author(s)",
+      "fullTextRetained": true,
+      "files": [
+        {
+          "path": "fulltext/s41467-025-61493-8.html",
+          "sha256": "b6fc8c9f0dae8bbb8755581d8d0e544a749463d2f57568475805fb75dcbd45c8",
+          "bytes": 402875,
+          "mediaType": "text/html"
+        },
+        {
+          "path": "fulltext/s41467-025-61493-8.txt",
+          "sha256": "58353327beef7a66689f5dbd77ecd4edef3691a11ae200dd5f3f0fd5355ffd9a",
+          "bytes": 46153,
+          "transformation": "HTML text extraction; equations and images may be incomplete; original HTML retained."
+        }
+      ],
+      "status": "CC BY article text retained with attribution.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+    },
+    {
+      "recordId": "nature-fibonacci-s41586-022-04853-4",
+      "doi": "10.1038/s41586-022-04853-4",
+      "title": "Dynamical topological phase realized in a trapped-ion quantum simulator",
+      "authors": "Philipp T., Dumitrescu; Justin G., Bohnet; John P., Gaebler; Aaron, Hankin; David, Hayes; Ajesh, Kumar; Brian, Neyenhuis; Romain, Vasseur; Andrew C., Potter",
+      "publisherURL": "https://www.nature.com/articles/s41586-022-04853-4",
+      "licenseURL": null,
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2022 The Author(s), under exclusive licence to Springer Nature Limited",
+      "fullTextRetained": false,
+      "files": [],
+      "status": "No reusable open article licence verified; full text not retained.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": null
+    },
+    {
+      "recordId": "nature-fibonacci-nphys1396",
+      "doi": "10.1038/nphys1396",
+      "title": "Topology-driven quantum phase transitions in time-reversal-invariant anyonic quantum liquids",
+      "authors": "Charlotte, Gils; Simon, Trebst; Alexei, Kitaev; Andreas W. W., Ludwig; Matthias, Troyer; Zhenghan, Wang",
+      "publisherURL": "https://www.nature.com/articles/nphys1396",
+      "licenseURL": null,
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2009 Springer Nature Limited",
+      "fullTextRetained": false,
+      "files": [],
+      "status": "No reusable open article licence verified; full text not retained.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": null
+    },
+    {
+      "recordId": "nature-fibonacci-srep31350",
+      "doi": "10.1038/srep31350",
+      "title": "Hybrid threshold adaptable quantum secret sharing scheme with reverse Huffman-Fibonacci-tree coding",
+      "authors": "Hong, Lai; Jun, Zhang; Ming-Xing, Luo; Lei, Pan; Josef, Pieprzyk; Fuyuan, Xiao; Mehmet A., Orgun",
+      "publisherURL": "https://www.nature.com/articles/srep31350",
+      "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2016 The Author(s)",
+      "fullTextRetained": true,
+      "files": [
+        {
+          "path": "fulltext/srep31350.html",
+          "sha256": "f78c7e803143f4bc8c8624d78db20e018734cee946b6579a61a1774362c4cd2f",
+          "bytes": 412568,
+          "mediaType": "text/html"
+        },
+        {
+          "path": "fulltext/srep31350.txt",
+          "sha256": "42ac1a400b631b2568ea953da8c1dbbd3a12e8af010cc3534cfb156053f62754",
+          "bytes": 44647,
+          "transformation": "HTML text extraction; equations and images may be incomplete; original HTML retained."
+        }
+      ],
+      "status": "CC BY article text retained with attribution.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+    },
+    {
+      "recordId": "nature-fibonacci-srep46302",
+      "doi": "10.1038/srep46302",
+      "title": "Fast and simple high-capacity quantum cryptography with error detection",
+      "authors": "Hong, Lai; Ming-Xing, Luo; Josef, Pieprzyk; Jun, Zhang; Lei, Pan; Shudong, Li; Mehmet A., Orgun",
+      "publisherURL": "https://www.nature.com/articles/srep46302",
+      "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2017 The Author(s)",
+      "fullTextRetained": true,
+      "files": [
+        {
+          "path": "fulltext/srep46302.html",
+          "sha256": "ab08ad3dde62412e5d5910925a39fd56f247f18a735df6811dcf7fe52002b73f",
+          "bytes": 370666,
+          "mediaType": "text/html"
+        },
+        {
+          "path": "fulltext/srep46302.txt",
+          "sha256": "d828e3ce660e4289db6d6aa55096dd0dc5311bcca4085c40d0ac232853a186d5",
+          "bytes": 38096,
+          "transformation": "HTML text extraction; equations and images may be incomplete; original HTML retained."
+        }
+      ],
+      "status": "CC BY article text retained with attribution.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-023-28367-9",
+      "doi": "10.1038/s41598-023-28367-9",
+      "title": "A promising approach using Fibonacci sequence-based optimization algorithms and advanced computing",
+      "authors": "H., Tran-Ngoc; T., Le-Xuan; S., Khatir; G., De Roeck; T., Bui-Tien; Magd, Abdel Wahab",
+      "publisherURL": "https://www.nature.com/articles/s41598-023-28367-9",
+      "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2023 The Author(s)",
+      "fullTextRetained": true,
+      "files": [
+        {
+          "path": "fulltext/s41598-023-28367-9.html",
+          "sha256": "66eb2a8f823188afeb084eee92b27ccc32527068fbbf52b36ae533adfd9209a5",
+          "bytes": 347661,
+          "mediaType": "text/html"
+        },
+        {
+          "path": "fulltext/s41598-023-28367-9.txt",
+          "sha256": "e7a453e13b3e5062f29fcde57221b47908e6ecc2c9202e379c5c3bcb0ea30a49",
+          "bytes": 31993,
+          "transformation": "HTML text extraction; equations and images may be incomplete; original HTML retained."
+        }
+      ],
+      "status": "CC BY article text retained with attribution.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-026-66284-9",
+      "doi": "10.1038/s41598-026-66284-9",
+      "title": "The new exponential Fibonacci neighborhood as QUBO generated on a D-Wave quantum computing environment for the permutational scheduling problem",
+      "authors": "Wojciech, Bożejko; Mariusz, Uchroński; Mieczysław, Wodecki",
+      "publisherURL": "https://www.nature.com/articles/s41598-026-66284-9",
+      "licenseURL": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2026 The Author(s)",
+      "fullTextRetained": false,
+      "files": [],
+      "status": "CC BY-NC-ND identified; full text excluded from this product-oriented retrieval bundle.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": null
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-024-62260-3",
+      "doi": "10.1038/s41598-024-62260-3",
+      "title": "Enhancing image security via chaotic maps, Fibonacci, Tribonacci transformations, and DWT diffusion: a robust data encryption approach",
+      "authors": "Mohammad Mazyad, Hazzazi; Mujeeb Ur, Rehman; Arslan, Shafique; Amer, Aljaedi; Zaid, Bassfar; Aminu Bello, Usman",
+      "publisherURL": "https://www.nature.com/articles/s41598-024-62260-3",
+      "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2024 The Author(s)",
+      "fullTextRetained": true,
+      "files": [
+        {
+          "path": "fulltext/s41598-024-62260-3.html",
+          "sha256": "af58d51f88715fc5e0a9934c6236c30fc0c747276ccfe207da700c60bc58e56d",
+          "bytes": 485267,
+          "mediaType": "text/html"
+        },
+        {
+          "path": "fulltext/s41598-024-62260-3.txt",
+          "sha256": "239fb66fca7e94f5b1c81c6f88eddb2eb540ca8551e091e83c605934723ae702",
+          "bytes": 82312,
+          "transformation": "HTML text extraction; equations and images may be incomplete; original HTML retained."
+        }
+      ],
+      "status": "CC BY article text retained with attribution.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-020-64065-6",
+      "doi": "10.1038/s41598-020-64065-6",
+      "title": "Quantum Walks in Periodic and Quasiperiodic Fibonacci Fibers",
+      "authors": "Dan T., Nguyen; Thien An, Nguyen; Rostislav, Khrapko; Daniel A., Nolan; Nicholas F., Borrelli",
+      "publisherURL": "https://www.nature.com/articles/s41598-020-64065-6",
+      "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2020 The Author(s)",
+      "fullTextRetained": true,
+      "files": [
+        {
+          "path": "fulltext/s41598-020-64065-6.html",
+          "sha256": "54d64319a9afcd90bb8304e5795dc79df38463d8350ac9e8ccbb8aa64c5dc165",
+          "bytes": 479103,
+          "mediaType": "text/html"
+        },
+        {
+          "path": "fulltext/s41598-020-64065-6.txt",
+          "sha256": "6013066bb2e540bfea4474e3fbee37c88b9dabe8df270e20cf4472cb5a90ed38",
+          "bytes": 53248,
+          "transformation": "HTML text extraction; equations and images may be incomplete; original HTML retained."
+        }
+      ],
+      "status": "CC BY article text retained with attribution.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+    },
+    {
+      "recordId": "nature-fibonacci-s41567-020-0908-7",
+      "doi": "10.1038/s41567-020-0908-7",
+      "title": "Emergence of criticality through a cascade of delocalization transitions in quasiperiodic chains",
+      "authors": "V., Goblot; A., Štrkalj; N., Pernet; J. L., Lado; C., Dorow; A., Lemaître; L., Le Gratiet; A., Harouri; I., Sagnes; S., Ravets; A., Amo; J., Bloch; O., Zilberberg",
+      "publisherURL": "https://www.nature.com/articles/s41567-020-0908-7",
+      "licenseURL": null,
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2020 The Author(s), under exclusive licence to Springer Nature Limited",
+      "fullTextRetained": false,
+      "files": [],
+      "status": "No reusable open article licence verified; full text not retained.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": null
+    },
+    {
+      "recordId": "nature-fibonacci-s41467-020-15760-5",
+      "doi": "10.1038/s41467-020-15760-5",
+      "title": "Universality and quantum criticality in quasiperiodic spin chains",
+      "authors": "Utkarsh, Agrawal; Sarang, Gopalakrishnan; Romain, Vasseur",
+      "publisherURL": "https://www.nature.com/articles/s41467-020-15760-5",
+      "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2020 The Author(s)",
+      "fullTextRetained": true,
+      "files": [
+        {
+          "path": "fulltext/s41467-020-15760-5.html",
+          "sha256": "436579ce7adef68e7b0e08e80eb2990a6ebf880e78017b3f8b2e7f52969e48fb",
+          "bytes": 433754,
+          "mediaType": "text/html"
+        },
+        {
+          "path": "fulltext/s41467-020-15760-5.txt",
+          "sha256": "1c62e1d54949973639798405fb08ec6fa5507547a0cc3dd60143c252d62effe6",
+          "bytes": 44925,
+          "transformation": "HTML text extraction; equations and images may be incomplete; original HTML retained."
+        }
+      ],
+      "status": "CC BY article text retained with attribution.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+    },
+    {
+      "recordId": "nature-fibonacci-srep38651",
+      "doi": "10.1038/srep38651",
+      "title": "Two-dimensional Fibonacci grating for far-field super-resolution imaging",
+      "authors": "Kedi, Wu; Guo Ping, Wang",
+      "publisherURL": "https://www.nature.com/articles/srep38651",
+      "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2016 The Author(s)",
+      "fullTextRetained": true,
+      "files": [
+        {
+          "path": "fulltext/srep38651.html",
+          "sha256": "b50e7da674a1395950f6440eb486ee66a1865e62db9c0f3c5174d0e3e9c2bcc1",
+          "bytes": 328042,
+          "mediaType": "text/html"
+        },
+        {
+          "path": "fulltext/srep38651.txt",
+          "sha256": "6283f4f300fb47cbfac512dca8a32342dcddfe872788b5017996e3c8787e174c",
+          "bytes": 30875,
+          "transformation": "HTML text extraction; equations and images may be incomplete; original HTML retained."
+        }
+      ],
+      "status": "CC BY article text retained with attribution.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+    },
+    {
+      "recordId": "nature-fibonacci-s41467-018-05950-7",
+      "doi": "10.1038/s41467-018-05950-7",
+      "title": "A molecular overlayer with the Fibonacci square grid structure",
+      "authors": "Sam, Coates; Joseph A., Smerdon; Ronan, McGrath; Hem Raj, Sharma",
+      "publisherURL": "https://www.nature.com/articles/s41467-018-05950-7",
+      "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2018 The Author(s)",
+      "fullTextRetained": true,
+      "files": [
+        {
+          "path": "fulltext/s41467-018-05950-7.html",
+          "sha256": "78c27c4a0dd3bf4746a76484493c31fb515a394578d78638abdd517cb8b07784",
+          "bytes": 337990,
+          "mediaType": "text/html"
+        },
+        {
+          "path": "fulltext/s41467-018-05950-7.txt",
+          "sha256": "ffd763a8c38f68d2f77ce6cd033316700ad22203a061408b276293257c2e5510",
+          "bytes": 24751,
+          "transformation": "HTML text extraction; equations and images may be incomplete; original HTML retained."
+        }
+      ],
+      "status": "CC BY article text retained with attribution.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-020-67567-5",
+      "doi": "10.1038/s41598-020-67567-5",
+      "title": "Explosive Fibonacci-sequence growth into unusual sector-face morphology in poly(l-lactic acid) crystallized with polymeric diluents",
+      "authors": "Graecia, Lugito; Selvaraj, Nagarajan; Eamor M., Woo",
+      "publisherURL": "https://www.nature.com/articles/s41598-020-67567-5",
+      "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2020 The Author(s)",
+      "fullTextRetained": true,
+      "files": [
+        {
+          "path": "fulltext/s41598-020-67567-5.html",
+          "sha256": "583942e235a33a8d55f28dcd14413c3899e75f05f21410d608b9eca61d400f2d",
+          "bytes": 390179,
+          "mediaType": "text/html"
+        },
+        {
+          "path": "fulltext/s41598-020-67567-5.txt",
+          "sha256": "262aeb30ecfffbcf8aa85fdbe413e9f6cc11bb82101cc4e7ee22c7d0b02b9e5b",
+          "bytes": 55715,
+          "transformation": "HTML text extraction; equations and images may be incomplete; original HTML retained."
+        }
+      ],
+      "status": "CC BY article text retained with attribution.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-017-02170-9",
+      "doi": "10.1038/s41598-017-02170-9",
+      "title": "Fractional Transport of Photons in Deterministic Aperiodic Structures",
+      "authors": "Luca, Dal Negro; Sandeep, Inampudi",
+      "publisherURL": "https://www.nature.com/articles/s41598-017-02170-9",
+      "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2017 The Author(s)",
+      "fullTextRetained": true,
+      "files": [
+        {
+          "path": "fulltext/s41598-017-02170-9.html",
+          "sha256": "2957f3c2df2a315e48e5548e7ce1f85bec00e1337fd84629ef1d7e235784e6c3",
+          "bytes": 482263,
+          "mediaType": "text/html"
+        },
+        {
+          "path": "fulltext/s41598-017-02170-9.txt",
+          "sha256": "db89e73139c805118867f0416766987459e6624639400b31cee3658b8b551e9f",
+          "bytes": 70731,
+          "transformation": "HTML text extraction; equations and images may be incomplete; original HTML retained."
+        }
+      ],
+      "status": "CC BY article text retained with attribution.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+    },
+    {
+      "recordId": "nature-fibonacci-nphoton.2009.285",
+      "doi": "10.1038/nphoton.2009.285",
+      "title": "Quasi-periodic distributed feedback laser",
+      "authors": "Lukas, Mahler; Alessandro, Tredicucci; Fabio, Beltram; Christoph, Walther; Jérôme, Faist; Harvey E., Beere; David A., Ritchie; Diederik S., Wiersma",
+      "publisherURL": "https://www.nature.com/articles/nphoton.2009.285",
+      "licenseURL": null,
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2010 Springer Nature Limited",
+      "fullTextRetained": false,
+      "files": [],
+      "status": "No reusable open article licence verified; full text not retained.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": null
+    },
+    {
+      "recordId": "nature-fibonacci-s42005-025-02264-1",
+      "doi": "10.1038/s42005-025-02264-1",
+      "title": "Fibonacci-modulation-induced multiple topological Anderson insulators",
+      "authors": "Ruijiang, Ji; Zhihao, Xu",
+      "publisherURL": "https://www.nature.com/articles/s42005-025-02264-1",
+      "licenseURL": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2025 The Author(s)",
+      "fullTextRetained": false,
+      "files": [],
+      "status": "CC BY-NC-ND identified; full text excluded from this product-oriented retrieval bundle.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": null
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-026-40652-x",
+      "doi": "10.1038/s41598-026-40652-x",
+      "title": "Focusing performance of Fibonacci tiling-based zone plates",
+      "authors": "Adrián, Garmendía-Martínez; Francisco M. Muñoz, Pérez; Juan C. Castro, Palacio; Walter D., Furlan; Vicente, Ferrando; Juan A., Monsoriu",
+      "publisherURL": "https://www.nature.com/articles/s41598-026-40652-x",
+      "licenseURL": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2026 The Author(s)",
+      "fullTextRetained": false,
+      "files": [],
+      "status": "CC BY-NC-ND identified; full text excluded from this product-oriented retrieval bundle.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": null
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-020-72218-w",
+      "doi": "10.1038/s41598-020-72218-w",
+      "title": "The architecture of starch blocklets follows phyllotaxic rules",
+      "authors": "Francesco, Spinozzi; Claudio, Ferrero; Serge, Perez",
+      "publisherURL": "https://www.nature.com/articles/s41598-020-72218-w",
+      "licenseURL": "http://creativecommons.org/licenses/by/4.0/",
+      "licenseVerifiedAt": "2026-10-24",
+      "licenseSource": "Publisher JSON-LD mainEntity.license and Rights and permissions section",
+      "copyright": "2020 The Author(s)",
+      "fullTextRetained": true,
+      "files": [
+        {
+          "path": "fulltext/s41598-020-72218-w.html",
+          "sha256": "f1ff8b6217491f69299a7a38dcdbd4bc0b73bd37b24588f1c9f26b85229d8c05",
+          "bytes": 456656,
+          "mediaType": "text/html"
+        },
+        {
+          "path": "fulltext/s41598-020-72218-w.txt",
+          "sha256": "ec498c37d6bd8dbdd8dcdad97c2a067a0979c17323d6c71e30339439d8849b70",
+          "bytes": 74222,
+          "transformation": "HTML text extraction; equations and images may be incomplete; original HTML retained."
+        }
+      ],
+      "status": "CC BY article text retained with attribution.",
+      "reuseNotes": "Attribution, DOI, licence and transformation notice accompany reuse. No image files or supplements were downloaded. Third-party material may have separate rights. The source HTML is an audit copy; use the extracted article text for retrieval, not a republication of the publisher webpage.",
+      "transformations": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+    }
+  ]
+}

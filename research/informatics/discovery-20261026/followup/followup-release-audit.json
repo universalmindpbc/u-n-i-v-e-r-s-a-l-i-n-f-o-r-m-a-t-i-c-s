@@ -1,0 +1,23 @@
+{
+  "recordedAt": "2026-10-26T00:12:44.709309+00:00",
+  "sourceCommit": "7e2de1e95711a095c60a4c5b8b1621a2723a7962",
+  "faviconCommit": "84198b821b36195224c90629dbe3f43e622895f3",
+  "landingCommit": "cb3cc00922e75c9dfc5715b656c27157f2bb62cf",
+  "deployment": "Existing Panthur staging script; informatics scope",
+  "stagingURL": "https://staging.universalmind.tv/informatics/",
+  "landingLabel": "Wiki For AI / LLMs",
+  "landingPosition": "bottom-left",
+  "centralLandingLinksRemoved": true,
+  "readingHTMLPagesWithFavicon": 1831,
+  "desktopAndMobileQA": "landing-favicon-verification.json",
+  "finalLiveAssetQA": "final-live-verification.json",
+  "supportSubmission": "desci-support-submission.json",
+  "deSciEditorStatus": "pending-provider-response",
+  "secretScan": {
+    "files": 14,
+    "knownCredentialChecks": 2,
+    "matches": 0
+  },
+  "productionModified": false,
+  "expectedProductionRemote": "017f6d1aa1f1688745a9e40c6e0cc421238d19ac"
+}

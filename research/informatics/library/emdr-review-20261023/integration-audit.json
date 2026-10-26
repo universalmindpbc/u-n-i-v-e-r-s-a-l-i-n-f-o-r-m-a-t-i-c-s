@@ -1,0 +1,783 @@
+{
+  "originalPlacements": 47,
+  "originalDistinctRecords": 41,
+  "splitMergedRecord": "src-796cb6656464 -> child self-help + pmid-33415797 group review",
+  "originalDistinctReferencesAfterSplit": 42,
+  "originalCitationPlacementSumBeforeRepair": 2691,
+  "originalUniqueCitationMaximumSumBeforeRepair": 2290,
+  "splitRepairRestoresChildCitations": 10,
+  "exclusions": [],
+  "placements": [
+    {
+      "recordId": "doi-67fa7275f4f4ba77",
+      "sourcePages": [
+        18
+      ],
+      "destination": "group"
+    },
+    {
+      "recordId": "pmid-36248508",
+      "sourcePages": [
+        16
+      ],
+      "destination": "online"
+    },
+    {
+      "recordId": "doi-2a203fb071ddfe54",
+      "sourcePages": [
+        18
+      ],
+      "destination": "online"
+    },
+    {
+      "recordId": "pmid-34763697",
+      "sourcePages": [
+        16
+      ],
+      "destination": "online"
+    },
+    {
+      "recordId": "doi-b4b0af603557eafe",
+      "sourcePages": [
+        17
+      ],
+      "destination": "self-help"
+    },
+    {
+      "recordId": "doi-37bd65a31f48ce93",
+      "sourcePages": [
+        15
+      ],
+      "destination": "self-help"
+    },
+    {
+      "recordId": "pmid-34025912",
+      "sourcePages": [
+        16
+      ],
+      "destination": "online"
+    },
+    {
+      "recordId": "pmid-30858808",
+      "sourcePages": [
+        4
+      ],
+      "destination": "i"
+    },
+    {
+      "recordId": "pmid-30858808",
+      "sourcePages": [
+        7
+      ],
+      "destination": "ii"
+    },
+    {
+      "recordId": "pmid-29946275",
+      "sourcePages": [
+        8
+      ],
+      "destination": "iii"
+    },
+    {
+      "recordId": "pmid-29946275",
+      "sourcePages": [
+        15
+      ],
+      "destination": "group"
+    },
+    {
+      "recordId": "pmid-30197612",
+      "sourcePages": [
+        6
+      ],
+      "destination": "ii"
+    },
+    {
+      "recordId": "pmid-30186192",
+      "sourcePages": [
+        5
+      ],
+      "destination": "i"
+    },
+    {
+      "recordId": "pmid-30186192",
+      "sourcePages": [
+        6
+      ],
+      "destination": "ii"
+    },
+    {
+      "recordId": "pmid-30166975",
+      "sourcePages": [
+        5
+      ],
+      "destination": "i"
+    },
+    {
+      "recordId": "pmid-28660669",
+      "sourcePages": [
+        4
+      ],
+      "destination": "i"
+    },
+    {
+      "recordId": "doi-648f6da34833f786",
+      "sourcePages": [
+        9
+      ],
+      "destination": "iii"
+    },
+    {
+      "recordId": "doi-648f6da34833f786",
+      "sourcePages": [
+        17
+      ],
+      "destination": "group"
+    },
+    {
+      "recordId": "pmid-26963955",
+      "sourcePages": [
+        7
+      ],
+      "destination": "ii"
+    },
+    {
+      "recordId": "pmid-27353367",
+      "sourcePages": [
+        8
+      ],
+      "destination": "iii"
+    },
+    {
+      "recordId": "pmid-25989952",
+      "sourcePages": [
+        8
+      ],
+      "destination": "iii"
+    },
+    {
+      "recordId": "pmid-24965797",
+      "sourcePages": [
+        4
+      ],
+      "destination": "i"
+    },
+    {
+      "recordId": "doi-4e5b48cad9b6436d",
+      "sourcePages": [
+        9
+      ],
+      "destination": "iii"
+    },
+    {
+      "recordId": "pmid-25101684",
+      "sourcePages": [
+        5
+      ],
+      "destination": "i"
+    },
+    {
+      "recordId": "pmid-25101684",
+      "sourcePages": [
+        7
+      ],
+      "destination": "ii"
+    },
+    {
+      "recordId": "pmid-24626074",
+      "sourcePages": [
+        4
+      ],
+      "destination": "i"
+    },
+    {
+      "recordId": "pmid-24626074",
+      "sourcePages": [
+        7
+      ],
+      "destination": "ii"
+    },
+    {
+      "recordId": "pmid-23702050",
+      "sourcePages": [
+        3
+      ],
+      "destination": "i"
+    },
+    {
+      "recordId": "pmid-22893808",
+      "sourcePages": [
+        9
+      ],
+      "destination": "iii"
+    },
+    {
+      "recordId": "pmid-18612994",
+      "sourcePages": [
+        7
+      ],
+      "destination": "ii"
+    },
+    {
+      "recordId": "pmid-17284128",
+      "sourcePages": [
+        3
+      ],
+      "destination": "i"
+    },
+    {
+      "recordId": "pmid-16899965",
+      "sourcePages": [
+        5
+      ],
+      "destination": "i"
+    },
+    {
+      "recordId": "pmid-9479673",
+      "sourcePages": [
+        6
+      ],
+      "destination": "ii"
+    },
+    {
+      "recordId": "src-4d549c318fe9",
+      "sourcePages": [
+        13
+      ],
+      "destination": "vi"
+    },
+    {
+      "recordId": "src-35cb6bd28036",
+      "sourcePages": [
+        12
+      ],
+      "destination": "v"
+    },
+    {
+      "recordId": "src-05fee8b7d126",
+      "sourcePages": [
+        17
+      ],
+      "destination": "online"
+    },
+    {
+      "recordId": "src-3d07e41dbe7a",
+      "sourcePages": [
+        10,
+        11
+      ],
+      "destination": "iv"
+    },
+    {
+      "recordId": "src-e9a450b442d3",
+      "sourcePages": [
+        17
+      ],
+      "destination": "group"
+    },
+    {
+      "recordId": "src-d5959fcb69bc",
+      "sourcePages": [
+        18
+      ],
+      "destination": "online"
+    },
+    {
+      "recordId": "src-d173f7852495",
+      "sourcePages": [
+        14
+      ],
+      "destination": "vii"
+    },
+    {
+      "recordId": "src-688f56d0a555",
+      "sourcePages": [
+        9
+      ],
+      "destination": "iii"
+    },
+    {
+      "recordId": "src-75491f6f55b4",
+      "sourcePages": [
+        12
+      ],
+      "destination": "v"
+    },
+    {
+      "recordId": "src-757129132fdc",
+      "sourcePages": [
+        7
+      ],
+      "destination": "ii"
+    },
+    {
+      "recordId": "src-1a2a9900c208",
+      "sourcePages": [
+        18
+      ],
+      "destination": "group"
+    },
+    {
+      "recordId": "src-796cb6656464",
+      "sourcePages": [
+        15,
+        16
+      ],
+      "destination": "self-help"
+    },
+    {
+      "recordId": "src-dc93723ec7c8",
+      "sourcePages": [
+        3
+      ],
+      "destination": "i"
+    },
+    {
+      "recordId": "src-4981a8e87964",
+      "sourcePages": [
+        19
+      ],
+      "destination": "self-help"
+    }
+  ],
+  "newDistinctRecords": 28,
+  "narrativeUniqueReferences": 76,
+  "narrativePlacements": 90,
+  "coverTotals": {
+    "articles": 55,
+    "publications": 33,
+    "citations": 3210
+  },
+  "countNote": "The body contains 48 reference placements after splitting the merged pair, with repeated citations; 42 distinct references include guidance, presentation and search context. Cover totals are retained here, not substituted for verified website counts. No body reference was removed. Four non-military duplicates retain their excerpts in the general clinical topic. The source does not define the difference between cover articles and publications.",
+  "corrections": [
+    "Split child self-help and group review identities, quotations and citation counts.",
+    "Restored actual title and journal of the self-administered review.",
+    "Corrected the depression quotation transcription from Trauma As Usual to Treatment as Usual.",
+    "Retained original LINKS charts with the approved captions.",
+    "Guidance sections use Clinical guidance rather than an RCT trust score.",
+    "Clinical PTSD grade does not transfer to combined entertainment or molecular claims."
+  ],
+  "topicScores": [
+    {
+      "id": "i",
+      "title": "EMDR for PTSD and related mental-health outcomes",
+      "trustScore": 2,
+      "trustAssessment": {
+        "score": 2,
+        "scope": "Subchapter",
+        "minimumQualifyingStudies": 3,
+        "status": "assessed",
+        "qualifyingRecords": {
+          "double-blind-rct": [],
+          "single-blind-rct": [
+            "pmid-28660669",
+            "pmid-24965797",
+            "pmid-25607833"
+          ],
+          "peer-reviewed": [
+            "pmid-30858808",
+            "pmid-30186192",
+            "pmid-30166975",
+            "pmid-28660669",
+            "pmid-24965797",
+            "pmid-25101684",
+            "pmid-24626074",
+            "pmid-23702050",
+            "pmid-17284128",
+            "pmid-16899965",
+            "pmid-25607833",
+            "pmid-42773467",
+            "pmid-42880055",
+            "pmid-39731040"
+          ]
+        },
+        "counts": {
+          "double-blind-rct": 0,
+          "single-blind-rct": 3,
+          "peer-reviewed": 14
+        }
+      }
+    },
+    {
+      "id": "ii",
+      "title": "EMDR for PTSD in veterans and military personnel",
+      "trustScore": 1,
+      "trustAssessment": {
+        "score": 1,
+        "scope": "Subchapter",
+        "minimumQualifyingStudies": 3,
+        "status": "assessed",
+        "qualifyingRecords": {
+          "double-blind-rct": [],
+          "single-blind-rct": [],
+          "peer-reviewed": [
+            "pmid-30197612",
+            "pmid-26963955",
+            "pmid-18612994",
+            "pmid-9479673",
+            "src-757129132fdc",
+            "portal-7c6d9225444d"
+          ]
+        },
+        "counts": {
+          "double-blind-rct": 0,
+          "single-blind-rct": 0,
+          "peer-reviewed": 6
+        }
+      }
+    },
+    {
+      "id": "iii",
+      "title": "EMDR for PTSD in refugees and asylum seekers",
+      "trustScore": 2,
+      "trustAssessment": {
+        "score": 2,
+        "scope": "Subchapter",
+        "minimumQualifyingStudies": 3,
+        "status": "assessed",
+        "qualifyingRecords": {
+          "double-blind-rct": [],
+          "single-blind-rct": [
+            "pmid-27353367",
+            "pmid-25989952",
+            "pmid-22893808",
+            "pmid-42324567"
+          ],
+          "peer-reviewed": [
+            "pmid-29946275",
+            "doi-648f6da34833f786",
+            "pmid-27353367",
+            "pmid-25989952",
+            "doi-4e5b48cad9b6436d",
+            "pmid-22893808",
+            "pmid-42324567"
+          ]
+        },
+        "counts": {
+          "double-blind-rct": 0,
+          "single-blind-rct": 4,
+          "peer-reviewed": 7
+        }
+      }
+    },
+    {
+      "id": "iv",
+      "title": "Trauma-focused therapies for Aboriginal and Torres Strait Islander children and young people",
+      "trustScore": null,
+      "trustAssessment": {
+        "score": null,
+        "scope": "Subchapter",
+        "minimumQualifyingStudies": 3,
+        "status": "below-minimum",
+        "qualifyingRecords": {
+          "double-blind-rct": [],
+          "single-blind-rct": [],
+          "peer-reviewed": [
+            "doi-37881ae999c094e1"
+          ]
+        },
+        "counts": {
+          "double-blind-rct": 0,
+          "single-blind-rct": 0,
+          "peer-reviewed": 1
+        }
+      }
+    },
+    {
+      "id": "children",
+      "title": "EMDR for children and adolescents",
+      "trustScore": 2,
+      "trustAssessment": {
+        "score": 2,
+        "scope": "Subchapter",
+        "minimumQualifyingStudies": 3,
+        "status": "assessed",
+        "qualifyingRecords": {
+          "double-blind-rct": [],
+          "single-blind-rct": [
+            "pmid-28660669",
+            "pmid-24965797",
+            "pmid-42324567"
+          ],
+          "peer-reviewed": [
+            "pmid-28660669",
+            "pmid-24965797",
+            "pmid-41340540",
+            "pmid-39630422",
+            "pmid-42324567",
+            "pmid-33709117",
+            "pmid-40243164",
+            "pmid-42703195"
+          ]
+        },
+        "counts": {
+          "double-blind-rct": 0,
+          "single-blind-rct": 3,
+          "peer-reviewed": 8
+        }
+      }
+    },
+    {
+      "id": "young-adults",
+      "title": "EMDR and related interventions for young adults",
+      "trustScore": 1,
+      "trustAssessment": {
+        "score": 1,
+        "scope": "Subchapter",
+        "minimumQualifyingStudies": 3,
+        "status": "assessed",
+        "qualifyingRecords": {
+          "double-blind-rct": [],
+          "single-blind-rct": [],
+          "peer-reviewed": [
+            "pmid-34512458",
+            "pmid-39835632",
+            "pmid-38032626",
+            "pmid-42411718",
+            "pmid-9479674"
+          ]
+        },
+        "counts": {
+          "double-blind-rct": 0,
+          "single-blind-rct": 0,
+          "peer-reviewed": 5
+        }
+      }
+    },
+    {
+      "id": "v",
+      "title": "Australian clinical guidance on EMDR for PTSD",
+      "trustScore": null,
+      "trustAssessment": {
+        "score": null,
+        "scope": "Subchapter",
+        "minimumQualifyingStudies": 3,
+        "status": "clinical-guidance",
+        "qualifyingRecords": {
+          "double-blind-rct": [],
+          "single-blind-rct": [],
+          "peer-reviewed": []
+        },
+        "counts": {
+          "double-blind-rct": 0,
+          "single-blind-rct": 0,
+          "peer-reviewed": 0
+        }
+      }
+    },
+    {
+      "id": "vi",
+      "title": "WHO and UNHCR guidance on EMDR for PTSD",
+      "trustScore": null,
+      "trustAssessment": {
+        "score": null,
+        "scope": "Subchapter",
+        "minimumQualifyingStudies": 3,
+        "status": "clinical-guidance",
+        "qualifyingRecords": {
+          "double-blind-rct": [],
+          "single-blind-rct": [],
+          "peer-reviewed": []
+        },
+        "counts": {
+          "double-blind-rct": 0,
+          "single-blind-rct": 0,
+          "peer-reviewed": 0
+        }
+      }
+    },
+    {
+      "id": "vii",
+      "title": "US VA/DoD clinical guidance on EMDR for PTSD",
+      "trustScore": null,
+      "trustAssessment": {
+        "score": null,
+        "scope": "Subchapter",
+        "minimumQualifyingStudies": 3,
+        "status": "clinical-guidance",
+        "qualifyingRecords": {
+          "double-blind-rct": [],
+          "single-blind-rct": [],
+          "peer-reviewed": []
+        },
+        "counts": {
+          "double-blind-rct": 0,
+          "single-blind-rct": 0,
+          "peer-reviewed": 0
+        }
+      }
+    },
+    {
+      "id": "group",
+      "title": "Group EMDR",
+      "trustScore": 1,
+      "trustAssessment": {
+        "score": 1,
+        "scope": "Subchapter",
+        "minimumQualifyingStudies": 3,
+        "status": "assessed",
+        "qualifyingRecords": {
+          "double-blind-rct": [],
+          "single-blind-rct": [],
+          "peer-reviewed": [
+            "doi-67fa7275f4f4ba77",
+            "pmid-29946275",
+            "doi-648f6da34833f786",
+            "src-1a2a9900c208",
+            "pmid-33415797",
+            "portal-66ebe89ad390",
+            "portal-1542d1de36c9",
+            "pmid-39023949",
+            "pmid-40417270",
+            "pmid-34512458",
+            "pmid-42703195",
+            "doi-2a203fb071ddfe54",
+            "src-d5959fcb69bc"
+          ]
+        },
+        "counts": {
+          "double-blind-rct": 0,
+          "single-blind-rct": 0,
+          "peer-reviewed": 13
+        }
+      }
+    },
+    {
+      "id": "online",
+      "title": "Online EMDR",
+      "trustScore": 1,
+      "trustAssessment": {
+        "score": 1,
+        "scope": "Subchapter",
+        "minimumQualifyingStudies": 3,
+        "status": "assessed",
+        "qualifyingRecords": {
+          "double-blind-rct": [],
+          "single-blind-rct": [],
+          "peer-reviewed": [
+            "pmid-36248508",
+            "doi-2a203fb071ddfe54",
+            "pmid-34763697",
+            "pmid-34025912",
+            "src-05fee8b7d126",
+            "src-d5959fcb69bc",
+            "pmid-38250261",
+            "pmid-42254728",
+            "portal-1542d1de36c9",
+            "pmid-40417270",
+            "portal-7c6d9225444d",
+            "pmid-34512458",
+            "pmid-38032626"
+          ]
+        },
+        "counts": {
+          "double-blind-rct": 0,
+          "single-blind-rct": 0,
+          "peer-reviewed": 13
+        }
+      }
+    },
+    {
+      "id": "self-help",
+      "title": "EMDR-derived self-help interventions",
+      "trustScore": 1,
+      "trustAssessment": {
+        "score": 1,
+        "scope": "Subchapter",
+        "minimumQualifyingStudies": 3,
+        "status": "assessed",
+        "qualifyingRecords": {
+          "double-blind-rct": [],
+          "single-blind-rct": [],
+          "peer-reviewed": [
+            "doi-b4b0af603557eafe",
+            "doi-37bd65a31f48ce93",
+            "src-796cb6656464",
+            "src-4981a8e87964"
+          ]
+        },
+        "counts": {
+          "double-blind-rct": 0,
+          "single-blind-rct": 0,
+          "peer-reviewed": 4
+        }
+      }
+    },
+    {
+      "id": "rna",
+      "title": "EMDR and trauma-focused psychotherapy: gene expression",
+      "trustScore": 1,
+      "trustAssessment": {
+        "score": 1,
+        "scope": "Subchapter",
+        "minimumQualifyingStudies": 3,
+        "status": "assessed",
+        "qualifyingRecords": {
+          "double-blind-rct": [],
+          "single-blind-rct": [],
+          "peer-reviewed": [
+            "doi-14a5c17359f1dfcb",
+            "pmid-35070159",
+            "pmid-42519422"
+          ]
+        },
+        "counts": {
+          "double-blind-rct": 0,
+          "single-blind-rct": 0,
+          "peer-reviewed": 3
+        }
+      }
+    },
+    {
+      "id": "epigenetics",
+      "title": "EMDR and trauma-focused psychotherapy: DNA methylation",
+      "trustScore": 1,
+      "trustAssessment": {
+        "score": 1,
+        "scope": "Subchapter",
+        "minimumQualifyingStudies": 3,
+        "status": "assessed",
+        "qualifyingRecords": {
+          "double-blind-rct": [],
+          "single-blind-rct": [],
+          "peer-reviewed": [
+            "pmid-38362742",
+            "pmid-39060246",
+            "pmid-36266402",
+            "pmid-31645664"
+          ]
+        },
+        "counts": {
+          "double-blind-rct": 0,
+          "single-blind-rct": 0,
+          "peer-reviewed": 4
+        }
+      }
+    },
+    {
+      "id": "biomarkers",
+      "title": "EMDR, cortisol and molecular biomarkers",
+      "trustScore": 1,
+      "trustAssessment": {
+        "score": 1,
+        "scope": "Subchapter",
+        "minimumQualifyingStudies": 3,
+        "status": "assessed",
+        "qualifyingRecords": {
+          "double-blind-rct": [],
+          "single-blind-rct": [],
+          "peer-reviewed": [
+            "pmid-31352130",
+            "pmid-35707677",
+            "pmid-40706348"
+          ]
+        },
+        "counts": {
+          "double-blind-rct": 0,
+          "single-blind-rct": 0,
+          "peer-reviewed": 3
+        }
+      }
+    }
+  ]
+}

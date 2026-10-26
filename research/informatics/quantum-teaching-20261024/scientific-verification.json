@@ -1,0 +1,60 @@
+{
+  "passed": true,
+  "sourceAtomsMatch": true,
+  "heavyAtomDistancesPreserved": true,
+  "composition": {
+    "C": 14,
+    "H": 16,
+    "O": 1
+  },
+  "electrons": 108,
+  "measurements": {
+    "centroidDistanceAngstrom": 5.8569558266693145,
+    "ringPlaneAngleDegrees": 44.13372131618806,
+    "closestRingCarbonAngstrom": 3.5413000437692395,
+    "hydrogenBondHeavyAtomDistanceAngstrom": 2.7267278925481326
+  },
+  "fields": {
+    "homo-minus-1.cube": {
+      "grid": [
+        52,
+        70,
+        34
+      ],
+      "sampledIntegral": 0.9997699973188002,
+      "bytes": 1632655,
+      "sha256": "76e110eef447e98007c43ac3de8a8451fa0b3e59657ed87a069244ebfb182d64"
+    },
+    "density.cube": {
+      "grid": [
+        52,
+        70,
+        34
+      ],
+      "sampledIntegral": 104.20869806985772,
+      "bytes": 1632658,
+      "sha256": "e35efe317f9fbddbdb003567f3d950268e8e00019a34acb18d85d8c96b037f0a"
+    },
+    "homo.cube": {
+      "grid": [
+        52,
+        70,
+        34
+      ],
+      "sampledIntegral": 1.0013063778429188,
+      "bytes": 1632655,
+      "sha256": "2d4f4a177f6a3ec352afa15c1a26e14f456e706afe0b0e2701d58b22223a5b8d"
+    },
+    "lumo.cube": {
+      "grid": [
+        52,
+        70,
+        34
+      ],
+      "sampledIntegral": 0.9994369189565733,
+      "bytes": 1632655,
+      "sha256": "ce88117e7e8fba07f4bc38cca2599b084734c550ed0d6d757c5d2c596150c3f0"
+    }
+  },
+  "densityGridLimit": "Visualization sampling undersamples core peaks; sampled integral is not the molecular electron count."
+}

@@ -1,0 +1,4583 @@
+{
+  "checkedAt": "2026-10-23T01:47:02.342511+00:00",
+  "method": "Redirect-following HTTP/1.1 GET of every primary link in the Language and General narrative editions. 20-second timeout. 12 MB size cap; an HTTP 200 size-cap stop is distinct from a dead link. Identity evidence and alternative destinations from the 22 October audit retained. Access restrictions are not classified as dead links.",
+  "checks": [
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16772250/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/16772250/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-16772250"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23149426/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/23149426/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-23149426"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1038/ajh.2009.184",
+      "status": 403,
+      "finalUrl": "https://academic.oup.com/ajh/article-lookup/doi/10.1038/ajh.2009.184",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-56e515aacddb"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2048830/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2048830/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-17274213"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24107199/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/24107199/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-24107199"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19815592/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/19815592/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-19815592"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3951026/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3951026/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-24626068"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/bf03040500",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/BF03040500?error=cookies_not_supported&code=09881b9a-47ce-462d-bbe8-3621529c3816",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-14743579"
+      ]
+    },
+    {
+      "url": "https://www.davidlynchfoundation.org/research.html",
+      "status": 200,
+      "finalUrl": "https://www.davidlynchfoundation.org/pdf/Research-on-TM.pdf",
+      "contentType": "application/pdf",
+      "curlExit": 0,
+      "recordIds": [
+        "src-2c770034898e",
+        "src-005e909caead"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36427257/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/36427257/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-36427257"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.3389/fpsyg.2023.1219296",
+      "status": 200,
+      "finalUrl": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1219296/full",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-38327501"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35329068/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/35329068/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-35329068"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/S2215-0366(18)30384-5",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S2215036618303845",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "portal-b171bb6d1a29"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25367403/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/25367403/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-25367403"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26181573/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/26181573/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-26181573"
+      ]
+    },
+    {
+      "url": "https://ses.library.usyd.edu.au/handle/2123/16649",
+      "status": 200,
+      "finalUrl": "https://ses.library.usyd.edu.au/handle/2123/16649",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-c4163b9ea6af"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.bbi.2012.07.006",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0889159112001894",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-22820409"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.3389/fimmu.2017.00670",
+      "status": 200,
+      "finalUrl": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2017.00670/full",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28670311"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.psyneuen.2012.06.011",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0306453012002260",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-e9b23a765f28"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.psyneuen.2014.01.019",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0306453014000444",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-24703167"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jasi.2018.07.003",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0003277818300583",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-0bf0e1873d286226"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15750361/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/15750361/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-15750361"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29306937/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/29306937/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-29306937"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1515/jpm-2016-0189",
+      "status": 202,
+      "finalUrl": "https://www.degruyterbrill.com:443/document/doi/10.1515/jpm-2016-0189/html",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-be597886099b"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12853721/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/12853721/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-12853721"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1371/journal.pone.0061910",
+      "status": 200,
+      "finalUrl": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061910",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-23613970"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.ajp.2012.10.002",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S1876201812001931",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-23380323"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.psyneuen.2013.11.004",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0306453013004071",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-24485481"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.concog.2012.06.003",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S1053810012001456",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-22742996"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1186/gb-2007-8-9-r189",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1186/gb-2007-8-9-r189?error=cookies_not_supported&code=4caebe02-e732-411d-96ab-0e1c8dcabb93",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-17854483"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12629875/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/12629875/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-12629875"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22719790/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/22719790/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-22719790"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1038/ncomms6392",
+      "status": 200,
+      "finalUrl": "https://www.nature.com/articles/ncomms6392?error=cookies_not_supported&code=008b724d-7816-48b3-aa23-2526774258eb",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-25386727"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5040919/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5040919/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-27317929"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.psyneuen.2016.08.010",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S030645301630556X",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-27543885"
+      ]
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s12671-019-01141-7",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s12671-019-01141-7?error=cookies_not_supported&code=e44fc17f-ea16-454e-8e9e-edcaf955a24a",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-6b8b9506be26"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3174632/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3174632/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-21896752"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20593431/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/20593431/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-20593431"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25749595/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/25749595/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-25749595"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.bbi.2011.01.003",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0889159111000080",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-21241793"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s10865-014-9575-4",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s10865-014-9575-4?error=cookies_not_supported&code=1bb0afbe-4ee6-42f7-89e9-1a327f2548c8",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-24888477"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22442202/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/22442202/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-22442202"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4940234/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4940234/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-26799456"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.3389/fnhum.2017.00315",
+      "status": 200,
+      "finalUrl": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2017.00315/full",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28694775"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25537522/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/25537522/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-25537522"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.biopsych.2016.01.008",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0006322316000792",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-27021514"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.psyneuen.2008.08.011",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0306453008002199",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-7e2f0ecca8d8"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.psyneuen.2009.06.008",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0306453009001991",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-5fad89c454d7"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1097/adm.0b013e31816f8546",
+      "status": 200,
+      "finalUrl": "https://www.ovid.com/jnls/journaladdictionmedicine/abstract/10.1097/adm.0b013e31816f8546~mindfulness-meditation-for-alcohol-relapse-prevention-a?redirectionsource=fulltextview",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-21768988"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24372522/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/24372522/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-24372522"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.bbi.2013.11.006",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0889159113005370",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-560b5106d25b"
+      ]
+    },
+    {
+      "url": "https://psycnet.apa.org/record/2008-06469-005",
+      "status": 403,
+      "finalUrl": "https://psycnet.apa.org/record/2008-06469-005",
+      "contentType": "text/html",
+      "curlExit": 0,
+      "recordIds": [
+        "src-915d4f585947"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.psyneuen.2011.10.008",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S030645301100312X",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-22169588"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.psyneuen.2017.08.016",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0306453017304031",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28889075"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.bbi.2013.04.005",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0889159113001736",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-23602876"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25964984/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/25964984/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-25964984"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s12671-016-0500-5",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s12671-016-0500-5?error=cookies_not_supported&code=8a10d513-d723-4e03-97e6-c9cc58194e2d",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-27217844"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.psyneuen.2010.09.010",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S030645301000243X",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-21035949"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.intimp.2014.06.001",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S1567576914002124",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-24929023"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23400965/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/23400965/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-23400965"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1186/2045-9912-1-24",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1186/2045-9912-1-24?error=cookies_not_supported&code=99222e6f-9c84-44fe-a6d0-f8be0716cca1",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-22146674"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25978109/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/25978109/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-25978109"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.2174/1567205014666171106145017",
+      "status": 200,
+      "finalUrl": "https://www.eurekaselect.com/article/86702",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-29110615"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jstrokecerebrovasdis.2017.06.012",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S105230571730294X",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28669654"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1186/2045-9912-3-11",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1186/2045-9912-3-11?error=cookies_not_supported&code=8d162278-df84-438f-97cd-4a4b0d0f3ac2",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-23742229"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/1-4020-3103-3_50",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/chapter/10.1007/1-4020-3103-3_50?error=cookies_not_supported&code=f0ae6be2-f486-4bf0-b048-69b10e9cf1f6",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-5bb0d2cb9d5aa958"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.neuropharm.2017.03.029",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0028390817301223",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28359771"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.4103/2045-9912.222448",
+      "status": 200,
+      "finalUrl": "https://www.ovid.com/jnls/mgar/fulltext/10.4103/2045-9912.222448~hydrogen-rich-water-for-improvements-of-mood-anxiety-and",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-29497485"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30053086/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/30053086/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-30053086"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29683360/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/29683360/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-29683360"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5376007/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5376007/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28386342"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jss.2012.01.041",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0022480412000625",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-22482765"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.brainresbull.2012.06.006",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0361923012001487",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-22742936"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.3164/jcbn.10-19",
+      "status": 200,
+      "finalUrl": "https://www.jstage.jst.go.jp/article/jcbn/46/3/46_10-19/_article",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-20490324"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1038/npjamd.2016.8",
+      "status": 200,
+      "finalUrl": "https://www.nature.com/articles/npjamd20168?error=cookies_not_supported&code=076a2f77-4045-43d2-add9-47501fd018bd",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28721265"
+      ]
+    },
+    {
+      "url": "https://www.nature.com/articles/srep18971",
+      "status": 200,
+      "finalUrl": "https://www.nature.com/articles/srep18971?error=cookies_not_supported&code=cd73e9b8-a147-478c-a50f-301d65e4b379",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-073eaac7c1c6"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.bbrc.2017.09.024",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0006291X17317849",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28890349"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1746263/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1746263/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-11828038"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.amjmed.2016.03.002",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0002934316303023",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-4077e7cc4fae"
+      ]
+    },
+    {
+      "url": "https://europepmc.org/abstract/med/24880524",
+      "status": 200,
+      "finalUrl": "https://europepmc.org/article/med/24880524",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-192b7dfe47ac"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17917468/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/17917468/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-17917468"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1097/gme.0b013e318204a05c",
+      "status": 200,
+      "finalUrl": "https://www.ovid.com/jnls/menopausejournal/abstract/10.1097/gme.0b013e318204a05c~mindfulness-training-for-coping-with-hot-flashes-results-of?redirectionsource=fulltextview",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-21372745"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21401686/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/21401686/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-21401686"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1017/s1092852900006805",
+      "status": 200,
+      "finalUrl": "https://www.cambridge.org/core/journals/cns-spectrums/article/abs/randomized-controlled-trial-of-yogic-meditation-techniques-for-patients-with-obsessivecompulsive-disorder/58279C562281FB7FEF7DB0951E734FF3",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-18311106"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s12671-016-0581-1",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s12671-016-0581-1?error=cookies_not_supported&code=34b4ccdf-c464-4bc4-8e17-b8f9c121e69b",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-2fc73b5bedff"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/s0140-6736(75)90002-1",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0140673675900021",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-49737"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.brat.2013.06.003",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0005796713001149",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-23872699"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.ctim.2012.07.003",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0965229912000891",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-a5e92130bd97"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s11469-014-9513-2",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s11469-014-9513-2?error=cookies_not_supported&code=961c48ad-c0e9-4d7f-b424-ecd24e62e8c9",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-b02eca96b6ce2f96"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.pain.2010.10.043",
+      "status": 200,
+      "finalUrl": "https://www.ovid.com/jnls/pain/abstract/10.1016/j.pain.2010.10.043~treating-fibromyalgia-with-mindfulness-based-stress?redirectionsource=fulltextview",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-21146930"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jpsychores.2015.03.009",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S002239991500080X",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-25818837"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.cpr.2013.05.005",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0272735813000731",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-23796855"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.3389/fnhum.2012.00034",
+      "status": 200,
+      "finalUrl": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2012.00034/full",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-22393318"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.neuroimage.2012.02.026",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S1053811912002030",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-22374478"
+      ]
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s12671-012-0158-6",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s12671-012-0158-6?error=cookies_not_supported&code=6b63d453-6d91-4dac-929d-2a9897713fab",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-e73970c48306"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19267396/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/19267396/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-19267396"
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20250708012451/https://centerhealthyminds.org/science/studies/changing-your-brain-and-generosity-through-compassion-meditation-training",
+      "status": 200,
+      "finalUrl": "https://web.archive.org/web/20250708012451/https://centerhealthyminds.org/science/studies/changing-your-brain-and-generosity-through-compassion-meditation-training",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-bd928165f653"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2944261/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2944261/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-20871742"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s10339-009-0352-1",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s10339-009-0352-1?error=cookies_not_supported&code=ae984e59-0adb-4860-bf9b-43eb67d62313",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-20013298"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.3389/fphys.2019.00190",
+      "status": 200,
+      "finalUrl": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2019.00190/full",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-30914965"
+      ]
+    },
+    {
+      "url": "https://www.heartmath.org/research/research-library/energetics/electricity-of-touch",
+      "status": 200,
+      "finalUrl": "https://www.heartmath.org/research/research-library/energetics/electricity-of-touch/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-d54916eb47e9"
+      ]
+    },
+    {
+      "url": "https://www.heartmath.org/research/research-library/coherence/southern-african-views-interconnectedness-special-reference-indigenous-knowledge",
+      "status": 200,
+      "finalUrl": "https://www.heartmath.org/research/research-library/coherence/southern-african-views-interconnectedness-special-reference-indigenous-knowledge/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-8e417c875b1c"
+      ]
+    },
+    {
+      "url": "https://www.heartmath.org/research/research-library/coherence/global-coherence-initiative-global-psychological-paradigm-health-promotion",
+      "status": 200,
+      "finalUrl": "https://www.heartmath.org/research/research-library/coherence/global-coherence-initiative-global-psychological-paradigm-health-promotion/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-8f2595a8750f"
+      ]
+    },
+    {
+      "url": "https://www.heartmath.org/research/research-library/energetics/achieving-collective-coherence-group-effects-on-heart-rate-variability-coherence-hrvc",
+      "status": 200,
+      "finalUrl": "https://www.heartmath.org/research/research-library/energetics/achieving-collective-coherence-group-effects-on-heart-rate-variability-coherence-hrvc/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-d13ac87370d2"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.3389/fpubh.2017.00267",
+      "status": 200,
+      "finalUrl": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2017.00267/full",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-29075623"
+      ]
+    },
+    {
+      "url": "https://www.heartmath.org/research/research-library/basic/gci-creating-a-coherent-planetary-standing-wave",
+      "status": 200,
+      "finalUrl": "https://www.heartmath.org/research/research-library/basic/gci-creating-a-coherent-planetary-standing-wave/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-9db71a3fce02"
+      ]
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s12232-016-0259-y",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s12232-016-0259-y?error=cookies_not_supported&code=84fa0ccf-f301-45ec-ad36-76c855f3a0c7",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-f525470f0e0b"
+      ]
+    },
+    {
+      "url": "https://www.heartmath.org/research/research-library/educational/coherence-training-in-children-with-adhd-cognitive-functions-and-behavioral-changes",
+      "status": 200,
+      "finalUrl": "https://www.heartmath.org/research/research-library/educational/coherence-training-in-children-with-adhd-cognitive-functions-and-behavioral-changes/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-6c32dbe59aae"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.4103/0973-6131.183712",
+      "status": 200,
+      "finalUrl": "https://www.ovid.com/jnls/ijoy/fulltext/10.4103/0973-6131.183712~yoga-and-heart-rate-variability-a-comprehensive-review-of",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-27512317"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1186/1472-6882-13-82",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1186/1472-6882-13-82?error=cookies_not_supported&code=121aaf86-cc51-4e0f-ab71-88e7022e4f73",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-23574691"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1186/1471-244x-10-18",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1186/1471-244X-10-18?error=cookies_not_supported&code=84f5f758-6295-4dc3-baae-1a8fc6fe9cfd",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-20193089"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1037/a0027278",
+      "status": 403,
+      "finalUrl": "https://doi.apa.org/doi/10.1037/a0027278",
+      "contentType": "text/html",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-22352291"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.4103/0973-6131.154069",
+      "status": 200,
+      "finalUrl": "https://www.ovid.com/jnls/ijoy/fulltext/10.4103/0973-6131.154069~resting-heart-rate-variability-after-yogic-training-and",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-26170587"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3191432/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3191432/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-22021757"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s10484-015-9291-z",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s10484-015-9291-z?error=cookies_not_supported&code=546fdc5c-c2c8-41aa-88a6-3d6f81a3131c",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-26059998"
+      ]
+    },
+    {
+      "url": "https://www.heartmath.org/research/research-library/educational/effects-of-hrv-coherence-biofeedback-training-and-emotional-management-techniques-to-decrease-music-performance-anxiety",
+      "status": 200,
+      "finalUrl": "https://www.heartmath.org/research/research-library/educational/effects-of-hrv-coherence-biofeedback-training-and-emotional-management-techniques-to-decrease-music-performance-anxiety/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-feb08f370505"
+      ]
+    },
+    {
+      "url": "https://www.heartmath.org/research/research-library/educational/facilitating-emotional-self-regulation-in-preschool-children",
+      "status": 200,
+      "finalUrl": "https://www.heartmath.org/research/research-library/educational/facilitating-emotional-self-regulation-in-preschool-children/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-be413ddf58a1"
+      ]
+    },
+    {
+      "url": "https://www.heartmath.org/research/research-library/organizational/resilience-training-program-reduces-physiological-and-psychological-stress-in-police-officers",
+      "status": 200,
+      "finalUrl": "https://www.heartmath.org/research/research-library/organizational/resilience-training-program-reduces-physiological-and-psychological-stress-in-police-officers/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-d4fda8276d47"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4311559/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4311559/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-25694852"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.3389/fnhum.2013.00414",
+      "status": 200,
+      "finalUrl": "https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2013.00414/full",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-23914165"
+      ]
+    },
+    {
+      "url": "https://www.heartmath.org/research/research-library/basic/grateful-heart-the-psychophysiology-of-appreciation",
+      "status": 200,
+      "finalUrl": "https://www.heartmath.org/research/research-library/basic/grateful-heart-the-psychophysiology-of-appreciation/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-aef02aca099c"
+      ]
+    },
+    {
+      "url": "https://www.heartmath.org/research/research-library/organizational/applying-resilience-promotion-training-among-special-forces-police-officers",
+      "status": 200,
+      "finalUrl": "https://www.heartmath.org/research/research-library/organizational/applying-resilience-promotion-training-among-special-forces-police-officers/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-f613a9d6c16a"
+      ]
+    },
+    {
+      "url": "https://www.heartmath.org/research/research-library/organizational/stress-management-based-on-trait-anxiety-levels-and-sleep-quality",
+      "status": 200,
+      "finalUrl": "https://www.heartmath.org/research/research-library/organizational/stress-management-based-on-trait-anxiety-levels-and-sleep-quality/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-8efda8da414f"
+      ]
+    },
+    {
+      "url": "https://www.frontiersin.org/articles/10.3389/fphys.2011.00086/full",
+      "status": 200,
+      "finalUrl": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2011.00086/full",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-22144961"
+      ]
+    },
+    {
+      "url": "https://www.heartmath.org/research/research-library/basic/a-healthy-heart-is-not-a-metronome",
+      "status": 200,
+      "finalUrl": "https://www.heartmath.org/research/research-library/basic/a-healthy-heart-is-not-a-metronome/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-ccd524bfd673"
+      ]
+    },
+    {
+      "url": "https://www.heartmath.org/research/research-library/basic/personality-and-heart-rate-variability",
+      "status": 200,
+      "finalUrl": "https://www.heartmath.org/research/research-library/basic/personality-and-heart-rate-variability/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-18b777c33bb6"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/s0167-8760(00)00085-4",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0167876000000854",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-da6e150a42eb"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.3389/fpsyt.2014.00080",
+      "status": 200,
+      "finalUrl": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2014.00080/full",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-25071612"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2855827/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2855827/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-20121706"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s10484-012-9185-2",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s10484-012-9185-2?error=cookies_not_supported&code=4fa4ed5f-eed3-4fa6-b6b2-64c0a510d25c",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-22402913"
+      ]
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s10484-016-9340-2",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s10484-016-9340-2?error=cookies_not_supported&code=08cda099-12c2-4243-a839-a94c80202398",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-5031d021086a"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/978-1-4614-2359-1_8",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/chapter/10.1007/978-1-4614-2359-1_8?error=cookies_not_supported&code=a698d802-5120-4733-b082-1b720068031e",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-06a7895977c054af"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.biopsych.2009.12.012",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0006322309014498",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-0c9e697acc13"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.ijpsycho.2013.06.018",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S016787601300189X",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-23797149"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11065312/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/11065312/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-11065312"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11673340/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/11673340/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-11673340"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/s0022-3999(97)00202-x",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S002239999700202X",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-9483470"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s00421-004-1055-z",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s00421-004-1055-z?error=cookies_not_supported&code=acdbb994-d214-4661-91ce-4efc8a7e2786",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-14991326"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/s0165-1781(02)00225-1",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0165178102002251",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-12467953"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27647521/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/27647521/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-27647521"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5478797/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5478797/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28588005"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4704912/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4704912/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-26679295"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6315222/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6315222/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-30545815"
+      ]
+    },
+    {
+      "url": "http://web.cs.wpi.edu/~emmanuel/publications/PDFs/C30.pdf",
+      "status": 200,
+      "finalUrl": "http://web.cs.wpi.edu/~emmanuel/publications/PDFs/C30.pdf",
+      "contentType": "application/pdf",
+      "curlExit": 0,
+      "recordIds": [
+        "src-dee30f32ce8c"
+      ]
+    },
+    {
+      "url": "http://ceur-ws.org/Vol-1866/paper_127.pdf",
+      "status": 200,
+      "finalUrl": "https://ceur-ws.org/Vol-1866/paper_127.pdf",
+      "contentType": "application/pdf",
+      "curlExit": 0,
+      "recordIds": [
+        "src-36ff9563ed31"
+      ]
+    },
+    {
+      "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0090315&type=printable",
+      "status": 200,
+      "finalUrl": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0090315&type=printable",
+      "contentType": "application/pdf",
+      "curlExit": 0,
+      "recordIds": [
+        "src-c1a1df977433"
+      ]
+    },
+    {
+      "url": "https://www.aclweb.org/anthology/W14-3207",
+      "status": 200,
+      "finalUrl": "https://aclanthology.org/W14-3207/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-6a76d25fd47a"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.2196/jmir.2718",
+      "status": 202,
+      "finalUrl": "http://www.jmir.org/2013/10/e217/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-804727a0fe5d"
+      ]
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/publication/predicting-postpartum-changes-emotion-behavior-via-social-media",
+      "status": 200,
+      "finalUrl": "https://www.microsoft.com/en-us/research/publication/predicting-postpartum-changes-emotion-behavior-via-social-media/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-0306fa89e427"
+      ]
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/abstract/document/7070166",
+      "status": 200,
+      "finalUrl": "https://ieeexplore.ieee.org/abstract/document/7070166",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-cec16e08a07b"
+      ]
+    },
+    {
+      "url": "https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-017-0110-z",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1140/epjds/s13688-017-0110-z?error=cookies_not_supported&code=1e1e738d-daa0-4c7b-b7a3-54ccc1ba6ff6",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-ec9560b5ddc0"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1371/journal.pone.0110171",
+      "status": 200,
+      "finalUrl": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0110171",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-25333470"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1186/s12888-015-0408-y",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1186/s12888-015-0408-y?error=cookies_not_supported&code=b55e3efd-3c3d-41ac-ab58-92d07fe4853f",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-25881089"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5139057/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5139057/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-26647109"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1017/s2045796015001067",
+      "status": 200,
+      "finalUrl": "https://www.cambridge.org/core/journals/epidemiology-and-psychiatric-sciences/article/future-of-mental-health-care-peertopeer-support-and-social-media/DC0FB362B67DF2A48D42D487ED07C783",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-26744309"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23615206/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/23615206/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-23615206"
+      ]
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/publication/predicting-depression-via-social-media/",
+      "status": 200,
+      "finalUrl": "https://www.microsoft.com/en-us/research/publication/predicting-depression-via-social-media/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-346c18a7b207"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/1712.03538",
+      "status": 200,
+      "finalUrl": "https://arxiv.org/abs/1712.03538",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-7f7df6f3a7e2"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1136/amiajnl-2014-002841",
+      "status": 403,
+      "finalUrl": "https://academic.oup.com/jamia/article/22/1/243/833940",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-1fa89730e1eb"
+      ]
+    },
+    {
+      "url": "http://www.acrwebsite.org/volumes/6720/volumes/v14/NA-14",
+      "status": 404,
+      "finalUrl": "https://acrwebsite.org/volumes/6720/volumes/v14/NA-14",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-26666e925d94"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19275991/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/19275991/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-19275991"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27707822/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/27707822/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-27707822"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.3389/fpsyg.2019.00263",
+      "status": 200,
+      "finalUrl": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00263/full",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-30804863"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6402067/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6402067/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-30858710"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s10916-019-1237-1",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s10916-019-1237-1?error=cookies_not_supported&code=971307ae-92a2-4add-a186-db7c970bc0d5",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-30949846"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6315236/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6315236/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-30552076"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24515537/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/24515537/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-24515537"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23568415/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/23568415/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-23568415"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.aip.2016.05.012",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0197455616300867",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-5ccef969cd6a"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1080/17454832.2016.1170053",
+      "status": 403,
+      "finalUrl": "https://www.tandfonline.com/doi/full/10.1080/17454832.2016.1170053",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-1e1e2bd1138b8cfd"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.cbpra.2011.09.001",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S1077722911001453",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-ab7cad41c0a1"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s11013-011-9218-y",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s11013-011-9218-y?error=cookies_not_supported&code=c93057f8-01d1-4923-af5f-f5c15892fbfa",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-21630119"
+      ]
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s10903-010-9318-",
+      "status": 404,
+      "finalUrl": "https://link.springer.com/article/10.1007/s10903-010-9318-",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-e33851fc9d08"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1080/17542860903411615",
+      "status": 403,
+      "finalUrl": "https://www.tandfonline.com/doi/abs/10.1080/17542860903411615",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-1c956a43ab59"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16382423/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/16382423/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-16382423"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.cbpra.2006.04.007",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S1077722906000915",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-20072706"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.cbpra.2006.04.008",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S1077722906000927",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-86c4acbb742d"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/23784718/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/23784718/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-23784718"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1300/j009v24n03_09",
+      "status": 403,
+      "finalUrl": "https://www.tandfonline.com/doi/abs/10.1300/J009v24n03_09",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-afe44de7f462e56e"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5871269/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5871269/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-29228794"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s10943-015-0044-3",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s10943-015-0044-3?error=cookies_not_supported&code=7f95cc9f-c5e5-4bbb-acae-22de70c7637f",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-25862338"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12801395/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/12801395/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-12801395"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1080/10911359.2017.1282912",
+      "status": 403,
+      "finalUrl": "https://www.tandfonline.com/doi/full/10.1080/10911359.2017.1282912",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-2cc6078ca91d89ea"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.14485/hbpr.2.2.4",
+      "status": 403,
+      "finalUrl": "https://www.ingentaconnect.com/openurl?genre=article&issn=2326-4403&volume=2&issue=2&spage=122",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-ea7973a48c81"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1086/684107",
+      "status": 403,
+      "finalUrl": "https://www.journals.uchicago.edu/doi/10.1086/684107",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-cfebd98a61bb"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s12671-015-0431-6",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s12671-015-0431-6?error=cookies_not_supported&code=45984fcb-8276-44ee-aee8-f99ad39c2c4b",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-1e4b5bdcc2212351"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s10826-013-9809-z",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s10826-013-9809-z?error=cookies_not_supported&code=f94e44d5-265f-4b83-b72e-d78210f19393",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-bcda25fdeb002c46"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s10802-014-9937-y",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s10802-014-9937-y?error=cookies_not_supported&code=2db4cd1c-d5c9-4539-9a9d-a608ba26ac34",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-25234347"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.ctcp.2015.06.007",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S1744388115000535",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-26256140"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25582800/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/25582800/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-25582800"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1111/j.1750-8606.2011.00215.x",
+      "status": 403,
+      "finalUrl": "https://academic.oup.com/cdpers/article/6/2/161/8234764",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-b8c111dd4c4a9cd1"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s10802-010-9418-x",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s10802-010-9418-x?error=cookies_not_supported&code=669afc98-0e32-4e8b-b7b9-041fc0f33f0c",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-20440550"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s10826-011-9552-2",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s10826-011-9552-2?error=cookies_not_supported&code=12aaa607-b464-4aef-a444-2ad19f1f8794",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-efaa5ab4cab4e9ec"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s10826-014-9926-3",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s10826-014-9926-3?error=cookies_not_supported&code=65e6b215-2f00-4a67-a6e6-9fb0c0cbac98",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-2d7461017405ab6b"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1136/bmjopen-2016-013518",
+      "status": 403,
+      "finalUrl": "https://bmjopen.bmj.com/lookup/doi/10.1136/bmjopen-2016-013518",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-0e1e9057a0a3"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1186/1745-6215-14-396",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1186/1745-6215-14-396?error=cookies_not_supported&code=7a135173-f9c4-4f97-a521-b66be985f9ce",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-24257410"
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20250619022357/https://www.dva.gov.au/documents-and-publications/role-meditational-practices-and-mindfulness-improving-mental-health",
+      "status": 200,
+      "finalUrl": "https://web.archive.org/web/20250619022357/https://www.dva.gov.au/documents-and-publications/role-meditational-practices-and-mindfulness-improving-mental-health",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-5b5cfdfc3ae1"
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20250331013021/https://accan.org.au/our-work/937-homeless-mobile-use",
+      "status": 200,
+      "finalUrl": "https://web.archive.org/web/20250331013021/https://accan.org.au/our-work/937-homeless-mobile-use",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-487a37fcb405"
+      ]
+    },
+    {
+      "url": "https://accan.org.au/files/Grants/homelessandconnected/Homeless_and_Connected_web.pdf",
+      "status": 404,
+      "finalUrl": "https://www.accan.org.au/files/Grants/homelessandconnected/Homeless_and_Connected_web.pdf",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-7079ef417f29"
+      ]
+    },
+    {
+      "url": "https://www.thegoodnewsmovement.com/homeless-use-smart-phones-for-help",
+      "status": 200,
+      "finalUrl": "https://www.thegoodnewsmovement.com/homeless-use-smart-phones-for-help/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-0f21374720c6"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1111/juaf.12310",
+      "status": 403,
+      "finalUrl": "https://www.tandfonline.com/doi/full/10.1111/juaf.12310",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-3033fb68b3cc2d76"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1111/jcc4.12038",
+      "status": 403,
+      "finalUrl": "https://academic.oup.com/jcmc/article/19/2/232-247/4067540",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-056d5bb4ab8f"
+      ]
+    },
+    {
+      "url": "https://www.jaacap.org/article/S0890-8567(17)30718-9/fulltext",
+      "status": 403,
+      "finalUrl": "https://www.jaacap.org/article/S0890-8567(17)30718-9/fulltext",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-c2a045689063"
+      ]
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/abstract/document/6970348",
+      "status": 200,
+      "finalUrl": "https://ieeexplore.ieee.org/abstract/document/6970348",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-3fd04fd75050"
+      ]
+    },
+    {
+      "url": "https://pdfs.semanticscholar.org/6bcb/3a16eab630c63a811b85a9017973860ea2b4.pdf",
+      "status": 202,
+      "finalUrl": "https://www.semanticscholar.org/paper/Designs-on-Mobility-%3A-Perceptions-of-Mobile-Phones-Kim/6bcb3a16eab630c63a811b85a9017973860ea2b4?p2df",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-e697165c619f"
+      ]
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/abstract/document/6970341",
+      "status": 200,
+      "finalUrl": "https://ieeexplore.ieee.org/abstract/document/6970341",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-0e7b54c332697f06"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24609454/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/24609454/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-24609454"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6516785/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6516785/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-31097900"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25046280/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/25046280/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-25046280"
+      ]
+    },
+    {
+      "url": "https://psycnet.apa.org/doiLanding?doi=10.1037/a0024485",
+      "status": 403,
+      "finalUrl": "https://psycnet.apa.org/doiLanding?doi=10.1037/a0024485",
+      "contentType": "text/html",
+      "curlExit": 0,
+      "recordIds": [
+        "src-c5f78a99d96b"
+      ]
+    },
+    {
+      "url": "https://search.informit.com.au/documentSummary;dn=649816056264332;res=IELFSC;type=pdf",
+      "status": 403,
+      "finalUrl": "https://search.informit.com.au/documentSummary;dn=649816056264332;res=IELFSC;type=pdf",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-c31d71bab531"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24001876/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/24001876/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-24001876"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4965613/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4965613/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-27417882"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1037/ser0000120",
+      "status": 403,
+      "finalUrl": "https://doi.apa.org/doi/10.1037/ser0000120",
+      "contentType": "text/html",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28481610"
+      ]
+    },
+    {
+      "url": "https://medium.com/@blockchainforchange/blockchain-for-change-identity-security-and-financial-inclusion-1bcef12d4846",
+      "status": 200,
+      "finalUrl": "https://medium.com/@blockchainforchange/blockchain-for-change-identity-security-and-financial-inclusion-1bcef12d4846",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-4e8fa4627757"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.2196/10654",
+      "status": 202,
+      "finalUrl": "http://www.researchprotocols.org/2019/3/e10654/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-1ce42b7cb8c4"
+      ]
+    },
+    {
+      "url": "https://medium.com/hypergive/introducing-hypergive-secure-digital-food-wallets-for-homeless-or-hungry-people-in-your-community-4e7ad17def81",
+      "status": 200,
+      "finalUrl": "https://medium.com/hypergive/introducing-hypergive-secure-digital-food-wallets-for-homeless-or-hungry-people-in-your-community-4e7ad17def81",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-742beffd7dfb"
+      ]
+    },
+    {
+      "url": "https://www.technologyreview.com/s/610806/inside-the-jordan-refugee-camp-that-runs-on-blockchain",
+      "status": 200,
+      "finalUrl": "https://www.technologyreview.com/2018/04/12/143410/inside-the-jordan-refugee-camp-that-runs-on-blockchain/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-d7f47e4a1e10"
+      ]
+    },
+    {
+      "url": "https://www.unhcr.org/blogs/wp-content/uploads/sites/48/2018/04/fs.pdf",
+      "status": 200,
+      "finalUrl": "https://www.unhcr.org/blogs/wp-content/uploads/sites/48/2018/04/fs.pdf",
+      "contentType": "application/pdf",
+      "curlExit": 0,
+      "recordIds": [
+        "src-b9232b337294"
+      ]
+    },
+    {
+      "url": "https://hackernoon.com/dive-into-the-refugee-camp-in-jordan-that-runs-on-blockchain-924a8fde2d9d",
+      "status": 200,
+      "finalUrl": "https://hackernoon.com/dive-into-the-refugee-camp-in-jordan-that-runs-on-blockchain-924a8fde2d9d",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-7bab2527ffda"
+      ]
+    },
+    {
+      "url": "https://www.unhcr.org/blogs/3-things-you-need-to-know-about-blockchain",
+      "status": 200,
+      "finalUrl": "https://www.unhcr.org/blogs/3-things-you-need-to-know-about-blockchain/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-f81bce3efd79"
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20191122094511/https://breakermag.com/the-u-n-s-powerful-new-way-to-aid-refugees/",
+      "status": 200,
+      "finalUrl": "https://web.archive.org/web/20191122094511/https://breakermag.com/the-u-n-s-powerful-new-way-to-aid-refugees/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-319a0032dd2e"
+      ]
+    },
+    {
+      "url": "https://innovation.wfp.org/project/building-blocks",
+      "status": 200,
+      "finalUrl": "https://innovation.wfp.org/project/building-blocks",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-2821ce68942b"
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20240420183227/https://www.keesingtechnologies.com/wp-content/uploads/2016/10/KJD51_Mordini_copyright.pdf",
+      "status": 200,
+      "finalUrl": "https://web.archive.org/web/20240420183227/https://www.keesingtechnologies.com/wp-content/uploads/2016/10/KJD51_Mordini_copyright.pdf",
+      "contentType": "application/pdf",
+      "curlExit": 0,
+      "recordIds": [
+        "src-b66173aa6453"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.clsr.2017.03.016",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0267364917300845",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-51437ce1145b"
+      ]
+    },
+    {
+      "url": "https://ieeexplore.ieee.org/abstract/document/8338009",
+      "status": 200,
+      "finalUrl": "https://ieeexplore.ieee.org/abstract/document/8338009",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-9c3263b6b942"
+      ]
+    },
+    {
+      "url": "https://jhumanitarianaction.springeropen.com/articles/10.1186/s41018-018-0044-5",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1186/s41018-018-0044-5?error=cookies_not_supported&code=0a509490-1744-4b2d-a6ed-43ab0aafda95",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-e4870b8eaf8c"
+      ]
+    },
+    {
+      "url": "https://upcommons.upc.edu/bitstream/handle/2099.1/22866/Wirelesscommunicationsystemdesignforrefugeecampsandconflictareas.pdf",
+      "status": 404,
+      "finalUrl": "https://upcommons.upc.edu/bitstream/handle/2099.1/22866/Wirelesscommunicationsystemdesignforrefugeecampsandconflictareas.pdf",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-66b12deb6c93"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1108/ITP-04-2014-0083",
+      "status": 403,
+      "finalUrl": "https://www.emerald.com/itp/article/28/2/344-365/180452",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-b3cbba6f11c8"
+      ]
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Humayun_Rashid3/publication/313574574_Emergency_Wireless_Health_Monitoring_System_using_Wearable_Technology_for_Refugee_Camp_and_Disaster_Affected_People/links/58ea472fa6fdccb4a834ed14/Emergency-Wireless-Health-Monitoring-System-using-Wearable-Technology-for-Refugee-Camp-and-Disaster-Affected-People.pdf",
+      "status": 403,
+      "finalUrl": "https://www.researchgate.net/profile/Humayun_Rashid3/publication/313574574_Emergency_Wireless_Health_Monitoring_System_using_Wearable_Technology_for_Refugee_Camp_and_Disaster_Affected_People/links/58ea472fa6fdccb4a834ed14/Emergency-Wireless-Health-Monitoring-System-using-Wearable-Technology-for-Refugee-Camp-and-Disaster-Affected-People.pdf",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-0d942853ac35"
+      ]
+    },
+    {
+      "url": "https://firstmonday.org/ojs/index.php/spir/article/view/9034",
+      "status": 200,
+      "finalUrl": "https://spir.aoir.org/ojs/index.php/spir/article/view/9034",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-4ea7fc11a568"
+      ]
+    },
+    {
+      "url": "http://www.purkh.com/index.php/tocomp/article/view/49",
+      "status": 200,
+      "finalUrl": "https://www.purkh.com/computer-reviews-journal.html",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-468b71eb3291"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.4000/questionsdecommunication.12523",
+      "status": 200,
+      "finalUrl": "https://journals.openedition.org/questionsdecommunication/12523",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-2de5a21f0816"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25653222/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/25653222/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-25653222"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1080/15405702.2017.1413191",
+      "status": 403,
+      "finalUrl": "https://www.tandfonline.com/doi/full/10.1080/15405702.2017.1413191",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-66e3650652d792e2"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1080/15562948.2013.856510",
+      "status": 403,
+      "finalUrl": "https://www.tandfonline.com/doi/abs/10.1080/15562948.2013.856510",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-335fd4c429caa4ae"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1002/jaal.254",
+      "status": 403,
+      "finalUrl": "https://onlinelibrary.wiley.com/doi/10.1002/jaal.254",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-87bf47f60a24"
+      ]
+    },
+    {
+      "url": "https://dl.acm.org/citation.cfm?id=3177833",
+      "status": 403,
+      "finalUrl": "https://dl.acm.org/citation.cfm?id=3177833",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-418e29320057"
+      ]
+    },
+    {
+      "url": "https://aisel.aisnet.org/icis2016/Panels/Presentations/5",
+      "status": 200,
+      "finalUrl": "https://aisel.aisnet.org/icis2016/Panels/Presentations/5/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-ddd4bad4438e"
+      ]
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Ioana_Literat/publication/313599385_Refugee_Selfies_and_the_Self-Representation_of_Disenfranchised_Social_Groups/links/589f401a92851c7fb4bdec97/Refugee-Selfies-and-the-Self-Representation-of-Disenfranchised-Social-Groups.pdf",
+      "status": 403,
+      "finalUrl": "https://www.researchgate.net/profile/Ioana_Literat/publication/313599385_Refugee_Selfies_and_the_Self-Representation_of_Disenfranchised_Social_Groups/links/589f401a92851c7fb4bdec97/Refugee-Selfies-and-the-Self-Representation-of-Disenfranchised-Social-Groups.pdf",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-8914d4e08c84"
+      ]
+    },
+    {
+      "url": "https://www.migrationpolicy.org/sites/default/files/publications/TCM-Asylum-Benton-FINAL.pdf",
+      "status": 200,
+      "finalUrl": "https://www.migrationpolicy.org/sites/default/files/publications/TCM-Asylum-Benton-FINAL.pdf",
+      "contentType": "application/pdf",
+      "curlExit": 0,
+      "recordIds": [
+        "src-35bb6dff46f4"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1177/2056305118764440",
+      "status": 403,
+      "finalUrl": "https://journals.sagepub.com/doi/10.1177/2056305118764440",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-94ef326e2e9a602d"
+      ]
+    },
+    {
+      "url": "https://www.unhcr.org/innovation/connectivity-for-refugees",
+      "status": 404,
+      "finalUrl": "https://www.unhcr.org/innovation/connectivity-for-refugees",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-765723fc55e2"
+      ]
+    },
+    {
+      "url": "https://www.gsma.com/mobilefordevelopment/resources/the-importance-of-mobile-for-refugees-a-landscape-of-new-services-and-approaches",
+      "status": 200,
+      "finalUrl": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/gsma_resources/the-importance-of-mobile-for-refugees-a-landscape-of-new-services-and-approaches/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-d6d47376f9c0"
+      ]
+    },
+    {
+      "url": "https://www.unhcr.org/en-au/5770d43c4.pdf",
+      "status": 200,
+      "finalUrl": "https://www.unhcr.org/au/media/connecting-refugees",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-eb96e0eb602d"
+      ]
+    },
+    {
+      "url": "https://www.pewglobal.org/2018/10/09/majorities-in-sub-saharan-africa-own-mobile-phones-but-smartphone-adoption-is-modest",
+      "status": 200,
+      "finalUrl": "https://www.pewresearch.org/global/2018/10/09/majorities-in-sub-saharan-africa-own-mobile-phones-but-smartphone-adoption-is-modest/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-b5a8b2663640"
+      ]
+    },
+    {
+      "url": "https://www.gsma.com/r/mobileeconomy/sub-saharan-africa",
+      "status": 404,
+      "finalUrl": "https://www.gsma.com/r/mobileeconomy/sub-saharan-africa",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-38150b2a118e"
+      ]
+    },
+    {
+      "url": "https://www.un.org/africarenewal/magazine/april-2018-july-2018/africa-could-be-next-frontier-cryptocurrency",
+      "status": 200,
+      "finalUrl": "https://africarenewal.un.org/en",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-8e2c843200d2"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1186/s12939-016-0366-0",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1186/s12939-016-0366-0?error=cookies_not_supported&code=ca9a0a92-4542-44c4-863f-b9dfb9a5ae3e",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-27225519"
+      ]
+    },
+    {
+      "url": "https://www.abs.gov.au/ausstats/abs%40.nsf/Lookup/by%20Subject/2071.0~2016~Main%20Features~Aboriginal%20and%20Torres%20Strait%20islander%20Population%20Article~12",
+      "status": 200,
+      "finalUrl": "https://www.abs.gov.au/ausstats/abs%40.nsf/Lookup/by%20Subject/2071.0~2016~Main%20Features~Aboriginal%20and%20Torres%20Strait%20islander%20Population%20Article~12",
+      "contentType": "text/html; charset=ISO-8859-1",
+      "curlExit": 0,
+      "recordIds": [
+        "src-41ca41304bcd"
+      ]
+    },
+    {
+      "url": "https://www.creativespirits.info/aboriginalculture/media/aboriginal-use-of-social-media",
+      "status": 200,
+      "finalUrl": "https://www.creativespirits.info/aboriginalculture/media/aboriginal-use-of-social-media",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-cb0ec4e8402c"
+      ]
+    },
+    {
+      "url": "https://www.dva.gov.au/sites/default/files/technology-use-and-wellbeing-report.pdf",
+      "status": 200,
+      "finalUrl": "https://www.dva.gov.au/sites/default/files/technology-use-and-wellbeing-report.pdf",
+      "contentType": "application/pdf",
+      "curlExit": 0,
+      "recordIds": [
+        "src-fd4c7398e614"
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20200417001029/https://at-ease.dva.gov.au/resources/mobile-apps",
+      "status": 200,
+      "finalUrl": "https://web.archive.org/web/20200417001029/https://at-ease.dva.gov.au/resources/mobile-apps",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-431b8c7039b1"
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20200520002805/https://at-ease.dva.gov.au/",
+      "status": 200,
+      "finalUrl": "https://web.archive.org/web/20200520002805/https://at-ease.dva.gov.au/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-6187c7d861f2"
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20210508133726/https://www.homelessnessaustralia.org.au/about/homelessness-statistics",
+      "status": 200,
+      "finalUrl": "https://web.archive.org/web/20210508133726/https://www.homelessnessaustralia.org.au/about/homelessness-statistics",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-02b1d4949a40"
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20210507061838/https://www.aihw.gov.au/reports/mental-health-services/mental-health-services-in-australia-in-brief-2018/contents/table-of-contents",
+      "status": 200,
+      "finalUrl": "https://web.archive.org/web/20210507061838/https://www.aihw.gov.au/reports/mental-health-services/mental-health-services-in-australia-in-brief-2018/contents/table-of-contents",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-a25d1aadf21e"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11437809/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/11437809/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-11437809"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11127626/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/11127626/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-11127626"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14961935/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/14961935/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-14961935"
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20211203005242/https://www1.health.gov.au/internet/publications/publishing.nsf/Content/mental-pubs-n-report13-toc~mental-pubs-n-report13-3~mental-pubs-n-report13-3-4~mental-pubs-n-report13-3-4-ind19",
+      "status": 200,
+      "finalUrl": "https://web.archive.org/web/20211203005242/https://www1.health.gov.au/internet/publications/publishing.nsf/Content/mental-pubs-n-report13-toc~mental-pubs-n-report13-3~mental-pubs-n-report13-3-4~mental-pubs-n-report13-3-4-ind19",
+      "contentType": "text/html; charset=US-ASCII",
+      "curlExit": 0,
+      "recordIds": [
+        "src-fafddbacaca4"
+      ]
+    },
+    {
+      "url": "https://mhaustralia.org/sites/default/files/imported/component/rsfiles/publications/MHCA_Home_Truths_Layout_FINAL.pdf",
+      "status": 200,
+      "finalUrl": "https://www.mentalhealthaustralia.org.au/sites/default/files/imported/component/rsfiles/publications/MHCA_Home_Truths_Layout_FINAL.pdf",
+      "contentType": "application/pdf",
+      "curlExit": 0,
+      "recordIds": [
+        "src-836261e713b0"
+      ]
+    },
+    {
+      "url": "https://www.unhcr.org/en-au/5ac5790a7.pdf",
+      "status": 200,
+      "finalUrl": "https://www.unhcr.org/au/media/protection-australias-so-called-legacy-caseload-asylum-seekers",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-1ee0e5be1bde"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1186/s12888-017-1239-9",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1186/s12888-017-1239-9?error=cookies_not_supported&code=4a01029c-6c50-424b-8ae7-9bfc105c3950",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28222713"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17938152/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/17938152/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-17938152"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jpsychires.2009.08.006",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0022395609001824",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-19875131"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19654388/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/19654388/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-19654388"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.psychres.2010.12.015",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0165178110007833",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-fb22af03c638"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1108/17479894200600002",
+      "status": 403,
+      "finalUrl": "https://www.emerald.com/ijmhsc/article/2/1/4-14/147518",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-5f4dece4d525"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1093/rsq/hdn034",
+      "status": 403,
+      "finalUrl": "https://academic.oup.com/rsq/article-lookup/doi/10.1093/rsq/hdn034",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-c61b4fbb2519"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s00127-007-0194-z",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s00127-007-0194-z?error=cookies_not_supported&code=8fe31e14-8c42-48e0-9c2f-d175793f1edc",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-17450451"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16476137/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/16476137/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-16476137"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1192/bjp.bp.104.007864",
+      "status": 200,
+      "finalUrl": "https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/impact-of-immigration-detention-and-temporary-protection-on-themental-health-of-refugees/B6914BF421D202CE4474C5F757BC541E",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-16388071"
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20250918053156/https://www.abs.gov.au/ausstats/abs@.nsf/mf/4727.0.55.001",
+      "status": 200,
+      "finalUrl": "https://web.archive.org/web/20250918053156/https://www.abs.gov.au/ausstats/abs@.nsf/mf/4727.0.55.001",
+      "contentType": "text/html; charset=ISO-8859-1",
+      "curlExit": 0,
+      "recordIds": [
+        "src-22bb91ee46db"
+      ]
+    },
+    {
+      "url": "https://research.acer.edu.au/indigenous_education/24/",
+      "status": 200,
+      "finalUrl": "https://research.acer.edu.au/indigenous_education/24/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-251870752ed3"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17441816/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/17441816/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-17441816"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17508316/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/17508316/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-17508316"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22304605/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/22304605/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-22304605"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.5172/jamh.3.3.88",
+      "status": 403,
+      "finalUrl": "https://www.tandfonline.com/doi/full/10.5172/jamh.3.3.88",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-f265f80eb04c"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11421971/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/11421971/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-11421971"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1111/j.1440-1630.2005.00507.x",
+      "status": 403,
+      "finalUrl": "https://onlinelibrary.wiley.com/doi/10.1111/j.1440-1630.2005.00507.x",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-0f4a427987f6"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1186/1471-244x-9-47",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1186/1471-244X-9-47?error=cookies_not_supported&code=e441c4fb-90a9-4251-b7aa-eab93fdeb22d",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-19646284"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20367644/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/20367644/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-20367644"
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20200212152138/https://www.dva.gov.au/health-and-wellbeing/research-and-development/social-research/transition-and-wellbeing-research",
+      "status": 200,
+      "finalUrl": "https://web.archive.org/web/20200212152138/https://www.dva.gov.au/health-and-wellbeing/research-and-development/social-research/transition-and-wellbeing-research",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-02b414423ea8"
+      ]
+    },
+    {
+      "url": "https://www.orygen.org.au/thenextpost",
+      "status": 200,
+      "finalUrl": "https://www.orygen.org.au/thenextpost",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-f0c081b81b89"
+      ]
+    },
+    {
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Foreign_Affairs_Defence_and_Trade/ADF_Mental_Health/~/media/Committees/fadt_ctte/ADF_Mental_Health/report.pdf",
+      "status": 403,
+      "finalUrl": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Foreign_Affairs_Defence_and_Trade/ADF_Mental_Health/~/media/Committees/fadt_ctte/ADF_Mental_Health/report.pdf",
+      "contentType": "text/html",
+      "curlExit": 0,
+      "recordIds": [
+        "src-a508e60b7923"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28795405/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/28795405/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28795405"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1017/s2045796015000517",
+      "status": 200,
+      "finalUrl": "https://www.cambridge.org/core/journals/epidemiology-and-psychiatric-sciences/article/abs/timecourse-of-ptsd-symptoms-in-the-australian-defence-force-a-retrospective-cohort-study/0DB1574695C2D9832DE160B1D70E4D42",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-26074123"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29769367/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/29769367/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-29769367"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28103407/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/28103407/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28103407"
+      ]
+    },
+    {
+      "url": "https://search.informit.com.au/documentSummary;dn=190881862385587;res=IELHEA",
+      "status": 403,
+      "finalUrl": "https://search.informit.com.au/documentSummary;dn=190881862385587;res=IELHEA",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-eea02e5f3c8d"
+      ]
+    },
+    {
+      "url": "http://eprints.qut.edu.au/650",
+      "status": 200,
+      "finalUrl": "https://eprints.qut.edu.au/650/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-473becc5048a"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9119558/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/9119558/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-9119558"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18833581/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/18833581/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-18833581"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15310251/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/15310251/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-15310251"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21967386/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/21967386/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-21967386"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41534731/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/41534731/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-41534731"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.3389/fpsyg.2025.1653242",
+      "status": 200,
+      "finalUrl": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1653242/full",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-41020112"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11686021/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11686021/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-39680432"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11098967/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11098967/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-37982547"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.bbih.2023.100672",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S2666354623000868",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-37560036"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.bbih.2022.100531",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S2666354622001211",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-36267832"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.bbi.2022.04.003",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0889159122000964",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-35427760"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s12671-022-01857-z",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s12671-022-01857-z?error=cookies_not_supported&code=be0b1beb-dad6-46cf-adbb-1c8031b54852",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-36278141"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s12035-024-04096-6",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s12035-024-04096-6?error=cookies_not_supported&code=bd70a58c-124d-4389-ae09-57217b744074",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-38671329"
+      ]
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s12671-026-02877-9",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s12671-026-02877-9?error=cookies_not_supported&code=bc2f15d7-9a3d-442e-86dd-a5ccce300b68",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-10.1007-s12671-026-02877-9"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9647561/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9647561/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-36350591"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9340028/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9340028/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-35820992"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4914381/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4914381/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-27002445"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26241597/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/26241597/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-26241597"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25907157/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/25907157/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-25907157"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12078190/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12078190/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-40379363"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.biopsycho.2017.09.004",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0301051117302338",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28890000"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.yhbeh.2012.12.003",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0018506X12002930",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-ed35d20b36c4"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.psyneuen.2014.05.020",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0306453014002042",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-25001970"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.neuron.2017.06.003",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0896627317305019",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28669546"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.biopsych.2012.12.023",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0006322313000395",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-e74337ebcb41"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/0028-3908(90)90095-9",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/0028390890900959",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-19dff8a8bbe5"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6493805/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6493805/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-20557568"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/s0306-4530(98)00064-x",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S030645309800064X",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-9924746"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.bbadis.2016.07.004",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0925443916301648",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-27425032"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.neuron.2017.07.002",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0896627317306049",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28728017"
+      ]
+    },
+    {
+      "url": "https://www.nature.com/articles/s41467-019-08503-8",
+      "status": 200,
+      "finalUrl": "https://www.nature.com/articles/s41467-019-08503-8?error=cookies_not_supported&code=3e8efaf1-576e-4dfb-aa28-50e7d36e7fdc",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-30737392"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/0197-0186(86)90138-5",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/0197018686901385",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-20493150"
+      ]
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s11538-007-9261-6",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s11538-007-9261-6?error=cookies_not_supported&code=f5df6ab7-5c07-4b99-acc2-ad61d115185c",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-17994268"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.psyneuen.2015.04.007",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S030645301500147X",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-25935637"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.biopsycho.2016.02.007",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0301051116300357",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-26903384"
+      ]
+    },
+    {
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2018.00359/full",
+      "status": 200,
+      "finalUrl": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2018.00359/full",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-30135663"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.ajog.2017.05.023",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0002937817306324",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28526450"
+      ]
+    },
+    {
+      "url": "https://jphysiolanthropol.biomedcentral.com/articles/10.1186/s40101-020-00232-y",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1186/s40101-020-00232-y?error=cookies_not_supported&code=f2ed1d43-ddbc-4b2c-9aef-0890c2609ff3",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-32795360"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3250137/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3250137/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-22123970"
+      ]
+    },
+    {
+      "url": "https://www.nature.com/articles/s41598-017-10821-0",
+      "status": 200,
+      "finalUrl": "https://www.nature.com/articles/s41598-017-10821-0?error=cookies_not_supported&code=64e2ace2-595c-43ff-a827-8184bd4e365d",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28912494"
+      ]
+    },
+    {
+      "url": "https://www.nature.com/articles/s41598-019-44175-6",
+      "status": 200,
+      "finalUrl": "https://www.nature.com/articles/s41598-019-44175-6?error=cookies_not_supported&code=55684c23-1c3c-4285-863a-824e2dd38e40",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-f509442c9ca1"
+      ]
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s00787-019-01414-5",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s00787-019-01414-5?error=cookies_not_supported&code=2ea178fd-fdde-4566-a917-50d604d3aaad",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-31587084"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4560652/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4560652/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-26178189"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4704389/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4704389/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-26738630"
+      ]
+    },
+    {
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131820",
+      "status": 200,
+      "finalUrl": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131820",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-26121678"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.psyneuen.2018.12.240",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0306453018308941",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-30605805"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.chiabu.2019.104151",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S014521341930328X",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-31521905"
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20210923024331/https://selfdecode.com/snp/rs1042778/",
+      "status": 200,
+      "finalUrl": "https://web.archive.org/web/20210923024331/https://selfdecode.com/snp/rs1042778/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-e1a6ed6a974c"
+      ]
+    },
+    {
+      "url": "https://selfdecode.com/en/snp/rs2254298/",
+      "status": 202,
+      "finalUrl": "https://selfdecode.com/en/snp/rs2254298/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-312a65e2c0be"
+      ]
+    },
+    {
+      "url": "https://selfdecode.com/en/snp/rs53576/",
+      "status": 202,
+      "finalUrl": "https://selfdecode.com/en/snp/rs53576/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-d4f0ad936eca"
+      ]
+    },
+    {
+      "url": "https://web.archive.org/web/20261010170906/https://www.snpedia.com/index.php/Rs53576",
+      "status": 200,
+      "finalUrl": "https://web.archive.org/web/20261010170906/https://www.snpedia.com/index.php/Rs53576",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-6524a07918e6"
+      ]
+    },
+    {
+      "url": "https://bots.snpedia.com/index.php/Rs2254298",
+      "status": 403,
+      "finalUrl": "https://bots.snpedia.com/index.php/Rs2254298",
+      "contentType": "text/html",
+      "curlExit": 0,
+      "recordIds": [
+        "src-70737632f875"
+      ]
+    },
+    {
+      "url": "https://bots.snpedia.com/index.php/Rs1042778",
+      "status": 403,
+      "finalUrl": "https://bots.snpedia.com/index.php/Rs1042778",
+      "contentType": "text/html",
+      "curlExit": 0,
+      "recordIds": [
+        "src-2e5b03d555b3"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1523/jneurosci.5538-09.2010",
+      "status": 403,
+      "finalUrl": "https://www.jneurosci.org/content/30/14/4999",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-ef07290a540d"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.psyneuen.2012.12.023",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0306453013000024",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-23352229"
+      ]
+    },
+    {
+      "url": "https://www.nature.com/articles/tp2015163",
+      "status": 200,
+      "finalUrl": "https://www.nature.com/articles/tp2015163?error=cookies_not_supported&code=26274112-39c8-4b8f-8f56-9ae43fab89c4",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-d5dc29829a02"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.psyneuen.2013.09.015",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S030645301300334X",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-24099859"
+      ]
+    },
+    {
+      "url": "https://www.nature.com/articles/s41398-019-0658-4",
+      "status": 200,
+      "finalUrl": "https://www.nature.com/articles/s41398-019-0658-4?error=cookies_not_supported&code=818344e1-2e0e-4a39-948d-5866b412deea",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-ebacdf327973"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.biopsych.2016.11.012",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0006322316330670",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28087128"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.schres.2014.04.009",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0920996414001674",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-24799299"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.biopsych.2015.03.020",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0006322315002590",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-867f6d0519f0"
+      ]
+    },
+    {
+      "url": "https://www.frontiersin.org/articles/10.3389/fnins.2018.00512/full",
+      "status": 200,
+      "finalUrl": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2018.00512/full",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-30108475"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.neuropsychologia.2017.10.019",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0028393217303949",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-29055680"
+      ]
+    },
+    {
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0001128",
+      "status": 200,
+      "finalUrl": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0001128",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-17987115"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33111597/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/33111597/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-33111597"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30889982/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/30889982/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-30889982"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1088/1742-6596/329/1/012011",
+      "status": 200,
+      "finalUrl": "https://iopscience.iop.org/article/10.1088/1742-6596/329/1/012011",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-944ec8023c08"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1088/1742-6596/306/1/012007",
+      "status": 200,
+      "finalUrl": "https://iopscience.iop.org/article/10.1088/1742-6596/306/1/012007",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-5aaad2520e3b"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/pdf/1501.01620.pdf",
+      "status": 200,
+      "finalUrl": "https://arxiv.org/pdf/1501.01620",
+      "contentType": "application/pdf",
+      "curlExit": 0,
+      "recordIds": [
+        "src-d8da0823ac49"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s12539-009-0059-0",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s12539-009-0059-0?error=cookies_not_supported&code=1d5b3052-3f14-45b1-b104-dca794fee4eb",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-20640802"
+      ]
+    },
+    {
+      "url": "https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001700210016-5.pdf",
+      "status": 200,
+      "finalUrl": "https://www.cia.gov/readingroom/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-218662257ef3"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1371/journal.pone.0006725",
+      "status": 200,
+      "finalUrl": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006725",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-19696930"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s11682-017-9800-1",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s11682-017-9800-1?error=cookies_not_supported&code=17abe0fc-fb5e-43b8-b296-e9c201fbf605",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-29170944"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jpsychires.2005.09.001",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0022395605001214",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-c64e6046b78d"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.neulet.2007.04.030",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0304394007004685",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-17478041"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.neuint.2019.104546",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0197018619300956",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-31518601"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.psychres.2009.01.014",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0165178109000249",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-20378181"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.drugalcdep.2006.06.002",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0376871606002225",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-1848d7eaf430"
+      ]
+    },
+    {
+      "url": "https://www.frontiersin.org/articles/10.3389/fnins.2019.00765/full",
+      "status": 200,
+      "finalUrl": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2019.00765/full",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-8ad1130190f0"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1038/s41398-021-01441-4",
+      "status": 200,
+      "finalUrl": "https://www.nature.com/articles/s41398-021-01441-4?error=cookies_not_supported&code=c65e7a02-5fa4-4f9a-8eaa-2b725241859b",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-34050123"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1038/s41386-019-0584-4",
+      "status": 200,
+      "finalUrl": "https://www.nature.com/articles/s41386-019-0584-4?error=cookies_not_supported&code=5d2c8a1e-9f56-409d-b9fc-697172f718aa",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-31794974"
+      ]
+    },
+    {
+      "url": "https://www.researchgate.net/figure/Evidence-of-Significant-Events-Corresponding-with-Solar-Cycles_fig3_286869493",
+      "status": 403,
+      "finalUrl": "https://www.researchgate.net/figure/Evidence-of-Significant-Events-Corresponding-with-Solar-Cycles_fig3_286869493",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-f629caf1b15c"
+      ]
+    },
+    {
+      "url": "https://www.heartmath.org/research/research-library/coherence/long-term-study-of-hrv-responses-to-changes-in-solar-geomagnetic-enviroment",
+      "status": 200,
+      "finalUrl": "https://www.heartmath.org/research/research-library/coherence/long-term-study-of-hrv-responses-to-changes-in-solar-geomagnetic-enviroment/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-d1eaa478462e"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5551208/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5551208/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28703754"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.3390/ijerph14090998",
+      "status": 403,
+      "finalUrl": "https://www.mdpi.com/1660-4601/14/9/998",
+      "contentType": "text/html",
+      "curlExit": 0,
+      "recordIds": [
+        "src-0bc37ec70145"
+      ]
+    },
+    {
+      "url": "https://www.heartmath.org/assets/uploads/2019/01/influence-of-heart-coherence-on-synchronization-human-hrv-and-geomagnetic-activity.pdf",
+      "status": 200,
+      "finalUrl": "https://www.heartmath.org/assets/uploads/site/file/pdf/i/influence-of-heart-coherence-on-synchronization-human-hrv-and-geomagnetic-activity.pdf",
+      "contentType": "application/pdf",
+      "curlExit": 0,
+      "recordIds": [
+        "src-a3bba47bba9b"
+      ]
+    },
+    {
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/Completed_inquiries/1999-02/emr/report/c02",
+      "status": 403,
+      "finalUrl": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Environment_and_Communications/Completed_inquiries/1999-02/emr/report/c02",
+      "contentType": "text/html",
+      "curlExit": 0,
+      "recordIds": [
+        "src-d08dbc94cf58"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.56431/p-ly2br0",
+      "status": 200,
+      "finalUrl": "https://www.academicoa.com/ILCPA.30.24",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-b8f0554d49a8"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/s0753-3322(05)80003-4",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0753332205800034",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-16275477"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1371/journal.pone.0146595",
+      "status": 200,
+      "finalUrl": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0146595",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-26785376"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.4236/jsip.2015.62015",
+      "status": 200,
+      "finalUrl": "https://www.scirp.org/journal/paperinformation?paperid=56609",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-bbac53b23500d8b1"
+      ]
+    },
+    {
+      "url": "https://cyclesresearchinstitute.org/pdf/cycles-history/chizhevsky1.pdf",
+      "status": 200,
+      "finalUrl": "https://cyclesresearchinstitute.org/pdf/cycles-history/chizhevsky1.pdf",
+      "contentType": "application/pdf",
+      "curlExit": 0,
+      "recordIds": [
+        "src-89d6ed0ece09"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10485122/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/10485122/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-10485122"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.asr.2009.12.008",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0273117709007558",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-d40c8b9c8ed571ad"
+      ]
+    },
+    {
+      "url": "http://www.fractal-timewave.com",
+      "status": 403,
+      "finalUrl": "https://rs6127.luxsci.com/",
+      "contentType": "text/html; charset=iso-8859-1",
+      "curlExit": 0,
+      "recordIds": [
+        "src-d3de68b52048"
+      ]
+    },
+    {
+      "url": "https://www.degruyter.com/downloadpdf/j/zna.1952.7.issue-2/zna-1952-0202/zna-1952-0202.pdf",
+      "status": 200,
+      "finalUrl": "https://www.degruyterbrill.com:443/journal/key/zna/html",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-6e52fa8da5ff"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.3390/atmos7090116",
+      "status": 403,
+      "finalUrl": "https://www.mdpi.com/2073-4433/7/9/116",
+      "contentType": "text/html",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-4177d8a1b6597791"
+      ]
+    },
+    {
+      "url": "https://hbr.org/2019/05/improving-health-care-by-gamifying-it",
+      "status": 200,
+      "finalUrl": "https://hbr.org/2019/05/improving-health-care-by-gamifying-it",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-3108ecac9819"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.7326/m17-1495",
+      "status": 403,
+      "finalUrl": "https://www.acpjournals.org/doi/10.7326/M17-1495",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-58e202d443bd"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6348030/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6348030/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-30049225"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28281353/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/28281353/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-28281353"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6140334/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6140334/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-27603755"
+      ]
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6220554/",
+      "status": 200,
+      "finalUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6220554/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-29899015"
+      ]
+    },
+    {
+      "url": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2655242",
+      "status": 403,
+      "finalUrl": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2655242",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-62baf77006d6"
+      ]
+    },
+    {
+      "url": "https://jamanetwork.com/journals/jama/article-abstract/1866163",
+      "status": 403,
+      "finalUrl": "https://jamanetwork.com/journals/jama/article-abstract/1866163",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-c6b891dd9958"
+      ]
+    },
+    {
+      "url": "https://annals.org/aim/article-abstract/2491916/framing-financial-incentives-increase-physical-activity-among-overweight-obese-adults",
+      "status": 403,
+      "finalUrl": "https://annals.org/aim/article-abstract/2491916/framing-financial-incentives-increase-physical-activity-among-overweight-obese-adults",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-7447bc610298"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1037/e578192014-307",
+      "status": 403,
+      "finalUrl": "https://doi.apa.org/doi/10.1037/e578192014-307",
+      "contentType": "text/html",
+      "curlExit": 0,
+      "recordIds": [
+        "src-beb7877d1a26"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/s11606-018-4552-1",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1007/s11606-018-4552-1?error=cookies_not_supported&code=d33c6754-ee5d-4b48-b580-36499d61b75c",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-30003481"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.2147/ndt.s89542",
+      "status": 200,
+      "finalUrl": "https://www.dovepress.com/virtual-reality-exposure-based-therapy-for-the-treatment-of-post-traum-peer-reviewed-fulltext-article-NDT",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-26491332"
+      ]
+    },
+    {
+      "url": "http://www.sciencedirect.com/science/article/pii/S0005796716300663",
+      "status": 400,
+      "finalUrl": "https://www.sciencedirect.com/user/error/ATN-20?errorContext=arp-f9daceae-fc5f-418f-bef6-7b59ebc9406c",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-507ea85612c7"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.2147/ndt.s65809",
+      "status": 200,
+      "finalUrl": "https://www.dovepress.com/treatments-for-traumatic-brain-injury-with-emphasis-on-transcranial-ne-peer-reviewed-fulltext-article-NDT",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-26347062"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.aip.2016.05.015",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0197455616300636",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-2f565d066e4e774b"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.aip.2015.05.007",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S019745561500057X",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-b2b4a7cf6604ec4e"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1016/j.aip.2017.08.005",
+      "status": 200,
+      "finalUrl": "https://linkinghub.elsevier.com/retrieve/pii/S0197455616302386",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-befa7b53c55cb589"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1111/jnu.12304",
+      "status": 403,
+      "finalUrl": "https://sigmapubs.onlinelibrary.wiley.com/doi/10.1111/jnu.12304",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-9329423f6826"
+      ]
+    },
+    {
+      "url": "https://www.ijcaonline.org/archives/volume177/number12/baiskhiyar-2019-ijca-919527.pdf",
+      "status": 200,
+      "finalUrl": "https://www.ijcaonline.org/archives/volume177/number12/baiskhiyar-2019-ijca-919527.pdf",
+      "contentType": "application/pdf",
+      "curlExit": 0,
+      "recordIds": [
+        "src-ba204cd2f0e1"
+      ]
+    },
+    {
+      "url": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.6.031007",
+      "status": 200,
+      "finalUrl": "https://journals.aps.org/prx/abstract/10.1103/PhysRevX.6.031007",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-8b2ea769f9f9"
+      ]
+    },
+    {
+      "url": "https://www.nature.com/articles/s41598-019-43697-3",
+      "status": 200,
+      "finalUrl": "https://www.nature.com/articles/s41598-019-43697-3?error=cookies_not_supported&code=2a7deae9-53b7-4fa6-b92c-ff64054849cb",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-199d07efad3e"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1038/srep00571",
+      "status": 200,
+      "finalUrl": "https://www.nature.com/articles/srep00571?error=cookies_not_supported&code=2175c0a7-5dc4-40ba-a632-7d4c80c6729d",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-22891157"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/1801.03897",
+      "status": 200,
+      "finalUrl": "https://arxiv.org/abs/1801.03897",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-1fa27d13ad19"
+      ]
+    },
+    {
+      "url": "https://www.nature.com/articles/s41534-018-0060-8",
+      "status": 200,
+      "finalUrl": "https://www.nature.com/articles/s41534-018-0060-8?error=cookies_not_supported&code=12428eb1-c5fe-450b-b97e-21563156524f",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-32ff0961cd36"
+      ]
+    },
+    {
+      "url": "https://arxiv.org/abs/1911.07127",
+      "status": 200,
+      "finalUrl": "https://arxiv.org/abs/1911.07127",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-0096ffba98ce"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1142/S0219607706000171",
+      "status": 403,
+      "finalUrl": "https://www.worldscientific.com/doi/abs/10.1142/S0219607706000171",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-c04464bc7c82"
+      ]
+    },
+    {
+      "url": "https://www.igi-global.com/book.aspx?ref=yinyang-bipolar-relativity&titleid=45961&f=hardcover-e-book&f=hardcover-e-book",
+      "status": 429,
+      "finalUrl": "https://www.igi-global.com/book.aspx?ref=yinyang-bipolar-relativity&titleid=45961&f=hardcover-e-book&f=hardcover-e-book",
+      "contentType": "text/html",
+      "curlExit": 0,
+      "recordIds": [
+        "src-c7690e396a71"
+      ]
+    },
+    {
+      "url": "http://www.conecomm.com/research-blog/2015-cone-communications-ebiquity-global-csr-study",
+      "status": 0,
+      "finalUrl": "http://www.conecomm.com/research-blog/2015-cone-communications-ebiquity-global-csr-study",
+      "contentType": "",
+      "curlExit": 6,
+      "recordIds": [
+        "src-79f3e30fa012"
+      ]
+    },
+    {
+      "url": "https://www.nielsen.com/content/dam/nielsenglobal/apac/docs/reports/2014/Nielsen-Global-Corporate-Social-Responsibility-Report-June-2014.pdf",
+      "status": 404,
+      "finalUrl": "https://www.nielsen.com/content/dam/nielsenglobal/apac/docs/reports/2014/Nielsen-Global-Corporate-Social-Responsibility-Report-June-2014.pdf",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-0331f0f8df05"
+      ]
+    },
+    {
+      "url": "https://www.meaningful-brands.com/en",
+      "status": 404,
+      "finalUrl": "https://meaningful-brands.com/en",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-8fc39ea39386"
+      ]
+    },
+    {
+      "url": "https://www.gallup.com/workplace/236366/right-culture-not-employee-satisfaction.aspx",
+      "status": 200,
+      "finalUrl": "https://www.gallup.com/workplace/236366/right-culture-not-employee-satisfaction.aspx",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-c0ab648e5e97"
+      ]
+    },
+    {
+      "url": "https://probonoaustralia.com.au/news/2018/07/jb-hi-fi-saving-tune-8m-workplace-giving-program",
+      "status": 404,
+      "finalUrl": "https://probonoaustralia.com.au/news/2018/07/jb-hi-fi-saving-tune-8m-workplace-giving-program",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-8fa7c87846bb"
+      ]
+    },
+    {
+      "url": "https://www2.deloitte.com/content/dam/Deloitte/au/Documents/human-capital/deloitte-au-hc-human-capital-trends-2019-150419.pdf",
+      "status": 404,
+      "finalUrl": "https://www.deloitte.com/content/dam/Deloitte/au/Documents/human-capital/deloitte-au-hc-human-capital-trends-2019-150419.pdf",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-1bdc22144734"
+      ]
+    },
+    {
+      "url": "https://home.kpmg/content/dam/kpmg/xx/pdf/2017/10/kpmg-survey-of-corporate-responsibility-reporting-2017.pdf",
+      "status": 200,
+      "finalUrl": "https://assets.kpmg.com/content/dam/kpmg/xx/pdf/2017/10/kpmg-survey-of-corporate-responsibility-reporting-2017.pdf",
+      "contentType": "application/pdf",
+      "curlExit": 0,
+      "recordIds": [
+        "src-62d753228d9f"
+      ]
+    },
+    {
+      "url": "https://www.issuelab.org/resources/22448/22448.pdf",
+      "status": 200,
+      "finalUrl": "https://www.issuelab.org/resources/22448/22448.pdf",
+      "contentType": "application/pdf",
+      "curlExit": 0,
+      "recordIds": [
+        "src-f5f4305c559e"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1177/0256090918794823",
+      "status": 403,
+      "finalUrl": "https://journals.sagepub.com/doi/10.1177/0256090918794823",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-16fea1e714a7ade6"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1057/palgrave.crr.1540048",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1057/palgrave.crr.1540048?error=cookies_not_supported&code=f6a3d106-701b-472d-8a43-1be35956c4d3",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-06a35c77903dbedd"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.2139/ssrn.1833581",
+      "status": 403,
+      "finalUrl": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1833581",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-41119f037bd1"
+      ]
+    },
+    {
+      "url": "http://corporate-sustainability.org/wp-content/uploads/arcs-2012-Flammer.pdf",
+      "status": 200,
+      "finalUrl": "http://corporate-sustainability.org/wp-content/uploads/arcs-2012-Flammer.pdf",
+      "contentType": "application/pdf",
+      "curlExit": 0,
+      "recordIds": [
+        "src-3a89367924ad"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.2469/dig.v37.n2.4619",
+      "status": 403,
+      "finalUrl": "https://www.tandfonline.com/toc/ufaj20/current",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-16f513abd981c573"
+      ]
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1102528",
+      "status": 403,
+      "finalUrl": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1102528",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-d899a7527d6e"
+      ]
+    },
+    {
+      "url": "https://muse.jhu.edu/article/621336/summary",
+      "status": 200,
+      "finalUrl": "https://muse.jhu.edu/verify?url=%2Farticle%2F621336%2Fsummary&r=5275129",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-9903c78b8bca"
+      ]
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S2214462516300135",
+      "status": 400,
+      "finalUrl": "https://www.sciencedirect.com/user/error/ATN-20?errorContext=arp-e41d0db9-8118-4664-b1a5-bb375257d8d7",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-973ffd9f69b7"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1080/00014788.2018.1470141",
+      "status": 403,
+      "finalUrl": "https://www.tandfonline.com/doi/full/10.1080/00014788.2018.1470141",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-34b978285d9c"
+      ]
+    },
+    {
+      "url": "https://www.comfama.com/contenidos/servicios/Gerenciasocial/html/Cursos/Columbia/Lecturas/Strategy-Society.pdf",
+      "status": 404,
+      "finalUrl": "https://www.comfama.com/contenidos/servicios/Gerenciasocial/html/Cursos/Columbia/Lecturas/Strategy-Society.pdf",
+      "contentType": "text/html",
+      "curlExit": 0,
+      "recordIds": [
+        "src-eb73dd2f6645"
+      ]
+    },
+    {
+      "url": "https://search.proquest.com/openview/8dde78b449d8452c447619ddb82d15f9/1?pq-origsite=gscholar&cbl=42246",
+      "status": 200,
+      "finalUrl": "https://www.proquest.com/openview/8dde78b449d8452c447619ddb82d15f9/1?pq-origsite=gscholar&cbl=42246",
+      "contentType": "text/html;charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-2c4944155b58"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1509/jmkg.70.4.001",
+      "status": 403,
+      "finalUrl": "https://journals.sagepub.com/doi/10.1509/jmkg.70.4.001",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-f9996534c3de"
+      ]
+    },
+    {
+      "url": "https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/valuing-social-responsibility-programs",
+      "status": 0,
+      "finalUrl": "https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/valuing-social-responsibility-programs",
+      "contentType": "",
+      "curlExit": 28,
+      "recordIds": [
+        "src-f8cfd5c578c0"
+      ]
+    },
+    {
+      "url": "https://www.mckinsey.com/featured-insights/leadership/making-the-most-of-corporate-social-responsibility",
+      "status": 0,
+      "finalUrl": "https://www.mckinsey.com/featured-insights/leadership/making-the-most-of-corporate-social-responsibility",
+      "contentType": "",
+      "curlExit": 28,
+      "recordIds": [
+        "src-65918bab6057"
+      ]
+    },
+    {
+      "url": "https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/beyond-corporate-social-responsibility-integrated-external-engagement",
+      "status": 0,
+      "finalUrl": "https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/beyond-corporate-social-responsibility-integrated-external-engagement",
+      "contentType": "",
+      "curlExit": 56,
+      "recordIds": [
+        "src-0b5043af2ada"
+      ]
+    },
+    {
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18356530/",
+      "status": 203,
+      "finalUrl": "https://pubmed.ncbi.nlm.nih.gov/18356530/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "pmid-18356530"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.2139/ssrn.285918",
+      "status": 403,
+      "finalUrl": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=285918",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-81feac0bd644"
+      ]
+    },
+    {
+      "url": "https://open.library.ubc.ca/media/download/pdf/52383/1.0053622/3",
+      "status": 200,
+      "finalUrl": "https://open.library.ubc.ca/media/download/pdf/52383/1.0053622/3",
+      "contentType": "text/html",
+      "curlExit": 0,
+      "recordIds": [
+        "src-3f86d9ca1d91"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1111/1468-0297.00646",
+      "status": 403,
+      "finalUrl": "https://academic.oup.com/ej/article/111/473/465-484/5139977",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-b76baa5fd9acdf58"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.2139/ssrn.203211",
+      "status": 403,
+      "finalUrl": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=203211",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-1a368149449ab40a"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1257/002205102320161320",
+      "status": 403,
+      "finalUrl": "https://pubs.aeaweb.org/doi/abs/10.1257/002205102320161320",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-e9e860c4c356"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1111/j.1468-0297.1997.tb00085.x",
+      "status": 403,
+      "finalUrl": "https://academic.oup.com/ej/article/107/445/1815/5063980",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-29d7f1722875"
+      ]
+    },
+    {
+      "url": "https://pdfs.semanticscholar.org/f1e1/fcfea840733b67bec7487195b3693a7b79ff.pdf",
+      "status": 202,
+      "finalUrl": "https://www.semanticscholar.org/paper/Happiness%3A-A-Revolution-in-Economics-Alois-Stutzer/16185de86b3e6805132bc092b1e9753c71b1c224?p2df",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-c395c5051a97"
+      ]
+    },
+    {
+      "url": "https://www.nber.org/papers/w11416",
+      "status": 200,
+      "finalUrl": "https://www.nber.org/papers/w11416",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-61127c5b6ae5"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1111/j.1467-8462.2006.00408.x",
+      "status": 403,
+      "finalUrl": "https://onlinelibrary.wiley.com/doi/10.1111/j.1467-8462.2006.00408.x",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-56579cb2ab4b"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.2139/ssrn.1369806",
+      "status": 403,
+      "finalUrl": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1369806",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-d14e94a49dd0"
+      ]
+    },
+    {
+      "url": "https://doi.org/10.1007/978-94-007-5702-8_15",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/chapter/10.1007/978-94-007-5702-8_15?error=cookies_not_supported&code=89b7ee61-aa36-494c-95ba-28d24ee8a016",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "doi-ed68cfcb4dcfc73a"
+      ]
+    },
+    {
+      "url": "https://link.springer.com/article/10.1023/A:1024790530822",
+      "status": 200,
+      "finalUrl": "https://link.springer.com/article/10.1023/A:1024790530822?error=cookies_not_supported&code=091d3821-48fe-4261-bd9f-342b292dd066",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-cd60e63a37c8"
+      ]
+    },
+    {
+      "url": "http://hdr.undp.org/en/content/human-development-index-hdi",
+      "status": 200,
+      "finalUrl": "https://hdr.undp.org/data-center/human-development-index#/indicies/HDI",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-afa869d2686e"
+      ]
+    },
+    {
+      "url": "http://www.oecdbetterlifeindex.org",
+      "status": 200,
+      "finalUrl": "https://www.oecd.org/en/data/tools/well-being-data-monitor.html",
+      "contentType": "text/html;charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-22567131f310"
+      ]
+    },
+    {
+      "url": "https://worldhappiness.report",
+      "status": 200,
+      "finalUrl": "https://www.worldhappiness.report/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-94a4e0f0ceac"
+      ]
+    },
+    {
+      "url": "http://happyplanetindex.org",
+      "status": 200,
+      "finalUrl": "https://happyplanetindex.org/",
+      "contentType": "text/html; charset=UTF-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-d5a8539d2615"
+      ]
+    },
+    {
+      "url": "http://www.happinesscouncil.org",
+      "status": 200,
+      "finalUrl": "https://www.happinesscouncil.org/",
+      "contentType": "text/html; charset=utf-8",
+      "curlExit": 0,
+      "recordIds": [
+        "src-48c16fe9201b"
+      ]
+    }
+  ],
+  "summary": {
+    "0": 4,
+    "200": 303,
+    "202": 7,
+    "203": 68,
+    "400": 2,
+    "403": 60,
+    "404": 11,
+    "429": 1
+  },
+  "resolution": {
+    "repairs": 17,
+    "repairAudit": "language-general-link-repairs-20261023.json",
+    "remainingKnown404RecordIds": [],
+    "accessLimits": "Some publisher URLs return access restrictions, bot challenges or timeouts to automated requests. These are recorded separately from missing pages. McKinsey replacements and the GSMA 2018 report were independently identified in primary publisher web results despite request restrictions. Full-text availability is not guaranteed."
+  }
+}

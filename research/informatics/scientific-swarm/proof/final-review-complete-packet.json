@@ -1,0 +1,76 @@
+{
+  "decision": "approve",
+  "summary": "Astra's final report and execution receipts accurately reflect an inconclusive classical pilot and local quantum program preparation without overstating biological or clinical significance. Fibonacci, Phi Ratio, and M9 P24 Alpha, Beta, Gamma, and Epsilon are explicitly tracked, controls and uncertainty intervals are properly reported, and budget and hardware boundaries were respected.",
+  "checks": [
+    {
+      "claim": "Classical Fibonacci and Phi Ratio features do not demonstrably improve CTCF binding prediction around OXTR in this pilot.",
+      "finding": "Average precision on the 152 held-out OXTR windows changed from 0.071914 (ordinary motif and spacing) to 0.073902 (with Fibonacci and Phi Ratio), a difference of +0.001988 with a 95% block-bootstrap interval of [-0.026260, +0.008182] spanning zero.",
+      "evidence": [
+        "execution.analysis.models",
+        "execution.analysis.difference_average_precision",
+        "execution.analysis.block_bootstrap_95_interval",
+        "report.meaning"
+      ],
+      "status": "pass"
+    },
+    {
+      "claim": "Partitioning and model selection avoided test leakage into the OXTR evaluation.",
+      "finding": "Models were trained on chr1 (64 windows), selected on chr2 (64 windows), and evaluated once on chr3 OXTR (152 windows, 8 positive peak windows across 5 peak regions) with selection frozen before scoring.",
+      "evidence": [
+        "execution.cohort.model_selection",
+        "execution.cohort.selection_frozen_before_scores",
+        "execution.analysis.counts",
+        "report_context.sampling_definition"
+      ],
+      "status": "pass"
+    },
+    {
+      "claim": "M9 P24 Alpha, Beta, Gamma, and Epsilon biological binding prediction and coherence lifetime effects.",
+      "finding": "Not tested for biological prediction. Saved Aquila runs for two windows do not overlap the five CTCF peak regions, and the 16 new matched-pair runs (ordinary, Fibonacci, Phi Ratio, Alpha, Beta, Gamma, Epsilon, and shuffled) are local CUDA-Q CPU program checks on two windows, which cannot establish predictive accuracy or biological causation.",
+      "evidence": [
+        "execution.analysis.quantum_prediction_status",
+        "execution.prior_quantum.meaning",
+        "execution.prepared_quantum.scope",
+        "execution.prepared_cases"
+      ],
+      "status": "not_tested"
+    },
+    {
+      "claim": "Authority, budget, and provenance constraints were maintained.",
+      "finding": "Zero new Aquila or paid qBraid jobs were submitted; all source hashes, ENCODE quality warnings, and local CUDA-Q execution receipts are properly logged. Notice: in the non-peak window chr3-8743680-8743936, the Fibonacci and Phi Ratio compiled artifacts share identical QASM and AHS SHA-256 hashes because zero motif gaps were present to differentiate the two schedules.",
+      "evidence": [
+        "execution.spend",
+        "execution.prior_quantum.new_Aquila_jobs",
+        "execution.prepared_quantum.Aquila",
+        "execution.prepared_quantum.qBraid",
+        "execution.prepared_cases"
+      ],
+      "status": "pass"
+    }
+  ],
+  "required_changes": [],
+  "provider": "google",
+  "model": "gemini-4-argon",
+  "provider_response_id": "VZjearKnHJTmosUPppeEiAI",
+  "evidence_sha256": "09fae995404c64811b2c4fb2559fc8384c95cce937d8ef14005a33e208aa7f47",
+  "usage": {
+    "promptTokenCount": 11962,
+    "candidatesTokenCount": 827,
+    "totalTokenCount": 12789,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 11962
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 827
+      }
+    ]
+  },
+  "reserved_micro_usd": 188480,
+  "reviewed_at": "2026-10-26T00:01:38.246883+00:00",
+  "duration_seconds": 13.426
+}

@@ -1,0 +1,4 @@
+﻿record_id,modulus,pisano_period,dataset_version,alpha_indices,traversal_values,three_step_repeat,formation_id,clock_positions,rotation_degrees
+fibonacci-m9-p24,9,24,m1-m48-v1,"[0,8,20,12,4,16,0]","[9,3,6,9,3,6,9]",True,6-nodes-offset-0,"[24,8,20,12,4,16,24]",0.0
+fibonacci-m9-p24,9,24,m1-m48-v1,"[4,12,0,16,8,20,4]","[3,9,9,6,3,6,3]",False,6-nodes-offset-0,"[4,12,24,16,8,20,4]",0.0
+fibonacci-m9-p24,9,24,m1-m48-v1,"[8,16,4,20,12,0,8]","[3,6,3,6,9,9,3]",False,6-nodes-offset-0,"[8,16,4,20,12,24,8]",0.0

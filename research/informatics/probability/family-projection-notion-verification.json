@@ -1,0 +1,93 @@
+{
+  "verified_at_utc": "2026-10-18 04:44:02 UTC",
+  "source_commit": "6286f58065425a2f5ab2a406c4f7fcbb82f0fc5c",
+  "database_id": "f394fdfe-48d1-4ef1-91b1-9ec45b6aa8d9",
+  "data_source_id": "e63b575d-a9ae-4c56-8ecc-c7b3b2ec558a",
+  "records": [
+    {
+      "modulus": 9,
+      "page_id": "3fb7b9c9-9c56-8137-a2c5-c99b7bc2a1ee",
+      "source_revision": "6286f58065425a2f5ab2a406c4f7fcbb82f0fc5c",
+      "repeat_count": 1,
+      "properties_match": true,
+      "content_verified": true,
+      "table_structure_verified": true,
+      "unrelated_content_preserved": true,
+      "unrelated_properties_preserved": true
+    },
+    {
+      "modulus": 18,
+      "page_id": "3fb7b9c9-9c56-81dd-8058-e69548b963aa",
+      "source_revision": "6286f58065425a2f5ab2a406c4f7fcbb82f0fc5c",
+      "repeat_count": 1,
+      "properties_match": true,
+      "content_verified": true,
+      "table_structure_verified": true,
+      "unrelated_content_preserved": true,
+      "unrelated_properties_preserved": true
+    },
+    {
+      "modulus": 27,
+      "page_id": "3fb7b9c9-9c56-810f-84a9-c5902c0c9b46",
+      "source_revision": "6286f58065425a2f5ab2a406c4f7fcbb82f0fc5c",
+      "repeat_count": 3,
+      "properties_match": true,
+      "content_verified": true,
+      "table_structure_verified": true,
+      "unrelated_content_preserved": true,
+      "unrelated_properties_preserved": true
+    },
+    {
+      "modulus": 36,
+      "page_id": "3fb7b9c9-9c56-81aa-a715-f609e29eeadd",
+      "source_revision": "6286f58065425a2f5ab2a406c4f7fcbb82f0fc5c",
+      "repeat_count": 1,
+      "properties_match": true,
+      "content_verified": true,
+      "table_structure_verified": true,
+      "unrelated_content_preserved": true,
+      "unrelated_properties_preserved": true
+    },
+    {
+      "modulus": 45,
+      "page_id": "3fb7b9c9-9c56-81c9-8d95-f0df3b6e15c6",
+      "source_revision": "6286f58065425a2f5ab2a406c4f7fcbb82f0fc5c",
+      "repeat_count": 5,
+      "properties_match": true,
+      "content_verified": true,
+      "table_structure_verified": true,
+      "unrelated_content_preserved": true,
+      "unrelated_properties_preserved": true
+    }
+  ],
+  "view": {
+    "dataSourceUrl": "{{collection://e63b575d-a9ae-4c56-8ecc-c7b3b2ec558a}}",
+    "displayProperties": [
+      "Name",
+      "Reduction to M9",
+      "M9 reduction validation",
+      "M9 cycle repeat count",
+      "Chevron",
+      "M9 reduced Chevron",
+      "Beta",
+      "M9 reduced Beta",
+      "Gamma",
+      "M9 reduced Gamma",
+      "Alpha",
+      "M9 reduced Alpha",
+      "Epsilon",
+      "M9 reduced Epsilon",
+      "M9 comparison insight",
+      "M9 sequence audit"
+    ],
+    "name": "Reduction to M9",
+    "sorts": [
+      {
+        "direction": "ascending",
+        "property": "Modulus"
+      }
+    ],
+    "type": "table"
+  },
+  "epsilon_rule": "Reduce Alpha modulo 9, then apply the fixed M9 Epsilon route within each 24-position block. Native full-circle qualification is unchanged."
+}

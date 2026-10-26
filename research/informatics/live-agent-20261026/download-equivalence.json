@@ -1,0 +1,16 @@
+{
+  "json_csv_equal": true,
+  "csv_fields": 6092,
+  "semantic_sha256": "76d01d0f8935ab4d14d1312065eeb7a4c77fe00a99a9aa9e4df27f71705baa35",
+  "review_evidence_present": [
+    {
+      "phase": "design",
+      "source_sha256": "6591a195b7db04bbf2b6615ec33dfa44ccc6a6a44689cf098efe25b785da587d"
+    },
+    {
+      "phase": "final",
+      "source_sha256": "2eab202db469d558ac8243ebe765e20b2aa061f5ed1e6a95cad05e240e143173"
+    }
+  ],
+  "hash_note": "Browser JSON serialization converts integral floats such as 1.0 to 1. Exact review hashes are checked against the archived source packets; semantic equality normalizes that numeric spelling."
+}

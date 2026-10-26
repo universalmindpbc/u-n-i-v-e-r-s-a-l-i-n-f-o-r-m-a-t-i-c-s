@@ -1,0 +1,44 @@
+{
+  "status": 200,
+  "elapsedMs": 11612,
+  "response": {
+    "jsonrpc": "2.0",
+    "id": "proof",
+    "result": {
+      "message": {
+        "messageId": "e8dde926-bd7f-42a0-b25d-d22ba715f987",
+        "contextId": "ad3ec0c6-9653-428a-ae47-7963c8936d52",
+        "role": "ROLE_AGENT",
+        "parts": [
+          {
+            "text": "**Study:** “Recreational music-making modulates the human stress response: a preliminary individualized gene expression strategy” (*Medical Science Monitor*, 2005). [S1]\n\n**Measured finding:** The researchers reported a statistically significant reversal of stress-induced IL6 gene-expression changes during Phase II in both the recreational music-making group and the resting control group. [S1]\n\n**Limitation:** Because the IL6 reversal also occurred with rest, that finding alone does not establish a music-making-specific effect or superiority over resting. [S1]"
+          }
+        ],
+        "metadata": {
+          "datasetVersion": "research-20261024-v2",
+          "model": "gpt-6-astra",
+          "sources": [
+            {
+              "label": "S1",
+              "id": "pmid-15668624",
+              "passageId": null,
+              "title": "Recreational music-making modulates the human stress response: a preliminary individualized gene expression strategy",
+              "authors": "Bittman B, Berk L, Shannon M, Sharaf M, Westengard J, Guegler KJ, Ruff DW.",
+              "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+              "year": 2005,
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15668624/",
+              "section": "Library record",
+              "kind": "approved-record",
+              "text": "“The resultant amelioration of stress-induced genomic expression supports the underlying premise that recreational music making warrants additional consideration as a rational choice within our armamentarium of stress reduction strategies”\n“While reversing individualized genomic stress induction signatures rather than describing the modulation or mecha- nisms associated with individual gene expression is the focus of this investigation, it should be noted that statistically significant Phase II reversals common to both the resting control and recreational music making experimental groups include: IL6 (interleukin 6)”",
+              "doi": null,
+              "rights": null,
+              "sha256": null,
+              "retrievalLabel": "S10"
+            }
+          ],
+          "continuity": "Independent request; include context in the next question."
+        }
+      }
+    }
+  }
+}

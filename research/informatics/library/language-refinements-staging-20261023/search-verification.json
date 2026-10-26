@@ -1,0 +1,114 @@
+{
+  "results": [
+    {
+      "width": 1470,
+      "stats": {
+        "sound": {
+          "papers": 284,
+          "journals": 145,
+          "citations": 24691,
+          "metaAnalyses": 5
+        },
+        "vision": {
+          "papers": 65,
+          "journals": 36,
+          "citations": 2290,
+          "metaAnalyses": 2
+        },
+        "language": {
+          "papers": 327,
+          "journals": 175,
+          "citations": 13237,
+          "metaAnalyses": 10
+        },
+        "general": {
+          "papers": 293,
+          "journals": 130,
+          "citations": 44495,
+          "metaAnalyses": 4
+        },
+        "all": {
+          "papers": 730,
+          "journals": 327,
+          "citations": 77771,
+          "metaAnalyses": 17
+        }
+      },
+      "status": "passed"
+    },
+    {
+      "width": 390,
+      "stats": {
+        "sound": {
+          "papers": 284,
+          "journals": 145,
+          "citations": 24691,
+          "metaAnalyses": 5
+        },
+        "vision": {
+          "papers": 65,
+          "journals": 36,
+          "citations": 2290,
+          "metaAnalyses": 2
+        },
+        "language": {
+          "papers": 327,
+          "journals": 175,
+          "citations": 13237,
+          "metaAnalyses": 10
+        },
+        "general": {
+          "papers": 293,
+          "journals": 130,
+          "citations": 44495,
+          "metaAnalyses": 4
+        },
+        "all": {
+          "papers": 730,
+          "journals": 327,
+          "citations": 77771,
+          "metaAnalyses": 17
+        }
+      },
+      "status": "passed"
+    },
+    {
+      "width": 320,
+      "stats": {
+        "sound": {
+          "papers": 284,
+          "journals": 145,
+          "citations": 24691,
+          "metaAnalyses": 5
+        },
+        "vision": {
+          "papers": 65,
+          "journals": 36,
+          "citations": 2290,
+          "metaAnalyses": 2
+        },
+        "language": {
+          "papers": 327,
+          "journals": 175,
+          "citations": 13237,
+          "metaAnalyses": 10
+        },
+        "general": {
+          "papers": 293,
+          "journals": 130,
+          "citations": 44495,
+          "metaAnalyses": 4
+        },
+        "all": {
+          "papers": 730,
+          "journals": 327,
+          "citations": 77771,
+          "metaAnalyses": 17
+        }
+      },
+      "status": "passed"
+    }
+  ],
+  "errors": [],
+  "muted": true
+}

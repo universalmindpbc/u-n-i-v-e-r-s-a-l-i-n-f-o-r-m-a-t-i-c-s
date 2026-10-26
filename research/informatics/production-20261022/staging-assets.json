@@ -1,0 +1,672 @@
+{
+  "environment": "staging",
+  "revision": "e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+  "previous": "636bfa9ae41efe036b2cccac0827c724edfde92b",
+  "matched": 83,
+  "files": [
+    {
+      "file": "Informatics/app.js",
+      "url": "https://staging.universalmind.tv/informatics/app.js?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 16148,
+      "sha256": "a6d6b6eb21e4e71f295431a4be1c924edc31b16f42957ca0d15b364e7905d4c9",
+      "matches": true
+    },
+    {
+      "file": "Informatics/global-navigation.js",
+      "url": "https://staging.universalmind.tv/informatics/global-navigation.js?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 1842,
+      "sha256": "c0dab2f17753f7284ab5049f779c7247c8e02f154b884ef629d4bf52c0379a98",
+      "matches": true
+    },
+    {
+      "file": "Informatics/index.html",
+      "url": "https://staging.universalmind.tv/informatics/index.html?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 23192,
+      "sha256": "fd90901602bfdec980d5cf0f78c374e0346bbd3f18904f9c299ac3f1f3f4ff81",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/archive-records.json",
+      "url": "https://staging.universalmind.tv/informatics/library-data/archive-records.json?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 1419339,
+      "sha256": "a6c81a17ba16d3f02b3688ed19e9b4fdb71d305770f121ed9b7af00cc7460ace",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/2d1e97a69066.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/2d1e97a69066.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 26801,
+      "sha256": "2d1e97a690668da58e82b93a9061c40db076bcabc7a2f3f418549102e2046268",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/2e23485c20ee.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/2e23485c20ee.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 94505,
+      "sha256": "2e23485c20ee21fdaad48f1be24271e942bb563202f404c05328e38da110ae93",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/36cc491c43ce.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/36cc491c43ce.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 14252,
+      "sha256": "36cc491c43ce7741034c7a664ab13e7066ffb1f01db632c8fb63444ff3ebbaf0",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/46f7634e8459.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/46f7634e8459.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 64862,
+      "sha256": "46f7634e84594b3ae127e048edb6e67276dd346c1b8a2802803d48c9c7ccf0c2",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/47ffc4c3abbf.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/47ffc4c3abbf.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 51819,
+      "sha256": "47ffc4c3abbf42736c511d7997641c8cfbe950ec65b2ec45b2145fc4b551617b",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/51aace12beda.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/51aace12beda.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 165198,
+      "sha256": "51aace12bedaf0f2c31ea37ec833248b31a395d7398bfa5ea99ada6948501467",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/66691cb200fe.png",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/66691cb200fe.png?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 24849,
+      "sha256": "66691cb200fe73689ba88c9b9835bf15a2528dac15460967dd4a6c243c5ec640",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/7854eca9c827.png",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/7854eca9c827.png?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 175637,
+      "sha256": "7854eca9c827126096603ae0795928d5a52e5162f7bf56d21025b0ed1a8c2996",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/94076ff1f6d0.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/94076ff1f6d0.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 56586,
+      "sha256": "94076ff1f6d05b37e8fd96db1bd05240736af4bc501292342df3b72d336af0d4",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/986d2fc1169d.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/986d2fc1169d.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 41420,
+      "sha256": "986d2fc1169dca760c40395fc075a076964c1d6d74f4a54ede1de6491d2a3aa1",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/9dbd228d8d75.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/9dbd228d8d75.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 126020,
+      "sha256": "9dbd228d8d751906c4933d6dd623af2d13c3a9af26db381a40661d352b907ac4",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/a1e01b1dc2f0.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/a1e01b1dc2f0.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 265697,
+      "sha256": "a1e01b1dc2f0964add29156d10b14c3a2445faf6171f13509ae141be9fac7a1d",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/a3e7168642e3.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/a3e7168642e3.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 181897,
+      "sha256": "a3e7168642e30bff8ecb5d14962bc5014c690c9dc46fdebf75c4ef2aa687c9ea",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/a5c985eed9b6.png",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/a5c985eed9b6.png?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 67895,
+      "sha256": "a5c985eed9b6eef9d9591f0d209377ed9f79d6abc1093adf1af01b931ce9b84a",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/abb4e82f5fa6.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/abb4e82f5fa6.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 47536,
+      "sha256": "abb4e82f5fa6468d29c212f9560589b2f9d88f86fc7c27f5c57277e06225c8ec",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/b7e458d34b3b.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/b7e458d34b3b.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 151515,
+      "sha256": "b7e458d34b3b80c7823d80484edb5784b0da881443c227360bf3ed155bbe2240",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/bc7cc70c465e.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/bc7cc70c465e.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 82914,
+      "sha256": "bc7cc70c465ebe1a557bebe26b0e6f013df11a51f4ac918d2f9563fb9268d7c9",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/c1bea99e1d89.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/c1bea99e1d89.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 174397,
+      "sha256": "c1bea99e1d89233a5dc1de0581adec194eae0184f0b75cddd70c44ac4bfc4d3e",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/cdec699932b9.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/cdec699932b9.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 94991,
+      "sha256": "cdec699932b93270f7fc1f84007b7cdcae5f47e5c06ac6d9a518e54195467b72",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/cf5c37e03ed4.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/cf5c37e03ed4.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 182406,
+      "sha256": "cf5c37e03ed406fa8d6cf247b77191411823ef104641ab1d4078a8cd0a106ed1",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/d04185bab997.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/d04185bab997.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 132919,
+      "sha256": "d04185bab997209ba0d57f3a3477a99a0e88eea2518582dd0f8d6f93094adc2a",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/d279ce2c826d.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/d279ce2c826d.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 342411,
+      "sha256": "d279ce2c826decd250fc5aff080e5d798d70cdfda8fc8a3ea2933d95d628c275",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/ee107fa4e066.png",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/ee107fa4e066.png?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 191818,
+      "sha256": "ee107fa4e06670685a71b2b4c74704d4ecd4fd29a09cf6216d736016c991bd8e",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/f2aa73aa96f1.jpg",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/f2aa73aa96f1.jpg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 107457,
+      "sha256": "f2aa73aa96f1d3c559b354e4043cb43cd25f05986554dd6802d0db84ac231f8d",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/figures/fb9a8d9373aa.png",
+      "url": "https://staging.universalmind.tv/informatics/library-data/figures/fb9a8d9373aa.png?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 2826662,
+      "sha256": "fb9a8d9373aa1d2aa6776072aac78d4a1ab6ed58a2396847947f17d6e1719778",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/language-source.json",
+      "url": "https://staging.universalmind.tv/informatics/library-data/language-source.json?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 130009,
+      "sha256": "39bdf14824ed7f41ffba818494d3cdee89aac17145fb394a2465d18b4cc37021",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/library.json",
+      "url": "https://staging.universalmind.tv/informatics/library-data/library.json?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 2943828,
+      "sha256": "07455efb6272395f4861410c5a6ff4e3278bd0b213afb0efeee25faf32a086a1",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/publication-access.json",
+      "url": "https://staging.universalmind.tv/informatics/library-data/publication-access.json?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 292701,
+      "sha256": "eda1a19b123e782dba358a0f0078205d54d9c54d5386b687207aa8d0aacc318b",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/search-log.json",
+      "url": "https://staging.universalmind.tv/informatics/library-data/search-log.json?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 4766,
+      "sha256": "a17a6d5becabd009f4dae37addc335667a2273172306792407646c36fae734ec",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/sound-edition.json",
+      "url": "https://staging.universalmind.tv/informatics/library-data/sound-edition.json?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 380646,
+      "sha256": "72b21f12aa82d6f2e0fd4033dc3b047322db8fd9945994e3d1225093966592bc",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/sound-source.json",
+      "url": "https://staging.universalmind.tv/informatics/library-data/sound-source.json?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 264386,
+      "sha256": "e7adb2ee44d4758656ca3c74d0a150bf3b81e75d159874cc7257aa096cdd75fe",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/vision-source.json",
+      "url": "https://staging.universalmind.tv/informatics/library-data/vision-source.json?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 29082,
+      "sha256": "4e587a23ac97ae7b76307dfaf117c9ab026b7d022e2d7f158d4b4f710c3308cd",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-launcher.css",
+      "url": "https://staging.universalmind.tv/informatics/library-launcher.css?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 13063,
+      "sha256": "2d230e7215cc10c868765d9050a5173d405d9ba343300116e512339bc682bdf9",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-launcher.js",
+      "url": "https://staging.universalmind.tv/informatics/library-launcher.js?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 15986,
+      "sha256": "20b772600cf8db23b5450ac74ba18482856315ed1aae8bb4382e8f5e1e518735",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-model.js",
+      "url": "https://staging.universalmind.tv/informatics/library-model.js?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 3629,
+      "sha256": "82137ad87566cef86fdf1991fe09fc6bbb0adbc3fd57553ad3d7fac8e5ac3984",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-navigation.js",
+      "url": "https://staging.universalmind.tv/informatics/library-navigation.js?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 2621,
+      "sha256": "8901b3e870e48664b1a7db9e667c9ca387ed1afc2d5c41591893e0d7a4abf10e",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-theme.js",
+      "url": "https://staging.universalmind.tv/informatics/library-theme.js?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 3710,
+      "sha256": "29419131491b488d2837d3de05117356e46caa0bd404be31657a32b5c91fd187",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library.css",
+      "url": "https://staging.universalmind.tv/informatics/library.css?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 18961,
+      "sha256": "9b54f26452bfb6a40cb072db8936a6d929c45663632cadba88429ea4da18ea6f",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library.html",
+      "url": "https://staging.universalmind.tv/informatics/library.html?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 6817,
+      "sha256": "a6fbbcca6bffe9c6000ff2242b1e6625d056c7570624554bc28a7bc0f03cb56d",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library.js",
+      "url": "https://staging.universalmind.tv/informatics/library.js?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 25349,
+      "sha256": "4582ac62d80a296b73f2d2157078b9d590262a3efc80717a8b778c2acb0d7181",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular-entry.css",
+      "url": "https://staging.universalmind.tv/informatics/molecular-entry.css?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 474,
+      "sha256": "34e92170839e6613cd71325b857b5b3762fb6334f20bc9fae97a9d4fd2e18bd7",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular-entry.js",
+      "url": "https://staging.universalmind.tv/informatics/molecular-entry.js?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 1384,
+      "sha256": "8fdbb216f071349bfe7ca580076e0053de147bb0122014d9741d4486fe519ab2",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/atlas.css",
+      "url": "https://staging.universalmind.tv/informatics/molecular/atlas.css?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 22755,
+      "sha256": "8f32f56bbb7207efe838cacfd7e414e7a34d7c7c5c49746426578ad6f6d95713",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/atlas.js",
+      "url": "https://staging.universalmind.tv/informatics/molecular/atlas.js?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 32939,
+      "sha256": "b370b34dd14917336a39d0a6191099ffde41dc1b3f6b58ace1bc09b7be8e4c9d",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/1alu.bcif",
+      "url": "https://staging.universalmind.tv/informatics/molecular/data/1alu.bcif?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 237652,
+      "sha256": "2b3f9bf4c873316e8d6300941dd0f741cda37b9104f6e4e7acb47255e824c03e",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/1m2z.bcif",
+      "url": "https://staging.universalmind.tv/informatics/molecular/data/1m2z.bcif?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 393526,
+      "sha256": "b85290f126ed2220beb5907b59d9311239a8a9e79d4ad28ff6da7328b445bd10",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/1yh3.bcif",
+      "url": "https://staging.universalmind.tv/informatics/molecular/data/1yh3.bcif?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 395771,
+      "sha256": "067d78c80288a67a7437ccdb7422e67e0a8fbc11288993c09079198b21633632",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/5i6x.bcif",
+      "url": "https://staging.universalmind.tv/informatics/molecular/data/5i6x.bcif?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 992649,
+      "sha256": "29b8d278efa9ed9a9c5a64ea72718e84a6563dda26a7b978d71c7520cadecf61",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/6cm4.bcif",
+      "url": "https://staging.universalmind.tv/informatics/molecular/data/6cm4.bcif?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 530239,
+      "sha256": "4ef8156b7a0ce71b4c012b8979b6f1ec051173456c4322c329a338393e534daa",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/6tgb.bcif",
+      "url": "https://staging.universalmind.tv/informatics/molecular/data/6tgb.bcif?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 1146986,
+      "sha256": "6a42f297e03f533faa40bc6f5bbec85024395b3391c37634e38067deaec0d367",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/7qvm.bcif",
+      "url": "https://staging.universalmind.tv/informatics/molecular/data/7qvm.bcif?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 604673,
+      "sha256": "9df96fcec74a5008a318b50311b95a9faa814126517460c9732414c3190f4242",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/9iyq.bcif",
+      "url": "https://staging.universalmind.tv/informatics/molecular/data/9iyq.bcif?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 1321787,
+      "sha256": "ed7a363d615476ca41fb7158e55de9e59775fd9488bcce42eaf3be87485f59ca",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/catalogue.json",
+      "url": "https://staging.universalmind.tv/informatics/molecular/data/catalogue.json?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 28827,
+      "sha256": "52fe47c82c28997bd15ba7ed59e8643125546fa38242d80f6c7d7c8da597c04c",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/genes/cd38.json",
+      "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/cd38.json?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 76843,
+      "sha256": "6db6c07fec44ac703e426802d97db12c8c99f2932e9c2b84fba183995c2e8a2a",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/genes/dock2.json",
+      "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/dock2.json?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 452432,
+      "sha256": "261cc9ab7811b0ee4b630ab200aa4000da7cace13e31bfd8bc7c291c443d764f",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/genes/drd2.json",
+      "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/drd2.json?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 69298,
+      "sha256": "75b10e87f4467a9e7c703abde0268ec847eec5e11d625f3fca770bada3bb32d4",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/genes/grin1.json",
+      "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/grin1.json?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 33519,
+      "sha256": "2f9ee2c23a1ca2930c3f3725f9bb603cd6f722f7018d07a3bcca698090d52d38",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/genes/grin2b.json",
+      "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/grin2b.json?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 546687,
+      "sha256": "475bc33a1b07da010830c1db0b64a84ecd6462434c3cff389f8789764c23b455",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/genes/il6.json",
+      "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/il6.json?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 7714,
+      "sha256": "029a31d979aa4592133889096f944c79273f920b971cc065f9dec5999fab4e3b",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/genes/index.json",
+      "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/index.json?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 37254,
+      "sha256": "0a21b971ddbc818da981abafe662df47466ce0836740c0807657fa184dbb76b2",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/genes/nr3c1.json",
+      "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/nr3c1.json?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 159607,
+      "sha256": "4b650457c6bc0ce31addfe697e6df798b1ac85310970c65a9d57660bf0ac9654",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/genes/oxtr.json",
+      "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/oxtr.json?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 20737,
+      "sha256": "ed254465508ce7d2a5e43b112d9f6738701d92f8fde2fbcc8bce98afc50a114b",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/genes/slc6a4.json",
+      "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/slc6a4.json?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 46799,
+      "sha256": "d8d4f5f6d00e833cffb6f496e0e00b21343d3f9ec22ab7151e5faefcd55f9347",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/gene-thumb.svg",
+      "url": "https://staging.universalmind.tv/informatics/molecular/gene-thumb.svg?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 505,
+      "sha256": "ea282ef2fb13c044ea097cfd3bf7dc03866305b5c6faf30c2835f5295edbbe8c",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/index.html",
+      "url": "https://staging.universalmind.tv/informatics/molecular/index.html?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 9573,
+      "sha256": "03f3fd0cf46f43091be5ec1e9add9dd32682fad1a6da47c525761607032d49ca",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/thumbnails/cd38.png",
+      "url": "https://staging.universalmind.tv/informatics/molecular/thumbnails/cd38.png?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 49765,
+      "sha256": "773cff65b575e4c034c1ee40bee59bd7025187367fb1220a56d5599e971111e4",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/thumbnails/dock2.png",
+      "url": "https://staging.universalmind.tv/informatics/molecular/thumbnails/dock2.png?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 69187,
+      "sha256": "a03c836fb059f9f7fa39bc7031f52fc44bead17a658bb08e39f649176d3b942d",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/thumbnails/drd2.png",
+      "url": "https://staging.universalmind.tv/informatics/molecular/thumbnails/drd2.png?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 60602,
+      "sha256": "ef293bbeb9d6d13c21ace84a5041b531c718884e70d922c350266ec558fc81b2",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/thumbnails/il6.png",
+      "url": "https://staging.universalmind.tv/informatics/molecular/thumbnails/il6.png?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 55694,
+      "sha256": "9d62e459ce1d355f29f3998b80861ec65e82d08d9f98bfd8a6aa60f96ff39eea",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/thumbnails/nmda.png",
+      "url": "https://staging.universalmind.tv/informatics/molecular/thumbnails/nmda.png?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 98396,
+      "sha256": "dca09e09aed799b6cf74cdf5bdda787316e1e4c2ce4b30fa5597b36d271d25cb",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/thumbnails/nr3c1.png",
+      "url": "https://staging.universalmind.tv/informatics/molecular/thumbnails/nr3c1.png?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 69772,
+      "sha256": "8c33114bc1b4004e81360af6cc45d13933b03976e4870e623d5a93a2e7810e41",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/thumbnails/oxtr.png",
+      "url": "https://staging.universalmind.tv/informatics/molecular/thumbnails/oxtr.png?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 59165,
+      "sha256": "d2a352e382944d7cf1ef18cb883eeb5ee9873a79a2412de7ddeea23ca52e7d94",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/thumbnails/slc6a4.png",
+      "url": "https://staging.universalmind.tv/informatics/molecular/thumbnails/slc6a4.png?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 67076,
+      "sha256": "929f419f36dfa90c301c6a705bf93d55d1be21f2ce60813d07c6d0a0ad48d8c4",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/vendor/BIOEXCEL-LICENSE.txt",
+      "url": "https://staging.universalmind.tv/informatics/molecular/vendor/BIOEXCEL-LICENSE.txt?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 11357,
+      "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/vendor/dna-model-notice.txt",
+      "url": "https://staging.universalmind.tv/informatics/molecular/vendor/dna-model-notice.txt?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 792,
+      "sha256": "537f6757036e08886c87e9e3be4879f4b208f492d1c076fa318955bf1ac4527d",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/vendor/engine.js",
+      "url": "https://staging.universalmind.tv/informatics/molecular/vendor/engine.js?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 3148690,
+      "sha256": "c9b21fb5c2eb0c0fae64bd865699ec16e44df7b6d754bfaf3240190c3f3673f8",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/vendor/LICENSE-Molstar.txt",
+      "url": "https://staging.universalmind.tv/informatics/molecular/vendor/LICENSE-Molstar.txt?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 1088,
+      "sha256": "aa42900c6ea7bfcf22d25a4c369025e01a526c66501fd9193f9a8aecee7a0753",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/vendor/NOTICE.txt",
+      "url": "https://staging.universalmind.tv/informatics/molecular/vendor/NOTICE.txt?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 419,
+      "sha256": "2fb16a763647a50bef87176cf1ac1390b1c55b99a2cccceb09bb9d1bf5774a89",
+      "matches": true
+    },
+    {
+      "file": "Informatics/science.js",
+      "url": "https://staging.universalmind.tv/informatics/science.js?release=e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+      "status": 200,
+      "bytes": 60040,
+      "sha256": "d3221bb128047183b34aca9eb9966386101ed4b07347e9c1b606f508d2857718",
+      "matches": true
+    }
+  ]
+}

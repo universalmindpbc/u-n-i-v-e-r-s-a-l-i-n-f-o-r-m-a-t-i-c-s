@@ -1,0 +1,88 @@
+{
+  "reviewedAt": "2026-10-26",
+  "stimulus": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
+  "records": [
+    {
+      "id": "vision-photoreceptor-mosaic-1998", "doi": "10.1038/eye.1998.142", "collection": "vision", "topic": "vision-geometry",
+      "url": "https://www.nature.com/articles/eye1998142", "design": "Anatomical review of the human retinal photoreceptor mosaic",
+      "summary": "Ahnelt describes how human rods and cones are distributed across the retina. Cone packing is especially dense near the fovea; different cone populations have different arrangements. This provides biological context for exploring local packing and sampling geometry in Vision Atlas.",
+      "limitation": "The review does not demonstrate a universal perfect hexagonal retina, tetrahedral visual processing, or a Fibonacci mechanism. It is anatomical evidence, not an EMDR treatment trial or a quantum-stability experiment.",
+      "mechanism": "Spatial sampling by retinal photoreceptor populations.", "researchLead": "Compare the Atlas geometry with measured local packing, density and irregularity; retain the differences between retinal regions.",
+      "evidenceClass": "anatomical_review", "peerReviewed": true
+    },
+    {
+      "id": "vision-retinal-orientation-2011", "doi": "10.1038/nn.2824", "collection": "vision", "topic": "vision-geometry",
+      "url": "https://www.nature.com/articles/nn.2824", "design": "Computational model with comparative visual-cortex observations",
+      "summary": "Paik and Ringach propose that interference between regularly spaced ON- and OFF-centre retinal ganglion-cell mosaics helps form orientation maps in visual cortex. Their model predicts hexagonal organisation of orientation-domain centres, with supporting patterns reported in four mammalian species.",
+      "limitation": "This is a proposed developmental mechanism with supporting observations. It does not establish that all visual cortex follows this model, that humans prefer hexagons, or that retinal geometry stabilises quantum information.",
+      "mechanism": "Moiré interference between two spatial mosaics.", "researchLead": "Test whether similar interference mathematics generates useful candidate patterns in the Atlas, then evaluate each physical system separately.",
+      "evidenceClass": "computational_model_and_observation", "peerReviewed": true
+    },
+    {
+      "id": "vision-hexadirectional-2018", "doi": "10.1038/s41593-017-0050-8", "collection": "vision", "topic": "vision-geometry",
+      "url": "https://www.nature.com/articles/s41593-017-0050-8", "design": "Human fMRI during controlled visual tracking",
+      "summary": "Nau and colleagues found a sixfold directional pattern in human entorhinal-cortex activity during a visual tracking task. The result supports a grid-like representation of visual space and gives Vision Atlas a measured example of sixfold organisation in brain activity.",
+      "limitation": "An fMRI population signal is not a direct image of individual grid cells or proof of a tetrahedral eye mechanism. This study does not test Fibonacci sequences, EMDR outcomes, or quantum error correction.",
+      "mechanism": "Sixfold rotational modulation of a population-level neural signal with gaze direction.", "researchLead": "Use explicit rotational-symmetry tests with competing periodicities and independent data, rather than judging a pattern by visual resemblance.",
+      "evidenceClass": "human_neuroimaging", "peerReviewed": true
+    },
+    {
+      "id": "quantum-honeycomb-hastings-haah-2021", "doi": "10.22331/q-2021-10-19-564", "collection": "general", "topic": "quantum-error-correction",
+      "url": "https://quantum-journal.org/papers/q-2021-10-19-564/", "design": "Theoretical quantum error-correcting code",
+      "summary": "Hastings and Haah construct a honeycomb code in which a repeating schedule of two-qubit measurements creates logical qubits. Information protection comes from the code and measurement sequence acting together on the lattice.",
+      "limitation": "The paper does not show that a passive hexagon alone protects information. Implementing this code requires the specified measurements and decoding; the current Aquila workflow does not implement that procedure.",
+      "mechanism": "Dynamically generated logical qubits through scheduled two-qubit Pauli measurements.", "researchLead": "Use the measurement schedule as a separate theoretical benchmark; distinguish logical error correction from longer physical-qubit coherence.",
+      "evidenceClass": "quantum_error_correction_theory", "peerReviewed": true
+    },
+    {
+      "id": "quantum-penrose-fibonacci-code-2024", "doi": "10.48550/arXiv.2311.13040", "collection": "general", "topic": "quantum-tilings",
+      "url": "https://arxiv.org/abs/2311.13040v2", "title": "The Penrose Tiling is a Quantum Error-Correcting Code", "authors": "Zhi Li; Latham Boyle", "journal": "arXiv", "year": 2024, "published": "2024-01-25",
+      "design": "Theoretical preprint; version 2", "kind": "Preprint",
+      "summary": "Li and Boyle construct quantum error-correcting codes from Penrose tilings and variants based on Ammann–Beenker and Fibonacci tilings. Their construction connects nonperiodic geometric structure with the ability to recover information after local errors or erasures.",
+      "limitation": "This is a mathematical construction in a preprint, not an experimental demonstration on Aquila. Its Fibonacci tilings are different from the Atlas M9 P24 sequences. A physical implementation and its resource requirements remain separate questions.",
+      "mechanism": "Quantum information stored in a tiling-based code with local indistinguishability and recoverability.", "researchLead": "Study the explicit Fibonacci-tiling code and compare its mathematical requirements with our sequence representations before proposing a hardware mapping.",
+      "evidenceClass": "quantum_error_correction_preprint", "peerReviewed": false
+    },
+    {
+      "id": "quantum-ibm-heavy-hex-2021", "doi": null, "collection": "general", "topic": "quantum-error-correction",
+      "url": "https://www.ibm.com/quantum/blog/heavy-hex-lattice", "title": "The IBM Quantum heavy hex lattice", "authors": "Paul Nation; Hanhee Paik; Andrew Cross; Zaira Nazario", "journal": "IBM Quantum technical blog", "year": 2021, "published": "2021-07-07",
+      "design": "Hardware architecture explanation", "kind": "Technical article",
+      "summary": "IBM explains why its heavy-hex architecture uses a sparse pattern of superconducting-qubit connections. The design reduces frequency collisions and unwanted effects on neighbouring qubits while balancing connectivity and the operations required by a calculation.",
+      "limitation": "This is a vendor technical explanation, not a peer-reviewed Fibonacci study. Its benefits depend on superconducting hardware and control choices; the shape alone is not evidence of universal quantum stability.",
+      "mechanism": "Reduced connectivity to manage frequency collisions and spectator errors.", "researchLead": "Compare connectivity, noise and operation overhead explicitly when evaluating alternative geometries.",
+      "evidenceClass": "vendor_technical_explanation", "peerReviewed": false
+    },
+    {
+      "id": "quantum-heavy-hex-scaling-2026", "doi": "10.1038/s41467-026-76090-6", "collection": "general", "topic": "quantum-error-correction",
+      "url": "https://www.nature.com/articles/s41467-026-76090-6", "design": "Superconducting quantum-processor experiment and modelling",
+      "summary": "The authors combine surface-code layouts and pulse control on IBM heavy-hex processors. Increasing code size along one direction improves protection of particular logical states. Their analysis shows why both state directions and coherent noise matter when assessing error suppression.",
+      "limitation": "Directional improvements do not establish general below-threshold scaling. The paper identifies further noise reduction needed for balanced scaling. It does not test Fibonacci or M9 P24 sequences.",
+      "mechanism": "Code embedding, SWAP operations and dynamical decoupling on a constrained hardware graph.", "researchLead": "Evaluate several initial states and an information-preservation metric; avoid declaring success from one favourable response or direction.",
+      "evidenceClass": "quantum_hardware_experiment", "peerReviewed": true
+    },
+    {
+      "id": "quantum-kagome-edge-states-2026", "doi": "10.1021/acs.nanolett.6c03195", "collection": "general", "topic": "quantum-neutral-atoms-materials",
+      "url": "https://doi.org/10.1021/acs.nanolett.6c03195", "design": "Molecular-lattice microscopy and tight-binding calculations",
+      "summary": "The authors assembled a molecular diatomic kagome lattice and observed electronic states along its zigzag edges. Microscopy and calculations connect these states to the lattice's electronic structure and topology.",
+      "limitation": "This is a quantum-materials result, not a demonstration of a longer-lived qubit or an error-correcting computer. It provides an example of geometry changing electronic behaviour, without establishing a Fibonacci mechanism.",
+      "mechanism": "Topological electronic edge states in a molecular lattice.", "researchLead": "Compare edge and bulk observables in an explicitly defined Hamiltonian; treat this as a materials analogy until a quantum-information observable is tested.",
+      "evidenceClass": "quantum_materials_experiment", "peerReviewed": true
+    },
+    {
+      "id": "quantum-rydberg-local-error-correction-2024", "doi": "10.1038/s41467-024-45584-6", "collection": "general", "topic": "quantum-neutral-atoms-materials",
+      "url": "https://www.nature.com/articles/s41467-024-45584-6", "design": "Numerical modelling and analysis of Rydberg-atom measurements",
+      "summary": "Cong and colleagues use local error-correction ideas to identify topological order despite noise. They test the method numerically and apply it to measurements from a Rydberg-atom quantum spin liquid, making it directly relevant to analysing neutral-atom experiments.",
+      "limitation": "The method improves the diagnosis of a prepared state. It is not a demonstration that Aquila stores arbitrary information fault-tolerantly, and it does not test M9 P24 sequences.",
+      "mechanism": "Locally error-corrected decoration of measured correlations to identify topological order.", "researchLead": "Investigate whether the required correlation measurements and state preparation are available in our neutral-atom model before adopting the diagnostic.",
+      "evidenceClass": "numerical_and_quantum_experimental_data_analysis", "peerReviewed": true
+    },
+    {
+      "id": "quantum-haah-fractal-code-2011", "doi": "10.1103/PhysRevA.83.042330", "collection": "general", "topic": "quantum-fractal-codes",
+      "url": "https://doi.org/10.1103/PhysRevA.83.042330", "design": "Theoretical three-dimensional stabilizer codes",
+      "summary": "Haah constructs local stabilizer codes in three dimensions without string-like logical operators. The work introduces a different geometric organisation of information and errors, associated with the fractal structure of logical operations in the cubic-code family.",
+      "limitation": "This is code theory, not evidence that any fractal pattern stabilises a physical quantum computer. It does not demonstrate a Fibonacci connection or a complete self-correcting memory operating at finite temperature.",
+      "mechanism": "Three-dimensional local constraints and non-string logical operators.", "researchLead": "Compare exact code properties and noise response before drawing connections between fractal appearance and information protection.",
+      "evidenceClass": "quantum_error_correction_theory", "peerReviewed": true
+    }
+  ]
+}

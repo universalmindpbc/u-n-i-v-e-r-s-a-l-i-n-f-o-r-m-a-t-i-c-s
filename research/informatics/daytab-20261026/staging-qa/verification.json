@@ -1,0 +1,380 @@
+{
+  "checkedAt": "2026-10-26T02:08:59.585Z",
+  "sourceCommit": "66d9b83bedb2f9cc0049fbad38e425bdb11b3ec3",
+  "processMuted": true,
+  "views": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "overflow": false,
+      "pageErrors": [],
+      "search": true,
+      "geneExpressionFilter": true,
+      "singleBlindFilter": true,
+      "genotypeFilter": true,
+      "correction": true,
+      "favicon": true
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "overflow": false,
+      "pageErrors": [],
+      "search": true,
+      "geneExpressionFilter": true,
+      "singleBlindFilter": true,
+      "genotypeFilter": true,
+      "correction": true,
+      "favicon": true
+    }
+  ],
+  "files": [
+    {
+      "path": "Informatics/library-data/clinical-conditions.json",
+      "sha256": "72d41ef50d5718e18152fa6ff280f8bccc59855aef47ee578a46da718eaf4040"
+    },
+    {
+      "path": "Informatics/library-data/language-edition.json",
+      "sha256": "9a5a390d836d369786d76be3dc3b07f5e3eb6597acc0d3f7ee2f665f8a2e8060"
+    },
+    {
+      "path": "Informatics/library-data/publication-access.json",
+      "sha256": "b6bab65cab09030fc0dcb2bbaf0da58e2c762a30912bffc48fef0b7cfa0327d7"
+    },
+    {
+      "path": "Informatics/library-data/sound-edition.json",
+      "sha256": "728762bb2460a20175433f89469fa125024e31effecced542807efdc4f911001"
+    },
+    {
+      "path": "Informatics/library-data/library.json",
+      "sha256": "e201040a7d9d9dd266f6510d876ab89cc98d27eab01381b90f8683e51324adc9"
+    },
+    {
+      "path": "Informatics/exports/manifest.json",
+      "sha256": "1e7a13dd697b542158224c92e3675e57870674420188fe57ab7b41eb6678512f"
+    },
+    {
+      "path": "Informatics/llms.txt",
+      "sha256": "2c8ab1532424ea20904e9076c46a52c91e1d1b7a2265b92f964828eb28f7556d"
+    },
+    {
+      "path": "Informatics/read/index.html",
+      "sha256": "b390d677d52cb33101bb4c80a8cf03e28167fac653bcb124bbca79f0ebcc7324"
+    },
+    {
+      "path": "Informatics/library.html",
+      "sha256": "6b2346be0c6b82906c11e6f8652ecf5b17fe32cfdc870cf191317372ca2fe36c"
+    },
+    {
+      "path": "Informatics/library.js",
+      "sha256": "a54d471e2fd19833fd6833046f293797cfd4b6daec4dd263b78b16477eca308b"
+    },
+    {
+      "path": "Informatics/library-data/vision-edition.json",
+      "sha256": "e7964a11f99c4f3cde3883f5b47f20d355da903160c8cfd83c3e97394b9a9897"
+    },
+    {
+      "path": "Informatics/read/data.html",
+      "sha256": "0b7c617bcbfad07213105a4a1fc8ef4c76a2333de9a0e89e2cbde1df6e583df1"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-16847590-a82e2a80.html",
+      "sha256": "ad30b1479b7f758b237aab93ba1ef2fe4d7e4a5c0b966bddb291a1af7e26a578"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-18356284-731f4f0e.html",
+      "sha256": "6950c2d670bace98643a14f82e1a4f505f005801da982a57fd299ca622b37e69"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-11020090-d7bdc9db.html",
+      "sha256": "dd7ebbf44c8dd904ecfeec771eda15a86855bc60bdb9f2a9fdf77b37c9f03e92"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-14756612-496b76d2.html",
+      "sha256": "517bbc60b472c3b18ed9825c1f003f4be21cd5a69bdbeb197aaa1fb5fd69d22e"
+    },
+    {
+      "path": "Informatics/read/publications/index.html",
+      "sha256": "25c3c8fbc1f430f1735e97ecb5d92bdd7bceb387da8c7c0b4c2e885bb069c12b"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-12883106-40678a06.html",
+      "sha256": "f8fc30ccae3d84079b628e891062a76aaf51a3f2470d2642aab33ead636e360b"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-23541163-89ec2e56.html",
+      "sha256": "e7840d976a567c4c8c891457d08e0920dcf591fad146aa6d76a2c2c733621352"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-22322458-60c9ffbd.html",
+      "sha256": "9b57d30d4ea04184b1b9d56ccb5b340c635fd2ec3d5f947a389eca6dea4fbd56"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-21723049-316f2b1d.html",
+      "sha256": "03b79a38c627975dbc28b26e48ff7a00f2f2ea51bb92730a04518ba46813c5ff"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-20876468-54af8197.html",
+      "sha256": "3cafaea0d818262817544836b718150859a5c3f2614a07085891a41921404e15"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-19235193-6d66c862.html",
+      "sha256": "02eeb49db497b554c0cd7cf48f60039400e576f4d6266aea5438c376c2f18bde"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-22430268-b11c6b8a.html",
+      "sha256": "436c5eab2e889694c1a1a3f5ddb19ad05dd3f7fed81caa5577fc6819b6f7e1ad"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-26586819-3f29e86d.html",
+      "sha256": "9b9a7acc916fea8c6b06581b62617ea85b508c24ad93db3cdc0d3be6bed07cc5"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-27723444-d36a2202.html",
+      "sha256": "8ad7085bd71fbd232a40e78e8ee6017f8d79c4acaa1fd35c4b32ae92e0cec79e"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-25397817-3a1af3de.html",
+      "sha256": "712ddc9751da936f75b5dfff56c557ed88e9b4fe6ab710de539db14e075e33eb"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-25686304-60c6fd74.html",
+      "sha256": "1694ca1d1d4b694a1d1345b7c059fbe1f16bba1a39a4980ae808487e1d3558cc"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-24647726-bea80710.html",
+      "sha256": "d7e50f172e785cee48321c2e7be0be64fcd1b15c2f3be682ca40d0f51626462f"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-24880581-0343b0a2.html",
+      "sha256": "e2cf5396ea91914212bacaaf875a5c4a33a5429a8f4acc23627922969dde5306"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-29936408-aa4beaa9.html",
+      "sha256": "e7c0fc378bcd567fd7fbcd70ff6f354403fb0ac6e39e2568ea8c96b67ce8b723"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-29900257-7e2f815e.html",
+      "sha256": "e4d8aeeac74620d62b7e1f82a6d55773d3139a1b38e29ddeddd65a84d76ec30c"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-30256277-4170adc7.html",
+      "sha256": "fc200a1a3c6b269cc2f4320fb54b9b1420c08aa0c082a8081a05fe982c909143"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-29921143-0bb7e4a4.html",
+      "sha256": "a5c10f89634b3f7d176225afc0cda4e370309720614d51e677eae7a2fb7fa90f"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-30279666-43eaddaa.html",
+      "sha256": "e454eb4712101db496d6bfee4a7c2fa8e8374c6bb8e381574a8b255b49524d74"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-29422189-4e33115a.html",
+      "sha256": "a5201f53cd7e83fae68ce8dc089bab5bed303c78e520ed5094d05e10d5385aa1"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-32653082-30b63532.html",
+      "sha256": "5e269f9af73a055d7ad1d8a392a4e77154668905e3ea8cbb7a9adf564e8fb0a7"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-32412916-854458d5.html",
+      "sha256": "87c79882553a6f2ed418b2f160bcfe7b41eac97e1e9144319ff746ee6bd04dee"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-30711853-c4b925d1.html",
+      "sha256": "dcd8ac5f2f9e399db52d3f429c3a2a3d0439c0a5cfe3046559b0ff33de9721c3"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-32892758-3f12c413.html",
+      "sha256": "b627137dc76c234fe936ed8b895abf40a1ae5ed8a728b6d12f5d014fb9ebe66d"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-31632617-af64072d.html",
+      "sha256": "662b86588dc28bd045087bc7a8d47b46322c43e5d580c024aef95da7c9ae857b"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-32564499-652228c3.html",
+      "sha256": "d3a65ab619a01d3f56755c3d9cf1e79ac686650fcb2cc79dc60d4fc5d60a401c"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-34729544-58a2e32b.html",
+      "sha256": "77502ee26b290ec2eb79aacff4555692861465be2ea9cfd7c3b3e166b34774ca"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-35655482-865228d4.html",
+      "sha256": "3aa51de8359bfaadeb4b8fd124ffe2c1231f8d970006049232f215f4ef943a1a"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-33107329-2c406df6.html",
+      "sha256": "aeb11c6ee0da6598be35519df3054839104db73dc604815d8d060e2bcd762d2b"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-33734493-1789114b.html",
+      "sha256": "9eaf0ded1e8e7b545e8346d939e09bb23de399928ec119a74d83c6a03c3af382"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-33393484-8ff86cda.html",
+      "sha256": "5570ea9ef81e37f74390aa1f2f93ee5074384000a9dd1e4cc48adaba568ee3f6"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-34907015-457bcea6.html",
+      "sha256": "90d3adfe9f14c1a54ec6bcb5e341fd33b744fe7df4f6285689c1bb330fca268c"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-36006668-bd97f85f.html",
+      "sha256": "ff36aace34569b4cd4bc2a00d877a3c23ef5b3b7fd468e9d0b12901fa0908340"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-35818436-6b375d23.html",
+      "sha256": "cd4036d569739f34c46485987058657b2f9243d9b4107ac415a33a8907f86314"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-35713444-2ede4791.html",
+      "sha256": "9d57f52d58d8a9eff85e4608f32ae0f9127dd5defe8343e2166d27cf9b26c7a1"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-37546047-28e5b6b6.html",
+      "sha256": "09c537b8d5f1ef2f1d5bf648d54c1b81e767c52740924e3eea07a1e02e8b7256"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-36790246-b956ecc8.html",
+      "sha256": "b4fcb7f185f49ea1953a69a78c2592c17551e71397ff14c0c38a4a570d21c414"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-36011825-5cdf1c37.html",
+      "sha256": "fa2f365741c858de47624b7809b8e0d779b8b47cfdf233e228cf737c57df6db1"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-37882058-a29ef0d5.html",
+      "sha256": "b62ef65b8f41151a78a906cdf3bc86e125e3b02c00c1d623216d1f5ff69bafb9"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-38982009-cc10df61.html",
+      "sha256": "e1aa61fb5f88ff6bd1315f7b9e0718b2fcf6b4148d8ea781f029e47b3e7d874e"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-38319068-a8f11d65.html",
+      "sha256": "d419a4b7c752a2922d94eadfd2671ccd7418f87a7597640243eda02f84a75acc"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-39088370-1c31d90f.html",
+      "sha256": "206d84a5c04cc4a5078b9d2ba250023616448f268e5e5bf3f28de4cf0a7e7e21"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-38227442-6ac1efec.html",
+      "sha256": "0f2e9c9658af709166b403aa3aae71f451f7e4820737f24fb86229462d0d9f32"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-38078959-e629f0a9.html",
+      "sha256": "6f5091f566dfcf5228ca0d9fdef32e20d5ba2ebcb8dd7c9d275dc5ec3a5d90de"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-40269359-3fca0751.html",
+      "sha256": "3d42da3f93a3b013af56281771629cce972b14b493683e119cadeb3de71c0474"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-39427264-8db92563.html",
+      "sha256": "b740c188c7f403fe705c5801c6adad93155f4a2d214815afdf391cce611225ae"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-39808431-1935f9aa.html",
+      "sha256": "8a55da0895f0626bd09e57605f2038cb314aaf26b80e8f6543bf8f673f041562"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-39916551-c5ab9e95.html",
+      "sha256": "dcc57bebb7692b1e88df58b68992cdb0d7bd7e1aadf79b39381b7ebaf6cb454a"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-39758524-fb79596a.html",
+      "sha256": "16f35c5852186dac3f7c28c547f91ac3263303db3480db49d3d3d2784de9276c"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-39413359-ea582a8f.html",
+      "sha256": "cc316729e0cf8f2802d3159aa1f02d56b624fa2e1181f0c5a1cf590b96d669aa"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-40414454-0ebae8ac.html",
+      "sha256": "00160ed2ab770abc6faebdcedabfc053aab8f674ac0160bd09d06959f2f14418"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-40716437-381b11b8.html",
+      "sha256": "8505c903ae58662a0abf611da73b864bdfef87fc8f5e76884f63ad59a69afb28"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-40563070-efe65cee.html",
+      "sha256": "c364409112b6b40a7f21e25a4534ea29ddd43951a86338fd78b0a2e733b1ac02"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-40621706-d094acb6.html",
+      "sha256": "4db898c2cb80c9ad3a9d282de10d112a434c5ba9e0d8a9162f013a8e4fa0f208"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-40795897-5099f9d7.html",
+      "sha256": "0e08d3c341b684de8c345e1e375c600a24f5f605e08f42bac71753c309733f1d"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-40769315-5d83300f.html",
+      "sha256": "f6e4876847c10eaaffc701b329d59693dbd3e1ade3accf81c6b1040a770e544f"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-41642087-c4fe3720.html",
+      "sha256": "89a312f7a66039bc3516c54bc3984aee50c008c90ef950b1cb7ba8862531993c"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-41655996-1e5d0916.html",
+      "sha256": "20d53371f8cfd980600c02ef51e3034111e37785ceedef389a6ca743ff3c4564"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-41450809-f7fb121c.html",
+      "sha256": "bb36f2c20020ea3f79c64a6eb1cf0e80fc7a69ebf911059ab3f435d9375d7c4c"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-42307797-efa8908c.html",
+      "sha256": "e0ab7f696c43eae9120127e336eb421c17daf7340bb31d3ca1900df6e37cc15c"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-41911215-4c282353.html",
+      "sha256": "3eb66e239c47c905fa1dc663286ca2743310331c40be7c0dbc28f039ca103849"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-42116620-8b95c3ad.html",
+      "sha256": "2f78cf932c3b436340fdf9e9f519e4a6385771e087ff2a5215260d3d38f1dd12"
+    },
+    {
+      "path": "llms.txt",
+      "sha256": "61ca8ad762d3fe49c156dbc5ef16239524990a8bacb2c980d0e586203f15f9fa"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-42599846-aca0287d.html",
+      "sha256": "ae18d1017835f6da6af2c113a1ea9ead9c935100b4c7f91d51745f12d54875d5"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-42671585-77ff8b0b.html",
+      "sha256": "df4350d2ebbf9d4ff86c4d06502d9365ec7429a2bd12e70ee198996462943994"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-42518933-bcccdc60.html",
+      "sha256": "468ca52831c4294ed402e9e205dd8a67dd42795e8e7a9b6a3583ead023adf0f0"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-42640862-3a7b9e28.html",
+      "sha256": "a5f83e44ba2d8bbcb4f2939b5310973e0d9a8cc3c32fe59c4e0840ea7b60eb09"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-7591024-7cdd398a.html",
+      "sha256": "373006b74a53eab80a04aaac5088e4e0bebdba75b1fbc037965e334593dbc2ca"
+    },
+    {
+      "path": "sitemap.xml",
+      "sha256": "ef204fc120bdee8649cddca4e636f593c7d1256e5021335ac6f88cc2b6c7f841"
+    }
+  ],
+  "exportedRecords": 891,
+  "newRecordsMatched": 70,
+  "passed": true
+}

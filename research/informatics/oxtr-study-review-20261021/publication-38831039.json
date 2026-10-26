@@ -1,0 +1,27 @@
+{
+  "id": "38831039",
+  "pmid": "38831039",
+  "pmcid": "PMC12991031",
+  "doi": "10.1038/s41593-024-01658-8",
+  "title": "Multiomic profiling of transcription factor binding and function in human brain.",
+  "authorString": "Loupe JM, Anderson AG, Rizzardi LF, Rodriguez-Nunez I, Moyers B, Trausch-Lowther K, Jain R, Bunney WE, Bunney BG, Cartagena P, Sequeira A, Watson SJ, Akil H, Cooper GM, Myers RM.",
+  "firstPublicationDate": "2024-06-03",
+  "journalInfo": {
+    "issue": "7",
+    "volume": "27",
+    "journalIssueId": 3799454,
+    "dateOfPublication": "2024 Jul",
+    "monthOfPublication": 7,
+    "yearOfPublication": 2024,
+    "journal": {
+      "medlineAbbreviation": "Nat Neurosci",
+      "title": "Nature neuroscience",
+      "essn": "1546-1726",
+      "issn": "1097-6256",
+      "isoabbreviation": "Nat Neurosci",
+      "nlmid": "9809671"
+    },
+    "printPublicationDate": "2024-07-01"
+  },
+  "pubYear": "2024"
+}

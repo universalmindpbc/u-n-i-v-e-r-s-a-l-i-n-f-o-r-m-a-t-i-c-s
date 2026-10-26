@@ -1,0 +1,39 @@
+{
+  "passed": true,
+  "process_audio_muted": true,
+  "routes": [
+    {
+      "area": "sound",
+      "width": 1470
+    },
+    {
+      "area": "vision",
+      "width": 1470
+    },
+    {
+      "area": "language",
+      "width": 1470
+    },
+    {
+      "area": "geometry",
+      "width": 1470
+    },
+    {
+      "area": "sound",
+      "width": 390
+    },
+    {
+      "area": "vision",
+      "width": 390
+    },
+    {
+      "area": "language",
+      "width": 390
+    },
+    {
+      "area": "geometry",
+      "width": 390
+    }
+  ],
+  "errors": []
+}

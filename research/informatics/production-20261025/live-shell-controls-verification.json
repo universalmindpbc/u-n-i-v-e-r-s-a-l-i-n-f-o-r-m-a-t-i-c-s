@@ -1,0 +1,64 @@
+{
+  "verifiedAt": "2026-10-25T03:40:36.411Z",
+  "passed": true,
+  "process_audio_muted": true,
+  "direct_links": [
+    {
+      "route": "quantum/",
+      "area": "quantum",
+      "url": "https://universalmind.tv/informatics/?entry=research&area=quantum&record=fibonacci-m9-p24&record-mode=animation"
+    },
+    {
+      "route": "molecular/",
+      "area": "molecular",
+      "url": "https://universalmind.tv/informatics/?entry=research&area=molecular&record=fibonacci-m9-p24&record-mode=animation"
+    },
+    {
+      "route": "research.html?record=fibonacci-m18-p24",
+      "area": "geometry",
+      "url": "https://universalmind.tv/informatics/?entry=research&area=geometry&record=fibonacci-m18-p24&record-mode=research"
+    },
+    {
+      "route": "library.html?collection=language",
+      "area": "research",
+      "url": "https://universalmind.tv/informatics/?entry=research&area=research&section=%7B%22area%22%3A%22research%22%2C%22search%22%3A%22%3Fcollection%3Dlanguage%22%2C%22hash%22%3A%22%22%7D&record=fibonacci-m9-p24&record-mode=animation"
+    },
+    {
+      "route": "connect.html",
+      "area": "connect",
+      "url": "https://universalmind.tv/informatics/?entry=research&area=connect&record=fibonacci-m9-p24&record-mode=animation"
+    },
+    {
+      "route": "?about=1",
+      "area": "about",
+      "url": "https://universalmind.tv/informatics/?about=1&area=about&record=fibonacci-m9-p24&record-mode=animation"
+    }
+  ],
+  "music_toggle_and_persistence": true,
+  "fullscreen_control_visible_native_not_invoked": true,
+  "transcription_dropdown": true,
+  "universal_one": {
+    "http": 200,
+    "model": "gpt-6-astra",
+    "answer": "The Atlas index contains **111 M9-family records**, out of 1,001 total records. [S1]",
+    "sources": [
+      {
+        "label": "S1",
+        "id": "atlas-index-m9-0",
+        "passageId": null,
+        "title": "M1–M1001 Atlas index",
+        "authors": "",
+        "journal": "Universal Informatics Atlas",
+        "url": "https://universalmind.tv/informatics/pilot-v1/index.json",
+        "section": "Index",
+        "kind": "atlas",
+        "text": "{\"total\":1001,\"m9_family\":111,\"family\":\"m9\",\"offset\":0,\"records\":[{\"id\":\"fibonacci-m9-p24\",\"modulus\":9,\"period\":\"24\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m18-p24\",\"modulus\":18,\"period\":\"24\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m27-p72\",\"modulus\":27,\"period\":\"72\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m36-p24\",\"modulus\":36,\"period\":\"24\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m45-p120\",\"modulus\":45,\"period\":\"120\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m54-p72\",\"modulus\":54,\"period\":\"72\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m63-p48\",\"modulus\":63,\"period\":\"48\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m72-p24\",\"modulus\":72,\"period\":\"24\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m81-p216\",\"modulus\":81,\"period\":\"216\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m90-p120\",\"modulus\":90,\"period\":\"120\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m99-p120\",\"modulus\":99,\"period\":\"120\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m108-p72\",\"modulus\":108,\"period\":\"72\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m117-p168\",\"modulus\":117,\"period\":\"168\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m126-p48\",\"modulus\":126,\"period\":\"48\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m135-p360\",\"modulus\":135,\"period\":\"360\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m144-p24\",\"modulus\":144,\"period\":\"24\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m153-p72\",\"modulus\":153,\"period\":\"72\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m162-p216\",\"modulus\":162,\"period\":\"216\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m171-p72\",\"modulus\":171,\"period\":\"72\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m180-p120\",\"modulus\":180,\"period\":\"120\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m189-p144\",\"modulus\":189,\"period\":\"144\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m198-p120\",\"modulus\":198,\"period\":\"120\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m207-p48\",\"modulus\":207,\"period\":\"48\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m216-p72\",\"modulus\":216,\"period\":\"72\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m225-p600\",\"modulus\":225,\"period\":\"600\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m234-p168\",\"modulus\":234,\"period\":\"168\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m243-p648\",\"modulus\":243,\"period\":\"648\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m252-p48\",\"modulus\":252,\"period\":\"48\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m261-p168\",\"modulus\":261,\"period\":\"168\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}},{\"id\":\"fibonacci-m270-p360\",\"modulus\":270,\"period\":\"360\",\"family\":{\"m9\":true,\"label\":\"M9 family\"}}],\"nextOffset\":30}",
+        "doi": null,
+        "rights": null,
+        "sha256": null,
+        "retrievalLabel": "S1"
+      }
+    ]
+  },
+  "errors": []
+}

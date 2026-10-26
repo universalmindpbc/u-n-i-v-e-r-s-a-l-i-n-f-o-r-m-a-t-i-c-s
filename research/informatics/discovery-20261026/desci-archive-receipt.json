@@ -1,0 +1,529 @@
+{
+  "provider": "DeSci Publish",
+  "draftId": "n-_wkF_5LYvm_uoZ_hdFE7wEybmRoXFi2J1Qa4F0USA",
+  "title": "Universal Informatics \u2014 26 October 2026 \u2014 43d49bbc4b88",
+  "published": false,
+  "manifestSHA256": "df177d308cf36853b5c23e5d47356bc0d7976a1bb12792a0771020477adcbd5a",
+  "status": "verified-private-IPFS-archive",
+  "files": [
+    {
+      "name": "informatics-complete.json.gz",
+      "bytes": 75558215,
+      "sha256": "9e23e50ddf18f866f694b22db0eb58a303260bd32b3bb7a3f547ebd9ada055ae",
+      "cid": "bafybeig6ni6xa7mkeouf47od4ovqbppx2nyjqzkytcjharao4orvbeos5i",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "providerRecordedAt": null,
+      "checkedAt": "2026-10-25T23:20:50.988Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "informatics-complete.csv.gz.chunk-001.bin",
+      "bytes": 8388608,
+      "sha256": "cf07cf8218013359bc2ab7b86feb2503ca2d98f2ef3104d1b9b26da60bb845af",
+      "cid": "bafybeicoq523cuk7vpbab735etyzsoxvurvxmy2wwrs7ghoh2pbrn5rmsa",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "providerRecordedAt": null,
+      "checkedAt": "2026-10-25T23:27:12.661Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "informatics-complete.csv.gz.chunk-002.bin",
+      "bytes": 8388608,
+      "sha256": "fe37c0d3171dfc00277e3c2028c62ca9ec3bdbc7e768a2ee07979b351862dc0c",
+      "cid": "bafybeidjjer7g5baavllbxigloe55c3msisbinu4tureiwpydjtiijaqy4",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "providerRecordedAt": null,
+      "checkedAt": "2026-10-25T23:28:11.314Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "informatics-complete.csv.gz.chunk-003.bin",
+      "bytes": 8388608,
+      "sha256": "81b7b5550cbcfcf6c9bc324870f9602fff919d0a06821325501837b0d9f503ea",
+      "cid": "bafybeicnj7q77ueu7xy27obgnqncflk6bgsn25v2s5bnitro4436sd2hxy",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "providerRecordedAt": null,
+      "checkedAt": "2026-10-25T23:29:09.482Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "informatics-complete.csv.gz.chunk-004.bin",
+      "bytes": 8388608,
+      "sha256": "00b5966e96792adc8f19733a005aed6dd7b34012f2d30134d62c6c3889d30440",
+      "cid": "bafybeife4nobmsj7qaxwp7o62mgkgyzrni3f7nfrkag4bnj2bh53mapxmy",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "providerRecordedAt": null,
+      "checkedAt": "2026-10-25T23:30:10.213Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "informatics-complete.csv.gz.chunk-005.bin",
+      "bytes": 8388608,
+      "sha256": "ec11da3f235dd6222640445b69a789500d039e1cf13556b37245c4c234d43f25",
+      "cid": "bafybeihoapbc6fajugits7wugcd3xufjwvckfmxlpomtpbjwu7wuwgmdtu",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "providerRecordedAt": null,
+      "checkedAt": "2026-10-25T23:30:55.882Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "informatics-complete.csv.gz.chunk-006.bin",
+      "bytes": 8388608,
+      "sha256": "80a8c80316b4c8508fb3aebeebf7e9f9f0300ac7f48d30307b91a225f73b5137",
+      "cid": "bafybeiealuabnrr3nlurena244a7hrwgcurqqzgctviy65cezodqzdsszu",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "providerRecordedAt": null,
+      "checkedAt": "2026-10-25T23:31:49.467Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "informatics-complete.csv.gz.chunk-007.bin",
+      "bytes": 8388608,
+      "sha256": "b51012aca801d5dfed6ecf0879e20c05ec8b9765519522156caa83e94d6c9ee6",
+      "cid": "bafybeiafye3m6r5w2cthtwfgvb43ilc5inwhtlbd53dau3ydzivuzebflu",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "providerRecordedAt": null,
+      "checkedAt": "2026-10-25T23:32:48.525Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "informatics-complete.csv.gz.chunk-008.bin",
+      "bytes": 8388608,
+      "sha256": "ed510424b054cbb7700759c0cff83ae16d4dc2f3fd8dfe7b2f1caa1641f86f4d",
+      "cid": "bafybeiccbq4yktsqkaqjzyq3rwgjkqmwsm65lb4hdwcraewcmo73uyvrcy",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "providerRecordedAt": null,
+      "checkedAt": "2026-10-25T23:33:41.421Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "informatics-complete.csv.gz.chunk-009.bin",
+      "bytes": 8388608,
+      "sha256": "585d2e46f64996dd1909694be0f786b8b1d5107c125f4e108c17ef82a5b53590",
+      "cid": "bafybeiffjuep2fjgb2sh25bqdjpahhn4t37qv6p644ozmgof4l7uzuctse",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "providerRecordedAt": null,
+      "checkedAt": "2026-10-25T23:34:12.094Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "informatics-complete.csv.gz.chunk-010.bin",
+      "bytes": 8388608,
+      "sha256": "dd39b9a7cbaaa123e0a2c2d81b74bc68efe15382f112431728757b13c91ae5b5",
+      "cid": "bafybeie4sdg5sy7ktrddx53n3r7udcd5qj33u42up7gxlrtlojobreccey",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:14.159Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "informatics-complete.csv.gz.chunk-011.bin",
+      "bytes": 8388608,
+      "sha256": "6b0cb25eea0e39284d05c55564db31b33f2681e5a7b68edb650c215f46d159a3",
+      "cid": "bafybeihlcejsyagruvu527pjzoi4vrbesnudze237higkkc4jlmllphg5q",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:14.173Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "informatics-complete.csv.gz.chunk-012.bin",
+      "bytes": 8388608,
+      "sha256": "6ab65b24d1a32aa1708ea1c62006885e3086458efce3fea6b9692b52d2379b0d",
+      "cid": "bafybeid2wobjfguun3gkmprj5kihmurria54stocprrywqcynz3dkxk7ra",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:14.184Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "informatics-complete.csv.gz.chunk-013.bin",
+      "bytes": 8388608,
+      "sha256": "d85230ff10055935a62efdb6823a73be7447ecd24f94308b69dc9ce5effc2aea",
+      "cid": "bafybeidmm5svznsa55lbdedhevta7c74q3lf43cg2kahktalg4yvxellcq",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:14.195Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "informatics-complete.csv.gz.chunk-014.bin",
+      "bytes": 8388608,
+      "sha256": "1a91ded8cb6facd5ed1f4c1ccbb56731acbe75e6510c7c0ef9d5bba784d939ad",
+      "cid": "bafybeihwu6kjt4xfleawrdl7agnodyqzdmabdz7zljb3j7xwkayspoo4t4",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:28.923Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "informatics-complete.csv.gz.chunk-015.bin",
+      "bytes": 8388608,
+      "sha256": "27640277d0ffa87626bd9c1d15c9c0fa1f01c30aae7e9d7a7ef08afbb26f1861",
+      "cid": "bafybeibfhcsdhekx3cgz3u6xomqtwkz6in2gcgad5vlsmh2vvsb6kagpja",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:28.941Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "informatics-complete.csv.gz.chunk-016.bin",
+      "bytes": 8388608,
+      "sha256": "546f3040e557413822a872499f66d7527628000b2035a36066e5ddcff0c92689",
+      "cid": "bafybeig2btgwcdxyersa477wy5j6omfvzvre3yrkwdk5dzwfhbuyqowlxu",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:28.955Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "informatics-complete.csv.gz.chunk-017.bin",
+      "bytes": 8388608,
+      "sha256": "368f89369f72fd5610d420462a8f6e99de24eb1a2c066c3c6850b0034743138a",
+      "cid": "bafybeiazpypo3qtkvgp4n6ouwpgtkfsedwclydxr6wrerit34f3shecr7y",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:28.967Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "informatics-complete.csv.gz.chunk-018.bin",
+      "bytes": 1486798,
+      "sha256": "2c68bb834b761425bd555e2c01ab60493084e2b2aeba35ae3d1d0ad9e19f3ab3",
+      "cid": "bafybeiehjny4h4pj63pl43v47vapttexidzxz3k5e5fx3rac7mnobbpoma",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:35.236Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "dataset-manifest.json",
+      "bytes": 2391728,
+      "sha256": "5b782d0b5c59d2a4b1288a4be35ba6aca6aaad3408684afa0f7170add6d10ffd",
+      "cid": "bafybeifndic6ysmqcezwr6wyboiazdcbficai45ggw7rckfajmaxpciz6a",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:35.242Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "DATA-GUIDE.txt",
+      "bytes": 2379,
+      "sha256": "4dd8718622192ddffb27d6b252bb5142fa47fa3a35b38ad1b30a7db8aa30b547",
+      "cid": "bafkreicn3byymiqzfxp7wj6wwjjlwukc7jd7uorvwofndmykpw4kumfvi4",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:35.244Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "public-source.tar.gz",
+      "bytes": 1256032,
+      "sha256": "9aa3a6c1e0bea9211daccc6f75242c976e2337ec7ed583d367649d65faefc3c1",
+      "cid": "bafybeihdwbihxuffihwoctsyzgoagt6k5msffkpqzxt2mi76hus665rxwe",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:35.247Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "source-files.json",
+      "bytes": 17877,
+      "sha256": "f972f011754a491d255aa1906f8ddb2c6d870c849697451bdff48545e4c5bc16",
+      "cid": "bafkreihzolybc5kkjeoskwvbsbxy3wzmnwdqzbews5crxx7uqvc6jrn4cy",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:35.248Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "SNAPSHOT.txt",
+      "bytes": 1221,
+      "sha256": "17f543d90c337b70d1e035b6c846b33f115a080dc8e2973a5dc568cb9bd48ef0",
+      "cid": "bafkreiax6vb5sdbtpnyndybvw3eenmz7cfnaqdoi4kltuxofndfzxveo6a",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:35.249Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "manifest.json",
+      "bytes": 2218,
+      "sha256": "df177d308cf36853b5c23e5d47356bc0d7976a1bb12792a0771020477adcbd5a",
+      "cid": "bafkreig7c56tbdhtnbj3lqr6lvdtk26a26lwug5re6jka5yqebdxvxf5li",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:35.249Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "integrity.json",
+      "bytes": 140,
+      "sha256": "61b6a91e8ddc3608e35ff669dbeba5be887db5079cf5bd4f51b3813a47cb0689",
+      "cid": "bafkreidbw2ur5do4gyeogx7wnhn6xjn6rb63kb446w6u6untqe5epsygre",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:35.250Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "manifest.json.ots",
+      "bytes": 667,
+      "sha256": "0ac732fb55da997e423fbf598c554659902ea25e3aa0c66c9b542a5699d7370b",
+      "cid": "bafkreiaky4zpwvo2tf7eep57lggfkrszsaxkexr2uddgzg2ufjljtvzxbm",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:35.251Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "manifest.tsq",
+      "bytes": 69,
+      "sha256": "20cd0acb09d69f1336188ab7e751a8cccd13412a05eb2400fac044b0a46c75b0",
+      "cid": "bafkreibazufmwcowt4jtmgekw7tvdkgmzujuckqf5msab6waisyki3dvwa",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:35.252Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "manifest.tsr",
+      "bytes": 6007,
+      "sha256": "d2eb843cc8043851160b863e29ec91fec4c5bb198fa0822dc0dd354c2ce88ed9",
+      "cid": "bafkreigs5ocdzsaehbirmc4ghyu6zep6ytc3wgmpucbc3qg5gvgcz2eo3e",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:35.252Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "timestamp-chain.pem",
+      "bytes": 7335,
+      "sha256": "450dee95aecff125ad43035a92dc8e63beb93f2064af4e064586627b309855f5",
+      "cid": "bafkreicfbxxjllwp6es22qydlkjnzdtdx24t6idev5hamrmgmj5tbgcv6u",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:35.252Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "timestamp-verification.json",
+      "bytes": 1059,
+      "sha256": "d56cff5f64a72e9ee49278d1fffbc6ff6aef3510e7fba3a02fb90114dd0185b3",
+      "cid": "bafkreigvnt7v6zfhf2pojety2h77xrx7nlxtkehh7or2al5zaekn2amfwm",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:35.253Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "VERIFY-TIMESTAMP.txt",
+      "bytes": 976,
+      "sha256": "acc9f3d94f01276fdb82387b863d7b97626e1008b319424f9806c3e1a9fef0a0",
+      "cid": "bafkreifmzhz5stybe5x5xarypodd264xmjxbacftdfbe7gagypq2t7xqua",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:35.253Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    },
+    {
+      "name": "desci-storage-map.json",
+      "bytes": 8969,
+      "sha256": "18c69d13278168282d761d8500eb81c57501d89d0e1a9170ee9ef56674d17867",
+      "cid": "bafkreiayy2orgj4bnauc25q5quaoxaofoua5rhiodkixb3u66vthjulym4",
+      "ipfsHashOptions": {
+        "cidVersion": 1,
+        "rawLeaves": true,
+        "onlyHash": true
+      },
+      "verified": true,
+      "checkedAt": "2026-10-25T23:35:35.254Z",
+      "providerResponse": "DeSci HTTP 500",
+      "reconciledByContentHash": true
+    }
+  ],
+  "splitLargeFile": true,
+  "storageRepresentation": "Full CSV preserved as ordered 8 MiB parts to respect the provider upload limit; combined bytes match the original manifest.",
+  "finalFileTreeVerifiedAt": "2026-10-25T23:45:49.351Z",
+  "prepublishCompleted": false,
+  "prepublishError": "Provider returns an empty draft document; prepublish HTTP 400: Cannot read properties of null (reading 'components').",
+  "completedAt": "2026-10-25T23:35:37.056Z",
+  "manifestCID": "bafkreicldcdkxjvsdqwbntljqhfacjsmhbsutaz7qtfcbvvgusuw5j4s7m",
+  "directoryCID": "bafybeiegycaritcwqqx6rfeoazvv3cdlh7klfaw5gqftdtik6pdxz5egbe",
+  "combinedManifestRecovered": true,
+  "recoveryMethod": "Supported updateDraft fallback, preserving the existing draft and all stored file CIDs.",
+  "manifestCIDIndependentlyVerified": true,
+  "directoryCIDIndependentlyComputedAndProviderVerified": true,
+  "documentServiceRestored": false,
+  "recoveredAt": "2026-10-25T23:45:49.344Z"
+}

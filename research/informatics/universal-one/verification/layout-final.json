@@ -1,0 +1,22 @@
+{
+  "errors": [],
+  "checks": [
+    {
+      "generalWidth": 1470,
+      "papers": 30,
+      "topics": 6,
+      "gradedTopics": 5
+    },
+    {
+      "generalWidth": 390,
+      "papers": 30,
+      "topics": 6,
+      "gradedTopics": 5
+    },
+    {
+      "atlasContextAndRealAstra": true,
+      "answer": "UNIVERSAL ONE\nThe selected record is Fibonacci M9P24 (`fibonacci-m9-p24`):\n- Modulus: 9. [1]\n- Pisano period: 24. [1]\n- Exact recorded shuffle probability: 263 / 51,305,410,956,800 ≈ 5.1261649618487674 × 10^-12, or approximately 1 in 195.1 billion. [2]\n\nThis measures the chance that a uniform random shuffle of the 24 Alpha entries, preserving their multiplicities, recovers the original Gamma values at their fixed positions and produces Beta = 4, 8, 7, 5, 1, 2 with the original starting alignment. Rotations, reversals and reordered Gamma values are not accepted as matches. [2]\n\nIt is an exact fixed-configuration shuffle probability, not a biological significance test or the probability that a hypothesis is true. No selection adjustment was applied; biological and statistical significance are recorded as not yet assessed. [2]\n2 sources\nRead aloud"
+    }
+  ],
+  "processAudioDisabled": true
+}

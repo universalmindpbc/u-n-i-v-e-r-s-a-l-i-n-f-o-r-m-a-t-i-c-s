@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "baselineCommit": "3ce760b2203db363078fac573aa8f46769e41d26",
+  "originalDataPreserved": {
+    "library": 837,
+    "sound-edition": 19,
+    "language-edition": 21,
+    "vision-edition": 17,
+    "publication-access": 847,
+    "clinical-conditions": 211
+  },
+  "newUniqueRecords": 70,
+  "curationCsvRowsMatched": 70,
+  "unrelatedAboutAndHomepageSourceChanged": false
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Do quantum responses generated from Fibonacci and M9 P24 representations improve our ability to predict transcription factor occupancy around OXTR?",
+    "http": 200,
+    "id": "0136a35d-3429-4ccd-a714-2e3c35fdf312",
+    "createdAt": "2026-10-24T23:58:05.816Z",
+    "model": "gpt-6-astra",
+    "plan": {
+      "title": "Testing Fibonacci and M9 P24 quantum features for OXTR occupancy prediction",
+      "answer": "We will test whether Fibonacci and M9 P24 quantum responses improve OXTR occupancy prediction over ordinary representations and strong classical models. This study is in design review; no improvement has yet been demonstrated. Matched CUDA-Q simulations and Aquila measurements will transform the same biological descriptors into features for a classical predictor. The output will be an occupancy ranking around OXTR, with uncertainty, assessed against independent experimental data. Ordinary and shuffled encodings will test whether any gain depends on the proposed representations.",
+      "approach": "qrc",
+      "method": "Freeze the physical program and match CUDA-Q/Aquila geometry, interactions, pulses and measurements. Compare ordinary, Fibonacci, Phi Ratio, Alpha/Beta/Gamma/Epsilon and shuffled encodings; test Gamma/Epsilon order sensitivity. Aquila measurements feed a classical readout. Withhold chr3/OXTR from fitting; use block-separated validation. Evaluate held-out average-precision improvement over the strongest classical model using identical inputs, block-bootstrap intervals and multiple-comparison correction.",
+      "needed_data": [
+        "Select one public human GRCh38 TF assay with replicates, controls and adequate OXTR coverage; record factor, cell context and label rules.",
+        "Freeze independent benchmark windows, representation mappings and evaluation rules before fitting."
+      ],
+      "next_question": "",
+      "limitations": [
+        "Occupancy predictions do not establish exact contact bases, binding affinity, causal regulation or a molecular mechanism for Fibonacci/M9 P24 geometry.",
+        "Too few independent OXTR labels permit only a ranking with uncertainty, not a locus-specific predictive-performance claim.",
+        "Simulation/hardware agreement checks execution, not biological truth. Existing QRC evidence establishes neither OXTR improvement nor general quantum advantage."
+      ],
+      "evidence_ids": [
+        "kornjaca-2024-qrc"
+      ],
+      "reads": []
+    },
+    "references": [
+      {
+        "id": "kornjaca-2024-qrc",
+        "title": "Large-scale quantum reservoir learning with an analog quantum computer",
+        "authors_short": "Milan Kornjača et al.",
+        "url": "https://arxiv.org/abs/2407.02553",
+        "evidence": "Preprint; Aquila quantum hardware and classical comparisons",
+        "route": "Neutral atoms / quantum reservoir computing",
+        "finding": "Biological or other input features can be encoded into neutral-atom dynamics; measured observables feed a classical predictor. Experiments include classification and time-series tasks up to 108 qubits.",
+        "limit": "Performance is task-dependent. Synthetic kernel comparisons do not establish a general biological advantage or an OXTR result."
+      }
+    ],
+    "calculation": null,
+    "calculationNote": null,
+    "allowance": {
+      "allowed": true,
+      "unit": "AI questions",
+      "periods": {
+        "day": {
+          "key": "2026-10-24T00:00:00.000Z",
+          "used": 9,
+          "limit": 30,
+          "resetAt": "2026-10-25T00:00:00.000Z",
+          "remaining": 21
+        },
+        "week": {
+          "key": "2026-10-19T00:00:00.000Z",
+          "used": 9,
+          "limit": 120,
+          "resetAt": "2026-10-26T00:00:00.000Z",
+          "remaining": 111
+        },
+        "month": {
+          "key": "2026-10-01T00:00:00.000Z",
+          "used": 9,
+          "limit": 300,
+          "resetAt": "2026-11-01T00:00:00.000Z",
+          "remaining": 291
+        }
+      },
+      "resetAt": null,
+      "hardware": {
+        "available": false,
+        "reason": "Study 01 is in design review; compute runs follow the agreed protocol."
+      }
+    },
+    "study": {
+      "id": "oxtr-qrc-01",
+      "version": "1.0.0",
+      "status": "design_review"
+    },
+    "execution": "Study brief",
+    "version": "quantum-study-v2"
+  },
+  {
+    "question": "Compare Gamma and Epsilon in that study, retaining their canonical M9 P24 definitions and testing whether their ordered quantum responses improve OXTR occupancy prediction.",
+    "http": 200,
+    "id": "bd21fbee-7ac2-440f-ac48-adf0cf696779",
+    "createdAt": "2026-10-24T23:58:14.467Z",
+    "model": "gpt-6-astra",
+    "plan": {
+      "title": "Gamma versus Epsilon for OXTR occupancy prediction",
+      "answer": "We will compare canonical Gamma and Epsilon using order-sensitive quantum encodings, then test whether their responses improve OXTR occupancy prediction. This study is in design review. Matched CUDA-Q simulations and Aquila measurements will transform identical biological inputs into features for a classical predictor. We will compare both representations against each other, ordinary and shuffled encodings, and strong classical models. The biological output will be an OXTR occupancy ranking with uncertainty, plus an independent test of predictive improvement.",
+      "approach": "qrc",
+      "method": "Retain Gamma’s triangle paths [0,8,16,0] and [4,12,20,4], and Epsilon’s seven-visit path [0,8,20,12,4,16,0], including closure. Freeze timed encodings; check response distinguishability. Match CUDA-Q/Aquila coordinates, interactions, pulses and readout. Aquila responses feed a classical predictor. Withhold chr3/OXTR from fitting. Compare held-out average precision against identical-input classical baselines, with block-bootstrap intervals and multiplicity correction.",
+      "needed_data": [
+        "Select one replicated human GRCh38 TF occupancy assay and cell context, recording controls, coverage and label rules.",
+        "Freeze the independent benchmark and timed encoding rules before fitting or inspecting test outcomes."
+      ],
+      "next_question": "",
+      "limitations": [
+        "Gamma and Epsilon share static positions; their timed encodings must yield distinguishable responses rather than merely different geometric labels.",
+        "Occupancy prediction does not establish exact contact bases, affinity, causal regulation or a molecular mechanism for either representation.",
+        "No execution or predictive gain is established. Sparse OXTR labels permit a ranking with uncertainty, not a locus-specific performance claim."
+      ],
+      "evidence_ids": [
+        "kornjaca-2024-qrc"
+      ],
+      "reads": []
+    },
+    "references": [
+      {
+        "id": "kornjaca-2024-qrc",
+        "title": "Large-scale quantum reservoir learning with an analog quantum computer",
+        "authors_short": "Milan Kornjača et al.",
+        "url": "https://arxiv.org/abs/2407.02553",
+        "evidence": "Preprint; Aquila quantum hardware and classical comparisons",
+        "route": "Neutral atoms / quantum reservoir computing",
+        "finding": "Biological or other input features can be encoded into neutral-atom dynamics; measured observables feed a classical predictor. Experiments include classification and time-series tasks up to 108 qubits.",
+        "limit": "Performance is task-dependent. Synthetic kernel comparisons do not establish a general biological advantage or an OXTR result."
+      }
+    ],
+    "calculation": null,
+    "calculationNote": null,
+    "allowance": {
+      "allowed": true,
+      "unit": "AI questions",
+      "periods": {
+        "day": {
+          "key": "2026-10-24T00:00:00.000Z",
+          "used": 10,
+          "limit": 30,
+          "resetAt": "2026-10-25T00:00:00.000Z",
+          "remaining": 20
+        },
+        "week": {
+          "key": "2026-10-19T00:00:00.000Z",
+          "used": 10,
+          "limit": 120,
+          "resetAt": "2026-10-26T00:00:00.000Z",
+          "remaining": 110
+        },
+        "month": {
+          "key": "2026-10-01T00:00:00.000Z",
+          "used": 10,
+          "limit": 300,
+          "resetAt": "2026-11-01T00:00:00.000Z",
+          "remaining": 290
+        }
+      },
+      "resetAt": null,
+      "hardware": {
+        "available": false,
+        "reason": "Study 01 is in design review; compute runs follow the agreed protocol."
+      }
+    },
+    "study": {
+      "id": "oxtr-qrc-01",
+      "version": "1.0.0",
+      "status": "design_review"
+    },
+    "execution": "Study brief",
+    "version": "quantum-study-v2"
+  }
+]

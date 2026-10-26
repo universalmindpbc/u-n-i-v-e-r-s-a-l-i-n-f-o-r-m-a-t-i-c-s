@@ -1,0 +1,772 @@
+[
+  {
+    "pmid": "38040763",
+    "collections": [
+      "sound"
+    ],
+    "strand": "Music & transcriptomics",
+    "design": "Human before–after transcriptomic study",
+    "measurement": "Peripheral-blood transcriptome",
+    "sample": "60 participants; separate comparison with 1,269 MCI/Alzheimer disease and control transcriptomes",
+    "finding": "A music session was associated with blood gene-expression changes in people with age-related cognitive disorders and healthy controls. Some affected pathways overlapped inversely with disease-associated expression patterns.",
+    "limitation": "Before–after molecular associations and cross-dataset comparisons do not establish that music reverses dementia or changes brain gene expression.",
+    "targets": [],
+    "categories": [
+      "Gene expression"
+    ]
+  },
+  {
+    "pmid": "41064114",
+    "collections": [
+      "sound"
+    ],
+    "strand": "Music & transcriptomics",
+    "design": "Human before–after targeted transcriptomic study",
+    "measurement": "Buccal-cell targeted RNA profiling",
+    "finding": "Brief music exposure was associated with differing buccal expression responses in cognitive-disorder patients and controls. Highlighted genes included LGALS3, CXCL8 and THOP1.",
+    "limitation": "Peripheral tissue and exploratory comparisons; the results do not establish changes in brain tissue or therapeutic efficacy.",
+    "targets": [],
+    "categories": [
+      "Gene expression"
+    ]
+  },
+  {
+    "pmid": "41367385",
+    "collections": [
+      "sound"
+    ],
+    "strand": "Music & transcriptomics",
+    "design": "Exploratory human pilot",
+    "measurement": "Saliva RNA sequencing",
+    "sample": "5 participants with autism",
+    "finding": "The pilot detected exploratory RNA and microbial changes after music exposure, including signals involving HERC6, TSPAN5 and REM2.",
+    "limitation": "Five participants and exploratory integration of sequencing methods limit inference. This is not evidence of a clinical treatment effect.",
+    "targets": [],
+    "categories": [
+      "Gene expression"
+    ]
+  },
+  {
+    "pmid": "42615937",
+    "collections": [
+      "sound"
+    ],
+    "strand": "Music & transcriptomics",
+    "design": "Integrative secondary-data analysis",
+    "measurement": "Transcriptomic and methylation dataset comparisons",
+    "finding": "The analysis identified overlapping molecular signatures between music-exposure datasets and traumatic-brain-injury datasets, including 154 shared differentially expressed genes.",
+    "limitation": "Music was not administered to the brain-injury cohorts in this comparison. Shared signatures do not demonstrate a treatment effect.",
+    "targets": [],
+    "categories": [
+      "Gene expression",
+      "Epigenetics"
+    ]
+  },
+  {
+    "pmid": "41974356",
+    "collections": [
+      "sound",
+      "language"
+    ],
+    "strand": "Group singing & social communication",
+    "design": "Biomarker analysis within a randomized trial",
+    "measurement": "Salivary IL-6 protein and other cytokines; cortisol",
+    "sample": "145 participants contributed biological data; singing 110, control 35",
+    "finding": "After the first community-singing session, salivary IL-6 decreased by 26% in the singing group. The time-by-group interaction for IL-6 was significant. Later analyses also examined mother–infant cortisol synchrony and communication.",
+    "limitation": "This measured salivary cytokine protein, not IL6 transcription. The biological subset was unbalanced, and speech correlations do not isolate the causal effect of particular words.",
+    "targets": [
+      "IL6",
+      "TNF"
+    ],
+    "categories": [
+      "Molecular biomarkers",
+      "Clinical & self-report"
+    ]
+  },
+  {
+    "pmid": "42881739",
+    "collections": [
+      "sound"
+    ],
+    "strand": "Music & inflammatory biomarkers",
+    "design": "Open-label randomized trial; secondary analysis",
+    "measurement": "Serum IL-6 and prolactin; sedative requirements",
+    "sample": "110 mechanically ventilated adults",
+    "finding": "The trial found no significant adjusted between-group difference in serum IL-6 or prolactin. Propofol requirements decreased more in the music group among patients receiving that drug.",
+    "limitation": "The parent trial was powered for a different primary outcome. An IL-6 protein measurement is separate from IL6 gene expression.",
+    "targets": [
+      "IL6"
+    ],
+    "categories": [
+      "Molecular biomarkers"
+    ],
+    "direction": "Null molecular comparison"
+  },
+  {
+    "pmid": "37764116",
+    "collections": [
+      "sound"
+    ],
+    "strand": "Auditory exposure & animal biology",
+    "design": "Controlled mouse experiment",
+    "measurement": "Immune-related qPCR, microbiome and antioxidant assays",
+    "finding": "Music and white-noise exposures produced different immune-related, microbial and oxidative-stress profiles in mice.",
+    "limitation": "Animal exposure conditions do not establish a human music benefit. Gene assays, microbial composition and serum enzyme activity are distinct outcomes.",
+    "targets": [],
+    "categories": [
+      "Gene expression",
+      "Molecular biomarkers"
+    ]
+  },
+  {
+    "pmid": "36819725",
+    "collections": [
+      "sound"
+    ],
+    "strand": "Music & transcriptomics",
+    "design": "Literature synthesis and secondary omics analysis",
+    "measurement": "Overlap across published transcriptomic and epigenomic datasets",
+    "finding": "The authors compared music-related genes with Alzheimer disease datasets and identified overlapping pathways and candidate genes, including SLC6A4.",
+    "limitation": "This is an integrative analysis of earlier evidence. It does not show that music directly changes SLC6A4 expression in a clinical experiment.",
+    "targets": [
+      "SLC6A4",
+      "SNCA"
+    ],
+    "categories": [
+      "Genetics & genomics",
+      "Gene expression",
+      "Epigenetics"
+    ]
+  },
+  {
+    "pmid": "42519422",
+    "collections": [
+      "vision",
+      "language"
+    ],
+    "strand": "EMDR & trauma-focused psychotherapy",
+    "design": "Exploratory longitudinal human study",
+    "measurement": "Plasma microRNA quantified with qRT-PCR",
+    "sample": "24 patients; EMDR or trauma-focused CBT for eight weeks",
+    "finding": "Across both therapies, miR-132-3p decreased after correction for multiple testing. Several additional microRNA changes were nominal associations.",
+    "limitation": "Therapy-specific subgroup findings and symptom correlations did not survive multiple-testing correction. The combined treatments do not isolate eye movements or spoken language.",
+    "targets": [],
+    "categories": [
+      "Gene expression",
+      "Epigenetics"
+    ]
+  },
+  {
+    "pmid": "38362742",
+    "collections": [
+      "vision",
+      "language"
+    ],
+    "strand": "EMDR & trauma-focused psychotherapy",
+    "design": "Prospective longitudinal human study",
+    "measurement": "Genome-wide DNA methylation",
+    "sample": "30 patients with treatment-resistant depression; 18 EMDR, 12 trauma-focused CBT",
+    "finding": "Methylation changes were associated with treatment over time. The EMDR subgroup showed differentially methylated regions and enrichment involving inflammatory pathways, including TNF signalling.",
+    "limitation": "Small clinical groups and concomitant treatment limit attribution. Methylation is not a direct measurement of transcription, and an EMDR effect is not an isolated vision effect.",
+    "targets": [
+      "TNF"
+    ],
+    "categories": [
+      "Epigenetics"
+    ]
+  },
+  {
+    "pmid": "39060246",
+    "collections": [
+      "vision",
+      "language"
+    ],
+    "strand": "EMDR & trauma-focused psychotherapy",
+    "design": "Human cohort with longitudinal treatment analysis",
+    "measurement": "Saliva DNA methylation and cortisol",
+    "sample": "87 young people with and without PTSD; treated participants received EMDR or trauma-focused CBT",
+    "finding": "Treatment response was associated with methylation patterns, including longitudinal CRHR2 changes and a post-treatment C18orf63 signal.",
+    "limitation": "The cohort size includes participants without PTSD. Peripheral methylation, treatment response and cortisol associations require replication and do not identify a visual mechanism.",
+    "targets": [
+      "CRHR2"
+    ],
+    "categories": [
+      "Epigenetics",
+      "Molecular biomarkers"
+    ]
+  },
+  {
+    "pmid": "38671329",
+    "collections": [
+      "language"
+    ],
+    "strand": "Meditation & epigenomics",
+    "design": "Secondary genetic and epigenetic analysis",
+    "measurement": "SLC6A4 and FKBP5 genotype and DNA methylation",
+    "sample": "72 veterans across two meditation studies",
+    "finding": "SLC6A4 genotype and changes at a set of FKBP5 CpG sites were associated with symptom improvement after meditation-based treatment.",
+    "limitation": "Associations with response do not establish that a particular mantra caused the changes. Genotype, methylation and measured gene expression are different quantities.",
+    "targets": [
+      "SLC6A4",
+      "FKBP5"
+    ],
+    "categories": [
+      "Epigenetics",
+      "Genetics & genomics"
+    ]
+  },
+  {
+    "pmid": "36658116",
+    "collections": [
+      "language"
+    ],
+    "strand": "Talking therapies & epigenomics",
+    "design": "Longitudinal psychotherapy cohort",
+    "measurement": "Salivary NR3C1 DNA methylation",
+    "sample": "153 conflict survivors receiving narrative exposure therapy",
+    "finding": "Change at NR3C1 CpG cg25535999 was associated with PTSD symptom change after correction for multiple comparisons. Responders showed increased methylation at this site.",
+    "limitation": "The study examines a complete therapy programme and an association with recovery. It does not establish a causal effect of individual words or show NR3C1 RNA changes.",
+    "targets": [
+      "NR3C1"
+    ],
+    "categories": [
+      "Epigenetics"
+    ]
+  },
+  {
+    "pmid": "40281224",
+    "collections": [
+      "language"
+    ],
+    "strand": "Talking therapies & epigenomics",
+    "design": "Longitudinal epigenome-wide association study",
+    "measurement": "DNA methylation before and after exposure-based CBT",
+    "sample": "415 patients and 315 controls enrolled; quality-controlled baseline analysis 378 and 295",
+    "finding": "The study identified disease-associated methylation sites and suggestive baseline predictors and longitudinal changes related to psychotherapy response.",
+    "limitation": "Treatment-response signals were suggestive rather than definitive epigenome-wide findings. Association does not establish that verbal communication caused the molecular changes.",
+    "targets": [],
+    "categories": [
+      "Epigenetics"
+    ]
+  },
+  {
+    "pmid": "39295112",
+    "collections": [
+      "language"
+    ],
+    "strand": "Parent–infant communication & psychotherapy",
+    "design": "Randomized parent–infant psychotherapy trial",
+    "measurement": "Saliva methylation at NR3C1, SLC6A4, BDNF and LINE1",
+    "sample": "73 mother–child pairs at baseline",
+    "finding": "Infant BDNF methylation showed a possible decrease after the home-visiting psychotherapy programme. Most maternal molecular associations and intervention effects were absent.",
+    "limitation": "The intervention includes multiple relational components. The results do not isolate particular spoken words, and the molecular findings were mixed.",
+    "targets": [
+      "NR3C1",
+      "SLC6A4",
+      "BDNF"
+    ],
+    "categories": [
+      "Epigenetics"
+    ],
+    "direction": "Mixed findings"
+  },
+  {
+    "pmid": "36171872",
+    "collections": [
+      "language"
+    ],
+    "strand": "Talking therapies & epigenomics",
+    "design": "Exploratory psychotherapy pilot",
+    "measurement": "Peripheral FKBP5 DNA methylation",
+    "sample": "11 female adolescents with borderline personality disorder",
+    "finding": "FKBP5 methylation decreased over time, particularly among participants with early trauma who responded to psychotherapy.",
+    "limitation": "A small uncontrolled pilot cannot establish causation. Confounding and the relationship between peripheral and brain measures remain unresolved.",
+    "targets": [
+      "FKBP5"
+    ],
+    "categories": [
+      "Epigenetics"
+    ]
+  },
+  {
+    "pmid": "41020112",
+    "collections": [
+      "language"
+    ],
+    "strand": "Meditation & transcriptomics",
+    "design": "Three-arm randomized controlled trial",
+    "measurement": "Gene expression, allostatic-load biomarkers and self-report",
+    "sample": "211 adults randomized to meditation, yoga or stress education",
+    "finding": "No outcome measure showed a significant between-group effect. Psychological measures improved within each arm.",
+    "limitation": "Within-group improvement is not evidence of superiority. The study does not establish a distinctive meditation-related gene-expression effect.",
+    "targets": [],
+    "categories": [
+      "Gene expression",
+      "Molecular biomarkers",
+      "Clinical & self-report"
+    ],
+    "direction": "Null between-group findings"
+  },
+  {
+    "pmid": "39680432",
+    "collections": [
+      "language"
+    ],
+    "strand": "Meditation & transcriptomics",
+    "design": "Randomized controlled trial",
+    "measurement": "mRNA sequencing; circulating IL-6 and DHEA-S",
+    "sample": "78 students randomized to Heartfulness or control",
+    "finding": "The study reported differences in gene-expression profiles and psychological outcomes. IL-6 declined in both groups, with the larger percentage decline reported in the control group.",
+    "limitation": "Within-arm improvement cannot establish intervention-specific benefit. The IL-6 result is not evidence of superior anti-inflammatory action; RNA profiling and cytokine protein are separate measures.",
+    "targets": [
+      "IL6"
+    ],
+    "categories": [
+      "Gene expression",
+      "Molecular biomarkers",
+      "Clinical & self-report"
+    ],
+    "direction": "Mixed findings"
+  },
+  {
+    "pmid": "37982547",
+    "collections": [
+      "language"
+    ],
+    "strand": "Mindfulness & inflammatory regulation",
+    "design": "Randomized trial with active comparator",
+    "measurement": "Blood RNA profiling; plasma IL-6 and CRP",
+    "sample": "190 lonely older adults randomized to MBSR or health enhancement",
+    "finding": "MBSR reduced inferred NF-κB transcriptional activity relative to the comparator. It did not reduce circulating IL-6 or CRP relative to that comparator.",
+    "limitation": "This separates a gene-regulation signal from protein biomarkers. The findings do not establish direct IL6 transcription changes or an OXTR mechanism.",
+    "targets": [
+      "IL6"
+    ],
+    "categories": [
+      "Gene expression",
+      "Molecular biomarkers"
+    ],
+    "direction": "Mixed findings"
+  },
+  {
+    "pmid": "36267832",
+    "collections": [
+      "language",
+      "sound"
+    ],
+    "strand": "Meditation versus relaxing music",
+    "design": "Randomized pilot with active music comparator",
+    "measurement": "Whole-blood RNA sequencing, cytokines, telomerase activity and cortisol",
+    "sample": "61 nurses randomized; 52 contributed sufficient data",
+    "finding": "The brief online mindfulness programme produced no significant between-group differences in transcriptomic or other immune biomarkers compared with relaxing music.",
+    "limitation": "A null comparison does not prove that both interventions have equal biological effects. The dose, sample and active comparator constrain interpretation.",
+    "targets": [
+      "IL6",
+      "TNF",
+      "Telomerase"
+    ],
+    "categories": [
+      "Gene expression",
+      "Molecular biomarkers"
+    ],
+    "direction": "Null molecular findings"
+  },
+  {
+    "pmid": "37560036",
+    "collections": [
+      "language"
+    ],
+    "strand": "Mantra & transcriptomics",
+    "design": "Secondary analysis of a small matched observational study",
+    "measurement": "Peripheral-blood mononuclear-cell RNA",
+    "sample": "12 participants; long-term practitioners and matched controls",
+    "finding": "Long-term Transcendental Meditation practitioners had lower expression of a prespecified adversity-related gene score than controls.",
+    "limitation": "The observational comparison is small and does not separate practice effects from selection, lifestyle or other confounding.",
+    "targets": [],
+    "categories": [
+      "Gene expression"
+    ]
+  },
+  {
+    "pmid": "35427760",
+    "collections": [
+      "language"
+    ],
+    "strand": "Mindfulness & inflammatory regulation",
+    "design": "Randomized trial with active comparator",
+    "measurement": "Pro-inflammatory transcriptional regulation",
+    "finding": "Thirty days of smartphone mindfulness training reduced inferred NF-κB activity relative to problem-solving training. Stress improved in both arms without a between-group difference.",
+    "limitation": "A transcription-factor pathway inference is distinct from direct binding-site evidence or proof of OXTR involvement.",
+    "targets": [],
+    "categories": [
+      "Gene expression",
+      "Clinical & self-report"
+    ]
+  },
+  {
+    "pmid": "36278141",
+    "collections": [
+      "language"
+    ],
+    "strand": "Mindfulness and loving-kindness",
+    "design": "Randomized comparison of two meditation programmes",
+    "measurement": "Leukocyte adversity-related gene-expression profile",
+    "sample": "88 adults raised in low socioeconomic conditions",
+    "finding": "The adversity-related expression score declined with mindfulness but increased with loving-kindness training, opposite to the predicted relative benefit. Positive emotions increased in both groups.",
+    "limitation": "Different practices did not produce a uniform molecular response. Increased positive emotion did not explain the gene-expression result.",
+    "targets": [],
+    "categories": [
+      "Gene expression",
+      "Clinical & self-report"
+    ],
+    "direction": "Opposite-to-prediction comparison"
+  },
+  {
+    "pmid": "39098435",
+    "collections": [
+      "language"
+    ],
+    "strand": "Precision psychosocial research",
+    "design": "Prediction analyses across two randomized trials",
+    "measurement": "Baseline blood RNA and inferred transcription-factor activity",
+    "finding": "Baseline CREB activity predicted selected psychological responses to compassion-based meditation in two datasets. The same relationship was not seen for mindfulness meditation.",
+    "limitation": "The study concerns prediction from baseline expression rather than a demonstrated therapy-induced transcriptional mechanism. Clinical deployment requires further validation.",
+    "targets": [],
+    "categories": [
+      "Gene expression"
+    ]
+  },
+  {
+    "pmid": "40749778",
+    "collections": [
+      "vision"
+    ],
+    "strand": "Light exposure & circadian genomics",
+    "design": "Controlled mouse light-schedule experiment",
+    "measurement": "Hypothalamic and medial-prefrontal-cortex gene expression",
+    "finding": "Short-term changes to the light–dark schedule disrupted circadian rhythms and region-dependent expression of genes including Oxtr, Cry2 and Per2, despite limited behavioural changes.",
+    "limitation": "Mouse light-schedule disruption is distinct from human screen use, EMDR or geometric stimulation. The abstract does not establish a single direction of Oxtr change across tissues and time points.",
+    "targets": [
+      "OXTR"
+    ],
+    "categories": [
+      "Gene expression"
+    ],
+    "relation": "Exposure-related gene expression"
+  },
+  {
+    "pmid": "36127701",
+    "collections": [
+      "vision"
+    ],
+    "strand": "Retinal OXTR signalling",
+    "design": "Mouse retinal molecular and physiological experiments",
+    "measurement": "Oxtr mRNA localization, receptor protein, dopamine and electroretinography",
+    "finding": "Oxtr mRNA and receptor protein were detected in retinal amacrine cells. Applying oxytocin activated dopaminergic cells and altered retinal responses through receptor-dependent signalling.",
+    "limitation": "This establishes a retinal signalling context. It does not show that a visual pattern changes OXTR transcription in humans.",
+    "targets": [
+      "OXTR",
+      "OXT"
+    ],
+    "categories": [
+      "Gene expression",
+      "Brain & nervous system"
+    ],
+    "relation": "Expression localization and pathway context"
+  },
+  {
+    "pmid": "25593022",
+    "collections": [
+      "vision"
+    ],
+    "strand": "Retinal OXTR signalling",
+    "design": "Human and rhesus tissue; cultured human retinal cells",
+    "measurement": "RT-PCR, receptor immunostaining and intracellular calcium",
+    "finding": "The study identified OXT/OXTR signalling components in posterior retinal tissues and a calcium response to oxytocin in cultured retinal pigment epithelial cells.",
+    "limitation": "This is a foundational 2015 study, added for context. Receptor presence and activation do not demonstrate visual-exposure-induced gene expression.",
+    "targets": [
+      "OXTR",
+      "OXT"
+    ],
+    "categories": [
+      "Gene expression",
+      "Molecular biomarkers"
+    ],
+    "relation": "Expression localization and pathway context"
+  },
+  {
+    "pmid": "37531065",
+    "collections": [
+      "vision"
+    ],
+    "strand": "Non-image-forming visual pathways",
+    "design": "Mouse neural-circuit experiment",
+    "measurement": "Oxytocin-neuron activity and social-recognition memory",
+    "finding": "Acute light exposure impaired social-recognition memory through a retinal pathway that inhibited supraoptic oxytocin neurons. Experimental activation of these neurons altered the behavioural response.",
+    "limitation": "Neural activity and behavioural changes are separate from OXTR gene expression. The animal circuit findings do not validate a human visual intervention.",
+    "targets": [
+      "OXT"
+    ],
+    "categories": [
+      "Brain & nervous system"
+    ],
+    "relation": "Functional signalling context"
+  },
+  {
+    "pmid": "42339887",
+    "collections": [
+      "vision"
+    ],
+    "strand": "Spectral lighting & ocular biology",
+    "design": "Controlled mouse lighting experiment",
+    "measurement": "Ocular nNOS, IL-6 and TNF protein; tissue structure",
+    "finding": "After 21 days, higher-colour-temperature lighting was associated with increased nNOS, IL-6, TNF and other signalling proteins, without detectable axial-length or structural changes.",
+    "limitation": "Protein abundance is not an RNA-expression measurement. The result concerns a defined mouse exposure and includes inflammatory responses rather than an established benefit.",
+    "targets": [
+      "NOS1",
+      "IL6",
+      "TNF"
+    ],
+    "categories": [
+      "Molecular biomarkers"
+    ],
+    "relation": "Exposure-related protein measurement"
+  },
+  {
+    "pmid": "36164752",
+    "collections": [
+      "vision"
+    ],
+    "strand": "Light exposure & retinal inflammation",
+    "design": "Rat constant-light exposure experiment",
+    "measurement": "Retinal RT-PCR, immunohistochemistry and protein assays",
+    "finding": "Prolonged constant low light was followed by retinal degeneration, glial activation and increased immune-mediator expression, including IL-6 and TNF.",
+    "limitation": "This is a retinal-damage model. It does not establish that ordinary visual activity produces the same changes, or that increased expression is beneficial.",
+    "targets": [
+      "IL6",
+      "TNF"
+    ],
+    "categories": [
+      "Gene expression",
+      "Molecular biomarkers"
+    ],
+    "relation": "Exposure-related molecular measurements"
+  },
+  {
+    "pmid": "38222454",
+    "collections": [
+      "vision"
+    ],
+    "strand": "Light exposure & retinal inflammation",
+    "design": "Mouse light-induced retinal injury model",
+    "measurement": "Retinal RNA sequencing; vitreous cytokine protein",
+    "finding": "Strong light exposure induced retinal inflammatory transcriptional changes. Vitreous IL-6 protein was approximately tenfold higher in the injury model.",
+    "limitation": "The IL-6 fold change concerns vitreous protein. This is a harmful exposure model, not evidence for a therapeutic visual protocol.",
+    "targets": [
+      "IL6",
+      "TNF"
+    ],
+    "categories": [
+      "Gene expression",
+      "Molecular biomarkers"
+    ],
+    "relation": "Exposure-related RNA and protein measurements"
+  },
+  {
+    "pmid": "36085433",
+    "collections": [
+      "vision"
+    ],
+    "strand": "Visual development & circadian pathways",
+    "design": "Developmental light-deprivation experiment in rats",
+    "measurement": "vGluT2 and NMDA-receptor GluN2B protein expression",
+    "finding": "Constant-darkness rearing transiently reduced vGluT2 and GluN2B expression in the ventral suprachiasmatic nucleus; the differences were compensated at later stages.",
+    "limitation": "Developmental protein expression in rats is not direct evidence of human GRIN2B transcription or an adult visual therapy effect.",
+    "targets": [
+      "NMDA"
+    ],
+    "categories": [
+      "Molecular biomarkers",
+      "Brain & nervous system"
+    ],
+    "relation": "Exposure-related receptor protein measurement"
+  },
+  {
+    "pmid": "37074407",
+    "collections": [
+      "vision"
+    ],
+    "strand": "Ocular photobiomodulation",
+    "design": "Human scleral fibroblast experiment in vitro",
+    "measurement": "COL1A1 and HIF-1α protein; extracellular collagen",
+    "finding": "In hypoxic human scleral fibroblasts, 660 nm photobiomodulation increased collagen and reduced HIF-1α protein. HIF-1α overexpression attenuated the response.",
+    "limitation": "The reported assays concern protein and cellular responses, not clinical myopia outcomes or direct COL1A1 RNA quantification.",
+    "targets": [
+      "COL1A1"
+    ],
+    "categories": [
+      "Molecular biomarkers"
+    ],
+    "relation": "Exposure-related protein measurement"
+  },
+  {
+    "pmid": "35544697",
+    "collections": [
+      "vision"
+    ],
+    "strand": "Retinal dopamine signalling",
+    "design": "Human retinal pigment epithelial cell-line experiment",
+    "measurement": "Dopamine-receptor and profibrotic gene expression; cell behaviour",
+    "finding": "DRD2 and DRD5 were prominent receptors in ARPE-19 cells. Dopamine-receptor manipulation altered profibrotic gene expression and cellular fibrosis measures.",
+    "limitation": "Pharmacological receptor manipulation provides ocular pathway context. It is not a test of light or visual-stimulation effects on DRD2 expression.",
+    "targets": [
+      "DRD2"
+    ],
+    "categories": [
+      "Gene expression"
+    ],
+    "relation": "Pathway context; no visual exposure tested"
+  },
+  {
+    "pmid": "38776115",
+    "collections": [
+      "vision"
+    ],
+    "strand": "Retinal CD38 & NAD+ biology",
+    "design": "Mouse retinal-injury and gene-deletion experiments",
+    "measurement": "NAD+ concentration, retinal proteins and ganglion-cell survival",
+    "finding": "CD38 deletion reduced retinal injury and inflammatory responses, with evidence implicating the NAD+/Sirt1 pathway.",
+    "limitation": "Gene deletion and retinal-injury models do not establish that visual exposure regulates CD38. NAD+ is a metabolite, not a gene.",
+    "targets": [
+      "CD38",
+      "NAD+",
+      "TNF"
+    ],
+    "categories": [
+      "Genetics & genomics",
+      "Molecular biomarkers"
+    ],
+    "relation": "Pathway context; no visual exposure tested"
+  },
+  {
+    "pmid": "41308935",
+    "collections": [
+      "vision"
+    ],
+    "strand": "Retinal CD38 & NAD+ biology",
+    "design": "Mouse retinal-injury and cell-culture experiments",
+    "measurement": "Transcriptomics, metabolomics and molecular assays",
+    "finding": "Oxidatively damaged retinal pigment epithelium altered macrophage transcription and NAD+ metabolism. CD38 upregulation and inhibitor experiments implicated a CD38/NAD+ pathway.",
+    "limitation": "This is oxidative-injury pathway research. It does not establish a visual-exposure effect or a human treatment benefit.",
+    "targets": [
+      "CD38",
+      "NAD+"
+    ],
+    "categories": [
+      "Gene expression",
+      "Molecular biomarkers"
+    ],
+    "relation": "Pathway context; no visual exposure tested"
+  },
+  {
+    "pmid": "38418876",
+    "collections": [
+      "vision",
+      "sound"
+    ],
+    "strand": "Multisensory stimulation & brain physiology",
+    "design": "Mouse Alzheimer-disease model experiments",
+    "measurement": "Brain-fluid movement, amyloid and cellular signalling",
+    "finding": "Combined 40 Hz sensory stimulation increased brain-fluid clearance and reduced amyloid in the tested mouse model. Mechanistic experiments implicated VIP interneurons and glymphatic function.",
+    "limitation": "This is multisensory animal research. It does not isolate visual effects, establish clinical efficacy or test OXTR–Fibonacci relationships.",
+    "targets": [],
+    "categories": [
+      "Brain & nervous system",
+      "Molecular biomarkers"
+    ],
+    "relation": "Functional signalling context"
+  },
+  {
+    "pmid": "39103336",
+    "collections": [
+      "vision"
+    ],
+    "strand": "Visual stimulation & brain physiology",
+    "design": "Controlled mouse visual-stimulation experiments",
+    "measurement": "Glymphatic flow, adenosine signalling and aquaporin-4 localization",
+    "finding": "40 Hz flickering light increased glymphatic influx and efflux in mice. Genetic and pharmacological tests implicated adenosine A2A receptor signalling and aquaporin-4.",
+    "limitation": "This measures physiological and signalling mechanisms in mice. It does not establish OXTR transcription changes or a safe, effective human visual protocol.",
+    "targets": [],
+    "categories": [
+      "Brain & nervous system",
+      "Molecular biomarkers"
+    ],
+    "relation": "Functional signalling context"
+  },
+  {
+    "pmid": "36588113",
+    "collections": [
+      "vision"
+    ],
+    "strand": "Clinical ocular photobiomodulation",
+    "design": "Randomized sham-controlled multicentre trial",
+    "measurement": "Visual acuity, retinal anatomy and quality of life",
+    "sample": "44 participants; 53 eyes",
+    "finding": "The trial assessed repeated multiwavelength photobiomodulation in non-exudative macular degeneration and reported visual-acuity and anatomical outcomes.",
+    "limitation": "This clinical trial did not measure target-gene expression. The reported complete-treatment analyses and eye-level outcomes need to be interpreted within the trial design.",
+    "targets": [],
+    "categories": [
+      "Clinical & self-report"
+    ],
+    "relation": "Clinical outcomes; no gene expression measured"
+  },
+  {
+    "pmid": "30737392",
+    "collections": [
+      "sound",
+      "vision",
+      "language"
+    ],
+    "strand": "OXTR pathway foundations",
+    "categories": [
+      "Gene expression",
+      "Methods & context"
+    ],
+    "targets": [
+      "OXTR",
+      "OXT",
+      "CD38",
+      "DRD2"
+    ],
+    "design": "Human post-mortem expression mapping and co-expression analysis",
+    "sample": "Human brain atlas tissue; expression patterns compared across 20,737 genes",
+    "measurement": "Regional OXT, OXTR and CD38 mRNA distributions and cross-gene co-expression",
+    "finding": "Human brain expression maps showed regional enrichment of oxytocin-pathway transcripts and co-expression with dopaminergic and muscarinic acetylcholine genes. The study provides anatomical context for an OXTR-centred research programme.",
+    "limitation": "Spatial co-expression is an association. This study did not test sound, vision or language interventions, Fibonacci-derived features, or causal interactions across the proposed target network.",
+    "relation": "Shared pathway context; no sensory-intervention effect established"
+  },
+  {
+    "pmid": "36618821",
+    "collections": [
+      "sound",
+      "vision",
+      "language"
+    ],
+    "strand": "OXTR pathway foundations",
+    "categories": [
+      "Molecular biomarkers",
+      "Methods & context"
+    ],
+    "targets": [
+      "OXTR",
+      "OXT",
+      "DRD2"
+    ],
+    "design": "Narrative review of receptor-complex studies",
+    "sample": "Predominantly cellular and animal receptor-interaction research",
+    "measurement": "OXTR heteroreceptor complexes, allosteric signalling and receptor trafficking",
+    "finding": "The review describes OXTR-containing receptor complexes, including dopamine D2 receptor–OXTR complexes reported in rat striatal regions, and discusses potential functional consequences for behaviour.",
+    "limitation": "Receptor complex formation and signalling do not establish human DRD2 transcriptional regulation. This review does not test sensory interventions, the Fibonacci hypothesis or all proposed target relationships.",
+    "relation": "Shared receptor-signalling context; no direct gene-expression intervention evidence"
+  }
+]

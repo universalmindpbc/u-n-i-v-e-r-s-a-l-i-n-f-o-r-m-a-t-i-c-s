@@ -1,0 +1,759 @@
+{
+  "completed_at": "2026-10-19T10:01:03.939145+11:00",
+  "approved_staging_commit": "ef68380eed55f26819809cd92c3424203ac21309",
+  "website_source_commit": "810e4547e9aa88800c5cbf38eff6a6e7d842436a",
+  "production_tag": "production-2026-10-19-1001",
+  "live_url": "https://universalmind.tv/informatics/?atlas=1&record=fibonacci-m9-p24",
+  "authorization": "Ben explicitly approved publishing the reviewed OXTR data browser on 19 October 2026.",
+  "integrity": [
+    {
+      "file": "Informatics/index.html",
+      "remote": "informatics/index.html",
+      "sha256": "f783b5eadb4012907969a4748345d345ebce7d6f92620b1fa81a1861901f2bb9",
+      "bytes": 6379,
+      "received_bytes": 6379,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/genomics.html",
+      "remote": "informatics/genomics.html",
+      "sha256": "b91afd1a8fcc58278b9a1e44a92806d433d98fbbd5491e4839883a8410a30b23",
+      "bytes": 2243,
+      "received_bytes": 2243,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/M1-M1001-CSV-README.txt",
+      "remote": "informatics/pilot-v1/M1-M1001-CSV-README.txt",
+      "sha256": "b3040de8403b364fd38a27b5d72d12f6edf6a32520878cf454990ca708f7974b",
+      "bytes": 3229,
+      "received_bytes": 3229,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/M1-M1001-README.txt",
+      "remote": "informatics/pilot-v1/M1-M1001-README.txt",
+      "sha256": "a6c28879b5a649ee3633601be4bb4a44068ed1f232fb1c967e3977f235c5c224",
+      "bytes": 1902,
+      "received_bytes": 1902,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/csv-shared/index.csv",
+      "remote": "informatics/pilot-v1/csv-shared/index.csv",
+      "sha256": "992a022f0c03022ed101c169fdf5379cfb473571e6ec52b322390cf840136b0b",
+      "bytes": 421764,
+      "received_bytes": 421764,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/csv-shared/dataset.csv",
+      "remote": "informatics/pilot-v1/csv-shared/dataset.csv",
+      "sha256": "e7d975583e1d33272a20211fdf29ccf4b1e849a3104008322ff66be6cabd2d6e",
+      "bytes": 555596,
+      "received_bytes": 555596,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/index.json",
+      "remote": "informatics/pilot-v1/index.json",
+      "sha256": "bf97834d5e828a950d66807ef5c13065b67773df8cc61fbb590b352ef5afdb5c",
+      "bytes": 214837,
+      "received_bytes": 214837,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/dataset.json",
+      "remote": "informatics/pilot-v1/dataset.json",
+      "sha256": "b342b01d6c3a5f12afdddcd102cb2fefda9c9fc76cfdd755e196e479c3df749c",
+      "bytes": 266925,
+      "received_bytes": 266925,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/csv-shared/m1-m1001.csv",
+      "remote": "informatics/pilot-v1/csv-shared/m1-m1001.csv",
+      "sha256": "e7d975583e1d33272a20211fdf29ccf4b1e849a3104008322ff66be6cabd2d6e",
+      "bytes": 555596,
+      "received_bytes": 555596,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/README.txt",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/README.txt",
+      "sha256": "1b9cec7f62d35c0ef41bab9043be18278fcad280bf848acc514ba5af2860a1dc",
+      "bytes": 5259,
+      "received_bytes": 5259,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/m1-m1001.json",
+      "remote": "informatics/pilot-v1/m1-m1001.json",
+      "sha256": "b342b01d6c3a5f12afdddcd102cb2fefda9c9fc76cfdd755e196e479c3df749c",
+      "bytes": 266925,
+      "received_bytes": 266925,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/catalogue-fields.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/catalogue-fields.csv",
+      "sha256": "f7f03a9d3d4d0d5cbafefe1b7217cab3efbc7b2a5607f311eccd191e3646f901",
+      "bytes": 123619,
+      "received_bytes": 123619,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/encode-clusters.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/encode-clusters.csv",
+      "sha256": "b30c5e3d946bfa8eebe8ad612a53c2ae843a4cbb286f41e0da1d01db092774c5",
+      "bytes": 17905,
+      "received_bytes": 17905,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/catalogue.json",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/catalogue.json",
+      "sha256": "80c04948da734e49048b90d8bf734a20f72ec09c069a49c13738992cb33a6f59",
+      "bytes": 82032,
+      "received_bytes": 82032,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/encode-clusters.json",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/encode-clusters.json",
+      "sha256": "7a111b4d6e937ae5fbfadf5cba1ffc9dba968402aa04b2587b120a4fc6c3c198",
+      "bytes": 51212,
+      "received_bytes": 51212,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/encode-provenance.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/encode-provenance.csv",
+      "sha256": "1d80826ffb912d7fdce31270c90769a069e946adfbc79c0522204dd211d94c68",
+      "bytes": 133525,
+      "received_bytes": 133525,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/evidence-relationships.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/evidence-relationships.csv",
+      "sha256": "0257d1ef3db4189ea9af3c9e0e68c53e14f466b74aaf464acd323a2a34c18023",
+      "bytes": 684,
+      "received_bytes": 684,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/evidence-relationships.json",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/evidence-relationships.json",
+      "sha256": "7e21da2c6ac5c3dd0559f52c7ad37fbcc12442d7e80df246d312e273a92d9389",
+      "bytes": 817,
+      "received_bytes": 817,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/encode-provenance.json",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/encode-provenance.json",
+      "sha256": "678cfe3531ebd57236be2aa43cc60f24c116b129b3e4ebf93b57e604144a120a",
+      "bytes": 252064,
+      "received_bytes": 252064,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/file-manifest.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/file-manifest.csv",
+      "sha256": "faff7c04edd54665e04ba04e2b4554a7e4ded834b0fa6b02af95f00362f4e41a",
+      "bytes": 5607,
+      "received_bytes": 5607,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/m1-m1001.csv",
+      "remote": "informatics/pilot-v1/m1-m1001.csv",
+      "sha256": "0da80d9e1294829b25fdd112aae9f880dc12222f6dbab50dae14df7d27586b85",
+      "bytes": 3982525,
+      "received_bytes": 3982525,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/human-evidence-summary.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/human-evidence-summary.csv",
+      "sha256": "08f9cf5bcd7e5b13947802942979f73474342e34166dafc02af154bfb701df56",
+      "bytes": 382,
+      "received_bytes": 382,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/human-site-project-fields.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/human-site-project-fields.csv",
+      "sha256": "949681e921fab4328dc61f96fe6c832265066ab4e11c2cebc58571be078bb185",
+      "bytes": 6622,
+      "received_bytes": 6622,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/human-site-project.json",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/human-site-project.json",
+      "sha256": "9860df4b6c46705d1346dd5751d43fbf9b9429abd675232b26d6c0dce35d0f49",
+      "bytes": 5122,
+      "received_bytes": 5122,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/jaspar-pfm-templates.json",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/jaspar-pfm-templates.json",
+      "sha256": "3b12e287aa3c98b5e544f745e7f5e42740b45f1bb20cc2e68e6078d4fb0f67db",
+      "bytes": 230160,
+      "received_bytes": 230160,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/jaspar-default-threshold.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/jaspar-default-threshold.csv",
+      "sha256": "129363617bee9df1b8d17931ab7d99eced5169fff6c5a309f0b509798c8e295f",
+      "bytes": 800807,
+      "received_bytes": 800807,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/jaspar-pfm-templates.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/jaspar-pfm-templates.csv",
+      "sha256": "51861107de5c2d2ee6ebcb5e958ad430cec55b94150f4ced93e2b4bb4cff1eaf",
+      "bytes": 1023525,
+      "received_bytes": 1023525,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/literature-evidence.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/literature-evidence.csv",
+      "sha256": "ddf5674c43a3bb96d30d22637de79aa4b6a59e50d8f1c6d4a746c4ec27144e94",
+      "bytes": 19253,
+      "received_bytes": 19253,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/jaspar2026-vertebrates.jaspar",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/jaspar2026-vertebrates.jaspar",
+      "sha256": "4005b5449ba07d9b58495f51143186e7e3959efd0ad670770fbddf57bf941e8f",
+      "bytes": 336314,
+      "received_bytes": 336314,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/literature-evidence.json",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/literature-evidence.json",
+      "sha256": "950f074cc5c12247c7c7ba42f0e25c14753e4307069fddcb7753d5502184ee98",
+      "bytes": 35008,
+      "received_bytes": 35008,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/literature-overlaps.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/literature-overlaps.csv",
+      "sha256": "22176573b3e70d6e86e59a2fef0a6e5c6f3a784e0d280bb063eb37cc86c5f96b",
+      "bytes": 808679,
+      "received_bytes": 808679,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/mapped-literature.bed",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/mapped-literature.bed",
+      "sha256": "1fc91abc0fa5caf4c7e2ab2ace1dba7f4adbd41ad075e84d6c760044c3f7b3f1",
+      "bytes": 99,
+      "received_bytes": 99,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/literature-overlaps.json",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/literature-overlaps.json",
+      "sha256": "76fadee21e301ce21cedec1261f969b2cc74707e1193e56eacea540d3b6218b6",
+      "bytes": 1601397,
+      "received_bytes": 1601397,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/normalized-literature.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/normalized-literature.csv",
+      "sha256": "b93e80d39c6e336192e949f60252763a5c38fd71d2629afef846f61df2a777dc",
+      "bytes": 21939,
+      "received_bytes": 21939,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/normalized-literature.json",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/normalized-literature.json",
+      "sha256": "f5ba7890917d14162eca427461e13f536671356d14840f940bdeb688b39e7b1b",
+      "bytes": 43102,
+      "received_bytes": 43102,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/jaspar-predictions.json.gz",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/jaspar-predictions.json.gz",
+      "sha256": "ef1e2bf01dfcddab0e7096fae52c20a1e9ed06d4517ca21467377e8a2fa46832",
+      "bytes": 3459131,
+      "received_bytes": 3459131,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/oreganno-regions.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/oreganno-regions.csv",
+      "sha256": "7bf37fb2930379b5cd91410250a645eea283a9b732d502723f5a3657a512c799",
+      "bytes": 2467,
+      "received_bytes": 2467,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/oreganno-regions.json",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/oreganno-regions.json",
+      "sha256": "0153bdfd211ebe4522fab37fac333d6d11cf7d8edd3a83a4d993e38ea6405c34",
+      "bytes": 7502,
+      "received_bytes": 7502,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/m1-m1001-csv.zip",
+      "remote": "informatics/pilot-v1/m1-m1001-csv.zip",
+      "sha256": "8d169441bbfe88f365bda3554376334058d9ec7251b3ea241314ea065c78ce62",
+      "bytes": 85845894,
+      "received_bytes": 85845894,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/jaspar-predictions.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/jaspar-predictions.csv",
+      "sha256": "766e9d122a30777c5c9c21d18ab2ac59e2670d779c16f01f7b3d925c0d26545c",
+      "bytes": 18438274,
+      "received_bytes": 18438274,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/publications.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/publications.csv",
+      "sha256": "b054b96081abc2641b21b9b2faaa07a9168fd0b0166fd9d4b019f1b8cde7b664",
+      "bytes": 12458,
+      "received_bytes": 12458,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/publications.json",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/publications.json",
+      "sha256": "4af264563c975e579978b7a660187f103fdccc7f7491fe3fa3bf33d7f694e194",
+      "bytes": 17378,
+      "received_bytes": 17378,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/normalized-observations.json.gz",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/normalized-observations.json.gz",
+      "sha256": "d8815a97476dd86d51d43c69ab7377ae6683c39240b4392c5b7d2758b1ac1982",
+      "bytes": 7400941,
+      "received_bytes": 7400941,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/reference-dna.fa",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/reference-dna.fa",
+      "sha256": "d90a9e83bd3f010dcea2ae7966bbc664ae967f0766c5359fbd7f4bafc3c11509",
+      "bytes": 39798,
+      "received_bytes": 39798,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/reference-dna.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/reference-dna.csv",
+      "sha256": "5710ac113d4ce480d8a879481e1abc5d23ba1f74f4635ec952ed2ca4294ef44f",
+      "bytes": 824265,
+      "received_bytes": 824265,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/reference-dna.json",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/reference-dna.json",
+      "sha256": "b505a95d97ed1db084e0dbe07f6cb2e9123d833e62ada29deb5d6bc11c6e5b9f",
+      "bytes": 39770,
+      "received_bytes": 39770,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/oxtr-tfbs-json.zip",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/oxtr-tfbs-json.zip",
+      "sha256": "da35f53e1c5dd2b6aaead344bc8edb1328d5f3c46d44bc6cf79ccc5b506eaa9f",
+      "bytes": 14887558,
+      "received_bytes": 14887558,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/m1-m1001-data.zip",
+      "remote": "informatics/pilot-v1/m1-m1001-data.zip",
+      "sha256": "69f36592152d160d5c061def8a9c80b81ff532bed172de0d15dfd5d26051c01d",
+      "bytes": 58683039,
+      "received_bytes": 58683039,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/search-ledger.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/search-ledger.csv",
+      "sha256": "aa10cc856cc1a412b2a83a1322e7539ffcf817c94205e5966cad1aa5ce8795f2",
+      "bytes": 84199,
+      "received_bytes": 84199,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/search-ledger.json",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/search-ledger.json",
+      "sha256": "940ccd15196931b20749a8268be0184f6596c156369b5725cb518c80d0bd2529",
+      "bytes": 101125,
+      "received_bytes": 101125,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/reference-intervals.json.gz",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/reference-intervals.json.gz",
+      "sha256": "cfea8d3c5e98891d1c55b23355b7c5c200821a5f9a1873d2eaf437062c9b4c52",
+      "bytes": 1366508,
+      "received_bytes": 1366508,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/sequence-mapping.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/sequence-mapping.csv",
+      "sha256": "6eeebae26d62bf75c9c2326868e8c188d8b5133b2a8b82c36db5dc9f213e4eba",
+      "bytes": 954,
+      "received_bytes": 954,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/sequence-mapping.json",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/sequence-mapping.json",
+      "sha256": "4b8fc2b250685af248eacd1525c83d44f8ca96ae822f8849637cfdbcb524cbfb",
+      "bytes": 1237,
+      "received_bytes": 1237,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/encode-inputs.txt.gz.gz",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/encode-inputs.txt.gz.gz",
+      "sha256": "01bd808e0472f9d7792ad52326ec08585fd6282b78a4894beb480ba143e0dff0",
+      "bytes": 32074,
+      "received_bytes": 32074,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/encode-oxtr.json.gz",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/encode-oxtr.json.gz",
+      "sha256": "84e7384ac89d28e92ec457a8a15ffa105d364dae429929eb457a9708311bff42",
+      "bytes": 7284,
+      "received_bytes": 7284,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/encode-sources.txt.gz.gz",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/encode-sources.txt.gz.gz",
+      "sha256": "6f508a8f2643ebdd5e156824be26ae84d5cddd0f14e8dedac09bd59d1b709db2",
+      "bytes": 22183,
+      "received_bytes": 22183,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/ensembl-oxtr.json.gz",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/ensembl-oxtr.json.gz",
+      "sha256": "5da91fa28433ae4e60113daf810382884d4313f33e93c767b388c7d05531ce2f",
+      "bytes": 1396,
+      "received_bytes": 1396,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/encode-track-doc.html.gz",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/encode-track-doc.html.gz",
+      "sha256": "8a4ce9cebdc390e64b0a3801785f9dee5af8a881bd86915301eeed2218eb8f14",
+      "bytes": 3499,
+      "received_bytes": 3499,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/jaspar-docs.html.gz",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/jaspar-docs.html.gz",
+      "sha256": "01fd613e1ba4ce1e9e8a81dd8d4d15711694480e90b73cdf1e29fff8fef299c9",
+      "bytes": 17667,
+      "received_bytes": 17667,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/reference-intervals.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/reference-intervals.csv",
+      "sha256": "4da52a6752b6fab2a3e6f40a577aa93bf1feda55e9ec2c4aeed05b0f2269a583",
+      "bytes": 7018412,
+      "received_bytes": 7018412,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/jaspar-vertebrates-page2.json.gz",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/jaspar-vertebrates-page2.json.gz",
+      "sha256": "128f71a164f52e471ba7e9088fbf85d23baf5edd93cab0e8b5a14b710605b913",
+      "bytes": 633,
+      "received_bytes": 633,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/jaspar-track-doc.html.gz",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/jaspar-track-doc.html.gz",
+      "sha256": "7bc0b4623595363554ca067fece97bc902dcdfba505cf7210dfc29d36b22a4c3",
+      "bytes": 5111,
+      "received_bytes": 5111,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/jaspar-vertebrates.json.gz",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/jaspar-vertebrates.json.gz",
+      "sha256": "7e21af679e6c48087274ae632384333385a2f2e9c2abadb2adfe4b89ca21e96c",
+      "bytes": 18226,
+      "received_bytes": 18226,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/oreganno-oxtr.json.gz",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/oreganno-oxtr.json.gz",
+      "sha256": "d418fb5d5ebbac250990821e9d0098a4256b99f0fa1fc75004389cbf7643dd2f",
+      "bytes": 858,
+      "received_bytes": 858,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/oreganno-doc.html.gz",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/oreganno-doc.html.gz",
+      "sha256": "5390f10f06d0db73c2a2d482c426b4a95d6ee5f0fd1d87297404f95f2fe9627c",
+      "bytes": 2376,
+      "received_bytes": 2376,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/jaspar2026-vertebrates.jaspar.gz",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/jaspar2026-vertebrates.jaspar.gz",
+      "sha256": "df02219400450bcb52673dead68ea333c81d654e0a01ffc6c5702a4673534b15",
+      "bytes": 93401,
+      "received_bytes": 93401,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/jaspar-oxtr.json.gz",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/jaspar-oxtr.json.gz",
+      "sha256": "542009401115a970b4021c57cf8c55ecd2a670a68f2c89952a041cf922707784",
+      "bytes": 2323984,
+      "received_bytes": 2323984,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/research.html",
+      "remote": "informatics/research.html",
+      "sha256": "40f278c69acd22c06938aba81b716a3e640227fd1d159b972b9028adf9396640",
+      "bytes": 14565,
+      "received_bytes": 14565,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/sources.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/sources.csv",
+      "sha256": "fe0f29d72ec7526b595f6c40459638240a4e69811882b8fa92e0e90a6dea546d",
+      "bytes": 5850,
+      "received_bytes": 5850,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/oxtr-dna.json.gz",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/oxtr-dna.json.gz",
+      "sha256": "10bf99b96d7abec291ca253732fd4ddce5e3a723bfd043a83565c231e1f70e0d",
+      "bytes": 12854,
+      "received_bytes": 12854,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/ref-dna-expanded.json.gz",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/source-snapshots/ref-dna-expanded.json.gz",
+      "sha256": "c30405090330038a83c07266f672634d5448749a98e4a8af6bafc5616809f52f",
+      "bytes": 19197,
+      "received_bytes": 19197,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/science.css",
+      "remote": "informatics/science.css",
+      "sha256": "0311ae252eacb9484ab5d21ae60cd771e70391326ed5a3ebafc2b2124c84d47b",
+      "bytes": 21147,
+      "received_bytes": 21147,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/tfbs-explorer.js",
+      "remote": "informatics/tfbs-explorer.js",
+      "sha256": "fcd5723bdae30e31ca0cc4d46dd65354da970b0fc65900c369c82982b8cd0c50",
+      "bytes": 16377,
+      "received_bytes": 16377,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/science.js",
+      "remote": "informatics/science.js",
+      "sha256": "6eabad147134eafec9da125c095e464c96ecfa136a196dd2219916951d97ebf9",
+      "bytes": 48364,
+      "received_bytes": 48364,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/science-assets/oxtr-binding-sites-atlas-beta-v1.png",
+      "remote": "informatics/science-assets/oxtr-binding-sites-atlas-beta-v1.png",
+      "sha256": "4c0312fdca3c39ed5f8d51e5ed77354d7d99ae3cd05f3be8772227c9f05be4a2",
+      "bytes": 1611398,
+      "received_bytes": 1611398,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/normalized-observations.csv",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/normalized-observations.csv",
+      "sha256": "9f6d9e9c1dd761775a80e4a32710c40b1c0143f2309a64e5ba31a94ade3f04d4",
+      "bytes": 90055649,
+      "received_bytes": 90055649,
+      "matched": true,
+      "error": null
+    },
+    {
+      "file": "Informatics/pilot-v1/oxtr-tfbs-v1/oxtr-tfbs-csv.zip",
+      "remote": "informatics/pilot-v1/oxtr-tfbs-v1/oxtr-tfbs-csv.zip",
+      "sha256": "b929eb60b29b43436c1aeb636c8c0561ff2cb6686c7f7c60257572c5e3f42872",
+      "bytes": 12103964,
+      "received_bytes": 12103964,
+      "matched": true,
+      "error": null
+    }
+  ],
+  "browser": {
+    "passed": true,
+    "candidate": false,
+    "processMuted": true,
+    "results": [
+      {
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "teachingGraphicLoaded": true,
+        "teachingZoomAndGlossary": true,
+        "nestedTeachingEscapeAndFocus": true,
+        "dataExplorer": true,
+        "originalEvidenceTypesRestored": true,
+        "all33FilterCombinations": true,
+        "selectedExportMatchesFilter": true,
+        "broaderDescriptionsSeparate": true,
+        "filters": true,
+        "retryAfterFailure": true,
+        "keyboardAndOutsideClose": true,
+        "escapeAndFocus": true,
+        "summaryAndSidebar": true,
+        "aboutNestedLightbox": true,
+        "fullscreenStatePreserved": true,
+        "mediaStatePreserved": true,
+        "downloadsMatched": true,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "teachingGraphicLoaded": true,
+        "teachingZoomAndGlossary": true,
+        "nestedTeachingEscapeAndFocus": true,
+        "dataExplorer": true,
+        "originalEvidenceTypesRestored": true,
+        "all33FilterCombinations": true,
+        "selectedExportMatchesFilter": true,
+        "broaderDescriptionsSeparate": true,
+        "filters": true,
+        "retryAfterFailure": true,
+        "keyboardAndOutsideClose": true,
+        "escapeAndFocus": true,
+        "summaryAndSidebar": true,
+        "aboutNestedLightbox": true,
+        "fullscreenStatePreserved": true,
+        "mediaStatePreserved": true,
+        "downloadsMatched": false,
+        "errors": []
+      }
+    ]
+  },
+  "notes": "Production website source is identical to the approved staging version. New Markdown records plan the next session; no binding-site geometry comparisons, Biopython integration or NVIDIA compute jobs were launched."
+}

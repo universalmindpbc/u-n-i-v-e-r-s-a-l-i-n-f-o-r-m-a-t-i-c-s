@@ -1,0 +1,124 @@
+{
+  "url": "https://staging.universalmind.tv/informatics/?about",
+  "sourceCommit": "676b4795a76aa58a238ce87d24b657d57f171df2",
+  "processAudioMuted": true,
+  "nativeFullscreen": false,
+  "viewports": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "layout": {
+        "order": true,
+        "dialogFits": true,
+        "noHorizontalOverflow": true,
+        "documentFits": true,
+        "allMediaPaused": true,
+        "fullscreen": false
+      },
+      "openCloseEscapeFocus": true,
+      "directAboutLink": true,
+      "libraryLinksRetained": true,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "layout": {
+        "order": true,
+        "dialogFits": true,
+        "noHorizontalOverflow": true,
+        "documentFits": true,
+        "allMediaPaused": true,
+        "fullscreen": false
+      },
+      "openCloseEscapeFocus": true,
+      "directAboutLink": true,
+      "libraryLinksRetained": true,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "layout": {
+        "order": true,
+        "dialogFits": true,
+        "noHorizontalOverflow": true,
+        "documentFits": true,
+        "allMediaPaused": true,
+        "fullscreen": false
+      },
+      "openCloseEscapeFocus": true,
+      "directAboutLink": true,
+      "libraryLinksRetained": true,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "layout": {
+        "order": true,
+        "dialogFits": true,
+        "noHorizontalOverflow": true,
+        "documentFits": true,
+        "allMediaPaused": true,
+        "fullscreen": false
+      },
+      "openCloseEscapeFocus": true,
+      "directAboutLink": true,
+      "libraryLinksRetained": true,
+      "errors": []
+    }
+  ],
+  "assets": [
+    {
+      "name": "index.html",
+      "status": 200,
+      "sha256": "2abb2a70f3546fdb86d9d0b919bc8c2af658ba1401ce15966c923221a6a3a525",
+      "matchesLocal": true
+    },
+    {
+      "name": "library.js",
+      "status": 200,
+      "sha256": "d2074dd84d1eca6b55825263de22cd268580fcde15ea4f98072e82b71cb15edb",
+      "matchesLocal": true
+    },
+    {
+      "name": "library-data/library.json",
+      "status": 200,
+      "sha256": "4a87b4f7fe0e8451514249b30d87ddadcb2e61b2ccdc9be3e529886623872ac9",
+      "matchesLocal": true
+    },
+    {
+      "name": "library-data/language-edition.json",
+      "status": 200,
+      "sha256": "0b86ca6658f780949554f335078e0c8804ee99941fe980fbb20a0668a636b0b1",
+      "matchesLocal": true
+    }
+  ],
+  "verifiedAt": "2026-10-23T09:38:59.934Z",
+  "productionModified": false,
+  "baseStagingCommit": "4807a5714a7eda50f0417712d633896cba4de90a",
+  "productionGitRef": "40a7f4d6cb4c108b9a7802f509d7137f465ddff5",
+  "changedUploads": [
+    "Informatics/index.html"
+  ],
+  "visuallyInspected": [
+    "about-1470.png",
+    "about-320.png"
+  ],
+  "coordination": {
+    "threadId": "01a15d06-4ecd-75c1-93db-a2a274fb14ea",
+    "separateCheckout": true,
+    "scopeCommunicated": true,
+    "latestLibraryAssetsMatch": true
+  },
+  "assetFreshness": "Fresh query parameters confirmed all four deployed hashes; the initial unversioned library.js response was cached."
+}

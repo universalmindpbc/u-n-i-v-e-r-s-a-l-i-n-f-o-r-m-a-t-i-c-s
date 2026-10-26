@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "parts": [
+    {
+      "file": "part-3c1f1bfa759aed816a698b1a8b87b5903f1298ea01c56b8668aff71a3555b526.bin",
+      "bytes": 50331648,
+      "sha256": "3c1f1bfa759aed816a698b1a8b87b5903f1298ea01c56b8668aff71a3555b526"
+    },
+    {
+      "file": "part-1685e6764acc1671e3dda760a145533fff7c5a9662af223b9e93917d46bde2d6.bin",
+      "bytes": 25317710,
+      "sha256": "1685e6764acc1671e3dda760a145533fff7c5a9662af223b9e93917d46bde2d6"
+    },
+    {
+      "file": "part-b54e8113cdbd2351c55230ee110a723f3462306486f9eff20323996218168f0b.bin",
+      "bytes": 50331648,
+      "sha256": "b54e8113cdbd2351c55230ee110a723f3462306486f9eff20323996218168f0b"
+    },
+    {
+      "file": "part-fb5efba0290458a12fbe224e07efea5991a7856f00bccf2b30ce7a96c9bf7da3.bin",
+      "bytes": 50331648,
+      "sha256": "fb5efba0290458a12fbe224e07efea5991a7856f00bccf2b30ce7a96c9bf7da3"
+    },
+    {
+      "file": "part-01082b5269bb8c38a7ae5f0066159b6c7f9f55a2cde9387f6dadc29d06abe9be.bin",
+      "bytes": 43537090,
+      "sha256": "01082b5269bb8c38a7ae5f0066159b6c7f9f55a2cde9387f6dadc29d06abe9be"
+    }
+  ],
+  "totalBytes": 219849744
+}

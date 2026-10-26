@@ -1,0 +1,44 @@
+[
+  {
+    "file": "Informatics/index.html",
+    "url": "https://staging.universalmind.tv/informatics/index.html?v=12",
+    "source_sha256": "5efb2b0742bda594299b1b69fe0a26002ee152bae1f524147da0777105d5d9dc",
+    "staging_sha256": "5efb2b0742bda594299b1b69fe0a26002ee152bae1f524147da0777105d5d9dc",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/index.html",
+    "url": "https://staging.universalmind.tv/informatics/quantum/index.html?v=12",
+    "source_sha256": "117f67b113c2719f85a452ba91bcc91a0ab50468a710ce7ba96c821930a059a6",
+    "staging_sha256": "117f67b113c2719f85a452ba91bcc91a0ab50468a710ce7ba96c821930a059a6",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/biology.css",
+    "url": "https://staging.universalmind.tv/informatics/quantum/biology.css?v=11",
+    "source_sha256": "256c6438743264e9faaa8964e65cdb6855178efa4c00d6f4054fd390aaeb03f9",
+    "staging_sha256": "256c6438743264e9faaa8964e65cdb6855178efa4c00d6f4054fd390aaeb03f9",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/biology.js",
+    "url": "https://staging.universalmind.tv/informatics/quantum/biology.js?v=10",
+    "source_sha256": "4e1af666bddee6e75d3b1d7881661c00fe5b43b17582ef6063dcc3bb4526578a",
+    "staging_sha256": "4e1af666bddee6e75d3b1d7881661c00fe5b43b17582ef6063dcc3bb4526578a",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/response-view.js",
+    "url": "https://staging.universalmind.tv/informatics/quantum/response-view.js?v=4",
+    "source_sha256": "035abbd1ada8ec698f2082cd79d7428829ffc3575b3cc895ea04cefdd47a2c54",
+    "staging_sha256": "035abbd1ada8ec698f2082cd79d7428829ffc3575b3cc895ea04cefdd47a2c54",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/insights.js",
+    "url": "https://staging.universalmind.tv/informatics/quantum/insights.js?v=1",
+    "source_sha256": "a0e21b9bf88aeff8dfe8c1e000838446d1bbaff1aa09f1d6b8ba34e27deaa847",
+    "staging_sha256": "a0e21b9bf88aeff8dfe8c1e000838446d1bbaff1aa09f1d6b8ba34e27deaa847",
+    "match": true
+  }
+]

@@ -1,0 +1,11 @@
+"""Explicit comparison layer; never replaces native residues or geometry."""
+RESEARCH='Does the shared M9 pattern have shared biological relevance, or does native-modulus complexity change it? Unassessed: requires peer-reviewed evidence, in silico modelling (including proposed CUDA/CUDA-Q work), and appropriate experimental validation. No spatial-dimension claim or WSS score follows from this arithmetic match.'
+def compare(d):
+ m=d['modulus'];p=d['pisano_period']
+ out={'version':'m9-reduction-v1','target_modulus':9,'status':'Outside divisible-by-nine family','applicable':m%9==0,'research_question':RESEARCH,'biological_significance':'Not yet assessed','native_data_preserved':True}
+ if m%9:return out
+ a=[v%9 for v in d['alpha']['residues']];g=[v%9 for v in d['gamma']['clockwise_values']];b=[v%9 for v in d['beta']['interval_residues']]
+ refa=[0,1,1,2,3,5,8,4,3,7,1,8,0,8,8,7,6,4,1,5,6,2,8,1];refg=[0,3,3,0,6,6];refb=[4,8,7,5,1,2];k=p//24
+ checks={'alpha':p%24==0 and a==refa*k,'gamma':g==refg*k,'beta':b==refb*k,'gamma_indices':d['gamma']['alpha_indices']==list(range(0,p,4))}
+ out.update({'status':'Reference' if m==9 else 'Exact match' if all(checks.values()) else 'Mismatch','repeat_count':k,'checks':checks,'alpha_residues':a,'alpha_display':[v or 9 for v in a],'gamma_residues':g,'gamma_display':[v or 9 for v in g],'beta_residues':b,'beta_display':[v or 9 for v in b],'recognised_beta_cycle':[1,2,4,8,7,5],'phase_preserved':True,'projected_chevron':all(checks.values()),'projected_beta_circle_positions':9,'gamma_same_single_circle_positions':p==24 and checks['gamma_indices'],'geometry_note':'M18 and M9 share the same 24-position Gamma geometry. Reduced Beta is plotted on a nine-position circle. Longer periods require folding into 24-position cycles; their full circles are not identical.','identity':'(F_n mod (9k)) mod 9 = F_n mod 9','interpretation':'Exact reduction is a mathematical consequence of divisibility, not independent evidence of statistical or biological significance. Native Epsilon remains unchanged.','verification':'Python full-period comparison; M18 Alpha, Gamma and Beta independently checked with Wolfram.' if m in (9,18) else 'Python full-period comparison'})
+ return out

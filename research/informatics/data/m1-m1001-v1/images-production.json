@@ -1,0 +1,20 @@
+{
+  "records": 1001,
+  "native_image_views": {
+    "alpha": 1001,
+    "beta": 1001,
+    "gamma": 1001,
+    "epsilon": 21
+  },
+  "native_reference_epsilon_paths": 20,
+  "family_with_all_four_reduced_views": 111,
+  "unique_referenced_images": 8938,
+  "python_source_files_in_bundle": 20,
+  "pixels_embedded_in_json": false,
+  "image_assets_in_zip": false,
+  "image_base_url": "https://universalmind.tv/informatics/",
+  "all_references_exist_locally": true,
+  "passed": true,
+  "production_image_urls_accessible": 8938,
+  "verification": "HTTP HEAD 200 and correct PNG/SVG content type for every distinct image reference"
+}

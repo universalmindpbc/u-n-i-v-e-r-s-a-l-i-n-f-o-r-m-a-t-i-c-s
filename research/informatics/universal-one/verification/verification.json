@@ -1,0 +1,54 @@
+{
+  "origin": "https://staging.universalmind.tv",
+  "processAudioDisabled": true,
+  "checks": [
+    {
+      "exports": true,
+      "records": 811,
+      "fullTexts": 149
+    },
+    {
+      "width": 1470,
+      "threeThemes": true,
+      "panelFits": true
+    },
+    {
+      "width": 1024,
+      "threeThemes": true,
+      "panelFits": true
+    },
+    {
+      "width": 390,
+      "threeThemes": true,
+      "panelFits": true
+    },
+    {
+      "width": 320,
+      "threeThemes": true,
+      "panelFits": true
+    },
+    {
+      "realAstraRendered": true,
+      "countAnswer": "UNIVERSAL ONE\nThe library contains 811 unique publications and 149 indexed full-text articles.\n\nCollection counts overlap, so adding them does not give the unique-publication total.\nRead aloud",
+      "evidenceAnswer": "UNIVERSAL ONE\nThe 2018 study, *“Effect of 528 Hz Music on the Endocrine System and Autonomic Nervous System”* in Health, was a small crossover study involving nine healthy adults. It reports that after five minutes of 528 Hz music, mean salivary oxytocin approximately doubled, from 37.57 to 73.58. No significant change in salivary biomarkers was reported in the 440 Hz condition. [19]\n\nIt does not report measuring OXTR gene transcription. The approved record describes a salivary hormone finding, not an OXTR RNA or gene-expression measurement; it therefore provides no evidence that 528 Hz music increases OXTR transcription. [19] The full text is not indexed here, so I cannot independently verify every assay in its methods.\n\nThis is preliminary biomarker evidence from a very small, short study—not clinical proof of a therapeutic benefit. [19]\n1 source\nRead aloud"
+    },
+    {
+      "dictationReview": true,
+      "dictated": "How many publications are in the research library? How many publications are in the research library?"
+    },
+    {
+      "measuredDuck": 0.12
+    },
+    {
+      "voiceChain": true,
+      "microphoneClosedDuringSpeech": true,
+      "duckedVolume": 0.12,
+      "restoredVolume": 0.8,
+      "sharedHistory": true
+    },
+    {
+      "microphoneDenial": true
+    }
+  ],
+  "errors": []
+}

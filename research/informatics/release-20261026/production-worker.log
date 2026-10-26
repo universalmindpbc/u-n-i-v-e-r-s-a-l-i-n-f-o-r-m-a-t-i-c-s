@@ -1,0 +1,20 @@
+
+ ⛅️ wrangler 4.152.0
+────────────────────
+Total Upload: 1210.63 KiB / gzip: 229.14 KiB
+Worker Startup Time: 14 ms
+Your Worker has access to the following bindings:
+Binding                                                             Resource                  
+env.BUDGET (ResearchBudget)                                         Durable Object            
+env.CONNECTOR_LIMIT (120 requests/60s)                              Rate Limit                
+env.REQUEST_LIMIT (12 requests/60s)                                 Rate Limit                
+env.ALLOWED_ORIGIN ("https://universalmind.tv")                     Environment Variable      
+env.RESEARCH_MODEL ("gpt-6-astra")                                  Environment Variable      
+env.DATASET_VERSION ("research-20261026-geometry-v1")               Environment Variable      
+env.CONNECTORS_ENABLED ("true")                                     Environment Variable      
+env.QUANTUM_PLANNING_ENABLED ("true")                               Environment Variable      
+
+Uploaded informatics-universal-one (5.36 sec)
+Deployed informatics-universal-one triggers (0.81 sec)
+  https://informatics-universal-one.universalmind.workers.dev
+Current Version ID: c50980a0-bcea-48b6-a82b-81e3bc07ac8d

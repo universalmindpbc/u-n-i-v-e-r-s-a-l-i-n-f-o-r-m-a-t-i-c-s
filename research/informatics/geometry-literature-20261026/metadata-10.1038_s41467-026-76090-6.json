@@ -1,0 +1,1133 @@
+{
+  "doi": "10.1038/s41467-026-76090-6",
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          23
+        ]
+      ],
+      "date-time": "2026-10-23T13:32:39Z",
+      "timestamp": 1792762359175,
+      "version": "4.5.0"
+    },
+    "reference-count": 54,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              29
+            ]
+          ],
+          "date-time": "2026-07-29T00:00:00Z",
+          "timestamp": 1785283200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              28
+            ]
+          ],
+          "date-time": "2026-08-28T00:00:00Z",
+          "timestamp": 1787875200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 30,
+        "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/100011039",
+        "name": "ODNI | Intelligence Advanced Research Projects Activity",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "W911NF-23-2-0216"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "W911NF-23-2-0216"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100011039",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100006003",
+        "name": "Fundaci\u00f3n General CSIC",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "PTI-001"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "PTI-001"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100006003",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/100000183",
+        "name": "United States Department of Defense | United States Army | U.S. Army Research, Development and Engineering Command | Army Research Office",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "W911NF2310255"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "W911NF2310255"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/100000183",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Nat Commun"
+    ],
+    "DOI": "10.1038/s41467-026-76090-6",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          29
+        ]
+      ],
+      "date-time": "2026-07-29T14:04:52Z",
+      "timestamp": 1785333892000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+      "Surface code scaling on heavy-hex superconducting quantum processors"
+    ],
+    "prefix": "10.1038",
+    "volume": "17",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-7691-2864",
+        "authenticated-orcid": false,
+        "given": "Arian",
+        "family": "Vezvaee",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0003-3953-7817",
+        "authenticated-orcid": false,
+        "given": "Cesar",
+        "family": "Benito",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0000-7102-3734",
+        "authenticated-orcid": false,
+        "given": "Mario",
+        "family": "Morford-Oberst",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Alejandro",
+        "family": "Bermudez",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1671-1515",
+        "authenticated-orcid": false,
+        "given": "Daniel A.",
+        "family": "Lidar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          29
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "76090_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "R2493",
+        "DOI": "10.1103/PhysRevA.52.R2493",
+        "volume": "52",
+        "author": "PW Shor",
+        "year": "1995",
+        "unstructured": "Shor, P. W. Scheme for reducing decoherence in quantum computer memory. Phys. Rev. A 52, R2493 (1995).",
+        "journal-title": "Phys. Rev. A"
+      },
+      {
+        "key": "76090_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "793",
+        "DOI": "10.1103/PhysRevLett.77.793",
+        "volume": "77",
+        "author": "AM Steane",
+        "year": "1996",
+        "unstructured": "Steane, A. M. Error correcting codes in quantum theory. Phys. Rev. Lett. 77, 793 (1996).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "76090_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "1098",
+        "DOI": "10.1103/PhysRevA.54.1098",
+        "volume": "54",
+        "author": "AR Calderbank",
+        "year": "1996",
+        "unstructured": "Calderbank, A. R. & Shor, P. W. Good quantum error-correcting codes exist. Phys. Rev. A 54, 1098 (1996).",
+        "journal-title": "Phys. Rev. A"
+      },
+      {
+        "key": "76090_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "3260",
+        "DOI": "10.1103/PhysRevLett.77.3260",
+        "volume": "77",
+        "author": "DP DiVincenzo",
+        "year": "1996",
+        "unstructured": "DiVincenzo, D. P. & Shor, P. W. Fault-tolerant error correction with efficient quantum codes. Phys. Rev. Lett. 77, 3260 (1996).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "76090_CR5",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Aharonov, D. & Ben-Or, M. Fault tolerant quantum computation with constant error. SIAM J. Comput. 38 1207\u20131282 (1999).",
+        "DOI": "10.1137/S0097539799359385"
+      },
+      {
+        "key": "76090_CR6",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Nielsen, M. A. & Chuang, I. L. Quantum Computation and Quantum Information: 10th Anniversary Edition, 10th (Cambridge University Press, USA, 2011).",
+        "DOI": "10.1017/CBO9780511976667"
+      },
+      {
+        "key": "76090_CR7",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Preskill, J. Fault-tolerant quantum computation. Preprint at https://doi.org/10.48550/arXiv.quant-ph/9605011 (1999).",
+        "DOI": "10.48550/arXiv.quant-ph/9605011"
+      },
+      {
+        "key": "76090_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "172 EP",
+        "DOI": "10.1038/nature23460",
+        "volume": "549",
+        "author": "ET Campbell",
+        "year": "2017",
+        "unstructured": "Campbell, E. T., Terhal, B. M. & Vuillot, C. Roads towards fault-tolerant universal quantum computation. Nature 549, 172 EP (2017).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "76090_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "900",
+        "DOI": "10.1103/PhysRevA.55.900",
+        "volume": "55",
+        "author": "E Knill",
+        "year": "1997",
+        "unstructured": "Knill, E. & Laflamme, R. Theory of quantum error-correcting codes. Phys. Rev. A 55, 900 (1997).",
+        "journal-title": "Phys. Rev. A"
+      },
+      {
+        "key": "76090_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "2",
+        "DOI": "10.1016/S0003-4916(02)00018-0",
+        "volume": "303",
+        "author": "A Kitaev",
+        "year": "2003",
+        "unstructured": "Kitaev, A. Fault-tolerant quantum computation by anyons. Annal. Phys. 303, 2\u201330 (2003).",
+        "journal-title": "Annal. Phys."
+      },
+      {
+        "key": "76090_CR11",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Bravyi, S. B. & Kitaev, A. Y. Quantum codes on a lattice with boundary. Preprint at https://doi.org/10.48550/arXiv.quant-ph/9811052 (1998).",
+        "DOI": "10.48550/arXiv.quant-ph/9811052"
+      },
+      {
+        "key": "76090_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "4452",
+        "DOI": "10.1063/1.1499754",
+        "volume": "43",
+        "author": "E Dennis",
+        "year": "2002",
+        "unstructured": "Dennis, E., Kitaev, A., Landahl, A. & Preskill, J. Topological quantum memory. J. Math. Phys. 43, 4452 (2002).",
+        "journal-title": "J. Math. Phys."
+      },
+      {
+        "key": "76090_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "032324",
+        "DOI": "10.1103/PhysRevA.86.032324",
+        "volume": "86",
+        "author": "AG Fowler",
+        "year": "2012",
+        "unstructured": "Fowler, A. G., Mariantoni, M., Martinis, J. M. & Cleland, A. N. Surface codes: Towards practical large-scale quantum computation. Phys. Rev. A 86, 032324 (2012).",
+        "journal-title": "Phys. Rev. A"
+      },
+      {
+        "key": "76090_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "669",
+        "DOI": "10.1038/s41586-022-04566-8",
+        "volume": "605",
+        "author": "S Krinner",
+        "year": "2022",
+        "unstructured": "Krinner, S. et al. Realizing repeated quantum error correction in a distance-three surface code. Nature 605, 669 (2022).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "76090_CR15",
+        "unstructured": "Google Quantum AI and collaborators. Suppressing quantum errors by scaling a surface code logical qubit. Nature 614, 676 (2023)."
+      },
+      {
+        "key": "76090_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "58",
+        "DOI": "10.1038/s41586-023-06927-3",
+        "volume": "626",
+        "author": "D Bluvstein",
+        "year": "2023",
+        "unstructured": "Bluvstein, D. et al. Logical quantum processor based on reconfigurable atom arrays. Nature 626, 58 (2023).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "76090_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "920",
+        "DOI": "10.1038/s41586-024-08449-y",
+        "volume": "638",
+        "author": "R Acharya",
+        "year": "2025",
+        "unstructured": "Acharya, R. et al. Quantum error correction below the surface code threshold. Nature 638, 920 (2025).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "76090_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "040334",
+        "DOI": "10.1103/PRXQuantum.5.040334",
+        "volume": "5",
+        "author": "B Het\u00e9nyi",
+        "year": "2024",
+        "unstructured": "Het\u00e9nyi, B. & Wootton, J. R. Creating entangled logical qubits in the heavy-hex lattice with topological codes. PRX Quantum 5, 040334 (2024).",
+        "journal-title": "PRX Quantum"
+      },
+      {
+        "key": "76090_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "39",
+        "DOI": "10.1038/s41586-025-09848-5",
+        "volume": "649",
+        "author": "D Bluvstein",
+        "year": "2026",
+        "unstructured": "Bluvstein, D. et al. A fault-tolerant neutral-atom architecture for universal quantum computation. Nature 649, 39 (2026).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "76090_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "022321",
+        "DOI": "10.1103/PhysRevA.89.022321",
+        "volume": "89",
+        "author": "AM Stephens",
+        "year": "2014",
+        "unstructured": "Stephens, A. M. Fault-tolerant thresholds for quantum error correction with the surface code. Phys. Rev. A 89, 022321 (2014).",
+        "journal-title": "Phys. Rev. A"
+      },
+      {
+        "key": "76090_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "062320",
+        "DOI": "10.1103/PhysRevA.90.062320",
+        "volume": "90",
+        "author": "Y Tomita",
+        "year": "2014",
+        "unstructured": "Tomita, Y. & Svore, K. M. Low-distance surface codes under realistic quantum noise. Phys. Rev. A 90, 062320 (2014).",
+        "journal-title": "Phys. Rev. A"
+      },
+      {
+        "key": "76090_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "1994",
+        "DOI": "10.1038/s41567-025-03070-w",
+        "volume": "21",
+        "author": "A Eickbusch",
+        "year": "2025",
+        "unstructured": "Eickbusch, A. et al. Demonstration of dynamic surface codes. Nat. Phys. 21, 1994 (2025).",
+        "journal-title": "Nat. Phys."
+      },
+      {
+        "key": "76090_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "614",
+        "DOI": "10.1038/s41586-025-09061-4",
+        "volume": "645",
+        "author": "N Lacroix",
+        "year": "2025",
+        "unstructured": "Lacroix, N. et al. Scaling and logic in the colour code on a superconducting quantum processor. Nature 645, 614 (2025).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "76090_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "080502",
+        "DOI": "10.1103/PhysRevLett.107.080502",
+        "volume": "107",
+        "author": "JM Chow",
+        "year": "2011",
+        "unstructured": "Chow, J. M. et al. Simple all-microwave entangling gate for fixed-frequency superconducting qubits. Phys. Rev. Lett. 107, 080502 (2011).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "76090_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "1623",
+        "DOI": "10.22331/q-2025-02-06-1623",
+        "volume": "9",
+        "author": "C Benito",
+        "year": "2025",
+        "unstructured": "Benito, C., L\u00f3pez, E., Peropadre, B. & Bermudez, A. Comparative study of quantum error correction strategies for the heavy-hexagonal lattice. Quantum 9, 1623 (2025).",
+        "journal-title": "Quantum"
+      },
+      {
+        "key": "76090_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "2733",
+        "DOI": "10.1103/PhysRevA.58.2733",
+        "volume": "58",
+        "author": "L Viola",
+        "year": "1998",
+        "unstructured": "Viola, L. & Lloyd, S. Dynamical suppression of decoherence in two-state quantum systems. Phys. Rev. A 58, 2733 (1998).",
+        "journal-title": "Phys. Rev. A"
+      },
+      {
+        "key": "76090_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "2417",
+        "DOI": "10.1103/PhysRevLett.82.2417",
+        "volume": "82",
+        "author": "L Viola",
+        "year": "1999",
+        "unstructured": "Viola, L., Knill, E. & Lloyd, S. Dynamical decoupling of open quantum systems. Phys. Rev. Lett. 82, 2417 (1999).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "76090_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "77",
+        "DOI": "10.1016/S0375-9601(99)00365-5",
+        "volume": "258",
+        "author": "P Zanardi",
+        "year": "1999",
+        "unstructured": "Zanardi, P. Symmetrizing evolutions. Phys. Lett. A 258, 77 (1999).",
+        "journal-title": "Phys. Lett. A"
+      },
+      {
+        "key": "76090_CR29",
+        "doi-asserted-by": "publisher",
+        "first-page": "4178",
+        "DOI": "10.1103/PhysRevA.59.4178",
+        "volume": "59",
+        "author": "D Vitali",
+        "year": "1999",
+        "unstructured": "Vitali, D. & Tombesi, P. Using parity kicks for decoherence control. Phys. Rev. A 59, 4178 (1999).",
+        "journal-title": "Phys. Rev. A"
+      },
+      {
+        "key": "76090_CR30",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lidar, D. & Brun, T. Quantum Error Correction (Cambridge University Press, Cambridge, UK, 2013).",
+        "DOI": "10.1017/CBO9781139034807"
+      },
+      {
+        "key": "76090_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "052306",
+        "DOI": "10.1103/PhysRevA.88.052306",
+        "volume": "88",
+        "author": "G Quiroz",
+        "year": "2013",
+        "unstructured": "Quiroz, G. & Lidar, D. A. Optimized dynamical decoupling via genetic algorithms. Phys. Rev. A 88, 052306 (2013).",
+        "journal-title": "Phys. Rev. A"
+      },
+      {
+        "key": "76090_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "133202",
+        "DOI": "10.1103/PhysRevLett.118.133202",
+        "volume": "118",
+        "author": "GT Genov",
+        "year": "2017",
+        "unstructured": "Genov, G. T., Schraft, D., Vitanov, N. V. & Halfmann, T. Arbitrarily accurate pulse sequences for robust dynamical decoupling. Phys. Rev. Lett. 118, 133202 (2017).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "76090_CR33",
+        "unstructured": "See the Supplementary Information for further details."
+      },
+      {
+        "key": "76090_CR34",
+        "first-page": "021029",
+        "volume": "7",
+        "author": "BJ Brown",
+        "year": "2017",
+        "unstructured": "Brown, B. J., Laubscher, K., Kesselring, M. S. & Wootton, J. R. Poking holes and cutting corners to achieve clifford gates with the surface code. Phys. Rev. X 7, 021029 (2017).",
+        "journal-title": "Phys. Rev. X"
+      },
+      {
+        "key": "76090_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "1310",
+        "DOI": "10.22331/q-2024-04-08-1310",
+        "volume": "8",
+        "author": "C Gidney",
+        "year": "2024",
+        "unstructured": "Gidney, C. Inplace Access to the Surface Code Y Basis. Quantum 8, 1310 (2024).",
+        "journal-title": "Quantum"
+      },
+      {
+        "key": "76090_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "249",
+        "DOI": "10.1016/S0375-9601(02)01272-0",
+        "volume": "303",
+        "author": "MA Nielsen",
+        "year": "2002",
+        "unstructured": "Nielsen, M. A. A simple formula for the average gate fidelity of a quantum dynamical operation. Phys.s Lett. A 303, 249 (2002).",
+        "journal-title": "Phys.s Lett. A"
+      },
+      {
+        "key": "76090_CR37",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Tripathi, V. et al. Benchmarking quantum gates and circuits. Chem. Rev. 125,https://doi.org/10.1021/acs.chemrev.4c00870 (2025).",
+        "DOI": "10.1021/acs.chemrev.4c00870"
+      },
+      {
+        "key": "76090_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "127",
+        "DOI": "10.1103/PhysRevA.57.127",
+        "volume": "57",
+        "author": "D Gottesman",
+        "year": "1998",
+        "unstructured": "Gottesman, D. Theory of fault-tolerant quantum computation. Phys. Rev. A 57, 127 (1998).",
+        "journal-title": "Phys. Rev. A"
+      },
+      {
+        "key": "76090_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "1172",
+        "DOI": "10.22331/q-2023-11-07-1172",
+        "volume": "7",
+        "author": "M McEwen",
+        "year": "2023",
+        "unstructured": "McEwen, M., Bacon, D. & Gidney, C. Relaxing Hardware Requirements for Surface Code Circuits using Time-dynamics. Quantum 7, 1172 (2023).",
+        "journal-title": "Quantum"
+      },
+      {
+        "key": "76090_CR40",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Geh\u00e9r, G. Jastrzebski, M. Campbell, E. & Crawford, O. To reset, or not to reset-that is the question. Npj Quantum Inf. 11, 39 (2025).",
+        "DOI": "10.1038/s41534-025-00998-y"
+      },
+      {
+        "key": "76090_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "064027",
+        "DOI": "10.1103/PhysRevApplied.20.064027",
+        "volume": "20",
+        "author": "N Ezzell",
+        "year": "2023",
+        "unstructured": "Ezzell, N., Pokharel, B., Tewala, L., Quiroz, G. & Lidar, D. A. Dynamical decoupling for superconducting qubits: A performance survey. Phys. Rev. Appl. 20, 064027 (2023).",
+        "journal-title": "Phys. Rev. Appl."
+      },
+      {
+        "key": "76090_CR42",
+        "first-page": "488",
+        "volume": "69",
+        "author": "AA Maudsley",
+        "year": "1986",
+        "unstructured": "Maudsley, A. A. Modified carr-purcell-meiboom-gill sequence for nmr fourier imaging applications. J. Magn. Reson. 69, 488 (1986).",
+        "journal-title": "J. Magn. Reson."
+      },
+      {
+        "key": "76090_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "688",
+        "DOI": "10.1063/1.1716296",
+        "volume": "29",
+        "author": "S Meiboom",
+        "year": "1958",
+        "unstructured": "Meiboom, S. & Gill, D. Modified spin-echo method for measuring nuclear relaxation times. Rev. Sci. Instrum. 29, 688 (1958).",
+        "journal-title": "Rev. Sci. Instrum."
+      },
+      {
+        "key": "76090_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "497",
+        "DOI": "10.22331/q-2021-07-06-497",
+        "volume": "5",
+        "author": "C Gidney",
+        "year": "2021",
+        "unstructured": "Gidney, C. Stim: a fast stabilizer circuit simulator. Quantum 5, 497 (2021).",
+        "journal-title": "Quantum"
+      },
+      {
+        "key": "76090_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "1600",
+        "DOI": "10.22331/q-2025-01-20-1600",
+        "volume": "9",
+        "author": "O Higgott",
+        "year": "2025",
+        "unstructured": "Higgott, O. & Gidney, C. Sparse Blossom: correcting a million errors per core second with minimum-weight matching. Quantum 9, 1600 (2025).",
+        "journal-title": "Quantum"
+      },
+      {
+        "key": "76090_CR46",
+        "unstructured": "Google Quantum AI and collaborators. Exponential suppression of bit or phase errors with cyclic error correction. Nature 595, 383 (2021)."
+      },
+      {
+        "key": "76090_CR47",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Preskill, J. et al. Beyond nisq: The megaquop machine. ACM Trans. Quantum Comput. 6, 1\u20137 (2025).",
+        "DOI": "10.1145/3723153"
+      },
+      {
+        "key": "76090_CR48",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Gidney, C. How to factor 2048 bit rsa integers with less than a million noisy qubits. Preprint at https://doi.org/10.48550/arXiv.2505.15917 (2025).",
+        "DOI": "10.48550/arXiv.2505.15917"
+      },
+      {
+        "key": "76090_CR49",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1038/s41534-017-0039-x",
+        "volume": "3",
+        "author": "TE O\u2019Brien",
+        "year": "2017",
+        "unstructured": "O\u2019Brien, T. E., Tarasinski, B. & DiCarlo, L. Density-matrix simulation of small surface codes under current and projected experimental noise. Npj Quantum Inf. 3, 39 (2017).",
+        "journal-title": "Npj Quantum Inf."
+      },
+      {
+        "key": "76090_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "050403",
+        "DOI": "10.1103/PhysRevLett.105.050403",
+        "volume": "105",
+        "author": "A Rivas",
+        "year": "2010",
+        "unstructured": "Rivas, A., Huelga, S. F. & Plenio, M. B. Entanglement and non-markovianity of quantum evolutions. Phys. Rev. Lett. 105, 050403 (2010).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "76090_CR51",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Sundaresan, N. et al. Demonstrating multi-round subsystem quantum error correction using matching and maximum likelihood decoders. Nat. Commun. 14, 2852 (2023).",
+        "DOI": "10.1038/s41467-023-38247-5"
+      },
+      {
+        "key": "76090_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "716",
+        "DOI": "10.1109/TAC.1974.1100705",
+        "volume": "19",
+        "author": "H Akaike",
+        "year": "1974",
+        "unstructured": "Akaike, H. A new look at the statistical model identification. IEEE Trans. Autom. Control 19, 716 (1974).",
+        "journal-title": "IEEE Trans. Autom. Control"
+      },
+      {
+        "key": "76090_CR53",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wagenmakers, E.-J. & Farrell, S. AIC model selection using Akaike weights. Psychon. Bull. Rev. 11, 192 (2004).",
+        "DOI": "10.3758/BF03206482"
+      },
+      {
+        "key": "76090_CR54",
+        "doi-asserted-by": "publisher",
+        "unstructured": "Vezvaee, A. et al. Demonstration of high-fidelity entangled logical qubits using transmons. Nat. Commun. 17, https://doi.org/10.1038/s41467-026-70011-3 (2026).",
+        "DOI": "10.1038/s41467-026-70011-3"
+      }
+    ],
+    "container-title": [
+      "Nature Communications"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/s41467-026-76090-6",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41467-026-76090-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41467-026-76090-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          27
+        ]
+      ],
+      "date-time": "2026-08-27T23:06:25Z",
+      "timestamp": 1787871985000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/s41467-026-76090-6"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          29
+        ]
+      ]
+    },
+    "references-count": 54,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "76090"
+    ],
+    "URL": "https://doi.org/10.1038/s41467-026-76090-6",
+    "relation": {},
+    "ISSN": [
+      "2041-1723"
+    ],
+    "issn-type": [
+      {
+        "value": "2041-1723",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          29
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "10 December 2025",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "20 July 2026",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "29 July 2026",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "The authors declare no competing interests.",
+        "order": 1,
+        "name": "Ethics",
+        "label": "Competing interests",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Ethics"
+        }
+      }
+    ],
+    "article-number": "9201"
+  },
+  "europepmc": [
+    {
+      "id": "42660895",
+      "source": "MED",
+      "pmid": "42660895",
+      "pmcid": "PMC13522603",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13522603"
+        ]
+      },
+      "doi": "10.1038/s41467-026-76090-6",
+      "title": "Surface code scaling on heavy-hex superconducting quantum processors.",
+      "authorString": "Vezvaee A, Benito C, Morford-Oberst M, Bermudez A, Lidar DA.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Vezvaee A",
+            "lastName": "Vezvaee",
+            "firstName": "Arian",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7691-2864"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Electrical & Computer Engineering, University of Southern California, Los Angeles, California, USA. vezvaee@usc.edu."
+                },
+                {
+                  "affiliation": "Center for Quantum Information Science & Technology, University of Southern California, Los Angeles, CA, USA. vezvaee@usc.edu."
+                },
+                {
+                  "affiliation": "Quantum Elements, Inc., Westlake Village, California, USA. vezvaee@usc.edu."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Benito C",
+            "lastName": "Benito",
+            "firstName": "Cesar",
+            "initials": "C",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0003-3953-7817"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Instituto de Fisica Teorica UAM-CSIC, Universidad Autonoma de Madrid, Cantoblanco, Madrid, Spain."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Morford-Oberst M",
+            "lastName": "Morford-Oberst",
+            "firstName": "Mario",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0000-7102-3734"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Electrical & Computer Engineering, University of Southern California, Los Angeles, California, USA."
+                },
+                {
+                  "affiliation": "Center for Quantum Information Science & Technology, University of Southern California, Los Angeles, CA, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Bermudez A",
+            "lastName": "Bermudez",
+            "firstName": "Alejandro",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Instituto de Fisica Teorica UAM-CSIC, Universidad Autonoma de Madrid, Cantoblanco, Madrid, Spain."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lidar DA",
+            "lastName": "Lidar",
+            "firstName": "Daniel A",
+            "initials": "DA",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1671-1515"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Electrical & Computer Engineering, University of Southern California, Los Angeles, California, USA."
+                },
+                {
+                  "affiliation": "Center for Quantum Information Science & Technology, University of Southern California, Los Angeles, CA, USA."
+                },
+                {
+                  "affiliation": "Quantum Elements, Inc., Westlake Village, California, USA."
+                },
+                {
+                  "affiliation": "Department of Physics & Astronomy, University of Southern California, Los Angeles, California, USA."
+                },
+                {
+                  "affiliation": "Department of Chemistry, University of Southern California, Los Angeles, California, USA."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7691-2864"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1671-1515"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0000-7102-3734"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0003-3953-7817"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "17",
+        "journalIssueId": 4224502,
+        "dateOfPublication": "2026 Jul",
+        "monthOfPublication": 7,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Nat Commun",
+          "title": "Nature communications",
+          "essn": "2041-1723",
+          "issn": "2041-1723",
+          "isoabbreviation": "Nat Commun",
+          "nlmid": "101528555"
+        },
+        "printPublicationDate": "2026-07-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "9201",
+      "abstractText": "Demonstrating subthreshold scaling of a surface-code quantum memory on hardware whose native connectivity does not match the code remains a central challenge. We address this on IBM heavy-hex superconducting processors by co-designing the code embedding and control: a depth-minimizing SWAP-based \"fold-unfold\" embedding that uses bridge ancillas, together with robust, gap-aware dynamical decoupling (DD). We show that anisotropic scaling from distance 3 to (d<sub>x</sub>\u00a0=\u00a03,\u00a0d<sub>z</sub>\u00a0=\u00a05) and (d<sub>x</sub>\u00a0=\u00a05,\u00a0d<sub>z</sub>\u00a0=\u00a03) improves protection of Z- and X-basis logical states, respectively, and a calibrated \u00a0~\u00a030% noise reduction would enable isotropic (5,\u00a05)-versus-(3,\u00a03) scaling on this heavy-hex layout. We show that DD suppresses coherent ZZ crosstalk and non-Markovian dephasing during idle gaps, eliminating spurious subthreshold claims. To quantify performance, we derive an entanglement fidelity metric which reveals that widely used single-parameter suppression-factor fits can mischaracterize code performance. Our results provide a path to robust subthreshold surface-code scaling through optimized DD on non-native architectures.",
+      "affiliation": "Department of Electrical & Computer Engineering, University of Southern California, Los Angeles, California, USA. vezvaee@usc.edu.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "ODNI | Intelligence Advanced Research Projects Activity (IARPA)",
+            "grantId": "W911NF-23-2-0216",
+            "orderIn": 0
+          },
+          {
+            "agency": "United States Department of Defense | United States Army | U.S. Army Research, Development and Engineering Command | Army Research Office (ARO)",
+            "grantId": "W911NF2310255",
+            "orderIn": 0
+          },
+          {
+            "agency": "Fundaci\u00f3n General CSIC (Fundaci\u00f3n General Consejo Superior de Investigaciones Cient\u00edficas)",
+            "grantId": "PTI-001",
+            "orderIn": 0
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41467-026-76090-6"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13522603"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13522603?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by-nc-nd",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "Y",
+      "tmAccessionTypeList": {
+        "accessionType": [
+          "doi"
+        ]
+      },
+      "dateOfCreation": "2026-08-27",
+      "dateOfRevision": "2026-08-30",
+      "electronicPublicationDate": "2026-07-29",
+      "firstPublicationDate": "2026-07-29",
+      "firstIndexDate": "2026-08-30",
+      "fullTextReceivedDate": "2026-09-10",
+      "hasEvaluations": "N"
+    }
+  ],
+  "retrievedAt": "2026-10-26"
+}

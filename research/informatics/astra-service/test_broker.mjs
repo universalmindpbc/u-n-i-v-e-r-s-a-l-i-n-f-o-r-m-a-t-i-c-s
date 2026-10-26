@@ -1,0 +1,21 @@
+import assert from 'node:assert/strict';
+import {astraStorage,ownerAllowed} from '../../../cloudflare/informatics-astra.js';
+class Storage{constructor(){this.data=new Map();}async transaction(fn){return fn({get:async k=>structuredClone(this.data.get(k)),put:async(k,v)=>this.data.set(k,structuredClone(v))});}}
+const s=new Storage(),key='request-1234567890123456';
+let r=await astraStorage(s,{op:'create',requestKey:key,question:'Do Fibonacci sequences predict OXTR binding?'});assert.equal(r.status,200);const id=r.data.id;
+assert.equal((await astraStorage(s,{op:'create',requestKey:key,question:r.data.question})).data.id,id);
+assert.equal((await astraStorage(s,{op:'create',requestKey:key,question:'different question'})).status,409);
+const claimed=await astraStorage(s,{op:'claim'});assert.equal(claimed.data.task.id,id);assert.equal((await astraStorage(s,{op:'claim'})).data.task,null);
+assert.equal((await astraStorage(s,{op:'update',id,lease:'bad',stage:'result',status:'complete'})).status,409);
+assert.equal((await astraStorage(s,{op:'update',id,lease:claimed.data.lease,stage:'result',status:'complete'})).status,422);
+await astraStorage(s,{op:'cancel',id});assert.equal((await astraStorage(s,{op:'heartbeat',id,lease:claimed.data.lease})).status,409);assert.equal((await astraStorage(s,{op:'get',id})).data.status,'cancelled');
+const secret='fixture-secret-which-is-not-a-real-service-secret',encode=s=>Buffer.from(s).toString('base64url');const body=encode(JSON.stringify({scope:'astra-owner',aud:'https://staging.universalmind.tv',exp:Math.floor(Date.now()/1000)+60}));const k=await crypto.subtle.importKey('raw',new TextEncoder().encode(secret),{name:'HMAC',hash:'SHA-256'},false,['sign']);const sig=Buffer.from(await crypto.subtle.sign('HMAC',k,new TextEncoder().encode(body))).toString('base64url');
+const env={ASTRA_SESSION_SECRET:secret,ALLOWED_ORIGIN:'https://staging.universalmind.tv'};
+assert(await ownerAllowed(new Request('https://test',{headers:{Authorization:'Bearer '+body+'.'+sig}}),env));assert(!await ownerAllowed(new Request('https://test'),env));assert(!await ownerAllowed(new Request('https://test',{headers:{Authorization:'Bearer '+body+'.invalid'}}),env));
+console.log('PASS: idempotency, conflicting retry, exclusive lease, cancelled worker, report requirement, owner signatures');
+const a=await astraStorage(s,{op:'create',requestKey:'session-key-123456789',question:'Test OXTR patterns',clientId:'a'.repeat(32)}),aid=a.data.id;
+assert.equal((await astraStorage(s,{op:'get',id:aid,clientId:'b'.repeat(32)})).status,404);
+assert.equal((await astraStorage(s,{op:'cancel',id:aid,clientId:'b'.repeat(32)})).status,404);
+assert.equal((await astraStorage(s,{op:'get',id:aid,clientId:'a'.repeat(32)})).status,200);
+assert.equal((await astraStorage(s,{op:'get',id,clientId:'a'.repeat(32)})).status,404);
+console.log('PASS: anonymous research sessions cannot read or cancel another session or legacy-owner task');

@@ -1,0 +1,27 @@
+{
+  "passed": true,
+  "source": "JSON and Python extracted from the data ZIP, using an external Python runtime with Pillow and the configured system font",
+  "rendered_images_identical_to_atlas": 40,
+  "samples": [
+    {
+      "modulus": 49,
+      "core_sequences_and_geometry_match": true,
+      "identical_recreated_images": 8
+    },
+    {
+      "modulus": 750,
+      "core_sequences_and_geometry_match": true,
+      "identical_recreated_images": 8
+    },
+    {
+      "modulus": 999,
+      "core_sequences_and_geometry_match": true,
+      "identical_recreated_images": 16
+    },
+    {
+      "modulus": 1001,
+      "core_sequences_and_geometry_match": true,
+      "identical_recreated_images": 8
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+name = "informatics-universal-one"
+main = "informatics-research-worker.js"
+account_id = "bef34a5ee69678e46332813cb7610012"
+compatibility_date = "2026-07-03"
+compatibility_flags = ["nodejs_compat"]
+workers_dev = true
+preview_urls = false
+
+[vars]
+ALLOWED_ORIGIN = "https://universalmind.tv"
+RESEARCH_MODEL = "gpt-6-astra"
+DATASET_VERSION = "research-20261026-daytab-v1"
+CONNECTORS_ENABLED = "true"
+QUANTUM_PLANNING_ENABLED = "true"
+ASTRA_ENABLED = "true"
+
+[[ratelimits]]
+name = "CONNECTOR_LIMIT"
+namespace_id = "1027"
+simple = {limit = 120, period = 60}
+
+[[ratelimits]]
+name = "REQUEST_LIMIT"
+namespace_id = "1025"
+simple = {limit = 12, period = 60}
+
+[[durable_objects.bindings]]
+name = "BUDGET"
+class_name = "ResearchBudget"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["ResearchBudget"]

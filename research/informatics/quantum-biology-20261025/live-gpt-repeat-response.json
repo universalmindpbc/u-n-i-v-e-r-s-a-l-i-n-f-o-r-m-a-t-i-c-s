@@ -1,0 +1,444 @@
+[
+  {
+    "question": "Please assemble these three synthetic DNA fragments in a known common orientation: ATGCCTA, CCTAGGA, AGGATTC. Show me the reconstruction and prepare a quantum-compatible model.",
+    "http": 200,
+    "id": "6a2cd44f-b44d-49ec-99f3-17322446c16f",
+    "createdAt": "2026-10-24T19:02:40.363Z",
+    "model": "gpt-6-astra",
+    "plan": {
+      "title": "Reconstruct three DNA fragments and prepare an optimization model",
+      "answer": "I’ll use your fragments exactly as supplied and keep their common orientation. The next computation will compare every fragment ordering, join matching ends, and return the reconstruction with its overlaps and any tied best solutions.\n\nFor the quantum-compatible model, each choice represents placing a fragment at a position. The model rewards matching overlaps and enforces using each fragment exactly once, with one fragment per position. The server will generate the QUBO and equivalent Ising coefficients; no quantum hardware run is involved.\n\nFor just three fragments, exact classical enumeration is the useful solution method. The quantum formulation is a teaching model, not evidence of a speed advantage.",
+      "approach": "assembly",
+      "method": "Enumerate all six fragment orderings and score suffix-to-prefix overlaps. Return the best reconstruction and ties. Generate a position-based QUBO and equivalent Ising model with constraints for unique fragment placement.",
+      "needed_data": [],
+      "next_question": "",
+      "limitations": [
+        "This exercise assumes distinct, error-free fragments in a known common orientation; it does not establish a unique biological sequence.",
+        "Reconstruction and model coefficients await the server computation.",
+        "A QUBO mapping is not a hardware execution or demonstrated quantum advantage; neutral-atom hardware needs a separately validated graph mapping."
+      ],
+      "evidence_ids": [],
+      "reads": [
+        "ATGCCTA",
+        "CCTAGGA",
+        "AGGATTC"
+      ]
+    },
+    "references": [],
+    "calculation": {
+      "version": "read-ordering-v1",
+      "method": "Exact classical enumeration",
+      "reads": [
+        "ATGCCTA",
+        "CCTAGGA",
+        "AGGATTC"
+      ],
+      "weights": [
+        [
+          0,
+          4,
+          1
+        ],
+        [
+          1,
+          0,
+          4
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ],
+      "order": [
+        0,
+        1,
+        2
+      ],
+      "pieces": [
+        {
+          "read": 0,
+          "sequence": "ATGCCTA",
+          "overlap": 0
+        },
+        {
+          "read": 1,
+          "sequence": "CCTAGGA",
+          "overlap": 4
+        },
+        {
+          "read": 2,
+          "sequence": "AGGATTC",
+          "overlap": 4
+        }
+      ],
+      "sequence": "ATGCCTAGGATTC",
+      "overlapScore": 8,
+      "optimalOrders": 1,
+      "tested": 6,
+      "disconnected": false,
+      "assumptions": [
+        "Error-free fragments in a known common orientation.",
+        "Each supplied fragment appears once; no reverse complements or repeat resolution.",
+        "Maximum overlap is an optimisation objective, not proof of a true biological sequence."
+      ],
+      "qubo": {
+        "variables": 9,
+        "index": "read * fragment_count + position; zero-based",
+        "constant": 54,
+        "linear": [
+          -18,
+          -18,
+          -18,
+          -18,
+          -18,
+          -18,
+          -18,
+          -18,
+          -18
+        ],
+        "quadratic": [
+          {
+            "i": 0,
+            "j": 1,
+            "value": 18
+          },
+          {
+            "i": 0,
+            "j": 3,
+            "value": 18
+          },
+          {
+            "i": 0,
+            "j": 2,
+            "value": 18
+          },
+          {
+            "i": 0,
+            "j": 6,
+            "value": 18
+          },
+          {
+            "i": 1,
+            "j": 2,
+            "value": 18
+          },
+          {
+            "i": 3,
+            "j": 6,
+            "value": 18
+          },
+          {
+            "i": 3,
+            "j": 4,
+            "value": 18
+          },
+          {
+            "i": 1,
+            "j": 4,
+            "value": 18
+          },
+          {
+            "i": 3,
+            "j": 5,
+            "value": 18
+          },
+          {
+            "i": 1,
+            "j": 7,
+            "value": 18
+          },
+          {
+            "i": 4,
+            "j": 5,
+            "value": 18
+          },
+          {
+            "i": 4,
+            "j": 7,
+            "value": 18
+          },
+          {
+            "i": 6,
+            "j": 7,
+            "value": 18
+          },
+          {
+            "i": 2,
+            "j": 5,
+            "value": 18
+          },
+          {
+            "i": 6,
+            "j": 8,
+            "value": 18
+          },
+          {
+            "i": 2,
+            "j": 8,
+            "value": 18
+          },
+          {
+            "i": 7,
+            "j": 8,
+            "value": 18
+          },
+          {
+            "i": 5,
+            "j": 8,
+            "value": 18
+          },
+          {
+            "i": 0,
+            "j": 4,
+            "value": -4
+          },
+          {
+            "i": 0,
+            "j": 7,
+            "value": -1
+          },
+          {
+            "i": 1,
+            "j": 3,
+            "value": -1
+          },
+          {
+            "i": 3,
+            "j": 7,
+            "value": -4
+          },
+          {
+            "i": 4,
+            "j": 6,
+            "value": -1
+          },
+          {
+            "i": 1,
+            "j": 5,
+            "value": -4
+          },
+          {
+            "i": 1,
+            "j": 8,
+            "value": -1
+          },
+          {
+            "i": 2,
+            "j": 4,
+            "value": -1
+          },
+          {
+            "i": 4,
+            "j": 8,
+            "value": -4
+          },
+          {
+            "i": 5,
+            "j": 7,
+            "value": -1
+          }
+        ],
+        "penalty": 9
+      },
+      "ising": {
+        "convention": "x=(1-z)/2; z is the Pauli-Z eigenvalue",
+        "offset": 48.5,
+        "h": [
+          -7.75,
+          -7.5,
+          -8.75,
+          -7.75,
+          -6.5,
+          -7.75,
+          -8.75,
+          -7.5,
+          -7.75
+        ],
+        "J": [
+          {
+            "i": 0,
+            "j": 1,
+            "value": 4.5
+          },
+          {
+            "i": 0,
+            "j": 3,
+            "value": 4.5
+          },
+          {
+            "i": 0,
+            "j": 2,
+            "value": 4.5
+          },
+          {
+            "i": 0,
+            "j": 6,
+            "value": 4.5
+          },
+          {
+            "i": 1,
+            "j": 2,
+            "value": 4.5
+          },
+          {
+            "i": 3,
+            "j": 6,
+            "value": 4.5
+          },
+          {
+            "i": 3,
+            "j": 4,
+            "value": 4.5
+          },
+          {
+            "i": 1,
+            "j": 4,
+            "value": 4.5
+          },
+          {
+            "i": 3,
+            "j": 5,
+            "value": 4.5
+          },
+          {
+            "i": 1,
+            "j": 7,
+            "value": 4.5
+          },
+          {
+            "i": 4,
+            "j": 5,
+            "value": 4.5
+          },
+          {
+            "i": 4,
+            "j": 7,
+            "value": 4.5
+          },
+          {
+            "i": 6,
+            "j": 7,
+            "value": 4.5
+          },
+          {
+            "i": 2,
+            "j": 5,
+            "value": 4.5
+          },
+          {
+            "i": 6,
+            "j": 8,
+            "value": 4.5
+          },
+          {
+            "i": 2,
+            "j": 8,
+            "value": 4.5
+          },
+          {
+            "i": 7,
+            "j": 8,
+            "value": 4.5
+          },
+          {
+            "i": 5,
+            "j": 8,
+            "value": 4.5
+          },
+          {
+            "i": 0,
+            "j": 4,
+            "value": -1
+          },
+          {
+            "i": 0,
+            "j": 7,
+            "value": -0.25
+          },
+          {
+            "i": 1,
+            "j": 3,
+            "value": -0.25
+          },
+          {
+            "i": 3,
+            "j": 7,
+            "value": -1
+          },
+          {
+            "i": 4,
+            "j": 6,
+            "value": -0.25
+          },
+          {
+            "i": 1,
+            "j": 5,
+            "value": -1
+          },
+          {
+            "i": 1,
+            "j": 8,
+            "value": -0.25
+          },
+          {
+            "i": 2,
+            "j": 4,
+            "value": -0.25
+          },
+          {
+            "i": 4,
+            "j": 8,
+            "value": -1
+          },
+          {
+            "i": 5,
+            "j": 7,
+            "value": -0.25
+          }
+        ]
+      },
+      "execution": {
+        "classical": true,
+        "gpu": false,
+        "qpu": false,
+        "wolfram": false
+      }
+    },
+    "calculationNote": null,
+    "allowance": {
+      "allowed": true,
+      "unit": "AI questions",
+      "periods": {
+        "day": {
+          "key": "2026-10-24T00:00:00.000Z",
+          "used": 6,
+          "limit": 30,
+          "resetAt": "2026-10-25T00:00:00.000Z",
+          "remaining": 24
+        },
+        "week": {
+          "key": "2026-10-19T00:00:00.000Z",
+          "used": 6,
+          "limit": 120,
+          "resetAt": "2026-10-26T00:00:00.000Z",
+          "remaining": 114
+        },
+        "month": {
+          "key": "2026-10-01T00:00:00.000Z",
+          "used": 6,
+          "limit": 300,
+          "resetAt": "2026-11-01T00:00:00.000Z",
+          "remaining": 294
+        }
+      },
+      "resetAt": null,
+      "hardware": {
+        "available": false,
+        "reason": "Public hardware funding and dispatch are not active."
+      }
+    },
+    "execution": "AI planning and exact classical calculation",
+    "version": "quantum-biology-v1"
+  }
+]

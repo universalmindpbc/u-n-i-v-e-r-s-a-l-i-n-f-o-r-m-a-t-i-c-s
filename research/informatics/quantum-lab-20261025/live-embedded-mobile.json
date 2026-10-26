@@ -1,0 +1,19 @@
+{
+  "processMuted": true,
+  "results": [
+    {
+      "width": 390,
+      "noOverflow": true,
+      "transcriptionRoundTrip": true,
+      "quantumPreserved": true,
+      "noNativeFullscreen": true
+    },
+    {
+      "width": 320,
+      "noOverflow": true,
+      "transcriptionRoundTrip": true,
+      "quantumPreserved": true,
+      "noNativeFullscreen": true
+    }
+  ]
+}

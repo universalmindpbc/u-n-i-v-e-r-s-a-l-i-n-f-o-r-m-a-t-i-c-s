@@ -1,0 +1,4532 @@
+{
+  "retrievedAt": "2026-10-23",
+  "query": "(TITLE_ABS:EMDR OR TITLE_ABS:\"eye movement desensitization\" OR TITLE_ABS:\"eye movement desensitisation\") AND FIRST_PDATE:[2021-01-01 TO 2026-10-23] AND SRC:MED",
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28TITLE_ABS%3AEMDR+OR+TITLE_ABS%3A%22eye+movement+desensitization%22+OR+TITLE_ABS%3A%22eye+movement+desensitisation%22%29+AND+FIRST_PDATE%3A%5B2021-01-01+TO+2026-10-23%5D+AND+SRC%3AMED&format=json&resultType=core&pageSize=1000",
+  "hitCount": 645,
+  "retrievedRecords": 645,
+  "screening": "Targeted candidate screening; not a full systematic review or appraisal of every result",
+  "supplementarySources": [
+    "Live I AM Science portal",
+    "WHO guidance",
+    "VA/DoD guidance and research updates",
+    "Phoenix Australia guidelines",
+    "NSW DCJ LINKS presentation and 2025 journal publication"
+  ],
+  "records": [
+    {
+      "id": "42831296",
+      "source": "MED",
+      "title": "Eye Movement Desensitisation and Reprocessing (EMDR) for ICU-related psychological distress among adult intensive care survivors: a scoping review.",
+      "doi": "10.1080/20008066.2026.2732465",
+      "firstPublicationDate": "2026-10-05"
+    },
+    {
+      "id": "42831259",
+      "source": "MED",
+      "title": "Systematic review and meta-analysis: the effectiveness of cognitive behavioral therapy and eye movement desensitization and reprocessing in children and adolescents.",
+      "doi": "10.1080/20008066.2026.2731855",
+      "firstPublicationDate": "2026-10-05"
+    },
+    {
+      "id": "42573457",
+      "source": "MED",
+      "title": "Eye Movement Desensitization and Reprocessing (EMDR) for Shame Related Offense Trauma in a Justice Involved Individual Presenting With Active Suicidality and Self-Harm.",
+      "doi": "10.1002/jclp.70197",
+      "firstPublicationDate": "2026-08-10"
+    },
+    {
+      "id": "42866791",
+      "source": "MED",
+      "title": "The Effect of Eye Movement Desensitization and Reprocessing Therapy on Cognitive Failure in Nurses Working in COVID-19 Wards.",
+      "doi": "10.4103/ijnmr.ijnmr_134_25",
+      "firstPublicationDate": "2026-09-21"
+    },
+    {
+      "id": "42334979",
+      "source": "MED",
+      "title": "Eye movement desensitization and reprocessing treatment for birth trauma: a scoping review.",
+      "doi": "10.1080/20008066.2026.2678658",
+      "firstPublicationDate": "2026-06-23"
+    },
+    {
+      "id": "42150933",
+      "source": "MED",
+      "title": "Pain Reprocessing Therapy (PRT), Emotional Awareness and Expression Therapy (EAET), and Eye Movement Desensitization and Reprocessing (EMDR) in chronic pain: What for whom?",
+      "doi": "10.1016/j.jpsychores.2026.112862",
+      "firstPublicationDate": "2026-05-15"
+    },
+    {
+      "id": "42793645",
+      "source": "MED",
+      "title": "The Role of Emotion Regulation in Trauma Processing During Eye Movement Desensitization and Reprocessing (EMDR) Therapy.",
+      "doi": "10.3390/healthcare14183107",
+      "firstPublicationDate": "2026-09-20"
+    },
+    {
+      "id": "42888545",
+      "source": "MED",
+      "title": "Eye movement desensitization and reprocessing in trauma related panic disorder: clinical outcomes through a neuroendocrine lens.",
+      "doi": "10.1097/md.0000000000050943",
+      "firstPublicationDate": "2026-10-01"
+    },
+    {
+      "id": "42635006",
+      "source": "MED",
+      "title": "Online-delivered eye movement desensitization and reprocessing treatment for adults with post-traumatic stress disorder due to multiple traumas: a non-concurrent multiple baseline design.",
+      "doi": "10.1080/20008066.2026.2702141",
+      "firstPublicationDate": "2026-08-24"
+    },
+    {
+      "id": "42571341",
+      "source": "MED",
+      "title": "Efficacy of Eye Movement Desensitization and Reprocessing (EMDR) on Anxiety Severity Among Physicians and Nurses Working in Intensive Care Units.",
+      "doi": "10.1155/ccrp/7865426",
+      "firstPublicationDate": "2026-08-08"
+    },
+    {
+      "id": "42880055",
+      "source": "MED",
+      "title": "Efficacy of eye movement desensitization and reprocessing for anxiety: An umbrella review and meta-meta-analysis of randomized controlled trials.",
+      "doi": "10.1016/j.janxdis.2026.103243",
+      "firstPublicationDate": "2026-10-12"
+    },
+    {
+      "id": "42661139",
+      "source": "MED",
+      "title": "'A challenging but rewarding journey': qualitative study of participants' experiences of EMDR for functional neurological disorder within the MODIFI trial.",
+      "doi": "10.1192/bjo.2026.12060",
+      "firstPublicationDate": "2026-08-28"
+    },
+    {
+      "id": "42619034",
+      "source": "MED",
+      "title": "Intensive eye movement desensitization and reprocessing across the posttraumatic spectrum: Preliminary outcomes in veterans with clinical and subclinical symptom levels.",
+      "doi": "10.1002/jts.70120",
+      "firstPublicationDate": "2026-08-19"
+    },
+    {
+      "id": "42483107",
+      "source": "MED",
+      "title": "Efficacy of Eye Movement Desensitization and Reprocessing for Posttraumatic Stress Disorder: A Systematic Review and Meta-Analysis of Randomized Controlled Trials Comparing Passive and Active Control Conditions.",
+      "doi": "10.7759/cureus.111244",
+      "firstPublicationDate": "2026-06-21"
+    },
+    {
+      "id": "41314781",
+      "source": "MED",
+      "title": "Early eye movement desensitisation and reprocessing (EMDR) therapy for traumatic birth experience: treatment for maternal postpartum post-traumatic stress disorder (PTSD).",
+      "doi": "10.1136/ebnurs-2025-104465",
+      "firstPublicationDate": "2025-11-28"
+    },
+    {
+      "id": "42639007",
+      "source": "MED",
+      "title": "Study on the cognitive effects of eye movement desensitization and reprocessing: proposed active mechanisms.",
+      "doi": "10.3389/fncom.2026.1751744",
+      "firstPublicationDate": "2026-08-10"
+    },
+    {
+      "id": "42386564",
+      "source": "MED",
+      "title": "Eye movement desensitization and reprocessing for occupational memories associated with prolonged depressive and trauma-related symptoms after COVID-19 administrative redeployment: a public health nurse case report.",
+      "doi": "10.2486/indhealth.2026-0050",
+      "firstPublicationDate": "2026-06-30"
+    },
+    {
+      "id": "40518957",
+      "source": "MED",
+      "title": "Response to: 'A randomised controlled trial of eye movement desensitisation and re-processing (EMDR) in forensic services and in prison' - Letter to the editor.",
+      "doi": "10.1177/00258024251350786",
+      "firstPublicationDate": "2025-06-16"
+    },
+    {
+      "id": "42780740",
+      "source": "MED",
+      "title": "Artificial intelligence as a source of psychotherapy-related psychoeducation: a cross-sectional content analysis of information on eye movement desensitization and reprocessing.",
+      "doi": "10.3389/fpsyt.2026.1937506",
+      "firstPublicationDate": "2026-09-09"
+    },
+    {
+      "id": "42777415",
+      "source": "MED",
+      "title": "Eye Movement Desensitization and Reprocessing (EMDR) therapy for flashforwards: Randomized multiple baseline single case experimental design in social anxiety disorder.",
+      "doi": "10.1016/j.jbtep.2026.102136",
+      "firstPublicationDate": "2026-09-18"
+    },
+    {
+      "id": "42518933",
+      "source": "MED",
+      "title": "Eye movement desensitisation and reprocessing for post-traumatic stress in survivors of critical illness (EMERALD): a mixed-methods, randomised, single-blind, parallel group-controlled, feasibility trial.",
+      "doi": "10.1016/j.eclinm.2026.104082",
+      "firstPublicationDate": "2026-07-13"
+    },
+    {
+      "id": "42773467",
+      "source": "MED",
+      "title": "The immediate and follow-up effects of EMDR therapy for adults with post-traumatic stress disorder: a meta-analysis of randomized controlled trials.",
+      "doi": "10.1186/s40359-026-05349-w",
+      "firstPublicationDate": "2026-08-12"
+    },
+    {
+      "id": "42044957",
+      "source": "MED",
+      "title": "Effectiveness of Eye Movement Desensitisation and Reprocessing (EMDR) Therapy in reducing infertility distress in women: a community-based randomised crossover trial protocol.",
+      "doi": "10.1136/bmjopen-2025-104683",
+      "firstPublicationDate": "2026-04-27"
+    },
+    {
+      "id": "42145559",
+      "source": "MED",
+      "title": "Case Report: Integration between eye movement desensitization and reprocessing and cognitive therapy for autism spectrum disorder. Novel intervention protocol based on case formulation and brief review of literature.",
+      "doi": "10.3389/fpsyg.2026.1812438",
+      "firstPublicationDate": "2026-05-01"
+    },
+    {
+      "id": "42469765",
+      "source": "MED",
+      "title": "Psychiatric nurse-delivered Eye Movement Desensitization and Reprocessing (EMDR) for adults with moderate to severe post-traumatic stress symptoms in Jordan: a preliminary randomized controlled trial.",
+      "doi": "10.1186/s12912-026-05068-y",
+      "firstPublicationDate": "2026-07-17"
+    },
+    {
+      "id": "41788970",
+      "source": "MED",
+      "title": "Bilateral rhythmic stimulation as a possible modulator of meningeal lymphatic flow: a regulatory T cell-centered neuroimmune hypothesis of eye movement desensitization and reprocessing.",
+      "doi": "10.3389/fnint.2026.1758529",
+      "firstPublicationDate": "2026-02-18"
+    },
+    {
+      "id": "42216112",
+      "source": "MED",
+      "title": "Investigating the effect of eye movement desensitization and reprocessing on internalized stigma in patients with major depressive disorder: a randomized controlled trial.",
+      "doi": "10.1186/s12888-026-08184-w",
+      "firstPublicationDate": "2026-05-29"
+    },
+    {
+      "id": "42656242",
+      "source": "MED",
+      "title": "A theory-driven rationale for EMDR therapy among patients with a personality disorder.",
+      "doi": "10.3389/fpsyg.2026.1905539",
+      "firstPublicationDate": "2026-08-12"
+    },
+    {
+      "id": "41340540",
+      "source": "MED",
+      "title": "Clinical and Cost-Effectiveness of Eye Movement Desensitisation and Reprocessing for Post-Traumatic Stress Disorder in Children and Adolescents: A Systematic Review and Meta-Analysis.",
+      "doi": "10.1002/cpp.70186",
+      "firstPublicationDate": "2025-11-01"
+    },
+    {
+      "id": "42834827",
+      "source": "MED",
+      "title": "Depressive symptom severity and treatment outcome in posttraumatic stress disorder following childhood trauma: A secondary analysis of a randomized clinical trial.",
+      "doi": "10.1002/jts.70129",
+      "firstPublicationDate": "2026-10-06"
+    },
+    {
+      "id": "42504047",
+      "source": "MED",
+      "title": "Pacing in posttraumatic stress disorder therapy: A meta-regression of treatment frequency and completion rates.",
+      "doi": "10.1002/jts.70111",
+      "firstPublicationDate": "2026-07-26"
+    },
+    {
+      "id": "42827980",
+      "source": "MED",
+      "title": "A study design for modulating two components of the risk architecture of chronic pain: adverse life events and pain catastrophising.",
+      "doi": "10.3389/fpsyg.2026.1884214",
+      "firstPublicationDate": "2026-09-18"
+    },
+    {
+      "id": "41697193",
+      "source": "MED",
+      "title": "Eye movement desensitization and reprocessing &lt;i&gt;versus &lt;/i&gt;cognitive behavioral therapy in the treatment of inpatients with obesity, binge eating disorder, and traumatic experiences: a randomized controlled trial.",
+      "doi": "10.4081/ripppo.2026.886",
+      "firstPublicationDate": "2026-02-16"
+    },
+    {
+      "id": "41655996",
+      "source": "MED",
+      "title": "A Pilot Randomized Controlled Trial of Eye Movement Desensitization and Reprocessing Therapy for Adults With Binge-Eating Disorder.",
+      "doi": "10.1002/eat.70056",
+      "firstPublicationDate": "2026-02-08"
+    },
+    {
+      "id": "41045040",
+      "source": "MED",
+      "title": "The 'Reducing Psychosis Risk by Targeting Trauma' Trial: Protocol of a Feasibility Randomised Controlled Trial of Trauma-Focused Cognitive Behavioural Therapy and Eye Movement Desensitisation and Reprocessing Therapy for People With At-Risk Mental States.",
+      "doi": "10.1111/eip.70095",
+      "firstPublicationDate": "2025-10-01"
+    },
+    {
+      "id": "42529059",
+      "source": "MED",
+      "title": "A pilot study of the feasibility and preliminary outcomes of sequential TF-CBT and EMDR online group therapy for adult women with histories of childhood sexual abuse.",
+      "doi": "10.3389/fpsyg.2026.1872104",
+      "firstPublicationDate": "2026-07-15"
+    },
+    {
+      "id": "42635370",
+      "source": "MED",
+      "title": "Evaluation of the effectiveness of EMDR therapy for children and adolescents in Ukraine during war.",
+      "doi": "10.1080/20008066.2026.2713259",
+      "firstPublicationDate": "2026-08-24"
+    },
+    {
+      "id": "42231256",
+      "source": "MED",
+      "title": "Perceived feasibility of group EMDR therapy among disaster-affected adolescents in Turkey: a convergent mixed-methods study.",
+      "doi": "10.1186/s12888-026-08163-1",
+      "firstPublicationDate": "2026-06-03"
+    },
+    {
+      "id": "42649491",
+      "source": "MED",
+      "title": "Effect of EMDR for reduction of pain interference in children with sickle cell disease, the RELAX study: a randomized controlled trial protocol.",
+      "doi": "10.1186/s12887-026-07153-2",
+      "firstPublicationDate": "2026-08-27"
+    },
+    {
+      "id": "42267545",
+      "source": "MED",
+      "title": "How is EMDR best conducted and adapted for trauma-focused work within bipolar disorder? A Delphi study.",
+      "doi": "10.1080/20008066.2026.2679415",
+      "firstPublicationDate": "2026-06-10"
+    },
+    {
+      "id": "42262905",
+      "source": "MED",
+      "title": "The efficacy of EMDR therapy in adults with a severe intellectual disability and posttraumatic stress disorder.",
+      "doi": "10.1080/20008066.2026.2673670",
+      "firstPublicationDate": "2026-06-09"
+    },
+    {
+      "id": "40243164",
+      "source": "MED",
+      "title": "Effects of eye movement desensitisation and reprocessing on depressive symptoms, stress and rumination in adolescents with depression: a randomised controlled trial.",
+      "doi": "10.1080/20008066.2025.2488558",
+      "firstPublicationDate": "2025-04-17"
+    },
+    {
+      "id": "41665686",
+      "source": "MED",
+      "title": "Effects of virtual reality eye movement desensitization and reprocessing therapy for adolescents with major depressive disorder: a functional Near-Infrared spectroscopy study.",
+      "doi": "10.1007/s00787-026-02976-x",
+      "firstPublicationDate": "2026-02-10"
+    },
+    {
+      "id": "40586918",
+      "source": "MED",
+      "title": "[Eye movement desensitization and reprocessing (EMDR) in pain therapy : Potentials, mechanisms and clinical applications for chronic pain with traumatic background].",
+      "doi": "10.1007/s00482-025-00890-w",
+      "firstPublicationDate": "2025-06-30"
+    },
+    {
+      "id": "40982818",
+      "source": "MED",
+      "title": "BEYOND POST-TRAUMATIC STRESS DISORDER (PTSD): STATE OF THE ART ON PSYCHOLOGICAL DISORDERS IN WHICH EYE MOVEMENT DESENSITIZATION AND REPROCESSING (EMDR) CURRENTLY SHOWS CLINICAL EFFICACY.",
+      "doi": null,
+      "firstPublicationDate": "2025-09-01"
+    },
+    {
+      "id": "41265021",
+      "source": "MED",
+      "title": "Psychological and immunological benefits of eye movement desensitization and reprocessing in hashimoto thyroiditis: Preliminary findings from a randomized controlled trial.",
+      "doi": "10.1016/j.psyneuen.2025.107695",
+      "firstPublicationDate": "2025-11-14"
+    },
+    {
+      "id": "42324567",
+      "source": "MED",
+      "title": "Trauma-focused treatments for refugee children and adolescents with PTSD: a three-arm randomized controlled trial comparing the efficacy of EMDR and KIDNET versus a waitlist control group (the KIEM study).",
+      "doi": "10.1186/s13034-026-01118-0",
+      "firstPublicationDate": "2026-06-21"
+    },
+    {
+      "id": "40792354",
+      "source": "MED",
+      "title": "Eye movement desensitisation and reprocessing as a potential treatment for substance use disorders: study protocol.",
+      "doi": "10.1080/20008066.2025.2531595",
+      "firstPublicationDate": "2025-08-12"
+    },
+    {
+      "id": "42312057",
+      "source": "MED",
+      "title": "Judicial assessment of testimonial reliability after EMDR therapy: a case-series analysis.",
+      "doi": "10.3389/fpsyg.2026.1809865",
+      "firstPublicationDate": "2026-06-02"
+    },
+    {
+      "id": "42753077",
+      "source": "MED",
+      "title": "Targeting Shame and Guilt in Psychotherapy: From Conceptual Understanding to Diverse Therapeutic Approaches.",
+      "doi": "10.1002/jclp.70226",
+      "firstPublicationDate": "2026-09-17"
+    },
+    {
+      "id": "42425043",
+      "source": "MED",
+      "title": "Mental imagery and its role in the psychopathology and treatment of obsessive-compulsive disorder: A systematic review and narrative synthesis.",
+      "doi": "10.1016/j.janxdis.2026.103206",
+      "firstPublicationDate": "2026-07-07"
+    },
+    {
+      "id": "42837716",
+      "source": "MED",
+      "title": "Personalized psychotherapy in irritable bowel syndrome: results from a pilot randomized controlled trial (PIONEER-IBS).",
+      "doi": "10.1016/j.jpsychores.2026.113003",
+      "firstPublicationDate": "2026-10-01"
+    },
+    {
+      "id": "41161018",
+      "source": "MED",
+      "title": "Nuances in the memory undermining effects of EMDR and imagery rescripting.",
+      "doi": "10.1016/j.copsyc.2025.102198",
+      "firstPublicationDate": "2025-10-16"
+    },
+    {
+      "id": "39814409",
+      "source": "MED",
+      "title": "A randomised controlled trial of eye movement desensitisation and re-processing (EMDR) in forensic services and in prison.",
+      "doi": "10.1177/00258024251313739",
+      "firstPublicationDate": "2025-01-15"
+    },
+    {
+      "id": "42794282",
+      "source": "MED",
+      "title": "Psychological and Glycemic Outcomes Associated with EMDR Therapy in Children and Adolescents with Type 1 Diabetes Mellitus: A Retrospective Comparative Study.",
+      "doi": "10.3390/children13091262",
+      "firstPublicationDate": "2026-09-17"
+    },
+    {
+      "id": "42531952",
+      "source": "MED",
+      "title": "Passive or subliminal re-exposure is sufficient for fear modulation in eye-movement intervention.",
+      "doi": "10.1016/j.brat.2026.105119",
+      "firstPublicationDate": "2026-07-28"
+    },
+    {
+      "id": "40616777",
+      "source": "MED",
+      "title": "Clinical and cost-effectiveness of eye movement desensitization and reprocessing for treatment and prevention of post-traumatic stress disorder in adults: A systematic review and meta-analysis.",
+      "doi": "10.1111/bjop.70005",
+      "firstPublicationDate": "2025-07-05"
+    },
+    {
+      "id": "42286717",
+      "source": "MED",
+      "title": "The combination of dialectical behavioral skills training with EMDR in the treatment of borderline personality disorder and psychological trauma: a feasibility randomized trial.",
+      "doi": "10.1186/s40479-026-00351-5",
+      "firstPublicationDate": "2026-06-12"
+    },
+    {
+      "id": "42158478",
+      "source": "MED",
+      "title": "Novel Strategies to Optimize Individual Performance on the In-Service Training Exam: A Case Series.",
+      "doi": "10.36518/2689-0216.2488",
+      "firstPublicationDate": "2026-04-01"
+    },
+    {
+      "id": "42284478",
+      "source": "MED",
+      "title": "Treatment of posttraumatic stress disorder (PTSD).",
+      "doi": "10.1080/19585969.2026.2680838",
+      "firstPublicationDate": "2026-06-12"
+    },
+    {
+      "id": "40929963",
+      "source": "MED",
+      "title": "Adverse effects of Eye Movement Desensitization and Reprocessing therapy: A neglected but urgent area of inquiry.",
+      "doi": "10.1016/j.copsyc.2025.102155",
+      "firstPublicationDate": "2025-08-29"
+    },
+    {
+      "id": "41449838",
+      "source": "MED",
+      "title": "Therapists' Attitudes and Exclusion Criteria for Prolonged Exposure and EMDR in Patients With Eating Disorders and PTSD.",
+      "doi": "10.1002/erv.70073",
+      "firstPublicationDate": "2025-12-25"
+    },
+    {
+      "id": "39506286",
+      "source": "MED",
+      "title": "Eye movement desensitisation and reprocessing (EMDR) within prisons and the criminal justice system.",
+      "doi": "10.1177/00258024241293540",
+      "firstPublicationDate": "2024-11-06"
+    },
+    {
+      "id": "42254728",
+      "source": "MED",
+      "title": "Remote EMDR versus CBT for PTSD after the Kahramanmaraş earthquakes: a randomized trial.",
+      "doi": "10.3389/fpsyt.2026.1779057",
+      "firstPublicationDate": "2026-05-22"
+    },
+    {
+      "id": "40627223",
+      "source": "MED",
+      "title": "Randomised feasibility study evaluating eye movement desensitisation and reprocessing therapy for functional neurological disorder (MODIFI).",
+      "doi": "10.1007/s00415-025-13219-5",
+      "firstPublicationDate": "2025-07-08"
+    },
+    {
+      "id": "41505645",
+      "source": "MED",
+      "title": "Is EMDR an Alternative Therapy for Adolescents With Social Anxiety Disorder?",
+      "doi": "10.1177/13591045251413046",
+      "firstPublicationDate": "2026-01-08"
+    },
+    {
+      "id": "42284952",
+      "source": "MED",
+      "title": "The effectiveness and tolerability of trauma-focused interventions for trauma symptoms in individuals who have psychosis: A systematic review and meta-analysis.",
+      "doi": "10.1016/j.schres.2026.06.008",
+      "firstPublicationDate": "2026-06-12"
+    },
+    {
+      "id": "40996780",
+      "source": "MED",
+      "title": "Efficacy and Safety of Eye Movement Desensitization and Reprocessing (EMDR) in Patients with Psychosis: A Systematic Review of Randomized Controlled Trials.",
+      "doi": "10.47626/2237-6089-2025-1099",
+      "firstPublicationDate": "2025-09-25"
+    },
+    {
+      "id": "40735790",
+      "source": "MED",
+      "title": "Eye Movement Desensitization and Reprocessing for Chronic Pain: A Systematic Review.",
+      "doi": "10.1177/27683605251362035",
+      "firstPublicationDate": "2025-07-30"
+    },
+    {
+      "id": "41807046",
+      "source": "MED",
+      "title": "The Timing of Attentional Distraction Matters in Facilitating Extinction of Trace Fear Memory.",
+      "doi": "10.5607/en25029",
+      "firstPublicationDate": "2026-03-11"
+    },
+    {
+      "id": "41662010",
+      "source": "MED",
+      "title": "Courage, hope, and transformation: Patient experiences of web-based, therapist delivered eye movement desensitization and reprocessing for suicidal ideation.",
+      "doi": "10.1371/journal.pmen.0000373",
+      "firstPublicationDate": "2025-08-07"
+    },
+    {
+      "id": "40716437",
+      "source": "MED",
+      "title": "The Effectiveness of Eye Movement Desensitization and Reprocessing Therapy on Post-Traumatic Stress Disorder Symptoms and Diagnostic Status in Patients with a Personality Disorder: A Randomized Controlled Trial.",
+      "doi": "10.1159/000547622",
+      "firstPublicationDate": "2025-07-25"
+    },
+    {
+      "id": "39455083",
+      "source": "MED",
+      "title": "Eye movement desensitisation and reprocessing (EMDR) therapy in preterm children with selective mutism.",
+      "doi": "10.1136/bcr-2024-260548",
+      "firstPublicationDate": "2024-10-24"
+    },
+    {
+      "id": "40301706",
+      "source": "MED",
+      "title": "Eye movement desensitization and reprocessing (EMDR) improves symptoms of anxiety and depression, blood pressure, and heart rate variability in patients with hypertension: a randomized controlled trial.",
+      "doi": "10.1080/13548506.2025.2482962",
+      "firstPublicationDate": "2025-04-29"
+    },
+    {
+      "id": "39041417",
+      "source": "MED",
+      "title": "Eye movement desensitisation and reprocessing for survivors of life-threatening medical events.",
+      "doi": "10.1002/14651858.cd015640",
+      "firstPublicationDate": "2024-07-23"
+    },
+    {
+      "id": "42876507",
+      "source": "MED",
+      "title": "Synergizing strengths of four trauma-focused treatments in a highly intensive integrated program for posttraumatic stress disorder: rationale and two case descriptions.",
+      "doi": "10.3389/fpsyg.2026.1932004",
+      "firstPublicationDate": "2026-09-30"
+    },
+    {
+      "id": "40945936",
+      "source": "MED",
+      "title": "[Specificities of the EMDR psychotherapeutic approach in the military environment].",
+      "doi": "10.1016/j.spsy.2025.07.008",
+      "firstPublicationDate": "2025-09-01"
+    },
+    {
+      "id": "40424141",
+      "source": "MED",
+      "title": "A multisite retrospective review exploring the delivery of eye movement desensitization and reprocessing (EMDR) therapy to veterans via telehealth (TH) versus in person (IP).",
+      "doi": "10.1037/tra0001917",
+      "firstPublicationDate": "2025-05-26"
+    },
+    {
+      "id": "40405468",
+      "source": "MED",
+      "title": "Examining the Eye Movement Desensitization Reprocessing Flash Technique on Racial Trauma.",
+      "doi": "10.1111/jmft.70032",
+      "firstPublicationDate": "2025-07-01"
+    },
+    {
+      "id": "42179853",
+      "source": "MED",
+      "title": "The Protective Role of Vigor in Volunteering Against Somatic and Psychological Symptoms in EMDR Therapists.",
+      "doi": "10.11621/pir.2026.0106",
+      "firstPublicationDate": "2026-03-15"
+    },
+    {
+      "id": "42054900",
+      "source": "MED",
+      "title": "Effects of timing and type of trauma-focused treatment on psychosocial functioning: secondary outcomes from a randomized controlled trial in patients with co-occurring substance use disorder and posttraumatic stress disorder.",
+      "doi": "10.1016/j.brat.2026.105053",
+      "firstPublicationDate": "2026-04-24"
+    },
+    {
+      "id": "40879852",
+      "source": "MED",
+      "title": "Effect of eye movement desensitization and reprocessing on intensity of primary dysmenorrhea: a randomized controlled trial.",
+      "doi": "10.1007/s44192-025-00265-8",
+      "firstPublicationDate": "2025-08-29"
+    },
+    {
+      "id": "39968400",
+      "source": "MED",
+      "title": "Eye movement desensitisation and reprocessing for childbirth-related post-traumatic stress symptoms: effectiveness, duration and completion.",
+      "doi": "10.3389/fgwh.2025.1487799",
+      "firstPublicationDate": "2025-02-04"
+    },
+    {
+      "id": "40551815",
+      "source": "MED",
+      "title": "Effectiveness of an eye movement desensitization and reprocessing intervention for the prevention of post- traumatic symptoms in perinatal loss: a randomized pilot controlled trial.",
+      "doi": "10.3389/fpsyt.2025.1593306",
+      "firstPublicationDate": "2025-06-09"
+    },
+    {
+      "id": "40355292",
+      "source": "MED",
+      "title": "Scoping review protocol of the use of eye movement desensitisation and reprocessing in the treatment of birth trauma.",
+      "doi": "10.1136/bmjopen-2025-099751",
+      "firstPublicationDate": "2025-05-12"
+    },
+    {
+      "id": "40207188",
+      "source": "MED",
+      "title": "Treating Fear of Cancer Recurrence with Eye Movement Desensitization Reprocessing: A Sequential, Randomized Single-Case Experimental Design.",
+      "doi": "10.17505/jpor.2025.27699",
+      "firstPublicationDate": "2025-04-01"
+    },
+    {
+      "id": "40414192",
+      "source": "MED",
+      "title": "A preliminary efficacy study of eye movement desensitisation and reprocessing therapy in reducing epilepsy-related anxiety.",
+      "doi": "10.1016/j.yebeh.2025.110493",
+      "firstPublicationDate": "2025-05-24"
+    },
+    {
+      "id": "42854790",
+      "source": "MED",
+      "title": "Prolonged exposure therapy for posttraumatic stress disorder: A systematic review and meta-analysis of randomized controlled trials.",
+      "doi": "10.1016/j.jad.2026.122612",
+      "firstPublicationDate": "2026-10-09"
+    },
+    {
+      "id": "39916551",
+      "source": "MED",
+      "title": "Imagery Rescripting (ImRs) and Eye Movement Desensitization and Reprocessing (EMDR) as treatment of childhood-trauma related post-traumatic stress disorder (Ch-PTSD) in adults: effects on Schema Modes.",
+      "doi": "10.1080/20008066.2025.2454191",
+      "firstPublicationDate": "2025-02-07"
+    },
+    {
+      "id": "41416506",
+      "source": "MED",
+      "title": "Enhancing trauma-focused therapy (EMDR) with Imagery Rescripting for childhood abuse-related PTSD: a case study.",
+      "doi": "10.1080/20008066.2025.2600873",
+      "firstPublicationDate": "2025-12-19"
+    },
+    {
+      "id": "40036114",
+      "source": "MED",
+      "title": "Eye movement desensitization and reprocessing for posttraumatic stress disorder following acquired brain injury: A multiple baseline single case experimental design study across four cases.",
+      "doi": "10.1080/09602011.2024.2444999",
+      "firstPublicationDate": "2025-03-04"
+    },
+    {
+      "id": "41699631",
+      "source": "MED",
+      "title": "Adapting and testing of DeprEnd EMDR therapy for major depressive disorder: a study protocol of mixed method randomized controlled trial.",
+      "doi": "10.1186/s13063-026-09543-4",
+      "firstPublicationDate": "2026-02-16"
+    },
+    {
+      "id": "40996761",
+      "source": "MED",
+      "title": "Eye Movement Desensitization and Reprocessing Therapy in Persons With Personality Disorders: A Randomized Clinical Trial.",
+      "doi": "10.1001/jamanetworkopen.2025.33421",
+      "firstPublicationDate": "2025-09-02"
+    },
+    {
+      "id": "41567443",
+      "source": "MED",
+      "title": "Predictors and process moderators of EMDR therapy for depressive symptoms: protocol for a series of observational N-of-1 trials.",
+      "doi": "10.3389/fpsyg.2025.1688526",
+      "firstPublicationDate": "2026-01-06"
+    },
+    {
+      "id": "41066786",
+      "source": "MED",
+      "title": "A novel theory of trauma offers new treatment possibilities.",
+      "doi": "10.26635/6965.6955",
+      "firstPublicationDate": "2025-10-10"
+    },
+    {
+      "id": "41846656",
+      "source": "MED",
+      "title": "Therapeutic Alliance, Treatment Intensity, and Symptom Change in Post-traumatic Stress Disorder: A Retrospective Study of Eye Movement Desensitization and Reprocessing-Centered Psychotherapy.",
+      "doi": "10.7759/cureus.103603",
+      "firstPublicationDate": "2026-02-14"
+    },
+    {
+      "id": "40792392",
+      "source": "MED",
+      "title": "The relationship between changes in emotional intensity and treatment outcome in PTSD patients in EMDR therapy.",
+      "doi": "10.1080/20008066.2025.2536973",
+      "firstPublicationDate": "2025-08-12"
+    },
+    {
+      "id": "41139665",
+      "source": "MED",
+      "title": "Correction to \"The 'Reducing Psychosis Risk by Targeting Trauma' Trial: Protocol of a Feasibility Randomised Controlled Trial of Trauma-Focused Cognitive Behavioural Therapy and Eye Movement Desensitisation and Reprocessing Therapy for People With At-Risk Mental States\".",
+      "doi": "10.1111/eip.70105",
+      "firstPublicationDate": "2025-10-01"
+    },
+    {
+      "id": "41160015",
+      "source": "MED",
+      "title": "Treating complex PTSD with Schema Therapy, ImRs and EMDR: a review and case study.",
+      "doi": "10.1080/20008066.2025.2573616",
+      "firstPublicationDate": "2025-10-29"
+    },
+    {
+      "id": "42387379",
+      "source": "MED",
+      "title": "Interventions for post-traumatic stress disorder among first responders: implications for public health response and system resilience.",
+      "doi": "10.1186/s12245-026-01266-2",
+      "firstPublicationDate": "2026-07-01"
+    },
+    {
+      "id": "40015252",
+      "source": "MED",
+      "title": "Eye Movement Desensitization and Reprocessing with and without Dialectical Behavior Therapy for Posttraumatic Stress Disorder and Comorbid Borderline Personality Disorder Symptoms: A Randomized Controlled Trial.",
+      "doi": "10.1159/000544918",
+      "firstPublicationDate": "2025-02-27"
+    },
+    {
+      "id": "41832351",
+      "source": "MED",
+      "title": "Reducing trauma-related parental stress in neurodevelopmental disorders: a randomized feasibility study.",
+      "doi": "10.1007/s00431-026-06848-z",
+      "firstPublicationDate": "2026-03-15"
+    },
+    {
+      "id": "40417270",
+      "source": "MED",
+      "title": "The effectiveness of online Eye Movement Desensitization and Reprocessing 2.0 Group Protocol on post-traumatic stress disorders symptoms, depression, anxiety, and stress in individuals who have experienced a traffic accident: a randomized-controlled study.",
+      "doi": "10.3389/fpsyt.2025.1452206",
+      "firstPublicationDate": "2025-05-09"
+    },
+    {
+      "id": "42707534",
+      "source": "MED",
+      "title": "Cervico-suboccipital sensorimotor convergence as an upstream autonomic pathway in bilateral rhythmic stimulation.",
+      "doi": "10.3389/fnint.2026.1862966",
+      "firstPublicationDate": "2026-08-24"
+    },
+    {
+      "id": "41520983",
+      "source": "MED",
+      "title": "Timing and type of posttraumatic stress disorder treatment in patients with co-occurring substance use disorder and posttraumatic stress disorder - A randomized controlled trial.",
+      "doi": "10.1016/j.josat.2025.209878",
+      "firstPublicationDate": "2026-01-09"
+    },
+    {
+      "id": "41160072",
+      "source": "MED",
+      "title": "Frontliners narratives: qualitative insights into EMDR group therapy during COVID-19.",
+      "doi": "10.1080/20008066.2025.2571253",
+      "firstPublicationDate": "2025-10-29"
+    },
+    {
+      "id": "41356024",
+      "source": "MED",
+      "title": "Trauma-informed training as a path to intergroup readiness: a mixed-methods evaluation of EMDR education in a shared society context.",
+      "doi": "10.3389/fpsyg.2025.1618634",
+      "firstPublicationDate": "2025-11-20"
+    },
+    {
+      "id": "39595873",
+      "source": "MED",
+      "title": "The Effect of Eye Movement Desensitization and Reprocessing (EMDR) Therapy on Reducing Craving in Populations with Substance Use Disorder: A Meta-Analysis.",
+      "doi": "10.3390/brainsci14111110",
+      "firstPublicationDate": "2024-10-31"
+    },
+    {
+      "id": "41863279",
+      "source": "MED",
+      "title": "The Role of Non-Pharmacological Interventions in Attenuating Anxiety and Stress Symptoms in PTSD: A Systematic Review.",
+      "doi": "10.2174/011570159x425558260119114354",
+      "firstPublicationDate": "2026-03-18"
+    },
+    {
+      "id": "41747427",
+      "source": "MED",
+      "title": "Can vibratory bilateral stimulation reduce the emotionality and vividness of negative autobiographical memories?",
+      "doi": "10.1016/j.jbtep.2026.102090",
+      "firstPublicationDate": "2026-02-13"
+    },
+    {
+      "id": "42234257",
+      "source": "MED",
+      "title": "Posttraumatic stress disorder from early childhood to late adolescence: a resilience-oriented approach to prevention, diagnosis, and clinical management.",
+      "doi": "10.1007/s44192-026-00488-3",
+      "firstPublicationDate": "2026-06-03"
+    },
+    {
+      "id": "41236488",
+      "source": "MED",
+      "title": "Applicability and effectiveness of group EMDR therapy for forced migrants.",
+      "doi": "10.1080/20008066.2025.2583875",
+      "firstPublicationDate": "2025-11-14"
+    },
+    {
+      "id": "42519422",
+      "source": "MED",
+      "title": "MicroRNAs expression changes associated with trauma-focused psychotherapy efficacy in treatment-resistant depression: An exploratory study.",
+      "doi": "10.1016/j.nsa.2026.107020",
+      "firstPublicationDate": "2026-07-09"
+    },
+    {
+      "id": "41561982",
+      "source": "MED",
+      "title": "Group EMDR therapy for disaster-affected adolescents: evaluating effectiveness and navigating implementation challenges in PTSD, depression, and anxiety.",
+      "doi": "10.3389/fpsyt.2025.1691529",
+      "firstPublicationDate": "2026-01-05"
+    },
+    {
+      "id": "41407413",
+      "source": "MED",
+      "title": "A multicentred two-arm parallel single-blind superiority randomised controlled trial comparing psychological and emotional stabilisation with eye movement desensitisation and reprocessing and treatment-as-usual to treatment-as-usual with adults with intellectual disabilities who have post-traumatic stress disorder (the Trauma-AID trial): protocol.",
+      "doi": "10.1136/bmjopen-2025-108818",
+      "firstPublicationDate": "2025-12-17"
+    },
+    {
+      "id": "41367945",
+      "source": "MED",
+      "title": "Exploring EMDR: an innovative approach with Posner Paradigm to reprocessing negative memories in a non-clinical sample.",
+      "doi": "10.3389/fpsyt.2025.1605608",
+      "firstPublicationDate": "2025-11-24"
+    },
+    {
+      "id": "40611440",
+      "source": "MED",
+      "title": "Disentangling eye movement desensitization and reprocessing mechanisms of action: The impact of eye movements in the eye blink conditioning task.",
+      "doi": "10.1111/papt.70000",
+      "firstPublicationDate": "2025-07-03"
+    },
+    {
+      "id": "41555672",
+      "source": "MED",
+      "title": "Inclusion of sexual- and gender-minoritized individuals in randomized clinical trials of first-line treatments for posttraumatic stress disorder: A systematic literature review.",
+      "doi": "10.1002/jts.70043",
+      "firstPublicationDate": "2026-01-19"
+    },
+    {
+      "id": "40876652",
+      "source": "MED",
+      "title": "Effects of EMDR vs. waiting list for adults with post-traumatic stress disorder: A systematic review and meta-analysis of randomized controlled trials.",
+      "doi": "10.1016/j.jad.2025.120134",
+      "firstPublicationDate": "2025-08-26"
+    },
+    {
+      "id": "41229305",
+      "source": "MED",
+      "title": "Bilateral stimulation: differential effects in EEG and peripheral physiology.",
+      "doi": "10.1192/bjo.2025.10887",
+      "firstPublicationDate": "2025-11-13"
+    },
+    {
+      "id": "38779227",
+      "source": "MED",
+      "title": "Revisiting Eye Movement Desensitization and Reprocessing Therapy for Post-traumatic Stress Disorder: A Systematic Review and Discussion of the American Psychological Association's 2017 Recommendations.",
+      "doi": "10.7759/cureus.58767",
+      "firstPublicationDate": "2024-04-22"
+    },
+    {
+      "id": "41135438",
+      "source": "MED",
+      "title": "Does treating emotional memories come at a price? Effects of single-session EMDR, imaginal exposure, and imagery rescripting on forced-choice recognition of event details in healthy adults - a laboratory study.",
+      "doi": "10.1016/j.brat.2025.104884",
+      "firstPublicationDate": "2025-10-15"
+    },
+    {
+      "id": "40352071",
+      "source": "MED",
+      "title": "Effectiveness of Eye Movement Desensitization and Reprocessing (EMDR) in Treating Borderline Personality Disorder: A Randomized Controlled Trial.",
+      "doi": "10.31083/ap40031",
+      "firstPublicationDate": "2025-04-28"
+    },
+    {
+      "id": "38332432",
+      "source": "MED",
+      "title": "Clinicians' experiences of learning to use eye movement desensitisation and reprocessing therapy with people with intellectual disabilities: A qualitative study.",
+      "doi": "10.1111/jar.13206",
+      "firstPublicationDate": "2024-03-01"
+    },
+    {
+      "id": "39335413",
+      "source": "MED",
+      "title": "Effectiveness of Eye Movement Desensitization and Reprocessing-EMDR Method in Patients with Chronic Subjective Tinnitus.",
+      "doi": "10.3390/brainsci14090918",
+      "firstPublicationDate": "2024-09-13"
+    },
+    {
+      "id": "41700662",
+      "source": "MED",
+      "title": "&lt;i&gt;Letter:&lt;/i&gt; Eye Movement Desensitization Reprocessing and Transcranial Magnetic Stimulation in an Adolescent with Comorbid Major Depression Disorder and Posttraumatic Stress Disorder: A Case Report.",
+      "doi": "10.1177/10445463261424200",
+      "firstPublicationDate": "2026-02-17"
+    },
+    {
+      "id": "39439914",
+      "source": "MED",
+      "title": "Case report: Online eye movement desensitization and reprocessing approach in children: a case series.",
+      "doi": "10.3389/fpsyt.2024.1391980",
+      "firstPublicationDate": "2024-10-08"
+    },
+    {
+      "id": "41736880",
+      "source": "MED",
+      "title": "Psychotherapy for complex post-traumatic stress disorder: efficacy and therapeutic factors.",
+      "doi": "10.3389/fpsyg.2026.1684921",
+      "firstPublicationDate": "2026-02-09"
+    },
+    {
+      "id": "39441589",
+      "source": "MED",
+      "title": "Improving Infant Mental Health: A Pilot Study on the Effectiveness, Acceptability and Feasibility of Eye Movement Desensitization and Reprocessing (EMDR) Storytelling in Infants With Post-traumatic Distress After Medical Procedures.",
+      "doi": "10.1177/01632787241268176",
+      "firstPublicationDate": "2024-10-23"
+    },
+    {
+      "id": "40947761",
+      "source": "MED",
+      "title": "Treatment outcomes for military-affiliated clients with posttraumatic stress disorder in a community mental health network.",
+      "doi": "10.1002/jts.70008",
+      "firstPublicationDate": "2025-09-14"
+    },
+    {
+      "id": "39408173",
+      "source": "MED",
+      "title": "EMDR-Teens-cPTSD: Efficacy of Eye Movement Desensitization and Reprocessing in Adolescents with Complex PTSD Secondary to Childhood Abuse: A Case Series.",
+      "doi": "10.3390/healthcare12191993",
+      "firstPublicationDate": "2024-10-06"
+    },
+    {
+      "id": "40024280",
+      "source": "MED",
+      "title": "Systematic Review and Meta-Analysis: Imputing Response Rates for First-Line Psychological Treatments for Posttraumatic Stress Disorder in Youth.",
+      "doi": "10.1016/j.jaac.2024.12.014",
+      "firstPublicationDate": "2025-02-28"
+    },
+    {
+      "id": "40174765",
+      "source": "MED",
+      "title": "Editorial: How Well Do Trauma-Focused Psychotherapies Really Work for Pediatric Posttraumatic Stress Disorder?",
+      "doi": "10.1016/j.jaac.2025.03.021",
+      "firstPublicationDate": "2025-03-31"
+    },
+    {
+      "id": "38282286",
+      "source": "MED",
+      "title": "State of the science: Eye movement desensitization and reprocessing (EMDR) therapy.",
+      "doi": "10.1002/jts.23012",
+      "firstPublicationDate": "2024-01-28"
+    },
+    {
+      "id": "39938142",
+      "source": "MED",
+      "title": "Targeting craving with EMDR therapy: Future directions.",
+      "doi": "10.1016/j.addbeh.2025.108288",
+      "firstPublicationDate": "2025-02-09"
+    },
+    {
+      "id": "39449052",
+      "source": "MED",
+      "title": "Duration of effect in treatment of methotrexate intolerance in juvenile idiopathic arthritis using Eye Movement Desensitization and Reprocessing (EMDR) can be improved by Bi-lateral Alternating Stimulation Tactile (BLAST) wristbands.",
+      "doi": "10.1186/s12969-024-01024-9",
+      "firstPublicationDate": "2024-10-24"
+    },
+    {
+      "id": "42129972",
+      "source": "MED",
+      "title": "Is the Group Traumatic Episode Protocol (G-TEP) Effective for Post-Traumatic Stress Disorder? A Meta-Analysis.",
+      "doi": "10.1002/cpp.70283",
+      "firstPublicationDate": "2026-05-01"
+    },
+    {
+      "id": "40823431",
+      "source": "MED",
+      "title": "A qualitative study of therapists' use of empirically supported techniques for PTSD.",
+      "doi": "10.3389/fpsyg.2025.1542478",
+      "firstPublicationDate": "2025-08-01"
+    },
+    {
+      "id": "39337119",
+      "source": "MED",
+      "title": "The Efficacy of Eye Movement Desensitization and Reprocessing Treatment for Depression: A Meta-Analysis and Meta-Regression of Randomized Controlled Trials.",
+      "doi": "10.3390/jcm13185633",
+      "firstPublicationDate": "2024-09-23"
+    },
+    {
+      "id": "42765326",
+      "source": "MED",
+      "title": "Living in an unresolved trauma system: Women's experiences of infertility-related distress through an adaptive information processing lens.",
+      "doi": "10.1177/17455057261490949",
+      "firstPublicationDate": "2026-01-01"
+    },
+    {
+      "id": "39066607",
+      "source": "MED",
+      "title": "Knowledge About Eye Movement Desensitization and Reprocessing Therapy and Child Sexual Abuse: A Scoping Review.",
+      "doi": "10.1177/15248380241265385",
+      "firstPublicationDate": "2024-07-27"
+    },
+    {
+      "id": "40706348",
+      "source": "MED",
+      "title": "Stress and stress reactivity in posttraumatic stress disorder (PTSD) following eye movement desensitization (EMD): A randomized controlled trial.",
+      "doi": "10.1016/j.jbtep.2025.102052",
+      "firstPublicationDate": "2025-07-16"
+    },
+    {
+      "id": "40667756",
+      "source": "MED",
+      "title": "Efficacy of interventions for posttraumatic stress disorder symptoms induced by traumatic medical events: a systematic review.",
+      "doi": "10.1080/17437199.2025.2526666",
+      "firstPublicationDate": "2025-07-16"
+    },
+    {
+      "id": "39758524",
+      "source": "MED",
+      "title": "Eye Movement Desensitization and Reprocessing: Efficacy in Improving Clinical, Neuropsychological, and Quality of Life in Women Victims of Violence.",
+      "doi": "10.1089/whr.2023.0110",
+      "firstPublicationDate": "2024-12-06"
+    },
+    {
+      "id": "38747113",
+      "source": "MED",
+      "title": "Eye Movement Desensitization and Reprocessing (EMDR) treatment in the medical setting: a systematic review.",
+      "doi": "10.1080/20008066.2024.2341577",
+      "firstPublicationDate": "2024-05-15"
+    },
+    {
+      "id": "40368276",
+      "source": "MED",
+      "title": "Do eye movements in REM sleep play a role in overnight emotional processing?",
+      "doi": "10.1016/j.neuropsychologia.2025.109169",
+      "firstPublicationDate": "2025-05-12"
+    },
+    {
+      "id": "40387140",
+      "source": "MED",
+      "title": "Brief intensive EMDR therapy for PTSD in adults with mild intellectual disability or borderline intellectual functioning and behavioural problems: a multiple baseline design study.",
+      "doi": "10.1080/20008066.2025.2495642",
+      "firstPublicationDate": "2025-05-19"
+    },
+    {
+      "id": "39841051",
+      "source": "MED",
+      "title": "Preliminary efficacy of eye movement desensitization and reprocessing for children aged 1.5-8 years with PTSD: a multiple baseline experimental design (<i>N</i> = 19).",
+      "doi": "10.1080/20008066.2024.2447654",
+      "firstPublicationDate": "2025-01-22"
+    },
+    {
+      "id": "40743705",
+      "source": "MED",
+      "title": "Transcranial photobiomodulation as an adjunctive therapy for persistent anxiety and depression in patients undergoing psychotherapy, EMDR, and/or SSRI treatment: A case series.",
+      "doi": "10.1016/j.explore.2025.103228",
+      "firstPublicationDate": "2025-07-18"
+    },
+    {
+      "id": "38369435",
+      "source": "MED",
+      "title": "The effectiveness of Eye Movement Desensitization and Reprocessing (EMDR)-therapy on Posttraumatic Stress Disorder (PTSD) symptoms and quality of life in patients with cancer.",
+      "doi": "10.1016/j.genhosppsych.2024.02.007",
+      "firstPublicationDate": "2024-02-15"
+    },
+    {
+      "id": "40743399",
+      "source": "MED",
+      "title": "Virtual reality and smartphone utilisation for the examination and enhancement of working memory load for visual and auditory dual tasking.",
+      "doi": "10.1080/09658211.2025.2538713",
+      "firstPublicationDate": "2025-07-31"
+    },
+    {
+      "id": "39786856",
+      "source": "MED",
+      "title": "A randomized trial of virtual reality eye movement desensitization and reprocessing therapy for major depressive disorder with childhood trauma: A 3-month follow-up study.",
+      "doi": "10.1037/tra0001830",
+      "firstPublicationDate": "2025-01-09"
+    },
+    {
+      "id": "42179424",
+      "source": "MED",
+      "title": "Healing the Invisible Wounds: A Narrative Review of Trauma-Focused Interventions for War-Affected Children and Adolescents.",
+      "doi": "10.1007/s40653-025-00802-1",
+      "firstPublicationDate": "2025-12-22"
+    },
+    {
+      "id": "38721786",
+      "source": "MED",
+      "title": "Eye-movement desensitisation and reprocessing therapy (EMDR) to prevent transition to psychosis in people with an at-risk mental state (ARMS): mixed method feasibility study.",
+      "doi": "10.1192/bjo.2024.57",
+      "firstPublicationDate": "2024-05-09"
+    },
+    {
+      "id": "37830323",
+      "source": "MED",
+      "title": "[EMDR («Eye Movement Desensitization and Reprocessing») with children and adolescents].",
+      "doi": null,
+      "firstPublicationDate": "2023-10-01"
+    },
+    {
+      "id": "40676651",
+      "source": "MED",
+      "title": "EMpower Parents: Effectiveness of EMDR treatment for parental PTSD related to a child's medical condition in a randomized controlled trial.",
+      "doi": "10.1186/s40359-025-03043-x",
+      "firstPublicationDate": "2025-07-17"
+    },
+    {
+      "id": "40442977",
+      "source": "MED",
+      "title": "Effectiveness of treating post-traumatic stress disorder in patients with co-occurring substance use disorder with prolonged exposure, eye movement desensitization and reprocessing or imagery rescripting: A randomized controlled trial.",
+      "doi": "10.1111/add.70097",
+      "firstPublicationDate": "2025-05-29"
+    },
+    {
+      "id": "39045437",
+      "source": "MED",
+      "title": "EMDR and standard psychotherapy for paediatric cancer patients and their families: a pilot study.",
+      "doi": "10.3389/fpsyg.2024.1407985",
+      "firstPublicationDate": "2024-07-09"
+    },
+    {
+      "id": "41294917",
+      "source": "MED",
+      "title": "Reframing Dental Anxiety: Cognitive Behavioral Therapy and Its Role in Phobia Treatment-A Narrative Review.",
+      "doi": "10.3390/diseases13110377",
+      "firstPublicationDate": "2025-11-18"
+    },
+    {
+      "id": "41371190",
+      "source": "MED",
+      "title": "The exposure continuum model: A theoretical framework for understanding exposure across trauma-centered psychotherapies.",
+      "doi": "10.1016/j.janxdis.2025.103107",
+      "firstPublicationDate": "2025-12-08"
+    },
+    {
+      "id": "41985390",
+      "source": "MED",
+      "title": "Invisible traces after traffic accidents: Psychological and behavioral consequences of physical Injuries.",
+      "doi": "10.1016/j.injury.2026.113277",
+      "firstPublicationDate": "2026-04-09"
+    },
+    {
+      "id": "38686121",
+      "source": "MED",
+      "title": "Eye Movement Desensitisation and Reprocessing (EMDR) therapy for prolonged grief: theory, research, and practice.",
+      "doi": "10.3389/fpsyt.2024.1357390",
+      "firstPublicationDate": "2024-04-15"
+    },
+    {
+      "id": "39400854",
+      "source": "MED",
+      "title": "Digital transformation of mental health therapy by integrating digitalized cognitive behavioral therapy and eye movement desensitization and reprocessing.",
+      "doi": "10.1007/s11517-024-03209-6",
+      "firstPublicationDate": "2024-10-14"
+    },
+    {
+      "id": "39741323",
+      "source": "MED",
+      "title": "The study protocol of a double-blind randomized controlled trial of EMDR and multifocal transcranial current stimulation (MtCS) as augmentation strategy in patients with fibromyalgia.",
+      "doi": "10.1186/s13063-024-08708-3",
+      "firstPublicationDate": "2024-12-31"
+    },
+    {
+      "id": "39766411",
+      "source": "MED",
+      "title": "Remote Eye Movement Desensitization and Reprocessing Treatment of Long-COVID- and Post-COVID-Related Traumatic Disorders: An Innovative Approach.",
+      "doi": "10.3390/brainsci14121212",
+      "firstPublicationDate": "2024-11-29"
+    },
+    {
+      "id": "39403628",
+      "source": "MED",
+      "title": "Eye movement desensitization and reprocessing therapy as an adjunct to pain management during dental extraction in children - a randomized control trial.",
+      "doi": "10.17245/jdapm.2024.24.5.329",
+      "firstPublicationDate": "2024-09-26"
+    },
+    {
+      "id": "38455119",
+      "source": "MED",
+      "title": "Group eye movement desensitization and reprocessing (EMDR) in chronic pain patients.",
+      "doi": "10.3389/fpsyg.2024.1264807",
+      "firstPublicationDate": "2024-02-22"
+    },
+    {
+      "id": "38835548",
+      "source": "MED",
+      "title": "A randomized controlled trial of Eye Movement Desensitization and Reprocessing (EMDR) Therapy in the treatment of fibromyalgia.",
+      "doi": "10.3389/fpsyt.2024.1286118",
+      "firstPublicationDate": "2024-05-21"
+    },
+    {
+      "id": "41040945",
+      "source": "MED",
+      "title": "Therapeutic effects of eye movement desensitization and reprocessing for substance use disorders: a meta-analysis of addiction-related and emotional symptoms.",
+      "doi": "10.3389/fpsyt.2025.1660046",
+      "firstPublicationDate": "2025-09-17"
+    },
+    {
+      "id": "38359658",
+      "source": "MED",
+      "title": "The working mechanisms of imagery rescripting and eye movement desensitization and reprocessing: Findings from a randomised controlled trial.",
+      "doi": "10.1016/j.brat.2024.104492",
+      "firstPublicationDate": "2024-02-07"
+    },
+    {
+      "id": "41373396",
+      "source": "MED",
+      "title": "What Evidence Exists on the Effectiveness of Psychotherapy for Trauma-Related Distress? A Scoping Review.",
+      "doi": "10.3390/healthcare13233180",
+      "firstPublicationDate": "2025-12-04"
+    },
+    {
+      "id": "37903082",
+      "source": "MED",
+      "title": "Eye movement desensitisation and reprocessing as add-on treatment to enhanced cognitive behaviour therapy for patients with anorexia nervosa reporting childhood maltreatment: A quasi-experimental multicenter study.",
+      "doi": "10.1002/erv.3044",
+      "firstPublicationDate": "2023-10-30"
+    },
+    {
+      "id": "38873297",
+      "source": "MED",
+      "title": "Mental health and conflict: a pilot of an online eye movement desensitisation and reprocessing (EMDR) intervention for forcibly displaced Syrian women.",
+      "doi": "10.3389/fpubh.2024.1295033",
+      "firstPublicationDate": "2024-05-30"
+    },
+    {
+      "id": "41327248",
+      "source": "MED",
+      "title": "Comparing the effectiveness of online therapy versus in-person therapy in youth: protocol for a non-inferiority randomized controlled trial.",
+      "doi": "10.1186/s13063-025-09312-9",
+      "firstPublicationDate": "2025-12-01"
+    },
+    {
+      "id": "42605159",
+      "source": "MED",
+      "title": "Optimizing trauma-focused treatments to address guilt and shame: Clinical considerations and strategies.",
+      "doi": "10.1002/jts.70081",
+      "firstPublicationDate": "2026-08-16"
+    },
+    {
+      "id": "39430902",
+      "source": "MED",
+      "title": "Towards international collaboration of clinical research networks for EMDR: the EMDR Pain Network Germany.",
+      "doi": "10.3389/fpsyg.2024.1449150",
+      "firstPublicationDate": "2024-10-04"
+    },
+    {
+      "id": "38651013",
+      "source": "MED",
+      "title": "Visual Schema Displacement Therapy versus Eye Movement Desensitization and Reprocessing therapy versus waitlist in the treatment of post-traumatic stress disorder: results of a randomized clinical trial.",
+      "doi": "10.3389/fpsyt.2024.1377108",
+      "firstPublicationDate": "2024-03-26"
+    },
+    {
+      "id": "40402238",
+      "source": "MED",
+      "title": "[The Bidirectional relationship between chronic pain and traumatic life events : Mechanisms and therapeutic implications].",
+      "doi": "10.1007/s00482-025-00883-9",
+      "firstPublicationDate": "2025-05-22"
+    },
+    {
+      "id": "39148283",
+      "source": "MED",
+      "title": "Bolstering family therapy: Assimilating EMDR into ABFT in youth residential treatment.",
+      "doi": "10.1111/famp.13050",
+      "firstPublicationDate": "2024-08-15"
+    },
+    {
+      "id": "40778697",
+      "source": "MED",
+      "title": "Dissociative and traumatic experiences in people with eating disorders.",
+      "doi": "10.1097/yco.0000000000001032",
+      "firstPublicationDate": "2025-08-07"
+    },
+    {
+      "id": "41682785",
+      "source": "MED",
+      "title": "WADD-SEPD Consensus on Psychological Treatment of Dual Disorders II: Neurodevelopmental, Anxiety, Post-Traumatic Stress, Somatic Symptom, Eating, and Personality Disorders and Recommendations for Future Research.",
+      "doi": "10.3390/jcm15031105",
+      "firstPublicationDate": "2026-01-30"
+    },
+    {
+      "id": "42018562",
+      "source": "MED",
+      "title": "The journey to diagnosis and care of functional neurological disorder (FND).",
+      "doi": "10.1371/journal.pone.0328321",
+      "firstPublicationDate": "2026-04-22"
+    },
+    {
+      "id": "38803673",
+      "source": "MED",
+      "title": "Visual EMDR stimulation mitigates acute varied stress effects on morphology of hippocampal neurons in male Wistar rats.",
+      "doi": "10.3389/fpsyt.2024.1396550",
+      "firstPublicationDate": "2024-05-13"
+    },
+    {
+      "id": "38227442",
+      "source": "MED",
+      "title": "Eye movement desensitization and reprocessing (EMDR) therapy compared to usual treatment for posttraumatic stress disorder in adults with psychosis in forensic settings: Randomized controlled trial.",
+      "doi": "10.1037/tra0001643",
+      "firstPublicationDate": "2024-01-15"
+    },
+    {
+      "id": "38076504",
+      "source": "MED",
+      "title": "Management of anxiety using eye movement desensitization and reprocessing therapy in children undergoing extraction: a randomized controlled pilot study.",
+      "doi": "10.17245/jdapm.2023.23.6.347",
+      "firstPublicationDate": "2023-11-27"
+    },
+    {
+      "id": "37928599",
+      "source": "MED",
+      "title": "Therapist use of cognitive behavior therapy and eye movement desensitization and reprocessing components for the treatment of posttraumatic stress disorder in practice settings.",
+      "doi": "10.3389/fpsyg.2023.1158344",
+      "firstPublicationDate": "2023-10-19"
+    },
+    {
+      "id": "38372030",
+      "source": "MED",
+      "title": "Eye movement desensitization and reprocessing for depressed individuals with multiple sclerosis: A pilot study.",
+      "doi": "10.1177/13524585241230236",
+      "firstPublicationDate": "2024-02-19"
+    },
+    {
+      "id": "38385531",
+      "source": "MED",
+      "title": "The effect of eye movement desensitization and reprocessing on fibromyalgia: A multiple-baseline experimental case study across ten participants.",
+      "doi": "10.1080/09602011.2024.2314883",
+      "firstPublicationDate": "2024-02-22"
+    },
+    {
+      "id": "41320986",
+      "source": "MED",
+      "title": "Exploring the relationship between breastfeeding and psychological well-being after traumatic childbirth: a secondary analysis of the PERCEIVE study data.",
+      "doi": "10.1080/0167482x.2025.2588223",
+      "firstPublicationDate": "2025-11-30"
+    },
+    {
+      "id": "41527753",
+      "source": "MED",
+      "title": "Übersichtsarbeiten / Review Articles. Vom Pflaster bis zur Herz-OP – ein Einblick in die psychosoziale Versorgung von Kindern und Jugendlichen, die Opfer von (technologiegestützter) sexualisierter Gewalt geworden sind / From Plasters to Heart Surgery – An Insight into the Psychosocial Care of Children and Young People Who Have Been Victims of (Technology-Assisted) Sexualised Violence.",
+      "doi": "10.13109/prkk.2025.74.8.685",
+      "firstPublicationDate": "2025-12-01"
+    },
+    {
+      "id": "39731040",
+      "source": "MED",
+      "title": "The effect of eye movement desensitization on neurocognitive functioning compared to retrieval-only in PTSD patients: a randomized controlled trial.",
+      "doi": "10.1186/s12888-024-06420-9",
+      "firstPublicationDate": "2024-12-27"
+    },
+    {
+      "id": "37540081",
+      "source": "MED",
+      "title": "How safe is the treatment of pregnant women with fear of childbirth using eye movement desensitization and reprocessing therapy? Obstetric outcomes of a multi-center randomized controlled trial.",
+      "doi": "10.1111/aogs.14628",
+      "firstPublicationDate": "2023-08-04"
+    },
+    {
+      "id": "38488137",
+      "source": "MED",
+      "title": "Posttraumatic stress disorder in people with dementia: study protocol.",
+      "doi": "10.1080/20008066.2024.2320040",
+      "firstPublicationDate": "2024-03-15"
+    },
+    {
+      "id": "38631366",
+      "source": "MED",
+      "title": "EMDR Flash Technique in adolescents with depression: A twelve-week follow-up study.",
+      "doi": "10.1177/13591045241247701",
+      "firstPublicationDate": "2024-04-17"
+    },
+    {
+      "id": "39190681",
+      "source": "MED",
+      "title": "Effect of eye movement desensitization and reprocessing therapy in a patient with anxiety and burning mouth syndrome.",
+      "doi": "10.1111/ger.12738",
+      "firstPublicationDate": "2024-09-01"
+    },
+    {
+      "id": "37871138",
+      "source": "MED",
+      "title": "Feasibility and Efficacy of Addiction-Focused Eye Movement Desensitization Reprocessing in Adults with Substance Use Disorder.",
+      "doi": "10.1080/26408066.2023.2271927",
+      "firstPublicationDate": "2023-10-23"
+    },
+    {
+      "id": "40557187",
+      "source": "MED",
+      "title": "Improving Subjective Well-Being Through EMDR Therapy among PTSD Patients in Jordan: A Quasi-Experimental Study.",
+      "doi": "10.1177/24705470251352627",
+      "firstPublicationDate": "2025-01-01"
+    },
+    {
+      "id": "37860867",
+      "source": "MED",
+      "title": "Exploration of eye movement desensitization and reprocessing in treating posttraumatic stress-disorder in patients with acquired brain injury: a retrospective case series.",
+      "doi": "10.1080/20008066.2023.2264117",
+      "firstPublicationDate": "2023-10-20"
+    },
+    {
+      "id": "42888160",
+      "source": "MED",
+      "title": "The Integrative Temporal Identity Model (TIM-E) for complex psychotrauma: A randomized comparative pilot study.",
+      "doi": "10.1016/j.encep.2026.08.013",
+      "firstPublicationDate": "2026-10-16"
+    },
+    {
+      "id": "42687322",
+      "source": "MED",
+      "title": "Prioritising Psychological Prehabilitation Interventions for Cancer Surgery: An International Delphi Study.",
+      "doi": "10.1111/ans.70933",
+      "firstPublicationDate": "2026-09-02"
+    },
+    {
+      "id": "42368797",
+      "source": "MED",
+      "title": "The Smart Therapy Model: a Fourth Wave framework for assessment-driven, integrative multimodal biopsychosocial psychotherapy.",
+      "doi": "10.3389/fpsyt.2026.1748511",
+      "firstPublicationDate": "2026-06-11"
+    },
+    {
+      "id": "38010818",
+      "source": "MED",
+      "title": "Eye movement desensitisation and reprocessing (EMDR) therapy in prison and forensic services: a qualitative study of lived experience.",
+      "doi": "10.1080/20008066.2023.2282029",
+      "firstPublicationDate": "2023-11-27"
+    },
+    {
+      "id": "38812488",
+      "source": "MED",
+      "title": "Bolstering the adaptive information processing model: a narrative review.",
+      "doi": "10.3389/fpsyt.2024.1374274",
+      "firstPublicationDate": "2024-05-15"
+    },
+    {
+      "id": "38988736",
+      "source": "MED",
+      "title": "Randomized trial on the effects of an EMDR intervention on traumatic and obsessive symptoms during the COVID-19 quarantine: a psychometric study.",
+      "doi": "10.3389/fpsyt.2024.1369216",
+      "firstPublicationDate": "2024-06-26"
+    },
+    {
+      "id": "38056231",
+      "source": "MED",
+      "title": "A pragmatic randomized controlled exploratory trial of the effectiveness of Eye Movement Desensitization and Reprocessing therapy for psychotic disorder.",
+      "doi": "10.1016/j.jpsychires.2023.11.024",
+      "firstPublicationDate": "2023-11-18"
+    },
+    {
+      "id": "38626564",
+      "source": "MED",
+      "title": "Efficacy of EMDR for early intervention after a traumatic event: A systematic review and meta-analysis.",
+      "doi": "10.1016/j.jpsychires.2024.04.019",
+      "firstPublicationDate": "2024-04-11"
+    },
+    {
+      "id": "40561635",
+      "source": "MED",
+      "title": "The effect of eating disorders and trauma day treatment in women with eating disorders and childhood maltreatment history: A pilot study.",
+      "doi": "10.1016/j.chiabu.2025.107577",
+      "firstPublicationDate": "2025-06-24"
+    },
+    {
+      "id": "36437585",
+      "source": "MED",
+      "title": "A Paradigm Shift in Trauma Treatment: Converging Evidence for a Novel Adaptation of Eye Movement Desensitization and Reprocessing (EMDR).",
+      "doi": "10.1177/07067437221142283",
+      "firstPublicationDate": "2022-11-27"
+    },
+    {
+      "id": "39441540",
+      "source": "MED",
+      "title": "A case series report of 3 patients with borderline personality disorder who received eye movement desensitization and reprocessing therapy.",
+      "doi": "10.5664/jcsm.11428",
+      "firstPublicationDate": "2025-02-01"
+    },
+    {
+      "id": "39690473",
+      "source": "MED",
+      "title": "Neurobiology, psychotherapeutic interventions, and emerging therapies in addiction: a systematic review.",
+      "doi": "10.1080/10550887.2024.2440184",
+      "firstPublicationDate": "2024-12-17"
+    },
+    {
+      "id": "37328192",
+      "source": "MED",
+      "title": "Eye Movement Desensitization and Reprocessing Therapy in Adolescents With Panic Disorder: A Twelve-Week Follow-Up Study.",
+      "doi": "10.1177/13591045231184757",
+      "firstPublicationDate": "2023-06-16"
+    },
+    {
+      "id": "38049872",
+      "source": "MED",
+      "title": "The effect of eye movement desensitization and reprocessing (EMDR) on abdominal pain in patients with irritable bowel syndrome (IBS): a study protocol for a randomized controlled trial (EMDR4IBS).",
+      "doi": "10.1186/s13063-023-07784-1",
+      "firstPublicationDate": "2023-12-04"
+    },
+    {
+      "id": "39354623",
+      "source": "MED",
+      "title": "Secondary traumatization in refugee care-EMDR intervention for interpreters (STEIN): a study protocol for a quasi-randomized controlled trial.",
+      "doi": "10.1186/s13063-024-08480-4",
+      "firstPublicationDate": "2024-10-01"
+    },
+    {
+      "id": "36334027",
+      "source": "MED",
+      "title": "Using eye movement desensitisation and reprocessing (EMDR) with autistic individuals: A qualitative interview study with EMDR therapists.",
+      "doi": "10.1111/papt.12419",
+      "firstPublicationDate": "2022-08-11"
+    },
+    {
+      "id": "39363533",
+      "source": "MED",
+      "title": "Negative Flashforward Imagery in Adolescent Social Anxiety Disorder: A Pilot Study of Imagery Reports and a Short EMDR Intervention.",
+      "doi": "10.1002/cpp.3063",
+      "firstPublicationDate": "2024-09-01"
+    },
+    {
+      "id": "40222790",
+      "source": "MED",
+      "title": "The neuroscientific basis of post-traumatic stress disorder (PTSD): From brain to treatment.",
+      "doi": "10.1016/bs.pbr.2025.01.009",
+      "firstPublicationDate": "2025-03-03"
+    },
+    {
+      "id": "39244492",
+      "source": "MED",
+      "title": "Clinical considerations and endocrinological implications in the detransition process.",
+      "doi": "10.1016/j.beem.2024.101932",
+      "firstPublicationDate": "2024-08-31"
+    },
+    {
+      "id": "35136713",
+      "source": "MED",
+      "title": "Clinician and Patient Experience of Internet-Mediated Eye Movement Desensitisation and Reprocessing Therapy.",
+      "doi": "10.1007/s40737-022-00260-0",
+      "firstPublicationDate": "2022-02-03"
+    },
+    {
+      "id": "36627946",
+      "source": "MED",
+      "title": "Group Eye Movement Desensitization Reprocessing (EMDR) Psychotherapy and Recurrent Interpersonal Traumatic Episodes: A Pilot Follow-Up Study.",
+      "doi": "10.36131/cnfioritieditore20220605",
+      "firstPublicationDate": "2022-12-01"
+    },
+    {
+      "id": "39718007",
+      "source": "MED",
+      "title": "Psychotherapeutic Interventions Used in Psychological Treatment Studies With Syrian Refugees: A Systematic Review.",
+      "doi": "10.1177/15248380241306029",
+      "firstPublicationDate": "2024-12-24"
+    },
+    {
+      "id": "38199076",
+      "source": "MED",
+      "title": "The effect of cognitive behavioural therapy and eye movement desensitization and reprocessing techniques on infertile women: a randomized controlled trial.",
+      "doi": "10.1016/j.rbmo.2023.103612",
+      "firstPublicationDate": "2023-10-13"
+    },
+    {
+      "id": "36950855",
+      "source": "MED",
+      "title": "Post-traumatic stress disorder in doctors: Origins, approach and Eye Movement Desensitisation and Reprocessing therapy.",
+      "doi": "10.1177/10398562231166293",
+      "firstPublicationDate": "2023-03-23"
+    },
+    {
+      "id": "39908116",
+      "source": "MED",
+      "title": "Hypnosis applications to the treatment of posttraumatic stress disorder.",
+      "doi": "10.1080/00029157.2025.2459173",
+      "firstPublicationDate": "2025-02-05"
+    },
+    {
+      "id": "38032626",
+      "source": "MED",
+      "title": "The effect of eye movement desensitization and reprocessing-based online group counseling for university students: Psychological need satisfaction, psychological resilience, psychological well-being, and small 't' trauma.",
+      "doi": "10.1037/tra0001629",
+      "firstPublicationDate": "2023-11-30"
+    },
+    {
+      "id": "39263714",
+      "source": "MED",
+      "title": "Childhood-related PTSD: the role of cognitions in EMDR and imagery rescripting.",
+      "doi": "10.1080/20008066.2024.2397890",
+      "firstPublicationDate": "2024-09-12"
+    },
+    {
+      "id": "42858309",
+      "source": "MED",
+      "title": "Dismantling Psychological Interventions for Youth with Complex Trauma: A Systematic Review and Component Network Meta-Analysis.",
+      "doi": "10.1159/pps/aemag009",
+      "firstPublicationDate": "2026-10-10"
+    },
+    {
+      "id": "37439144",
+      "source": "MED",
+      "title": "Effect of early postpartum EMDR on reducing psychological complaints in women with a traumatic childbirth experience.",
+      "doi": "10.1080/0167482x.2023.2229010",
+      "firstPublicationDate": "2023-12-01"
+    },
+    {
+      "id": "35340633",
+      "source": "MED",
+      "title": "Eye movement desensitization and reprocessing as a therapy for rape victims: A case series.",
+      "doi": "10.1002/ccr3.5620",
+      "firstPublicationDate": "2022-03-20"
+    },
+    {
+      "id": "40769315",
+      "source": "MED",
+      "title": "Treatment of traumatic birth experience with postpartum early eye movement desensitization and reprocessing therapy: a randomized clinical trial.",
+      "doi": "10.1016/j.ajog.2025.07.051",
+      "firstPublicationDate": "2025-08-05"
+    },
+    {
+      "id": "36372972",
+      "source": "MED",
+      "title": "Eye movement desensitization and reprocessing for post-stroke post-traumatic stress disorder: Case report using the three-phase approach.",
+      "doi": "10.1080/02699052.2022.2140833",
+      "firstPublicationDate": "2022-11-13"
+    },
+    {
+      "id": "38974099",
+      "source": "MED",
+      "title": "Cost-effectiveness analysis of the treatment of posttraumatic stress disorder related to childhood abuse: comparison of phase-based treatment and direct trauma-focused treatment.",
+      "doi": "10.3389/fpsyg.2024.1310372",
+      "firstPublicationDate": "2024-06-21"
+    },
+    {
+      "id": "42703195",
+      "source": "MED",
+      "title": "Efficacy of the Adapted Integrative Group EMDR Therapy Protocol for Ongoing Traumatic Stress in Adolescents after a Traumatic Event.",
+      "doi": "10.1007/s40653-025-00808-9",
+      "firstPublicationDate": "2026-01-08"
+    },
+    {
+      "id": "39888651",
+      "source": "MED",
+      "title": "Effectiveness of psychological interventions in reducing post-traumatic stress among post-myocardial infarction patients: a systematic review and meta-analysis.",
+      "doi": "10.1093/eurjcn/zvae179",
+      "firstPublicationDate": "2025-04-01"
+    },
+    {
+      "id": "37270188",
+      "source": "MED",
+      "title": "MODIFI: protocol for randomised feasibility study of eye-movement desensitisation and reprocessing therapy (EMDR) for functional neurological disorder (FND).",
+      "doi": "10.1136/bmjopen-2023-073727",
+      "firstPublicationDate": "2023-06-02"
+    },
+    {
+      "id": "41640595",
+      "source": "MED",
+      "title": "B.R.E.A.S.T. Study protocol: Benefits of R-TEP EMDR protocol in Addressing diStress and Trauma in breast cancer patients.",
+      "doi": "10.3389/fpsyg.2025.1759849",
+      "firstPublicationDate": "2026-01-20"
+    },
+    {
+      "id": "41212824",
+      "source": "MED",
+      "title": "Concomitant Psychotropic Medication Is Associated with Reduced Outcomes of Trauma-Focused Psychotherapy for Post-Traumatic Stress Disorder.",
+      "doi": "10.1159/000549259",
+      "firstPublicationDate": "2025-11-10"
+    },
+    {
+      "id": "41186022",
+      "source": "MED",
+      "title": "Ketamine Assisted EMDR Therapy™ for PTSD: investigating the synergistic effects of pharmacotherapy and psychotherapy.",
+      "doi": "10.1080/20008066.2025.2572861",
+      "firstPublicationDate": "2025-11-04"
+    },
+    {
+      "id": "35911047",
+      "source": "MED",
+      "title": "A Biologically Inspired Neural Network Model to Gain Insight Into the Mechanisms of Post-Traumatic Stress Disorder and Eye Movement Desensitization and Reprocessing Therapy.",
+      "doi": "10.3389/fpsyg.2022.944838",
+      "firstPublicationDate": "2022-07-13"
+    },
+    {
+      "id": "36951777",
+      "source": "MED",
+      "title": "[Treatment of posttraumatic stress symptoms with EMDR in a patient with aphasia].",
+      "doi": null,
+      "firstPublicationDate": "2023-01-01"
+    },
+    {
+      "id": "40443803",
+      "source": "MED",
+      "title": "Eye movement patterns drive stress reduction during Japanese garden viewing.",
+      "doi": "10.3389/fnins.2025.1581080",
+      "firstPublicationDate": "2025-05-15"
+    },
+    {
+      "id": "38250261",
+      "source": "MED",
+      "title": "Addressing mental health need after COVID-19: a systematic review of remote EMDR therapy studies as an emerging option.",
+      "doi": "10.3389/fpsyt.2023.1336569",
+      "firstPublicationDate": "2024-01-04"
+    },
+    {
+      "id": "40833192",
+      "source": "MED",
+      "title": "Yoga as a pre-treatment of EMDR to treat childhood abuse-related PTSD: feasibility and pilot study.",
+      "doi": "10.1080/20008066.2025.2530917",
+      "firstPublicationDate": "2025-08-20"
+    },
+    {
+      "id": "38725291",
+      "source": "MED",
+      "title": "Eye movement intervention facilitates concurrent perception and memory processing.",
+      "doi": "10.1093/cercor/bhae190",
+      "firstPublicationDate": "2024-05-01"
+    },
+    {
+      "id": "36248508",
+      "source": "MED",
+      "title": "The effect of the online eye movement desensitization and reprocessing early intervention protocol (EMDR R-TEP) for the risk groups with post-traumatic stress symptoms during the COVID-19 pandemic.",
+      "doi": "10.3389/fpsyg.2022.935782",
+      "firstPublicationDate": "2022-09-29"
+    },
+    {
+      "id": "35543124",
+      "source": "MED",
+      "title": "Eye movement desensitization and reprocessing (EMDR) and mediative behavioral therapy for the treatment of suffocation related post-traumatic stress disorder (PTSD) in amyotrophic lateral sclerosis (ALS): A case report.",
+      "doi": "10.1017/s1478951522000542",
+      "firstPublicationDate": "2023-02-01"
+    },
+    {
+      "id": "37508982",
+      "source": "MED",
+      "title": "Auditory Personalization of EMDR Treatment to Relieve Trauma Effects: A Feasibility Study [EMDR+].",
+      "doi": "10.3390/brainsci13071050",
+      "firstPublicationDate": "2023-07-10"
+    },
+    {
+      "id": "38304286",
+      "source": "MED",
+      "title": "The AIP model as a theoretical framework for the treatment of personality disorders with EMDR therapy.",
+      "doi": "10.3389/fpsyt.2024.1331876",
+      "firstPublicationDate": "2024-01-17"
+    },
+    {
+      "id": "37074864",
+      "source": "MED",
+      "title": "A review of selected psychotherapies for PTSD, their efficacy and treatment guidelines in adults.",
+      "doi": "10.12740/pp/onlinefirst/157105",
+      "firstPublicationDate": "2024-04-30"
+    },
+    {
+      "id": "38656832",
+      "source": "MED",
+      "title": "Feasibility of EMDR toward Personality Functioning in Older Adults with PTSD.",
+      "doi": "10.1080/07317115.2024.2344793",
+      "firstPublicationDate": "2024-04-24"
+    },
+    {
+      "id": "36003099",
+      "source": "MED",
+      "title": "Supporting healthcare workers in times of COVID-19 with eye movement desensitization and reprocessing online: A pilot study.",
+      "doi": "10.3389/fpsyg.2022.964407",
+      "firstPublicationDate": "2022-08-08"
+    },
+    {
+      "id": "37570464",
+      "source": "MED",
+      "title": "Clinical Efficiency and Acceptability of EMDR and MOSAIC Therapy for PTSD.",
+      "doi": "10.3390/healthcare11152226",
+      "firstPublicationDate": "2023-08-07"
+    },
+    {
+      "id": "40250015",
+      "source": "MED",
+      "title": "Psychological interventions for adult posttraumatic stress disorder: A systematic review of published meta-analyses.",
+      "doi": "10.1016/j.janxdis.2025.103017",
+      "firstPublicationDate": "2025-04-08"
+    },
+    {
+      "id": "38274435",
+      "source": "MED",
+      "title": "EMDR treatment for people with intellectual disabilities: a systematic review about difficulties and adaptations.",
+      "doi": "10.3389/fpsyt.2023.1328310",
+      "firstPublicationDate": "2024-01-11"
+    },
+    {
+      "id": "37882423",
+      "source": "MED",
+      "title": "Efficacy of EMDR in Post-Traumatic Stress Disorder: A Systematic Review and Meta-analysis of Randomized Clinical Trials.",
+      "doi": "10.7334/psicothema2022.309",
+      "firstPublicationDate": "2023-11-01"
+    },
+    {
+      "id": "39116885",
+      "source": "MED",
+      "title": "Targeted memory reactivation to augment treatment in post-traumatic stress disorder.",
+      "doi": "10.1016/j.cub.2024.07.019",
+      "firstPublicationDate": "2024-08-07"
+    },
+    {
+      "id": "38435978",
+      "source": "MED",
+      "title": "Randomized controlled trial investigating web-based, therapist delivered eye movement desensitization and reprocessing for adults with suicidal ideation.",
+      "doi": "10.3389/fpsyt.2024.1361086",
+      "firstPublicationDate": "2024-02-16"
+    },
+    {
+      "id": "42465150",
+      "source": "MED",
+      "title": "Post-traumatic Stress Disorder in Individuals With Autism Spectrum Disorder: A Literature Review.",
+      "doi": "10.7759/cureus.110949",
+      "firstPublicationDate": "2026-06-16"
+    },
+    {
+      "id": "38090696",
+      "source": "MED",
+      "title": "\"Without it, I am not sure I would still be here\": a mixed methods service evaluation for online EMDR trauma therapy in a primary care network in England.",
+      "doi": "10.3389/fpsyt.2023.1301540",
+      "firstPublicationDate": "2023-11-28"
+    },
+    {
+      "id": "42780364",
+      "source": "MED",
+      "title": "Intensive trauma-focused treatment for PTSD and Complex PTSD in a public clinic: a feasibility study.",
+      "doi": "10.3389/fpsyg.2026.1869412",
+      "firstPublicationDate": "2026-09-09"
+    },
+    {
+      "id": "36033012",
+      "source": "MED",
+      "title": "Effectiveness of treating depression with eye movement desensitization and reprocessing among inpatients-A follow-up study over 12 months.",
+      "doi": "10.3389/fpsyg.2022.937204",
+      "firstPublicationDate": "2022-08-10"
+    },
+    {
+      "id": "38286705",
+      "source": "MED",
+      "title": "Mixed-methods randomised study exploring the feasibility and acceptability of eye-movement desensitisation and reprocessing for improving the mental health of traumatised survivors of intensive care following hospital discharge: protocol.",
+      "doi": "10.1136/bmjopen-2023-081969",
+      "firstPublicationDate": "2024-01-29"
+    },
+    {
+      "id": "38111800",
+      "source": "MED",
+      "title": "Neurotechnological solutions for post-traumatic stress disorder: A perspective review and concept proposal.",
+      "doi": "10.1049/htl2.12055",
+      "firstPublicationDate": "2023-11-28"
+    },
+    {
+      "id": "37058521",
+      "source": "MED",
+      "title": "Trauma-focused treatment of a client with Complex PTSD and comorbid pathology using EMDR therapy.",
+      "doi": "10.1002/jclp.23521",
+      "firstPublicationDate": "2023-04-14"
+    },
+    {
+      "id": "39342627",
+      "source": "MED",
+      "title": "[Post-traumatic stress disorder in refugees and therapeutic interventions based on cognitive behavioral approach: A systematic review].",
+      "doi": "10.22365/jpsych.2024.011",
+      "firstPublicationDate": "2024-09-18"
+    },
+    {
+      "id": "38173121",
+      "source": "MED",
+      "title": "EMDR &lt;i&gt;v.&lt;/i&gt; other psychological therapies for PTSD: a systematic review and individual participant data meta-analysis.",
+      "doi": "10.1017/s0033291723003446",
+      "firstPublicationDate": "2024-01-04"
+    },
+    {
+      "id": "41824495",
+      "source": "MED",
+      "title": "Reducing PTSD symptoms through unconscious intervention.",
+      "doi": "10.1073/pnas.2521088123",
+      "firstPublicationDate": "2026-03-13"
+    },
+    {
+      "id": "38281599",
+      "source": "MED",
+      "title": "Restoring bottom-up communication in brain-heart interplay after trauma-focused psychotherapy in breast cancer patients with post-traumatic stress disorder.",
+      "doi": "10.1016/j.jad.2024.01.172",
+      "firstPublicationDate": "2024-01-27"
+    },
+    {
+      "id": "36836434",
+      "source": "MED",
+      "title": "Eye Movement Desensitization and Reprocessing (EMDR) as a Possible Evidence-Based Rehabilitation Treatment Option for a Patient with ADHD and History of Adverse Childhood Experiences: A Case Report Study.",
+      "doi": "10.3390/jpm13020200",
+      "firstPublicationDate": "2023-01-23"
+    },
+    {
+      "id": "36548084",
+      "source": "MED",
+      "title": "Early intervention for residential out-of-home care staff using eye movement desensitization and reprocessing (EMDR).",
+      "doi": "10.1037/tra0001418",
+      "firstPublicationDate": "2022-12-22"
+    },
+    {
+      "id": "40427930",
+      "source": "MED",
+      "title": "Using the Trauma Reintegration Process to Treat Posttraumatic Stress Disorder with Dissociation and Somatic Features: A Case Series.",
+      "doi": "10.3390/healthcare13101092",
+      "firstPublicationDate": "2025-05-08"
+    },
+    {
+      "id": "34763697",
+      "source": "MED",
+      "title": "An evaluation of eye movement desensitization and reprocessing therapy delivered remotely during the Covid-19 pandemic.",
+      "doi": "10.1186/s12888-021-03571-x",
+      "firstPublicationDate": "2021-11-11"
+    },
+    {
+      "id": "40190317",
+      "source": "MED",
+      "title": "Neuroimaging in post-traumatic stress disorder: a narrative review.",
+      "doi": "10.5114/aoms/188377",
+      "firstPublicationDate": "2024-06-07"
+    },
+    {
+      "id": "42559893",
+      "source": "MED",
+      "title": "[Stellatum ganglion block and post-traumatic stress disorder].",
+      "doi": "10.61409/v05250394",
+      "firstPublicationDate": "2026-07-13"
+    },
+    {
+      "id": "35052299",
+      "source": "MED",
+      "title": "An Efficient System for Eye Movement Desensitization and Reprocessing (EMDR) Therapy: A Pilot Study.",
+      "doi": "10.3390/healthcare10010133",
+      "firstPublicationDate": "2022-01-10"
+    },
+    {
+      "id": "40166400",
+      "source": "MED",
+      "title": "The therapeutic relationship in EMDR therapy-A survey.",
+      "doi": "10.3389/fpsyg.2025.1519665",
+      "firstPublicationDate": "2025-03-17"
+    },
+    {
+      "id": "36312101",
+      "source": "MED",
+      "title": "The psychological impact of the COVID emergency on Italian nursing homes staff and the effectiveness of eye movement desensitization and reprocessing.",
+      "doi": "10.3389/fpsyg.2022.969028",
+      "firstPublicationDate": "2022-10-12"
+    },
+    {
+      "id": "37727746",
+      "source": "MED",
+      "title": "The integrative process promoted by EMDR in dissociative disorders: neurobiological mechanisms, psychometric tools, and intervention efficacy on the psychological impact of the COVID-19 pandemic.",
+      "doi": "10.3389/fpsyg.2023.1164527",
+      "firstPublicationDate": "2023-09-01"
+    },
+    {
+      "id": "38571995",
+      "source": "MED",
+      "title": "AIP-based Professional Intervention Program for Adversity for trauma and stress reduction in groups: a pilot study in Ethiopia.",
+      "doi": "10.3389/fpsyt.2024.1351713",
+      "firstPublicationDate": "2024-03-20"
+    },
+    {
+      "id": "38188059",
+      "source": "MED",
+      "title": "Case report: Brief, intensive EMDR therapy for borderline personality disorder: results of two case studies with one year follow-up.",
+      "doi": "10.3389/fpsyt.2023.1283145",
+      "firstPublicationDate": "2023-12-15"
+    },
+    {
+      "id": "38698653",
+      "source": "MED",
+      "title": "Eye Movement Desensitization Protocol for Urge to Reduce Scratching Behaviour in Patients with Prurigo Nodularis: A Pilot Study.",
+      "doi": "10.2340/actadv.v104.39945",
+      "firstPublicationDate": "2024-05-02"
+    },
+    {
+      "id": "38061553",
+      "source": "MED",
+      "title": "EMDR therapy vs. supportive therapy as adjunctive treatment in trauma-exposed bipolar patients: A randomised controlled trial.",
+      "doi": "10.1016/j.sjpmh.2023.11.005",
+      "firstPublicationDate": "2023-12-05"
+    },
+    {
+      "id": "37171869",
+      "source": "MED",
+      "title": "Clinical Assessment of Eye Movement Desensitization and Reprocessing in Memory Distress: Protocol for a Double-Blinded Randomized Controlled Trial.",
+      "doi": "10.2196/38552",
+      "firstPublicationDate": "2023-05-12"
+    },
+    {
+      "id": "36941688",
+      "source": "MED",
+      "title": "Eye movement desensitization and processing for adolescents with major depressive disorder: study protocol for a multi-site randomized controlled trial.",
+      "doi": "10.1186/s13063-023-07226-y",
+      "firstPublicationDate": "2023-03-20"
+    },
+    {
+      "id": "38629403",
+      "source": "MED",
+      "title": "Skills training followed by either EMDR or narrative therapy for posttraumatic stress disorder in adult survivors of childhood abuse: a randomized controlled trial.",
+      "doi": "10.1080/20008066.2024.2332104",
+      "firstPublicationDate": "2024-04-17"
+    },
+    {
+      "id": "38025421",
+      "source": "MED",
+      "title": "The effectiveness, efficiency, and acceptability of EMDR vs. EMDR 2.0 vs. the Flash technique in the treatment of patients with PTSD: study protocol for the ENHANCE randomized controlled trial.",
+      "doi": "10.3389/fpsyt.2023.1278052",
+      "firstPublicationDate": "2023-11-09"
+    },
+    {
+      "id": "37744073",
+      "source": "MED",
+      "title": "A randomised pilot feasibility study of eye movement desensitisation and reprocessing recent traumatic episode protocol, to improve psychological recovery following intensive care admission for COVID-19.",
+      "doi": "10.1177/17511437221136828",
+      "firstPublicationDate": "2022-11-19"
+    },
+    {
+      "id": "42676797",
+      "source": "MED",
+      "title": "Advances in time-sensitive assessment and intervention for acute stress reaction.",
+      "doi": "10.3389/fpsyg.2026.1836560",
+      "firstPublicationDate": "2026-08-17"
+    },
+    {
+      "id": "36873194",
+      "source": "MED",
+      "title": "Eye Movement Desensitization and Reprocessing in adolescents with autism; Efficacy on ASD symptoms and stress.",
+      "doi": "10.3389/fpsyt.2023.981975",
+      "firstPublicationDate": "2023-02-15"
+    },
+    {
+      "id": "38868491",
+      "source": "MED",
+      "title": "Psychological intervention in women victims of childhood sexual abuse: a randomized controlled clinical trial comparing EMDR psychotherapy and trauma-focused cognitive behavioral therapy.",
+      "doi": "10.3389/fpsyt.2024.1360388",
+      "firstPublicationDate": "2024-05-29"
+    },
+    {
+      "id": "38918741",
+      "source": "MED",
+      "title": "A network meta-analysis of psychological interventions for children and adolescents after natural and man-made disasters.",
+      "doi": "10.1186/s12888-024-05924-8",
+      "firstPublicationDate": "2024-06-25"
+    },
+    {
+      "id": "35064977",
+      "source": "MED",
+      "title": "Eye movement desensitization and reprocessing for the treatment and early intervention of trauma among first responders: A systematic review.",
+      "doi": "10.1002/jts.22792",
+      "firstPublicationDate": "2022-01-22"
+    },
+    {
+      "id": "39810662",
+      "source": "MED",
+      "title": "Post-traumatic stress disorder: evolving conceptualization and evidence, and future research directions.",
+      "doi": "10.1002/wps.21269",
+      "firstPublicationDate": "2025-02-01"
+    },
+    {
+      "id": "36186313",
+      "source": "MED",
+      "title": "Efficacy of virtual reality exposure therapy and eye movement desensitization and reprocessing therapy on symptoms of acrophobia and anxiety sensitivity in adolescent girls: A randomized controlled trial.",
+      "doi": "10.3389/fpsyg.2022.919148",
+      "firstPublicationDate": "2022-09-15"
+    },
+    {
+      "id": "34675854",
+      "source": "MED",
+      "title": "Therapists' Experiences With the Effectiveness and Feasibility of Videoconference-Based Eye Movement Desensitization and Reprocessing.",
+      "doi": "10.3389/fpsyg.2021.748712",
+      "firstPublicationDate": "2021-10-05"
+    },
+    {
+      "id": "39329885",
+      "source": "MED",
+      "title": "Beyond Pharmacology: A Narrative Review of Alternative Therapies for Anxiety Disorders.",
+      "doi": "10.3390/diseases12090216",
+      "firstPublicationDate": "2024-09-16"
+    },
+    {
+      "id": "40160681",
+      "source": "MED",
+      "title": "A superior colliculus-originating circuit prevents cocaine reinstatement via VR-based eye movement desensitization treatment.",
+      "doi": "10.1093/nsr/nwae467",
+      "firstPublicationDate": "2024-12-26"
+    },
+    {
+      "id": "42466860",
+      "source": "MED",
+      "title": "[Refugee children; the recognition and treatment of psychotrauma].",
+      "doi": null,
+      "firstPublicationDate": "2026-07-14"
+    },
+    {
+      "id": "40413071",
+      "source": "MED",
+      "title": "Nonpharmacological treatments of Post-Traumatic Stress Disorder (PTSD) among children and adolescents: A scoping review.",
+      "doi": "10.1016/j.encep.2025.02.006",
+      "firstPublicationDate": "2025-05-23"
+    },
+    {
+      "id": "36645926",
+      "source": "MED",
+      "title": "Adding EMDR for PTSD at the onset of treatment of borderline personality disorder: A pilot study.",
+      "doi": "10.1016/j.jbtep.2023.101834",
+      "firstPublicationDate": "2023-01-11"
+    },
+    {
+      "id": "36918861",
+      "source": "MED",
+      "title": "Eye movement desensitization and reprocessing (EMDR) therapy or supportive counseling prior to exposure therapy in patients with panic disorder: study protocol for a multicenter randomized controlled trial (IMPROVE).",
+      "doi": "10.1186/s12888-022-04320-4",
+      "firstPublicationDate": "2023-03-14"
+    },
+    {
+      "id": "37144665",
+      "source": "MED",
+      "title": "Efficacy of eye movement desensitization and reprocessing therapy for fear of cancer recurrence among cancer survivors: a randomized single-case experimental design.",
+      "doi": "10.1080/20008066.2023.2203427",
+      "firstPublicationDate": "2023-01-01"
+    },
+    {
+      "id": "37116264",
+      "source": "MED",
+      "title": "EMDR versus waiting list in individuals at clinical high risk for psychosis with post-traumatic stress symptoms: A randomized controlled trial.",
+      "doi": "10.1016/j.schres.2023.04.003",
+      "firstPublicationDate": "2023-04-26"
+    },
+    {
+      "id": "38799494",
+      "source": "MED",
+      "title": "Online Eye Movement Desensitization and Reprocessing for the Treatment of Post-Traumatic Stress Disorder.",
+      "doi": "10.5152/alphapsychiatry.2024.231411",
+      "firstPublicationDate": "2024-01-01"
+    },
+    {
+      "id": "34487289",
+      "source": "MED",
+      "title": "Eye Movement Desensitization and Reprocessing in Young Children (Ages 4-8) with Posttraumatic Stress Disorder: A Multiple-Baseline Evaluation.",
+      "doi": "10.1007/s10578-021-01237-z",
+      "firstPublicationDate": "2021-09-06"
+    },
+    {
+      "id": "40350801",
+      "source": "MED",
+      "title": "In a UK sample, EMDR and other trauma therapists indicate beliefs in unconscious repression and dissociative amnesia.",
+      "doi": "10.1080/09658211.2025.2498929",
+      "firstPublicationDate": "2025-05-11"
+    },
+    {
+      "id": "35384753",
+      "source": "MED",
+      "title": "Using EMDR with autistic individuals: A Delphi survey with EMDR therapists.",
+      "doi": "10.1177/13623613221080254",
+      "firstPublicationDate": "2022-04-06"
+    },
+    {
+      "id": "40786714",
+      "source": "MED",
+      "title": "The Role of Dissociation in Surviving Severe, Systemic Bullying:: A Reflective Narrative for EMDR Therapists (and Trauma-Responsive Clinicians Serving LGBTQ+ Folx).",
+      "doi": "10.32481/djph.2025.07.14",
+      "firstPublicationDate": "2025-07-31"
+    },
+    {
+      "id": "39056559",
+      "source": "MED",
+      "title": "Eye movements desensitization and reprocessing with finger movements and Elite mobile health software on guilt feeling of parents of children with autism: A randomized trial.",
+      "doi": "10.1111/jpm.13088",
+      "firstPublicationDate": "2024-07-26"
+    },
+    {
+      "id": "36520374",
+      "source": "MED",
+      "title": "[Observations on the influence of trauma-centered psychotherapy with EMDR therapy on somatic comorbidities using the example of Hashimoto's autoimmune thyroiditis].",
+      "doi": "10.1007/s15006-022-2194-z",
+      "firstPublicationDate": "2022-12-01"
+    },
+    {
+      "id": "37048033",
+      "source": "MED",
+      "title": "Relevance and Feasibility of Group Traumatic Episode Protocol Delivered to Migrants: A Pilot Field Study.",
+      "doi": "10.3390/ijerph20075419",
+      "firstPublicationDate": "2023-04-06"
+    },
+    {
+      "id": "36160528",
+      "source": "MED",
+      "title": "Post-traumatic stress disorder among healthcare workers during the COVID-19 pandemic in Italy: Effectiveness of an eye movement desensitization and reprocessing intervention protocol.",
+      "doi": "10.3389/fpsyg.2022.964334",
+      "firstPublicationDate": "2022-09-08"
+    },
+    {
+      "id": "36656741",
+      "source": "MED",
+      "title": "Eye movement desensitization reprocessing as a treatment for PTSD in conflict-affected areas.",
+      "doi": "10.1037/tra0001430",
+      "firstPublicationDate": "2023-01-19"
+    },
+    {
+      "id": "35365056",
+      "source": "MED",
+      "title": "Short-term eye movement desensitization and reprocessing (EMDR) therapy to treat children with posttraumatic stress symptoms after single trauma: A case series.",
+      "doi": "10.1177/13591045221082395",
+      "firstPublicationDate": "2022-04-01"
+    },
+    {
+      "id": "37268421",
+      "source": "MED",
+      "title": "2MDR, a Microcomputer-Controlled Visual Stimulation Device for Psychotherapy-Like Treatments of Mice.",
+      "doi": "10.1523/eneuro.0394-22.2023",
+      "firstPublicationDate": "2023-06-02"
+    },
+    {
+      "id": "35133887",
+      "source": "MED",
+      "title": "Eye Movement Desensitization and Reprocessing in a Primary Care Setting: Assessing Utility and Comparing Efficacy of Virtual Versus In-Person Methods.",
+      "doi": "10.1089/tmj.2021.0454",
+      "firstPublicationDate": "2022-02-08"
+    },
+    {
+      "id": "39955464",
+      "source": "MED",
+      "title": "MDMA-Assisted Therapy for Post-Traumatic Stress Disorder: Regulatory Challenges and a Path Forward.",
+      "doi": "10.1007/s40263-025-01162-y",
+      "firstPublicationDate": "2025-02-15"
+    },
+    {
+      "id": "38711872",
+      "source": "MED",
+      "title": "Case report: Intensive online trauma treatment combining prolonged exposure and EMDR 2.0 in a patient with severe and chronic PTSD.",
+      "doi": "10.3389/fpsyt.2024.1370358",
+      "firstPublicationDate": "2024-04-22"
+    },
+    {
+      "id": "38362742",
+      "source": "MED",
+      "title": "DNA methylation changes in association with trauma-focused psychotherapy efficacy in treatment-resistant depression patients: a prospective longitudinal study.",
+      "doi": "10.1080/20008066.2024.2314913",
+      "firstPublicationDate": "2024-02-16"
+    },
+    {
+      "id": "37063579",
+      "source": "MED",
+      "title": "Group early intervention eye movement desensitization and reprocessing therapy as a video-conference psychotherapy with frontline/emergency workers in response to the COVID-19 pandemic in the treatment of post-traumatic stress disorder and moral injury-An RCT study.",
+      "doi": "10.3389/fpsyg.2023.1129912",
+      "firstPublicationDate": "2023-03-23"
+    },
+    {
+      "id": "36932467",
+      "source": "MED",
+      "title": "Treatment of post-traumatic stress disorder in people with dementia: a structured literature review.",
+      "doi": "10.1111/psyg.12951",
+      "firstPublicationDate": "2023-03-17"
+    },
+    {
+      "id": "35288958",
+      "source": "MED",
+      "title": "Thematic analysis of therapists' experiences integrating EMDR and EFT in couple therapy: Theoretical and clinical complementarity, and benefits to client couples.",
+      "doi": "10.1111/jmft.12587",
+      "firstPublicationDate": "2022-03-14"
+    },
+    {
+      "id": "37078854",
+      "source": "MED",
+      "title": "Intraindividual variability and emotional change as predictors of sudden gains in imagery rescripting and EMDR for PTSD in adult survivors of childhood abuse.",
+      "doi": "10.1002/cpp.2855",
+      "firstPublicationDate": "2023-04-20"
+    },
+    {
+      "id": "40958755",
+      "source": "MED",
+      "title": "EMDR-therapy for child-related PTSD in parents of adolescents with autism spectrum disorder and severe emotional dysregulation: a multiple baseline evaluation.",
+      "doi": "10.1080/20008066.2025.2555792",
+      "firstPublicationDate": "2025-09-17"
+    },
+    {
+      "id": "42411718",
+      "source": "MED",
+      "title": "Peer-delivered combined EMD and imagery rescripting for traumatized Chinese university students: a RCT.",
+      "doi": "10.1080/20008066.2026.2686577",
+      "firstPublicationDate": "2026-07-07"
+    },
+    {
+      "id": "36451139",
+      "source": "MED",
+      "title": "\"When I am breathless now, I don't have the fear that's linked to it\": a case series on the potential of EMDR to break the dyspnea-anxiety cycle in COPD.",
+      "doi": "10.1186/s12890-022-02250-1",
+      "firstPublicationDate": "2022-12-01"
+    },
+    {
+      "id": "35241174",
+      "source": "MED",
+      "title": "The efficacy of eye movement desensitization and reprocessing in reducing anxiety among female university students with primary dysmenorrhea.",
+      "doi": "10.1186/s40359-022-00757-0",
+      "firstPublicationDate": "2022-03-03"
+    },
+    {
+      "id": "37371249",
+      "source": "MED",
+      "title": "A Scoping Review of Trauma-Informed Pediatric Interventions in Response to Natural and Biologic Disasters.",
+      "doi": "10.3390/children10061017",
+      "firstPublicationDate": "2023-06-05"
+    },
+    {
+      "id": "40955837",
+      "source": "MED",
+      "title": "8-day intensive treatment programme for PTSD and complex PTSD vs treatment as usual: a clinical trial.",
+      "doi": "10.1080/20008066.2025.2553422",
+      "firstPublicationDate": "2025-09-16"
+    },
+    {
+      "id": "35805348",
+      "source": "MED",
+      "title": "Randomized Trial on the Effects of a Group EMDR Intervention on Narrative Complexity and Specificity of Autobiographical Memories: A Path Analytic and Supervised Machine-Learning Study.",
+      "doi": "10.3390/ijerph19137684",
+      "firstPublicationDate": "2022-06-23"
+    },
+    {
+      "id": "38124905",
+      "source": "MED",
+      "title": "Retracted: Effectiveness of Cognitive Behavior Therapy Combined with Eye Movement Desensitization and Reprocessing on Psychological Problems and Life Quality in Patients' Postfacial Trauma.",
+      "doi": "10.1155/2023/9891078",
+      "firstPublicationDate": "2023-12-13"
+    },
+    {
+      "id": "39630422",
+      "source": "MED",
+      "title": "Psychological Interventions for Pediatric Posttraumatic Stress Disorder: A Systematic Review and Network Meta-Analysis.",
+      "doi": "10.1001/jamapsychiatry.2024.3908",
+      "firstPublicationDate": "2025-02-01"
+    },
+    {
+      "id": "36455886",
+      "source": "MED",
+      "title": "The feasibility of eye movement desensitization and reprocessing (EMDR) for older adults with posttraumatic stress disorder (PTSD) and comorbid psychiatric and somatic disorders.",
+      "doi": "10.1037/tra0001402",
+      "firstPublicationDate": "2022-12-01"
+    },
+    {
+      "id": "37599872",
+      "source": "MED",
+      "title": "Predictors of treatment dropout in patients with posttraumatic stress disorder due to childhood abuse.",
+      "doi": "10.3389/fpsyt.2023.1194669",
+      "firstPublicationDate": "2023-08-04"
+    },
+    {
+      "id": "34353136",
+      "source": "MED",
+      "title": "Eye movement desensitization and reprocessing treatment in functional neurological symptom disorder with psychogenic nonepileptic seizures: A study of two cases.",
+      "doi": "10.1177/13591045211037276",
+      "firstPublicationDate": "2021-08-05"
+    },
+    {
+      "id": "35002841",
+      "source": "MED",
+      "title": "The Effects of the Flash Technique Compared to Those of an Abbreviated Eye Movement Desensitization and Reprocessing Therapy Protocol on the Emotionality and Vividness of Aversive Memories.",
+      "doi": "10.3389/fpsyg.2021.741163",
+      "firstPublicationDate": "2021-12-23"
+    },
+    {
+      "id": "36118833",
+      "source": "MED",
+      "title": "Effectiveness of Cognitive Behavior Therapy Combined with Eye Movement Desensitization and Reprocessing on Psychological Problems and Life Quality in Patients' Postfacial Trauma.",
+      "doi": "10.1155/2022/7822847",
+      "firstPublicationDate": "2022-09-07"
+    },
+    {
+      "id": "40250156",
+      "source": "MED",
+      "title": "Adapting the group traumatic episode protocol approach as a paraprofessional-led early intervention for law enforcement personnel.",
+      "doi": "10.1016/j.comppsych.2025.152596",
+      "firstPublicationDate": "2025-04-11"
+    },
+    {
+      "id": "41546447",
+      "source": "MED",
+      "title": "Childbirth Related Post-Traumatic Stress Disorder and Childbirth Trauma: A Systematic Review of Available Primary Antenatal Intervention.",
+      "doi": "10.1111/birt.70053",
+      "firstPublicationDate": "2026-01-16"
+    },
+    {
+      "id": "35916065",
+      "source": "MED",
+      "title": "Psychological treatment of traumatic memories in COVID-19 survivors.",
+      "doi": "10.1002/cpp.2771",
+      "firstPublicationDate": "2022-08-29"
+    },
+    {
+      "id": "39446983",
+      "source": "MED",
+      "title": "The effectiveness of a remote intensive trauma-focused treatment programme for PTSD.",
+      "doi": "10.1080/20008066.2024.2408960",
+      "firstPublicationDate": "2024-10-24"
+    },
+    {
+      "id": "41190305",
+      "source": "MED",
+      "title": "Psychosocial interventions for anxiety disorders in adults: evidence mapping and guideline appraisal.",
+      "doi": "10.3389/fpsyt.2025.1677705",
+      "firstPublicationDate": "2025-10-20"
+    },
+    {
+      "id": "33946179",
+      "source": "MED",
+      "title": "COVID-19, Isolation, Quarantine: On the Efficacy of Internet-Based Eye Movement Desensitization and Reprocessing (EMDR) and Cognitive-Behavioral Therapy (CBT) for Ongoing Trauma.",
+      "doi": "10.3390/brainsci11050579",
+      "firstPublicationDate": "2021-04-30"
+    },
+    {
+      "id": "40438767",
+      "source": "MED",
+      "title": "Editorial: Present and future of EMDR in clinical psychology and psychotherapy, volume III.",
+      "doi": "10.3389/fpsyg.2025.1581456",
+      "firstPublicationDate": "2025-05-14"
+    },
+    {
+      "id": "35143219",
+      "source": "MED",
+      "title": "A pragmatic randomized comparison of intensive EMDR and intensive PC for victims of crime.",
+      "doi": "10.1037/tra0001176",
+      "firstPublicationDate": "2022-02-10"
+    },
+    {
+      "id": "38790574",
+      "source": "MED",
+      "title": "Clinical Efficacy of Psychotherapeutic Interventions for Post-Traumatic Stress Disorder in Children and Adolescents: A Systematic Review and Analysis.",
+      "doi": "10.3390/children11050579",
+      "firstPublicationDate": "2024-05-11"
+    },
+    {
+      "id": "37851579",
+      "source": "MED",
+      "title": "Predicting optimal treatment outcomes in phase-based treatment and direct trauma-focused treatment among patients with posttraumatic stress disorder stemming from childhood abuse.",
+      "doi": "10.1002/jts.22980",
+      "firstPublicationDate": "2023-10-18"
+    },
+    {
+      "id": "36320044",
+      "source": "MED",
+      "title": "Can working memory account for EMDR efficacy in PTSD?",
+      "doi": "10.1186/s40359-022-00951-0",
+      "firstPublicationDate": "2022-11-01"
+    },
+    {
+      "id": "34421681",
+      "source": "MED",
+      "title": "The Effectiveness of Eye Movement Desensitization and Reprocessing Toward Adults With Major Depressive Disorder: A Meta-Analysis of Randomized Controlled Trials.",
+      "doi": "10.3389/fpsyt.2021.700458",
+      "firstPublicationDate": "2021-08-06"
+    },
+    {
+      "id": "41614103",
+      "source": "MED",
+      "title": "Trauma treatment outcomes for PTSD in refugee and asylum-seeking minors with uncertain residence status: a systematic review.",
+      "doi": "10.3389/fpsyt.2025.1715650",
+      "firstPublicationDate": "2026-01-14"
+    },
+    {
+      "id": "34531963",
+      "source": "MED",
+      "title": "Early intervention with eye movement desensitization and reprocessing (EMDR) therapy to reduce the severity of post-traumatic stress symptoms in recent rape victims: a randomized controlled trial.",
+      "doi": "10.1080/20008198.2021.1943188",
+      "firstPublicationDate": "2021-09-09"
+    },
+    {
+      "id": "36882382",
+      "source": "MED",
+      "title": "Asylee perspectives on psychotherapies for posttraumatic stress.",
+      "doi": "10.1002/jts.22917",
+      "firstPublicationDate": "2023-03-07"
+    },
+    {
+      "id": "34734835",
+      "source": "MED",
+      "title": "Web-Based Eye Movement Desensitization and Reprocessing for Adults With Suicidal Ideation: Protocol for a Randomized Controlled Trial.",
+      "doi": "10.2196/30711",
+      "firstPublicationDate": "2021-11-04"
+    },
+    {
+      "id": "33889310",
+      "source": "MED",
+      "title": "Eye movement desensitization and reprocessing for depression: a systematic review and meta-analysis.",
+      "doi": "10.1080/20008198.2021.1894736",
+      "firstPublicationDate": "2021-04-09"
+    },
+    {
+      "id": "37129621",
+      "source": "MED",
+      "title": "[Psychotherapy in disorders of intellectual development-Current evidence and practical implementation].",
+      "doi": "10.1007/s00115-023-01472-w",
+      "firstPublicationDate": "2023-05-02"
+    },
+    {
+      "id": "39403948",
+      "source": "MED",
+      "title": "EMDR treatment in patients with personality disorders. Should we fear symptom exacerbation?",
+      "doi": "10.1080/20008066.2024.2407222",
+      "firstPublicationDate": "2024-10-15"
+    },
+    {
+      "id": "34616328",
+      "source": "MED",
+      "title": "EMDR as Treatment Option for Conditions Other Than PTSD: A Systematic Review.",
+      "doi": "10.3389/fpsyg.2021.644369",
+      "firstPublicationDate": "2021-09-20"
+    },
+    {
+      "id": "36628572",
+      "source": "MED",
+      "title": "Comparative effectiveness of psychotherapies in adults with posttraumatic stress disorder: a network meta-analysis of randomised controlled trials.",
+      "doi": "10.1017/s0033291722003737",
+      "firstPublicationDate": "2023-01-11"
+    },
+    {
+      "id": "41004137",
+      "source": "MED",
+      "title": "PTSD and complex PTSD, current treatments and debates: a review of reviews.",
+      "doi": "10.1093/bmb/ldaf015",
+      "firstPublicationDate": "2025-09-01"
+    },
+    {
+      "id": "33691734",
+      "source": "MED",
+      "title": "Reducing posttraumatic stress in parents of patients with a rare inherited metabolic disorder using eye movement desensitization and reprocessing therapy: a case study.",
+      "doi": "10.1186/s13023-021-01768-7",
+      "firstPublicationDate": "2021-03-10"
+    },
+    {
+      "id": "33421861",
+      "source": "MED",
+      "title": "Eye movement desensitization and reprocessing: The state of the art of efficacy in children and adolescent with post traumatic stress disorder.",
+      "doi": "10.1016/j.jad.2020.12.088",
+      "firstPublicationDate": "2021-01-04"
+    },
+    {
+      "id": "39876798",
+      "source": "MED",
+      "title": "EMDR Interventions in Refugees and Asylum Seekers: A Systematic Review and Meta-Analysis.",
+      "doi": "10.1002/cpp.70039",
+      "firstPublicationDate": "2025-01-01"
+    },
+    {
+      "id": "40914618",
+      "source": "MED",
+      "title": "[Mental care: psychotherapy].",
+      "doi": "10.1016/j.revinf.2025.07.012",
+      "firstPublicationDate": "2025-08-12"
+    },
+    {
+      "id": "33415797",
+      "source": "MED",
+      "title": "Group eye movement desensitization and reprocessing interventions in adults and children: A systematic review of randomized and nonrandomized trials.",
+      "doi": "10.1002/cpp.2549",
+      "firstPublicationDate": "2021-01-15"
+    },
+    {
+      "id": "37728258",
+      "source": "MED",
+      "title": "Effectiveness of psychosocial interventions for post-traumatic stress disorder in refugees and asylum seekers resettled in low- and middle-income countries: A systematic review and meta-analysis.",
+      "doi": "10.1177/13591053231199254",
+      "firstPublicationDate": "2023-09-20"
+    },
+    {
+      "id": "40843667",
+      "source": "MED",
+      "title": "Successful Treatment of Secondary Hypersomnia Due to Complex Post-Traumatic Stress Disorder with Eye Movement Desensitization and Reprocessing: A Case Report.",
+      "doi": "10.3390/clockssleep7030043",
+      "firstPublicationDate": "2025-08-15"
+    },
+    {
+      "id": "37521717",
+      "source": "MED",
+      "title": "Treating COVID-19 patients with EMDR: A pilot study.",
+      "doi": "10.1016/j.ejtd.2022.100276",
+      "firstPublicationDate": "2022-05-04"
+    },
+    {
+      "id": "34229983",
+      "source": "MED",
+      "title": "Evaluation of Eye Movement Desensitization and Reprocessing in the management of tinnitus. An observational study.",
+      "doi": "10.1016/j.anorl.2021.06.002",
+      "firstPublicationDate": "2021-07-03"
+    },
+    {
+      "id": "33709117",
+      "source": "MED",
+      "title": "Long-term effectiveness of eye movement desensitization and reprocessing in children and adolescents with medically related subthreshold post-traumatic stress disorder: a randomized controlled trial.",
+      "doi": "10.1093/eurjcn/zvaa006",
+      "firstPublicationDate": "2021-05-01"
+    },
+    {
+      "id": "42622123",
+      "source": "MED",
+      "title": "Beyond fear: dual task interventions are effective for fear and non-fear memories.",
+      "doi": "10.1080/02699931.2026.2717608",
+      "firstPublicationDate": "2026-08-20"
+    },
+    {
+      "id": "39927624",
+      "source": "MED",
+      "title": "Childhood-related PTSD: the role of cognitions in EMDR and imagery Rescripting.",
+      "doi": "10.1080/20008066.2025.2460393",
+      "firstPublicationDate": "2025-02-10"
+    },
+    {
+      "id": "35222106",
+      "source": "MED",
+      "title": "Treatment of Pregnant Women With Fear of Childbirth Using EMDR Therapy: Results of a Multi-Center Randomized Controlled Trial.",
+      "doi": "10.3389/fpsyt.2021.798249",
+      "firstPublicationDate": "2022-02-10"
+    },
+    {
+      "id": "37882058",
+      "source": "MED",
+      "title": "Trauma-focused therapy in early psychosis: results of a feasibility randomized controlled trial of EMDR for psychosis (EMDRp) in early intervention settings.",
+      "doi": "10.1017/s0033291723002532",
+      "firstPublicationDate": "2023-10-26"
+    },
+    {
+      "id": "38532374",
+      "source": "MED",
+      "title": "12-month follow-up of intensive outpatient treatment for PTSD combining prolonged exposure therapy, EMDR and physical activity.",
+      "doi": "10.1186/s12888-024-05656-9",
+      "firstPublicationDate": "2024-03-26"
+    },
+    {
+      "id": "37869986",
+      "source": "MED",
+      "title": "A First Exploration: Can Eye Movement Desensitization and Reprocessing Improve Cognition in Older Adults With Posttraumatic Stress Disorder?",
+      "doi": "10.1177/08919887231207639",
+      "firstPublicationDate": "2023-10-23"
+    },
+    {
+      "id": "41806670",
+      "source": "MED",
+      "title": "Psychological treatments for young children suffering from trauma-related symptomatology: Systematic review and partial meta-analyses of the current evidence-base for 12 methods.",
+      "doi": "10.1016/j.cpr.2026.102725",
+      "firstPublicationDate": "2026-03-03"
+    },
+    {
+      "id": "36554717",
+      "source": "MED",
+      "title": "Eye Movement Desensitization and Reprocessing versus Cognitive Behavior Therapy for Treating Post-Traumatic Stress Disorder: A Systematic Review and Meta-Analysis.",
+      "doi": "10.3390/ijerph192416836",
+      "firstPublicationDate": "2022-12-15"
+    },
+    {
+      "id": "36062831",
+      "source": "MED",
+      "title": "Feasibility of EMDR in Older Adults with PTSD to Reduce Frailty and Improve Quality of Life.",
+      "doi": "10.1080/07317115.2022.2114397",
+      "firstPublicationDate": "2022-09-04"
+    },
+    {
+      "id": "35162166",
+      "source": "MED",
+      "title": "Psychotherapeutic Techniques for Distressing Memories: A Comparative Study between EMDR, Brainspotting, and Body Scan Meditation.",
+      "doi": "10.3390/ijerph19031142",
+      "firstPublicationDate": "2022-01-20"
+    },
+    {
+      "id": "35548495",
+      "source": "MED",
+      "title": "The Effectiveness of Eye Movement Desensitization for Post-traumatic Stress Disorder in Indonesia: A Randomized Controlled Trial.",
+      "doi": "10.3389/fpsyg.2022.845520",
+      "firstPublicationDate": "2022-04-25"
+    },
+    {
+      "id": "37052108",
+      "source": "MED",
+      "title": "EMDR for symptoms of depression, stress and burnout in health care workers exposed to COVID-19 (HARD): A study protocol for a trial within a cohort study.",
+      "doi": "10.1080/20008066.2023.2179569",
+      "firstPublicationDate": "2023-01-01"
+    },
+    {
+      "id": "40645106",
+      "source": "MED",
+      "title": "Childhood sexual abuse in first-episode psychosis: The relevance in cognitive bias.",
+      "doi": "10.1016/j.schres.2025.07.004",
+      "firstPublicationDate": "2025-07-10"
+    },
+    {
+      "id": "38677805",
+      "source": "MED",
+      "title": "[Better identifying and understanding post-traumatic stress disorder in the elderly].",
+      "doi": "10.1016/j.sger.2024.02.004",
+      "firstPublicationDate": "2024-04-02"
+    },
+    {
+      "id": "34404311",
+      "source": "MED",
+      "title": "Memory and eye movement desensitization and reprocessing therapy: a potentially risky combination in the courtroom.",
+      "doi": "10.1080/09658211.2021.1966043",
+      "firstPublicationDate": "2021-08-18"
+    },
+    {
+      "id": "33638952",
+      "source": "MED",
+      "title": "How Psychologists Experience and Perceive EMDR?",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "38788156",
+      "source": "MED",
+      "title": "Current Research on Matching Trauma-Focused Therapies to Veterans: A Scoping Review.",
+      "doi": "10.1093/milmed/usae229",
+      "firstPublicationDate": "2024-07-01"
+    },
+    {
+      "id": "40170210",
+      "source": "MED",
+      "title": "Psychotherapeutic modalities for phantom limb pain: a scoping review.",
+      "doi": "10.12809/eaap2449",
+      "firstPublicationDate": "2025-03-01"
+    },
+    {
+      "id": "39516781",
+      "source": "MED",
+      "title": "'Please, see me'; Informal and professional support of students with relatives with addiction problems: a three-year longitudinal qualitative study.",
+      "doi": "10.1186/s12889-024-20531-8",
+      "firstPublicationDate": "2024-11-08"
+    },
+    {
+      "id": "40308104",
+      "source": "MED",
+      "title": "An Update on Psychotherapy for the Treatment of PTSD.",
+      "doi": "10.1176/appi.ajp.20250110",
+      "firstPublicationDate": "2025-05-01"
+    },
+    {
+      "id": "36056362",
+      "source": "MED",
+      "title": "Effectiveness of time-limited eye movement desensitization reprocessing therapy for parents of children with a rare life-limiting illness: a randomized clinical trial.",
+      "doi": "10.1186/s13023-022-02500-9",
+      "firstPublicationDate": "2022-09-02"
+    },
+    {
+      "id": "36586670",
+      "source": "MED",
+      "title": "Facilitated extinction but impaired extinction recall by eye movement manipulation in humans - Indications for action mechanisms and the applicability of eye movement desensitization.",
+      "doi": "10.1016/j.ijpsycho.2022.12.009",
+      "firstPublicationDate": "2022-12-28"
+    },
+    {
+      "id": "38862129",
+      "source": "MED",
+      "title": "Individual treatment selection for patients with post-traumatic stress disorder: External validation of a personalised advantage index.",
+      "doi": "10.1080/10503307.2024.2360449",
+      "firstPublicationDate": "2024-06-11"
+    },
+    {
+      "id": "37917850",
+      "source": "MED",
+      "title": "AUTISM SPECTRUM DISORDER AND SPECIFIC PHOBIA. TREATMENT WITH EYE MOVEMENT DESENSITIZATION AND REPROCESSING: REPORT OF TWO CASES.",
+      "doi": "10.24869/psyd.2023.440",
+      "firstPublicationDate": "2023-01-01"
+    },
+    {
+      "id": "42126740",
+      "source": "MED",
+      "title": "The effect of electronic cognitive training with bilateral eye movements and response inhibition on vocational college students' anxiety in a pilot study.",
+      "doi": "10.1007/s44192-026-00471-y",
+      "firstPublicationDate": "2026-05-13"
+    },
+    {
+      "id": "36199107",
+      "source": "MED",
+      "title": "Trauma-focused therapies for post-traumatic stress in psychosis: study protocol for the RE.PROCESS randomized controlled trial.",
+      "doi": "10.1186/s13063-022-06808-6",
+      "firstPublicationDate": "2022-10-05"
+    },
+    {
+      "id": "40816222",
+      "source": "MED",
+      "title": "Dual-task interventions reduce vividness and unpleasantness in both old and new memories.",
+      "doi": "10.1016/j.brat.2025.104839",
+      "firstPublicationDate": "2025-08-12"
+    },
+    {
+      "id": "39651486",
+      "source": "MED",
+      "title": "Cancer and Stress: Understanding the Connections and Interventions.",
+      "doi": "10.1177/15598276241304373",
+      "firstPublicationDate": "2024-12-06"
+    },
+    {
+      "id": "36237826",
+      "source": "MED",
+      "title": "Intensive outpatient treatment for PTSD: an open trial combining prolonged exposure therapy, EMDR, and physical activity.",
+      "doi": "10.1080/20008066.2022.2128048",
+      "firstPublicationDate": "2022-10-07"
+    },
+    {
+      "id": "33893376",
+      "source": "MED",
+      "title": "Sleep parameters improvement in PTSD soldiers after symptoms remission.",
+      "doi": "10.1038/s41598-021-88337-x",
+      "firstPublicationDate": "2021-04-23"
+    },
+    {
+      "id": "34567439",
+      "source": "MED",
+      "title": "The effect of EMDR versus EMDR 2.0 on emotionality and vividness of aversive memories in a non-clinical sample.",
+      "doi": "10.1080/20008198.2021.1956793",
+      "firstPublicationDate": "2021-09-22"
+    },
+    {
+      "id": "40468834",
+      "source": "MED",
+      "title": "Psychological interventions for adult earthquake-related post-traumatic stress disorder: systematic review and meta-analysis.",
+      "doi": "10.1192/bjo.2025.784",
+      "firstPublicationDate": "2025-06-05"
+    },
+    {
+      "id": "33539235",
+      "source": "MED",
+      "title": "Psychological Myths as Therapeutic Instructions in Eye Movement Desensitization and Reprocessing.",
+      "doi": "10.1080/00223980.2020.1839374",
+      "firstPublicationDate": "2021-02-04"
+    },
+    {
+      "id": "37037182",
+      "source": "MED",
+      "title": "Bilateral eye movements disrupt the involuntary perceptual representation of trauma-related memories.",
+      "doi": "10.1016/j.brat.2023.104311",
+      "firstPublicationDate": "2023-04-08"
+    },
+    {
+      "id": "40830864",
+      "source": "MED",
+      "title": "Efficacy of psychological interventions for adult PTSD in reducing comorbid depression: systematic review and meta-analysis of randomised controlled trials.",
+      "doi": "10.1192/bjp.2025.10345",
+      "firstPublicationDate": "2025-08-20"
+    },
+    {
+      "id": "38863672",
+      "source": "MED",
+      "title": "Exhausting, but necessary: the lived experience of participants in an intensive inpatient trauma treatment program.",
+      "doi": "10.3389/fpsyg.2024.1341716",
+      "firstPublicationDate": "2024-05-28"
+    },
+    {
+      "id": "34838102",
+      "source": "MED",
+      "title": "The effect of twice-weekly versus once-weekly sessions of either imagery rescripting or eye movement desensitization and reprocessing for adults with PTSD from childhood trauma (IREM-Freq): a study protocol for an international randomized clinical trial.",
+      "doi": "10.1186/s13063-021-05712-9",
+      "firstPublicationDate": "2021-11-27"
+    },
+    {
+      "id": "37288666",
+      "source": "MED",
+      "title": "Psychological interventions for cancer-related post-traumatic stress disorder: narrative review.",
+      "doi": "10.1192/bjb.2023.42",
+      "firstPublicationDate": "2024-04-01"
+    },
+    {
+      "id": "34924624",
+      "source": "MED",
+      "title": "A Review of PTSD and Current Treatment Strategies.",
+      "doi": null,
+      "firstPublicationDate": "2021-11-01"
+    },
+    {
+      "id": "40306642",
+      "source": "MED",
+      "title": "Short- and Long-Term Effectiveness of Brief Intensive Trauma Treatment for Adolescents With Posttraumatic Stress Disorder and Their Caregivers: Protocol for a Multicenter Randomized Controlled Trial.",
+      "doi": "10.2196/66115",
+      "firstPublicationDate": "2025-04-30"
+    },
+    {
+      "id": "36844333",
+      "source": "MED",
+      "title": "Therapeutic interventions impact brain function and promote post-traumatic growth in adults living with post-traumatic stress disorder: A systematic review and meta-analysis of functional magnetic resonance imaging studies.",
+      "doi": "10.3389/fpsyg.2023.1074972",
+      "firstPublicationDate": "2023-02-09"
+    },
+    {
+      "id": "39687671",
+      "source": "MED",
+      "title": "Comparative efficacy and acceptability of psychosocial interventions for PTSD, depression, and anxiety in asylum seekers, refugees, and other migrant populations: a systematic review and network meta-analysis of randomised controlled studies.",
+      "doi": "10.1016/j.lanepe.2024.101152",
+      "firstPublicationDate": "2024-11-29"
+    },
+    {
+      "id": "36719408",
+      "source": "MED",
+      "title": "The bumpy road of trauma-focused treatment: Posttraumatic stress disorder symptom exacerbation in people with psychosis.",
+      "doi": "10.1002/jts.22907",
+      "firstPublicationDate": "2023-01-31"
+    },
+    {
+      "id": "35401305",
+      "source": "MED",
+      "title": "A Randomized-Controlled Trial of EMDR Flash Technique on Traumatic Symptoms, Depression, Anxiety, Stress, and Life of Quality With Individuals Who Have Experienced a Traffic Accident.",
+      "doi": "10.3389/fpsyg.2022.845481",
+      "firstPublicationDate": "2022-03-24"
+    },
+    {
+      "id": "36186165",
+      "source": "MED",
+      "title": "Implementation of evidence-based treatment for PTSD in Norway: clinical outcomes and impact of probable complex PTSD.",
+      "doi": "10.1080/20008066.2022.2116827",
+      "firstPublicationDate": "2022-09-21"
+    },
+    {
+      "id": "39835632",
+      "source": "MED",
+      "title": "Effectiveness of an intensive outpatient treatment programme combining prolonged exposure and EMDR therapy for adolescents and young adults with PTSD in a naturalistic setting.",
+      "doi": "10.1080/20008066.2025.2451478",
+      "firstPublicationDate": "2025-01-21"
+    },
+    {
+      "id": "39386893",
+      "source": "MED",
+      "title": "Editorial: EMDR and the AIP Model: Healing the Scars of Trauma.",
+      "doi": "10.3389/fpsyt.2024.1469787",
+      "firstPublicationDate": "2024-09-25"
+    },
+    {
+      "id": "33663549",
+      "source": "MED",
+      "title": "Eye Movement Desensitization (EMD) to reduce posttraumatic stress disorder-related stress reactivity in Indonesia PTSD patients: a study protocol for a randomized controlled trial.",
+      "doi": "10.1186/s13063-021-05100-3",
+      "firstPublicationDate": "2021-03-04"
+    },
+    {
+      "id": "39023949",
+      "source": "MED",
+      "title": "The use of the \"group traumatic episode protocol (G-TEP) \" in an outpatient randomized and hospital setting: Implementation and effects in heterogeneous patient samples.",
+      "doi": "10.1037/tra0001711",
+      "firstPublicationDate": "2024-07-18"
+    },
+    {
+      "id": "36471412",
+      "source": "MED",
+      "title": "Testing an attachment- and trauma-informed intervention approach for parents and young children after interparental violence: protocol for a randomized controlled trial.",
+      "doi": "10.1186/s13063-022-06902-9",
+      "firstPublicationDate": "2022-12-05"
+    },
+    {
+      "id": "35246228",
+      "source": "MED",
+      "title": "Trauma-focused EMDR for Personality disorders among Outpatients (TEMPO): study protocol for a multi-centre, single-blind, randomized controlled trial.",
+      "doi": "10.1186/s13063-022-06082-6",
+      "firstPublicationDate": "2022-03-04"
+    },
+    {
+      "id": "38586287",
+      "source": "MED",
+      "title": "EMDR in pediatric hospital setting: a case report of an adolescent with cancer.",
+      "doi": "10.3389/fpsyg.2024.1347822",
+      "firstPublicationDate": "2024-02-22"
+    },
+    {
+      "id": "33514408",
+      "source": "MED",
+      "title": "Augmentation of EMDR with multifocal transcranial current stimulation (MtCS) in the treatment of fibromyalgia: study protocol of a double-blind randomized controlled exploratory and pragmatic trial.",
+      "doi": "10.1186/s13063-021-05042-w",
+      "firstPublicationDate": "2021-01-29"
+    },
+    {
+      "id": "35461281",
+      "source": "MED",
+      "title": "Trauma-focused treatments for refugee children: study protocol for a randomized controlled trial of the effectiveness of KIDNET versus EMDR therapy versus a waitlist control group (KIEM).",
+      "doi": "10.1186/s13063-022-06178-z",
+      "firstPublicationDate": "2022-04-23"
+    },
+    {
+      "id": "34992783",
+      "source": "MED",
+      "title": "Protocol of a feasibility trial for an online group parenting intervention with an integrated mental health component for parent refugees and asylum-seekers in the United Kingdom: (LTP + EMDR G-TEP).",
+      "doi": "10.1177/20503121211067861",
+      "firstPublicationDate": "2021-12-23"
+    },
+    {
+      "id": "37753723",
+      "source": "MED",
+      "title": "Impacts of Post Critical Incident Seminar on emergency service personnel: The critical incident-related experiences and psychological state.",
+      "doi": "10.1111/sjop.12967",
+      "firstPublicationDate": "2023-09-27"
+    },
+    {
+      "id": "34456808",
+      "source": "MED",
+      "title": "Which Trauma Treatment Suits me? Identification of Patients' Treatment Preferences for Posttraumatic Stress Disorder (PTSD).",
+      "doi": "10.3389/fpsyg.2021.694038",
+      "firstPublicationDate": "2021-08-12"
+    },
+    {
+      "id": "35700344",
+      "source": "MED",
+      "title": "What works? Lessons from a pretrial qualitative study to inform a multi-component intervention for refugees and asylum seekers: Learning Through Play and EMDR Group Traumatic Episode Protocol.",
+      "doi": "10.1002/jcop.22908",
+      "firstPublicationDate": "2022-06-14"
+    },
+    {
+      "id": "34488847",
+      "source": "MED",
+      "title": "Postpartum Early EMDR therapy Intervention (PERCEIVE) study for women after a traumatic birth experience: study protocol for a randomized controlled trial.",
+      "doi": "10.1186/s13063-021-05545-6",
+      "firstPublicationDate": "2021-09-06"
+    },
+    {
+      "id": "41807138",
+      "source": "MED",
+      "title": "Effectiveness of hypnosis in adults with posttraumatic stress disorder (PTSD).",
+      "doi": "10.1016/j.encep.2025.12.002",
+      "firstPublicationDate": "2026-03-09"
+    },
+    {
+      "id": "34438220",
+      "source": "MED",
+      "title": "EMDR therapy for PTSD symptoms in patients with mild intellectual disability or borderline intellectual functioning and comorbid psychotic disorder: A case series.",
+      "doi": "10.1016/j.ridd.2021.104044",
+      "firstPublicationDate": "2021-08-23"
+    },
+    {
+      "id": "42188247",
+      "source": "MED",
+      "title": "Beyond GLM: Inter-Subject Variability as a Complementary Approach to Detect Longitudinal Changes in Emotion Processing in Multiple Sclerosis.",
+      "doi": "10.3390/jimaging12050210",
+      "firstPublicationDate": "2026-05-15"
+    },
+    {
+      "id": "41382171",
+      "source": "MED",
+      "title": "\"The world does not look the same anymore\": The experiences of patients six months after finishing an intensive trauma treatment program.",
+      "doi": "10.1186/s40359-025-03826-2",
+      "firstPublicationDate": "2025-12-12"
+    },
+    {
+      "id": "35957628",
+      "source": "MED",
+      "title": "The effects of psychological interventions on neurocognitive functioning in posttraumatic stress disorder: a systematic review.",
+      "doi": "10.1080/20008198.2022.2071527",
+      "firstPublicationDate": "2022-05-26"
+    },
+    {
+      "id": "33536968",
+      "source": "MED",
+      "title": "EMDR in Cancer Patients: A Systematic Review.",
+      "doi": "10.3389/fpsyg.2020.590204",
+      "firstPublicationDate": "2021-01-18"
+    },
+    {
+      "id": "38073540",
+      "source": "MED",
+      "title": "Provision of online eye movement and desensitisation therapy (EMDR) for people with post-traumatic stress disorder (PTSD): a multi-method service evaluation.",
+      "doi": "10.1080/20008066.2023.2281182",
+      "firstPublicationDate": "2023-12-11"
+    },
+    {
+      "id": "42625846",
+      "source": "MED",
+      "title": "Felt sense dynamics: a practice-based framework for tracking the arc of somatic emotional processing.",
+      "doi": "10.3389/fpsyg.2026.1873403",
+      "firstPublicationDate": "2026-08-06"
+    },
+    {
+      "id": "34589178",
+      "source": "MED",
+      "title": "EMDR therapy for misophonia: a pilot study of case series.",
+      "doi": "10.1080/20008198.2021.1968613",
+      "firstPublicationDate": "2021-09-24"
+    },
+    {
+      "id": "39051968",
+      "source": "MED",
+      "title": "Hypnosis facilitates psychosomatic improvement in a patient with treatment-resistant idiopathic tinnitus.",
+      "doi": "10.1080/00029157.2024.2379284",
+      "firstPublicationDate": "2024-07-25"
+    },
+    {
+      "id": "33901511",
+      "source": "MED",
+      "title": "Interfering with fear memories by eye movement desensitization and reprocessing.",
+      "doi": "10.1016/j.ijpsycho.2021.04.006",
+      "firstPublicationDate": "2021-04-24"
+    },
+    {
+      "id": "34025928",
+      "source": "MED",
+      "title": "Intensive outpatient treatment for PTSD: a pilot feasibility study combining prolonged exposure therapy, EMDR, physical activity, and psychoeducation.",
+      "doi": "10.1080/20008198.2021.1917878",
+      "firstPublicationDate": "2021-05-14"
+    },
+    {
+      "id": "35153919",
+      "source": "MED",
+      "title": "Promoting Mental Health in Healthcare Workers in Hospitals Through Psychological Group Support With Eye Movement Desensitization and Reprocessing During COVID-19 Pandemic: An Observational Study.",
+      "doi": "10.3389/fpsyg.2021.794178",
+      "firstPublicationDate": "2022-01-27"
+    },
+    {
+      "id": "42648713",
+      "source": "MED",
+      "title": "Implementing Prolonged Exposure Therapy in a Community Substance Use Treatment Program: A Qualitative Study.",
+      "doi": "10.1111/dar.70239",
+      "firstPublicationDate": "2026-09-01"
+    },
+    {
+      "id": "41578177",
+      "source": "MED",
+      "title": "Efficacy of Induced After Death Communication Therapy for Grief: A Single-Group Wait-List Controlled Trial.",
+      "doi": "10.1177/00302228261418413",
+      "firstPublicationDate": "2026-01-23"
+    },
+    {
+      "id": "40949339",
+      "source": "MED",
+      "title": "Educational, but demanding: the experience of therapists in an intensive inpatient trauma treatment program.",
+      "doi": "10.3389/fpsyg.2025.1581055",
+      "firstPublicationDate": "2025-08-29"
+    },
+    {
+      "id": "33638950",
+      "source": "MED",
+      "title": "Development of EMDR Therapy in Bosnia and Herzegovina - Education by Supervision to Accreditation.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "39878600",
+      "source": "MED",
+      "title": "Acceptability and Preliminary Effects of Intensive Brief Trauma-Focused PTSD Treatment for Refugees.",
+      "doi": "10.7146/torture.v34i3.147953",
+      "firstPublicationDate": "2024-01-01"
+    },
+    {
+      "id": "40387621",
+      "source": "MED",
+      "title": "Effectiveness of trauma-focused treatments for refugee children: a systematic review and meta-analyses.",
+      "doi": "10.1080/20008066.2025.2494362",
+      "firstPublicationDate": "2025-05-19"
+    },
+    {
+      "id": "33572198",
+      "source": "MED",
+      "title": "The Role of the Thalamus in Post-Traumatic Stress Disorder.",
+      "doi": "10.3390/ijms22041730",
+      "firstPublicationDate": "2021-02-09"
+    },
+    {
+      "id": "33899551",
+      "source": "MED",
+      "title": "A Meta-Analysis of the Effectiveness of EMDR and TF-CBT in Reducing Trauma Symptoms and Externalizing Behavior Problems in Adolescents.",
+      "doi": "10.1177/0306624x211010290",
+      "firstPublicationDate": "2021-04-26"
+    },
+    {
+      "id": "34296166",
+      "source": "MED",
+      "title": "How Memory Switches Brain Responses of Patients with Post-traumatic Stress Disorder.",
+      "doi": "10.1093/texcom/tgab021",
+      "firstPublicationDate": "2021-03-20"
+    },
+    {
+      "id": "39269649",
+      "source": "MED",
+      "title": "Introduction to In Session special issue: Psychotherapy for complex PTSD.",
+      "doi": "10.1002/jclp.23739",
+      "firstPublicationDate": "2024-09-13"
+    },
+    {
+      "id": "39564248",
+      "source": "MED",
+      "title": "Clinical Observations of Online EMDR: The Imperative for Research on Bilateral Stimulation Techniques.",
+      "doi": "10.1177/02537176241247390",
+      "firstPublicationDate": "2024-05-02"
+    },
+    {
+      "id": "38767815",
+      "source": "MED",
+      "title": "The Impact of Chronic Diseases on Mental Health: An Overview and Recommendations for Care Programs.",
+      "doi": "10.1007/s11920-024-01510-7",
+      "firstPublicationDate": "2024-05-20"
+    },
+    {
+      "id": "42314519",
+      "source": "MED",
+      "title": "Impact of ICU and post-ICU interventions on the psychological dimensions of patients' PICS: A systematic review with narrative synthesis.",
+      "doi": "10.1016/j.jcrc.2026.155658",
+      "firstPublicationDate": "2026-06-18"
+    },
+    {
+      "id": "34442005",
+      "source": "MED",
+      "title": "Differential Effects of Comorbid Psychiatric Disorders on Treatment Outcome in Posttraumatic Stress Disorder from Childhood Trauma.",
+      "doi": "10.3390/jcm10163708",
+      "firstPublicationDate": "2021-08-20"
+    },
+    {
+      "id": "34866515",
+      "source": "MED",
+      "title": "The Neurophysiology Behind Trauma-Focused Therapy Modalities Used to Treat Post-Traumatic Stress Disorder Across the Life Course: A Systematic Review.",
+      "doi": "10.1177/15248380211048446",
+      "firstPublicationDate": "2021-12-06"
+    },
+    {
+      "id": "36085786",
+      "source": "MED",
+      "title": "Vibro-motor Reprocessing Therapy towards Managing Motion Sickness Reduction: Evidence from EEG.",
+      "doi": "10.1109/embc48229.2022.9871336",
+      "firstPublicationDate": "2022-07-01"
+    },
+    {
+      "id": "34549359",
+      "source": "MED",
+      "title": "Correction to: Eye Movement Desensitization and Reprocessing in Young Children (Ages 4-8) with Posttraumatic Stress Disorder: A Multiple-Baseline Evaluation.",
+      "doi": "10.1007/s10578-021-01249-9",
+      "firstPublicationDate": "2022-02-01"
+    },
+    {
+      "id": "39162169",
+      "source": "MED",
+      "title": "[EMDR in delusional disorder and substance use disorder: integrated treatment].",
+      "doi": null,
+      "firstPublicationDate": "2024-01-01"
+    },
+    {
+      "id": "40920172",
+      "source": "MED",
+      "title": "Impact of Intersecting Identities on Student Well-being.",
+      "doi": "10.1097/dbp.0000000000001409",
+      "firstPublicationDate": "2025-09-09"
+    },
+    {
+      "id": "36423898",
+      "source": "MED",
+      "title": "The effectiveness of trauma-focused psychotherapy for complex post-traumatic stress disorder: A retrospective study.",
+      "doi": "10.1192/j.eurpsy.2022.2346",
+      "firstPublicationDate": "2022-11-25"
+    },
+    {
+      "id": "34088735",
+      "source": "MED",
+      "title": "A network meta-analysis of psychosocial interventions for refugees and asylum seekers with PTSD.",
+      "doi": "10.1136/bmjgh-2021-005029",
+      "firstPublicationDate": "2021-06-01"
+    },
+    {
+      "id": "39450451",
+      "source": "MED",
+      "title": "Family therapy and EMDR after child abuse and neglect: moderating effects of child attachment style and PTSD symptoms on treatment outcome.",
+      "doi": "10.1080/20008066.2024.2416288",
+      "firstPublicationDate": "2024-10-25"
+    },
+    {
+      "id": "38689725",
+      "source": "MED",
+      "title": "EMDR: dispelling the false memory creation myth in response to Otgaar et al. (2022a).",
+      "doi": "10.3389/fpsyg.2024.1366137",
+      "firstPublicationDate": "2024-04-16"
+    },
+    {
+      "id": "39176433",
+      "source": "MED",
+      "title": "Reducing intrusive memories and promoting posttraumatic growth with Traveler: A randomized controlled study.",
+      "doi": "10.1111/aphw.12591",
+      "firstPublicationDate": "2024-08-23"
+    },
+    {
+      "id": "39283836",
+      "source": "MED",
+      "title": "Coping styles in refugees with PTSD: Results from a randomized trial comparing EMDR therapy and stabilization.",
+      "doi": "10.1371/journal.pone.0310093",
+      "firstPublicationDate": "2024-09-16"
+    },
+    {
+      "id": "33638953",
+      "source": "MED",
+      "title": "EMDR Techniques and Behavioral Therapy in Group Training Dealing with Stress.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "36871976",
+      "source": "MED",
+      "title": "[Covid-19 caregivers, psychotraumatized superheroes].",
+      "doi": "10.1016/j.spsy.2023.01.010",
+      "firstPublicationDate": "2023-01-30"
+    },
+    {
+      "id": "34498899",
+      "source": "MED",
+      "title": "A review of the inclusion of ethnoracial groups in empirically supported posttraumatic stress disorder treatment research.",
+      "doi": "10.1037/tra0001108",
+      "firstPublicationDate": "2021-09-09"
+    },
+    {
+      "id": "41986804",
+      "source": "MED",
+      "title": "Coping with primary brain tumors together: a scoping review of dyadic psychosocial interventions.",
+      "doi": "10.1007/s00520-026-10676-0",
+      "firstPublicationDate": "2026-04-16"
+    },
+    {
+      "id": "41449597",
+      "source": "MED",
+      "title": "The Effectiveness of Trauma-Focused Interventions With Individuals Who Perpetrated Crimes: A Systematic Review.",
+      "doi": "10.1177/15248380251397413",
+      "firstPublicationDate": "2025-12-25"
+    },
+    {
+      "id": "38934933",
+      "source": "MED",
+      "title": "Systematic review of psychotherapies and meta-analysis of cognitive behavior therapy and narrative exposure therapy for treating earthquake-related posttraumatic stress disorder.",
+      "doi": "10.1037/tra0001743",
+      "firstPublicationDate": "2024-06-27"
+    },
+    {
+      "id": "40819965",
+      "source": "MED",
+      "title": "I feel pain, not pressure: a personal and methodological reflection on pain during cesarean delivery.",
+      "doi": "10.1016/j.ajog.2025.06.036",
+      "firstPublicationDate": "2025-08-16"
+    },
+    {
+      "id": "39361639",
+      "source": "MED",
+      "title": "Support for Nursing Home Caregivers During the COVID-19 Pandemic: A Review.",
+      "doi": "10.3928/00989134-20240912-06",
+      "firstPublicationDate": "2024-10-01"
+    },
+    {
+      "id": "40507547",
+      "source": "MED",
+      "title": "When the Mind Meets the Ear: A Scoping Review on Tinnitus and Clinically Measured Psychiatric Comorbidities.",
+      "doi": "10.3390/jcm14113785",
+      "firstPublicationDate": "2025-05-28"
+    },
+    {
+      "id": "40409963",
+      "source": "MED",
+      "title": "Cost-effectiveness of massed versus spaced trauma-focused treatment as first-line treatment for post-traumatic stress disorder in adults with multiple trauma exposure: protocol for a single-blind non-inferiority randomised controlled trial.",
+      "doi": "10.1136/bmjopen-2025-102530",
+      "firstPublicationDate": "2025-05-23"
+    },
+    {
+      "id": "39571051",
+      "source": "MED",
+      "title": "Nonpharmacologic Treatments for Maternal Mental Health Conditions",
+      "doi": null,
+      "firstPublicationDate": "2024-07-01"
+    },
+    {
+      "id": "39336855",
+      "source": "MED",
+      "title": "Integrative Treatment Approaches with Mind-Body Therapies in the Management of Atopic Dermatitis.",
+      "doi": "10.3390/jcm13185368",
+      "firstPublicationDate": "2024-09-11"
+    },
+    {
+      "id": "38129278",
+      "source": "MED",
+      "title": "Is there a place for EMDR in neurology?",
+      "doi": "10.1016/j.neurol.2023.10.016",
+      "firstPublicationDate": "2023-12-20"
+    },
+    {
+      "id": "34493253",
+      "source": "MED",
+      "title": "Treating posttraumatic stress disorder in substance use disorder patients with co-occurring posttraumatic stress disorder: study protocol for a randomized controlled trial to compare the effectiveness of different types and timings of treatment.",
+      "doi": "10.1186/s12888-021-03366-0",
+      "firstPublicationDate": "2021-09-07"
+    },
+    {
+      "id": "38487817",
+      "source": "MED",
+      "title": "Psychotherapies at a Glance: Consensus Guideline-Recommended Psychotherapies for Adults With Psychiatric Disorders.",
+      "doi": "10.1176/appi.psychotherapy.20230004",
+      "firstPublicationDate": "2024-03-15"
+    },
+    {
+      "id": "37147045",
+      "source": "MED",
+      "title": "Complementary and Integrative Medicine and Eating Disorders in Youth: Traditional Yoga, Virtual Reality, Light Therapy, Neurofeedback, Acupuncture, Energy Psychology Techniques, Art Therapies, and Spirituality.",
+      "doi": "10.1016/j.chc.2022.08.014",
+      "firstPublicationDate": "2023-04-01"
+    },
+    {
+      "id": "38906997",
+      "source": "MED",
+      "title": "[Evidence-based psychotherapy of posttraumatic stress syndrome-An update].",
+      "doi": "10.1007/s00115-024-01694-6",
+      "firstPublicationDate": "2024-06-21"
+    },
+    {
+      "id": "39432415",
+      "source": "MED",
+      "title": "What's in a treatment name? How people with posttraumatic stress disorder (PTSD) symptoms interpret and react to PTSD treatment names.",
+      "doi": "10.1002/jts.23108",
+      "firstPublicationDate": "2024-10-21"
+    },
+    {
+      "id": "38577793",
+      "source": "MED",
+      "title": "When one tool is not enough: An integrative psychotherapeutic approach to treating complex PTSD.",
+      "doi": "10.1002/jclp.23688",
+      "firstPublicationDate": "2024-04-05"
+    },
+    {
+      "id": "42487607",
+      "source": "MED",
+      "title": "The impact of intensive trauma-focused treatment on adults with PTSD and ASD traits: a pre-post intervention study.",
+      "doi": "10.1080/20008066.2026.2696633",
+      "firstPublicationDate": "2026-07-23"
+    },
+    {
+      "id": "37846662",
+      "source": "MED",
+      "title": "The role of dissociation-related beliefs about memory in trauma-focused treatment.",
+      "doi": "10.1080/20008066.2023.2265182",
+      "firstPublicationDate": "2023-10-17"
+    },
+    {
+      "id": "34992739",
+      "source": "MED",
+      "title": "Prevention and treatment of PTSD: the current evidence base.",
+      "doi": "10.1080/20008198.2020.1824381",
+      "firstPublicationDate": "2021-01-31"
+    },
+    {
+      "id": "39811461",
+      "source": "MED",
+      "title": "Criticality is Associated with Future Psychotherapy Response in Patients with Post-Traumatic Stress Disorder-A Pilot Study.",
+      "doi": "10.1177/24705470241311285",
+      "firstPublicationDate": "2025-01-12"
+    },
+    {
+      "id": "39286565",
+      "source": "MED",
+      "title": "Factors influencing quality of processing in EMDR therapy.",
+      "doi": "10.3389/fpsyg.2024.1432886",
+      "firstPublicationDate": "2024-09-02"
+    },
+    {
+      "id": "37141033",
+      "source": "MED",
+      "title": "The efficacy and acceptability of psychological interventions for adult PTSD: A network and pairwise meta-analysis of randomized controlled trials.",
+      "doi": "10.1037/ccp0000809",
+      "firstPublicationDate": "2023-05-04"
+    },
+    {
+      "id": "41056543",
+      "source": "MED",
+      "title": "Collaborative Development of a Self-Tracking Assisted Psychotherapy Treatment Concept for Refugees With Complex Posttraumatic Stress Disorder: Participatory Action Research.",
+      "doi": "10.2196/66663",
+      "firstPublicationDate": "2025-10-07"
+    },
+    {
+      "id": "41324279",
+      "source": "MED",
+      "title": "Effectiveness of Trauma-Focused Interventions in Reducing Externalizing Behaviors Among Traumatized Adolescents: A Systematic Review and Meta-Analysis.",
+      "doi": "10.1177/15248380251388127",
+      "firstPublicationDate": "2025-12-01"
+    },
+    {
+      "id": "39052412",
+      "source": "MED",
+      "title": "Response of patients with complex forms of PTSD to highly intensive trauma treatment: A clinical cohort study.",
+      "doi": "10.1037/tra0001747",
+      "firstPublicationDate": "2024-07-25"
+    },
+    {
+      "id": "39450446",
+      "source": "MED",
+      "title": "Systematic review and meta-analysis: do best-evidenced trauma-focused interventions for children and young people with PTSD lead to changes in social and interpersonal domains?",
+      "doi": "10.1080/20008066.2024.2415267",
+      "firstPublicationDate": "2024-10-25"
+    },
+    {
+      "id": "38933577",
+      "source": "MED",
+      "title": "Apples and oranges: PTSD patients and healthy individuals are not comparable in their subjective and physiological responding to emotion induction and bilateral stimulation.",
+      "doi": "10.3389/fpsyg.2024.1406180",
+      "firstPublicationDate": "2024-06-12"
+    },
+    {
+      "id": "38230608",
+      "source": "MED",
+      "title": "Predictors and moderators of treatment outcomes in phase-based treatment and trauma-focused treatments in patients with childhood abuse-related post-traumatic stress disorder.",
+      "doi": "10.1080/20008066.2023.2300589",
+      "firstPublicationDate": "2023-01-01"
+    },
+    {
+      "id": "40886355",
+      "source": "MED",
+      "title": "AWARDING OF THE PRESTIGIOUS DAVID SERVAN-SCHREIBER AWARD IN DUBLIN 2024 FOR THE PRESIDENTS OF EMDR ASSOCIATIONS OF BOSNIA & HERZEGOVINA AND SERBIA: A POSSIBLE SMALL CONTRIBUTION TO GLOBAL EMPATHIC CIVILIZATION.",
+      "doi": null,
+      "firstPublicationDate": "2024-01-01"
+    },
+    {
+      "id": "34025927",
+      "source": "MED",
+      "title": "Effectiveness of an intensive treatment programme combining prolonged exposure and EMDR therapy for adolescents suffering from severe post-traumatic stress disorder.",
+      "doi": "10.1080/20008198.2021.1917876",
+      "firstPublicationDate": "2021-05-14"
+    },
+    {
+      "id": "42246501",
+      "source": "MED",
+      "title": "Therapeutic alliance in intensive PTSD treatment with a therapist rotation model.",
+      "doi": "10.1080/20008066.2026.2664272",
+      "firstPublicationDate": "2026-06-05"
+    },
+    {
+      "id": "36402502",
+      "source": "MED",
+      "title": "Post-traumatic Stress Disorder.",
+      "doi": "10.1016/j.mcna.2022.04.003",
+      "firstPublicationDate": "2022-10-28"
+    },
+    {
+      "id": "40397424",
+      "source": "MED",
+      "title": "Loss of PTSD Diagnosis in Response to Evidence-Based Treatments: A Systematic Review and Meta-Analysis.",
+      "doi": "10.1001/jamapsychiatry.2025.0695",
+      "firstPublicationDate": "2025-07-01"
+    },
+    {
+      "id": "40129594",
+      "source": "MED",
+      "title": "Post-traumatic stress disorder and its associated factors among internally displaced people due to conflict in Northwest Ethiopia.",
+      "doi": "10.3389/fpubh.2025.1386566",
+      "firstPublicationDate": "2025-03-10"
+    },
+    {
+      "id": "38286685",
+      "source": "MED",
+      "title": "Effectiveness of trauma-focused art therapy (TFAT) for psychological trauma: study protocol of a multiple-baseline single-case experimental design.",
+      "doi": "10.1136/bmjopen-2023-081917",
+      "firstPublicationDate": "2024-01-29"
+    },
+    {
+      "id": "38196397",
+      "source": "MED",
+      "title": "Careful considerations for the treatment of posttraumatic stress disorder during and following pregnancy.",
+      "doi": "10.1080/14737175.2024.2303430",
+      "firstPublicationDate": "2024-02-06"
+    },
+    {
+      "id": "38503736",
+      "source": "MED",
+      "title": "The bone ecosystem facilitates multiple myeloma relapse and the evolution of heterogeneous drug resistant disease.",
+      "doi": "10.1038/s41467-024-46594-0",
+      "firstPublicationDate": "2024-03-19"
+    },
+    {
+      "id": "34621497",
+      "source": "MED",
+      "title": "Predictors and moderators of treatment outcome for single incident paediatric PTSD: a multi-centre randomized clinical trial.",
+      "doi": "10.1080/20008198.2021.1968138",
+      "firstPublicationDate": "2021-09-30"
+    },
+    {
+      "id": "39688605",
+      "source": "MED",
+      "title": "Disaster Psychiatry: An urgent field in psychiatry posing a pertinent question.",
+      "doi": "10.22365/jpsych.2024.022",
+      "firstPublicationDate": "2024-12-15"
+    },
+    {
+      "id": "38479086",
+      "source": "MED",
+      "title": "Non-fear emotions in changes in posttraumatic stress disorder symptoms during treatment.",
+      "doi": "10.1016/j.jbtep.2024.101954",
+      "firstPublicationDate": "2024-02-29"
+    },
+    {
+      "id": "35712194",
+      "source": "MED",
+      "title": "The Therapeutic Relationship in EMDR Therapy.",
+      "doi": "10.3389/fpsyg.2022.835470",
+      "firstPublicationDate": "2022-05-31"
+    },
+    {
+      "id": "33709851",
+      "source": "MED",
+      "title": "Belief in Unconscious Repressed Memory Persists.",
+      "doi": "10.1177/1745691621990628",
+      "firstPublicationDate": "2021-03-01"
+    },
+    {
+      "id": "38031432",
+      "source": "MED",
+      "title": "The Impact On Eye Movement And Desensitization Reprocessing Of Incomplete Memory In A Drug-Facilitated Rape: A Single Case Study.",
+      "doi": "10.1080/15299732.2023.2289193",
+      "firstPublicationDate": "2023-11-29"
+    },
+    {
+      "id": "34943298",
+      "source": "MED",
+      "title": "Anxiety Reduction and Improved Concentration in Schoolchildren through Wingwave<sup>®</sup> Coaching.",
+      "doi": "10.3390/children8121102",
+      "firstPublicationDate": "2021-11-30"
+    },
+    {
+      "id": "36034114",
+      "source": "MED",
+      "title": "Spontaneous brain activity, graph metrics, and head motion related to prospective post-traumatic stress disorder trauma-focused therapy response.",
+      "doi": "10.3389/fnhum.2022.730745",
+      "firstPublicationDate": "2022-08-12"
+    },
+    {
+      "id": "40590118",
+      "source": "MED",
+      "title": "Trauma-Focused Treatment in Psychosis: A Systematic Review.",
+      "doi": "10.1111/eip.70064",
+      "firstPublicationDate": "2025-07-01"
+    },
+    {
+      "id": "38292286",
+      "source": "MED",
+      "title": "Psychological Support for Earthquake Survivors in Turkey and Syria.",
+      "doi": "10.4103/jets.jets_46_23",
+      "firstPublicationDate": "2023-10-24"
+    },
+    {
+      "id": "38148646",
+      "source": "MED",
+      "title": "A Systematic Review of Evidence-Based Treatments for Adolescent and Adult Sexual Assault Victims.",
+      "doi": "10.1177/10783903231216138",
+      "firstPublicationDate": "2023-12-26"
+    },
+    {
+      "id": "37079133",
+      "source": "MED",
+      "title": "Family-based psychological interventions for domestically adoptive families: a systematic review.",
+      "doi": "10.1007/s00787-023-02210-y",
+      "firstPublicationDate": "2023-04-20"
+    },
+    {
+      "id": "38769942",
+      "source": "MED",
+      "title": "Interventions Targeting Negative Mental Imagery in Social Anxiety: A Systematic Review and Meta-Analysis of Characteristics and Outcomes.",
+      "doi": "10.1002/cpp.2996",
+      "firstPublicationDate": "2024-05-01"
+    },
+    {
+      "id": "37228335",
+      "source": "MED",
+      "title": "Intervention with EMDR on a sample of healthcare workers in the nephrology and dialysis service during the COVID-19 emergency: from immediate treatment effect to long-term maintenance.",
+      "doi": "10.3389/fpsyg.2023.1120203",
+      "firstPublicationDate": "2023-05-09"
+    },
+    {
+      "id": "36910837",
+      "source": "MED",
+      "title": "Editorial: Present and future of EMDR in clinical psychology and psychotherapy, volume II.",
+      "doi": "10.3389/fpsyg.2023.1138153",
+      "firstPublicationDate": "2023-02-24"
+    },
+    {
+      "id": "38271004",
+      "source": "MED",
+      "title": "Treatment for childhood and adolescent dissociation: A systematic review.",
+      "doi": "10.1037/tra0001615",
+      "firstPublicationDate": "2024-01-25"
+    },
+    {
+      "id": "41563752",
+      "source": "MED",
+      "title": "Hope enhances treatment outcome of intensive trauma-focused treatment for PTSD.",
+      "doi": "10.1080/20008066.2025.2607191",
+      "firstPublicationDate": "2026-01-21"
+    },
+    {
+      "id": "34711095",
+      "source": "MED",
+      "title": "The Effectiveness of Trauma-Focused Interventions in Prison Settings: A Systematic Review and Meta-Analysis.",
+      "doi": "10.1177/15248380211043890",
+      "firstPublicationDate": "2021-10-28"
+    },
+    {
+      "id": "34490711",
+      "source": "MED",
+      "title": "Effects of rhythmic eye movements during a virtual reality exposure paradigm for spider-phobic patients.",
+      "doi": "10.1111/papt.12363",
+      "firstPublicationDate": "2021-09-06"
+    },
+    {
+      "id": "40508025",
+      "source": "MED",
+      "title": "Hyperarousal, Dissociation, Emotion Dysregulation and Re-Experiencing-Towards Understanding Molecular Aspects of PTSD Symptoms.",
+      "doi": "10.3390/ijms26115216",
+      "firstPublicationDate": "2025-05-29"
+    },
+    {
+      "id": "37584834",
+      "source": "MED",
+      "title": "Enhancing Fear Extinction: Pharmacological Approaches.",
+      "doi": "10.1007/7854_2023_443",
+      "firstPublicationDate": "2023-01-01"
+    },
+    {
+      "id": "38450651",
+      "source": "MED",
+      "title": "Clinician treatment choices for post-traumatic stress disorder: ambassadors survey of psychiatrists in 39 European countries.",
+      "doi": "10.1192/j.eurpsy.2024.19",
+      "firstPublicationDate": "2024-03-07"
+    },
+    {
+      "id": "38244488",
+      "source": "MED",
+      "title": "Autonomic nervous system function before and after trauma-focused psychotherapy in youth with (partial) posttraumatic stress disorder.",
+      "doi": "10.1016/j.psyneuen.2023.106945",
+      "firstPublicationDate": "2023-12-27"
+    },
+    {
+      "id": "35140878",
+      "source": "MED",
+      "title": "Remission of schizophrenia after an EMDR session.",
+      "doi": "10.1080/20008198.2021.2014660",
+      "firstPublicationDate": "2022-02-03"
+    },
+    {
+      "id": "36248565",
+      "source": "MED",
+      "title": "Using EMDR to treat intimate partner relationship break-up issues.",
+      "doi": "10.3389/fpsyg.2022.971856",
+      "firstPublicationDate": "2022-09-29"
+    },
+    {
+      "id": "40510681",
+      "source": "MED",
+      "title": "Perspectives: Mental health challenges and medical trauma: focus on cystinosis patients and caregivers.",
+      "doi": "10.3389/fped.2025.1592513",
+      "firstPublicationDate": "2025-05-29"
+    },
+    {
+      "id": "34512458",
+      "source": "MED",
+      "title": "Coronavirus Disease 2019 Emergency and Remote Eye Movement Desensitization and Reprocessing Group Therapy With Adolescents and Young Adults: Overcoming Lockdown With the Butterfly Hug.",
+      "doi": "10.3389/fpsyg.2021.701381",
+      "firstPublicationDate": "2021-08-25"
+    },
+    {
+      "id": "38408360",
+      "source": "MED",
+      "title": "The Management of Posttraumatic Stress Disorder and Acute Stress Disorder: Synopsis of the 2023 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guideline.",
+      "doi": "10.7326/m23-2757",
+      "firstPublicationDate": "2024-02-27"
+    },
+    {
+      "id": "36933473",
+      "source": "MED",
+      "title": "Omitting continuous memory recall from dual-task interventions does not reduce intervention effectiveness.",
+      "doi": "10.1016/j.brat.2023.104291",
+      "firstPublicationDate": "2023-03-10"
+    },
+    {
+      "id": "36910795",
+      "source": "MED",
+      "title": "Effects of wingwave<sup>®</sup> on athletes' wellbeing and fluidity of gaze behavior.",
+      "doi": "10.3389/fpsyg.2023.1010063",
+      "firstPublicationDate": "2023-02-23"
+    },
+    {
+      "id": "34090491",
+      "source": "MED",
+      "title": "Psychological and social interventions for mental health issues and disorders in Southeast Asia: a systematic review.",
+      "doi": "10.1186/s13033-021-00482-y",
+      "firstPublicationDate": "2021-06-05"
+    },
+    {
+      "id": "36425782",
+      "source": "MED",
+      "title": "Recent Traumatic Episode Protocol EMDR Applied Online for COVID-19-Related Symptoms of Turkish Health Care Workers Diagnosed with COVID-19-Related PTSD: A Pilot Study.",
+      "doi": "10.5152/alphapsychiatry.2022.21763",
+      "firstPublicationDate": "2022-05-01"
+    },
+    {
+      "id": "37480303",
+      "source": "MED",
+      "title": "THE CURIOUS CASE OF &apos;PSYCHO-OPHTHALMOLOGY&apos;: A NARRATIVE REVIEW OF OPHTHALMOLOGICAL ASPECTS OF PSYCHIATRIC DISORDERS.",
+      "doi": "10.24869/psyd.2023.163",
+      "firstPublicationDate": "2023-01-01"
+    },
+    {
+      "id": "35874361",
+      "source": "MED",
+      "title": "A Stage 1 Pilot Cohort Exploring the Use of EMDR Therapy as a Videoconference Psychotherapy During COVID-19 With Frontline Mental Health Workers: A Proof of Concept Study Utilising a Virtual Blind 2 Therapist Protocol.",
+      "doi": "10.3389/fpsyg.2022.901855",
+      "firstPublicationDate": "2022-07-06"
+    },
+    {
+      "id": "38665124",
+      "source": "MED",
+      "title": "The effects of an intensive outpatient treatment for PTSD.",
+      "doi": "10.1080/20008066.2024.2341548",
+      "firstPublicationDate": "2024-04-26"
+    },
+    {
+      "id": "34628152",
+      "source": "MED",
+      "title": "Mental health benefits of a 1-week intensive multimodal group program for adolescents with multiple adverse childhood experiences.",
+      "doi": "10.1016/j.chiabu.2021.105349",
+      "firstPublicationDate": "2021-10-07"
+    },
+    {
+      "id": "36582576",
+      "source": "MED",
+      "title": "Current Treatments of Post-traumatic Stress Disorder and Amygdala Ablation as a Potential Cutting-Edge Therapy in Its Refractory Cases.",
+      "doi": "10.7759/cureus.31943",
+      "firstPublicationDate": "2022-11-27"
+    },
+    {
+      "id": "41177597",
+      "source": "MED",
+      "title": "Manganese residue harmlessness with the combination of manganese mineralizing microbes, CaO and CO&lt;sub&gt;2&lt;/sub&gt;.",
+      "doi": "10.1016/j.jes.2025.05.007",
+      "firstPublicationDate": "2025-05-10"
+    },
+    {
+      "id": "38266762",
+      "source": "MED",
+      "title": "Effectiveness of Behavioral and Pharmacologic Interventions for Depressive Symptoms After Spinal Cord Injury: Findings From a Systematic Review.",
+      "doi": "10.1016/j.apmr.2024.01.004",
+      "firstPublicationDate": "2024-01-22"
+    },
+    {
+      "id": "40180039",
+      "source": "MED",
+      "title": "The efficacy of psychotherapeutic interventions for prolonged grief disorder: A systematic review.",
+      "doi": "10.1016/j.jad.2025.03.173",
+      "firstPublicationDate": "2025-04-01"
+    },
+    {
+      "id": "34113293",
+      "source": "MED",
+      "title": "The Structure of EMDR Therapy: A Guide for the Therapist.",
+      "doi": "10.3389/fpsyg.2021.660753",
+      "firstPublicationDate": "2021-05-25"
+    },
+    {
+      "id": "37795877",
+      "source": "MED",
+      "title": "Trauma therapies for psychosis: A state-of-the-art review.",
+      "doi": "10.1111/papt.12499",
+      "firstPublicationDate": "2023-10-05"
+    },
+    {
+      "id": "34640349",
+      "source": "MED",
+      "title": "Does EMDR Therapy Have an Effect on Memories of Emotional Abuse, Neglect and Other Types of Adverse Events in Patients with a Personality Disorder? Preliminary Data.",
+      "doi": "10.3390/jcm10194333",
+      "firstPublicationDate": "2021-09-23"
+    },
+    {
+      "id": "39839326",
+      "source": "MED",
+      "title": "Comparing the effectiveness of narrative therapy and EMDR-GTEP protocols in the treatment of post-traumatic stress in children exposed to humanitarian crises.",
+      "doi": "10.3389/frcha.2024.1320688",
+      "firstPublicationDate": "2024-05-24"
+    },
+    {
+      "id": "40995961",
+      "source": "MED",
+      "title": "[Trauma-focused treatments in people with personality disorders: comments on the evidence and on often-heard claims].",
+      "doi": null,
+      "firstPublicationDate": "2025-01-01"
+    },
+    {
+      "id": "37081840",
+      "source": "MED",
+      "title": "Reducing scratching behavior in atopic dermatitis patients using the EMDR treatment protocol for urge: A pilot study.",
+      "doi": "10.3389/fmed.2023.1101935",
+      "firstPublicationDate": "2023-04-04"
+    },
+    {
+      "id": "33638968",
+      "source": "MED",
+      "title": "Experience of an EMDR Practitioner in EMDR Education: Case Report.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "40792618",
+      "source": "MED",
+      "title": "Symptom retention after successful intensive trauma-focused treatment for post-traumatic stress disorder.",
+      "doi": "10.1080/20008066.2025.2537546",
+      "firstPublicationDate": "2025-08-12"
+    },
+    {
+      "id": "33802898",
+      "source": "MED",
+      "title": "Comparing Intensive Trauma-Focused Treatment Outcome on PTSD Symptom Severity in Older and Younger Adults.",
+      "doi": "10.3390/jcm10061246",
+      "firstPublicationDate": "2021-03-17"
+    },
+    {
+      "id": "37279309",
+      "source": "MED",
+      "title": "Comparative effectiveness of psychological interventions for treating the psychological consequences of sexual abuse in children and adolescents: a network meta-analysis.",
+      "doi": "10.1002/14651858.cd013361.pub2",
+      "firstPublicationDate": "2023-06-05"
+    },
+    {
+      "id": "34292978",
+      "source": "MED",
+      "title": "Trauma-focused treatments for depression. A systematic review and meta-analysis.",
+      "doi": "10.1371/journal.pone.0254778",
+      "firstPublicationDate": "2021-07-22"
+    },
+    {
+      "id": "37271413",
+      "source": "MED",
+      "title": "Protocol for a randomized controlled trial in Cambodian individuals with PTSD: Trauma-Informed Treatment Algorithms for Advancing Novel Outcomes (Project TITAN).",
+      "doi": "10.1016/j.cct.2023.107257",
+      "firstPublicationDate": "2023-06-02"
+    },
+    {
+      "id": "35126248",
+      "source": "MED",
+      "title": "Implementing an Eye Movement and Desensitization Reprocessing Treatment-Program for Women With Posttraumatic Stress Disorder After Childbirth.",
+      "doi": "10.3389/fpsyg.2021.797901",
+      "firstPublicationDate": "2022-01-21"
+    },
+    {
+      "id": "37160398",
+      "source": "MED",
+      "title": "Study protocol: how does parental stress measured by clinical scales and voice acoustic stress markers predict children's response to PTSD trauma-focused therapies?",
+      "doi": "10.1136/bmjopen-2022-068026",
+      "firstPublicationDate": "2023-05-09"
+    },
+    {
+      "id": "39692059",
+      "source": "MED",
+      "title": "Individual psychological interventions and therapies for posttraumatic stress disorder and posttraumatic stress symptoms in young children: a systematic review.",
+      "doi": "10.1080/20008066.2024.2432161",
+      "firstPublicationDate": "2024-12-18"
+    },
+    {
+      "id": "39850626",
+      "source": "MED",
+      "title": "Evaluation of reporting trends in the MAUDE Database: 1991 to 2022.",
+      "doi": "10.1177/20552076251314094",
+      "firstPublicationDate": "2025-01-23"
+    },
+    {
+      "id": "34814859",
+      "source": "MED",
+      "title": "The effectiveness of psychological support interventions for those exposed to mass infectious disease outbreaks: a systematic review.",
+      "doi": "10.1186/s12888-021-03602-7",
+      "firstPublicationDate": "2021-11-24"
+    },
+    {
+      "id": "33638954",
+      "source": "MED",
+      "title": "Preliminary Results of Doctoral Dissertation: Empirical Review of EMDR in the Process of Hospital Treatment of Opiates Addicts.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "35245166",
+      "source": "MED",
+      "title": "A Case for Translation From the Clinic to the Laboratory.",
+      "doi": "10.1177/17456916211039852",
+      "firstPublicationDate": "2022-03-04"
+    },
+    {
+      "id": "33889309",
+      "source": "MED",
+      "title": "A randomized controlled dismantling study of Visual Schema Displacement Therapy (VSDT) vs an abbreviated EMDR protocol vs a non-active control condition in individuals with disturbing memories.",
+      "doi": "10.1080/20008198.2021.1883924",
+      "firstPublicationDate": "2021-04-09"
+    },
+    {
+      "id": "34198055",
+      "source": "MED",
+      "title": "Verbal suggestions fail to modulate expectations about the effectiveness of a laboratory model of EMDR therapy: Results of two preregistered studies.",
+      "doi": "10.1016/j.jbtep.2021.101673",
+      "firstPublicationDate": "2021-06-25"
+    },
+    {
+      "id": "33993182",
+      "source": "MED",
+      "title": "Early Trauma Is Associated With Suicidal Ideation in Patients With Panic Disorder.",
+      "doi": "10.1097/nmd.0000000000001368",
+      "firstPublicationDate": "2021-10-01"
+    },
+    {
+      "id": "34539460",
+      "source": "MED",
+      "title": "A Treatment-Response Comparison Study of Resting-State Functional Magnetic Resonance Imaging Between Standard Treatment of SSRI and Standard Treatment of SSRI Plus Non-dominant Hand-Writing Task in Patients With Major Depressive Disorder.",
+      "doi": "10.3389/fpsyt.2021.698954",
+      "firstPublicationDate": "2021-09-03"
+    },
+    {
+      "id": "38706143",
+      "source": "MED",
+      "title": "Psychological Group Interventions for Reducing Distress Symptoms in Healthcare Workers: A Systematic Review.",
+      "doi": "10.1002/cpp.2980",
+      "firstPublicationDate": "2024-05-01"
+    },
+    {
+      "id": "38032045",
+      "source": "MED",
+      "title": "Post-incident psychosocial interventions after a traumatic incident in the workplace: a systematic review of current research evidence and clinical guidance.",
+      "doi": "10.1080/20008066.2023.2281751",
+      "firstPublicationDate": "2023-11-30"
+    },
+    {
+      "id": "40536014",
+      "source": "MED",
+      "title": "PTSD Symptoms change in response to a brief intensive trauma-focused treatment programme in non-veterans and veterans with war-related PTSD.",
+      "doi": "10.1080/20008066.2025.2511571",
+      "firstPublicationDate": "2025-06-19"
+    },
+    {
+      "id": "35742717",
+      "source": "MED",
+      "title": "Psychological Intervention in Women Victims of Childhood Sexual Abuse: An Open Study-Protocol of a Randomized Controlled Clinical Trial Comparing EMDR Psychotherapy and Trauma-Based Cognitive Therapy.",
+      "doi": "10.3390/ijerph19127468",
+      "firstPublicationDate": "2022-06-17"
+    },
+    {
+      "id": "36018050",
+      "source": "MED",
+      "title": "Psychodrama as a new intervention for reducing fear of childbirth: a randomised controlled trial.",
+      "doi": "10.1080/01443615.2022.2114329",
+      "firstPublicationDate": "2022-08-26"
+    },
+    {
+      "id": "34606479",
+      "source": "MED",
+      "title": "Trauma Psycho Social Support Plus and EMDR therapy for children and adolescents in a post-conflict setting: Mental health training in Kurdistan.",
+      "doi": "10.7146/torture.v31i1.123492",
+      "firstPublicationDate": "2021-01-01"
+    },
+    {
+      "id": "37187512",
+      "source": "MED",
+      "title": "<i>Dr. Smartphone, can you support my trauma</i>? An informatics analysis study of App Store apps for trauma- and stressor-related disorders.",
+      "doi": "10.7717/peerj.15366",
+      "firstPublicationDate": "2023-05-09"
+    },
+    {
+      "id": "37147042",
+      "source": "MED",
+      "title": "Post-Traumatic Stress Disorder/Developmental Trauma Disorder/Complex Post-Traumatic Stress Disorder and Complementary and Integrative Medicine/Functional Medicine.",
+      "doi": "10.1016/j.chc.2022.08.011",
+      "firstPublicationDate": "2023-04-01"
+    },
+    {
+      "id": "33638970",
+      "source": "MED",
+      "title": "Towards the EMDR: A Case Report.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "33638969",
+      "source": "MED",
+      "title": "EMDR Therapy - Selfexperience: Case Report.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "34314951",
+      "source": "MED",
+      "title": "Intensive clinical trauma treatment for children and adolescents with mild intellectual disability or borderline intellectual functioning: A pilot study.",
+      "doi": "10.1016/j.ridd.2021.104030",
+      "firstPublicationDate": "2021-07-24"
+    },
+    {
+      "id": "33638966",
+      "source": "MED",
+      "title": "Personal Experience of Becoming an EMDR Practitioner.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "36006699",
+      "source": "MED",
+      "title": "Anxiety following myocardial infarction: A systematic review of psychological interventions.",
+      "doi": "10.1037/hea0001216",
+      "firstPublicationDate": "2022-09-01"
+    },
+    {
+      "id": "34220056",
+      "source": "MED",
+      "title": "Psychogenic Nonepileptic Seizures and Psychosocial Management: A Narrative Review.",
+      "doi": "10.4103/aian.aian_884_20",
+      "firstPublicationDate": "2021-03-31"
+    },
+    {
+      "id": "33638959",
+      "source": "MED",
+      "title": "EMDR Treatment of Conduct Problems in Adolescent: Case Report.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "36410261",
+      "source": "MED",
+      "title": "Psychotherapies and digital interventions for OCD in adults: What do we know, what do we need still to explore?",
+      "doi": "10.1016/j.comppsych.2022.152357",
+      "firstPublicationDate": "2022-11-15"
+    },
+    {
+      "id": "33638958",
+      "source": "MED",
+      "title": "The Application of EMDR Therapy in Treating Adolescents with the Adjustment Disorder: A Case Report.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "33638957",
+      "source": "MED",
+      "title": "EMDR Treatment of Phobia of Thirteen Years Old Girl - Case Study.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "33638960",
+      "source": "MED",
+      "title": "EMDR Treatment of Panic Disorder with Agoraphobia: Case Report.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "35535472",
+      "source": "MED",
+      "title": "Therapist perceptions of treating posttraumatic stress disorder in pregnancy: The VIP Study.",
+      "doi": "10.1002/jts.22842",
+      "firstPublicationDate": "2022-05-10"
+    },
+    {
+      "id": "33638961",
+      "source": "MED",
+      "title": "Application of EMDR Therapy in the Treatment of a Heroin Addict - Case Report.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "33638967",
+      "source": "MED",
+      "title": "Personal Impresssions and Self Experience during EMDR Training and Group Supervision.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "33638955",
+      "source": "MED",
+      "title": "Efficacy of EMDR: Case Study of a Child with Choking Phobia - Case Report.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "33638962",
+      "source": "MED",
+      "title": "Review of the Application of EMDR Therapy in the Treatment of Pathological Gambling - Case Report.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "33638972",
+      "source": "MED",
+      "title": "Barriers to Psychological Treatment of Depression: Case Study Presentation of Incomplete EMDR Treatment.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "33638964",
+      "source": "MED",
+      "title": "Application of EMDR Therapy in Treatment of Fear for an Adult, Caused by Traumatic Experience during Childhood: Case Report.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "33638963",
+      "source": "MED",
+      "title": "Efficacy of EMDR Treatment in Generalized Anxiety Disorder after a Long-Standing Pharmacological Treatment - A Case Report.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "33638971",
+      "source": "MED",
+      "title": "Problems in Working with Complex, and Difficult Patient who Is Provided with EMDR Psychotherapy Services: Case Report.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "33638965",
+      "source": "MED",
+      "title": "The Effectiveness of Treating a Traffic Accident Trauma with EMDR after Failed Psychofarmacological Treatment - A Case Report.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "33638974",
+      "source": "MED",
+      "title": "Continual Support of Trauma Aid UK to Self-Sustaining of the Bosnia-Hercegovina EMDR Association.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "33638956",
+      "source": "MED",
+      "title": "EMDR Treatment of Psychosomatic Difficulties Caused by a Specific Style of Familial Interactions - Case Report.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "37795783",
+      "source": "MED",
+      "title": "Psychosocial interventions for survivors of rape and sexual assault experienced during adulthood.",
+      "doi": "10.1002/14651858.cd013456.pub2",
+      "firstPublicationDate": "2023-10-05"
+    },
+    {
+      "id": "36467161",
+      "source": "MED",
+      "title": "Early psychological intervention in adult patients after hospitalization during COVID-19 pandemia. A single center observational study.",
+      "doi": "10.3389/fpsyg.2022.1059134",
+      "firstPublicationDate": "2022-11-16"
+    },
+    {
+      "id": "34599050",
+      "source": "MED",
+      "title": "Comparative efficacy and acceptability of psychotherapies for post-traumatic stress disorder in children and adolescents: a systematic review and network meta-analysis.",
+      "doi": "10.1136/ebmental-2021-300346",
+      "firstPublicationDate": "2021-10-01"
+    },
+    {
+      "id": "36389546",
+      "source": "MED",
+      "title": "Constant installation of present orientation and safety (CIPOS) - subjective and physiological effects of an ultrashort-term intervention combining both stabilizing and confrontational elements.",
+      "doi": "10.3389/fpsyg.2022.1035371",
+      "firstPublicationDate": "2022-11-01"
+    },
+    {
+      "id": "39060246",
+      "source": "MED",
+      "title": "Distinct saliva DNA methylation profiles in relation to treatment outcome in youth with posttraumatic stress disorder.",
+      "doi": "10.1038/s41398-024-02892-1",
+      "firstPublicationDate": "2024-07-26"
+    },
+    {
+      "id": "37699277",
+      "source": "MED",
+      "title": "Efficacy of imagery rescripting in treating mental disorders associated with aversive memories - An updated meta-analysis.",
+      "doi": "10.1016/j.janxdis.2023.102772",
+      "firstPublicationDate": "2023-09-06"
+    },
+    {
+      "id": "34575263",
+      "source": "MED",
+      "title": "Predicting Outcome in an Intensive Outpatient PTSD Treatment Program Using Daily Measures.",
+      "doi": "10.3390/jcm10184152",
+      "firstPublicationDate": "2021-09-15"
+    },
+    {
+      "id": "36650502",
+      "source": "MED",
+      "title": "Design and rationale of the REStoring mood after early life trauma with psychotherapy (RESET-psychotherapy) study: a multicenter randomized controlled trial on the efficacy of adjunctive trauma-focused therapy (TFT) versus treatment as usual (TAU) for adult patients with major depressive disorder (MDD) and childhood trauma.",
+      "doi": "10.1186/s12888-023-04518-0",
+      "firstPublicationDate": "2023-01-17"
+    },
+    {
+      "id": "38233316",
+      "source": "MED",
+      "title": "Childbirth-related posttraumatic stress disorder: definition, risk factors, pathophysiology, diagnosis, prevention, and treatment.",
+      "doi": "10.1016/j.ajog.2023.09.089",
+      "firstPublicationDate": "2024-01-09"
+    },
+    {
+      "id": "39152566",
+      "source": "MED",
+      "title": "Psychological Interventions for PTSD, Depression, and Anxiety in Child, Adolescent and Adult Forced Migrants: A Systematic Review and Frequentist and Bayesian Meta-Analyses.",
+      "doi": "10.1002/cpp.3042",
+      "firstPublicationDate": "2024-07-01"
+    },
+    {
+      "id": "33638951",
+      "source": "MED",
+      "title": "The Need for Trauma Therapy for Victims of Man-Made Trauma Compared to Those of Natural Disaster, a Survey of Health Professionals.",
+      "doi": null,
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "36726803",
+      "source": "MED",
+      "title": "Shifting to Trauma-Informed Care in Inpatient Psychiatry: A Case Study of an Individual with Dissociative PTSD Undergoing EMDR Therapy.",
+      "doi": "10.1155/2023/8161010",
+      "firstPublicationDate": "2023-01-23"
+    },
+    {
+      "id": "36277314",
+      "source": "MED",
+      "title": "Momentary effects of Temstem, an app for voice-hearing individuals: Results from naturalistic data from 1048 users.",
+      "doi": "10.1016/j.invent.2022.100580",
+      "firstPublicationDate": "2022-10-05"
+    },
+    {
+      "id": "36744504",
+      "source": "MED",
+      "title": "[Innovative Integrative Approach in the Trauma Treatment in the First Years of Life: Integrative Attachment-Based TraumaTherapy for Infants and Toddlers].",
+      "doi": "10.13109/prkk.2023.72.2.113",
+      "firstPublicationDate": "2023-02-01"
+    },
+    {
+      "id": "36951782",
+      "source": "MED",
+      "title": "[Psychiatric diagnoses and treatment of deaf and hearing-impaired patients].",
+      "doi": null,
+      "firstPublicationDate": "2023-01-01"
+    },
+    {
+      "id": "36299547",
+      "source": "MED",
+      "title": "Talk-based approaches to support people who are distressed by their experience of hearing voices: A scoping review.",
+      "doi": "10.3389/fpsyt.2022.983999",
+      "firstPublicationDate": "2022-10-10"
+    },
+    {
+      "id": "34020974",
+      "source": "MED",
+      "title": "Addressing the psychological impact of COVID-19 on healthcare workers: learning from a systematic review of early interventions for frontline responders.",
+      "doi": "10.1136/bmjopen-2020-044134",
+      "firstPublicationDate": "2021-05-21"
+    },
+    {
+      "id": "34273165",
+      "source": "MED",
+      "title": "Brief trauma therapy for occupational trauma-related PTSD/CPTSD in UK police.",
+      "doi": "10.1093/occmed/kqab075",
+      "firstPublicationDate": "2021-08-01"
+    },
+    {
+      "id": "37667200",
+      "source": "MED",
+      "title": "Treatment of multiple traumatized adolescents by enhancing regulation skills and reducing trauma related symptoms: rationale, study design, and methods of randomized controlled trial (the Mars-study).",
+      "doi": "10.1186/s12888-023-05073-4",
+      "firstPublicationDate": "2023-09-04"
+    },
+    {
+      "id": "36434683",
+      "source": "MED",
+      "title": "Psychological interventions for post-traumatic stress injuries among public safety personnel: a systematic review and meta-analysis.",
+      "doi": "10.1186/s13643-022-02112-1",
+      "firstPublicationDate": "2022-11-25"
+    },
+    {
+      "id": "37201380",
+      "source": "MED",
+      "title": "The effectiveness of post-disaster psychotherapeutic interventions: A systematic review and meta-analysis study.",
+      "doi": "10.1016/j.ajp.2023.103615",
+      "firstPublicationDate": "2023-05-05"
+    },
+    {
+      "id": "33554009",
+      "source": "MED",
+      "title": "Collision Every Night: Treating Nightmares with Trauma-focused Methods: Case Report.",
+      "doi": "10.1007/s41782-021-00126-8",
+      "firstPublicationDate": "2021-02-01"
+    },
+    {
+      "id": "37614489",
+      "source": "MED",
+      "title": "The impact of intensive trauma-focused treatment on sexual functioning in individuals with PTSD.",
+      "doi": "10.3389/fpsyg.2023.1191916",
+      "firstPublicationDate": "2023-08-08"
+    },
+    {
+      "id": "37546473",
+      "source": "MED",
+      "title": "Adding physical activity to intensive trauma-focused treatment for post-traumatic stress disorder: results of a randomized controlled trial.",
+      "doi": "10.3389/fpsyg.2023.1215250",
+      "firstPublicationDate": "2023-07-20"
+    },
+    {
+      "id": "36245809",
+      "source": "MED",
+      "title": "[Psychological impact of the COVID-19 pandemic on children and adolescents and treatments].",
+      "doi": "10.1016/j.amp.2022.10.016",
+      "firstPublicationDate": "2022-10-12"
+    },
+    {
+      "id": "35652501",
+      "source": "MED",
+      "title": "A court ruled case on therapy-induced false memories.",
+      "doi": "10.1111/1556-4029.15073",
+      "firstPublicationDate": "2022-06-02"
+    },
+    {
+      "id": "35527072",
+      "source": "MED",
+      "title": "[Psycho-oncological interventions: What type of psychotherapeutic innovations?]",
+      "doi": "10.1016/j.bulcan.2022.03.001",
+      "firstPublicationDate": "2022-05-05"
+    },
+    {
+      "id": "38268571",
+      "source": "MED",
+      "title": "Trauma-Informed Care in Psychedelic Therapy Research: A Qualitative Literature Review of Evidence-Based Psychotherapy Interventions in PTSD and Psychedelic Therapy Across Conditions.",
+      "doi": "10.2147/ndt.s432537",
+      "firstPublicationDate": "2024-01-20"
+    },
+    {
+      "id": "34157025",
+      "source": "MED",
+      "title": "Trauma informed interventions: A systematic review.",
+      "doi": "10.1371/journal.pone.0252747",
+      "firstPublicationDate": "2021-06-22"
+    },
+    {
+      "id": "34033709",
+      "source": "MED",
+      "title": "Meta-Analysis of the Treatment of Posttraumatic Stress Disorder in Adults With Comorbid Severe Mental Illness.",
+      "doi": "10.4088/jcp.20r13584",
+      "firstPublicationDate": "2021-05-25"
+    },
+    {
+      "id": "37796651",
+      "source": "MED",
+      "title": "Changes in comorbid depression following intensive trauma-focused treatment for PTSD and complex PTSD.",
+      "doi": "10.1080/20008066.2023.2258313",
+      "firstPublicationDate": "2023-10-05"
+    },
+    {
+      "id": "36266402",
+      "source": "MED",
+      "title": "Epigenetic impact of a 1-week intensive multimodal group program for adolescents with multiple adverse childhood experiences.",
+      "doi": "10.1038/s41598-022-21246-9",
+      "firstPublicationDate": "2022-10-20"
+    },
+    {
+      "id": "34318331",
+      "source": "MED",
+      "title": "Combat and Operational Stress Control Interventions and PTSD: A Systematic Review and Meta-Analysis.",
+      "doi": "10.1093/milmed/usab310",
+      "firstPublicationDate": "2022-07-01"
+    },
+    {
+      "id": "33947471",
+      "source": "MED",
+      "title": "Neural correlates of treatment effect and prediction of treatment outcome in patients with PTSD and comorbid personality disorder: study design.",
+      "doi": "10.1186/s40479-021-00156-8",
+      "firstPublicationDate": "2021-05-05"
+    },
+    {
+      "id": "35573371",
+      "source": "MED",
+      "title": "The Prevalence of PTSD in a Forensic Psychiatric Setting: The Impact of Traumatic Lifetime Experiences.",
+      "doi": "10.3389/fpsyt.2022.843730",
+      "firstPublicationDate": "2022-04-27"
+    },
+    {
+      "id": "34619553",
+      "source": "MED",
+      "title": "The effectiveness of dual-task interventions for modulating emotional memories in the laboratory: A meta-analysis.",
+      "doi": "10.1016/j.actpsy.2021.103424",
+      "firstPublicationDate": "2021-10-05"
+    },
+    {
+      "id": "35707677",
+      "source": "MED",
+      "title": "The Role of the Endocannabinoids 2-AG and Anandamide in Clinical Symptoms and Treatment Outcome in Veterans with PTSD.",
+      "doi": "10.1177/24705470221107290",
+      "firstPublicationDate": "2022-01-01"
+    },
+    {
+      "id": "36329832",
+      "source": "MED",
+      "title": "A randomized controlled trial to pilot the efficacy of a computer-based intervention with elements of virtual reality and limited therapist assistance for the treatment of post-traumatic stress disorder.",
+      "doi": "10.3389/fdgth.2022.974668",
+      "firstPublicationDate": "2022-10-18"
+    },
+    {
+      "id": "33804440",
+      "source": "MED",
+      "title": "Patient and Therapist Perspectives on Treatment for Adults with PTSD from Childhood Trauma.",
+      "doi": "10.3390/jcm10050954",
+      "firstPublicationDate": "2021-03-01"
+    },
+    {
+      "id": "36186161",
+      "source": "MED",
+      "title": "Fully remote intensive trauma-focused treatment for PTSD and Complex PTSD.",
+      "doi": "10.1080/20008066.2022.2103287",
+      "firstPublicationDate": "2022-09-22"
+    },
+    {
+      "id": "38872595",
+      "source": "MED",
+      "title": "Effects of intensive trauma-focused treatment of individuals with both post-traumatic stress disorder and borderline personality disorder.",
+      "doi": "10.1080/20008066.2022.2143076",
+      "firstPublicationDate": "2022-11-23"
+    },
+    {
+      "id": "33917166",
+      "source": "MED",
+      "title": "Somatoform Dissociative Symptoms Have No Impact on the Outcome of Trauma-Focused Treatment for Severe PTSD.",
+      "doi": "10.3390/jcm10081553",
+      "firstPublicationDate": "2021-04-07"
+    },
+    {
+      "id": "35126881",
+      "source": "MED",
+      "title": "Augmenting PTSD treatment with physical activity: study protocol of the APPART study (Augmentation for PTSD with Physical Activity in a Randomized Trial).",
+      "doi": "10.1080/20008198.2021.2016219",
+      "firstPublicationDate": "2022-01-31"
+    },
+    {
+      "id": "34377359",
+      "source": "MED",
+      "title": "A meta-analysis of dropout from evidence-based psychological treatment for post-traumatic stress disorder (PTSD) in children and young people.",
+      "doi": "10.1080/20008198.2021.1947570",
+      "firstPublicationDate": "2021-08-05"
+    },
+    {
+      "id": "34025912",
+      "source": "MED",
+      "title": "Safety and effectiveness of intensive treatment for complex PTSD delivered via home-based telehealth.",
+      "doi": "10.1080/20008198.2020.1860346",
+      "firstPublicationDate": "2021-02-11"
+    },
+    {
+      "id": "33610906",
+      "source": "MED",
+      "title": "ICD-11 complex Post Traumatic Stress Disorder (CPTSD) in parents with perinatal bereavement: Implications for treatment and care.",
+      "doi": "10.1016/j.midw.2021.102947",
+      "firstPublicationDate": "2021-02-12"
+    }
+  ]
+}

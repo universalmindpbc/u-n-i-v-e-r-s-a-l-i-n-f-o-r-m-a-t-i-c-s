@@ -1,0 +1,46 @@
+{
+  "verified_on": "2026-10-18",
+  "view_id": "3fb7b9c9-9c56-817a-a19e-000c3fd27dba",
+  "records": [
+    {
+      "modulus": 9,
+      "page_id": "3fb7b9c9-9c56-8137-a2c5-c99b7bc2a1ee",
+      "all_alpha": 4,
+      "primary_gamma": 1,
+      "verified": true,
+      "unrelated_data_preserved": true
+    },
+    {
+      "modulus": 18,
+      "page_id": "3fb7b9c9-9c56-81dd-8058-e69548b963aa",
+      "all_alpha": 4,
+      "primary_gamma": 1,
+      "verified": true,
+      "unrelated_data_preserved": true
+    },
+    {
+      "modulus": 27,
+      "page_id": "3fb7b9c9-9c56-810f-84a9-c5902c0c9b46",
+      "all_alpha": 12,
+      "primary_gamma": 3,
+      "verified": true,
+      "unrelated_data_preserved": true
+    },
+    {
+      "modulus": 36,
+      "page_id": "3fb7b9c9-9c56-81aa-a715-f609e29eeadd",
+      "all_alpha": 4,
+      "primary_gamma": 1,
+      "verified": true,
+      "unrelated_data_preserved": true
+    },
+    {
+      "modulus": 45,
+      "page_id": "3fb7b9c9-9c56-81c9-8d95-f0df3b6e15c6",
+      "all_alpha": 20,
+      "primary_gamma": 5,
+      "verified": true,
+      "unrelated_data_preserved": true
+    }
+  ]
+}

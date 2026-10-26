@@ -1,0 +1,11 @@
+# Atlas geometry explorer and visible Epsilon failures
+
+Every modulus exposes Epsilon. Qualifying M9 shows the established route; M18 retains the approved native/reduced reference-path switch. Other records show a selectable regular six-node candidate, native Alpha values, missing required values and failing node positions, without connecting candidate points. Periods without a regular six-node set explicitly report that absence. Native epsilon qualification is not changed by making a diagnostic tab visible.
+
+The Other geometry tab precedes Geometry summary and renders the complete existing formation_catalogue, not just the primary Gamma subset. Each triangle/hexagon retains native values, exact Alpha indices, clock positions, rotation and primary-Gamma membership. Hexagons also offer the agreed 2D stellated octahedron drawing. The UI states that the polygons follow from the index grid and that node values are the research candidates. M23P48 has 16 triangles and 8 hexagons; the 8 derived star drawings are views of those hexagons, not additional independent formations.
+
+JSON and full bundle now include epsilon_assessment with per-candidate failure reasons. epsilon_assessment.csv gives 24 records. Native Alpha/Beta/Gamma and qualified Epsilon remain unchanged. Interactive candidate diagrams offer SVG exports; existing Python views retain SVG/PNG exports.
+
+The workspace now top-aligns figures against the sidebar and computes diagram height from the visible viewport below navigation. Epsilon reserves mobile space for controls/sequence. Local browser preflight passed 1440x900, 1366x768, 390x844: full diagram caption and M18 sequence above the fold; M23 candidates and rotations selectable; no failure-path edges; M1 explicit absence. Native/fullscreen calls stubbed and process-level audio disabled for QA.
+
+Live staging verification passed at the same three viewport sizes. All 24 records passed tab and diagram checks on desktop and mobile. CSV, JSON and ZIP downloads matched local outputs; all 242 public asset hashes matched. Odom construction, formula and Replay remained above the fold at four viewport sizes. Dedicated Chromium used --mute-audio and closed after verification. Production was not modified.

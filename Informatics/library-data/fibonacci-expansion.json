@@ -1,0 +1,3122 @@
+{
+  "reviewedAt": "2026-10-26",
+  "records": [
+    {
+      "id": "nature-fibonacci-srep27347",
+      "title": "Optimal hash arrangement of tentacles in jellyfish",
+      "journal": "Scientific Reports",
+      "year": 2016,
+      "authors": "Takuya Okabe; Jin Yoshimura",
+      "doi": "10.1038/srep27347",
+      "pmid": "27273762",
+      "urls": [
+        "https://www.nature.com/articles/srep27347",
+        "https://doi.org/10.1038/srep27347",
+        "https://pubmed.ncbi.nlm.nih.gov/27273762/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Biological pattern formation"
+      ],
+      "targets": [],
+      "design": "Biological observations with a mathematical optimality model",
+      "summary": "The authors relate previously reported jellyfish tentacle arrangements to Fibonacci hashing and derive an angular-spacing model that distributes a changing number of organs uniformly.",
+      "finding": "The authors relate previously reported jellyfish tentacle arrangements to Fibonacci hashing and derive an angular-spacing model that distributes a changing number of organs uniformly.",
+      "limitation": "The biological observations come from earlier studies. Constant-angle development and a fitness advantage for uniform spacing are model assumptions; a controlled evolutionary test is absent.",
+      "citationCount": 2,
+      "citationSnapshot": {
+        "count": 2,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/srep27347",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-04-29T12:53:44Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2016-06-07",
+      "publicationDates": {
+        "firstPublished": "2016-06-07",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Biological observations with a mathematical optimality model",
+        "evidenceClass": "biological_observation_and_model",
+        "measurement": "Prior observations of hydromedusan tentacles; mathematical spacing theorem",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Introduction; Theorem S..",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Biological observations with a mathematical optimality model. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/srep27347"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-srep15358",
+      "title": "Biophysical optimality of the golden angle in phyllotaxis",
+      "journal": "Scientific Reports",
+      "year": 2015,
+      "authors": "Takuya Okabe",
+      "doi": "10.1038/srep15358",
+      "pmid": "26471765",
+      "urls": [
+        "https://www.nature.com/articles/srep15358",
+        "https://doi.org/10.1038/srep15358",
+        "https://pubmed.ncbi.nlm.nih.gov/26471765/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Biological pattern formation"
+      ],
+      "targets": [],
+      "design": "Mathematical and numerical model of plant development",
+      "summary": "An energy-cost model identifies the golden angle as an optimum for transitions between phyllotactic fractions and reproduces several common and less common leaf-arrangement sequences.",
+      "finding": "An energy-cost model identifies the golden angle as an optimum for transitions between phyllotactic fractions and reproduces several common and less common leaf-arrangement sequences.",
+      "limitation": "The proposed evolutionary explanation depends on the chosen transition-cost model. Agreement with known patterns does not measure the assumed energy costs or establish the genetic mechanism.",
+      "citationCount": 31,
+      "citationSnapshot": {
+        "count": 31,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/srep15358",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-10-16T19:42:48Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2015-10-16",
+      "publicationDates": {
+        "firstPublished": "2015-10-16",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Mathematical and numerical model of plant development",
+        "evidenceClass": "proposed_biological_model",
+        "measurement": "Phyllotactic fractions and divergence-angle cost function",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Results; Discussion; Methods.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Mathematical and numerical model of plant development. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/srep15358"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-s41598-023-34880-8",
+      "title": "Golden ratio in venation patterns of dragonfly wings",
+      "journal": "Scientific Reports",
+      "year": 2023,
+      "authors": "Keene Lu; Samson Shen; Lisa M. Miller; Xiaojing Huang",
+      "doi": "10.1038/s41598-023-34880-8",
+      "pmid": "37188747",
+      "urls": [
+        "https://www.nature.com/articles/s41598-023-34880-8",
+        "https://doi.org/10.1038/s41598-023-34880-8",
+        "https://pubmed.ncbi.nlm.nih.gov/37188747/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Biological pattern formation"
+      ],
+      "targets": [],
+      "design": "Observational morphology with a geometric model",
+      "summary": "Measurements from 50 dragonfly wings reveal preferred intervein angles. A golden-angle and golden-ratio partition model describes selected features of the angle distributions.",
+      "finding": "Measurements from 50 dragonfly wings reveal preferred intervein angles. A golden-angle and golden-ratio partition model describes selected features of the angle distributions.",
+      "limitation": "Geometric agreement is observational. The analysis does not experimentally establish a developmental cause or prove that this arrangement optimizes wing performance.",
+      "citationCount": 6,
+      "citationSnapshot": {
+        "count": 6,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s41598-023-34880-8",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-07-02T12:25:54Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2023-05-15",
+      "publicationDates": {
+        "firstPublished": "2023-05-15",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Observational morphology with a geometric model",
+        "evidenceClass": "biological_observation_and_model",
+        "measurement": "Angular distributions from 50 dragonfly wings",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Materials and method; Results and discussion; Golden-ratio partition model.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Observational morphology with a geometric model. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41598-023-34880-8"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-nature02081",
+      "title": "Regulation of phyllotaxis by polar auxin transport",
+      "journal": "Nature",
+      "year": 2003,
+      "authors": "Didier Reinhardt; Eva-Rachele Pesce; Pia Stieger; Therese Mandel; Kurt Baltensperger; Malcolm Bennett; Jan Traas; Jiří Friml; Cris Kuhlemeier",
+      "doi": "10.1038/nature02081",
+      "pmid": "14628043",
+      "urls": [
+        "https://www.nature.com/articles/nature02081",
+        "https://doi.org/10.1038/nature02081",
+        "https://pubmed.ncbi.nlm.nih.gov/14628043/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Biological pattern formation"
+      ],
+      "targets": [],
+      "design": "Plant developmental experiments and mechanistic model",
+      "summary": "Experiments link polar auxin transport to the positions of new plant organs. Existing primordia act as auxin sinks, helping define the spacing and stability of phyllotactic patterns.",
+      "finding": "Experiments link polar auxin transport to the positions of new plant organs. Existing primordia act as auxin sinks, helping define the spacing and stability of phyllotactic patterns.",
+      "limitation": "This is mechanistic context for plant pattern formation. It does not establish a universal Fibonacci mechanism across organisms or molecular systems; appraisal here is limited to the abstract and publisher metadata.",
+      "citationCount": 1350,
+      "citationSnapshot": {
+        "count": 1350,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/nature02081",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-10-07T06:50:17Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2003-11-20",
+      "publicationDates": {
+        "firstPublished": "2003-11-20",
+        "issue": "2003-11",
+        "yearBasis": "Issue year when available; first-publication year otherwise.",
+        "note": "Publisher issue date is 20 November 2003; Crossref supplies November 2003 without a day."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Plant developmental experiments and mechanistic model",
+        "evidenceClass": "biological_experiment",
+        "measurement": "Plant shoot apical meristems; auxin transport and organ initiation",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Abstract; publisher metadata.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Plant developmental experiments and mechanistic model. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/nature02081"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-nature12791",
+      "title": "Cytokinin signalling inhibitory fields provide robustness to phyllotaxis",
+      "journal": "Nature",
+      "year": 2014,
+      "authors": "Fabrice Besnard; Yassin Refahi; Valérie Morin; Benjamin Marteaux; Géraldine Brunoud; Pierre Chambrier; Frédérique Rozier; Vincent Mirabet; Jonathan Legrand; Stéphanie Lainé; Emmanuel Thévenon; Etienne Farcot; Coralie Cellier; Pradeep Das; Anthony Bishopp; Renaud Dumas; François Parcy; Ykä Helariutta; Arezki Boudaoud; Christophe Godin; Jan Traas; Yann Guédon; Teva Vernoux",
+      "doi": "10.1038/nature12791",
+      "pmid": "24336201",
+      "urls": [
+        "https://www.nature.com/articles/nature12791",
+        "https://doi.org/10.1038/nature12791",
+        "https://pubmed.ncbi.nlm.nih.gov/24336201/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Biological pattern formation"
+      ],
+      "targets": [],
+      "design": "Plant developmental experiments and hormone-signalling model",
+      "summary": "The study identifies mobile AHP6-mediated inhibition of cytokinin signalling as a contributor to the timing and robustness of organ initiation, acting downstream of auxin in plant phyllotaxis.",
+      "finding": "The study identifies mobile AHP6-mediated inhibition of cytokinin signalling as a contributor to the timing and robustness of organ initiation, acting downstream of auxin in plant phyllotaxis.",
+      "limitation": "The result concerns a specific plant developmental system. It is background on the robustness of phyllotactic patterns, with no test of a numerical rule in OXTR; appraisal here is abstract-level.",
+      "citationCount": 264,
+      "citationSnapshot": {
+        "count": 264,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/nature12791",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-10-09T01:08:11Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2013-12-15",
+      "publicationDates": {
+        "firstPublished": "2013-12-15",
+        "issue": "2014-01-16",
+        "yearBasis": "Issue year when available; first-publication year otherwise.",
+        "note": "Published online 15 December 2013; Nature volume 505 issue dated 16 January 2014."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Plant developmental experiments and hormone-signalling model",
+        "evidenceClass": "biological_experiment",
+        "measurement": "Plant shoot apical meristems; AHP6 and cytokinin signalling",
+        "measuredGenes": [
+          "AHP6 (plant cytokinin-signalling inhibitor)"
+        ],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Abstract; publisher metadata.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Plant developmental experiments and hormone-signalling model. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/nature12791"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-s41598-021-93133-8",
+      "title": "Discovery of spatial pattern of prickles on stem of Rosa hybrida ‘Red Queen’ and mathematical model of the pattern",
+      "journal": "Scientific Reports",
+      "year": 2021,
+      "authors": "Kazuaki Amikura; Hiroshi Ito; Miho S. Kitazawa",
+      "doi": "10.1038/s41598-021-93133-8",
+      "pmid": "34226577",
+      "urls": [
+        "https://www.nature.com/articles/s41598-021-93133-8",
+        "https://doi.org/10.1038/s41598-021-93133-8",
+        "https://pubmed.ncbi.nlm.nih.gov/34226577/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Biological pattern formation"
+      ],
+      "targets": [],
+      "design": "Plant morphology measurements and mathematical model",
+      "summary": "Rose stems show a non-random distribution of prickles relative to spiral leaf phyllotaxis. A diffusion-based inhibition model reproduces the measured pattern and selected patterns in other plants.",
+      "finding": "Rose stems show a non-random distribution of prickles relative to spiral leaf phyllotaxis. A diffusion-based inhibition model reproduces the measured pattern and selected patterns in other plants.",
+      "limitation": "The primary measurements cover nine shoots of one rose cultivar. The model assumes a patterning process; the responsible inhibitory factors and broader applicability remain unresolved.",
+      "citationCount": 4,
+      "citationSnapshot": {
+        "count": 4,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s41598-021-93133-8",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-02-26T20:00:06Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2021-07-05",
+      "publicationDates": {
+        "firstPublished": "2021-07-05",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Plant morphology measurements and mathematical model",
+        "evidenceClass": "biological_observation_and_model",
+        "measurement": "Nine measured rose shoots; angular and height distributions",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Results; Discussion; Methods.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Plant morphology measurements and mathematical model. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41598-021-93133-8"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-s41598-017-13767-5",
+      "title": "Towards an understanding of spiral patterning in the Sargassum muticum shoot apex",
+      "journal": "Scientific Reports",
+      "year": 2017,
+      "authors": "Marina Linardić; Siobhan A. Braybrook",
+      "doi": "10.1038/s41598-017-13767-5",
+      "pmid": "29066850",
+      "urls": [
+        "https://www.nature.com/articles/s41598-017-13767-5",
+        "https://doi.org/10.1038/s41598-017-13767-5",
+        "https://pubmed.ncbi.nlm.nih.gov/29066850/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Biological pattern formation"
+      ],
+      "targets": [],
+      "design": "Algal developmental observations and perturbation experiments",
+      "summary": "Sargassum muticum displays a mean divergence angle close to the golden angle. Organ placement is uncoupled from apical-cell division orientation, while the tested auxin and wall-softening explanations fail to account for bud position.",
+      "finding": "Sargassum muticum displays a mean divergence angle close to the golden angle. Organ placement is uncoupled from apical-cell division orientation, while the tested auxin and wall-softening explanations fail to account for bud position.",
+      "limitation": "The developmental signal remains unidentified. Similar geometry in algae and plants does not establish a shared molecular mechanism.",
+      "citationCount": 18,
+      "citationSnapshot": {
+        "count": 18,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s41598-017-13767-5",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-09-27T16:03:12Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2017-10-24",
+      "publicationDates": {
+        "firstPublished": "2017-10-24",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Algal developmental observations and perturbation experiments",
+        "evidenceClass": "biological_experiment",
+        "measurement": "Sargassum shoot apices; 260 measured divergence angles",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Results; Discussion; Materials and Methods.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Algal developmental observations and perturbation experiments. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41598-017-13767-5"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-srep39821",
+      "title": "Use of Fibonacci numbers in lipidomics – Enumerating various classes of fatty acids",
+      "journal": "Scientific Reports",
+      "year": 2017,
+      "authors": "Stefan Schuster; Maximilian Fichtner; Severin Sasso",
+      "doi": "10.1038/srep39821",
+      "pmid": "28071669",
+      "urls": [
+        "https://www.nature.com/articles/srep39821",
+        "https://doi.org/10.1038/srep39821",
+        "https://pubmed.ncbi.nlm.nih.gov/28071669/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Molecular computation"
+      ],
+      "targets": [],
+      "design": "Combinatorial proof and chemical enumeration",
+      "summary": "The paper derives Fibonacci counts for a defined class of unbranched fatty-acid structures when cis/trans isomers are not distinguished. Modified assumptions produce generalized recurrences, including Pell-number cases.",
+      "finding": "The paper derives Fibonacci counts for a defined class of unbranched fatty-acid structures when cis/trans isomers are not distinguished. Modified assumptions produce generalized recurrences, including Pell-number cases.",
+      "limitation": "The result counts chemically specified possibilities. It does not show that living organisms produce all counted structures, that measured lipid abundances follow the sequence, or that the rule applies to arbitrary molecules.",
+      "citationCount": 10,
+      "citationSnapshot": {
+        "count": 10,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/srep39821",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-06-20T05:25:31Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2017-01-10",
+      "publicationDates": {
+        "firstPublished": "2017-01-10",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Combinatorial proof and chemical enumeration",
+        "evidenceClass": "mathematical_result",
+        "measurement": "Specified fatty-acid classes and recursive enumeration",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Results; Discussion.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Combinatorial proof and chemical enumeration. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/srep39821"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-s41540-026-00733-z",
+      "title": "Bacterial gene regulatory neural network as a biocomputing library of mathematical solvers",
+      "journal": "npj Systems Biology and Applications",
+      "year": 2026,
+      "authors": "Adrian Ratwatte; Samitha Somathilaka; Ngoc Dan Thanh Cao; Xu Li; Sasitharan Balasubramaniam",
+      "doi": "10.1038/s41540-026-00733-z",
+      "pmid": "42120901",
+      "urls": [
+        "https://www.nature.com/articles/s41540-026-00733-z",
+        "https://doi.org/10.1038/s41540-026-00733-z",
+        "https://pubmed.ncbi.nlm.nih.gov/42120901/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Molecular computation"
+      ],
+      "targets": [],
+      "design": "Transcriptomic data analysis and gene-network computational modelling",
+      "summary": "A search procedure identifies bacterial regulatory subnetworks whose expression responses match several finite mathematical tasks. One output-gene pattern approximates Fibonacci numbers across a small set of chemically encoded conditions.",
+      "finding": "A search procedure identifies bacterial regulatory subnetworks whose expression responses match several finite mathematical tasks. One output-gene pattern approximates Fibonacci numbers across a small set of chemically encoded conditions.",
+      "limitation": "Subnetworks are selected for agreement with the target pattern. The finite input set and computational stability analyses do not establish unrestricted arithmetic, natural selection for Fibonacci computation, or performance on unseen tasks.",
+      "citationCount": 0,
+      "citationSnapshot": {
+        "count": 0,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s41540-026-00733-z",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-07-21T23:02:57Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2026-05-12",
+      "publicationDates": {
+        "firstPublished": "2026-05-12",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Transcriptomic data analysis and gene-network computational modelling",
+        "evidenceClass": "biological_data_computational_model",
+        "measurement": "E. coli K-12 expression data under chemically encoded conditions; network search and perturbation models",
+        "measuredGenes": [
+          "E. coli b4056 (selected Fibonacci-task output; broader transcriptome also measured)"
+        ],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Abstract; Introduction; Results, Fibonacci-number task.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Transcriptomic data analysis and gene-network computational modelling. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41540-026-00733-z"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-s41586-025-09570-2",
+      "title": "Heat-rechargeable computation in DNA logic circuits and neural networks",
+      "journal": "Nature",
+      "year": 2025,
+      "authors": "Tianqi Song; Lulu Qian",
+      "doi": "10.1038/s41586-025-09570-2",
+      "pmid": "41034583",
+      "urls": [
+        "https://www.nature.com/articles/s41586-025-09570-2",
+        "https://doi.org/10.1038/s41586-025-09570-2",
+        "https://pubmed.ncbi.nlm.nih.gov/41034583/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Molecular computation"
+      ],
+      "targets": [],
+      "design": "Engineered DNA-circuit experiments with simulations",
+      "summary": "Heat resets engineered DNA circuits for repeated computation. A feedforward logic circuit returns the first 16 Fibonacci-word elements from index inputs and maintains performance across 16 computation rounds with 15 resets.",
+      "finding": "Heat resets engineered DNA circuits for repeated computation. A feedforward logic circuit returns the first 16 Fibonacci-word elements from index inputs and maintains performance across 16 computation rounds with 15 resets.",
+      "limitation": "The Fibonacci circuit uses a designed truth table and finite inputs. It does not autonomously generate an unbounded sequence or reveal a naturally occurring genomic computation.",
+      "citationCount": 24,
+      "citationSnapshot": {
+        "count": 24,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s41586-025-09570-2",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-10-21T00:35:53Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2025-10-01",
+      "publicationDates": {
+        "firstPublished": "2025-10-01",
+        "issue": "2025-10-09",
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Engineered DNA-circuit experiments with simulations",
+        "evidenceClass": "engineered_biological_computation",
+        "measurement": "Engineered DNA strands; fluorescence kinetics; 16 Fibonacci-word queries",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Abstract; Versatility; reset and fluorescence methods.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Engineered DNA-circuit experiments with simulations. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41586-025-09570-2"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-s41567-024-02529-6",
+      "title": "Non-Abelian braiding of Fibonacci anyons with a superconducting processor",
+      "journal": "Nature Physics",
+      "year": 2024,
+      "authors": "Shibo Xu; Zheng-Zhi Sun; Ke Wang; Hekang Li; Zitian Zhu; Hang Dong; Jinfeng Deng; Xu Zhang; Jiachen Chen; Yaozu Wu; Chuanyu Zhang; Feitong Jin; Xuhao Zhu; Yu Gao; Aosai Zhang; Ning Wang; Yiren Zou; Ziqi Tan; Fanhao Shen; Jiarun Zhong; Zehang Bao; Weikang Li; Wenjie Jiang; Li-Wei Yu; Zixuan Song; Pengfei Zhang; Liang Xiang; Qiujiang Guo; Zhen Wang; Chao Song; H. Wang; Dong-Ling Deng",
+      "doi": "10.1038/s41567-024-02529-6",
+      "pmid": null,
+      "urls": [
+        "https://www.nature.com/articles/s41567-024-02529-6",
+        "https://doi.org/10.1038/s41567-024-02529-6"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Quantum information"
+      ],
+      "targets": [],
+      "design": "Superconducting-processor quantum simulation experiment",
+      "summary": "A 27-qubit superconducting processor prepares Fibonacci string-net states and probes their topological properties. Created excitations exhibit fusion and braiding signatures consistent with Fibonacci anyons.",
+      "finding": "A 27-qubit superconducting processor prepares Fibonacci string-net states and probes their topological properties. Created excitations exhibit fusion and braiding signatures consistent with Fibonacci anyons.",
+      "limitation": "The demonstration uses digitally prepared states on a noisy processor. It does not establish a scalable fault-tolerant computer or a biological role for Fibonacci mathematics.",
+      "citationCount": 62,
+      "citationSnapshot": {
+        "count": 62,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s41567-024-02529-6",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-10-20T00:52:09Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2024-07-01",
+      "publicationDates": {
+        "firstPublished": "2024-07-01",
+        "issue": "2024-09",
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Superconducting-processor quantum simulation experiment",
+        "evidenceClass": "physical_experiment",
+        "measurement": "27 superconducting qubits; entanglement, fusion and braiding measurements",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Main; Ground-state preparation; Braiding statistics; Conclusion and outlook.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Superconducting-processor quantum simulation experiment. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41567-024-02529-6"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-s41467-025-61493-8",
+      "title": "Realizing string-net condensation: Fibonacci anyon braiding for universal gates and sampling chromatic polynomials",
+      "journal": "Nature Communications",
+      "year": 2025,
+      "authors": "Zlatko K. Minev; Khadijeh Najafi; Swarnadeep Majumder; Juven Wang; Ady Stern; Eun-Ah Kim; Chao-Ming Jian; Guanyu Zhu",
+      "doi": "10.1038/s41467-025-61493-8",
+      "pmid": "40617827",
+      "urls": [
+        "https://www.nature.com/articles/s41467-025-61493-8",
+        "https://doi.org/10.1038/s41467-025-61493-8",
+        "https://pubmed.ncbi.nlm.nih.gov/40617827/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Quantum information"
+      ],
+      "targets": [],
+      "design": "Quantum-circuit design and superconducting-processor experiments",
+      "summary": "The authors construct Fibonacci string-net states with a dynamical preparation method, measure and braid anyons, and estimate chromatic polynomials for several graphs using quantum samples.",
+      "finding": "The authors construct Fibonacci string-net states with a dynamical preparation method, measure and braid anyons, and estimate chromatic polynomials for several graphs using quantum samples.",
+      "limitation": "The experiments are proof of principle with error mitigation. The authors identify noise and comparison with classical approximation algorithms as unresolved barriers to a demonstrated quantum advantage.",
+      "citationCount": 16,
+      "citationSnapshot": {
+        "count": 16,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s41467-025-61493-8",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-09-17T23:28:56Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2025-07-06",
+      "publicationDates": {
+        "firstPublished": "2025-07-06",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Quantum-circuit design and superconducting-processor experiments",
+        "evidenceClass": "physical_experiment",
+        "measurement": "Superconducting processors; anyon-charge measurements and graph sampling",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Results; Discussion; Methods.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Quantum-circuit design and superconducting-processor experiments. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41467-025-61493-8"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-s41586-022-04853-4",
+      "title": "Dynamical topological phase realized in a trapped-ion quantum simulator",
+      "journal": "Nature",
+      "year": 2022,
+      "authors": "Philipp T. Dumitrescu; Justin G. Bohnet; John P. Gaebler; Aaron Hankin; David Hayes; Ajesh Kumar; Brian Neyenhuis; Romain Vasseur; Andrew C. Potter",
+      "doi": "10.1038/s41586-022-04853-4",
+      "pmid": "35859195",
+      "urls": [
+        "https://www.nature.com/articles/s41586-022-04853-4",
+        "https://doi.org/10.1038/s41586-022-04853-4",
+        "https://pubmed.ncbi.nlm.nih.gov/35859195/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Quantum information"
+      ],
+      "targets": [],
+      "design": "Trapped-ion quantum-simulation experiment",
+      "summary": "A quasiperiodic Fibonacci drive creates a dynamical topological phase in a ten-qubit trapped-ion chain. Edge-qubit behaviour exhibits protection against specified control imperfections relative to a periodic-drive comparison.",
+      "finding": "A quasiperiodic Fibonacci drive creates a dynamical topological phase in a ten-qubit trapped-ion chain. Edge-qubit behaviour exhibits protection against specified control imperfections relative to a periodic-drive comparison.",
+      "limitation": "The result concerns a finite quantum simulator and particular dynamics. It does not demonstrate general-purpose fault tolerance; the present appraisal covers the abstract and accessible extended-data descriptions.",
+      "citationCount": 72,
+      "citationSnapshot": {
+        "count": 72,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s41586-022-04853-4",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-10-01T06:17:24Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2022-07-20",
+      "publicationDates": {
+        "firstPublished": "2022-07-20",
+        "issue": "2022-07-21",
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Trapped-ion quantum-simulation experiment",
+        "evidenceClass": "physical_experiment",
+        "measurement": "Ten ytterbium-ion qubits; edge and bulk dynamics",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Abstract; Extended data figures and tables.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Trapped-ion quantum-simulation experiment. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41586-022-04853-4"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-nphys1396",
+      "title": "Topology-driven quantum phase transitions in time-reversal-invariant anyonic quantum liquids",
+      "journal": "Nature Physics",
+      "year": 2009,
+      "authors": "Charlotte Gils; Simon Trebst; Alexei Kitaev; Andreas W. W. Ludwig; Matthias Troyer; Zhenghan Wang",
+      "doi": "10.1038/nphys1396",
+      "pmid": null,
+      "urls": [
+        "https://www.nature.com/articles/nphys1396",
+        "https://doi.org/10.1038/nphys1396"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Quantum information"
+      ],
+      "targets": [],
+      "design": "Analytical and numerical theory of interacting anyons",
+      "summary": "An interacting-anyon model connects topological quantum phases through topology-driven transitions. Fibonacci-anyon theory provides a concrete setting, including an exactly solvable linear geometry.",
+      "finding": "An interacting-anyon model connects topological quantum phases through topology-driven transitions. Fibonacci-anyon theory provides a concrete setting, including an exactly solvable linear geometry.",
+      "limitation": "This is theoretical work rather than a device demonstration. Applicability to a physical implementation requires separate evidence; the present review uses the abstract and accessible figure descriptions.",
+      "citationCount": 65,
+      "citationSnapshot": {
+        "count": 65,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/nphys1396",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-08-05T03:02:50Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2009-09-20",
+      "publicationDates": {
+        "firstPublished": "2009-09-20",
+        "issue": "2009-11",
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Analytical and numerical theory of interacting anyons",
+        "evidenceClass": "mathematical_computational_model",
+        "measurement": "Microscopic anyon model; exact solution and numerical spectra",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Abstract; Figure 3, The Fibonacci theory; publisher metadata.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Analytical and numerical theory of interacting anyons. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/nphys1396"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-srep31350",
+      "title": "Hybrid threshold adaptable quantum secret sharing scheme with reverse Huffman-Fibonacci-tree coding",
+      "journal": "Scientific Reports",
+      "year": 2016,
+      "authors": "Hong Lai; Jun Zhang; Ming-Xing Luo; Lei Pan; Josef Pieprzyk; Fuyuan Xiao; Mehmet A. Orgun",
+      "doi": "10.1038/srep31350",
+      "pmid": "27515908",
+      "urls": [
+        "https://www.nature.com/articles/srep31350",
+        "https://doi.org/10.1038/srep31350",
+        "https://pubmed.ncbi.nlm.nih.gov/27515908/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Quantum information"
+      ],
+      "targets": [],
+      "design": "Theoretical quantum secret-sharing protocol and security analysis",
+      "summary": "The proposed hybrid secret-sharing protocol combines generalized Fibonacci orbital-angular-momentum states, polynomial sharing, and reverse Huffman–Fibonacci tree coding to support changing participant sets.",
+      "finding": "The proposed hybrid secret-sharing protocol combines generalized Fibonacci orbital-angular-momentum states, polynomial sharing, and reverse Huffman–Fibonacci tree coding to support changing participant sets.",
+      "limitation": "The work proposes and analyses a protocol. It does not establish deployment security, implementation resistance to side channels, or an experimentally demonstrated communication advantage.",
+      "citationCount": 15,
+      "citationSnapshot": {
+        "count": 15,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/srep31350",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-04-12T01:31:46Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2016-08-12",
+      "publicationDates": {
+        "firstPublished": "2016-08-12",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Theoretical quantum secret-sharing protocol and security analysis",
+        "evidenceClass": "computational_protocol",
+        "measurement": "Protocol construction and mathematical security arguments",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Introduction; Results; security analysis.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Theoretical quantum secret-sharing protocol and security analysis. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/srep31350"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-srep46302",
+      "title": "Fast and simple high-capacity quantum cryptography with error detection",
+      "journal": "Scientific Reports",
+      "year": 2017,
+      "authors": "Hong Lai; Ming-Xing Luo; Josef Pieprzyk; Jun Zhang; Lei Pan; Shudong Li; Mehmet A. Orgun",
+      "doi": "10.1038/srep46302",
+      "pmid": "28406240",
+      "urls": [
+        "https://www.nature.com/articles/srep46302",
+        "https://doi.org/10.1038/srep46302",
+        "https://pubmed.ncbi.nlm.nih.gov/28406240/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Quantum information"
+      ],
+      "targets": [],
+      "design": "Theoretical quantum-cryptography algorithm",
+      "summary": "Fibonacci- and Lucas-valued orbital-angular-momentum states supply inputs to recursive matrix-based coding. The paper proposes matrix operations for high-capacity key use and error detection.",
+      "finding": "Fibonacci- and Lucas-valued orbital-angular-momentum states supply inputs to recursive matrix-based coding. The paper proposes matrix operations for high-capacity key use and error detection.",
+      "limitation": "Claims depend on the stated protocol assumptions. A proposal and analytical examples do not establish a production-ready cryptosystem, end-to-end hardware performance, or independent cryptanalytic validation.",
+      "citationCount": 4,
+      "citationSnapshot": {
+        "count": 4,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/srep46302",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2024-05-01T15:26:03Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2017-04-13",
+      "publicationDates": {
+        "firstPublished": "2017-04-13",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Theoretical quantum-cryptography algorithm",
+        "evidenceClass": "computational_protocol",
+        "measurement": "Recursive Fibonacci and Lucas matrices; protocol analysis",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Introduction; Results.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Theoretical quantum-cryptography algorithm. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/srep46302"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-s41598-023-28367-9",
+      "title": "A promising approach using Fibonacci sequence-based optimization algorithms and advanced computing",
+      "journal": "Scientific Reports",
+      "year": 2023,
+      "authors": "H. Tran-Ngoc; T. Le-Xuan; S. Khatir; G. De Roeck; T. Bui-Tien; Magd Abdel Wahab",
+      "doi": "10.1038/s41598-023-28367-9",
+      "pmid": "36854757",
+      "urls": [
+        "https://www.nature.com/articles/s41598-023-28367-9",
+        "https://doi.org/10.1038/s41598-023-28367-9",
+        "https://pubmed.ncbi.nlm.nih.gov/36854757/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Algorithms & optimization"
+      ],
+      "targets": [],
+      "design": "Numerical optimization and structural-model case study",
+      "summary": "A Fibonacci-based modification of the Salp Swarm Algorithm is evaluated for structural-health monitoring of a railway bridge, alongside parallel computation and vectorization intended to reduce computational cost.",
+      "finding": "A Fibonacci-based modification of the Salp Swarm Algorithm is evaluated for structural-health monitoring of a railway bridge, alongside parallel computation and vectorization intended to reduce computational cost.",
+      "limitation": "The reported performance is specific to the tested algorithms and bridge-model setting. The study does not isolate a general superiority of Fibonacci methods or validate broad biological claims mentioned in its background.",
+      "citationCount": 19,
+      "citationSnapshot": {
+        "count": 19,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s41598-023-28367-9",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-07-18T16:21:22Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2023-02-28",
+      "publicationDates": {
+        "firstPublished": "2023-02-28",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Numerical optimization and structural-model case study",
+        "evidenceClass": "computational_model",
+        "measurement": "Optimization benchmarks and bridge finite-element model updating",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Methodology; Conclusions and future research.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Numerical optimization and structural-model case study. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41598-023-28367-9"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-s41598-026-66284-9",
+      "title": "The new exponential Fibonacci neighborhood as QUBO generated on a D-Wave quantum computing environment for the permutational scheduling problem",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "authors": "Wojciech Bożejko; Mariusz Uchroński; Mieczysław Wodecki",
+      "doi": "10.1038/s41598-026-66284-9",
+      "pmid": null,
+      "urls": [
+        "https://www.nature.com/articles/s41598-026-66284-9",
+        "https://doi.org/10.1038/s41598-026-66284-9"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Algorithms & optimization"
+      ],
+      "targets": [],
+      "design": "Combinatorial construction and quantum-annealing computational experiment",
+      "summary": "The authors construct a permutation neighbourhood with Fibonacci-number cardinality and encode it using a binary sequence of length n−1. They test a related QUBO formulation on a D-Wave system for a single-machine scheduling problem.",
+      "finding": "The authors construct a permutation neighbourhood with Fibonacci-number cardinality and encode it using a binary sequence of length n−1. They test a related QUBO formulation on a D-Wave system for a single-machine scheduling problem.",
+      "limitation": "A compact encoding and tested scheduling results do not prove a general quantum speedup. Performance depends on the neighbourhood restriction, instance selection and hardware; appraisal here is abstract-level.",
+      "citationCount": 0,
+      "citationSnapshot": {
+        "count": 0,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s41598-026-66284-9",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-08-17T11:27:24Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2026-08-17",
+      "publicationDates": {
+        "firstPublished": "2026-08-17",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Combinatorial construction and quantum-annealing computational experiment",
+        "evidenceClass": "mathematical_result_and_computation",
+        "measurement": "Permutation encodings, QUBO and D-Wave scheduling experiments",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Abstract; publisher metadata.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Combinatorial construction and quantum-annealing computational experiment. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41598-026-66284-9"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-s41598-024-62260-3",
+      "title": "Enhancing image security via chaotic maps, Fibonacci, Tribonacci transformations, and DWT diffusion: a robust data encryption approach",
+      "journal": "Scientific Reports",
+      "year": 2024,
+      "authors": "Mohammad Mazyad Hazzazi; Mujeeb Ur Rehman; Arslan Shafique; Amer Aljaedi; Zaid Bassfar; Aminu Bello Usman",
+      "doi": "10.1038/s41598-024-62260-3",
+      "pmid": "38806546",
+      "urls": [
+        "https://www.nature.com/articles/s41598-024-62260-3",
+        "https://doi.org/10.1038/s41598-024-62260-3",
+        "https://pubmed.ncbi.nlm.nih.gov/38806546/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Algorithms & optimization"
+      ],
+      "targets": [],
+      "design": "Image-encryption algorithm with numerical tests",
+      "summary": "The proposed grayscale-image encryption pipeline combines chaotic keys, Fibonacci pixel permutation, Tribonacci transformations, bit-plane operations and wavelet-based diffusion. The paper reports statistical and timing tests.",
+      "finding": "The proposed grayscale-image encryption pipeline combines chaotic keys, Fibonacci pixel permutation, Tribonacci transformations, bit-plane operations and wavelet-based diffusion. The paper reports statistical and timing tests.",
+      "limitation": "Entropy, pixel correlation and timing tests do not alone establish cryptographic security. The multi-component pipeline also prevents attributing its reported performance solely to Fibonacci transforms.",
+      "citationCount": 26,
+      "citationSnapshot": {
+        "count": 26,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s41598-024-62260-3",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-09-02T02:07:19Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2024-05-29",
+      "publicationDates": {
+        "firstPublished": "2024-05-29",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Image-encryption algorithm with numerical tests",
+        "evidenceClass": "computational_model",
+        "measurement": "Grayscale-image encryption benchmarks",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Introduction; algorithm description; statistical tests.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Image-encryption algorithm with numerical tests. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41598-024-62260-3"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-s41598-020-64065-6",
+      "title": "Quantum Walks in Periodic and Quasiperiodic Fibonacci Fibers",
+      "journal": "Scientific Reports",
+      "year": 2020,
+      "authors": "Dan T. Nguyen; Thien An Nguyen; Rostislav Khrapko; Daniel A. Nolan; Nicholas F. Borrelli",
+      "doi": "10.1038/s41598-020-64065-6",
+      "pmid": "32346020",
+      "urls": [
+        "https://www.nature.com/articles/s41598-020-64065-6",
+        "https://doi.org/10.1038/s41598-020-64065-6",
+        "https://pubmed.ncbi.nlm.nih.gov/32346020/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Aperiodic structures"
+      ],
+      "targets": [],
+      "design": "Optical-fibre experiments and wave-propagation simulation",
+      "summary": "Periodic and Fibonacci-arranged multicore ring fibres produce distinct propagation and localization patterns consistent with the numerical model. The authors present these fibres as a platform for quantum-walk analogues.",
+      "finding": "Periodic and Fibonacci-arranged multicore ring fibres produce distinct propagation and localization patterns consistent with the numerical model. The authors present these fibres as a platform for quantum-walk analogues.",
+      "limitation": "The measured classical coherent-wave behaviour models single-particle quantum walks. It does not by itself demonstrate entangled quantum computation or computational advantage.",
+      "citationCount": 11,
+      "citationSnapshot": {
+        "count": 11,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s41598-020-64065-6",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-09-30T09:37:22Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2020-04-28",
+      "publicationDates": {
+        "firstPublished": "2020-04-28",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Optical-fibre experiments and wave-propagation simulation",
+        "evidenceClass": "physical_experiment_and_computation",
+        "measurement": "Fabricated multicore fibres; optical intensity distributions and simulations",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Quantum Walks in Periodic and Quasiperiodic Multicore Ring Fibers; Methods.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Optical-fibre experiments and wave-propagation simulation. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41598-020-64065-6"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-s41567-020-0908-7",
+      "title": "Emergence of criticality through a cascade of delocalization transitions in quasiperiodic chains",
+      "journal": "Nature Physics",
+      "year": 2020,
+      "authors": "V. Goblot; A. Štrkalj; N. Pernet; J. L. Lado; C. Dorow; A. Lemaître; L. Le Gratiet; A. Harouri; I. Sagnes; S. Ravets; A. Amo; J. Bloch; O. Zilberberg",
+      "doi": "10.1038/s41567-020-0908-7",
+      "pmid": null,
+      "urls": [
+        "https://www.nature.com/articles/s41567-020-0908-7",
+        "https://doi.org/10.1038/s41567-020-0908-7"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Aperiodic structures"
+      ],
+      "targets": [],
+      "design": "Theoretical modelling and cavity-polariton experiment",
+      "summary": "Interpolating between Aubry–André and Fibonacci chains produces a predicted cascade of band-dependent delocalization transitions. Cavity-polariton measurements detect the first transition and clarify its microscopic origin.",
+      "finding": "Interpolating between Aubry–André and Fibonacci chains produces a predicted cascade of band-dependent delocalization transitions. Cavity-polariton measurements detect the first transition and clarify its microscopic origin.",
+      "limitation": "The experimental evidence covers the first transition in a specific platform. The complete cascade and wider device applications require further investigation.",
+      "citationCount": 139,
+      "citationSnapshot": {
+        "count": 139,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s41567-020-0908-7",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-09-27T17:31:08Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2020-06-01",
+      "publicationDates": {
+        "firstPublished": "2020-06-01",
+        "issue": "2020-08",
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-letter",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Theoretical modelling and cavity-polariton experiment",
+        "evidenceClass": "physical_experiment_and_computation",
+        "measurement": "Quasiperiodic-chain models and cavity-polariton devices",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Abstract; publisher metadata.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Theoretical modelling and cavity-polariton experiment. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41567-020-0908-7"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Letter"
+    },
+    {
+      "id": "nature-fibonacci-s41467-020-15760-5",
+      "title": "Universality and quantum criticality in quasiperiodic spin chains",
+      "journal": "Nature Communications",
+      "year": 2020,
+      "authors": "Utkarsh Agrawal; Sarang Gopalakrishnan; Romain Vasseur",
+      "doi": "10.1038/s41467-020-15760-5",
+      "pmid": "32376859",
+      "urls": [
+        "https://www.nature.com/articles/s41467-020-15760-5",
+        "https://doi.org/10.1038/s41467-020-15760-5",
+        "https://pubmed.ncbi.nlm.nih.gov/32376859/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Aperiodic structures"
+      ],
+      "targets": [],
+      "design": "Renormalization-group theory and numerical modelling",
+      "summary": "Real-space renormalization maps broad classes of quasiperiodic spin-chain modulations to discrete self-similar sequences. The Heisenberg-chain fixed-point sequence follows Fibonacci deflation rules.",
+      "finding": "Real-space renormalization maps broad classes of quasiperiodic spin-chain modulations to discrete self-similar sequences. The Heisenberg-chain fixed-point sequence follows Fibonacci deflation rules.",
+      "limitation": "The conclusions depend on the studied one-dimensional models and renormalization assumptions. They do not constitute experimental evidence for an arbitrary material or biological system.",
+      "citationCount": 50,
+      "citationSnapshot": {
+        "count": 50,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s41467-020-15760-5",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-08-26T02:34:21Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2020-05-06",
+      "publicationDates": {
+        "firstPublished": "2020-05-06",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Renormalization-group theory and numerical modelling",
+        "evidenceClass": "mathematical_computational_model",
+        "measurement": "Heisenberg, Ising and Potts chains; phenomenological localization model",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Results; Discussion; Methods.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Renormalization-group theory and numerical modelling. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41467-020-15760-5"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-srep38651",
+      "title": "Two-dimensional Fibonacci grating for far-field super-resolution imaging",
+      "journal": "Scientific Reports",
+      "year": 2016,
+      "authors": "Kedi Wu; Guo Ping Wang",
+      "doi": "10.1038/srep38651",
+      "pmid": "27934906",
+      "urls": [
+        "https://www.nature.com/articles/srep38651",
+        "https://doi.org/10.1038/srep38651",
+        "https://pubmed.ncbi.nlm.nih.gov/27934906/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Aperiodic structures"
+      ],
+      "targets": [],
+      "design": "Analytical optics and numerical simulation",
+      "summary": "A two-dimensional Fibonacci grating is designed to convert evanescent information into propagating light. Analytical calculations and numerical simulations predict far-field reconstruction beyond a wavelength divided by seven in the tested configuration.",
+      "finding": "A two-dimensional Fibonacci grating is designed to convert evanescent information into propagating light. Analytical calculations and numerical simulations predict far-field reconstruction beyond a wavelength divided by seven in the tested configuration.",
+      "limitation": "The reported imaging resolution is a simulated result. Fabrication tolerance, experimental noise and performance on biological specimens are not established by these calculations.",
+      "citationCount": 17,
+      "citationSnapshot": {
+        "count": 17,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/srep38651",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2025-04-03T04:28:13Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2016-12-09",
+      "publicationDates": {
+        "firstPublished": "2016-12-09",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Analytical optics and numerical simulation",
+        "evidenceClass": "computational_model",
+        "measurement": "Rigorous coupled-wave analysis and finite-difference time-domain simulation",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Introduction; Results.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Analytical optics and numerical simulation. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/srep38651"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-s41467-018-05950-7",
+      "title": "A molecular overlayer with the Fibonacci square grid structure",
+      "journal": "Nature Communications",
+      "year": 2018,
+      "authors": "Sam Coates; Joseph A. Smerdon; Ronan McGrath; Hem Raj Sharma",
+      "doi": "10.1038/s41467-018-05950-7",
+      "pmid": "30143631",
+      "urls": [
+        "https://www.nature.com/articles/s41467-018-05950-7",
+        "https://doi.org/10.1038/s41467-018-05950-7",
+        "https://pubmed.ncbi.nlm.nih.gov/30143631/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Aperiodic structures"
+      ],
+      "targets": [],
+      "design": "Surface-materials experiment with structural analysis",
+      "summary": "Scanning tunnelling microscopy shows fullerene molecules arranged in a Fibonacci square grid on an Al–Pd–Mn quasicrystal surface. Selective adsorption links the overlayer geometry to substrate sites.",
+      "finding": "Scanning tunnelling microscopy shows fullerene molecules arranged in a Fibonacci square grid on an Al–Pd–Mn quasicrystal surface. Selective adsorption links the overlayer geometry to substrate sites.",
+      "limitation": "This is a specific engineered material system. It does not demonstrate Fibonacci organisation of living cells or general molecular recognition.",
+      "citationCount": 23,
+      "citationSnapshot": {
+        "count": 23,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s41467-018-05950-7",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-09-20T05:55:37Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2018-08-24",
+      "publicationDates": {
+        "firstPublished": "2018-08-24",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Surface-materials experiment with structural analysis",
+        "evidenceClass": "physical_observation",
+        "measurement": "C60 molecular overlayer; scanning tunnelling microscopy and Fourier analysis",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Introduction; Results; Methods.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Surface-materials experiment with structural analysis. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41467-018-05950-7"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-s41598-020-67567-5",
+      "title": "Explosive Fibonacci-sequence growth into unusual sector-face morphology in poly(l-lactic acid) crystallized with polymeric diluents",
+      "journal": "Scientific Reports",
+      "year": 2020,
+      "authors": "Graecia Lugito; Selvaraj Nagarajan; Eamor M. Woo",
+      "doi": "10.1038/s41598-020-67567-5",
+      "pmid": "32616728",
+      "urls": [
+        "https://www.nature.com/articles/s41598-020-67567-5",
+        "https://doi.org/10.1038/s41598-020-67567-5",
+        "https://pubmed.ncbi.nlm.nih.gov/32616728/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Aperiodic structures"
+      ],
+      "targets": [],
+      "design": "Polymer-crystallization microscopy and scattering experiments",
+      "summary": "In diluted poly(l-lactic acid) crystals, microscopy reveals branching lamellar sectors whose branch counts grow approximately along a Fibonacci sequence. Thermal and scattering measurements characterize the resulting structures.",
+      "finding": "In diluted poly(l-lactic acid) crystals, microscopy reveals branching lamellar sectors whose branch counts grow approximately along a Fibonacci sequence. Thermal and scattering measurements characterize the resulting structures.",
+      "limitation": "The authors describe approximate counts and acknowledge difficulty distinguishing branches. The polymers and crystallization conditions are specific; this is not evidence for a universal exact growth law.",
+      "citationCount": 14,
+      "citationSnapshot": {
+        "count": 14,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s41598-020-67567-5",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-05-11T18:10:16Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2020-07-02",
+      "publicationDates": {
+        "firstPublished": "2020-07-02",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Polymer-crystallization microscopy and scattering experiments",
+        "evidenceClass": "physical_observation",
+        "measurement": "PLLA with polymeric diluents; microscopy, calorimetry and scattering",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Results and discussion; Conclusion.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Polymer-crystallization microscopy and scattering experiments. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41598-020-67567-5"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-s41598-017-02170-9",
+      "title": "Fractional Transport of Photons in Deterministic Aperiodic Structures",
+      "journal": "Scientific Reports",
+      "year": 2017,
+      "authors": "Luca Dal Negro; Sandeep Inampudi",
+      "doi": "10.1038/s41598-017-02170-9",
+      "pmid": "28536441",
+      "urls": [
+        "https://www.nature.com/articles/s41598-017-02170-9",
+        "https://doi.org/10.1038/s41598-017-02170-9",
+        "https://pubmed.ncbi.nlm.nih.gov/28536441/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Aperiodic structures"
+      ],
+      "targets": [],
+      "design": "Numerical wave transport and analytical fractional-dynamics modelling",
+      "summary": "Transfer-matrix simulations compare photon propagation in deterministic aperiodic structures. Fibonacci and Thue–Morse stacks exhibit anomalous power-law transport, while Rudin–Shapiro structures exhibit a distinct logarithmic regime.",
+      "finding": "Transfer-matrix simulations compare photon propagation in deterministic aperiodic structures. Fibonacci and Thue–Morse stacks exhibit anomalous power-law transport, while Rudin–Shapiro structures exhibit a distinct logarithmic regime.",
+      "limitation": "These are modelled transport regimes under specified optical assumptions. The logarithmic result is associated with Rudin–Shapiro structures, not a finding unique to Fibonacci sequences.",
+      "citationCount": 23,
+      "citationSnapshot": {
+        "count": 23,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s41598-017-02170-9",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-06-17T18:07:19Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2017-05-23",
+      "publicationDates": {
+        "firstPublished": "2017-05-23",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Numerical wave transport and analytical fractional-dynamics modelling",
+        "evidenceClass": "computational_model",
+        "measurement": "Time-domain transfer matrices and fractional transport models",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Tunable anomalous photon transport in Fibonacci and Thue-Morse structures; Conclusions; Methods.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Numerical wave transport and analytical fractional-dynamics modelling. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41598-017-02170-9"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-nphoton.2009.285",
+      "title": "Quasi-periodic distributed feedback laser",
+      "journal": "Nature Photonics",
+      "year": 2010,
+      "authors": "Lukas Mahler; Alessandro Tredicucci; Fabio Beltram; Christoph Walther; Jérôme Faist; Harvey E. Beere; David A. Ritchie; Diederik S. Wiersma",
+      "doi": "10.1038/nphoton.2009.285",
+      "pmid": null,
+      "urls": [
+        "https://www.nature.com/articles/nphoton.2009.285",
+        "https://doi.org/10.1038/nphoton.2009.285"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Aperiodic structures"
+      ],
+      "targets": [],
+      "design": "Laser-device experiment using an aperiodic grating",
+      "summary": "An electrically pumped terahertz quantum-cascade laser uses a Fibonacci distributed-feedback grating. Its engineered spectrum supports multicolour operation and directional output behaviour beyond the periodic designs used for comparison.",
+      "finding": "An electrically pumped terahertz quantum-cascade laser uses a Fibonacci distributed-feedback grating. Its engineered spectrum supports multicolour operation and directional output behaviour beyond the periodic designs used for comparison.",
+      "limitation": "The results concern a fabricated optical resonator. They do not establish general computational acceleration or a biological mechanism; appraisal here is abstract-level.",
+      "citationCount": 105,
+      "citationSnapshot": {
+        "count": 105,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/nphoton.2009.285",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-10-05T19:45:49Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2010-01-24",
+      "publicationDates": {
+        "firstPublished": "2010-01-24",
+        "issue": "2010-03",
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Laser-device experiment using an aperiodic grating",
+        "evidenceClass": "physical_experiment",
+        "measurement": "Terahertz quantum-cascade laser and emission measurements",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Abstract; publisher metadata.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Laser-device experiment using an aperiodic grating. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/nphoton.2009.285"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-s42005-025-02264-1",
+      "title": "Fibonacci-modulation-induced multiple topological Anderson insulators",
+      "journal": "Communications Physics",
+      "year": 2025,
+      "authors": "Ruijiang Ji; Zhihao Xu",
+      "doi": "10.1038/s42005-025-02264-1",
+      "pmid": null,
+      "urls": [
+        "https://www.nature.com/articles/s42005-025-02264-1",
+        "https://doi.org/10.1038/s42005-025-02264-1"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Aperiodic structures"
+      ],
+      "targets": [],
+      "design": "Theoretical and numerical topological-chain model",
+      "summary": "A one-dimensional spin-orbit-coupled chain with Fibonacci modulation exhibits multiple modelled topological Anderson-insulator phases and multifractal wave functions as parameters vary.",
+      "finding": "A one-dimensional spin-orbit-coupled chain with Fibonacci modulation exhibits multiple modelled topological Anderson-insulator phases and multifractal wave functions as parameters vary.",
+      "limitation": "The paper proposes a cold-atom realization; the modelled phases are not reported as an experimental observation. The result remains specific to the chosen Hamiltonian and modulation.",
+      "citationCount": 7,
+      "citationSnapshot": {
+        "count": 7,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s42005-025-02264-1",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-08-28T03:19:27Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2025-08-16",
+      "publicationDates": {
+        "firstPublished": "2025-08-16",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Theoretical and numerical topological-chain model",
+        "evidenceClass": "mathematical_computational_model",
+        "measurement": "One-dimensional chain; topological invariants and wave functions",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Abstract; publisher metadata.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Theoretical and numerical topological-chain model. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s42005-025-02264-1"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-s41598-026-40652-x",
+      "title": "Focusing performance of Fibonacci tiling-based zone plates",
+      "journal": "Scientific Reports",
+      "year": 2026,
+      "authors": "Adrián Garmendía-Martínez; Francisco M. Muñoz Pérez; Juan C. Castro Palacio; Walter D. Furlan; Vicente Ferrando; Juan A. Monsoriu",
+      "doi": "10.1038/s41598-026-40652-x",
+      "pmid": "41741524",
+      "urls": [
+        "https://www.nature.com/articles/s41598-026-40652-x",
+        "https://doi.org/10.1038/s41598-026-40652-x",
+        "https://pubmed.ncbi.nlm.nih.gov/41741524/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Aperiodic structures"
+      ],
+      "targets": [],
+      "design": "Diffractive-optics simulations and experimental measurements",
+      "summary": "Rectangular transparent and opaque elements generated from two-dimensional Fibonacci substitution rules form zone plates. Simulations and optical measurements characterize their axial focusing and transverse diffraction patterns.",
+      "finding": "Rectangular transparent and opaque elements generated from two-dimensional Fibonacci substitution rules form zone plates. Simulations and optical measurements characterize their axial focusing and transverse diffraction patterns.",
+      "limitation": "The findings apply to the tested optical designs and measurements. They do not establish a general imaging advantage across biological samples or applications; appraisal here is abstract-level.",
+      "citationCount": 0,
+      "citationSnapshot": {
+        "count": 0,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s41598-026-40652-x",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-04-01T12:04:16Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2026-02-25",
+      "publicationDates": {
+        "firstPublished": "2026-02-25",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Diffractive-optics simulations and experimental measurements",
+        "evidenceClass": "physical_experiment_and_computation",
+        "measurement": "Fibonacci tiling-based zone plates; axial and transverse intensity patterns",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Abstract; publisher metadata.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Diffractive-optics simulations and experimental measurements. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41598-026-40652-x"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "nature-fibonacci-s41598-020-72218-w",
+      "title": "The architecture of starch blocklets follows phyllotaxic rules",
+      "journal": "Scientific Reports",
+      "year": 2020,
+      "authors": "Francesco Spinozzi; Claudio Ferrero; Serge Perez",
+      "doi": "10.1038/s41598-020-72218-w",
+      "pmid": "33208760",
+      "urls": [
+        "https://www.nature.com/articles/s41598-020-72218-w",
+        "https://doi.org/10.1038/s41598-020-72218-w",
+        "https://pubmed.ncbi.nlm.nih.gov/33208760/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Fibonacci mathematics",
+        "Biological modelling"
+      ],
+      "targets": [],
+      "design": "Geometric macromolecular model with scattering comparisons",
+      "summary": "The authors construct golden-angle spiral ellipsoids from starch-related structural units and calculate scattering patterns. Similarities to reported blocklet features motivate a proposed amylopectin architecture.",
+      "finding": "The authors construct golden-angle spiral ellipsoids from starch-related structural units and calculate scattering patterns. Similarities to reported blocklet features motivate a proposed amylopectin architecture.",
+      "limitation": "The golden-angle arrangement is imposed in the construction. Agreement with selected structural and scattering features does not uniquely identify the native architecture or establish a biosynthetic mechanism.",
+      "citationCount": 32,
+      "citationSnapshot": {
+        "count": 32,
+        "source": "Crossref cited-by count",
+        "retrievedAt": "2026-10-24",
+        "url": "https://api.crossref.org/works/10.1038/s41598-020-72218-w",
+        "field": "is-referenced-by-count",
+        "sourceIndexedAt": "2026-04-17T18:38:36Z",
+        "coverageNote": "Count reflects Crossref-deposited references and can differ from publisher or other database totals. It is not a quality or clinical-evidence score."
+      },
+      "published": "2020-11-18",
+      "publicationDates": {
+        "firstPublished": "2020-11-18",
+        "issue": null,
+        "yearBasis": "Issue year when available; first-publication year otherwise."
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio",
+      "kind": "Journal article",
+      "publicationTypes": [
+        "research-article",
+        "Journal Article"
+      ],
+      "origin": "nature-fibonacci-research",
+      "verifiedAt": "2026-10-24",
+      "publicationStatus": "Primary peer-reviewed journal publication; publisher and Crossref metadata checked",
+      "retracted": false,
+      "retractionCheck": {
+        "status": "No retraction or correction flag found in retrieved publisher metadata, Crossref update relations, or matched Europe PMC publication types.",
+        "checkedAt": "2026-10-24",
+        "scope": "Source-record check, not an exhaustive independent integrity investigation."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "priority": 1,
+      "evidence": {
+        "evidenceType": "Geometric macromolecular model with scattering comparisons",
+        "evidenceClass": "proposed_biological_model",
+        "measurement": "Model starch blocklets; calculated scattering and comparison with reported observations",
+        "measuredGenes": [],
+        "pathways": [],
+        "relationshipNote": "Background literature only. This paper does not test or validate an OXTR–Fibonacci relationship.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Abstract and selected source passages: Results; Discussion; Methods.",
+        "fullPaperAppraisal": "Not completed; review depth states the material assessed."
+      },
+      "studyDesignAssessment": {
+        "isRandomizedControlledTrial": false,
+        "blinding": "Not applicable to a clinical-trial grade",
+        "basis": "Geometric macromolecular model with scattering comparisons. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41598-020-72218-w"
+        ],
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomized controlled trial."
+      },
+      "publisherArticleType": "Article"
+    },
+    {
+      "id": "quantum-honeycomb-hastings-haah-2021",
+      "title": "Dynamically Generated Logical Qubits",
+      "doi": "10.22331/q-2021-10-19-564",
+      "pmid": null,
+      "journal": "Quantum",
+      "year": 2021,
+      "published": "2021-10-19",
+      "authors": "Matthew B. Hastings; Jeongwan Haah",
+      "urls": [
+        "https://quantum-journal.org/papers/q-2021-10-19-564/",
+        "https://doi.org/10.22331/q-2021-10-19-564"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Quantum computing",
+        "Geometry and information"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Journal article",
+      "design": "Theoretical quantum error-correcting code",
+      "summary": "Hastings and Haah construct a honeycomb code in which a repeating schedule of two-qubit measurements creates logical qubits. Information protection comes from the code and measurement sequence acting together on the lattice.",
+      "finding": "Hastings and Haah construct a honeycomb code in which a repeating schedule of two-qubit measurements creates logical qubits. Information protection comes from the code and measurement sequence acting together on the lattice.",
+      "limitation": "The paper does not show that a passive hexagon alone protects information. Implementing this code requires the specified measurements and decoding; the current Aquila workflow does not implement that procedure.",
+      "citationCount": 157,
+      "citationSnapshot": {
+        "count": 157,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Theoretical quantum error-correcting code. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://quantum-journal.org/papers/q-2021-10-19-564/",
+          "https://doi.org/10.22331/q-2021-10-19-564"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Theoretical quantum error-correcting code",
+        "evidenceClass": "quantum_error_correction_theory",
+        "measurement": "Dynamically generated logical qubits through scheduled two-qubit Pauli measurements.",
+        "relationshipNote": "Use the measurement schedule as a separate theoretical benchmark; distinguish logical error correction from longer physical-qubit coherence.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Verified follow-up to Gemini research notes",
+        "notionPage": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
+        "reviewedAt": "2026-10-26"
+      }
+    },
+    {
+      "id": "quantum-penrose-fibonacci-code-2024",
+      "title": "The Penrose Tiling is a Quantum Error-Correcting Code",
+      "doi": "10.48550/arXiv.2311.13040",
+      "pmid": null,
+      "journal": "arXiv",
+      "year": 2024,
+      "published": "2024-01-25",
+      "authors": "Zhi Li; Latham Boyle",
+      "urls": [
+        "https://arxiv.org/abs/2311.13040v2",
+        "https://doi.org/10.48550/arXiv.2311.13040"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Quantum computing",
+        "Geometry and information"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Preprint",
+      "design": "Theoretical preprint; version 2",
+      "summary": "Li and Boyle construct quantum error-correcting codes from Penrose tilings and variants based on Ammann–Beenker and Fibonacci tilings. Their construction connects nonperiodic geometric structure with the ability to recover information after local errors or erasures.",
+      "finding": "Li and Boyle construct quantum error-correcting codes from Penrose tilings and variants based on Ammann–Beenker and Fibonacci tilings. Their construction connects nonperiodic geometric structure with the ability to recover information after local errors or erasures.",
+      "limitation": "This is a mathematical construction in a preprint, not an experimental demonstration on Aquila. Its Fibonacci tilings are different from the Atlas M9 P24 sequences. A physical implementation and its resource requirements remain separate questions.",
+      "citationCount": null,
+      "citationSnapshot": {
+        "count": null,
+        "source": "Not available",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "preprint",
+        "peerReviewed": false,
+        "basis": "Theoretical preprint; version 2. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://arxiv.org/abs/2311.13040v2",
+          "https://doi.org/10.48550/arXiv.2311.13040"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Theoretical preprint; version 2",
+        "evidenceClass": "quantum_error_correction_preprint",
+        "measurement": "Quantum information stored in a tiling-based code with local indistinguishability and recoverability.",
+        "relationshipNote": "Study the explicit Fibonacci-tiling code and compare its mathematical requirements with our sequence representations before proposing a hardware mapping.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Verified follow-up to Gemini research notes",
+        "notionPage": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
+        "reviewedAt": "2026-10-26"
+      }
+    },
+    {
+      "id": "quantum-ibm-heavy-hex-2021",
+      "title": "The IBM Quantum heavy hex lattice",
+      "doi": null,
+      "pmid": null,
+      "journal": "IBM Quantum technical blog",
+      "year": 2021,
+      "published": "2021-07-07",
+      "authors": "Paul Nation; Hanhee Paik; Andrew Cross; Zaira Nazario",
+      "urls": [
+        "https://www.ibm.com/quantum/blog/heavy-hex-lattice"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Quantum computing",
+        "Geometry and information"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Technical article",
+      "design": "Hardware architecture explanation",
+      "summary": "IBM explains why its heavy-hex architecture uses a sparse pattern of superconducting-qubit connections. The design reduces frequency collisions and unwanted effects on neighbouring qubits while balancing connectivity and the operations required by a calculation.",
+      "finding": "IBM explains why its heavy-hex architecture uses a sparse pattern of superconducting-qubit connections. The design reduces frequency collisions and unwanted effects on neighbouring qubits while balancing connectivity and the operations required by a calculation.",
+      "limitation": "This is a vendor technical explanation, not a peer-reviewed Fibonacci study. Its benefits depend on superconducting hardware and control choices; the shape alone is not evidence of universal quantum stability.",
+      "citationCount": null,
+      "citationSnapshot": {
+        "count": null,
+        "source": "Not available",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "technical-article",
+        "peerReviewed": false,
+        "basis": "Hardware architecture explanation. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://www.ibm.com/quantum/blog/heavy-hex-lattice"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Hardware architecture explanation",
+        "evidenceClass": "vendor_technical_explanation",
+        "measurement": "Reduced connectivity to manage frequency collisions and spectator errors.",
+        "relationshipNote": "Compare connectivity, noise and operation overhead explicitly when evaluating alternative geometries.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Verified follow-up to Gemini research notes",
+        "notionPage": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
+        "reviewedAt": "2026-10-26"
+      }
+    },
+    {
+      "id": "quantum-heavy-hex-scaling-2026",
+      "title": "Surface code scaling on heavy-hex superconducting quantum processors",
+      "doi": "10.1038/s41467-026-76090-6",
+      "pmid": "42660895",
+      "journal": "Nature Communications",
+      "year": 2026,
+      "published": "2026-07-29",
+      "authors": "Arian Vezvaee; Cesar Benito; Mario Morford-Oberst; Alejandro Bermudez; Daniel A. Lidar",
+      "urls": [
+        "https://www.nature.com/articles/s41467-026-76090-6",
+        "https://doi.org/10.1038/s41467-026-76090-6",
+        "https://pubmed.ncbi.nlm.nih.gov/42660895/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC13522603/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Quantum computing",
+        "Geometry and information"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Journal article",
+      "design": "Superconducting quantum-processor experiment and modelling",
+      "summary": "The authors combine surface-code layouts and pulse control on IBM heavy-hex processors. Increasing code size along one direction improves protection of particular logical states. Their analysis shows why both state directions and coherent noise matter when assessing error suppression.",
+      "finding": "The authors combine surface-code layouts and pulse control on IBM heavy-hex processors. Increasing code size along one direction improves protection of particular logical states. Their analysis shows why both state directions and coherent noise matter when assessing error suppression.",
+      "limitation": "Directional improvements do not establish general below-threshold scaling. The paper identifies further noise reduction needed for balanced scaling. It does not test Fibonacci or M9 P24 sequences.",
+      "citationCount": 2,
+      "citationSnapshot": {
+        "count": 2,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Superconducting quantum-processor experiment and modelling. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://www.nature.com/articles/s41467-026-76090-6",
+          "https://doi.org/10.1038/s41467-026-76090-6",
+          "https://pubmed.ncbi.nlm.nih.gov/42660895/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC13522603/"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Superconducting quantum-processor experiment and modelling",
+        "evidenceClass": "quantum_hardware_experiment",
+        "measurement": "Code embedding, SWAP operations and dynamical decoupling on a constrained hardware graph.",
+        "relationshipNote": "Evaluate several initial states and an information-preservation metric; avoid declaring success from one favourable response or direction.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Verified follow-up to Gemini research notes",
+        "notionPage": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
+        "reviewedAt": "2026-10-26"
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    {
+      "id": "quantum-kagome-edge-states-2026",
+      "title": "Direct Observation\nof the Zigzag Edge States of a\nSupramolecular Diatomic Kagome Lattice",
+      "doi": "10.1021/acs.nanolett.6c03195",
+      "pmid": "42915366",
+      "journal": "Nano Letters",
+      "year": 2026,
+      "published": "2026-09-02",
+      "authors": "Ryohei Nemoto; Xiangzhi Meng; Behzad Mortezapour; Alexander Weismann; Saya Nakano; Masahisa Tsuchiizu; Ryuichi Arafune; Noriaki Takagi; Sho Nakamura; Katsunori Wakabayashi; Rie Suizu; Richard Berndt; Takashi Uchihashi; Kunio Awaga",
+      "urls": [
+        "https://doi.org/10.1021/acs.nanolett.6c03195",
+        "https://pubmed.ncbi.nlm.nih.gov/42915366/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Quantum computing",
+        "Geometry and information"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Journal article",
+      "design": "Molecular-lattice microscopy and tight-binding calculations",
+      "summary": "The authors assembled a molecular diatomic kagome lattice and observed electronic states along its zigzag edges. Microscopy and calculations connect these states to the lattice's electronic structure and topology.",
+      "finding": "The authors assembled a molecular diatomic kagome lattice and observed electronic states along its zigzag edges. Microscopy and calculations connect these states to the lattice's electronic structure and topology.",
+      "limitation": "This is a quantum-materials result, not a demonstration of a longer-lived qubit or an error-correcting computer. It provides an example of geometry changing electronic behaviour, without establishing a Fibonacci mechanism.",
+      "citationCount": 0,
+      "citationSnapshot": {
+        "count": 0,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Molecular-lattice microscopy and tight-binding calculations. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://doi.org/10.1021/acs.nanolett.6c03195",
+          "https://pubmed.ncbi.nlm.nih.gov/42915366/"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Molecular-lattice microscopy and tight-binding calculations",
+        "evidenceClass": "quantum_materials_experiment",
+        "measurement": "Topological electronic edge states in a molecular lattice.",
+        "relationshipNote": "Compare edge and bulk observables in an explicitly defined Hamiltonian; treat this as a materials analogy until a quantum-information observable is tested.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Verified follow-up to Gemini research notes",
+        "notionPage": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
+        "reviewedAt": "2026-10-26"
+      }
+    },
+    {
+      "id": "quantum-rydberg-local-error-correction-2024",
+      "title": "Enhancing detection of topological order by local error correction",
+      "doi": "10.1038/s41467-024-45584-6",
+      "pmid": "38378727",
+      "journal": "Nature Communications",
+      "year": 2024,
+      "published": "2024-02-20",
+      "authors": "Iris Cong; Nishad Maskara; Minh C. Tran; Hannes Pichler; Giulia Semeghini; Susanne F. Yelin; Soonwon Choi; Mikhail D. Lukin",
+      "urls": [
+        "https://www.nature.com/articles/s41467-024-45584-6",
+        "https://doi.org/10.1038/s41467-024-45584-6",
+        "https://pubmed.ncbi.nlm.nih.gov/38378727/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10879205/"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Quantum computing",
+        "Geometry and information"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Journal article",
+      "design": "Numerical modelling and analysis of Rydberg-atom measurements",
+      "summary": "Cong and colleagues use local error-correction ideas to identify topological order despite noise. They test the method numerically and apply it to measurements from a Rydberg-atom quantum spin liquid, making it directly relevant to analysing neutral-atom experiments.",
+      "finding": "Cong and colleagues use local error-correction ideas to identify topological order despite noise. They test the method numerically and apply it to measurements from a Rydberg-atom quantum spin liquid, making it directly relevant to analysing neutral-atom experiments.",
+      "limitation": "The method improves the diagnosis of a prepared state. It is not a demonstration that Aquila stores arbitrary information fault-tolerantly, and it does not test M9 P24 sequences.",
+      "citationCount": 25,
+      "citationSnapshot": {
+        "count": 25,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Numerical modelling and analysis of Rydberg-atom measurements. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://www.nature.com/articles/s41467-024-45584-6",
+          "https://doi.org/10.1038/s41467-024-45584-6",
+          "https://pubmed.ncbi.nlm.nih.gov/38378727/",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10879205/"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Numerical modelling and analysis of Rydberg-atom measurements",
+        "evidenceClass": "numerical_and_quantum_experimental_data_analysis",
+        "measurement": "Locally error-corrected decoration of measured correlations to identify topological order.",
+        "relationshipNote": "Investigate whether the required correlation measurements and state preparation are available in our neutral-atom model before adopting the diagnostic.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Verified follow-up to Gemini research notes",
+        "notionPage": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
+        "reviewedAt": "2026-10-26"
+      },
+      "publisherFamily": "nature",
+      "publisherFamilyLabel": "Nature Portfolio"
+    },
+    {
+      "id": "quantum-haah-fractal-code-2011",
+      "title": "Local stabilizer codes in three dimensions without string logical operators",
+      "doi": "10.1103/PhysRevA.83.042330",
+      "pmid": null,
+      "journal": "Physical Review A",
+      "year": 2011,
+      "published": "2011-04-22",
+      "authors": "Jeongwan Haah",
+      "urls": [
+        "https://doi.org/10.1103/PhysRevA.83.042330"
+      ],
+      "collections": [
+        "general"
+      ],
+      "categories": [
+        "Quantum computing",
+        "Geometry and information"
+      ],
+      "targets": [],
+      "origin": "geometry-literature-20261026",
+      "priority": 1,
+      "kind": "Journal article",
+      "design": "Theoretical three-dimensional stabilizer codes",
+      "summary": "Haah constructs local stabilizer codes in three dimensions without string-like logical operators. The work introduces a different geometric organisation of information and errors, associated with the fractal structure of logical operations in the cubic-code family.",
+      "finding": "Haah constructs local stabilizer codes in three dimensions without string-like logical operators. The work introduces a different geometric organisation of information and errors, associated with the fractal structure of logical operations in the cubic-code family.",
+      "limitation": "This is code theory, not evidence that any fractal pattern stabilises a physical quantum computer. It does not demonstrate a Fibonacci connection or a complete self-correcting memory operating at finite temperature.",
+      "citationCount": 591,
+      "citationSnapshot": {
+        "count": 591,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-26"
+      },
+      "studyDesignAssessment": {
+        "category": "peer-reviewed",
+        "peerReviewed": true,
+        "basis": "Theoretical three-dimensional stabilizer codes. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://doi.org/10.1103/PhysRevA.83.042330"
+        ],
+        "reviewedAt": "2026-10-26"
+      },
+      "evidence": {
+        "evidenceType": "Theoretical three-dimensional stabilizer codes",
+        "evidenceClass": "quantum_error_correction_theory",
+        "measurement": "Three-dimensional local constraints and non-string logical operators.",
+        "relationshipNote": "Compare exact code properties and noise response before drawing connections between fractal appearance and information protection.",
+        "clinicalEvidence": false,
+        "reviewDepth": "Publisher or author abstract and bibliographic metadata; selected explanatory sections where available.",
+        "hypothesisBoundary": "Connections to M9 P24, Alpha, Beta, Gamma and Epsilon remain research hypotheses. Shared geometry does not establish a shared physical mechanism."
+      },
+      "jadad": {
+        "status": "not-applicable",
+        "score": null,
+        "reason": "Not a human randomised clinical trial."
+      },
+      "quotes": [],
+      "archiveEntries": [],
+      "verifiedAt": "2026-10-26",
+      "sourceProvenance": {
+        "origin": "Verified follow-up to Gemini research notes",
+        "notionPage": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
+        "reviewedAt": "2026-10-26"
+      }
+    }
+  ]
+}

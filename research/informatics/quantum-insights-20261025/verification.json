@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "at": "2026-10-25T02:32:48.662Z",
+  "audio_muted": true,
+  "insights_visible_before_opening": true,
+  "all_result_entries_open_dialogs": true,
+  "close_and_escape_restore_scroll_focus_and_question": true,
+  "all_8_variants_both_windows": true,
+  "atom_view_always_open": true,
+  "atom_selection_keyboard_tested": true,
+  "legend_and_sample_definitions": true,
+  "trust_roles_and_success_criteria": true,
+  "real_openai_response": true,
+  "no_new_quantum_jobs": true,
+  "layouts": [
+    {
+      "viewport": 390,
+      "kind": "simulation",
+      "width": 368,
+      "scroll": 368
+    },
+    {
+      "viewport": 390,
+      "kind": "quantum",
+      "width": 368,
+      "scroll": 368
+    },
+    {
+      "viewport": 390,
+      "kind": "comparison",
+      "width": 368,
+      "scroll": 368
+    },
+    {
+      "viewport": 320,
+      "kind": "simulation",
+      "width": 298,
+      "scroll": 298
+    },
+    {
+      "viewport": 320,
+      "kind": "quantum",
+      "width": 298,
+      "scroll": 298
+    },
+    {
+      "viewport": 320,
+      "kind": "comparison",
+      "width": 298,
+      "scroll": 298
+    }
+  ],
+  "errors": []
+}

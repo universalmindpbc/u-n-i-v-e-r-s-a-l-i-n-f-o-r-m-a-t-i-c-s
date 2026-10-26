@@ -1,0 +1,71 @@
+{
+  "checkedAt": "2026-10-23T12:48:29.526Z",
+  "sourceCommit": "90ab8712807e1e83ffdaea7a5ff8cb18d874a667",
+  "assets": [
+    {
+      "path": "Informatics/library-data/general-edition.json",
+      "version": "20261023h",
+      "bytes": 379600,
+      "sha256": "c627cf47b5ca139cbe497bf6499b9bb3917476c887c958067e654b3f9aa5f5e9",
+      "matches": true
+    },
+    {
+      "path": "Informatics/library-data/language-edition.json",
+      "version": "20261023h",
+      "bytes": 412493,
+      "sha256": "51d124e407ab2239c22610aaef7372232dc3a1831a044cc58edcd04aa3daa3a3",
+      "matches": true
+    },
+    {
+      "path": "Informatics/library-data/nature-expansion.json",
+      "version": "20261023h",
+      "bytes": 89132,
+      "sha256": "acf88b25054e81b38d5ffcb8a59be1586e2f98776db0c5ce52c794db18a58fc7",
+      "matches": true
+    },
+    {
+      "path": "Informatics/library-data/sound-edition.json",
+      "version": "20261023h",
+      "bytes": 393283,
+      "sha256": "f4d010fc15cfa5260a226d6553443ef0600467a020df0d49c06e8e93da8a50b8",
+      "matches": true
+    },
+    {
+      "path": "Informatics/library-data/vision-edition.json",
+      "version": "20261023h",
+      "bytes": 216851,
+      "sha256": "02d5fb54f02717887e780ccbd152c16fb28070077ffd22ff8119851dca8ffa89",
+      "matches": true
+    },
+    {
+      "path": "Informatics/library-data/vision-expansion.json",
+      "version": "20261023h",
+      "bytes": 166032,
+      "sha256": "f21d49ae4a4f6505d2160ffd0d52aeb653b0d3e6d8440bf014db7d907c9b904f",
+      "matches": true
+    },
+    {
+      "path": "Informatics/library-model.js",
+      "version": "6",
+      "bytes": 4986,
+      "sha256": "e565f7a479f36b6afcc26b5d24d761e1ddbe271c7bc3b7aed1d3f962325e23ae",
+      "matches": true
+    },
+    {
+      "path": "Informatics/library.html",
+      "version": "90ab8712",
+      "bytes": 33732,
+      "sha256": "ab0f579a019181a619d41e71267b560c8b7bc1cb1d398c87fb619bafb7bdd858",
+      "matches": true
+    },
+    {
+      "path": "Informatics/library.js",
+      "version": "14",
+      "bytes": 33388,
+      "sha256": "aec8c6ac1fc0233ab04dd423d0b0ba55b492c9b6bab8ff210b74c174b09b168f",
+      "matches": true
+    }
+  ],
+  "productionResearchSourceUnchanged": true,
+  "productionCommit": "309367a9515024f2f2eeb72d519f0cbc4a5c6747"
+}

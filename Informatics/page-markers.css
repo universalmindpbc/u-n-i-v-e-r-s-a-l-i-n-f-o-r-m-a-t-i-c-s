@@ -1,0 +1,7 @@
+/* One location-marker treatment across the Atlas and research pages. */
+.atlas-page-marker{display:block;margin:0 0 18px;font:400 10px/1.5 Arial,Helvetica,sans-serif;letter-spacing:.18em;text-transform:uppercase;color:var(--muted,#a5afb3)}
+.science-reader-location .atlas-page-marker{margin-bottom:6px}
+.science-reader-location>span{display:block}
+.product-name.atlas-page-marker{margin:0}
+#about>.atlas-page-marker{margin-bottom:22px}
+@media(max-width:720px){.atlas-page-marker{font-size:9px;margin-bottom:14px}}

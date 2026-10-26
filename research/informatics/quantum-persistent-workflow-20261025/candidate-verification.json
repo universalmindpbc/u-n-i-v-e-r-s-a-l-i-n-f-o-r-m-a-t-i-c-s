@@ -1,0 +1,63 @@
+{
+  "passed": true,
+  "live": false,
+  "process_audio_muted": true,
+  "records": [
+    {
+      "width": 1470,
+      "noOverflow": true,
+      "persistentDiagramOnArrivalAndAllFiveSteps": true,
+      "allSixDiagramNodesInteractive": true,
+      "fiveStages": true,
+      "timingVisible": true,
+      "canonicalGeometry": true,
+      "keyboardTabs": true,
+      "sharedControls": true,
+      "assistantUncovered": true,
+      "noExternalSubmissions": true,
+      "errors": []
+    },
+    {
+      "width": 1024,
+      "noOverflow": true,
+      "persistentDiagramOnArrivalAndAllFiveSteps": true,
+      "allSixDiagramNodesInteractive": true,
+      "fiveStages": true,
+      "timingVisible": true,
+      "canonicalGeometry": true,
+      "keyboardTabs": true,
+      "sharedControls": true,
+      "assistantUncovered": true,
+      "noExternalSubmissions": true,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "noOverflow": true,
+      "persistentDiagramOnArrivalAndAllFiveSteps": true,
+      "allSixDiagramNodesInteractive": true,
+      "fiveStages": true,
+      "timingVisible": true,
+      "canonicalGeometry": true,
+      "keyboardTabs": true,
+      "sharedControls": true,
+      "assistantUncovered": true,
+      "noExternalSubmissions": true,
+      "errors": []
+    },
+    {
+      "width": 320,
+      "noOverflow": true,
+      "persistentDiagramOnArrivalAndAllFiveSteps": true,
+      "allSixDiagramNodesInteractive": true,
+      "fiveStages": true,
+      "timingVisible": true,
+      "canonicalGeometry": true,
+      "keyboardTabs": true,
+      "sharedControls": true,
+      "assistantUncovered": true,
+      "noExternalSubmissions": true,
+      "errors": []
+    }
+  ]
+}

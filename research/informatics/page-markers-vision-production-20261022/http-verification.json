@@ -1,0 +1,126 @@
+{
+  "approvedCommit": "9e696eabc90eabf3315ae0dae9b15adfa015a235",
+  "passed": true,
+  "files": [
+    {
+      "file": "Informatics/atlas-visuals.js",
+      "environments": {
+        "production": {
+          "url": "https://universalmind.tv/informatics/atlas-visuals.js?verify=9e696ea-production",
+          "sha256": "0562528a588e1c6adbca3eaa0484ab23dd8eedd5308b06438699447bfdc255df",
+          "matchesApprovedSource": true
+        },
+        "staging": {
+          "url": "https://staging.universalmind.tv/informatics/atlas-visuals.js?verify=9e696ea-production",
+          "sha256": "0562528a588e1c6adbca3eaa0484ab23dd8eedd5308b06438699447bfdc255df",
+          "matchesApprovedSource": true
+        }
+      }
+    },
+    {
+      "file": "Informatics/atlas.css",
+      "environments": {
+        "production": {
+          "url": "https://universalmind.tv/informatics/atlas.css?verify=9e696ea-production",
+          "sha256": "90f1928569f12561a31ee30eebb4c8fd906440af64a0f205c72f161a35ebb86b",
+          "matchesApprovedSource": true
+        },
+        "staging": {
+          "url": "https://staging.universalmind.tv/informatics/atlas.css?verify=9e696ea-production",
+          "sha256": "90f1928569f12561a31ee30eebb4c8fd906440af64a0f205c72f161a35ebb86b",
+          "matchesApprovedSource": true
+        }
+      }
+    },
+    {
+      "file": "Informatics/index.html",
+      "environments": {
+        "production": {
+          "url": "https://universalmind.tv/informatics/index.html?verify=9e696ea-production",
+          "sha256": "cb915c42779cf16da76341142a47bb68ab912349b15e7688e77b7e9cf52aa8a9",
+          "matchesApprovedSource": true
+        },
+        "staging": {
+          "url": "https://staging.universalmind.tv/informatics/index.html?verify=9e696ea-production",
+          "sha256": "cb915c42779cf16da76341142a47bb68ab912349b15e7688e77b7e9cf52aa8a9",
+          "matchesApprovedSource": true
+        }
+      }
+    },
+    {
+      "file": "Informatics/library.html",
+      "environments": {
+        "production": {
+          "url": "https://universalmind.tv/informatics/library.html?verify=9e696ea-production",
+          "sha256": "bca5089edad89c787331a0005eb5f72bb376deb3a64697c3aa188cd8621a891f",
+          "matchesApprovedSource": true
+        },
+        "staging": {
+          "url": "https://staging.universalmind.tv/informatics/library.html?verify=9e696ea-production",
+          "sha256": "bca5089edad89c787331a0005eb5f72bb376deb3a64697c3aa188cd8621a891f",
+          "matchesApprovedSource": true
+        }
+      }
+    },
+    {
+      "file": "Informatics/molecular/index.html",
+      "environments": {
+        "production": {
+          "url": "https://universalmind.tv/informatics/molecular/index.html?verify=9e696ea-production",
+          "sha256": "bfdf30d655f38481fb5ebc81d3d3a3ff35023b1e7b53bbc1ab7924b04a3cc782",
+          "matchesApprovedSource": true
+        },
+        "staging": {
+          "url": "https://staging.universalmind.tv/informatics/molecular/index.html?verify=9e696ea-production",
+          "sha256": "bfdf30d655f38481fb5ebc81d3d3a3ff35023b1e7b53bbc1ab7924b04a3cc782",
+          "matchesApprovedSource": true
+        }
+      }
+    },
+    {
+      "file": "Informatics/page-markers.css",
+      "environments": {
+        "production": {
+          "url": "https://universalmind.tv/informatics/page-markers.css?verify=9e696ea-production",
+          "sha256": "9a3d6808a97551225776eb2e80543651f4e5aecefb93ac5b74f63fd90ad5b03a",
+          "matchesApprovedSource": true
+        },
+        "staging": {
+          "url": "https://staging.universalmind.tv/informatics/page-markers.css?verify=9e696ea-production",
+          "sha256": "9a3d6808a97551225776eb2e80543651f4e5aecefb93ac5b74f63fd90ad5b03a",
+          "matchesApprovedSource": true
+        }
+      }
+    },
+    {
+      "file": "Informatics/research.html",
+      "environments": {
+        "production": {
+          "url": "https://universalmind.tv/informatics/research.html?verify=9e696ea-production",
+          "sha256": "0aae8eee3ba3ba0099564d53266092f10fb81ee6487999711aee67124acd8f3e",
+          "matchesApprovedSource": true
+        },
+        "staging": {
+          "url": "https://staging.universalmind.tv/informatics/research.html?verify=9e696ea-production",
+          "sha256": "0aae8eee3ba3ba0099564d53266092f10fb81ee6487999711aee67124acd8f3e",
+          "matchesApprovedSource": true
+        }
+      }
+    },
+    {
+      "file": "Informatics/science.js",
+      "environments": {
+        "production": {
+          "url": "https://universalmind.tv/informatics/science.js?verify=9e696ea-production",
+          "sha256": "38ec91c9ebf3168619e56c2b15aa86d3b0682941b9111ff1aa5d7c395acf0fc0",
+          "matchesApprovedSource": true
+        },
+        "staging": {
+          "url": "https://staging.universalmind.tv/informatics/science.js?verify=9e696ea-production",
+          "sha256": "38ec91c9ebf3168619e56c2b15aa86d3b0682941b9111ff1aa5d7c395acf0fc0",
+          "matchesApprovedSource": true
+        }
+      }
+    }
+  ]
+}

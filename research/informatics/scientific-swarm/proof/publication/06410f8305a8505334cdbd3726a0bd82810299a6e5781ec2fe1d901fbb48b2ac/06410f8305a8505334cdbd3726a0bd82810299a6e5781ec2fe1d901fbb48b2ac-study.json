@@ -1,0 +1,697 @@
+{
+  "schema": "universal-informatics/scientific-review/v1",
+  "study_id": "62c79a3b-0e1c-43b4-ba7c-93b86b353136",
+  "review_status": "model_review_complete",
+  "review_kind": "retrospective",
+  "source": {
+    "question": "Do regular Fibonacci sequences, M9 P24 including Alpha, Beta, Gamma and Epsilon, and Phi Ratio help predict transcription factor binding around OXTR?",
+    "plan": {
+      "scope": "Retrospective audit of completed public OXTR work; no new jobs.",
+      "question": "Do regular Fibonacci sequences, M9 P24 including Alpha, Beta, Gamma and Epsilon, and Phi Ratio help predict transcription factor binding around OXTR?",
+      "hypotheses": [
+        "Fibonacci and Phi Ratio may improve occupancy prediction",
+        "M9 P24 Alpha/Beta/Gamma/Epsilon responses are candidate future predictive features"
+      ],
+      "controls": [
+        "Ordinary DNA inputs",
+        "Shuffled input control",
+        "Classical motif baseline"
+      ],
+      "current_evidence_boundary": "The two-window 16-run quantum batch qualifies measurements. It does not evaluate biological prediction or coherence lifetime. The later 152-window classical OXTR test is a separate pilot.",
+      "next_test": "Prespecify more labelled genomic windows, partition adjacent windows together, freeze all representations and model selection, then compare held-out prediction against ordinary and shuffled controls.",
+      "authority": {
+        "new_Aquila_jobs": false,
+        "new_paid_GPU_jobs": false
+      },
+      "success": "Improvement on independent biological test regions with uncertainty and matched baselines; null findings remain reportable."
+    },
+    "evidence": {
+      "record_sha256": "fec93e37a37c7594913c76bc7cf18ad338e74dbb7ba9668ec37bcf9dd8f2ec92",
+      "source": "https://universalmind.tv/informatics/quantum/experiments/oxtr-agent-follow-through-pilot/r1/experiment.json"
+    },
+    "execution": {
+      "cohort": {
+        "version": "oxtr-follow-through-v1",
+        "analysis_code_sha256": "9a40f5fd28523e40421217534b71e8ddc7ef8bdaf17fd83d0f288376723c7818",
+        "assay": "ENCSR932ZMX",
+        "factor": "CTCF",
+        "cell": "GM23338 iPSCs",
+        "assembly": "GRCh38",
+        "sampling": "32 peak-centred and 32 nearby non-peak windows per development chromosome; all 152 fixed OXTR windows for evaluation. Non-peak means no peak reported in this assay, not proven absence.",
+        "qc": [
+          "Antibody characterization exemption",
+          "Low read depth",
+          "Bottlenecking and library complexity warnings"
+        ],
+        "sources": [
+          {
+            "kind": "GRCh38 DNA",
+            "sha256": "7394b02ddb3664b93adb468a1c75f56c41adda0de9394c30f318ae17f59fd2d2",
+            "source": "https://api.genome.ucsc.edu/getData/sequence"
+          },
+          {
+            "kind": "ENCODE peaks",
+            "sha256": "ee5624447f4852f48ddf34c03a7d41c5ec7ebf9e86e7c0b93888eb6ad483ec68",
+            "source": "https://www.encodeproject.org/files/ENCFF651DQL/"
+          },
+          {
+            "kind": "JASPAR motif library",
+            "sha256": "4005b5449ba07d9b58495f51143186e7e3959efd0ad670770fbddf57bf941e8f",
+            "source": "https://jaspar.elixir.no/matrix/MA0139.2/"
+          },
+          {
+            "kind": "GRCh38 DNA chr1",
+            "sha256": "35262b9fb52b14d97983a1c31d18dcba6707f765b861273abb2cf38c0b292f0e",
+            "source": "https://api.genome.ucsc.edu/getData/sequence?genome=hg38;chrom=chr1;start=10032536;end=10708035"
+          },
+          {
+            "kind": "GRCh38 DNA chr2",
+            "sha256": "f6f62a9b953300479f5b4a6036b82e80bfc30f48db97942d6937c176e07d3b8f",
+            "source": "https://api.genome.ucsc.edu/getData/sequence?genome=hg38;chrom=chr2;start=10020094;end=10310877"
+          }
+        ],
+        "selection_frozen_before_scores": true,
+        "model_selection": "Use chr1 for learning, chr2 to choose a fixed candidate, then evaluate chr3/OXTR once. No OXTR labels enter fitting or candidate selection.",
+        "primary_measure": "Average precision: how often regions ranked as likely binding regions match the laboratory peak map.",
+        "limits": [
+          "Small pilot with five OXTR peak regions; descriptive results, not an independent confirmation.",
+          "Local background selection and one cell context limit generalisation.",
+          "No accessibility-matched negative set or ENCODE blacklist filtering in this pilot.",
+          "Additional hardware and population-wide inference are outside this task."
+        ]
+      },
+      "analysis": {
+        "version": "oxtr-follow-through-v1",
+        "counts": {
+          "development": {
+            "windows": 64,
+            "peak_windows": 32
+          },
+          "validation": {
+            "windows": 64,
+            "peak_windows": 32
+          },
+          "OXTR test": {
+            "windows": 152,
+            "peak_windows": 8
+          }
+        },
+        "models": {
+          "ordinary motif and spacing": {
+            "selected_model": "random forest",
+            "validation_candidates": [
+              {
+                "name": "logistic C=0.1",
+                "validation_average_precision": 0.9046791083103668
+              },
+              {
+                "name": "logistic C=1",
+                "validation_average_precision": 0.9217927095925503
+              },
+              {
+                "name": "logistic C=10",
+                "validation_average_precision": 0.9200778321905081
+              },
+              {
+                "name": "random forest",
+                "validation_average_precision": 0.930813898180016
+              }
+            ],
+            "validation_average_precision": 0.930813898180016,
+            "OXTR_average_precision": 0.0719144453117206,
+            "OXTR_roc_auc": 0.5963541666666667
+          },
+          "with Fibonacci and Phi Ratio": {
+            "selected_model": "random forest",
+            "validation_candidates": [
+              {
+                "name": "logistic C=0.1",
+                "validation_average_precision": 0.9098333461479924
+              },
+              {
+                "name": "logistic C=1",
+                "validation_average_precision": 0.9245496005487566
+              },
+              {
+                "name": "logistic C=10",
+                "validation_average_precision": 0.9110348608488567
+              },
+              {
+                "name": "random forest",
+                "validation_average_precision": 0.9291072679012629
+              }
+            ],
+            "validation_average_precision": 0.9291072679012629,
+            "OXTR_average_precision": 0.07390237208980502,
+            "OXTR_roc_auc": 0.6145833333333334
+          }
+        },
+        "difference_average_precision": 0.0019879267780844173,
+        "block_bootstrap_95_interval": [
+          -0.026260195602900528,
+          0.008181524055569506
+        ],
+        "bootstrap_valid_replicates": 999,
+        "verdict": "inconclusive",
+        "positive_result_rule": "The added features improve average precision and the block-resampled interval remains above zero. This small pilot still needs a fresh independent dataset.",
+        "negative_result_rule": "An interval below zero is discouraging for this recipe; an interval spanning zero leaves benefit unresolved.",
+        "test_prevalence": 0.05263157894736842,
+        "limits": [
+          "Small pilot with five OXTR peak regions; descriptive results, not an independent confirmation.",
+          "Local background selection and one cell context limit generalisation.",
+          "No accessibility-matched negative set or ENCODE blacklist filtering in this pilot.",
+          "Additional hardware and population-wide inference are outside this task."
+        ],
+        "quantum_prediction_status": "Not evaluated: the two DNA samples with saved Aquila measurements do not overlap the five CTCF peak regions. They cannot train or test a binding predictor."
+      },
+      "positive_test_windows": [
+        {
+          "sample": "chr3-8742912-8743168",
+          "start": 8742912,
+          "end": 8743168,
+          "reported_CTCF_peak": 1,
+          "ordinary_score": 0.2531080325367973,
+          "Fibonacci_Phi_score": 0.33721638908993123,
+          "motif_hits": 7,
+          "fibonacci_gap_signal": 0.25,
+          "phi_gap_signal": 0
+        },
+        {
+          "sample": "chr3-8755712-8755968",
+          "start": 8755712,
+          "end": 8755968,
+          "reported_CTCF_peak": 1,
+          "ordinary_score": 0.5482449649724352,
+          "Fibonacci_Phi_score": 0.5363357204043285,
+          "motif_hits": 3,
+          "fibonacci_gap_signal": 0,
+          "phi_gap_signal": 0
+        },
+        {
+          "sample": "chr3-8756736-8756992",
+          "start": 8756736,
+          "end": 8756992,
+          "reported_CTCF_peak": 1,
+          "ordinary_score": 0.2139273366717749,
+          "Fibonacci_Phi_score": 0.2761326801558592,
+          "motif_hits": 5,
+          "fibonacci_gap_signal": 0,
+          "phi_gap_signal": 0
+        },
+        {
+          "sample": "chr3-8756992-8757248",
+          "start": 8756992,
+          "end": 8757248,
+          "reported_CTCF_peak": 1,
+          "ordinary_score": 0.190760053923115,
+          "Fibonacci_Phi_score": 0.21779310115525227,
+          "motif_hits": 6,
+          "fibonacci_gap_signal": 0,
+          "phi_gap_signal": 0
+        },
+        {
+          "sample": "chr3-8767744-8768000",
+          "start": 8767744,
+          "end": 8768000,
+          "reported_CTCF_peak": 1,
+          "ordinary_score": 0.5935188450899769,
+          "Fibonacci_Phi_score": 0.522171866489204,
+          "motif_hits": 8,
+          "fibonacci_gap_signal": 0.21428571428571427,
+          "phi_gap_signal": 0.03073419947947344
+        },
+        {
+          "sample": "chr3-8768000-8768256",
+          "start": 8768000,
+          "end": 8768256,
+          "reported_CTCF_peak": 1,
+          "ordinary_score": 0.5142459233718826,
+          "Fibonacci_Phi_score": 0.5216907662101627,
+          "motif_hits": 7,
+          "fibonacci_gap_signal": 0.16666666666666666,
+          "phi_gap_signal": 0.1067535280966018
+        },
+        {
+          "sample": "chr3-8769280-8769536",
+          "start": 8769280,
+          "end": 8769536,
+          "reported_CTCF_peak": 1,
+          "ordinary_score": 0.2572977827719424,
+          "Fibonacci_Phi_score": 0.26480835599837416,
+          "motif_hits": 5,
+          "fibonacci_gap_signal": 0,
+          "phi_gap_signal": 0
+        },
+        {
+          "sample": "chr3-8769536-8769792",
+          "start": 8769536,
+          "end": 8769792,
+          "reported_CTCF_peak": 1,
+          "ordinary_score": 0.2539840963830818,
+          "Fibonacci_Phi_score": 0.34850149849352435,
+          "motif_hits": 6,
+          "fibonacci_gap_signal": 0.1,
+          "phi_gap_signal": 0.25410760576842173
+        }
+      ],
+      "prior_quantum": {
+        "sha256": "9fe40670c064ca9f3d2bc76f6b73a99311421b4939a885a178124e1e71881544",
+        "wolfram": {
+          "mode": "cached_template_verification",
+          "program": "chr3-8752896-8753152-ordinary",
+          "passed": true,
+          "maximum_probability_error": 7.257771376945055e-09,
+          "receipt_sha256": "5fe58d4ccbfc4b69d36c4955cf40e7697a8098ed3246b7bad6cbcadbdbbf9e72",
+          "physical_model_sha256": "6f4c108202cf5ea103c13d8b80a4e0a269c708ac92d1ea4b652006a67acb7262",
+          "scope": "Saved ordinary-input program; no new remote Wolfram call or new Hamiltonian validation claimed."
+        },
+        "rows": [
+          {
+            "sample": "chr3-8752896-8753152",
+            "representation": "ordinary",
+            "simulation_mean": 0.3016666666666667,
+            "Aquila_mean": 0.25510204081632654,
+            "reference_mean": 0.2972165941120539,
+            "Aquila_change_percentage_points": 0
+          },
+          {
+            "sample": "chr3-8752896-8753152",
+            "representation": "fibonacci",
+            "simulation_mean": 0.28,
+            "Aquila_mean": 0.21717171717171715,
+            "reference_mean": 0.2748087531131463,
+            "Aquila_change_percentage_points": -3.793032364460938
+          },
+          {
+            "sample": "chr3-8752896-8753152",
+            "representation": "phi",
+            "simulation_mean": 0.2783333333333334,
+            "Aquila_mean": 0.24131944444444445,
+            "reference_mean": 0.2688469682614885,
+            "Aquila_change_percentage_points": -1.3782596371882088
+          },
+          {
+            "sample": "chr3-8752896-8753152",
+            "representation": "alpha",
+            "simulation_mean": 0.2833333333333334,
+            "Aquila_mean": 0.203125,
+            "reference_mean": 0.28111071249328123,
+            "Aquila_change_percentage_points": -5.197704081632653
+          },
+          {
+            "sample": "chr3-8752896-8753152",
+            "representation": "beta",
+            "simulation_mean": 0.2883333333333334,
+            "Aquila_mean": 0.24226804123711343,
+            "reference_mean": 0.2912929479467206,
+            "Aquila_change_percentage_points": -1.2833999579213107
+          },
+          {
+            "sample": "chr3-8752896-8753152",
+            "representation": "gamma",
+            "simulation_mean": 0.29833333333333334,
+            "Aquila_mean": 0.2638888888888889,
+            "reference_mean": 0.3146403274328215,
+            "Aquila_change_percentage_points": 0.8786848072562359
+          },
+          {
+            "sample": "chr3-8752896-8753152",
+            "representation": "epsilon",
+            "simulation_mean": 0.3016666666666667,
+            "Aquila_mean": 0.2916666666666667,
+            "reference_mean": 0.31770366600623073,
+            "Aquila_change_percentage_points": 3.656462585034015
+          },
+          {
+            "sample": "chr3-8752896-8753152",
+            "representation": "shuffled",
+            "simulation_mean": 0.27666666666666667,
+            "Aquila_mean": 0.2754385964912281,
+            "reference_mean": 0.28120871076145454,
+            "Aquila_change_percentage_points": 2.0336555674901557
+          },
+          {
+            "sample": "chr3-8745472-8745728",
+            "representation": "ordinary",
+            "simulation_mean": 0.21166666666666664,
+            "Aquila_mean": 0.18070175438596492,
+            "reference_mean": 0.19366276748557543,
+            "Aquila_change_percentage_points": 0
+          },
+          {
+            "sample": "chr3-8745472-8745728",
+            "representation": "fibonacci",
+            "simulation_mean": 0.215,
+            "Aquila_mean": 0.19415807560137455,
+            "reference_mean": 0.19352774497750133,
+            "Aquila_change_percentage_points": 1.3456321215409628
+          },
+          {
+            "sample": "chr3-8745472-8745728",
+            "representation": "phi",
+            "simulation_mean": 0.21499999999999997,
+            "Aquila_mean": 0.17361111111111113,
+            "reference_mean": 0.19181574999115006,
+            "Aquila_change_percentage_points": -0.7090643274853786
+          },
+          {
+            "sample": "chr3-8745472-8745728",
+            "representation": "alpha",
+            "simulation_mean": 0.18000000000000002,
+            "Aquila_mean": 0.15087719298245614,
+            "reference_mean": 0.1691344536029761,
+            "Aquila_change_percentage_points": -2.982456140350878
+          },
+          {
+            "sample": "chr3-8745472-8745728",
+            "representation": "beta",
+            "simulation_mean": 0.18500000000000003,
+            "Aquila_mean": 0.16145833333333334,
+            "reference_mean": 0.17618737236750492,
+            "Aquila_change_percentage_points": -1.9243421052631575
+          },
+          {
+            "sample": "chr3-8745472-8745728",
+            "representation": "gamma",
+            "simulation_mean": 0.24166666666666667,
+            "Aquila_mean": 0.17368421052631577,
+            "reference_mean": 0.22444963615407762,
+            "Aquila_change_percentage_points": -0.7017543859649145
+          },
+          {
+            "sample": "chr3-8745472-8745728",
+            "representation": "epsilon",
+            "simulation_mean": 0.26333333333333336,
+            "Aquila_mean": 0.16494845360824742,
+            "reference_mean": 0.2544423008082389,
+            "Aquila_change_percentage_points": -1.57533007777175
+          },
+          {
+            "sample": "chr3-8745472-8745728",
+            "representation": "shuffled",
+            "simulation_mean": 0.26166666666666666,
+            "Aquila_mean": 0.29032258064516125,
+            "reference_mean": 0.267420073461925,
+            "Aquila_change_percentage_points": 10.962082625919633
+          }
+        ],
+        "new_Aquila_jobs": 0,
+        "new_qBraid_jobs": 0,
+        "meaning": "Fraction of atoms excited under the programmed pulse; not binding probabilities. All provider measurements here are reused from 25 October 2026."
+      },
+      "spend": {
+        "new_Aquila_USD": 0,
+        "new_qBraid_credits": 0
+      },
+      "prepared_quantum": {
+        "version": "oxtr-matched-pair-preparation-v1",
+        "cohort_sha256": "eed1d7d6d2508165a0172125c16e8351004625e87995b03b86f11ad480bc2cfd",
+        "compiler_sha256": "50a7c401263cb7f93acb5f6299f7f1cdde50c3d9cf877b8f8eee98c74152d518",
+        "template_sha256": "2e69559c1b034cf206626490a3a278ef1d8e1d9b3a727d0a57aa0c4d977c140e",
+        "physical_sha256": "6f4c108202cf5ea103c13d8b80a4e0a269c708ac92d1ea4b652006a67acb7262",
+        "template_id": "rydberg-reservoir-global-pulse-v1",
+        "scope": "One reported CTCF peak window and one nearby non-peak window, each prepared eight ways. Local numerical preparation only; two samples cannot establish binding-prediction accuracy.",
+        "Wolfram": "Reuses the previously checked Hamiltonian family. No fresh Wolfram service evaluation.",
+        "qBraid": {
+          "submitted": false,
+          "reason": "No new paid credit allowance; local CUDA-Q execution used."
+        },
+        "Aquila": {
+          "submitted": false,
+          "reason": "Owner disabled new Aquila submissions today.",
+          "requires": "Fresh device validation and explicit allowance before submission."
+        }
+      },
+      "prepared_cases": [
+        {
+          "id": "chr3-8742912-8743168-ordinary",
+          "sample": "chr3-8742912-8743168",
+          "reported_CTCF_peak": 1,
+          "representation": "ordinary",
+          "execution": "cudaq-cpu",
+          "max_export_observable_error": 1.814456321189148e-05,
+          "max_implementation_probability_error": 1.5654144647214707e-14,
+          "qasm_sha256": "4ff419d337c19045fb04d6b8eae39c8ab1be37e085703b7c0fdb21081e8c4098",
+          "ahs_sha256": "ed8ddda57b2a217d1a5190982888a1e3d03618a6882e243a5ffada4c1913f482"
+        },
+        {
+          "id": "chr3-8742912-8743168-fibonacci",
+          "sample": "chr3-8742912-8743168",
+          "reported_CTCF_peak": 1,
+          "representation": "fibonacci",
+          "execution": "cudaq-cpu",
+          "max_export_observable_error": 3.1857500038149555e-05,
+          "max_implementation_probability_error": 1.3405943022348765e-14,
+          "qasm_sha256": "0b547a952b1a78237917d875e2b22266acff1742c7ac2afa300a1fb96a9ca5bd",
+          "ahs_sha256": "97c2c5ced8bc0813aca994cdb93a638a5b4b42504ad06ba317530fc34e3247f8"
+        },
+        {
+          "id": "chr3-8742912-8743168-phi",
+          "sample": "chr3-8742912-8743168",
+          "reported_CTCF_peak": 1,
+          "representation": "phi",
+          "execution": "cudaq-cpu",
+          "max_export_observable_error": 3.660459427747369e-05,
+          "max_implementation_probability_error": 1.0769163338864018e-14,
+          "qasm_sha256": "264fdc38306c60319b5b98a623b966a6f506f53d3b3009e7b025dcac6ecb5274",
+          "ahs_sha256": "a9edc973bb12dcb11633ba3521cc755fa986ff8c1869867a01f908b28632032c"
+        },
+        {
+          "id": "chr3-8742912-8743168-alpha",
+          "sample": "chr3-8742912-8743168",
+          "reported_CTCF_peak": 1,
+          "representation": "alpha",
+          "execution": "cudaq-cpu",
+          "max_export_observable_error": 2.2058689838335517e-05,
+          "max_implementation_probability_error": 1.532107773982716e-14,
+          "qasm_sha256": "bdfa01e0ec1f140eeaa367146b1d29a1f27a499da27a71efd34462c91fbc45c6",
+          "ahs_sha256": "b06b5ddadc23e1c11b7065f7106dbf530e2bb8dc6e5b4add5423e211b692c021"
+        },
+        {
+          "id": "chr3-8742912-8743168-beta",
+          "sample": "chr3-8742912-8743168",
+          "reported_CTCF_peak": 1,
+          "representation": "beta",
+          "execution": "cudaq-cpu",
+          "max_export_observable_error": 8.092851107374524e-06,
+          "max_implementation_probability_error": 1.659783421814609e-14,
+          "qasm_sha256": "f52611fb90770ad2a942b0e851d5dd865e0c0b13cd78e8353ec7eff0e956592f",
+          "ahs_sha256": "42614be9ce74d16465c687258e4a5a2f36dce77834f84d81782b68acf8949967"
+        },
+        {
+          "id": "chr3-8742912-8743168-gamma",
+          "sample": "chr3-8742912-8743168",
+          "reported_CTCF_peak": 1,
+          "representation": "gamma",
+          "execution": "cudaq-cpu",
+          "max_export_observable_error": 1.902762714095727e-05,
+          "max_implementation_probability_error": 9.71445146547012e-15,
+          "qasm_sha256": "463c13eba246bb13665d2528e62e5ef289755f008e8a2ef9c281c285b8415317",
+          "ahs_sha256": "ed7e8b10bd8b86922dd91646c365d5edab3d57ad9e04ddf73d8cb33e37e09188"
+        },
+        {
+          "id": "chr3-8742912-8743168-epsilon",
+          "sample": "chr3-8742912-8743168",
+          "reported_CTCF_peak": 1,
+          "representation": "epsilon",
+          "execution": "cudaq-cpu",
+          "max_export_observable_error": 2.3081191081609284e-05,
+          "max_implementation_probability_error": 1.5432100042289676e-14,
+          "qasm_sha256": "89d4bf02044cb0db30ee5ddc7a7967cb753e7081964fa2dd5eb5eac44596c4b0",
+          "ahs_sha256": "da1b5328a3194cb4b1898582b13b135d0a3cbf2182b9008cf2d434dcee50686d"
+        },
+        {
+          "id": "chr3-8742912-8743168-shuffled",
+          "sample": "chr3-8742912-8743168",
+          "reported_CTCF_peak": 1,
+          "representation": "shuffled",
+          "execution": "cudaq-cpu",
+          "max_export_observable_error": 1.8491964542254362e-05,
+          "max_implementation_probability_error": 1.5709655798445965e-14,
+          "qasm_sha256": "f1fdfa4e0b6bc06eb7f858c4872eed3a54542a02ef629d967fdc73779e227af3",
+          "ahs_sha256": "6019d4a6071100816524e49e724905d50ce584a0918699df73e30c308c99eb27"
+        },
+        {
+          "id": "chr3-8743680-8743936-ordinary",
+          "sample": "chr3-8743680-8743936",
+          "reported_CTCF_peak": 0,
+          "representation": "ordinary",
+          "execution": "cudaq-cpu",
+          "max_export_observable_error": 5.008700107364265e-05,
+          "max_implementation_probability_error": 5.689893001203927e-15,
+          "qasm_sha256": "cda9338af73a8d9154f35f3bfd1a33cbe2d80ff1ce2e8f77794d90166ef9d50b",
+          "ahs_sha256": "39f7fa3b9d61ea5baa276ef5fb2b727eb89b55e8e454dabad51390fdc09a8321"
+        },
+        {
+          "id": "chr3-8743680-8743936-fibonacci",
+          "sample": "chr3-8743680-8743936",
+          "reported_CTCF_peak": 0,
+          "representation": "fibonacci",
+          "execution": "cudaq-cpu",
+          "max_export_observable_error": 7.747152541576147e-05,
+          "max_implementation_probability_error": 8.104628079763643e-15,
+          "qasm_sha256": "1b67e1cd2c47c7137fb1552ceaf79619806bf24c7037b9e0afc553e6091ad050",
+          "ahs_sha256": "58edd9e79cd9c29cc73bd10a64dc88b32ebe5fed779c625ef8268bb6c3a89b82"
+        },
+        {
+          "id": "chr3-8743680-8743936-phi",
+          "sample": "chr3-8743680-8743936",
+          "reported_CTCF_peak": 0,
+          "representation": "phi",
+          "execution": "cudaq-cpu",
+          "max_export_observable_error": 7.747152541576147e-05,
+          "max_implementation_probability_error": 8.104628079763643e-15,
+          "qasm_sha256": "1b67e1cd2c47c7137fb1552ceaf79619806bf24c7037b9e0afc553e6091ad050",
+          "ahs_sha256": "58edd9e79cd9c29cc73bd10a64dc88b32ebe5fed779c625ef8268bb6c3a89b82"
+        },
+        {
+          "id": "chr3-8743680-8743936-alpha",
+          "sample": "chr3-8743680-8743936",
+          "reported_CTCF_peak": 0,
+          "representation": "alpha",
+          "execution": "cudaq-cpu",
+          "max_export_observable_error": 7.548924967765616e-05,
+          "max_implementation_probability_error": 4.218847493575595e-15,
+          "qasm_sha256": "eb8d438080cfa52c80ccad3948e8cc40654483a3de1d2d2349e18c4668b04caf",
+          "ahs_sha256": "a9342abedec29fc90c08f5d4830010af29deeea82959dba06d2bba2af596590e"
+        },
+        {
+          "id": "chr3-8743680-8743936-beta",
+          "sample": "chr3-8743680-8743936",
+          "reported_CTCF_peak": 0,
+          "representation": "beta",
+          "execution": "cudaq-cpu",
+          "max_export_observable_error": 4.215526694377372e-05,
+          "max_implementation_probability_error": 5.4817261840867104e-15,
+          "qasm_sha256": "e16c30532dde531765dc89d413a1b1e29397279dae04d22f948dcc485c0079db",
+          "ahs_sha256": "06081fc9c62a12a28937d36e85721b07b578d88280029a57170b8031b1921702"
+        },
+        {
+          "id": "chr3-8743680-8743936-gamma",
+          "sample": "chr3-8743680-8743936",
+          "reported_CTCF_peak": 0,
+          "representation": "gamma",
+          "execution": "cudaq-cpu",
+          "max_export_observable_error": 5.508268328546131e-05,
+          "max_implementation_probability_error": 7.53563877964325e-15,
+          "qasm_sha256": "220a4fd7acb979a741a853248029a6c16a7bddfa5a136caf42e29ee58f55886b",
+          "ahs_sha256": "de705ceebbefbc19cafb989e6af72fa1a7c86a569ccf4234a583cc2c24f5aa99"
+        },
+        {
+          "id": "chr3-8743680-8743936-epsilon",
+          "sample": "chr3-8743680-8743936",
+          "reported_CTCF_peak": 0,
+          "representation": "epsilon",
+          "execution": "cudaq-cpu",
+          "max_export_observable_error": 5.108014598984222e-05,
+          "max_implementation_probability_error": 4.5102810375396984e-15,
+          "qasm_sha256": "43243a8027e3d0f2d9b6cb60613cb701c08f71d44645bdbabce370ed263fac52",
+          "ahs_sha256": "a0c6b0076b164a07fe1bb46d0ae9246ee8c5f56028e482e783172ff0fcd2340a"
+        },
+        {
+          "id": "chr3-8743680-8743936-shuffled",
+          "sample": "chr3-8743680-8743936",
+          "reported_CTCF_peak": 0,
+          "representation": "shuffled",
+          "execution": "cudaq-cpu",
+          "max_export_observable_error": 4.662522965649624e-05,
+          "max_implementation_probability_error": 4.6074255521944e-15,
+          "qasm_sha256": "bed8c2c0602bb412bf497ea5a1030812098a53477c6a1e53d928ef89ff78c9eb",
+          "ahs_sha256": "95188123eb3bcbb91993e409dce8f74ff3818fb7d01a31216aa6eb9f4cfddece"
+        }
+      ]
+    },
+    "report": {
+      "answer": "Not yet: this pilot does not establish that Fibonacci sequences or Phi Ratio improve binding prediction around OXTR. M9 P24 Alpha, Beta, Gamma and Epsilon were not evaluated for biological prediction in the new classical test. The laboratory evidence covers CTCF, one DNA-binding protein, in one stem-cell context—not transcription factors generally.",
+      "what_we_did": "The agent completed a classical comparison of familiar DNA binding patterns and their spacing, with and without Fibonacci/Phi Ratio features. It learned on chromosome 1, chose the method on chromosome 2 and tested 152 OXTR windows on chromosome 3: it did not see OXTR laboratory answers while learning. The agent also prepared a new matched pair of DNA windows, one overlapping a reported CTCF peak and one comparison window, compiled all eight representations for each and completed 16 local CUDA-Q CPU checks. These are the same DNA prepared as ordinary, Fibonacci, Phi Ratio, Alpha, Beta, Gamma, Epsilon and shuffled controls.",
+      "meaning": "Average precision, a ranking score rather than percent accuracy, changed from 0.0719 to 0.0739. The estimated uncertainty range for that change was −0.0263 to +0.0082, spanning both harm and benefit. This noisy change leaves benefit unresolved. The small pilot covers five OXTR peak regions and has laboratory quality warnings. Saved CUDA-Q/Aquila readings measure programmed quantum responses, not binding probabilities; the saved Aquila samples miss those peak regions and cannot validate binding prediction. The new pair checks programs, not predictive performance.",
+      "next_dependency": "A larger quantum prediction test still needs more matched quantum measurements linked to laboratory binding evidence. New Aquila submissions are disabled today; fresh device validation and explicit allowance are required before submission, and no new paid GPU allowance exists. No new quantum jobs were submitted. A larger independent biological prediction test is still needed. This is an automated preliminary report, with Gemini oversight deferred, as recorded in research memory oxtr-agent-follow-through-pilot, revision r1. The useful result today is a completed but inconclusive pilot, not evidence of biological or mental health benefit."
+    },
+    "report_context": {
+      "completed_at": "2026-10-25T21:03:06.579309+00:00",
+      "review_at_original_completion": {
+        "status": "automated_preliminary",
+        "Gemini": "deferred_by_owner"
+      },
+      "current_review": "Retrospective review; preserve the original historical report status. New review is recorded separately.",
+      "sampling_definition": "Eight labelled 256-base windows overlap five reported peak regions. Peak regions and DNA windows are different counting units."
+    }
+  },
+  "review": {
+    "decision": "approve",
+    "summary": "Astra's final report and execution receipts accurately reflect an inconclusive classical pilot and local quantum program preparation without overstating biological or clinical significance. Fibonacci, Phi Ratio, and M9 P24 Alpha, Beta, Gamma, and Epsilon are explicitly tracked, controls and uncertainty intervals are properly reported, and budget and hardware boundaries were respected.",
+    "checks": [
+      {
+        "claim": "Classical Fibonacci and Phi Ratio features do not demonstrably improve CTCF binding prediction around OXTR in this pilot.",
+        "finding": "Average precision on the 152 held-out OXTR windows changed from 0.071914 (ordinary motif and spacing) to 0.073902 (with Fibonacci and Phi Ratio), a difference of +0.001988 with a 95% block-bootstrap interval of [-0.026260, +0.008182] spanning zero.",
+        "evidence": [
+          "execution.analysis.models",
+          "execution.analysis.difference_average_precision",
+          "execution.analysis.block_bootstrap_95_interval",
+          "report.meaning"
+        ],
+        "status": "pass"
+      },
+      {
+        "claim": "Partitioning and model selection avoided test leakage into the OXTR evaluation.",
+        "finding": "Models were trained on chr1 (64 windows), selected on chr2 (64 windows), and evaluated once on chr3 OXTR (152 windows, 8 positive peak windows across 5 peak regions) with selection frozen before scoring.",
+        "evidence": [
+          "execution.cohort.model_selection",
+          "execution.cohort.selection_frozen_before_scores",
+          "execution.analysis.counts",
+          "report_context.sampling_definition"
+        ],
+        "status": "pass"
+      },
+      {
+        "claim": "M9 P24 Alpha, Beta, Gamma, and Epsilon biological binding prediction and coherence lifetime effects.",
+        "finding": "Not tested for biological prediction. Saved Aquila runs for two windows do not overlap the five CTCF peak regions, and the 16 new matched-pair runs (ordinary, Fibonacci, Phi Ratio, Alpha, Beta, Gamma, Epsilon, and shuffled) are local CUDA-Q CPU program checks on two windows, which cannot establish predictive accuracy or biological causation.",
+        "evidence": [
+          "execution.analysis.quantum_prediction_status",
+          "execution.prior_quantum.meaning",
+          "execution.prepared_quantum.scope",
+          "execution.prepared_cases"
+        ],
+        "status": "not_tested"
+      },
+      {
+        "claim": "Authority, budget, and provenance constraints were maintained.",
+        "finding": "Zero new Aquila or paid qBraid jobs were submitted; all source hashes, ENCODE quality warnings, and local CUDA-Q execution receipts are properly logged. Notice: in the non-peak window chr3-8743680-8743936, the Fibonacci and Phi Ratio compiled artifacts share identical QASM and AHS SHA-256 hashes because zero motif gaps were present to differentiate the two schedules.",
+        "evidence": [
+          "execution.spend",
+          "execution.prior_quantum.new_Aquila_jobs",
+          "execution.prepared_quantum.Aquila",
+          "execution.prepared_quantum.qBraid",
+          "execution.prepared_cases"
+        ],
+        "status": "pass"
+      }
+    ],
+    "required_changes": [],
+    "provider": "google",
+    "model": "gemini-4-argon",
+    "provider_response_id": "VZjearKnHJTmosUPppeEiAI",
+    "evidence_sha256": "09fae995404c64811b2c4fb2559fc8384c95cce937d8ef14005a33e208aa7f47",
+    "usage": {
+      "promptTokenCount": 11962,
+      "candidatesTokenCount": 827,
+      "totalTokenCount": 12789,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 11962
+        }
+      ],
+      "candidatesTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 827
+        }
+      ]
+    },
+    "reserved_micro_usd": 188480,
+    "reviewed_at": "2026-10-26T00:01:38.246883+00:00",
+    "duration_seconds": 13.426
+  },
+  "meaning": "A later cross-model review of saved public work. It is not a new scientific experiment or an independent laboratory confirmation."
+}

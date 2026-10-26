@@ -1,0 +1,65 @@
+{
+  "verifiedAt": "2026-10-23T14:44:01.438403+00:00",
+  "environment": "staging",
+  "url": "https://staging.universalmind.tv/informatics/",
+  "sourceCommit": "413e5658978b9911ce27df0b85b4f0f42409bc1e",
+  "productionBase": "d82c7ae080a5236cd1029bd9605d7b4e3988feb4",
+  "productionModified": false,
+  "workerVersion": "c12d0194-661a-417b-b4f6-b055a3dbe16f",
+  "datasetVersion": "research-20261024-v2",
+  "counts": {
+    "publications": 811,
+    "fullTextArticles": 149,
+    "passages": 4188,
+    "atlasRecords": 1001,
+    "m9FamilyMembers": 111,
+    "archivedObjects": 300
+  },
+  "checks": {
+    "standardPanthurPreflights": "passed",
+    "researchCounts": "passed",
+    "browserUIThroughOpenAI": "passed",
+    "editableDictation": "passed",
+    "voiceTranscriptionAstraSpeech": "passed",
+    "musicDuckRestore": [
+      0.8,
+      0.12,
+      0.8
+    ],
+    "microphoneClosedDuringSpeech": true,
+    "viewportWidths": [
+      1470,
+      1024,
+      390,
+      320
+    ],
+    "readingThemes": 3,
+    "fullscreenSubtreeLayout": "simulated without native fullscreen",
+    "processAudioDisabled": true,
+    "finalLayoutVisualInspection": "passed",
+    "sequentialCitationsAndAttribution": "passed",
+    "publicationExportDatabaseParity": "811 records deep-equal",
+    "atlasJSONHashParity": "1001 records",
+    "missingEmbeddings": 0,
+    "privateObjects": "SHA256 metadata and size verified",
+    "readerInsertPrivilege": false,
+    "changedStagingAssetsMatched": 10,
+    "productionAssetsUnchanged": 4
+  },
+  "testNotes": [
+    "Initial functional reports retain earlier citation labels; sources-final.json verifies the final sequential citation renderer.",
+    "An old asset audit query returned cached CSS; this release cache key and actual page CSS v4 match the deployed file.",
+    "Optional check-language-research and check-vision-research assertions predate approved trust-score/count changes. Prior-release edition data are unchanged.",
+    "Silent browser tests verify voice functionality; subjective voice quality remains for Ben to proof."
+  ],
+  "reports": [
+    "assets-final.json",
+    "atlas-layout-staging.json",
+    "database-final.json",
+    "evaluation.json",
+    "import-summary.json",
+    "layout-final.json",
+    "sources-final.json",
+    "verification.json"
+  ]
+}

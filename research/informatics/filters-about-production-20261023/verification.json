@@ -1,0 +1,63 @@
+{
+  "base": "https://universalmind.tv/informatics/",
+  "checks": [
+    {
+      "width": 1470,
+      "metadata": true,
+      "aboutBackdrop": {
+        "bg": "rgba(0, 0, 0, 0.18)",
+        "blur": "none",
+        "overflow": false
+      },
+      "videoContinues": true,
+      "nestedDialogAndFocus": true,
+      "multipleFilters": true,
+      "themes": 3,
+      "noNativeFullscreen": true
+    },
+    {
+      "width": 1024,
+      "metadata": true,
+      "aboutBackdrop": {
+        "bg": "rgba(0, 0, 0, 0.18)",
+        "blur": "none",
+        "overflow": false
+      },
+      "videoContinues": true,
+      "nestedDialogAndFocus": true,
+      "multipleFilters": true,
+      "themes": 3,
+      "noNativeFullscreen": true
+    },
+    {
+      "width": 390,
+      "metadata": true,
+      "aboutBackdrop": {
+        "bg": "rgba(0, 0, 0, 0.18)",
+        "blur": "none",
+        "overflow": false
+      },
+      "videoContinues": true,
+      "nestedDialogAndFocus": true,
+      "multipleFilters": true,
+      "themes": 3,
+      "noNativeFullscreen": true
+    },
+    {
+      "width": 320,
+      "metadata": true,
+      "aboutBackdrop": {
+        "bg": "rgba(0, 0, 0, 0.18)",
+        "blur": "none",
+        "overflow": false
+      },
+      "videoContinues": true,
+      "nestedDialogAndFocus": true,
+      "multipleFilters": true,
+      "themes": 3,
+      "noNativeFullscreen": true
+    }
+  ],
+  "errors": [],
+  "audioMuted": true
+}

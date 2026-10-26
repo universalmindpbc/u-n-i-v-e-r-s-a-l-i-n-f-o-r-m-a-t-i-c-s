@@ -1,0 +1,203 @@
+{
+  "status": "Staging editorial draft for Ben to proof",
+  "date": "2026-10-23",
+  "bodyTopics": [
+    {
+      "id": "i",
+      "page": 4,
+      "originalHeading": "mantra meditation & mindfulness modulate happiness & DNA i. mantra meditation modulates cognition, creativity & mental health",
+      "proposedHeading": "Mantra meditation: cognition, creativity, mental health and cardiovascular outcomes",
+      "trustScore": 2,
+      "retained": true
+    },
+    {
+      "id": "ii",
+      "page": 11,
+      "originalHeading": "ii. mindfulness modulates DNA",
+      "proposedHeading": "Meditation, mindfulness and related practices: gene expression and epigenetics",
+      "trustScore": 2,
+      "retained": true
+    },
+    {
+      "id": "iii",
+      "page": 17,
+      "originalHeading": "iii. mindfulness modulates OXTR Oxytocin Receptor Gene, empowering connectedness",
+      "proposedHeading": "Oxytocin, OXTR variation and responses to meditation",
+      "trustScore": 1,
+      "retained": true
+    },
+    {
+      "id": "iv",
+      "page": 18,
+      "originalHeading": "iv. mindfulness modulates interleukin 6 (IL-6), reducing inflammation, anxiety and depression",
+      "proposedHeading": "Mindfulness and related practices: IL-6, inflammation and mental health",
+      "trustScore": 2,
+      "retained": true
+    },
+    {
+      "id": "v",
+      "page": 22,
+      "originalHeading": "v. mindfulness modulates telomere length, increasing biological longevity",
+      "proposedHeading": "Meditation, telomeres, telomerase and epigenetic ageing",
+      "trustScore": 1,
+      "retained": true
+    },
+    {
+      "id": "vi",
+      "page": 24,
+      "originalHeading": "vi. mindful water: molecular hydrogen modulates inflammation, cognition and gene expression",
+      "proposedHeading": "Molecular hydrogen: inflammation, cognition and gene expression",
+      "trustScore": 3,
+      "retained": true
+    },
+    {
+      "id": "vii",
+      "page": 29,
+      "originalHeading": "mindfulness modulates mental health - therapeutic evidence vii. mindfulness modulates neuroplasticity and mental health",
+      "proposedHeading": "Mindfulness and meditation: brain function and clinical outcomes",
+      "trustScore": 3,
+      "retained": true
+    },
+    {
+      "id": "viii",
+      "page": 34,
+      "originalHeading": "viii. mindfulness modulates connectedness",
+      "proposedHeading": "Meditation, social connection and physiological synchrony",
+      "trustScore": 1,
+      "retained": true
+    },
+    {
+      "id": "ix",
+      "page": 36,
+      "originalHeading": "ix. mindfulness and biofeedback modulate heart rate variability and the vagus nerve",
+      "proposedHeading": "Meditation, yoga and biofeedback: heart-rate variability and autonomic regulation",
+      "trustScore": 2,
+      "retained": true
+    },
+    {
+      "id": "x",
+      "page": 42,
+      "originalHeading": "x. social media data predicts mental illness + AI chatbots modulate mental health",
+      "proposedHeading": "Digital communication, conversational therapies and mental health",
+      "trustScore": 2,
+      "retained": true
+    },
+    {
+      "id": "xi",
+      "page": 47,
+      "originalHeading": "mindfulness modulates mental health in at risk communities xi. mindfulness and mantra modulate mental health for refugees",
+      "proposedHeading": "Mantra, mindfulness and psychological therapies with refugees",
+      "trustScore": 1,
+      "retained": true
+    },
+    {
+      "id": "xii",
+      "page": 49,
+      "originalHeading": "xii. mantra meditation modulates mental health for war veterans, abused women and HIV sufferers",
+      "proposedHeading": "Mantra meditation: veterans, survivors of abuse and people living with HIV",
+      "trustScore": 1,
+      "retained": true
+    },
+    {
+      "id": "xiii",
+      "page": 50,
+      "originalHeading": "xiii. mindfulness modulates mental health for at risk youth including homeless, incarcerated & indigenous",
+      "proposedHeading": "Mindfulness and psychological support for people facing adversity",
+      "trustScore": 2,
+      "retained": true
+    },
+    {
+      "id": "xiv",
+      "page": 54,
+      "originalHeading": "xiv. Australian Federal Government, Department of Veteran Affairs, evidence compass recommends group mindfulness and group yoga as promising for veterans with anxiety and depression.",
+      "proposedHeading": "Meditation, mindfulness and yoga: the DVA evidence review",
+      "trustScore": 3,
+      "retained": true
+    },
+    {
+      "id": "xv",
+      "page": 55,
+      "originalHeading": "xv. smart phones, social media & blockchain empower homeless including refugees, Indigenous Australians & armed servicemen & women with PTSD",
+      "proposedHeading": "Digital access, social support and humanitarian technology",
+      "trustScore": 1,
+      "retained": true
+    },
+    {
+      "id": "xvi",
+      "page": 65,
+      "originalHeading": "xvi. mental health risks, policy interventions and statistics for homeless including refugees",
+      "proposedHeading": "Homelessness, displacement and mental health",
+      "trustScore": 2,
+      "retained": true
+    },
+    {
+      "id": "xvii",
+      "page": 69,
+      "originalHeading": "xvii. mental health risks, policy interventions and statistics for Indigenous Australians",
+      "proposedHeading": "Aboriginal and Torres Strait Islander mental health and wellbeing",
+      "trustScore": 1,
+      "retained": true
+    },
+    {
+      "id": "xviii",
+      "page": 71,
+      "originalHeading": "xviii. mental health risks, policy interventions and statistics for armed servicemen and women with PTSD",
+      "proposedHeading": "Military service, veterans and mental health",
+      "trustScore": 1,
+      "retained": true
+    }
+  ],
+  "indexOnlyLinks": [
+    {
+      "id": "xix",
+      "destination": "Vision / EMDR",
+      "bodyArticles": 0
+    },
+    {
+      "id": "xx",
+      "destination": "Sound",
+      "bodyArticles": 0
+    }
+  ],
+  "exclusions": [],
+  "scoreReview": [
+    {
+      "topic": "xvi",
+      "indexScore": 1,
+      "bodyScore": 2,
+      "displayedScore": 2,
+      "decision": "Original body score retained for joint proof."
+    },
+    {
+      "topic": "xiv",
+      "score": 3,
+      "decision": "Original score retained. The paper is a government evidence review; the score is not a new article-level design claim."
+    }
+  ],
+  "quotationPolicy": "Original excerpts and emphasis retained. No AI rewrites. Two foundation bibliography records preserve their full reference content with attribution.",
+  "generalCrossListing": "Shared record identities; Sound and Language memberships retained. Previously deferred topics available in General. Explicit prior Sound exclusions remain excluded.",
+  "scope": [
+    "Mantra-based meditation",
+    "Mindfulness",
+    "Nonviolent communication",
+    "Emotional intelligence",
+    "Talking components of psychology",
+    "Talking components of psychotherapy"
+  ],
+  "terminology": {
+    "mind": "Broader scope",
+    "thoughts": "Reader-facing term",
+    "language": "The language we think and the language we say",
+    "MBSR": "Specific clinical programme; distinguish from mantra-based meditation"
+  },
+  "reviewNotes": [
+    "OXTR variation and intranasal oxytocin studies do not establish changes in OXTR transcription.",
+    "IL-6 protein and IL6 gene expression are separate measures; no blanket claim of reduced inflammation or symptoms.",
+    "Telomere and epigenetic-clock measures do not establish longer life.",
+    "Gene-expression engineering study PMID 25386727 uses an EEG-controlled optogenetic implant; native human transcription is not the measured mechanism.",
+    "DVA recommendations retain historical context; avoid a blanket current clinical recommendation.",
+    "Page 49 foundation bibliography reuses a veteran pilot citation under women and girls; the original attribution is visible, pending review.",
+    "Mindfulness population statistics retain their study dates and are not presented as current prevalence.",
+    "No current claim that TM has the largest evidence base. AHRQ 2007 supports historical prominence; 2025 bibliometrics show contemporary mindfulness predominance."
+  ]
+}

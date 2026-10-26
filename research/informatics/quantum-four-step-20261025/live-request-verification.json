@@ -1,0 +1,80 @@
+{
+  "passed": true,
+  "at": "2026-10-25T00:26:34.896Z",
+  "process_audio_muted": true,
+  "real_openai_requests": 2,
+  "question_opens_study": true,
+  "no_plan_output": true,
+  "saved_study_restored": true,
+  "synthetic_report_arrival_ui_test": true,
+  "synthetic_fixture_never_published": true,
+  "real_classical_sequence": "ATGCCTAGGATTC",
+  "download_roundtrip": true,
+  "failure_preserves_question": true,
+  "no_gpu_or_qpu_submission": true,
+  "before": {
+    "allowed": true,
+    "unit": "AI questions",
+    "periods": {
+      "day": {
+        "key": "2026-10-25T00:00:00.000Z",
+        "used": 2,
+        "limit": 30,
+        "resetAt": "2026-10-26T00:00:00.000Z",
+        "remaining": 28
+      },
+      "week": {
+        "key": "2026-10-19T00:00:00.000Z",
+        "used": 12,
+        "limit": 120,
+        "resetAt": "2026-10-26T00:00:00.000Z",
+        "remaining": 108
+      },
+      "month": {
+        "key": "2026-10-01T00:00:00.000Z",
+        "used": 12,
+        "limit": 300,
+        "resetAt": "2026-11-01T00:00:00.000Z",
+        "remaining": 288
+      }
+    },
+    "resetAt": null,
+    "hardware": {
+      "available": false,
+      "reason": "Study 01 is in design review; compute runs follow the agreed protocol."
+    }
+  },
+  "after": {
+    "allowed": true,
+    "unit": "AI questions",
+    "periods": {
+      "day": {
+        "key": "2026-10-25T00:00:00.000Z",
+        "used": 4,
+        "limit": 30,
+        "resetAt": "2026-10-26T00:00:00.000Z",
+        "remaining": 26
+      },
+      "week": {
+        "key": "2026-10-19T00:00:00.000Z",
+        "used": 14,
+        "limit": 120,
+        "resetAt": "2026-10-26T00:00:00.000Z",
+        "remaining": 106
+      },
+      "month": {
+        "key": "2026-10-01T00:00:00.000Z",
+        "used": 14,
+        "limit": 300,
+        "resetAt": "2026-11-01T00:00:00.000Z",
+        "remaining": 286
+      }
+    },
+    "resetAt": null,
+    "hardware": {
+      "available": false,
+      "reason": "Study 01 is in design review; compute runs follow the agreed protocol."
+    }
+  },
+  "errors": []
+}

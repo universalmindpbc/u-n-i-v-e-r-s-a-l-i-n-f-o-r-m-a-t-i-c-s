@@ -1,0 +1,38 @@
+{
+  "passed": true,
+  "candidate": true,
+  "results": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "completeCsvDownloadVisible": true,
+      "fullBundleDownloadedAndMatched": false,
+      "noHorizontalOverflow": true,
+      "errors": [],
+      "recordsChecked": [
+        999,
+        1001
+      ],
+      "recordContentsMatch": true,
+      "recordCheckMethod": "browser fetch"
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "completeCsvDownloadVisible": true,
+      "fullBundleDownloadedAndMatched": false,
+      "noHorizontalOverflow": true,
+      "errors": [],
+      "recordsChecked": [
+        999,
+        1001
+      ],
+      "recordContentsMatch": true,
+      "recordCheckMethod": "browser fetch"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+/* The frame owns navigation, background media, fullscreen and Universal One. */
+#experience>header{position:relative;z-index:40}
+#experience.atlas-open .film-shade{background:#0006}
+#research-panel,#connect-panel{flex:1;min-height:0;width:100%;height:calc(100svh - 100px)}
+#research-frame,#connect-frame{display:block;width:100%;height:100%;border:0;background:transparent}
+#about-panel{flex:1;min-height:0;overflow:auto;padding:24px 4.2vw 110px}
+#about-panel #about{display:block;position:static;inset:auto;width:min(960px,100%);max-width:none;max-height:none;margin:0 auto;padding:30px 38px;overflow:visible;background:#09121a88;border:0;box-shadow:none}
+#about-panel #about-close{display:none}
+#quantum-frame{background:transparent}
+#experience .experience-actions{flex-shrink:0}
+@media(max-width:650px){#about-panel{padding:16px 15px 100px}#about-panel #about{padding:20px}#experience>header{margin:0 18px;min-height:106px;justify-content:center}#experience .experience-actions{width:100%;justify-content:space-between;gap:8px}#experience #atlas-navigation{margin-right:auto}#experience #record-navigation{max-width:130px}#experience #record-toggle{max-width:130px}#research-panel,#connect-panel{height:calc(100svh - 108px)}}

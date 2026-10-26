@@ -1,0 +1,393 @@
+{
+  "verified_on": "2026-10-18",
+  "source_commit": "6286f58065425a2f5ab2a406c4f7fcbb82f0fc5c",
+  "base_url": "https://staging.universalmind.tv/informatics/",
+  "files": [
+    {
+      "path": "Informatics/index.html",
+      "sha256": "cf44b579e6b9f35acf1c640d6051b72bd82281026965b0f66aea62acc64b0d58",
+      "bytes": 6379,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/CSV-README.txt",
+      "sha256": "31e786a411cf8e06f9b01a2e03b485959f9506db3e1ed98003347040b5c4ffea",
+      "bytes": 3407,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/beta-m9-family-audit.json",
+      "sha256": "6ea755723901f61947e325ade162142fa030e47b56461a99e2df59332d8b6371",
+      "bytes": 31808,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/dataset.json",
+      "sha256": "23f49aec7ac1ed3f8f125e8b687d739e7bee4d93ff9334947f0d7c35f379af69",
+      "bytes": 4854755,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/m1-m48-data.zip",
+      "sha256": "624fe21d2d6a353f9482eec6b81a5c609b6aa6659462462b3e4638201f285201",
+      "bytes": 1041014,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/m18.json",
+      "sha256": "9915e03a31b3a8b0a4bf97238b71f1321c46ce245a0d3f86728bb551f1c18a0c",
+      "bytes": 103096,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/m27.json",
+      "sha256": "3a5341218b45385ad417c432bd382cb0b8d43e62ca8c54b93ac26741ef7a29b8",
+      "bytes": 264102,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/m36.json",
+      "sha256": "3c4641f94944d538a38d8d76f48befa35cc11282af90172f45332ac32e02199a",
+      "bytes": 97259,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/m45.json",
+      "sha256": "b1a8e2b0c4553bdffd0196f079482399fda71e1f53150229c49e9927e8b7b6bb",
+      "bytes": 525790,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/m9-sequence-family-audit.json",
+      "sha256": "62bbeed369de2f7a2dc368456b0660e7ff3b0345e18a1075f89782c0b407beb5",
+      "bytes": 41279,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/m9.json",
+      "sha256": "81543800b72ae6ddfe5c1903d06fcbaaff91e41988700dfea6b1276983afda85",
+      "bytes": 106291,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/records.csv",
+      "sha256": "d259a38907a0f24803acd5041501080b0e47d5a0c50f4024cfca6ba115d29eaf",
+      "bytes": 66742,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m18/alpha-m9.png",
+      "sha256": "d3e272600700f2442595bea5ab24e5c9718a94ee882baec0253964e5379f0d4e",
+      "bytes": 24680,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m18/alpha-m9.svg",
+      "sha256": "0b0e91f1ce8c12b38aded2f7b755f7b3ff3683de9c04e925103e9f9a673e1cd9",
+      "bytes": 11519,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m18/beta-m9.png",
+      "sha256": "d7f5a6318dcd4461f829f5671d567828d9d3ee8e06418becc5f1ee2144b90e17",
+      "bytes": 22094,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m18/beta-m9.svg",
+      "sha256": "0d4971745d75c776ad6fe458421e741ce37db47aff05c1391d9b3ec1b50751ba",
+      "bytes": 3930,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m18/epsilon-m9.png",
+      "sha256": "1229aff319464bd0b12e8fc77a15822b38e1222aec689fc512b7990512c717e1",
+      "bytes": 24977,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m18/epsilon-m9.svg",
+      "sha256": "f97d0075878044b9a05020ee287c0020bef7c68cc1462135fedce5e73b461b3d",
+      "bytes": 4709,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m18/gamma-m9.png",
+      "sha256": "06a48cfa33125263a1ac307479ff17ec7ec994d99334c3bdceca6fd7926ea086",
+      "bytes": 22951,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m18/gamma-m9.svg",
+      "sha256": "bf89f7e05cc0d27e17bcc66f55a46c26dd67ca8dc286133c8b6b650c29a0a458",
+      "bytes": 4208,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m27/alpha-m9.png",
+      "sha256": "61de23a3d1cd50ad305285f16c172a064ae60e079d11a05464c9d863449cc6a2",
+      "bytes": 26292,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m27/alpha-m9.svg",
+      "sha256": "4ab1afcd1c202256162c70c5bf42cae6397ead834c767258bcd89078e78f4671",
+      "bytes": 11547,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m27/beta-m9.png",
+      "sha256": "f668afc3792f5678cddd17bed676c64521b4819c8a35614ee0e471eff99ffdd3",
+      "bytes": 22024,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m27/beta-m9.svg",
+      "sha256": "a1798be257f1ace84ea7d012b90576e251200fa33c9f59a38f612443cb19c6ce",
+      "bytes": 3938,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m27/epsilon-m9.png",
+      "sha256": "314ce8ba1b9a919a86f63a8a0375bfcacdeb71984375f1d12ba58103e2510bed",
+      "bytes": 26623,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m27/epsilon-m9.svg",
+      "sha256": "0c89e118cb8b3943ba9407737c79d17b4b7cc6b7fc55e6c9042cc644995b81cf",
+      "bytes": 4737,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m27/gamma-m9.png",
+      "sha256": "41437f8ae84b1b69fcfb1918e44dbc8d46232dc39595de2f319e67441684373c",
+      "bytes": 24591,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m27/gamma-m9.svg",
+      "sha256": "03b765db0baa40672f7a028d4e245b3c1deec7519997dc67d5d58fbf0e2898a4",
+      "bytes": 4236,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m36/alpha-m9.png",
+      "sha256": "3e2a9b8e71d3ae4a7fce020ba7723e40f9f046ab704f167d2194368781affbfa",
+      "bytes": 24769,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m36/alpha-m9.svg",
+      "sha256": "7237d94542e7765adff53ecf441f53948de12a1196c4b20d965b144c139b9d40",
+      "bytes": 11519,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m36/beta-m9.png",
+      "sha256": "47125d2fc86081183b866e8c9e5808d9d4804a4661a89aaac4aea02caa21b15a",
+      "bytes": 22181,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m36/beta-m9.svg",
+      "sha256": "6f48d92e83ad0a5a2bc16c71fecf62e2a77ce940e1337d92ba3f25ec8b7bbda1",
+      "bytes": 3930,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m36/epsilon-m9.png",
+      "sha256": "2e045c42defe07dfc7be938cfc70aa572ccc7c3b563b3df3104b4f50b6bd600c",
+      "bytes": 25067,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m36/epsilon-m9.svg",
+      "sha256": "4653c1f6a58ca6430c1664e59eec07832667e2a34b45b118e2e9b7799226c425",
+      "bytes": 4709,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m36/gamma-m9.png",
+      "sha256": "7e687a9b5e190775d2e24af3f7f3b121eba751017c448c0187601784a973f2b8",
+      "bytes": 23040,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m36/gamma-m9.svg",
+      "sha256": "f741c8f8b1c0a208f2a16461a655b23ec6d3143aca7453cea604d986c4d35482",
+      "bytes": 4208,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m45/alpha-m9.png",
+      "sha256": "7c64aec81e8882021981eefe648b0857980c739ba7e07072bc691d21a7011522",
+      "bytes": 26612,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m45/alpha-m9.svg",
+      "sha256": "e529fd459688446a4dd6d9bad832447cb76fec804307875fa81f2229a89081be",
+      "bytes": 11548,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m45/beta-m9.png",
+      "sha256": "52e1ecd6fd1e8bc13618b5042ca8aa24f0878477f7b5a25005236aa744a3d963",
+      "bytes": 22353,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m45/beta-m9.svg",
+      "sha256": "14e56dbeee47de06387129ac8082944560131327d775108fa817a4683a31d34c",
+      "bytes": 3939,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m45/epsilon-m9.png",
+      "sha256": "bba93ce49bef7d40c590c9d8377fb3b3433877410b35daa29af5d27ee51e9a6d",
+      "bytes": 26945,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m45/epsilon-m9.svg",
+      "sha256": "1774a941a7fb8ed7f8a7ea81fc12b6a76129a179f37fc84e64a9f949e5266eee",
+      "bytes": 4738,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m45/gamma-m9.png",
+      "sha256": "e27670dc7770a6b460d7fc53d00c70c28c61de268e91f89aff91d36f91196c4d",
+      "bytes": 24910,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m45/gamma-m9.svg",
+      "sha256": "53403cb26e39b2b08a973909df0a5ed46f5c43f6992206101627cc76b845b7d5",
+      "bytes": 4237,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m9/alpha-m9.png",
+      "sha256": "c59b4e57819c43007c47afd34b95eef5c9320823d2f6799cecdbf13c94e75666",
+      "bytes": 24610,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m9/alpha-m9.svg",
+      "sha256": "867dbc596482fed4898516a339959a7b8dcb7309c66b139e1f1649a7cfe1b78c",
+      "bytes": 11518,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m9/beta-m9.png",
+      "sha256": "35fe7c37cf784746de9a564d16ad76a74a7ff9ddddd712fc09b522ea2eb68558",
+      "bytes": 22024,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m9/beta-m9.svg",
+      "sha256": "4bf897113d42bda1d1c1b5ce80b04887ef594f3ba0e2c67e0d6e4a0cefec65e7",
+      "bytes": 3929,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m9/epsilon-m9.png",
+      "sha256": "0971fd902fb71ca5b2bdc5fde639c1a94e938300603ae19a61b7c7af69610bff",
+      "bytes": 24905,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m9/epsilon-m9.svg",
+      "sha256": "d1a0a71e33d24aa5bb2c01aedf011158ad7c64ac0247c024cc5486d8746e57b0",
+      "bytes": 4708,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m9/gamma-m9.png",
+      "sha256": "398986907e61ea97fe287a463a738ee023ba5a1ead904ad8d006663e1a49e0eb",
+      "bytes": 22883,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/pilot-v1/views/m9/gamma-m9.svg",
+      "sha256": "cffcc81bb6a91dc69b68fc79db775e49d537b2c4d7d39b68a2ad8e137a570da6",
+      "bytes": 4207,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/research.css",
+      "sha256": "d2d56c4b6aa8c823f21b7d654880e872eccc9c7d377135804d75285655a412b4",
+      "bytes": 16575,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/research.html",
+      "sha256": "f7a563c494223bd704987ff0df8b988be7b16a2863db36e3e714be805336b543",
+      "bytes": 14341,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    },
+    {
+      "path": "Informatics/research.js",
+      "sha256": "d3dab3846647a82d554fe20da2c2f95dc8380d9351d00b4083dc1717694c4d51",
+      "bytes": 20122,
+      "http_bytes_match": true,
+      "manifest_matches": true
+    }
+  ],
+  "passed": true
+}

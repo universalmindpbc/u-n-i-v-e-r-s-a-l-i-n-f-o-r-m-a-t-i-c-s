@@ -1,0 +1,322 @@
+{
+  "verified_at": "2026-10-21T05:58:43.332763+00:00",
+  "url": "https://staging.universalmind.tv/informatics/?atlas=1&record=fibonacci-m9-p24",
+  "source_commit": "6bce6ace86cdea6aa7bc5990aec440120db3b5ea",
+  "base_staging_commit": "343f53f4cf665bd41c4c6168531d46c46568661e",
+  "change": "Replace 72-section count bars with observation counts at each identical plotted centre; add line zoom and exact-position record selection.",
+  "research_purpose": "Inspect where the source observations lie and how many share a representative position. Counts are evidence records, not confirmed unique binding sites or binding strength.",
+  "studies": {
+    "observations": 128,
+    "distinct_plotted_centres": 81,
+    "maximum_observations_at_one_centre": 6,
+    "former_113_observation_bin_distinct_centres": 66,
+    "source_intervals_unchanged": true,
+    "m9_coordinates_unchanged": true
+  },
+  "verification": {
+    "browser": {
+      "candidate": false,
+      "results": [
+        {
+          "viewport": {
+            "width": 1440,
+            "height": 1000
+          },
+          "combinations": 36,
+          "blend_states_per_combination": 2,
+          "source_definitions_prominent": true,
+          "binding_outcomes_and_exports": true,
+          "side_by_side": true,
+          "controls_and_complete_graphs_fit": true,
+          "legend_matches_marks": true,
+          "blend_default_off": true,
+          "selection_deliberate": true,
+          "exact_position_counts": true,
+          "studies_distinct_centres": 81,
+          "studies_maximum_same_centre": 6,
+          "zoom_region_centres": 66,
+          "zoom_region_observations": 113,
+          "source_counts": {
+            "studies": 128,
+            "encode": 255,
+            "jaspar": 9164
+          },
+          "retry": true,
+          "exports": [
+            "json",
+            "csv",
+            "svg",
+            "png"
+          ],
+          "keyboard": true,
+          "overflow": false,
+          "media_context_preserved": true,
+          "errors": []
+        },
+        {
+          "viewport": {
+            "width": 1366,
+            "height": 768
+          },
+          "combinations": 36,
+          "blend_states_per_combination": 2,
+          "source_definitions_prominent": true,
+          "binding_outcomes_and_exports": true,
+          "side_by_side": true,
+          "controls_and_complete_graphs_fit": true,
+          "legend_matches_marks": true,
+          "blend_default_off": true,
+          "selection_deliberate": true,
+          "exact_position_counts": true,
+          "studies_distinct_centres": 81,
+          "studies_maximum_same_centre": 6,
+          "zoom_region_centres": 66,
+          "zoom_region_observations": 113,
+          "source_counts": {
+            "studies": 128,
+            "encode": 255,
+            "jaspar": 9164
+          },
+          "retry": true,
+          "exports": [
+            "json",
+            "csv",
+            "svg",
+            "png"
+          ],
+          "keyboard": true,
+          "overflow": false,
+          "media_context_preserved": true,
+          "errors": []
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "combinations": 36,
+          "blend_states_per_combination": 2,
+          "source_definitions_prominent": true,
+          "binding_outcomes_and_exports": true,
+          "side_by_side": true,
+          "controls_and_complete_graphs_fit": false,
+          "legend_matches_marks": true,
+          "blend_default_off": true,
+          "selection_deliberate": true,
+          "exact_position_counts": true,
+          "studies_distinct_centres": 81,
+          "studies_maximum_same_centre": 6,
+          "zoom_region_centres": 66,
+          "zoom_region_observations": 113,
+          "source_counts": {
+            "studies": 128,
+            "encode": 255,
+            "jaspar": 9164
+          },
+          "retry": true,
+          "exports": [
+            "json",
+            "csv",
+            "svg",
+            "png"
+          ],
+          "keyboard": true,
+          "overflow": false,
+          "media_context_preserved": true,
+          "errors": []
+        }
+      ]
+    },
+    "served_assets": [
+      {
+        "file": "Informatics/index.html",
+        "status": 200,
+        "bytes": 20783,
+        "sha256": "5f7a8dd07645016b365c84cc6153c1c7f8bfa798fad7c1647304e5141f1e838a",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/csv-shared/dataset.csv",
+        "status": 200,
+        "bytes": 557111,
+        "sha256": "7b8613f7cee0e03118762e2d5be06572ebbabb21adf5fbfc1b023cc9c49d7349",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/csv-shared/index.csv",
+        "status": 200,
+        "bytes": 423279,
+        "sha256": "161b13e589f6c286b626b83ed959b212fee0e1051e762486e88c3714f1bd3659",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/csv-shared/m1-m1001.csv",
+        "status": 200,
+        "bytes": 557111,
+        "sha256": "7b8613f7cee0e03118762e2d5be06572ebbabb21adf5fbfc1b023cc9c49d7349",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/dataset.json",
+        "status": 200,
+        "bytes": 267564,
+        "sha256": "5a00d888ac75317f305ebec7a0ff3553928de39424d5b366c82e5dc6045cfc74",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/index.json",
+        "status": 200,
+        "bytes": 215476,
+        "sha256": "a4db55764d8505f49b5249a87e423e7e97a242cdf13502030269d4207a49b447",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/m1-m1001-csv.zip",
+        "status": 200,
+        "bytes": 86919510,
+        "sha256": "99e2fa51f946f88e74312e04428edb2c9fecf5a712a282fac9c06b7f815cb7e5",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/m1-m1001-data.zip",
+        "status": 200,
+        "bytes": 59615694,
+        "sha256": "0cbc092dcd2345c7a8c7a1f1c2d6a636f3eb5881104ab2f32ba8d40889e26e0e",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/m1-m1001.json",
+        "status": 200,
+        "bytes": 267564,
+        "sha256": "5a00d888ac75317f305ebec7a0ff3553928de39424d5b366c82e5dc6045cfc74",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/catalogue-fields.csv",
+        "status": 200,
+        "bytes": 148500,
+        "sha256": "4d7fb4758a9b23cf67f2027eadd71931c5a6bb5e8e0f6da7834294dfa862b006",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/catalogue.json",
+        "status": 200,
+        "bytes": 98607,
+        "sha256": "60f66a0be6bcf3b94891aa6d71ac9c5012c6040bfa39e4cf48fb85127c1cf400",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/display-audit-fields.csv",
+        "status": 200,
+        "bytes": 4694,
+        "sha256": "2b26ecb1d696654001a822da8d8e934b680c9b72360c238e34ab38a77292fc26",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/display-audit.json",
+        "status": 200,
+        "bytes": 5690,
+        "sha256": "4a10cd69f30cf0c5187ee9497e67c9b3f5fe0816f9a757f57448cd04e3e9e902",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/manifest-fields.csv",
+        "status": 200,
+        "bytes": 5716,
+        "sha256": "81695be2daff280696847f5607395e5196a2d1a566a1732c1698e4c163b9f945",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/manifest.json",
+        "status": 200,
+        "bytes": 5324,
+        "sha256": "48671fb3fb93f99da4d9551f94d2625b00a6f68660542c335153b4d8e7c16c3b",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/methods.md",
+        "status": 200,
+        "bytes": 10748,
+        "sha256": "8c6ba6b7e9409e3aeca954144798feca7177d5916ccb0fc04fcaaf73413bd8cf",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/overlay-v1-fields.csv",
+        "status": 200,
+        "bytes": 3471,
+        "sha256": "11ac799ee9be39734a967a3c047539530194e7fe1f019be754a3e74c92edb0ef",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/overlay-v1.json",
+        "status": 200,
+        "bytes": 3192,
+        "sha256": "41916dfc46119d2c54921930f4e513272a319de936d3540d298c4e62dfac8c5f",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/file-manifest.csv",
+        "status": 200,
+        "bytes": 9830,
+        "sha256": "bdd9af717303992f6c88d5c287ae72f10d9cec2a3efd02da20434f54809a7140",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/oxtr-tfbs-csv.zip",
+        "status": 200,
+        "bytes": 13161581,
+        "sha256": "847fd445053a1104915a5d46362e2d04474d4d14adbd64f9c14a91e27576bc9e",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/oxtr-tfbs-json.zip",
+        "status": 200,
+        "bytes": 15803730,
+        "sha256": "5c0f74e8e7c7dfbf03fd57cde1aaaa686b3d00b3a6f579b40774e75ab9175f49",
+        "match": true
+      },
+      {
+        "file": "Informatics/research.html",
+        "status": 200,
+        "bytes": 14606,
+        "sha256": "857d66bad95b9658de05bacc34b7082198a7d4603da6e61e8a0bd6596f3c0e35",
+        "match": true
+      },
+      {
+        "file": "Informatics/science.js",
+        "status": 200,
+        "bytes": 59967,
+        "sha256": "29b1d571fd2b055785ef37e442c4c084de544ee3e96726a6462d576b74862b4c",
+        "match": true
+      },
+      {
+        "file": "Informatics/tfbs-geometry.js",
+        "status": 200,
+        "bytes": 49769,
+        "sha256": "da91b6a7f3c09df15b30f0bce096449b8d0c1772470d73068863c9114d016bd6",
+        "match": true
+      }
+    ],
+    "mobile_plot_clearance": {
+      "plotTop": 316.75,
+      "plotBottom": 603,
+      "controlsBottom": 306.375,
+      "dialogBottom": 719
+    },
+    "visual_review": "Reviewed zoomed position counts at 1440, 1366 and 390 pixels. Mobile graph clears the sticky controls. Every count retains its original horizontal DNA position. The peak at offset 10092 contains six source observations, all mapping to M9 residue 3.",
+    "computation": "All 9547 mappings and all 39248 possible offsets match the archived Python/Biopython/Wolfram checks. Exact-position totals, original source hashes, JSON/CSV parity and all four research archives passed.",
+    "muted_chromium_process": true,
+    "native_fullscreen_invoked": false
+  },
+  "deployment": {
+    "method": "./deploy-panthur-staging.sh informatics",
+    "uploaded_assets": 24,
+    "exit_code": 0,
+    "staging_manifest_sha256": "5296ae4415cb21d340c85181404725f68a97d4f0904f5c88ebb5c03712da4203"
+  },
+  "production": {
+    "modified": false,
+    "publication_automation": "PAUSED",
+    "approval_requirement": "Ben reviews this corrected graph and the finished Sound/Vision build before combined publication."
+  }
+}

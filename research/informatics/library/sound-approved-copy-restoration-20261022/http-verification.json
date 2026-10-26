@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-10-21T23:29:03.362537+00:00",
+  "sourceCommit": "8dc6fd211490d84775a2ab070029de4adcca490e",
+  "productionBaselineCommit": "93e74a360654d8ff3c9baa09f548d82d8284c661",
+  "results": [
+    {
+      "environment": "staging",
+      "url": "https://staging.universalmind.tv/informatics/library.html?verify=8dc6fd21",
+      "status": 200,
+      "sha256": "096eac7fc55bf731a1590c88ec4051bcb8b581f97abe8bedb980df54c5e43ef6",
+      "matchesExpectedCommit": true
+    },
+    {
+      "environment": "production",
+      "url": "https://universalmind.tv/informatics/library.html?verify=8dc6fd21",
+      "status": 200,
+      "sha256": "bca5089edad89c787331a0005eb5f72bb376deb3a64697c3aa188cd8621a891f",
+      "matchesExpectedCommit": true
+    }
+  ],
+  "passed": true
+}

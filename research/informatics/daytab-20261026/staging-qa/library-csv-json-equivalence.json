@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "records": 891,
+  "matchedFields": [
+    "id",
+    "title",
+    "design",
+    "summary",
+    "limitation",
+    "evidence",
+    "urls",
+    "collections",
+    "jadad"
+  ]
+}

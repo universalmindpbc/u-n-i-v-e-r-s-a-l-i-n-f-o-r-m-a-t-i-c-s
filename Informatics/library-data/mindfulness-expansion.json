@@ -1,0 +1,1346 @@
+{
+  "reviewedAt": "2026-10-23",
+  "records": [
+    {
+      "id": "pmid-41534731",
+      "pmid": "41534731",
+      "doi": "10.1016/j.bbi.2026.106284",
+      "title": "Neural mechanisms of mindfulness: reduced neural reactivity to social-evaluative threat accounts for mindfulness intervention effects on inflammatory gene expression",
+      "journal": "Brain, behavior, and immunity",
+      "year": 2026,
+      "authors": "Blades RB, Boyle CC, Eisenberger NI, Cole SW, Korecki JRT, Fuligni AJ, Bower JE.",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "design": "Randomized controlled trial; registered single-blind (outcome assessors)",
+      "categories": [
+        "Gene expression"
+      ],
+      "targets": [],
+      "priority": 0,
+      "finding": "After six weeks, the meditation group showed lower neural responses to social-evaluative threat and lower inferred NF-κB activity. The gene-regulation difference lost statistical significance after adjustment for the neural-response change.",
+      "limitation": "A small waitlist-controlled trial. Promoter analysis estimates transcription-factor activity; the analysis does not establish a causal neural mechanism.",
+      "evidence": {
+        "intervention": "Mindful Awareness Practices",
+        "comparator": "Waitlist",
+        "sample": "49 young adults; 26 meditation, 23 control",
+        "measurement": "Blood leukocytes; genome-wide RNA and fMRI",
+        "timing": "6 weeks",
+        "trialId": "NCT05304052",
+        "measuredGenes": [],
+        "pathways": [
+          "NF-κB"
+        ],
+        "evidenceType": "RNA expression",
+        "sourceURLs": [
+          "https://pubmed.ncbi.nlm.nih.gov/41534731/",
+          "https://doi.org/10.1016/j.bbi.2026.106284"
+        ],
+        "checkedAt": "2026-10-23",
+        "reviewScope": "Publication abstract and selected full-text methods; Jadad assessment pending"
+      },
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/41534731/",
+        "https://doi.org/10.1016/j.bbi.2026.106284"
+      ],
+      "researchGroup": "rna",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "citationCount": 1,
+      "citationSnapshot": {
+        "count": 1,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1016/j.bbi.2026.106284"
+      },
+      "studyDesignAssessment": {
+        "basis": "The linked trial register specifies masked outcome assessors; participants knew their allocation.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/41534731/",
+          "https://doi.org/10.1016/j.bbi.2026.106284",
+          "https://clinicaltrials.gov/study/NCT05304052"
+        ],
+        "assessedAt": "2026-10-23",
+        "registeredMaskingBasis": true,
+        "category": "single-blind-rct",
+        "peerReviewed": true
+      }
+    },
+    {
+      "id": "pmid-41020112",
+      "pmid": "41020112",
+      "doi": "10.3389/fpsyg.2025.1653242",
+      "title": "Psychological assessments, allostatic load and gene expression analyses in a randomized controlled trial comparing meditation, yoga, and stress education",
+      "journal": "Frontiers in psychology",
+      "year": 2025,
+      "authors": "Denninger JW, Joss D, Romero PM, Khalsa SBS, Hoge EA, Bhasin M, Lazar SW, Dusek JA, Macklin E, Libermann T, Fricchione GL, Benson H.",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "design": "Randomized controlled trial; registered double-blind (participants and outcome assessors)",
+      "categories": [
+        "Gene expression"
+      ],
+      "targets": [],
+      "priority": 0,
+      "finding": "The three-arm trial found no significant between-group effects on psychological, genomic or allostatic-load outcomes. Most psychological measures improved within each group. Circulating IL-6 increased slightly within the meditation group at follow-up, remaining in the normal range.",
+      "limitation": "Within-group improvement does not establish a treatment advantage. Participants were stressed but otherwise healthy; results may differ in clinical populations.",
+      "evidence": {
+        "intervention": "Meditation or yoga",
+        "comparator": "Stress education",
+        "sample": "211 chronically stressed adults: 73 meditation, 68 yoga, 70 control",
+        "measurement": "Blood gene-expression measures and allostatic-load biomarkers",
+        "timing": "8 weeks; measurements at weeks 0, 9 and 26",
+        "trialId": "NCT01308970",
+        "measuredGenes": [],
+        "pathways": [],
+        "evidenceType": "RNA expression",
+        "sourceURLs": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12463968/",
+          "https://pubmed.ncbi.nlm.nih.gov/41020112/",
+          "https://doi.org/10.3389/fpsyg.2025.1653242"
+        ],
+        "checkedAt": "2026-10-23",
+        "reviewScope": "Publication abstract and selected full-text methods; Jadad assessment pending"
+      },
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12463968/",
+        "https://pubmed.ncbi.nlm.nih.gov/41020112/",
+        "https://doi.org/10.3389/fpsyg.2025.1653242"
+      ],
+      "researchGroup": "rna",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "citationCount": 3,
+      "citationSnapshot": {
+        "count": 3,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.3389/fpsyg.2025.1653242"
+      },
+      "studyDesignAssessment": {
+        "basis": "The linked trial register specifies double masking of participants and outcome assessors. The article does not describe the masking procedure; this classification reflects the registered design.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12463968/",
+          "https://pubmed.ncbi.nlm.nih.gov/41020112/",
+          "https://doi.org/10.3389/fpsyg.2025.1653242",
+          "https://clinicaltrials.gov/study/NCT01308970"
+        ],
+        "assessedAt": "2026-10-23",
+        "registeredMaskingBasis": true,
+        "category": "double-blind-rct",
+        "peerReviewed": true
+      }
+    },
+    {
+      "id": "pmid-39680432",
+      "pmid": "39680432",
+      "doi": "10.2196/65506",
+      "title": "Effect of a Web-Based Heartfulness Program on the Mental Well-Being, Biomarkers, and Gene Expression Profile of Health Care Students: Randomized Controlled Trial",
+      "journal": "JMIR bioinformatics and biotechnology",
+      "year": 2024,
+      "authors": "Thimmapuram J, Patel KD, Bhatt D, Chauhan A, Madhusudhan D, Bhatt KK, Deshpande S, Budhbhatti U, Joshi C.",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "design": "Randomized controlled trial; blinding not reported",
+      "categories": [
+        "Gene expression"
+      ],
+      "targets": [],
+      "priority": 0,
+      "finding": "At 12 weeks, RNA sequencing identified 292 upregulated and 1,180 downregulated genes in the meditation group relative to controls. Reported stress and distress improved. IL-6 protein fell in both groups, with a larger reduction in controls.",
+      "limitation": "An exploratory trial with an inactive comparator and exclusion of participants missing follow-up. Enrichment analysis does not establish changes in every gene belonging to a pathway.",
+      "evidence": {
+        "intervention": "Web-based Heartfulness meditation",
+        "comparator": "Usual routine",
+        "sample": "78 health-care students randomized; completer analysis",
+        "measurement": "Whole blood; mRNA sequencing; circulating IL-6 and DHEA-S",
+        "timing": "12 weeks",
+        "trialId": "ISRCTN82860715",
+        "measuredGenes": [],
+        "pathways": [
+          "Serotonergic signalling",
+          "Circadian entrainment",
+          "IL-17 signalling"
+        ],
+        "evidenceType": "RNA expression",
+        "sourceURLs": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC11686021/",
+          "https://pubmed.ncbi.nlm.nih.gov/39680432/",
+          "https://doi.org/10.2196/65506"
+        ],
+        "checkedAt": "2026-10-23",
+        "reviewScope": "Publication abstract and selected full-text methods; Jadad assessment pending"
+      },
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11686021/",
+        "https://pubmed.ncbi.nlm.nih.gov/39680432/",
+        "https://doi.org/10.2196/65506"
+      ],
+      "researchGroup": "rna",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "citationCount": 4,
+      "citationSnapshot": {
+        "count": 4,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.2196/65506"
+      },
+      "studyDesignAssessment": {
+        "basis": "The article and ISRCTN record describe random allocation but do not report blinding. Blinding is not established by these sources.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC11686021/",
+          "https://pubmed.ncbi.nlm.nih.gov/39680432/",
+          "https://doi.org/10.2196/65506",
+          "https://www.isrctn.com/ISRCTN82860715"
+        ],
+        "assessedAt": "2026-10-23",
+        "registeredMaskingBasis": false,
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      }
+    },
+    {
+      "id": "pmid-38671329",
+      "pmid": "38671329",
+      "doi": "10.1007/s12035-024-04096-6",
+      "title": "Serotonin Transporter (SLC6A4) and FK506-Binding Protein 5 (FKBP5) Genotype and Methylation Relationships with Response to Meditation in Veterans with PTSD",
+      "journal": "Molecular neurobiology",
+      "year": 2024,
+      "authors": "Lee A, Thuras P, Baller J, Jiao C, Guo B, Erbes CR, Polusny MA, Liu C, Wu B, Lim KO, Bishop JR.",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "design": "Secondary analysis of two intervention studies",
+      "categories": [
+        "Epigenetics"
+      ],
+      "targets": [
+        "SLC6A4",
+        "FKBP5"
+      ],
+      "priority": 0,
+      "finding": "SLC6A4 genotype was associated with symptom improvement among veterans exposed to early-life trauma. Change in a group of nine FKBP5 methylation sites was associated with greater improvement (OR 2.8; 95% CI 1.1–7.1).",
+      "limitation": "Genotype and DNA methylation were measured; this is not direct RNA-expression evidence. Associations across two meditation studies do not isolate a treatment mechanism.",
+      "evidence": {
+        "intervention": "MBSR and Transcendental Meditation",
+        "comparator": "Treatment-response associations",
+        "sample": "72 veterans with PTSD",
+        "measurement": "DNA genotyping and CpG methylation in SLC6A4 and FKBP5",
+        "timing": "Before and after 9 weeks",
+        "trialId": null,
+        "measuredGenes": [
+          "SLC6A4",
+          "FKBP5"
+        ],
+        "pathways": [],
+        "evidenceType": "DNA methylation / genotype",
+        "sourceURLs": [
+          "https://pubmed.ncbi.nlm.nih.gov/38671329/",
+          "https://doi.org/10.1007/s12035-024-04096-6"
+        ],
+        "checkedAt": "2026-10-23",
+        "reviewScope": "Publication abstract; full methods and parent-trial identities await verification. Jadad assessment pending.",
+        "relationshipNote": "Secondary analysis draws on MBSR and TM trial participants; it is not an independent treatment trial."
+      },
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/38671329/",
+        "https://doi.org/10.1007/s12035-024-04096-6"
+      ],
+      "researchGroup": "epigenetics",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "citationCount": 9,
+      "citationSnapshot": {
+        "count": 9,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1007/s12035-024-04096-6"
+      },
+      "studyDesignAssessment": {
+        "basis": "The reported analysis relates genotype and methylation to response across two studies; it is not an independent blinded randomized treatment comparison.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/38671329/",
+          "https://doi.org/10.1007/s12035-024-04096-6"
+        ],
+        "assessedAt": "2026-10-23",
+        "registeredMaskingBasis": false,
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      }
+    },
+    {
+      "id": "pmid-37982547",
+      "pmid": "37982547",
+      "doi": "10.1097/psy.0000000000001264",
+      "title": "Mindfulness-Based Stress Reduction Reduces Proinflammatory Gene Regulation But Not Systemic Inflammation Among Older Adults: A Randomized Controlled Trial",
+      "journal": "Psychosomatic medicine",
+      "year": 2024,
+      "authors": "Lindsay EK, Marsland AL, Cole SW, Dutcher JM, Greco CM, Wright AGC, Brown KW, Creswell JD.",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "design": "Randomized controlled trial; single-blind (laboratory assessors)",
+      "categories": [
+        "Gene expression"
+      ],
+      "targets": [],
+      "priority": 0,
+      "finding": "MBSR reduced inferred NF-κB activity relative to the active comparison programme (d=0.17; p=0.028). It did not reduce circulating IL-6 or C-reactive protein. CREB, IRF and glucocorticoid-receptor pathway differences were not statistically significant.",
+      "limitation": "The gene-regulation signal was small and did not translate into a measured reduction in systemic inflammation. Pathway activity was inferred from RNA profiles.",
+      "evidence": {
+        "intervention": "Mindfulness-based stress reduction (MBSR)",
+        "comparator": "Health Enhancement Program",
+        "sample": "190 lonely adults aged 65–85",
+        "measurement": "Peripheral blood mononuclear cells; RNA profiling and promoter analysis",
+        "timing": "8 weeks; follow-up at 3 months",
+        "trialId": "NCT02888600",
+        "measuredGenes": [],
+        "pathways": [
+          "NF-κB",
+          "CREB",
+          "IRF",
+          "Glucocorticoid receptor signalling"
+        ],
+        "evidenceType": "RNA expression",
+        "sourceURLs": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC11098967/",
+          "https://pubmed.ncbi.nlm.nih.gov/37982547/",
+          "https://doi.org/10.1097/psy.0000000000001264"
+        ],
+        "checkedAt": "2026-10-23",
+        "reviewScope": "Publication abstract and selected full-text methods; Jadad assessment pending"
+      },
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11098967/",
+        "https://pubmed.ncbi.nlm.nih.gov/37982547/",
+        "https://doi.org/10.1097/psy.0000000000001264"
+      ],
+      "researchGroup": "rna",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "citationCount": 15,
+      "citationSnapshot": {
+        "count": 15,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1097/psy.0000000000001264"
+      },
+      "studyDesignAssessment": {
+        "basis": "Laboratory technicians were blind to treatment condition; the linked trial register identifies single masking of outcome assessors.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC11098967/",
+          "https://pubmed.ncbi.nlm.nih.gov/37982547/",
+          "https://doi.org/10.1097/psy.0000000000001264",
+          "https://clinicaltrials.gov/study/NCT02888600"
+        ],
+        "assessedAt": "2026-10-23",
+        "registeredMaskingBasis": false,
+        "category": "single-blind-rct",
+        "peerReviewed": true
+      }
+    },
+    {
+      "id": "pmid-37560036",
+      "pmid": "37560036",
+      "doi": "10.1016/j.bbih.2023.100672",
+      "title": "Transcendental Meditation practitioners show reduced expression of the Conserved Transcriptional Response to Adversity",
+      "journal": "Brain, behavior, & immunity - health",
+      "year": 2023,
+      "authors": "Walton KG, Wenuganen S, Cole SW.",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "design": "Observational comparison; secondary analysis",
+      "categories": [
+        "Gene expression"
+      ],
+      "targets": [],
+      "priority": 0,
+      "finding": "Long-term TM practitioners had lower expression of the prespecified CTRA gene set, with inferred reductions in NF-κB and AP-1 activity and higher interferon-response activity.",
+      "limitation": "A very small observational comparison and secondary analysis of existing data. It cannot establish causation or separate meditation from long-term lifestyle differences.",
+      "evidence": {
+        "intervention": "Long-term Transcendental Meditation",
+        "comparator": "Matched non-meditating controls",
+        "sample": "12 participants; approximately 38 years of practice in the meditation group",
+        "measurement": "Peripheral blood mononuclear cells; RNA profiles",
+        "timing": "Cross-sectional comparison",
+        "trialId": null,
+        "measuredGenes": [],
+        "pathways": [
+          "CTRA",
+          "NF-κB",
+          "AP-1",
+          "IRF"
+        ],
+        "evidenceType": "RNA expression",
+        "sourceURLs": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10407892/",
+          "https://pubmed.ncbi.nlm.nih.gov/37560036/",
+          "https://doi.org/10.1016/j.bbih.2023.100672"
+        ],
+        "checkedAt": "2026-10-23",
+        "reviewScope": "Publication abstract and selected full-text methods; Jadad assessment pending",
+        "relationshipNote": "Secondary analysis of previously published long-term TM transcription data; do not count as an independent cohort."
+      },
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10407892/",
+        "https://pubmed.ncbi.nlm.nih.gov/37560036/",
+        "https://doi.org/10.1016/j.bbih.2023.100672"
+      ],
+      "researchGroup": "rna",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "citationCount": 12,
+      "citationSnapshot": {
+        "count": 12,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1016/j.bbih.2023.100672"
+      },
+      "studyDesignAssessment": {
+        "basis": "A nonrandomized comparison of long-term practitioners and controls; the analysis does not meet the blinded randomized-trial categories.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10407892/",
+          "https://pubmed.ncbi.nlm.nih.gov/37560036/",
+          "https://doi.org/10.1016/j.bbih.2023.100672"
+        ],
+        "assessedAt": "2026-10-23",
+        "registeredMaskingBasis": false,
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      }
+    },
+    {
+      "id": "pmid-36350591",
+      "pmid": "36350591",
+      "doi": "10.1001/jamapsychiatry.2022.3679",
+      "title": "Mindfulness-Based Stress Reduction vs Escitalopram for the Treatment of Adults With Anxiety Disorders: A Randomized Clinical Trial",
+      "journal": "JAMA psychiatry",
+      "year": 2023,
+      "authors": "Hoge EA, Bui E, Mete M, Dutton MA, Baker AW, Simon NM.",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "design": "Randomized controlled trial; single-blind (clinical assessors)",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "finding": "MBSR met the prespecified noninferiority criterion against escitalopram for anxiety severity at eight weeks. Mean CGI-S improvement was 1.35 points with MBSR and 1.43 with escitalopram.",
+      "limitation": "This result applies to a structured, teacher-led MBSR course and the trial’s noninferiority margin. It is not a test of an app or gene expression.",
+      "evidence": {
+        "intervention": "MBSR",
+        "comparator": "Escitalopram",
+        "sample": "276 adults randomized; 208 in the primary per-protocol analysis",
+        "measurement": "Clinician-rated anxiety severity",
+        "timing": "8-week primary endpoint; follow-up to 24 weeks",
+        "trialId": "NCT03522844",
+        "measuredGenes": [],
+        "pathways": [],
+        "evidenceType": "Clinical outcomes",
+        "sourceURLs": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9647561/",
+          "https://pubmed.ncbi.nlm.nih.gov/36350591/",
+          "https://doi.org/10.1001/jamapsychiatry.2022.3679"
+        ],
+        "checkedAt": "2026-10-23",
+        "reviewScope": "Publication abstract and selected full-text methods; Jadad assessment pending"
+      },
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9647561/",
+        "https://pubmed.ncbi.nlm.nih.gov/36350591/",
+        "https://doi.org/10.1001/jamapsychiatry.2022.3679"
+      ],
+      "researchGroup": "clinical",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "citationCount": 184,
+      "citationSnapshot": {
+        "count": 184,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1001/jamapsychiatry.2022.3679"
+      },
+      "studyDesignAssessment": {
+        "basis": "The article identifies a single-blind trial: independent clinical evaluators were masked, while participants and providers knew the treatment.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9647561/",
+          "https://pubmed.ncbi.nlm.nih.gov/36350591/",
+          "https://doi.org/10.1001/jamapsychiatry.2022.3679",
+          "https://clinicaltrials.gov/study/NCT03522844"
+        ],
+        "assessedAt": "2026-10-23",
+        "registeredMaskingBasis": false,
+        "category": "single-blind-rct",
+        "peerReviewed": true
+      }
+    },
+    {
+      "id": "pmid-36267832",
+      "pmid": "36267832",
+      "doi": "10.1016/j.bbih.2022.100531",
+      "title": "Online, low-volume meditation does not alter immune-related biomarkers",
+      "journal": "Brain, behavior, & immunity - health",
+      "year": 2022,
+      "authors": "Graham B, Jin Y, Bazeley P, Husni E, Calabrese LH.",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "design": "Randomized pilot trial; single-blind",
+      "categories": [
+        "Gene expression"
+      ],
+      "targets": [],
+      "priority": 0,
+      "finding": "The trial found no significant between-group differences in the prespecified immune-related gene set, wider RNA expression or other tested biomarkers. Stress improved earlier in the music group and later in the mindfulness group.",
+      "limitation": "A small trial of brief online practice in otherwise healthy nurses. The result concerns this dose and delivery; it does not establish the absence of effects from other programmes.",
+      "evidence": {
+        "intervention": "Online mindfulness-based stress management",
+        "comparator": "Relaxing music",
+        "sample": "61 nurses randomized; 52 included in analysis",
+        "measurement": "Whole-blood mRNA sequencing; cytokines; PBMC telomerase; salivary cortisol",
+        "timing": "6 weeks; questionnaires through 12 weeks",
+        "trialId": null,
+        "measuredGenes": [],
+        "pathways": [
+          "CTRA"
+        ],
+        "evidenceType": "RNA expression",
+        "sourceURLs": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9576541/",
+          "https://pubmed.ncbi.nlm.nih.gov/36267832/",
+          "https://doi.org/10.1016/j.bbih.2022.100531"
+        ],
+        "checkedAt": "2026-10-23",
+        "reviewScope": "Publication abstract and selected full-text methods; Jadad assessment pending"
+      },
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9576541/",
+        "https://pubmed.ncbi.nlm.nih.gov/36267832/",
+        "https://doi.org/10.1016/j.bbih.2022.100531"
+      ],
+      "researchGroup": "rna",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "citationCount": 10,
+      "citationSnapshot": {
+        "count": 10,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1016/j.bbih.2022.100531"
+      },
+      "studyDesignAssessment": {
+        "basis": "The Methods section explicitly describes a single-blind randomized parallel pilot trial.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9576541/",
+          "https://pubmed.ncbi.nlm.nih.gov/36267832/",
+          "https://doi.org/10.1016/j.bbih.2022.100531"
+        ],
+        "assessedAt": "2026-10-23",
+        "registeredMaskingBasis": false,
+        "category": "single-blind-rct",
+        "peerReviewed": true
+      }
+    },
+    {
+      "id": "pmid-35820992",
+      "pmid": "35820992",
+      "doi": "10.1136/ebmental-2021-300396",
+      "title": "Effectiveness and cost-effectiveness of universal school-based mindfulness training compared with normal school provision in reducing risk of mental health problems and promoting well-being in adolescence: the MYRIAD cluster randomised controlled trial",
+      "journal": "Evidence-based mental health",
+      "year": 2022,
+      "authors": "Kuyken W, Ball S, Crane C, Ganguli P, Jones B, Montero-Marin J, Nuthall E, Raja A, Taylor L, Tudor K, Viner RM, Allwood M, Aukland L, Dunning D, Casey T, Dalrymple N, De Wilde K, Farley ER, Harper J, Kappelmann N, Kempnich M, Lord L, Medlicott E, Palmer L, Petit A, Philips A, Pryor-Nitsch I, Radley L, Sonley A, Shackleford J, Tickell A, Blakemore SJ, Team TM, Ukoumunne OC, Greenberg MT, Ford T, Dalgleish T, Byford S, Williams JMG.",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "design": "Cluster randomized controlled trial; unblinded",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "finding": "MYRIAD found no evidence that universal school mindfulness training improved the three primary mental-health outcomes over usual provision at one year.",
+      "limitation": "An important null finding in adolescents. Results apply to universal school delivery, rather than adult clinical MBSR or MBCT. Molecular outcomes were not measured.",
+      "evidence": {
+        "intervention": "Universal school-based mindfulness training",
+        "comparator": "Usual social-emotional teaching",
+        "sample": "8,376 students in 84 schools in the analysis",
+        "measurement": "Depression risk, social-emotional functioning and wellbeing",
+        "timing": "10 lessons; primary endpoint at 1 year",
+        "trialId": "ISRCTN86619085",
+        "measuredGenes": [],
+        "pathways": [],
+        "evidenceType": "Clinical outcomes",
+        "sourceURLs": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9340028/",
+          "https://pubmed.ncbi.nlm.nih.gov/35820992/",
+          "https://doi.org/10.1136/ebmental-2021-300396"
+        ],
+        "checkedAt": "2026-10-23",
+        "reviewScope": "Publication abstract and selected full-text methods; Jadad assessment pending"
+      },
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9340028/",
+        "https://pubmed.ncbi.nlm.nih.gov/35820992/",
+        "https://doi.org/10.1136/ebmental-2021-300396"
+      ],
+      "researchGroup": "clinical",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "citationCount": 241,
+      "citationSnapshot": {
+        "count": 241,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1136/ebmental-2021-300396"
+      },
+      "studyDesignAssessment": {
+        "basis": "Students and teachers were not blind to allocation. The main outcomes used self-report; the paper does not establish blinded outcome assessment.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9340028/",
+          "https://pubmed.ncbi.nlm.nih.gov/35820992/",
+          "https://doi.org/10.1136/ebmental-2021-300396"
+        ],
+        "assessedAt": "2026-10-23",
+        "registeredMaskingBasis": false,
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      }
+    },
+    {
+      "id": "pmid-35427760",
+      "pmid": "35427760",
+      "doi": "10.1016/j.bbi.2022.04.003",
+      "title": "Smartphone mindfulness meditation training reduces Pro-inflammatory gene expression in stressed adults: A randomized controlled trial",
+      "journal": "Brain, behavior, and immunity",
+      "year": 2022,
+      "authors": "Dutcher JM, Cole SW, Williams AC, Creswell JD.",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "design": "Randomized controlled trial; registered single-blind (outcome assessors)",
+      "categories": [
+        "Gene expression"
+      ],
+      "targets": [],
+      "priority": 0,
+      "finding": "Mindfulness training reduced inferred NF-κB activity relative to the active comparison programme. Stress decreased in both groups, without a significant difference between them.",
+      "limitation": "The molecular result concerns an inferred transcription-control pathway. It does not establish a measured change in every NF-κB-related gene or a clinical treatment effect.",
+      "evidence": {
+        "intervention": "Smartphone mindfulness meditation",
+        "comparator": "Problem-solving programme",
+        "sample": "Stressed customer-service workers",
+        "measurement": "Immune-cell gene expression; promoter-based pathway analysis",
+        "timing": "30 days",
+        "trialId": "NCT03803865",
+        "measuredGenes": [],
+        "pathways": [
+          "NF-κB"
+        ],
+        "evidenceType": "RNA expression",
+        "sourceURLs": [
+          "https://pubmed.ncbi.nlm.nih.gov/35427760/",
+          "https://doi.org/10.1016/j.bbi.2022.04.003"
+        ],
+        "checkedAt": "2026-10-23",
+        "reviewScope": "Publication abstract and selected full-text methods; Jadad assessment pending"
+      },
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/35427760/",
+        "https://doi.org/10.1016/j.bbi.2022.04.003"
+      ],
+      "researchGroup": "rna",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "citationCount": 27,
+      "citationSnapshot": {
+        "count": 27,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1016/j.bbi.2022.04.003"
+      },
+      "studyDesignAssessment": {
+        "basis": "The linked trial register specifies masked outcome assessors. The experimenter setting up the apps knew the assigned condition.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/35427760/",
+          "https://doi.org/10.1016/j.bbi.2022.04.003",
+          "https://clinicaltrials.gov/study/NCT03803865",
+          "https://www.healthandhumanperformancelab.com/_files/ugd/b30fc8_81ef3b38218542ec880d0700d6e1dec1.pdf"
+        ],
+        "assessedAt": "2026-10-23",
+        "registeredMaskingBasis": true,
+        "category": "single-blind-rct",
+        "peerReviewed": true
+      }
+    },
+    {
+      "id": "pmid-36278141",
+      "pmid": "36278141",
+      "doi": "10.1007/s12671-022-01857-z",
+      "title": "Effect of Mindfulness Versus Loving-kindness Training on Leukocyte Gene Expression in Midlife Adults Raised in Low-Socioeconomic Status Households",
+      "journal": "Mindfulness",
+      "year": 2022,
+      "authors": "West TN, Zhou J, Brantley MM, Kim SL, Brantley J, Salzberg S, Cole SW, Fredrickson BL.",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "design": "Randomized controlled trial; registered triple-masked",
+      "categories": [
+        "Gene expression"
+      ],
+      "targets": [],
+      "priority": 0,
+      "finding": "CTRA expression declined in the mindfulness group and increased in the loving-kindness group, opposite to the investigators’ prediction. Positive emotions increased in both groups.",
+      "limitation": "The comparison distinguishes two meditation programmes and lacks a no-treatment arm. Changes in positive emotion did not explain the divergent molecular result.",
+      "evidence": {
+        "intervention": "Mindfulness meditation",
+        "comparator": "Loving-kindness meditation",
+        "sample": "88 midlife adults raised in low-income households",
+        "measurement": "Leukocyte RNA; CTRA expression profile",
+        "timing": "6 weeks",
+        "trialId": "NCT02400593",
+        "measuredGenes": [],
+        "pathways": [
+          "CTRA"
+        ],
+        "evidenceType": "RNA expression",
+        "sourceURLs": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9585929/",
+          "https://pubmed.ncbi.nlm.nih.gov/36278141/",
+          "https://doi.org/10.1007/s12671-022-01857-z"
+        ],
+        "checkedAt": "2026-10-23",
+        "reviewScope": "Publication abstract and selected full-text methods; Jadad assessment pending"
+      },
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9585929/",
+        "https://pubmed.ncbi.nlm.nih.gov/36278141/",
+        "https://doi.org/10.1007/s12671-022-01857-z"
+      ],
+      "researchGroup": "rna",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "citationCount": 13,
+      "citationSnapshot": {
+        "count": 13,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1007/s12671-022-01857-z"
+      },
+      "studyDesignAssessment": {
+        "basis": "The trial register lists participants, investigators and outcome assessors as masked. The paper confirms that lab-visit personnel were blind to condition. The classification reflects the registered masking design.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9585929/",
+          "https://pubmed.ncbi.nlm.nih.gov/36278141/",
+          "https://doi.org/10.1007/s12671-022-01857-z",
+          "https://clinicaltrials.gov/study/NCT02400593"
+        ],
+        "assessedAt": "2026-10-23",
+        "registeredMaskingBasis": true,
+        "category": "double-blind-rct",
+        "peerReviewed": true
+      }
+    },
+    {
+      "id": "pmid-27002445",
+      "pmid": "27002445",
+      "doi": "10.1001/jama.2016.2323",
+      "title": "Effect of Mindfulness-Based Stress Reduction vs Cognitive Behavioral Therapy or Usual Care on Back Pain and Functional Limitations in Adults With Chronic Low Back Pain: A Randomized Clinical Trial",
+      "journal": "JAMA",
+      "year": 2016,
+      "authors": "Cherkin DC, Sherman KJ, Balderson BH, Cook AJ, Anderson ML, Hawkes RJ, Hansen KE, Turner JA.",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "design": "Randomized controlled trial; single-blind (interviewers)",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "finding": "At 26 weeks, meaningful functional improvement occurred in 60.5% receiving MBSR, 57.7% receiving CBT and 44.1% receiving usual care. Both active treatments improved pain outcomes; no significant difference separated MBSR and CBT.",
+      "limitation": "These are clinical pain and function outcomes, not molecular measurements. The trial does not establish superiority over CBT.",
+      "evidence": {
+        "intervention": "MBSR",
+        "comparator": "Cognitive behavioural therapy or usual care",
+        "sample": "342 adults with chronic low-back pain",
+        "measurement": "Pain bothersomeness and functional limitations",
+        "timing": "8 weeks; primary endpoint at 26 weeks; follow-up to 52 weeks",
+        "trialId": "NCT01467843",
+        "measuredGenes": [],
+        "pathways": [],
+        "evidenceType": "Clinical outcomes",
+        "sourceURLs": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC4914381/",
+          "https://pubmed.ncbi.nlm.nih.gov/27002445/",
+          "https://doi.org/10.1001/jama.2016.2323"
+        ],
+        "checkedAt": "2026-10-23",
+        "reviewScope": "Publication abstract and selected full-text methods; Jadad assessment pending"
+      },
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4914381/",
+        "https://pubmed.ncbi.nlm.nih.gov/27002445/",
+        "https://doi.org/10.1001/jama.2016.2323"
+      ],
+      "researchGroup": "clinical",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "citationCount": 661,
+      "citationSnapshot": {
+        "count": 661,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1001/jama.2016.2323"
+      },
+      "studyDesignAssessment": {
+        "basis": "The article explicitly describes an interviewer-blind trial with follow-up interviewers masked to treatment group.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC4914381/",
+          "https://pubmed.ncbi.nlm.nih.gov/27002445/",
+          "https://doi.org/10.1001/jama.2016.2323",
+          "https://clinicaltrials.gov/study/NCT01467843"
+        ],
+        "assessedAt": "2026-10-23",
+        "registeredMaskingBasis": false,
+        "category": "single-blind-rct",
+        "peerReviewed": true
+      }
+    },
+    {
+      "id": "pmid-26241597",
+      "pmid": "26241597",
+      "doi": "10.1001/jama.2015.8361",
+      "title": "Mindfulness-Based Stress Reduction for Posttraumatic Stress Disorder Among Veterans: A Randomized Clinical Trial",
+      "journal": "JAMA",
+      "year": 2015,
+      "authors": "Polusny MA, Erbes CR, Thuras P, Moran A, Lamberty GJ, Collins RC, Rodman JL, Lim KO.",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "design": "Randomized controlled trial; single-blind (clinical assessors)",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "finding": "MBSR produced greater improvement in self-reported PTSD symptoms than present-centred therapy. More participants achieved clinically significant symptom improvement, but loss of PTSD diagnosis did not differ significantly.",
+      "limitation": "The mean advantage was modest, and treatment-session duration differed between groups. This study did not measure gene expression.",
+      "evidence": {
+        "intervention": "MBSR",
+        "comparator": "Present-centred group therapy",
+        "sample": "116 veterans with PTSD",
+        "measurement": "Self-reported PTSD symptoms; clinician assessments",
+        "timing": "9 sessions; follow-up at 2 months",
+        "trialId": "NCT01548742",
+        "measuredGenes": [],
+        "pathways": [],
+        "evidenceType": "Clinical outcomes",
+        "sourceURLs": [
+          "https://pubmed.ncbi.nlm.nih.gov/26241597/",
+          "https://doi.org/10.1001/jama.2015.8361"
+        ],
+        "checkedAt": "2026-10-23",
+        "reviewScope": "Publication abstract and selected full-text methods; Jadad assessment pending"
+      },
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/26241597/",
+        "https://doi.org/10.1001/jama.2015.8361"
+      ],
+      "researchGroup": "clinical",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "citationCount": 280,
+      "citationSnapshot": {
+        "count": 280,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1001/jama.2015.8361"
+      },
+      "studyDesignAssessment": {
+        "basis": "The publication and authors’ follow-up confirm blinded clinical interviews. Participants knew their treatment. The register labels investigators and assessors as double masked; this classification follows the confirmed assessor blinding in the published study.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/26241597/",
+          "https://doi.org/10.1001/jama.2015.8361",
+          "https://clinicaltrials.gov/study/NCT01548742",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10688415/"
+        ],
+        "assessedAt": "2026-10-23",
+        "registeredMaskingBasis": false,
+        "category": "single-blind-rct",
+        "peerReviewed": true
+      }
+    },
+    {
+      "id": "pmid-25907157",
+      "pmid": "25907157",
+      "doi": "10.1016/s0140-6736(14)62222-4",
+      "title": "Effectiveness and cost-effectiveness of mindfulness-based cognitive therapy compared with maintenance antidepressant treatment in the prevention of depressive relapse or recurrence (PREVENT): a randomised controlled trial",
+      "journal": "Lancet (London, England)",
+      "year": 2015,
+      "authors": "Kuyken W, Hayes R, Barrett B, Byng R, Dalgleish T, Kessler D, Lewis G, Watkins E, Brejcha C, Cardy J, Causley A, Cowderoy S, Evans A, Gradinger F, Kaur S, Lanham P, Morant N, Richards J, Shah P, Sutton H, Vicary R, Weaver A, Wilks J, Williams M, Taylor RS, Byford S.",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "design": "Randomized controlled trial; single-blind (research assessors)",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "finding": "PREVENT found no evidence that MBCT with taper support was superior to maintenance antidepressants for preventing relapse over two years (HR 0.89; 95% CI 0.67–1.18).",
+      "limitation": "This was a superiority trial. Absence of a significant difference does not establish equivalence or noninferiority. Medication changes were supported within the trial.",
+      "evidence": {
+        "intervention": "Mindfulness-based cognitive therapy with medication-taper support",
+        "comparator": "Maintenance antidepressants",
+        "sample": "424 adults with recurrent depression",
+        "measurement": "Time to depressive relapse or recurrence",
+        "timing": "24 months",
+        "trialId": "ISRCTN26666654",
+        "measuredGenes": [],
+        "pathways": [],
+        "evidenceType": "Clinical outcomes",
+        "sourceURLs": [
+          "https://pubmed.ncbi.nlm.nih.gov/25907157/",
+          "https://doi.org/10.1016/s0140-6736(14)62222-4"
+        ],
+        "checkedAt": "2026-10-23",
+        "reviewScope": "Publication abstract and selected full-text methods; Jadad assessment pending"
+      },
+      "urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/25907157/",
+        "https://doi.org/10.1016/s0140-6736(14)62222-4"
+      ],
+      "researchGroup": "clinical",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "citationCount": 445,
+      "citationSnapshot": {
+        "count": 445,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1016/s0140-6736(14)62222-4"
+      },
+      "studyDesignAssessment": {
+        "basis": "The abstract explicitly identifies a single-blind trial: participants knew allocation and research assessors were masked.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/25907157/",
+          "https://doi.org/10.1016/s0140-6736(14)62222-4"
+        ],
+        "assessedAt": "2026-10-23",
+        "registeredMaskingBasis": false,
+        "category": "single-blind-rct",
+        "peerReviewed": true
+      }
+    },
+    {
+      "id": "pmid-25537522",
+      "pmid": "25537522",
+      "doi": "10.1002/cncr.29194",
+      "title": "Mindfulness meditation for younger breast cancer survivors: a randomized controlled trial",
+      "journal": "Cancer",
+      "year": 2015,
+      "authors": "Bower JE, Crosswell AD, Stanton AL, Crespi CM, Winston D, Arevalo J, Ma J, Cole SW, Ganz PA.",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "design": "Randomized controlled trial; blinding not reported",
+      "categories": [
+        "Gene expression"
+      ],
+      "targets": [],
+      "priority": 0,
+      "finding": "Meditation reduced perceived stress and proinflammatory gene expression after treatment. Depression improvement was not statistically significant. Most psychological and behavioural benefits were not maintained at three months.",
+      "limitation": "A preliminary waitlist-controlled trial in a specific survivor population. Molecular changes do not establish a reduction in cancer recurrence or progression.",
+      "evidence": {
+        "intervention": "Mindful Awareness Practices",
+        "comparator": "Waitlist",
+        "sample": "71 younger breast-cancer survivors: 39 meditation, 32 control",
+        "measurement": "Blood; inflammatory gene expression and circulating markers",
+        "timing": "6 weeks; questionnaires at 3 months",
+        "trialId": null,
+        "measuredGenes": [],
+        "pathways": [
+          "Inflammatory signalling"
+        ],
+        "evidenceType": "RNA expression",
+        "sourceURLs": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC4393338/",
+          "https://pubmed.ncbi.nlm.nih.gov/25537522/",
+          "https://doi.org/10.1002/cncr.29194"
+        ],
+        "checkedAt": "2026-10-23",
+        "reviewScope": "Publication abstract and selected full-text methods; Jadad assessment pending"
+      },
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4393338/",
+        "https://pubmed.ncbi.nlm.nih.gov/25537522/",
+        "https://doi.org/10.1002/cncr.29194"
+      ],
+      "researchGroup": "rna",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "citationCount": 351,
+      "citationSnapshot": {
+        "count": 351,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1002/cncr.29194"
+      },
+      "studyDesignAssessment": {
+        "basis": "The published methods describe randomization to mindfulness or waitlist but do not report masked outcome assessment.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC4393338/",
+          "https://pubmed.ncbi.nlm.nih.gov/25537522/",
+          "https://doi.org/10.1002/cncr.29194"
+        ],
+        "assessedAt": "2026-10-23",
+        "registeredMaskingBasis": false,
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      }
+    },
+    {
+      "id": "pmid-24485481",
+      "pmid": "24485481",
+      "doi": "10.1016/j.psyneuen.2013.11.004",
+      "title": "Rapid changes in histone deacetylases and inflammatory gene expression in expert meditators",
+      "journal": "Psychoneuroendocrinology",
+      "year": 2014,
+      "authors": "Kaliman P, Alvarez-López MJ, Cosín-Tomás M, Rosenkranz MA, Lutz A, Davidson RJ.",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "design": "Nonrandomized controlled study",
+      "categories": [
+        "Gene expression"
+      ],
+      "targets": [
+        "HDAC2",
+        "HDAC3",
+        "HDAC9",
+        "RIPK2",
+        "PTGS2"
+      ],
+      "priority": 0,
+      "finding": "After practice, meditators showed lower expression of HDAC2, HDAC3, HDAC9, RIPK2 and PTGS2 (COX-2), alongside changes in histone modification. RIPK2 and HDAC2 expression were associated with faster cortisol recovery.",
+      "limitation": "Groups differed in prior meditation experience and were not randomized. Peripheral blood findings do not establish equivalent changes in brain tissue.",
+      "evidence": {
+        "intervention": "One day of intensive mindfulness in experienced practitioners",
+        "comparator": "Leisure activities in people without meditation experience",
+        "sample": "19 meditators and 21 controls",
+        "measurement": "Peripheral blood mononuclear cells; qPCR and histone measures",
+        "timing": "8 hours",
+        "trialId": null,
+        "measuredGenes": [
+          "HDAC2",
+          "HDAC3",
+          "HDAC9",
+          "RIPK2",
+          "PTGS2"
+        ],
+        "pathways": [],
+        "evidenceType": "RNA expression",
+        "sourceURLs": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC4039194/",
+          "https://pubmed.ncbi.nlm.nih.gov/24485481/",
+          "https://doi.org/10.1016/j.psyneuen.2013.11.004"
+        ],
+        "checkedAt": "2026-10-23",
+        "reviewScope": "Publication abstract and selected full-text methods; Jadad assessment pending"
+      },
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4039194/",
+        "https://pubmed.ncbi.nlm.nih.gov/24485481/",
+        "https://doi.org/10.1016/j.psyneuen.2013.11.004"
+      ],
+      "researchGroup": "rna",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "citationCount": 212,
+      "citationSnapshot": {
+        "count": 212,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1016/j.psyneuen.2013.11.004"
+      },
+      "studyDesignAssessment": {
+        "basis": "Expert meditators and controls were compared without random allocation.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC4039194/",
+          "https://pubmed.ncbi.nlm.nih.gov/24485481/",
+          "https://doi.org/10.1016/j.psyneuen.2013.11.004"
+        ],
+        "assessedAt": "2026-10-23",
+        "registeredMaskingBasis": false,
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      }
+    },
+    {
+      "id": "pmid-22820409",
+      "pmid": "22820409",
+      "doi": "10.1016/j.bbi.2012.07.006",
+      "title": "Mindfulness-Based Stress Reduction training reduces loneliness and pro-inflammatory gene expression in older adults: a small randomized controlled trial",
+      "journal": "Brain, behavior, and immunity",
+      "year": 2012,
+      "authors": "Creswell JD, Irwin MR, Burklund LJ, Lieberman MD, Arevalo JM, Ma J, Breen EC, Cole SW.",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "design": "Randomized pilot trial; single-blind (study assessors)",
+      "categories": [
+        "Gene expression"
+      ],
+      "targets": [],
+      "priority": 0,
+      "finding": "MBSR reduced loneliness and the NF-κB-associated inflammatory gene-expression profile relative to waitlist. The C-reactive protein difference did not reach statistical significance (p=0.075).",
+      "limitation": "A small pilot without an active comparator. The molecular finding is a pathway-level expression profile.",
+      "evidence": {
+        "intervention": "MBSR",
+        "comparator": "Waitlist",
+        "sample": "40 older adults",
+        "measurement": "Circulating leukocyte RNA; inflammatory biomarkers",
+        "timing": "8 weeks",
+        "trialId": null,
+        "measuredGenes": [],
+        "pathways": [
+          "NF-κB"
+        ],
+        "evidenceType": "RNA expression",
+        "sourceURLs": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC3635809/",
+          "https://pubmed.ncbi.nlm.nih.gov/22820409/",
+          "https://doi.org/10.1016/j.bbi.2012.07.006"
+        ],
+        "checkedAt": "2026-10-23",
+        "reviewScope": "Publication abstract and selected full-text methods; Jadad assessment pending"
+      },
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3635809/",
+        "https://pubmed.ncbi.nlm.nih.gov/22820409/",
+        "https://doi.org/10.1016/j.bbi.2012.07.006"
+      ],
+      "researchGroup": "rna",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "citationCount": 499,
+      "citationSnapshot": {
+        "count": 499,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1016/j.bbi.2012.07.006"
+      },
+      "studyDesignAssessment": {
+        "basis": "The paper reports that blinded study staff collected post-treatment measures and blood samples.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC3635809/",
+          "https://pubmed.ncbi.nlm.nih.gov/22820409/",
+          "https://doi.org/10.1016/j.bbi.2012.07.006"
+        ],
+        "assessedAt": "2026-10-23",
+        "registeredMaskingBasis": false,
+        "category": "single-blind-rct",
+        "peerReviewed": true
+      }
+    },
+    {
+      "id": "pmid-40379363",
+      "pmid": "40379363",
+      "doi": "10.1016/s2215-0366(25)00105-1",
+      "title": "Mindfulness-based cognitive therapy versus treatment as usual after non-remission with NHS Talking Therapies high-intensity psychological therapy for depression: a UK-based clinical effectiveness and cost-effectiveness randomised, controlled, superiority trial",
+      "journal": "The lancet. Psychiatry",
+      "year": 2025,
+      "authors": "Barnhofer T, Dunn BD, Strauss C, Ruths FA, Barrett B, Ryan M, Ladwa A, Stafford F, Fichera R, Baber H, McGuinness A, Metcalfe I, Kan DKY, Pooley J, Harding D, Tassie E, Carson J, Rhodes S, Young AH, Connors J, Warren FC.",
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "design": "Randomized controlled trial; masked statistical analysis",
+      "categories": [
+        "Clinical & self-report"
+      ],
+      "targets": [],
+      "priority": 1,
+      "finding": "In RESPOND, MBCT plus usual care reduced depression symptoms more than usual care at 34 weeks: an adjusted PHQ-9 difference of −2.49 points (95% CI −3.89 to −1.09).",
+      "limitation": "The control received usual care rather than a matched group intervention. The study assesses symptoms and costs; it does not test gene expression.",
+      "evidence": {
+        "intervention": "MBCT plus usual care",
+        "comparator": "Usual care",
+        "sample": "234 adults with depression persisting after psychological therapy",
+        "measurement": "PHQ-9 depression symptoms",
+        "timing": "8-week course; primary endpoint at 34 weeks",
+        "trialId": "ISRCTN17755571",
+        "measuredGenes": [],
+        "pathways": [],
+        "evidenceType": "Clinical outcomes",
+        "sourceURLs": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12078190/",
+          "https://pubmed.ncbi.nlm.nih.gov/40379363/",
+          "https://doi.org/10.1016/s2215-0366(25)00105-1"
+        ],
+        "checkedAt": "2026-10-23",
+        "reviewScope": "Publication abstract and selected full-text methods; Jadad assessment pending"
+      },
+      "urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12078190/",
+        "https://pubmed.ncbi.nlm.nih.gov/40379363/",
+        "https://doi.org/10.1016/s2215-0366(25)00105-1"
+      ],
+      "researchGroup": "clinical",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "citationCount": 16,
+      "citationSnapshot": {
+        "count": 16,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1016/s2215-0366(25)00105-1"
+      },
+      "studyDesignAssessment": {
+        "basis": "Participants and therapists were unmasked, and follow-up outcomes were self-reported electronically. Masked statistical analysis alone is not treated as single-blind outcome assessment.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12078190/",
+          "https://pubmed.ncbi.nlm.nih.gov/40379363/",
+          "https://doi.org/10.1016/s2215-0366(25)00105-1"
+        ],
+        "assessedAt": "2026-10-23",
+        "registeredMaskingBasis": false,
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      }
+    },
+    {
+      "id": "doi-10.1007-s12671-026-02877-9",
+      "doi": "10.1007/s12671-026-02877-9",
+      "title": "Dynamic Methylation Changes in Alzheimer’s Disease-Related Genes During Mindfulness Practice – a Proof-of-Concept Study",
+      "journal": "Mindfulness",
+      "year": 2026,
+      "collections": [
+        "language"
+      ],
+      "origin": "update",
+      "design": "Nonrandomized controlled pre/post study",
+      "categories": [
+        "Epigenetics"
+      ],
+      "targets": [
+        "ABCA7",
+        "ADAM10",
+        "APOE",
+        "HOXA3",
+        "NXN",
+        "TREM2",
+        "TREML2"
+      ],
+      "priority": 0,
+      "finding": "In 17 long-term meditators and 17 matched controls, researchers examined methylation at 19 CpG sites across seven genes. A month-long retreat was associated with changes at selected sites, including ABCA7 and HOXA3; some ADAM10 differences separated meditators from controls.",
+      "limitation": "A small, nonrandomized blood-methylation study. It did not measure brain RNA or establish prevention or treatment of Alzheimer’s disease. Baseline average ADAM10 methylation did not remain significant after multiple-testing correction.",
+      "evidence": {
+        "intervention": "One-month Vipassana retreat in long-term practitioners",
+        "comparator": "Matched non-meditating controls",
+        "sample": "17 meditators and 17 controls",
+        "measurement": "Peripheral blood leukocyte DNA; targeted CpG methylation",
+        "timing": "Before and after one month",
+        "evidenceType": "DNA methylation",
+        "measuredGenes": [
+          "ABCA7",
+          "ADAM10",
+          "APOE",
+          "HOXA3",
+          "NXN",
+          "TREM2",
+          "TREML2"
+        ],
+        "pathways": [],
+        "sourceURLs": [
+          "https://link.springer.com/article/10.1007/s12671-026-02877-9"
+        ],
+        "checkedAt": "2026-10-23",
+        "reviewScope": "Full-text methods and results; Jadad applicability pending"
+      },
+      "urls": [
+        "https://link.springer.com/article/10.1007/s12671-026-02877-9"
+      ],
+      "researchGroup": "epigenetics",
+      "jadad": {
+        "status": "unassessed",
+        "score": null
+      },
+      "citationCount": 0,
+      "citationSnapshot": {
+        "count": 0,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1007/s12671-026-02877-9"
+      },
+      "studyDesignAssessment": {
+        "basis": "Experienced meditators and matched controls were compared without random allocation.",
+        "sources": [
+          "https://link.springer.com/article/10.1007/s12671-026-02877-9"
+        ],
+        "assessedAt": "2026-10-23",
+        "registeredMaskingBasis": false,
+        "category": "peer-reviewed",
+        "peerReviewed": true
+      }
+    }
+  ]
+}

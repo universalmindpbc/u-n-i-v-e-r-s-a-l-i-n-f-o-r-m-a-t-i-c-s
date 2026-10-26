@@ -1,0 +1,38 @@
+{
+  "checkedAt": "2026-10-26T03:59:19.641Z",
+  "checks": [
+    {
+      "endpoint": "https://informatics-universal-one.universalmind.workers.dev",
+      "origin": "https://universalmind.tv",
+      "expected": 200,
+      "actual": 200
+    },
+    {
+      "endpoint": "https://informatics-universal-one-staging.universalmind.workers.dev",
+      "origin": "https://staging.universalmind.tv",
+      "expected": 200,
+      "actual": 200
+    },
+    {
+      "endpoint": "https://informatics-universal-one.universalmind.workers.dev",
+      "origin": "https://universalmind.tv",
+      "expected": 401,
+      "actual": 401
+    },
+    {
+      "endpoint": "https://informatics-universal-one-staging.universalmind.workers.dev",
+      "origin": "https://staging.universalmind.tv",
+      "expected": 401,
+      "actual": 401
+    },
+    {
+      "path": "/vogue/iam/api/.runtime-private/informatics-astra.json",
+      "status": 403
+    },
+    {
+      "path": "/informatics/api/astra-session.php",
+      "status": 403
+    }
+  ],
+  "passed": true
+}

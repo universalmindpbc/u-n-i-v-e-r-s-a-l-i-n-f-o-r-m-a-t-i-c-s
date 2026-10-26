@@ -1,0 +1,4633 @@
+{
+  "checkedAt": "2026-10-23T11:51:22.560738+00:00",
+  "method": "Unresolved Europe PMC records with a DOI checked against the Crossref work record. A deposited Creative Commons licence is access evidence requiring publisher/version confirmation, not a verified article download. No public records changed.",
+  "summary": {
+    "unresolved": 4,
+    "no-open-license-in-metadata": 115,
+    "open-license-reported": 16,
+    "identity-review": 2
+  },
+  "records": [
+    {
+      "id": "doi-10.1007-s12671-026-02877-9",
+      "doi": "10.1007/s12671-026-02877-9",
+      "title": "Dynamic Methylation Changes in Alzheimer’s Disease-Related Genes During Mindfulness Practice – a Proof-of-Concept Study",
+      "status": "unresolved",
+      "error": "HTTP Error 429: Too Many Requests",
+      "metadataSource": "https://api.crossref.org/works/10.1007%2Fs12671-026-02877-9"
+    },
+    {
+      "id": "doi-14a5c17359f1dfcb",
+      "doi": "10.1891/emdr-2023-0019",
+      "title": "Transcriptional Modulation of Stress-Related Genes in Association with Early Life Stress Exposure and Trauma-Focused Psychotherapy in Treatment-Resistant Depression Patients",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Transcriptional Modulation of Stress-Related Genes in Association with Early Life Stress Exposure and Trauma-Focused Psychotherapy in Treatment-Resistant Depression Patients",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://spj.science.org/doi/pdf/10.1891/EMDR-2023-0019",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1891%2Femdr-2023-0019",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "landingPage": "https://spj.science.org/doi/10.1891/EMDR-2023-0019"
+    },
+    {
+      "id": "doi-0bf0e1873d286226",
+      "doi": "10.1016/j.jasi.2018.07.003",
+      "title": "Impact of mindfulness based stress reduction on sperm DNA damage",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Impact of mindfulness based stress reduction on sperm DNA damage",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2018-12-01T00:00:00Z",
+            "timestamp": 1543622400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0003277818300583?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0003277818300583?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.jasi.2018.07.003",
+      "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+      "landingPage": "https://linkinghub.elsevier.com/retrieve/pii/S0003277818300583"
+    },
+    {
+      "id": "src-5aaad2520e3b",
+      "doi": "10.1088/1742-6596/306/1/012007",
+      "title": "DNA waves and water",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "DNA waves and water",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://stacks.iop.org/1742-6596/306/i=1/a=012007/pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1088%2F1742-6596%2F306%2F1%2F012007",
+      "publisher": "IOP Publishing",
+      "landingPage": "https://iopscience.iop.org/article/10.1088/1742-6596/306/1/012007"
+    },
+    {
+      "id": "src-944ec8023c08",
+      "doi": "10.1088/1742-6596/329/1/012011",
+      "title": "New Perspectives of Bioelectromagnetics in Biology and in Medicine: DNA Spectra for Diagnostic Purposes",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "New Perspectives of Bioelectromagnetics in Biology and in Medicine: DNA Spectra for Diagnostic Purposes",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://stacks.iop.org/1742-6596/329/i=1/a=012011/pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1088%2F1742-6596%2F329%2F1%2F012011",
+      "publisher": "IOP Publishing",
+      "landingPage": "https://iopscience.iop.org/article/10.1088/1742-6596/329/1/012011"
+    },
+    {
+      "id": "src-ba204cd2f0e1",
+      "doi": "10.5120/ijca2019919527",
+      "title": "Quantum Computing-Applications in Bioinformatics",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Quantum Computing-Applications in Bioinformatics",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.5120%2Fijca2019919527",
+      "publisher": "Foundation of Computer Science",
+      "landingPage": "http://www.ijcaonline.org/archives/volume177/number12/baiskhiyar-2019-ijca-919527.pdf"
+    },
+    {
+      "id": "doi-37881ae999c094e1",
+      "doi": "10.1016/j.fnhli.2025.100070",
+      "title": "The effectiveness of trauma-based therapies for Aboriginal and non-Aboriginal children and adolescents in out-of-home care",
+      "status": "open-license-reported",
+      "matchedTitle": "The effectiveness of trauma-based therapies for Aboriginal and non-Aboriginal children and adolescents in out-of-home care",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2025-01-01T00:00:00Z",
+            "timestamp": 1735689600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2025-01-01T00:00:00Z",
+            "timestamp": 1735689600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                5,
+                14
+              ]
+            ],
+            "date-time": "2025-05-14T00:00:00Z",
+            "timestamp": 1747180800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 133,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2949840625000282?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S2949840625000282?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.fnhli.2025.100070",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://linkinghub.elsevier.com/retrieve/pii/S2949840625000282"
+    },
+    {
+      "id": "doi-2a203fb071ddfe54",
+      "doi": "10.1002/capr.12580",
+      "title": "“Online delivery gave me privacy and distance from others”: feasibility trial and qualitative evaluation of an online intervention for refugees and asylum seekers; <scp>LTP</scp> + <scp>EMDR G‐TEP</scp>",
+      "status": "open-license-reported",
+      "matchedTitle": "“Online delivery gave me privacy and distance from others”: feasibility trial and qualitative evaluation of an online intervention for refugees and asylum seekers; <scp>LTP</scp> + <scp>EMDR G‐TEP</scp>",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                9,
+                9
+              ]
+            ],
+            "date-time": "2022-09-09T00:00:00Z",
+            "timestamp": 1662681600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/capr.12580",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/capr.12580",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/capr.12580",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1002%2Fcapr.12580",
+      "publisher": "Wiley",
+      "landingPage": "https://onlinelibrary.wiley.com/doi/10.1002/capr.12580"
+    },
+    {
+      "id": "doi-67fa7275f4f4ba77",
+      "doi": "10.1891/emdr-2022-0029",
+      "title": "Effects of EMDR Group Traumatic Episode Protocol on Burnout Within IAPT Healthcare Professionals: A Feasibility and Acceptability Study",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Effects of EMDR Group Traumatic Episode Protocol on Burnout Within IAPT Healthcare Professionals: A Feasibility and Acceptability Study",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://spj.science.org/doi/pdf/10.1891/EMDR-2022-0029",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1891%2Femdr-2022-0029",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "landingPage": "https://spj.science.org/doi/10.1891/EMDR-2022-0029"
+    },
+    {
+      "id": "doi-b4b0af603557eafe",
+      "doi": "10.1891/emdr-d-21-00009",
+      "title": "Low-Intensity Interventions and EMDR Therapy",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Low-Intensity Interventions and EMDR Therapy",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://spj.science.org/doi/pdf/10.1891/EMDR-D-21-00009",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1891%2Femdr-d-21-00009",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "landingPage": "https://spj.science.org/doi/10.1891/EMDR-D-21-00009"
+    },
+    {
+      "id": "doi-37bd65a31f48ce93",
+      "doi": "10.1891/emdr-d-20-00047",
+      "title": "Randomized Controlled Trial: Self-Care Traumatic Episode Protocol, Computerized EMDR Treatment of COVID-19-Related Stress",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Randomized Controlled Trial: Self-Care Traumatic Episode Protocol, Computerized EMDR Treatment of COVID-19-Related Stress",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://spj.science.org/doi/pdf/10.1891/EMDR-D-20-00047",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1891%2Femdr-d-20-00047",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "landingPage": "https://spj.science.org/doi/10.1891/EMDR-D-20-00047"
+    },
+    {
+      "id": "src-796cb6656464",
+      "doi": "10.1891/emdr-d-20-00054",
+      "title": "Use of EMDR-Derived Self-Help Intervention in Children in the Period of COVID-19: A Randomized-Controlled Study",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Use of EMDR-Derived Self-Help Intervention in Children in the Period of COVID-19: A Randomized-Controlled Study",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://spj.science.org/doi/pdf/10.1891/EMDR-D-20-00054",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1891%2Femdr-d-20-00054",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "landingPage": "https://spj.science.org/doi/10.1891/EMDR-D-20-00054"
+    },
+    {
+      "id": "doi-98d676644dd46a51",
+      "doi": "10.1016/j.bspc.2018.01.022",
+      "title": "Cumulative effects of theta binaural beats on brain power and functional connectivity",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Cumulative effects of theta binaural beats on brain power and functional connectivity",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                4,
+                1
+              ]
+            ],
+            "date-time": "2018-04-01T00:00:00Z",
+            "timestamp": 1522540800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1746809418300296?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1746809418300296?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.bspc.2018.01.022",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://linkinghub.elsevier.com/retrieve/pii/S1746809418300296"
+    },
+    {
+      "id": "src-ae3dc0d94fef",
+      "doi": "10.4236/health.2018.109088",
+      "title": "Effect of 528 Hz Music on the Endocrine System and Autonomic Nervous System",
+      "status": "open-license-reported",
+      "matchedTitle": "Effect of 528 Hz Music on the Endocrine System and Autonomic Nervous System",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2018-01-01T00:00:00Z",
+            "timestamp": 1514764800000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "http://www.scirp.org/journal/doi.aspx?DOI=10.4236/health.2018.109088",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://www.scirp.org/journal/doi.aspx?DOI=10.4236/health.2018.109088",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.4236%2Fhealth.2018.109088",
+      "publisher": "Scientific Research Publishing, Inc.",
+      "landingPage": "http://www.scirp.org/journal/doi.aspx?DOI=10.4236/health.2018.109088"
+    },
+    {
+      "id": "doi-66e3650652d792e2",
+      "doi": "10.1080/15405702.2017.1413191",
+      "title": "Now you see them: Self-representation and the refugee selfie",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Now you see them: Self-representation and the refugee selfie",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://www.tandfonline.com/doi/pdf/10.1080/15405702.2017.1413191",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1080%2F15405702.2017.1413191",
+      "publisher": "Informa UK Limited",
+      "landingPage": "https://www.tandfonline.com/doi/full/10.1080/15405702.2017.1413191"
+    },
+    {
+      "id": "doi-16fea1e714a7ade6",
+      "doi": "10.1177/0256090918794823",
+      "title": "Perceived CSR and Corporate Reputation: The Mediating Role of Employee Trust",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Perceived CSR and Corporate Reputation: The Mediating Role of Employee Trust",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2018-09-01T00:00:00Z",
+            "timestamp": 1535760000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0256090918794823",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/0256090918794823",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/0256090918794823",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1177%2F0256090918794823",
+      "publisher": "SAGE Publications",
+      "landingPage": "https://journals.sagepub.com/doi/10.1177/0256090918794823"
+    },
+    {
+      "id": "doi-94ef326e2e9a602d",
+      "doi": "10.1177/2056305118764440",
+      "title": "Syrian Refugees and the Digital Passage to Europe: Smartphone Infrastructures and Affordances",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Syrian Refugees and the Digital Passage to Europe: Smartphone Infrastructures and Affordances",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2018-01-01T00:00:00Z",
+            "timestamp": 1514764800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/2056305118764440",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/2056305118764440",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/2056305118764440",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1177%2F2056305118764440",
+      "publisher": "SAGE Publications",
+      "landingPage": "https://journals.sagepub.com/doi/10.1177/2056305118764440"
+    },
+    {
+      "id": "doi-3033fb68b3cc2d76",
+      "doi": "10.1111/juaf.12310",
+      "title": "Digital Communications Among Homeless People: Anomaly or Necessity?",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Digital communications among homeless people: Anomaly or necessity?",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fjuaf.12310",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.tandfonline.com/doi/pdf/10.1111/juaf.12310",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1111%2Fjuaf.12310",
+      "publisher": "Informa UK Limited",
+      "landingPage": "https://www.tandfonline.com/doi/full/10.1111/juaf.12310"
+    },
+    {
+      "id": "doi-befa7b53c55cb589",
+      "doi": "10.1016/j.aip.2017.08.005",
+      "title": "Ethical implications of cross-cultural international art therapy",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Ethical implications of cross-cultural international art therapy",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                11,
+                1
+              ]
+            ],
+            "date-time": "2017-11-01T00:00:00Z",
+            "timestamp": 1509494400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                11,
+                1
+              ]
+            ],
+            "date-time": "2017-11-01T00:00:00Z",
+            "timestamp": 1509494400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0197455616302386?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0197455616302386?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.aip.2017.08.005",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://linkinghub.elsevier.com/retrieve/pii/S0197455616302386"
+    },
+    {
+      "id": "doi-648f6da34833f786",
+      "doi": "10.1891/1933-3196.11.3.129",
+      "title": "Evaluating the EMDR Group Traumatic Episode Protocol With Refugees: A Field Study",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Evaluating the EMDR Group Traumatic Episode Protocol With Refugees: A Field Study",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://spj.science.org/doi/pdf/10.1891/1933-3196.11.3.129",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1891%2F1933-3196.11.3.129",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "landingPage": "https://spj.science.org/doi/10.1891/1933-3196.11.3.129"
+    },
+    {
+      "id": "doi-2cc6078ca91d89ea",
+      "doi": "10.1080/10911359.2017.1282912",
+      "title": "Studies of resilience among youth experiencing homelessness: A systematic review",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Studies of resilience among youth experiencing homelessness: A systematic review",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://www.tandfonline.com/doi/pdf/10.1080/10911359.2017.1282912",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1080%2F10911359.2017.1282912",
+      "publisher": "Informa UK Limited",
+      "landingPage": "https://www.tandfonline.com/doi/full/10.1080/10911359.2017.1282912"
+    },
+    {
+      "id": "doi-2f565d066e4e774b",
+      "doi": "10.1016/j.aip.2016.05.015",
+      "title": "Art therapy for PTSD and TBI: A senior active duty military service member’s therapeutic journey",
+      "status": "open-license-reported",
+      "matchedTitle": "Art therapy for PTSD and TBI: A senior active duty military service member’s therapeutic journey",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2016-07-01T00:00:00Z",
+            "timestamp": 1467331200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2016-07-01T00:00:00Z",
+            "timestamp": 1467331200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                5,
+                24
+              ]
+            ],
+            "date-time": "2016-05-24T00:00:00Z",
+            "timestamp": 1464048000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0197455616300636?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0197455616300636?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.aip.2016.05.015",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://linkinghub.elsevier.com/retrieve/pii/S0197455616300636"
+    },
+    {
+      "id": "doi-4177d8a1b6597791",
+      "doi": "10.3390/atmos7090116",
+      "title": "ELF Electromagnetic Waves from Lightning: The Schumann Resonances",
+      "status": "open-license-reported",
+      "matchedTitle": "ELF Electromagnetic Waves from Lightning: The Schumann Resonances",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                9,
+                15
+              ]
+            ],
+            "date-time": "2016-09-15T00:00:00Z",
+            "timestamp": 1473897600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://www.mdpi.com/2073-4433/7/9/116/pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.3390%2Fatmos7090116",
+      "publisher": "MDPI AG",
+      "landingPage": "https://www.mdpi.com/2073-4433/7/9/116"
+    },
+    {
+      "id": "doi-61628ddd002899ff",
+      "doi": "10.1016/j.aip.2015.09.006",
+      "title": "Evaluation of a school-based creative arts therapy program for adolescents from refugee backgrounds",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Evaluation of a school-based creative arts therapy program for adolescents from refugee backgrounds",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2016-02-01T00:00:00Z",
+            "timestamp": 1454284800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2016-02-01T00:00:00Z",
+            "timestamp": 1454284800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0197455615000817?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0197455615000817?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.aip.2015.09.006",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://linkinghub.elsevier.com/retrieve/pii/S0197455615000817"
+    },
+    {
+      "id": "doi-1e1e2bd1138b8cfd",
+      "doi": "10.1080/17454832.2016.1170053",
+      "title": "Inhabited studio: Art therapy and mindfulness, resilience, adversity and refugees",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Inhabited studio: Art therapy and mindfulness, resilience, adversity and refugees",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://www.tandfonline.com/doi/pdf/10.1080/17454832.2016.1170053",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1080%2F17454832.2016.1170053",
+      "publisher": "Informa UK Limited",
+      "landingPage": "https://www.tandfonline.com/doi/full/10.1080/17454832.2016.1170053"
+    },
+    {
+      "id": "doi-bfab13a657ed2d81",
+      "doi": "10.15845/voices.v16i3.887",
+      "title": "Needs of Children Experiencing Homelessness who are Living in Shelters: A Qualitative Investigation of Perceptions of Care Workers to Inform Music Therapy Clinical Practice",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Needs of Children Experiencing Homelessness who are Living in Shelters: A Qualitative Investigation of Perceptions of Care Workers to Inform Music Therapy Clinical Practice",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://voices.no/index.php/voices/article/download/2298/2053",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://voices.no/index.php/voices/article/download/2298/2053",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.15845%2Fvoices.v16i3.887",
+      "publisher": "Universtity of Bergen Library",
+      "landingPage": "https://voices.no/index.php/voices/article/view/2298"
+    },
+    {
+      "id": "doi-1e4b5bdcc2212351",
+      "doi": "10.1007/s12671-015-0431-6",
+      "title": "Does Mindfulness Meditation Increase Effectiveness of Substance Abuse Treatment with Incarcerated Youth? A Pilot Randomized Controlled Trial",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Does Mindfulness Meditation Increase Effectiveness of Substance Abuse Treatment with Incarcerated Youth? A Pilot Randomized Controlled Trial",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2015,
+                7,
+                31
+              ]
+            ],
+            "date-time": "2015-07-31T00:00:00Z",
+            "timestamp": 1438300800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s12671-015-0431-6.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1007/s12671-015-0431-6/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s12671-015-0431-6",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1007%2Fs12671-015-0431-6",
+      "publisher": "Springer Science and Business Media LLC",
+      "landingPage": "http://link.springer.com/10.1007/s12671-015-0431-6"
+    },
+    {
+      "id": "doi-335fd4c429caa4ae",
+      "doi": "10.1080/15562948.2013.856510",
+      "title": "Exploring Media Platforms to Serve the Needs of the South Sudanese Former Refugee Community in Southeast Queensland",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Exploring Media Platforms to Serve the Needs of the South Sudanese Former Refugee Community in Southeast Queensland",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://www.tandfonline.com/doi/pdf/10.1080/15562948.2013.856510",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1080%2F15562948.2013.856510",
+      "publisher": "Informa UK Limited",
+      "landingPage": "http://www.tandfonline.com/doi/abs/10.1080/15562948.2013.856510"
+    },
+    {
+      "id": "doi-bbac53b23500d8b1",
+      "doi": "10.4236/jsip.2015.62015",
+      "title": "Human Quantitative Electroencephalographic and Schumann Resonance Exhibit Real-Time Coherence of Spectral Power Densities: Implications for Interactive Information Processing",
+      "status": "open-license-reported",
+      "matchedTitle": "Human Quantitative Electroencephalographic and Schumann Resonance Exhibit Real-Time Coherence of Spectral Power Densities: Implications for Interactive Information Processing",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2015,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2015-01-01T00:00:00Z",
+            "timestamp": 1420070400000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://www.scirp.org/journal/paperinformation?paperid=56609",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.scirp.org/xml/56609.xml",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.scirp.org/journal/paperinformation?paperid=56609",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.4236%2Fjsip.2015.62015",
+      "publisher": "Scientific Research Publishing, Inc.",
+      "landingPage": "https://www.scirp.org/journal/paperinformation?paperid=56609"
+    },
+    {
+      "id": "doi-b1734615d2614781",
+      "doi": "10.1080/17533015.2014.999246",
+      "title": "Participatory choral music as a means of engagement in a veterans' mental health and addiction treatment setting",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Participatory choral music as a means of engagement in a veterans' mental health and addiction treatment setting",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://www.tandfonline.com/doi/pdf/10.1080/17533015.2014.999246",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1080%2F17533015.2014.999246",
+      "publisher": "Informa UK Limited",
+      "landingPage": "http://www.tandfonline.com/doi/full/10.1080/17533015.2014.999246"
+    },
+    {
+      "id": "doi-b2b4a7cf6604ec4e",
+      "doi": "10.1016/j.aip.2015.05.007",
+      "title": "The art of wellness: A 14-week art therapy program for at-risk youth",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "The art of wellness: A 14-week art therapy program for at-risk youth",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2015,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2015-09-01T00:00:00Z",
+            "timestamp": 1441065600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2015,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2015-09-01T00:00:00Z",
+            "timestamp": 1441065600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S019745561500057X?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S019745561500057X?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.aip.2015.05.007",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://linkinghub.elsevier.com/retrieve/pii/S019745561500057X"
+    },
+    {
+      "id": "doi-1ee8c9dc33b350fa",
+      "doi": "10.1177/1744987114529298",
+      "title": "Effects of music relaxation video on pain and anxiety for women with gynaecological cancer receiving intracavitary brachytherapy: a randomised controlled trial",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Effects of music relaxation video on pain and anxiety for women with gynaecological cancer receiving intracavitary brachytherapy: a randomised controlled trial",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2014,
+                4,
+                28
+              ]
+            ],
+            "date-time": "2014-04-28T00:00:00Z",
+            "timestamp": 1398643200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/1744987114529298",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/1744987114529298",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/1744987114529298",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1177%2F1744987114529298",
+      "publisher": "SAGE Publications",
+      "landingPage": "https://journals.sagepub.com/doi/10.1177/1744987114529298"
+    },
+    {
+      "id": "doi-4e5b48cad9b6436d",
+      "doi": "10.1891/1933-3196.8.3.147",
+      "title": "EMDR With Traumatized Refugees: From Experience-Based to Evidence-Based Practice",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "EMDR With Traumatized Refugees: From Experience-Based to Evidence-Based Practice",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://spj.science.org/doi/pdf/10.1891/1933-3196.8.3.147",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1891%2F1933-3196.8.3.147",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "landingPage": "https://spj.science.org/doi/10.1891/1933-3196.8.3.147"
+    },
+    {
+      "id": "doi-0e7b54c332697f06",
+      "doi": "10.1109/ghtc.2014.6970341",
+      "title": "Hack for the homeless: A humanitarian technology hackathon",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Hack for the homeless: A humanitarian technology hackathon",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://xplorestaging.ieee.org/ielx7/6958780/6970242/06970341.pdf?arnumber=6970341",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1109%2Fghtc.2014.6970341",
+      "publisher": "IEEE",
+      "landingPage": "http://ieeexplore.ieee.org/document/6970341/"
+    },
+    {
+      "id": "doi-b02eca96b6ce2f96",
+      "doi": "10.1007/s11469-014-9513-2",
+      "title": "Meditation Awareness Training (MAT) for Work-related Wellbeing and Job Performance: A Randomised Controlled Trial",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Meditation Awareness Training (MAT) for Work-related Wellbeing and Job Performance: A Randomised Controlled Trial",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2014,
+                8,
+                7
+              ]
+            ],
+            "date-time": "2014-08-07T00:00:00Z",
+            "timestamp": 1407369600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s11469-014-9513-2.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1007/s11469-014-9513-2/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s11469-014-9513-2",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s11469-014-9513-2.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1007%2Fs11469-014-9513-2",
+      "publisher": "Springer Science and Business Media LLC",
+      "landingPage": "http://link.springer.com/10.1007/s11469-014-9513-2"
+    },
+    {
+      "id": "doi-2d7461017405ab6b",
+      "doi": "10.1007/s10826-014-9926-3",
+      "title": "Teaching Mindfulness to Middle School Students and Homeless Youth in School Classrooms",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Teaching Mindfulness to Middle School Students and Homeless Youth in School Classrooms",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2014,
+                3,
+                30
+              ]
+            ],
+            "date-time": "2014-03-30T00:00:00Z",
+            "timestamp": 1396137600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s10826-014-9926-3.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1007/s10826-014-9926-3/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s10826-014-9926-3",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1007%2Fs10826-014-9926-3",
+      "publisher": "Springer Science and Business Media LLC",
+      "landingPage": "https://link.springer.com/10.1007/s10826-014-9926-3"
+    },
+    {
+      "id": "doi-ed68cfcb4dcfc73a",
+      "doi": "10.1007/978-94-007-5702-8_15",
+      "title": "Development as Happiness: The Subjective Perception of Happiness and UNDP’s Analysis of Poverty, Wealth and Development",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Development as Happiness: The Subjective Perception of Happiness and UNDP’s Analysis of Poverty, Wealth and Development",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/978-94-007-5702-8_15",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1007%2F978-94-007-5702-8_15",
+      "publisher": "Springer Netherlands",
+      "landingPage": "http://link.springer.com/10.1007/978-94-007-5702-8_15"
+    },
+    {
+      "id": "doi-bcda25fdeb002c46",
+      "doi": "10.1007/s10826-013-9809-z",
+      "title": "Translating and Implementing a Mindfulness-Based Youth Suicide Prevention Intervention in a Native American Community",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Translating and Implementing a Mindfulness-Based Youth Suicide Prevention Intervention in a Native American Community",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2013,
+                8,
+                7
+              ]
+            ],
+            "date-time": "2013-08-07T00:00:00Z",
+            "timestamp": 1375833600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s10826-013-9809-z.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1007/s10826-013-9809-z/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s10826-013-9809-z",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1007%2Fs10826-013-9809-z",
+      "publisher": "Springer Science and Business Media LLC",
+      "landingPage": "https://link.springer.com/10.1007/s10826-013-9809-z"
+    },
+    {
+      "id": "doi-a5e4ecfa6a07bf01",
+      "doi": "10.1177/1321103x12466138",
+      "title": "“The beat will make you be courage”: The role of a secondary school music program in supporting young refugees and newly arrived immigrants in Australia",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "“The beat will make you be courage”: The role of a secondary school music program in supporting young refugees and newly arrived immigrants in Australia",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                10,
+                31
+              ]
+            ],
+            "date-time": "2012-10-31T00:00:00Z",
+            "timestamp": 1351641600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/1321103X12466138",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/full-xml/10.1177/1321103X12466138",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/1321103X12466138",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1177%2F1321103x12466138",
+      "publisher": "SAGE Publications",
+      "landingPage": "https://journals.sagepub.com/doi/10.1177/1321103X12466138"
+    },
+    {
+      "id": "doi-0017e1c8036baaa5",
+      "doi": "10.1016/j.aip.2012.03.005",
+      "title": "A pendulum between trauma and life: Group music therapy with post-traumatized soldiers",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "A pendulum between trauma and life: Group music therapy with post-traumatized soldiers",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2012-09-01T00:00:00Z",
+            "timestamp": 1346457600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2012-09-01T00:00:00Z",
+            "timestamp": 1346457600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2012-09-01T00:00:00Z",
+            "timestamp": 1346457600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-017"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2012-09-01T00:00:00Z",
+            "timestamp": 1346457600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2012-09-01T00:00:00Z",
+            "timestamp": 1346457600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-012"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2012-09-01T00:00:00Z",
+            "timestamp": 1346457600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2012-09-01T00:00:00Z",
+            "timestamp": 1346457600000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-004"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0197455612000299?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0197455612000299?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.aip.2012.03.005",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://linkinghub.elsevier.com/retrieve/pii/S0197455612000299"
+    },
+    {
+      "id": "doi-b8c111dd4c4a9cd1",
+      "doi": "10.1111/j.1750-8606.2011.00215.x",
+      "title": "Nurturing Mindfulness in Children and Youth: Current State of Research",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Nurturing Mindfulness in Children and Youth: Current State of Research",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                5,
+                14
+              ]
+            ],
+            "date-time": "2012-05-14T00:00:00Z",
+            "timestamp": 1336953600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1750-8606.2011.00215.x",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://academic.oup.com/cdpers/article-pdf/6/2/161/64424940/cdep215.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://academic.oup.com/cdpers/article-pdf/6/2/161/64424940/cdep215.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1111%2Fj.1750-8606.2011.00215.x",
+      "publisher": "Oxford University Press (OUP)",
+      "landingPage": "https://academic.oup.com/cdpers/article/6/2/161/8234764"
+    },
+    {
+      "id": "doi-06a7895977c054af",
+      "doi": "10.1007/978-1-4614-2359-1_8",
+      "title": "Psychophysiological Correlates of Flow-Experience",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Psychophysiological Correlates of Flow-Experience",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/978-1-4614-2359-1_8.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1007%2F978-1-4614-2359-1_8",
+      "publisher": "Springer New York",
+      "landingPage": "http://link.springer.com/10.1007/978-1-4614-2359-1_8"
+    },
+    {
+      "id": "doi-07f639404ec1fc0d",
+      "doi": "10.1093/mtp/29.1.14",
+      "title": "Singing for Healing and Hope: Music Therapy Methods that Use the Voice with Individuals Who Are Homeless and Mentally Ill",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Singing for Healing and Hope: Music Therapy Methods that Use the Voice with Individuals Who Are Homeless and Mentally Ill",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://academic.oup.com/mtp/article-pdf/29/1/14/6834407/29-1-14.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1093%2Fmtp%2F29.1.14",
+      "publisher": "Oxford University Press (OUP)",
+      "landingPage": "https://academic.oup.com/mtp/article-lookup/doi/10.1093/mtp/29.1.14"
+    },
+    {
+      "id": "doi-efaa5ab4cab4e9ec",
+      "doi": "10.1007/s10826-011-9552-2",
+      "title": "Spirituality Development for Homeless Youth: A Mindfulness Meditation Feasibility Pilot",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Spirituality Development for Homeless Youth: A Mindfulness Meditation Feasibility Pilot",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2011,
+                12,
+                27
+              ]
+            ],
+            "date-time": "2011-12-27T00:00:00Z",
+            "timestamp": 1324944000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s10826-011-9552-2.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1007/s10826-011-9552-2/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s10826-011-9552-2",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1007%2Fs10826-011-9552-2",
+      "publisher": "Springer Science and Business Media LLC",
+      "landingPage": "https://link.springer.com/10.1007/s10826-011-9552-2"
+    },
+    {
+      "id": "doi-d40c8b9c8ed571ad",
+      "doi": "10.1016/j.asr.2009.12.008",
+      "title": "Effects of geomagnetic activity and atmospheric power variations on quantitative measures of brain activity: Replication of the Azerbaijani studies",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Effects of geomagnetic activity and atmospheric power variations on quantitative measures of brain activity: Replication of the Azerbaijani studies",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2010,
+                4,
+                1
+              ]
+            ],
+            "date-time": "2010-04-01T00:00:00Z",
+            "timestamp": 1270080000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2010,
+                4,
+                1
+              ]
+            ],
+            "date-time": "2010-04-01T00:00:00Z",
+            "timestamp": 1270080000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0273117709007558?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0273117709007558?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.asr.2009.12.008",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://linkinghub.elsevier.com/retrieve/pii/S0273117709007558"
+    },
+    {
+      "id": "doi-fb45fb2373911e26",
+      "doi": "10.15845/voices.v10i1.158",
+      "title": "Hope and Recognition. A Music Project among Youth in a Palestinian Refugee Camp",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Hope and recognition: A Music Project among Youth in a Palestinian Refugee Camp",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://voices.no/index.php/voices/article/download/1853/1616",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://voices.no/index.php/voices/article/download/1853/1616",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.15845%2Fvoices.v10i1.158",
+      "publisher": "University of Bergen Library",
+      "landingPage": "https://voices.no/index.php/voices/article/view/1853"
+    },
+    {
+      "id": "doi-2f7b8dd67e1c8bbb",
+      "doi": "10.1016/j.aip.2007.09.002",
+      "title": "Drumming through trauma: Music therapy with post-traumatic soldiers",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Drumming through trauma: Music therapy with post-traumatic soldiers",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2008,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2008-01-01T00:00:00Z",
+            "timestamp": 1199145600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2008,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2008-01-01T00:00:00Z",
+            "timestamp": 1199145600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0197455607000883?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0197455607000883?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.aip.2007.09.002",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://linkinghub.elsevier.com/retrieve/pii/S0197455607000883"
+    },
+    {
+      "id": "doi-53aa4106dfd35960",
+      "doi": "10.1016/j.aip.2008.06.005",
+      "title": "Indigenous music therapy theory building through grounded theory research: The developing indigenous theory framework",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Indigenous music therapy theory building through grounded theory research: The developing indigenous theory framework",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2008,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2008-01-01T00:00:00Z",
+            "timestamp": 1199145600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2008,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2008-01-01T00:00:00Z",
+            "timestamp": 1199145600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0197455608000609?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0197455608000609?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.aip.2008.06.005",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://linkinghub.elsevier.com/retrieve/pii/S0197455608000609"
+    },
+    {
+      "id": "doi-7bca5becd0049aeb",
+      "doi": "10.15845/voices.v8i1.452",
+      "title": "Reflections on Music Therapy with Indigenous Families: Cultural Learning put into Practice",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Reflections on Music Therapy with Indigenous Families: Cultural Learning put into Practice",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://voices.no/index.php/voices/article/download/1799/1560",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://voices.no/index.php/voices/article/download/1799/1560",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.15845%2Fvoices.v8i1.452",
+      "publisher": "Universtity of Bergen Library",
+      "landingPage": "https://voices.no/index.php/voices/article/view/1799"
+    },
+    {
+      "id": "doi-16f513abd981c573",
+      "doi": "10.2469/dig.v37.n2.4619",
+      "title": "Corporate Social Performance and Stock Returns: UK Evidence from Disaggregate Measures",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Corporate Social Performance and Stock Returns: UK Evidence from Disaggregate Measures",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.2469%2Fdig.v37.n2.4619",
+      "publisher": "CFA Institute",
+      "landingPage": "http://www.cfapubs.org/doi/full/10.2469/dig.v37.n2.4619"
+    },
+    {
+      "id": "src-757129132fdc",
+      "doi": "10.1037/1072-5245.14.1.61",
+      "title": "Responding to an identified need: A joint department of defense/department of veterans affairs training program in eye movement desensitization and reprocessing (EMDR) for clinicians providing trauma services.",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Responding to an identified need: A joint department of defense/department of veterans affairs training program in eye movement desensitization and reprocessing (EMDR) for clinicians providing trauma services.",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://psycnet.apa.org/journals/str/14/1/61.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1037%2F1072-5245.14.1.61",
+      "publisher": "American Psychological Association (APA)",
+      "landingPage": "https://doi.apa.org/doi/10.1037/1072-5245.14.1.61"
+    },
+    {
+      "id": "doi-82aafc04d055ceed",
+      "doi": "10.1093/mtp/24.2.108",
+      "title": "Attitudes towards Cross-Cultural Empathy in Music Therapy",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Attitudes towards Cross-Cultural Empathy in Music Therapy",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://academic.oup.com/mtp/article-pdf/24/2/108/3907920/24-2-108.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1093%2Fmtp%2F24.2.108",
+      "publisher": "Oxford University Press (OUP)",
+      "landingPage": "https://academic.oup.com/mtp/article-lookup/doi/10.1093/mtp/24.2.108"
+    },
+    {
+      "id": "doi-e5864f2618900cc4",
+      "doi": "10.1080/13632750601022170",
+      "title": "The effect of music therapy services on classroom behaviours of newly arrived refugee students in Australia—a pilot study",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "The effect of music therapy services on classroom behaviours of newly arrived refugee students in Australia—a pilot study",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://www.tandfonline.com/doi/pdf/10.1080/13632750601022170",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1080%2F13632750601022170",
+      "publisher": "Informa UK Limited",
+      "landingPage": "http://www.tandfonline.com/doi/abs/10.1080/13632750601022170"
+    },
+    {
+      "id": "doi-733bb2dac57b6cc9",
+      "doi": "10.15845/voices.v5i2.223",
+      "title": "Action Research and Music Therapy: Group Music Therapy with Young Refugees in a School Community",
+      "status": "unresolved",
+      "error": "HTTP Error 429: Too Many Requests",
+      "metadataSource": "https://api.crossref.org/works/10.15845%2Fvoices.v5i2.223"
+    },
+    {
+      "id": "doi-ee4dbad2ce729f10",
+      "doi": "10.15845/voices.v5i2.227",
+      "title": "Music Therapy with Traumatized Refugees in a Clinical Setting",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Music Therapy with Traumatized Refugees in a Clinical Setting",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://voices.no/index.php/voices/article/download/1715/1475",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://voices.no/index.php/voices/article/download/1715/1475",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.15845%2Fvoices.v5i2.227",
+      "publisher": "Universtity of Bergen Library",
+      "landingPage": "https://voices.no/index.php/voices/article/view/1715"
+    },
+    {
+      "id": "doi-890fefc8f3be30c0",
+      "doi": "10.15845/voices.v5i3.231",
+      "title": "Music Therapy, War Trauma, and Peace: A Singaporean Perspective",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Music Therapy, War Trauma, and Peace: A Singaporean Perspective",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://voices.no/index.php/voices/article/download/1701/1461",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://voices.no/index.php/voices/article/download/1701/1461",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.15845%2Fvoices.v5i3.231",
+      "publisher": "Universtity of Bergen Library",
+      "landingPage": "https://voices.no/index.php/voices/article/view/1701"
+    },
+    {
+      "id": "doi-29b8d72b63cf67cb",
+      "doi": "10.4324/9780203310540-26",
+      "title": "Sounds of Trauma: An Introduction to Methodology in Music Therapy With Traumatized Refugees in Clinical and Outpatient Settings",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Sounds of Trauma: An Introduction to Methodology in Music Therapy With Traumatized Refugees in Clinical and Outpatient Settings",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.4324%2F9780203310540-26",
+      "publisher": "Routledge",
+      "landingPage": "https://www.taylorfrancis.com/books/9781135946425/chapters/10.4324/9780203310540-26"
+    },
+    {
+      "id": "doi-70f1db616203b86f",
+      "doi": "10.1109/cic.2003.1291194",
+      "title": "Using heart rate variability analysis to assess the effect of music therapy on anxiety reduction of patients",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Using heart rate variability analysis to assess the effect of music therapy on anxiety reduction of patients",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://xplorestaging.ieee.org/ielx5/9064/28752/01291194.pdf?arnumber=1291194",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1109%2Fcic.2003.1291194",
+      "publisher": "IEEE",
+      "landingPage": "http://ieeexplore.ieee.org/document/1291194/"
+    },
+    {
+      "id": "doi-afe44de7f462e56e",
+      "doi": "10.1300/j009v24n03_09",
+      "title": "A Stress Reduction and Self-Care Group for Homeless and Addicted Women: Meditation, Relaxation and Cognitive Methods",
+      "status": "unresolved",
+      "error": "HTTP Error 429: Too Many Requests",
+      "metadataSource": "https://api.crossref.org/works/10.1300%2Fj009v24n03_09"
+    },
+    {
+      "id": "doi-b76baa5fd9acdf58",
+      "doi": "10.1111/1468-0297.00646",
+      "title": "Income and Happiness: Towards a Unified Theory",
+      "status": "unresolved",
+      "error": "HTTP Error 429: Too Many Requests",
+      "metadataSource": "https://api.crossref.org/works/10.1111%2F1468-0297.00646"
+    },
+    {
+      "id": "doi-a11edc2c0d807446",
+      "doi": "10.15845/voices.v1i1.45",
+      "title": "Reporting on Music Therapy in Kenya",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Reporting on Music Therapy in Kenya",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://voices.no/index.php/voices/article/download/1622/1382",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://voices.no/index.php/voices/article/download/1622/1382",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.15845%2Fvoices.v1i1.45",
+      "publisher": "Universtity of Bergen Library",
+      "landingPage": "https://voices.no/index.php/voices/article/view/1622"
+    },
+    {
+      "id": "doi-1a368149449ab40a",
+      "doi": "10.2139/ssrn.203211",
+      "title": "Happiness, Economy and Institutions",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Happiness, Economy and Institutions",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.2139%2Fssrn.203211",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://www.ssrn.com/abstract=203211"
+    },
+    {
+      "id": "doi-06a35c77903dbedd",
+      "doi": "10.1057/palgrave.crr.1540048",
+      "title": "Do Stock Market Investors Reward Companies with Reputations for Social Performance?",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Do Stock Market Investors Reward Companies with Reputations for Social Performance?",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                1998,
+                4,
+                1
+              ]
+            ],
+            "date-time": "1998-04-01T00:00:00Z",
+            "timestamp": 891388800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1057/palgrave.crr.1540048.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1057/palgrave.crr.1540048/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1057/palgrave.crr.1540048",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1057/palgrave.crr.1540048.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1057%2Fpalgrave.crr.1540048",
+      "publisher": "Springer Science and Business Media LLC",
+      "landingPage": "http://link.springer.com/10.1057/palgrave.crr.1540048"
+    },
+    {
+      "id": "doi-e7641c6e0eb6fd54",
+      "doi": "10.1037/0278-7393.22.6.1354",
+      "title": "Music-dependent memory: The roles of tempo change and mood mediation",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Music-dependent memory: The roles of tempo change and mood mediation.",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://psycnet.apa.org/journals/xlm/22/6/1354.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1037%2F0278-7393.22.6.1354",
+      "publisher": "American Psychological Association (APA)",
+      "landingPage": "https://doi.apa.org/doi/10.1037/0278-7393.22.6.1354"
+    },
+    {
+      "id": "doi-206bca1736dab071",
+      "doi": "10.1093/mtp/13.2.110",
+      "title": "Distant Thunder: Drumming with Vietnam Veterans",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Distant Thunder: Drumming with Vietnam Veterans",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://academic.oup.com/mtp/article-pdf/13/2/110/6936628/13-2-110.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1093%2Fmtp%2F13.2.110",
+      "publisher": "Oxford University Press (OUP)",
+      "landingPage": "https://academic.oup.com/mtp/article-lookup/doi/10.1093/mtp/13.2.110"
+    },
+    {
+      "id": "doi-dd7b3c097a436b46",
+      "doi": "10.1093/jmt/30.4.236",
+      "title": "A Music/Nonmusic Intervention with Homeless Children",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "A Music/Nonmusic Intervention with Homeless Children",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://academic.oup.com/jmt/article-pdf/30/4/236/5101131/30-4-236.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1093%2Fjmt%2F30.4.236",
+      "publisher": "Oxford University Press (OUP)",
+      "landingPage": "https://academic.oup.com/jmt/article-lookup/doi/10.1093/jmt/30.4.236"
+    },
+    {
+      "id": "src-be36c0b9673d",
+      "doi": "10.14704/nq.2013.11.3.632",
+      "title": "A Fast Fourier Transform Analysis of Time Series Data of Heart Rate Variability During Alfa-Rhythm Stimulation in Brain Entrainment",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "A Fast Fourier Transform Analysis of Time Series Data of Heart Rate Variability During Alfa-Rhythm Stimulation in Brain Entrainment",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.14704%2Fnq.2013.11.3.632",
+      "publisher": "NeuroQuantology Journal",
+      "landingPage": "https://neuroquantology.com/article.php?id=2220"
+    },
+    {
+      "id": "src-e48f73f227c2",
+      "doi": "10.1016/j.eujim.2016.01.002",
+      "title": "A patient-controlled, smartphone-based music intervention to reduce pain—A multi-center observational study of patients with chronic pain",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "A patient-controlled, smartphone-based music intervention to reduce pain—A multi-center observational study of patients with chronic pain",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2016-06-01T00:00:00Z",
+            "timestamp": 1464739200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1876382016300026?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1876382016300026?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.eujim.2016.01.002",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://linkinghub.elsevier.com/retrieve/pii/S1876382016300026"
+    },
+    {
+      "id": "src-ab7cad41c0a1",
+      "doi": "10.1016/j.cbpra.2011.09.001",
+      "title": "Acceptance and Mindfulness Techniques as Applied to Refugee and Ethnic Minority Populations With PTSD: Examples From \"Culturally Adapted CBT\"",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Acceptance and Mindfulness Techniques as Applied to Refugee and Ethnic Minority Populations With PTSD: Examples From \"Culturally Adapted CBT\"",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2013,
+                2,
+                1
+              ]
+            ],
+            "date-time": "2013-02-01T00:00:00Z",
+            "timestamp": 1359676800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1077722911001453?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1077722911001453?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.cbpra.2011.09.001",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://linkinghub.elsevier.com/retrieve/pii/S1077722911001453"
+    },
+    {
+      "id": "src-8e2c843200d2",
+      "doi": "10.18356/f6b3e553-en",
+      "title": "Africa could be the next frontier for cryptocurrency",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Africa could be the next frontier for cryptocurrency",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.18356%2Ff6b3e553-en",
+      "publisher": "United Nations Publications",
+      "landingPage": "https://www.un-ilibrary.org/content/journals/25179829/32/1/31"
+    },
+    {
+      "id": "src-48e0742b692c",
+      "doi": "10.4236/wjns.2013.34028",
+      "title": "Alpha-rhythm stimulation using brain entrainment enhances heart rate variability in subjects with reduced HRV",
+      "status": "open-license-reported",
+      "matchedTitle": "Alpha-rhythm stimulation using brain entrainment enhances heart rate variability in subjects with reduced HRV",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2013,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2013-01-01T00:00:00Z",
+            "timestamp": 1356998400000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "http://www.scirp.org/journal/PaperDownload.aspx?DOI=10.4236/wjns.2013.34028",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.scirp.org/journal/paperinformation?paperid=36722",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.scirp.org/journal/paperinformation?paperid=36722",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.4236%2Fwjns.2013.34028",
+      "publisher": "Scientific Research Publishing, Inc.",
+      "landingPage": "https://www.scirp.org/journal/paperinformation?paperid=36722"
+    },
+    {
+      "id": "src-c29b6e4e773f",
+      "doi": "10.1109/sice.2008.4654631",
+      "title": "An Alpha-wave-based binaural beat sound control system using fuzzy logic and autoregressive forecasting model",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "An Alpha-wave-based binaural beat sound control system using fuzzy logic and autoregressive forecasting model",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2008,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2008-08-01T00:00:00Z",
+            "timestamp": 1217548800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2008,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2008-08-01T00:00:00Z",
+            "timestamp": 1217548800000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "http://xplorestaging.ieee.org/ielx5/4638686/4654597/04654631.pdf?arnumber=4654631",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1109%2Fsice.2008.4654631",
+      "publisher": "IEEE",
+      "landingPage": "https://ieeexplore.ieee.org/document/4654631/"
+    },
+    {
+      "id": "src-c61b4fbb2519",
+      "doi": "10.1093/rsq/hdn034",
+      "title": "Asylum, Detention, and Mental Health in Australia",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Asylum, Detention, and Mental Health in Australia",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://academic.oup.com/rsq/article-pdf/27/3/110/6926910/hdn034.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1093%2Frsq%2Fhdn034",
+      "publisher": "Oxford University Press (OUP)",
+      "landingPage": "https://academic.oup.com/rsq/article-lookup/doi/10.1093/rsq/hdn034"
+    },
+    {
+      "id": "src-e4870b8eaf8c",
+      "doi": "10.1186/s41018-018-0044-5",
+      "title": "Blockchain for humanitarian action and development aid",
+      "status": "open-license-reported",
+      "matchedTitle": "Blockchain for humanitarian action and development aid",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                10,
+                26
+              ]
+            ],
+            "date-time": "2018-10-26T00:00:00Z",
+            "timestamp": 1540512000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s41018-018-0044-5.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1186/s41018-018-0044-5/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1186/s41018-018-0044-5.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1186%2Fs41018-018-0044-5",
+      "publisher": "Springer Science and Business Media LLC",
+      "landingPage": "https://jhumanitarianaction.springeropen.com/articles/10.1186/s41018-018-0044-5"
+    },
+    {
+      "id": "src-9c3263b6b942",
+      "doi": "10.1109/mitp.2018.021921645",
+      "title": "Blockchain in Developing Countries",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Blockchain in Developing Countries",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2018-03-01T00:00:00Z",
+            "timestamp": 1519862400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2018-03-01T00:00:00Z",
+            "timestamp": 1519862400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2018-03-01T00:00:00Z",
+            "timestamp": 1519862400000
+          },
+          "content-version": "stm-asf",
+          "delay-in-days": 0,
+          "URL": "https://doi.org/10.15223/policy-037"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "http://xplorestaging.ieee.org/ielx7/6294/8338003/08338009.pdf?arnumber=8338009",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1109%2Fmitp.2018.021921645",
+      "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+      "landingPage": "https://ieeexplore.ieee.org/document/8338009/"
+    },
+    {
+      "id": "src-86c4acbb742d",
+      "doi": "10.1016/j.cbpra.2006.04.008",
+      "title": "Cognitive-Behavior Therapy for Vietnamese Refugees With PTSD and Comorbid Panic Attacks",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Cognitive-Behavior Therapy for Vietnamese Refugees With PTSD and Comorbid Panic Attacks",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2006,
+                11,
+                1
+              ]
+            ],
+            "date-time": "2006-11-01T00:00:00Z",
+            "timestamp": 1162339200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1077722906000927?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1077722906000927?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.cbpra.2006.04.008",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://linkinghub.elsevier.com/retrieve/pii/S1077722906000927"
+    },
+    {
+      "id": "src-2c4944155b58",
+      "doi": "10.2307/41165066",
+      "title": "Converting Social Problems into Business Opportunities: The New Meaning of Corporate Social Responsibility",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Converting Social Problems into Business Opportunities: The New Meaning of Corporate Social Responsibility",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://journals.sagepub.com/doi/pdf/10.2307/41165066",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.2307%2F41165066",
+      "publisher": "SAGE Publications",
+      "landingPage": "http://cmr.ucpress.edu/cgi/doi/10.2307/41165066"
+    },
+    {
+      "id": "src-f9996534c3de",
+      "doi": "10.1509/jmkg.70.4.001",
+      "title": "Corporate Social Responsibility, Customer Satisfaction, and Market Value",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Corporate Social Responsibility, Customer Satisfaction, and Market Value",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2006,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2006-10-01T00:00:00Z",
+            "timestamp": 1159660800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1509/jmkg.70.4.001",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/full-xml/10.1509/jmkg.70.4.001",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1509/jmkg.70.4.001",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1509%2Fjmkg.70.4.001",
+      "publisher": "SAGE Publications",
+      "landingPage": "https://journals.sagepub.com/doi/10.1509/jmkg.70.4.001"
+    },
+    {
+      "id": "src-41119f037bd1",
+      "doi": "10.2139/ssrn.1833581",
+      "title": "CSR and Market Valuation: International Evidence",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "CSR and Market Valuation: International Evidence",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.2139%2Fssrn.1833581",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://www.ssrn.com/abstract=1833581"
+    },
+    {
+      "id": "src-f525470f0e0b",
+      "doi": "10.1007/s12232-016-0259-y",
+      "title": "Does collective meditation foster trust and trustworthiness in an investment game?",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Does collective meditation foster trust and trustworthiness in an investment game?",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                6,
+                11
+              ]
+            ],
+            "date-time": "2016-06-11T00:00:00Z",
+            "timestamp": 1465603200000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s12232-016-0259-y.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1007/s12232-016-0259-y/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s12232-016-0259-y.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1007%2Fs12232-016-0259-y",
+      "publisher": "Springer Science and Business Media LLC",
+      "landingPage": "http://link.springer.com/10.1007/s12232-016-0259-y"
+    },
+    {
+      "id": "src-c05ccb0f9eb2",
+      "doi": "10.47513/mmd.v6i2.180",
+      "title": "Does singing facilitate social bonding",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Does Singing Facilitate Social Bonding?",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://mmd.iammonline.com/index.php/musmed/article/viewFile/180/64",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://mmd.iammonline.com/index.php/musmed/article/viewFile/180/64",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.47513%2Fmmd.v6i2.180",
+      "publisher": "International Association for Music and Medicine",
+      "landingPage": "http://mmd.iammonline.com/index.php/musmed/article/view/MMD-6-2-9"
+    },
+    {
+      "id": "src-51437ce1145b",
+      "doi": "10.1016/j.clsr.2017.03.016",
+      "title": "E-residency and blockchain",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "E-residency and blockchain",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2017-08-01T00:00:00Z",
+            "timestamp": 1501545600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                8,
+                1
+              ]
+            ],
+            "date-time": "2017-08-01T00:00:00Z",
+            "timestamp": 1501545600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                7,
+                19
+              ]
+            ],
+            "date-time": "2018-07-19T00:00:00Z",
+            "timestamp": 1531958400000
+          },
+          "content-version": "am",
+          "delay-in-days": 352,
+          "URL": "http://www.elsevier.com/open-access/userlicense/1.0/"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0267364917300845?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0267364917300845?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.clsr.2017.03.016",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://linkinghub.elsevier.com/retrieve/pii/S0267364917300845"
+    },
+    {
+      "id": "src-f8862893c189",
+      "doi": "10.1080/14640748908402355",
+      "title": "Effects of Background Music on Phonological Short-Term Memory",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Effects of Background Music on Phonological Short-Term Memory",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                1989,
+                2,
+                1
+              ]
+            ],
+            "date-time": "1989-02-01T00:00:00Z",
+            "timestamp": 602294400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1080/14640748908402355",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1080/14640748908402355",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1080%2F14640748908402355",
+      "publisher": "SAGE Publications",
+      "landingPage": "https://journals.sagepub.com/doi/10.1080/14640748908402355"
+    },
+    {
+      "id": "src-feb08f370505",
+      "doi": "10.5298/1081-5937-38.1.28",
+      "title": "Effects of Heart Rate Variability Coherence Biofeedback Training and Emotional Management Techniques to Decrease Music Performance Anxiety",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Effects of Heart Rate Variability Coherence Biofeedback Training and Emotional Management Techniques to Decrease Music Performance Anxiety",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://biofeedback.kglmeridian.com/view/journals/biof/38/1/article-p28.xml",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://meridian.allenpress.com/biofeedback/article-pdf/38/1/28/1474220/1081-5937-38_1_28.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://biofeedback.kglmeridian.com/downloadpdf/journals/biof/38/1/article-p28.xml",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://biofeedback.kglmeridian.com/downloadpdf/journals/biof/38/1/article-p28.xml",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.5298%2F1081-5937-38.1.28",
+      "publisher": "Association for Applied Psychophysiology and Biofeedback",
+      "landingPage": "https://biofeedback.kglmeridian.com/view/journals/biof/38/1/article-p28.xml"
+    },
+    {
+      "id": "src-f265f80eb04c",
+      "doi": "10.5172/jamh.3.3.88",
+      "title": "Engagement of Indigenous clients in mental health services: What role do cultural differences play?",
+      "status": "identity-review",
+      "matchedTitle": "Guest Editorial",
+      "titleSimilarity": 0.1429,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://www.tandfonline.com/doi/pdf/10.5172/jamh.3.3.88",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.5172%2Fjamh.3.3.88",
+      "publisher": "Informa UK Limited",
+      "landingPage": "https://www.tandfonline.com/doi/full/10.5172/jamh.3.3.88"
+    },
+    {
+      "id": "src-0f4a427987f6",
+      "doi": "10.1111/j.1440-1630.2005.00507.x",
+      "title": "Exploration of Australian and New Zealand indigenous people's spirituality and mental health",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Exploration of Australian and New Zealand indigenous people's spirituality and mental health",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2005,
+                8,
+                12
+              ]
+            ],
+            "date-time": "2005-08-12T00:00:00Z",
+            "timestamp": 1123804800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1440-1630.2005.00507.x",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1440-1630.2005.00507.x",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1111%2Fj.1440-1630.2005.00507.x",
+      "publisher": "Wiley",
+      "landingPage": "https://onlinelibrary.wiley.com/doi/10.1111/j.1440-1630.2005.00507.x"
+    },
+    {
+      "id": "src-47a527b4dc03",
+      "doi": "10.1093/mtp/miw004",
+      "title": "Exploring the Meaning of a Performance in Music Therapy for Children and Their Families Experiencing Homelessness and Family Violence",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Exploring the Meaning of a Performance in Music Therapy for Children and Their Families Experiencing Homelessness and Family Violence",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://academic.oup.com/mtp/article-pdf/35/1/36/11198031/miw004.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1093%2Fmtp%2Fmiw004",
+      "publisher": "Oxford University Press (OUP)",
+      "landingPage": "https://academic.oup.com/mtp/article-lookup/doi/10.1093/mtp/miw004"
+    },
+    {
+      "id": "src-be413ddf58a1",
+      "doi": "10.1037/e537372011-001",
+      "title": "Facilitating Emotional Self ‐ Regulation in Preschool Children: Efficacy of the Early HeartSmarts Program in Promoting Social, Emotional and Cognitive Development",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Facilitating Emotional Self-Regulation in Preschool Children: Efficacy of the Early HeartSmarts Program in Promoting Social, Emotional and Cognitive Development",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.1037%2Fe537372011-001",
+      "publisher": "American Psychological Association (APA)",
+      "landingPage": "https://doi.apa.org/doi/10.1037/e537372011-001"
+    },
+    {
+      "id": "src-96965bda66df",
+      "doi": "10.1016/s0197-4556(04)00024-3",
+      "title": "From healing rituals to music therapy: bridging the cultural divide between therapist and young Sudanese refugees",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "From healing rituals to music therapy: bridging the cultural divide between therapist and young Sudanese refugees",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2004,
+                5,
+                1
+              ]
+            ],
+            "date-time": "2004-05-01T00:00:00Z",
+            "timestamp": 1083369600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0197-4556(04)00024-3?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0197-4556(04)00024-3?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1016%2Fs0197-4556%2804%2900024-3",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://linkinghub.elsevier.com/retrieve/pii/S0197455604000243"
+    },
+    {
+      "id": "src-29d7f1722875",
+      "doi": "10.1111/j.1468-0297.1997.tb00085.x",
+      "title": "Happiness and Economic Performance",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Happiness and Economic Performance",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2015,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2015-09-01T00:00:00Z",
+            "timestamp": 1441065600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 6513,
+          "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1468-0297.1997.tb00085.x",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://academic.oup.com/ej/article-pdf/107/445/1815/26640298/ej1815.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1111%2Fj.1468-0297.1997.tb00085.x",
+      "publisher": "Oxford University Press (OUP)",
+      "landingPage": "https://academic.oup.com/ej/article/107/445/1815/5063980"
+    },
+    {
+      "id": "src-d14e94a49dd0",
+      "doi": "10.2139/ssrn.1369806",
+      "title": "Happiness and Growth the World Over: Time Series Evidence on the Happiness-Income Paradox",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Happiness and Growth the World Over: Time Series Evidence on the Happiness-Income Paradox",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.2139%2Fssrn.1369806",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://www.ssrn.com/abstract=1369806"
+    },
+    {
+      "id": "src-56579cb2ab4b",
+      "doi": "10.1111/j.1467-8462.2006.00408.x",
+      "title": "Happiness and the Human Development Index: Australia Is Not a Paradox",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Happiness and the Human Development Index: Australia Is Not a Paradox",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2015,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2015-09-01T00:00:00Z",
+            "timestamp": 1441065600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 3379,
+          "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fj.1467-8462.2006.00408.x",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://onlinelibrary.wiley.com/wol1/doi/10.1111/j.1467-8462.2006.00408.x/fullpdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1111%2Fj.1467-8462.2006.00408.x",
+      "publisher": "Wiley",
+      "landingPage": "https://onlinelibrary.wiley.com/doi/10.1111/j.1467-8462.2006.00408.x"
+    },
+    {
+      "id": "src-61127c5b6ae5",
+      "doi": "10.3386/w11416",
+      "title": "Happiness and the Human Development Index: The Paradox of Australia",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Happiness and the Human Development Index: The Paradox of Australia",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.3386%2Fw11416",
+      "publisher": "National Bureau of Economic Research",
+      "landingPage": "http://www.nber.org/papers/w11416.pdf"
+    },
+    {
+      "id": "src-539bacc5aeee",
+      "doi": "10.1027/0269-8803/a000021",
+      "title": "Heart Rate Variability, Emotions, and Music",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Heart Rate Variability, Emotions, and Music",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://econtent.hogrefe.com/doi/pdf/10.1027/0269-8803/a000021",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1027%2F0269-8803%2Fa000021",
+      "publisher": "Hogrefe Publishing Group",
+      "landingPage": "https://econtent.hogrefe.com/doi/10.1027/0269-8803/a000021"
+    },
+    {
+      "id": "src-d6a462d1d122",
+      "doi": "10.1023/A:1019795911358",
+      "title": "Hip Hop Therapy: An Exploratory Study of a Rap Music Intervention with At-Risk and Delinquent Youth",
+      "status": "identity-review",
+      "matchedTitle": "",
+      "titleSimilarity": 0.0,
+      "licenses": [],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.1023%2FA%3A1019795911358",
+      "publisher": "Informa UK Limited",
+      "landingPage": "http://link.springer.com/10.1023/A:1019795911358"
+    },
+    {
+      "id": "src-3f9a5ebd9493",
+      "doi": "10.1177/135945750501900205",
+      "title": "Holding a Steady Beat: The Effects of a Music Therapy Program on Stabilising Behaviours of Newly Arrived Refugee Students",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Holding a Steady Beat: The Effects of a Music Therapy Program on Stabilising Behaviours of Newly Arrived Refugee Students",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2005,
+                12,
+                1
+              ]
+            ],
+            "date-time": "2005-12-01T00:00:00Z",
+            "timestamp": 1133395200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://journals.sagepub.com/page/policies/text-and-data-mining-license"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/135945750501900205",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://journals.sagepub.com/doi/pdf/10.1177/135945750501900205",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1177%2F135945750501900205",
+      "publisher": "SAGE Publications",
+      "landingPage": "https://journals.sagepub.com/doi/10.1177/135945750501900205"
+    },
+    {
+      "id": "src-e981e4a9d34d",
+      "doi": "10.5298/1081-5937-41.1.02",
+      "title": "How Does Heart Rate Variability Biofeedback Work? Resonance, the Baroreflex, and Other Mechanisms",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "How Does Heart Rate Variability Biofeedback Work? Resonance, the Baroreflex, and Other Mechanisms",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://biofeedback.kglmeridian.com/view/journals/biof/41/1/article-p26.xml",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://meridian.allenpress.com/biofeedback/article-pdf/41/1/26/1617475/1081-5937-41_1_02.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://biofeedback.kglmeridian.com/downloadpdf/journals/biof/41/1/article-p26.xml",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "https://biofeedback.kglmeridian.com/downloadpdf/journals/biof/41/1/article-p26.xml",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.5298%2F1081-5937-41.1.02",
+      "publisher": "Association for Applied Psychophysiology and Biofeedback",
+      "landingPage": "https://biofeedback.kglmeridian.com/view/journals/biof/41/1/article-p26.xml"
+    },
+    {
+      "id": "src-ec9560b5ddc0",
+      "doi": "10.1140/epjds/s13688-017-0110-z",
+      "title": "Instagram photos reveal predictive markers of depression",
+      "status": "open-license-reported",
+      "matchedTitle": "Instagram photos reveal predictive markers of depression",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                8,
+                8
+              ]
+            ],
+            "date-time": "2017-08-08T00:00:00Z",
+            "timestamp": 1502150400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                8,
+                8
+              ]
+            ],
+            "date-time": "2017-08-08T00:00:00Z",
+            "timestamp": 1502150400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1140/epjds/s13688-017-0110-z.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1140/epjds/s13688-017-0110-z/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1140/epjds/s13688-017-0110-z.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1140%2Fepjds%2Fs13688-017-0110-z",
+      "publisher": "Springer Science and Business Media LLC",
+      "landingPage": "https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-017-0110-z"
+    },
+    {
+      "id": "src-2fc73b5bedff",
+      "doi": "10.1007/s12671-016-0581-1",
+      "title": "Integrating Mindfulness into Positive Psychology: a Randomised Controlled Trial of an Online Positive Mindfulness Program",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Integrating Mindfulness into Positive Psychology: a Randomised Controlled Trial of an Online Positive Mindfulness Program",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                7,
+                23
+              ]
+            ],
+            "date-time": "2016-07-23T00:00:00Z",
+            "timestamp": 1469232000000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s12671-016-0581-1.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1007/s12671-016-0581-1/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s12671-016-0581-1.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1007%2Fs12671-016-0581-1",
+      "publisher": "Springer Science and Business Media LLC",
+      "landingPage": "http://link.springer.com/10.1007/s12671-016-0581-1"
+    },
+    {
+      "id": "src-1f31858ead8a",
+      "doi": "10.1016/j.jveb.2014.09.050",
+      "title": "Intranasally administered oxytocin decreases heart rate and increases heart rate variability in dogs",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Intranasally administered oxytocin decreases heart rate and increases heart rate variability in dogs",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2014,
+                11,
+                1
+              ]
+            ],
+            "date-time": "2014-11-01T00:00:00Z",
+            "timestamp": 1414800000000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1558787814001762?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S1558787814001762?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.jveb.2014.09.050",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://linkinghub.elsevier.com/retrieve/pii/S1558787814001762"
+    },
+    {
+      "id": "src-87eb83ef302f",
+      "doi": "10.1080/13691830500487266",
+      "title": "Introduction: Music and Migration",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Introduction: Music and Migration",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://www.tandfonline.com/doi/pdf/10.1080/13691830500487266",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1080%2F13691830500487266",
+      "publisher": "Informa UK Limited",
+      "landingPage": "http://www.tandfonline.com/doi/abs/10.1080/13691830500487266"
+    },
+    {
+      "id": "src-2de5a21f0816",
+      "doi": "10.4000/questionsdecommunication.12523",
+      "title": "Life, Connectivity and Integration of Syrian Refugees in Turkey: Surviving through a Smartphone",
+      "status": "open-license-reported",
+      "matchedTitle": "Life, Connectivity and Integration of Syrian Refugees in Turkey: Surviving through a Smartphone",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2018-01-01T00:00:00Z",
+            "timestamp": 1514764800000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.4000%2Fquestionsdecommunication.12523",
+      "publisher": "OpenEdition",
+      "landingPage": "https://journals.openedition.org/questionsdecommunication/12523"
+    },
+    {
+      "id": "src-c5f78a99d96b",
+      "doi": "10.1037/a0024485",
+      "title": "mHealth for Mental Health: Integrating smartphone technology in behavioural healthcare",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "mHealth for mental health: Integrating smartphone technology in behavioral healthcare.",
+      "titleSimilarity": 0.9934,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://psycnet.apa.org/journals/pro/42/6/505.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1037%2Fa0024485",
+      "publisher": "American Psychological Association (APA)",
+      "landingPage": "https://doi.apa.org/doi/10.1037/a0024485"
+    },
+    {
+      "id": "src-cfebd98a61bb",
+      "doi": "10.1086/684107",
+      "title": "Mindfulness Intervention with Homeless Youth",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Mindfulness Intervention with Homeless Youth",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://www.journals.uchicago.edu/doi/pdf/10.1086/684107",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1086%2F684107",
+      "publisher": "University of Chicago Press",
+      "landingPage": "https://www.journals.uchicago.edu/doi/10.1086/684107"
+    },
+    {
+      "id": "src-20d1ad4a5931",
+      "doi": "10.3828/msmi.1.1.7",
+      "title": "Music and Memory in Advertising: Music as a Device of Implicit Learning and Recall",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "<b>Music and Memory in Advertising</b>\n                    : Music as a Device of Implicit Learning and Recall",
+      "titleSimilarity": 0.9855,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://www.liverpooluniversitypress.co.uk/doi/pdf/10.3828/msmi.1.1.7",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.3828%2Fmsmi.1.1.7",
+      "publisher": "Liverpool University Press",
+      "landingPage": "http://www.liverpooluniversitypress.co.uk/doi/10.3828/msmi.1.1.7"
+    },
+    {
+      "id": "src-14af5866007b",
+      "doi": "10.15845/voices.v16i3.865",
+      "title": "Neo-colonialism In Music Therapy: A Critical Interpretive Synthesis of the Literature Concerning Music Therapy Practice With Refugees",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Neo-colonialism In Music Therapy: A Critical Interpretive Synthesis of the Literature Concerning Music Therapy Practice With Refugees",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://voices.no/index.php/voices/article/download/2299/2054",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://voices.no/index.php/voices/article/download/2299/2054",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.15845%2Fvoices.v16i3.865",
+      "publisher": "Universtity of Bergen Library",
+      "landingPage": "https://voices.no/index.php/voices/article/view/2299"
+    },
+    {
+      "id": "src-6b8b9506be26",
+      "doi": "10.1007/s12671-019-01141-7",
+      "title": "Neurogenetic Mechanisms of Self-Compassionate Mindfulness: the Role of Oxytocin-Receptor Genes",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Neurogenetic Mechanisms of Self-Compassionate Mindfulness: the Role of Oxytocin-Receptor Genes",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                3,
+                23
+              ]
+            ],
+            "date-time": "2019-03-23T00:00:00Z",
+            "timestamp": 1553299200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "http://www.springer.com/tdm"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s12671-019-01141-7.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/article/10.1007/s12671-019-01141-7/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s12671-019-01141-7.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1007%2Fs12671-019-01141-7",
+      "publisher": "Springer Science and Business Media LLC",
+      "landingPage": "http://link.springer.com/10.1007/s12671-019-01141-7"
+    },
+    {
+      "id": "src-5ccef969cd6a",
+      "doi": "10.1016/j.aip.2016.05.012",
+      "title": "Out of our mind. Art therapy and mindfulness with refugees, political violence and trauma",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Out of our mind. Art therapy and mindfulness with refugees, political violence and trauma",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2016-07-01T00:00:00Z",
+            "timestamp": 1467331200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                7,
+                1
+              ]
+            ],
+            "date-time": "2016-07-01T00:00:00Z",
+            "timestamp": 1467331200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0197455616300867?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0197455616300867?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.aip.2016.05.012",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://linkinghub.elsevier.com/retrieve/pii/S0197455616300867"
+    },
+    {
+      "id": "src-18b777c33bb6",
+      "doi": "10.4236/jss.2013.16007",
+      "title": "Personality and Heart Rate Variability: Exploring Pathways from Personality to Cardiac Coherence and Health",
+      "status": "open-license-reported",
+      "matchedTitle": "Personality and Heart Rate Variability: Exploring Pathways from Personality to Cardiac Coherence and Health",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2013,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2013-01-01T00:00:00Z",
+            "timestamp": 1356998400000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "http://www.scirp.org/journal/PaperDownload.aspx?DOI=10.4236/jss.2013.16007",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.scirp.org/journal/paperinformation?paperid=40317",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.scirp.org/journal/paperinformation?paperid=40317",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.4236%2Fjss.2013.16007",
+      "publisher": "Scientific Research Publishing, Inc.",
+      "landingPage": "https://www.scirp.org/journal/paperinformation?paperid=40317"
+    },
+    {
+      "id": "src-346c18a7b207",
+      "doi": "10.1609/icwsm.v7i1.14432",
+      "title": "Predicting Depression via Social Media",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Predicting Depression via Social Media",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://ojs.aaai.org/index.php/ICWSM/article/download/14432/14281",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://ojs.aaai.org/index.php/ICWSM/article/download/14432/14281",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1609%2Ficwsm.v7i1.14432",
+      "publisher": "Association for the Advancement of Artificial Intelligence (AAAI)",
+      "landingPage": "https://ojs.aaai.org/index.php/ICWSM/article/view/14432"
+    },
+    {
+      "id": "src-0306fa89e427",
+      "doi": "10.1145/2470654.2466447",
+      "title": "Predicting Postpartum Changes in Emotion and Behavior via Social Media",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Predicting postpartum changes in emotion and behavior via social media",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2013,
+                4,
+                27
+              ]
+            ],
+            "date-time": "2013-04-27T00:00:00Z",
+            "timestamp": 1367020800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.acm.org/publications/policies/copyright_policy#Background"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://dl.acm.org/doi/10.1145/2470654.2466447",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://dl.acm.org/doi/pdf/10.1145/2470654.2466447",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1145%2F2470654.2466447",
+      "publisher": "ACM",
+      "landingPage": "https://dl.acm.org/doi/10.1145/2470654.2466447"
+    },
+    {
+      "id": "src-6a76d25fd47a",
+      "doi": "10.3115/v1/w14-3207",
+      "title": "Quantifying Mental Health Signals in Twitter",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Quantifying Mental Health Signals in Twitter",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.3115%2Fv1%2Fw14-3207",
+      "publisher": "Association for Computational Linguistics",
+      "landingPage": "http://aclweb.org/anthology/W14-3207"
+    },
+    {
+      "id": "src-c04464bc7c82",
+      "doi": "10.1142/S0219607706000171",
+      "title": "Quantum Computing, Grover’s Search Algorithm and its Application in Bioinformatics",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "QUANTUM COMPUTING, GROVER'S SEARCH ALGORITHM AND ITS APPLICATIONS IN BIOINFORMATICS",
+      "titleSimilarity": 0.993,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://www.worldscientific.com/doi/pdf/10.1142/S0219607706000171",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1142%2FS0219607706000171",
+      "publisher": "World Scientific Pub Co Pte Lt",
+      "landingPage": "https://www.worldscientific.com/doi/abs/10.1142/S0219607706000171"
+    },
+    {
+      "id": "src-bf0334ee2411",
+      "doi": "10.1117/12.806121",
+      "title": "Re-entry: online virtual worlds as a healing space for veterans",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Re-entry: online virtual worlds as a healing space for veterans",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.1117%2F12.806121",
+      "publisher": "SPIE",
+      "landingPage": "http://proceedings.spiedigitallibrary.org/proceeding.aspx?doi=10.1117/12.806121"
+    },
+    {
+      "id": "src-8b2ea769f9f9",
+      "doi": "10.1103/physrevx.6.031007",
+      "title": "Scalable Quantum Simulation of Molecular Energies",
+      "status": "open-license-reported",
+      "matchedTitle": "Scalable Quantum Simulation of Molecular Energies",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2016,
+                7,
+                18
+              ]
+            ],
+            "date-time": "2016-07-18T00:00:00Z",
+            "timestamp": 1468800000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/3.0/"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "http://link.aps.org/article/10.1103/PhysRevX.6.031007",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "syndication"
+        },
+        {
+          "URL": "http://harvest.aps.org/v2/journals/articles/10.1103/PhysRevX.6.031007/fulltext",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1103%2Fphysrevx.6.031007",
+      "publisher": "American Physical Society (APS)",
+      "landingPage": "https://link.aps.org/doi/10.1103/PhysRevX.6.031007"
+    },
+    {
+      "id": "src-b8f0554d49a8",
+      "doi": "10.56431/p-ly2br0",
+      "title": "Schumann Resonance Frequencies Found within Quantitative Electroencephalographic Activity: Implications for Earth-Brain Interactions",
+      "status": "open-license-reported",
+      "matchedTitle": "Schumann Resonance Frequencies Found within Quantitative Electroencephalographic Activity: Implications for Earth-Brain Interactions",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2014,
+                3,
+                12
+              ]
+            ],
+            "date-time": "2014-03-12T00:00:00Z",
+            "timestamp": 1394582400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2014,
+                3,
+                12
+              ]
+            ],
+            "date-time": "2014-03-12T00:00:00Z",
+            "timestamp": 1394582400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.academicoa.com/license/TDM_Licenser.pdf"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://www.academicoa.com/ILCPA.30.24.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.56431%2Fp-ly2br0",
+      "publisher": "AOA Academic Open Access Ltd.",
+      "landingPage": "https://www.academicoa.com/ILCPA.30.24"
+    },
+    {
+      "id": "src-cec16e08a07b",
+      "doi": "10.1109/hicss.2015.351",
+      "title": "Social Media, Big Data, and Public Health Informatics: Ruminating Behavior of Depression Revealed through Twitter",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Social Media, Big Data, and Public Health Informatics: Ruminating Behavior of Depression Revealed through Twitter",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://xplorestaging.ieee.org/ielx7/7068092/7069647/07070166.pdf?arnumber=7070166",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1109%2Fhicss.2015.351",
+      "publisher": "IEEE",
+      "landingPage": "http://ieeexplore.ieee.org/document/7070166/"
+    },
+    {
+      "id": "src-8efda8da414f",
+      "doi": "10.4236/psych.2014.51013",
+      "title": "Stress Management Based on Trait ‐ Anxiety Levels and Sleep Quality in Middle ‐ Aged Employees Confronted with Psychosocial Chronic Stress",
+      "status": "open-license-reported",
+      "matchedTitle": "Stress Management Based on Trait-Anxiety Levels and Sleep Quality in Middle-Aged Employees Confronted with Psychosocial Chronic Stress",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2014,
+                1,
+                1
+              ]
+            ],
+            "date-time": "2014-01-01T00:00:00Z",
+            "timestamp": 1388534400000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "http://www.scirp.org/journal/PaperDownload.aspx?DOI=10.4236/psych.2014.51013",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.scirp.org/journal/paperinformation?paperid=42515",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.scirp.org/journal/paperinformation?paperid=42515",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.4236%2Fpsych.2014.51013",
+      "publisher": "Scientific Research Publishing, Inc.",
+      "landingPage": "https://www.scirp.org/journal/paperinformation?paperid=42515"
+    },
+    {
+      "id": "doi-5bb0d2cb9d5aa958",
+      "doi": "10.1007/1-4020-3103-3_50",
+      "title": "Suppression of Oxidative Stress-Induced Apoptosis of Neuronal Cells by Electrolyzed-Reduced Water",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Suppression of Oxidative Stress-Induced Apoptosis of Neuronal Cells by Electrolyzed-Reduced Water",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/1-4020-3103-3_50.pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1007%2F1-4020-3103-3_50",
+      "publisher": "Springer-Verlag",
+      "landingPage": "http://link.springer.com/10.1007/1-4020-3103-3_50"
+    },
+    {
+      "id": "src-b3cbba6f11c8",
+      "doi": "10.1108/ITP-04-2014-0083",
+      "title": "The digital divide and social inclusion among refugee migrants: A case in regional Australia",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "The digital divide and social inclusion among refugee migrants",
+      "titleSimilarity": 0.8182,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2015,
+                6,
+                1
+              ]
+            ],
+            "date-time": "2015-06-01T00:00:00Z",
+            "timestamp": 1433116800000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.emerald.com/insight/site-policies"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "http://www.emeraldinsight.com/doi/full-xml/10.1108/ITP-04-2014-0083",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.emerald.com/insight/content/doi/10.1108/ITP-04-2014-0083/full/xml",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.emerald.com/insight/content/doi/10.1108/ITP-04-2014-0083/full/html",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1108%2FITP-04-2014-0083",
+      "publisher": "Emerald",
+      "landingPage": "http://www.emerald.com/itp/article/28/2/344-365/180452"
+    },
+    {
+      "id": "src-76124b78a2d9",
+      "doi": "10.4172/2155-6105.1000335",
+      "title": "The Effects of 528 Hz Sound Wave to Reduce Cell Death in Human Astrocyte Primary Cell Culture Treated with Ethanol",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "The Effects of 528 Hz Sound Wave to Reduce Cell Death in Human Astrocyte Primary Cell Culture Treated with Ethanol",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.4172%2F2155-6105.1000335",
+      "publisher": "OMICS Publishing Group",
+      "landingPage": "https://www.omicsonline.org/open-access/the-effects-of-528-hz-sound-wave-to-reduce-cell-death-in-human-astrocyteprimary-cell-culture-treated-with-ethanol-2155-6105-1000335.php?aid=91771"
+    },
+    {
+      "id": "src-1a2a9900c208",
+      "doi": "10.1891/1933-3196.12.3.105",
+      "title": "The Effects of the EMDR Group Traumatic Episode Protocol With Cancer Survivors",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "The Effects of the EMDR Group Traumatic Episode Protocol With Cancer Survivors",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://spj.science.org/doi/pdf/10.1891/1933-3196.12.3.105",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1891%2F1933-3196.12.3.105",
+      "publisher": "American Association for the Advancement of Science (AAAS)",
+      "landingPage": "https://spj.science.org/doi/10.1891/1933-3196.12.3.105"
+    },
+    {
+      "id": "src-d54916eb47e9",
+      "doi": "10.4324/9780203763834-16",
+      "title": "The Electricity of Touch: Detection and Measurement of Cardiac Energy Exchange Between People",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "The Electricity of Touch: Detection and measurement of cardiac energy exchange between people",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.4324%2F9780203763834-16",
+      "publisher": "Psychology Press",
+      "landingPage": "https://www.taylorfrancis.com/books/9781134997855/chapters/10.4324/9780203763834-16"
+    },
+    {
+      "id": "src-34b978285d9c",
+      "doi": "10.1080/00014788.2018.1470141",
+      "title": "The expansion of non-financial reporting: an exploratory study",
+      "status": "open-license-reported",
+      "matchedTitle": "The expansion of non-financial reporting: an exploratory study",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                6,
+                4
+              ]
+            ],
+            "date-time": "2018-06-04T00:00:00Z",
+            "timestamp": 1528070400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://tandfonline.com/doi/pdf/10.1080/00014788.2018.1470141",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.tandfonline.com/doi/pdf/10.1080/00014788.2018.1470141",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1080%2F00014788.2018.1470141",
+      "publisher": "Informa UK Limited",
+      "landingPage": "https://www.tandfonline.com/doi/full/10.1080/00014788.2018.1470141"
+    },
+    {
+      "id": "src-beb7877d1a26",
+      "doi": "10.1037/e578192014-307",
+      "title": "The Fresh Start Effect: Temporal Landmarks Motivate Aspirational Behavior",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "The fresh start effect: Temporal landmarks motivate aspirational behavior",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.1037%2Fe578192014-307",
+      "publisher": "American Psychological Association (APA)",
+      "landingPage": "https://doi.apa.org/doi/10.1037/e578192014-307"
+    },
+    {
+      "id": "src-8f2595a8750f",
+      "doi": "10.1080/14330237.2016.1163915",
+      "title": "The Global Coherence Initiative: A Global Psychological Paradigm for Health Promotion",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "The Global Coherence Initiative: A global psychological paradigm for health promotion",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "https://www.tandfonline.com/doi/pdf/10.1080/14330237.2016.1163915",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1080%2F14330237.2016.1163915",
+      "publisher": "Tech Science Press",
+      "landingPage": "https://www.tandfonline.com/doi/full/10.1080/14330237.2016.1163915"
+    },
+    {
+      "id": "src-a3bba47bba9b",
+      "doi": "10.21595/chs.2018.20480",
+      "title": "The Influence of Heart Coherence on Synchronization Between Human Heart Rate Variability and Geomagnetic Activity",
+      "status": "open-license-reported",
+      "matchedTitle": "The influence of heart coherence on synchronization between human heart rate variability and geomagnetic activity",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                12,
+                31
+              ]
+            ],
+            "date-time": "2018-12-31T00:00:00Z",
+            "timestamp": 1546214400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://www.jvejournals.com/article/20480/pdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        },
+        {
+          "URL": "https://www.extrica.com/article/20480/pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.21595%2Fchs.2018.20480",
+      "publisher": "JVE International Ltd.",
+      "landingPage": "https://www.extrica.com/article/20480"
+    },
+    {
+      "id": "src-81feac0bd644",
+      "doi": "10.2139/ssrn.285918",
+      "title": "The Macroeconomics of Happiness",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "The Macroeconomics of Happiness",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.2139%2Fssrn.285918",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://www.ssrn.com/abstract=285918"
+    },
+    {
+      "id": "src-87bf47f60a24",
+      "doi": "10.1002/jaal.254",
+      "title": "The Role of Digital Literacy Practices on Refugee Resettlement",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "The Role of Digital Literacy Practices on Refugee Resettlement",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2015,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2015-09-01T00:00:00Z",
+            "timestamp": 1441065600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 656,
+          "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fjaal.254",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://onlinelibrary.wiley.com/wol1/doi/10.1002/jaal.254/fullpdf",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1002%2Fjaal.254",
+      "publisher": "Wiley",
+      "landingPage": "https://onlinelibrary.wiley.com/doi/10.1002/jaal.254"
+    },
+    {
+      "id": "src-e73970c48306",
+      "doi": "10.1007/s12671-012-0158-6",
+      "title": "The Role of Mindfulness and Loving-Kindness Meditation in Cultivating Self-Compassion and Other-Focused Concern in Health Care Professionals",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "The Role of Mindfulness and Loving-Kindness Meditation in Cultivating Self-Compassion and Other-Focused Concern in Health Care Professionals",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                10,
+                21
+              ]
+            ],
+            "date-time": "2012-10-21T00:00:00Z",
+            "timestamp": 1350777600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2012,
+                10,
+                21
+              ]
+            ],
+            "date-time": "2012-10-21T00:00:00Z",
+            "timestamp": 1350777600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s12671-012-0158-6.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1007/s12671-012-0158-6/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "http://link.springer.com/content/pdf/10.1007/s12671-012-0158-6",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1007/s12671-012-0158-6.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1007%2Fs12671-012-0158-6",
+      "publisher": "Springer Science and Business Media LLC",
+      "landingPage": "https://link.springer.com/10.1007/s12671-012-0158-6"
+    },
+    {
+      "id": "src-5f4dece4d525",
+      "doi": "10.1108/17479894200600002",
+      "title": "Torture, Mental Health Status and the Outcomes of Refugee Applications among Recently Arrived Asylum Seekers in Australia",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Torture, Mental Health Status and the Outcomes of Refugee Applications among Recently Arrived Asylum Seekers in Australia",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2006,
+                3,
+                1
+              ]
+            ],
+            "date-time": "2006-03-01T00:00:00Z",
+            "timestamp": 1141171200000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.emerald.com/insight/site-policies"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://www.emerald.com/insight/content/doi/10.1108/17479894200600002/full/xml",
+          "content-type": "application/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://www.emerald.com/insight/content/doi/10.1108/17479894200600002/full/html",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1108%2F17479894200600002",
+      "publisher": "Emerald",
+      "landingPage": "http://www.emerald.com/ijmhsc/article/2/1/4-14/147518"
+    },
+    {
+      "id": "src-ea7973a48c81",
+      "doi": "10.14485/hbpr.2.2.4",
+      "title": "Trait Mindfulness and Stress among Homeless Adults",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Trait Mindfulness and Stress among Homeless Adults",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.14485%2Fhbpr.2.2.4",
+      "publisher": "Paris Scholar Publishing",
+      "landingPage": "http://openurl.ingenta.com/content/xref?genre=article&issn=2326-4403&volume=2&issue=2&spage=122"
+    },
+    {
+      "id": "src-91f34e20ce39",
+      "doi": "10.1016/j.aip.2009.07.002",
+      "title": "Traumatised refugees: An integrated dance and verbal therapy approach",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Traumatised refugees: An integrated dance and verbal therapy approach",
+      "titleSimilarity": 1.0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2009,
+                11,
+                1
+              ]
+            ],
+            "date-time": "2009-11-01T00:00:00Z",
+            "timestamp": 1257033600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2009,
+                11,
+                1
+              ]
+            ],
+            "date-time": "2009-11-01T00:00:00Z",
+            "timestamp": 1257033600000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.elsevier.com/legal/tdmrep-license"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0197455609000768?httpAccept=text/xml",
+          "content-type": "text/xml",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://api.elsevier.com/content/article/PII:S0197455609000768?httpAccept=text/plain",
+          "content-type": "text/plain",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1016%2Fj.aip.2009.07.002",
+      "publisher": "Elsevier BV",
+      "landingPage": "https://linkinghub.elsevier.com/retrieve/pii/S0197455609000768"
+    },
+    {
+      "id": "src-1c956a43ab59",
+      "doi": "10.1080/17542860903411615",
+      "title": "Using cultural relaxation methods in post-trauma care among refugees in Australia",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Using cultural relaxation methods in post-trauma care among refugees in Australia",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://www.tandfonline.com/doi/pdf/10.1080/17542860903411615",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1080%2F17542860903411615",
+      "publisher": "Informa UK Limited",
+      "landingPage": "http://www.tandfonline.com/doi/abs/10.1080/17542860903411615"
+    },
+    {
+      "id": "src-cd60e63a37c8",
+      "doi": "10.1023/A:1024790530822",
+      "title": "Wealth and Happiness Revisited – Growing National Income Does Go with Greater Happiness Social Indicator Research",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Wealth and Happiness Revisited – Growing National Income Does Go with Greater Happiness",
+      "titleSimilarity": 0.8655,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2003,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2003-10-01T00:00:00Z",
+            "timestamp": 1064966400000
+          },
+          "content-version": "tdm",
+          "delay-in-days": 0,
+          "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        },
+        {
+          "start": {
+            "date-parts": [
+              [
+                2003,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2003-10-01T00:00:00Z",
+            "timestamp": 1064966400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        }
+      ],
+      "fullTextLinks": [
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1023/A:1024790530822.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/article/10.1023/A:1024790530822/fulltext.html",
+          "content-type": "text/html",
+          "content-version": "vor",
+          "intended-application": "text-mining"
+        },
+        {
+          "URL": "https://link.springer.com/content/pdf/10.1023/A:1024790530822.pdf",
+          "content-type": "application/pdf",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1023%2FA%3A1024790530822",
+      "publisher": "Springer Science and Business Media LLC",
+      "landingPage": "https://link.springer.com/10.1023/A:1024790530822"
+    },
+    {
+      "id": "src-e9e860c4c356",
+      "doi": "10.1257/002205102320161320",
+      "title": "What Can Economists Learn from Happiness Research?",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "What Can Economists Learn from Happiness Research?",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [],
+      "metadataSource": "https://api.crossref.org/works/10.1257%2F002205102320161320",
+      "publisher": "American Economic Association",
+      "landingPage": "http://pubs.aeaweb.org/doi/abs/10.1257/002205102320161320"
+    },
+    {
+      "id": "src-3fd04fd75050",
+      "doi": "10.1109/ghtc.2014.6970348",
+      "title": "Youth StreetConnect - Helping homeless young women",
+      "status": "no-open-license-in-metadata",
+      "matchedTitle": "Youth StreetConnect - Helping homeless young women",
+      "titleSimilarity": 1.0,
+      "licenses": [],
+      "fullTextLinks": [
+        {
+          "URL": "http://xplorestaging.ieee.org/ielx7/6958780/6970242/06970348.pdf?arnumber=6970348",
+          "content-type": "unspecified",
+          "content-version": "vor",
+          "intended-application": "similarity-checking"
+        }
+      ],
+      "metadataSource": "https://api.crossref.org/works/10.1109%2Fghtc.2014.6970348",
+      "publisher": "IEEE",
+      "landingPage": "http://ieeexplore.ieee.org/document/6970348/"
+    }
+  ]
+}

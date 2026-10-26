@@ -1,0 +1,29 @@
+{
+  "project": "syn78366147",
+  "folder": "syn78381228",
+  "manifestSHA256": "bb58969077955a39aa0f276fe231460c63412b99753e0e8ec633fa01ad6958d9",
+  "status": "uploaded",
+  "files": [
+    {
+      "name": "d6f1ff781e6c37c30d6ee25e6079ca13cd7e8c81efd665a3ce0801ec3b9dc58c-study.csv",
+      "id": "syn78381229",
+      "version": 1
+    },
+    {
+      "name": "d6f1ff781e6c37c30d6ee25e6079ca13cd7e8c81efd665a3ce0801ec3b9dc58c-study.json",
+      "id": "syn78381230",
+      "version": 1
+    },
+    {
+      "name": "manifest.json",
+      "id": "syn78381231",
+      "version": 1
+    },
+    {
+      "name": "integrity.json",
+      "id": "syn78381232",
+      "version": 1
+    }
+  ],
+  "completedAt": "2026-10-26T00:40:12.431477+00:00"
+}

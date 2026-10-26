@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "records": 1001,
+  "unique_moduli": 1001,
+  "range": [
+    1,
+    1001
+  ],
+  "m9_family_records": 111,
+  "assessments": 3003,
+  "publications_per_record": 14,
+  "native_periods_and_geometry_match_json": true,
+  "new_native_and_reduced_sequence_properties_match_json": true,
+  "family_repeat_counts_match_json": true,
+  "epsilon_reference_paths_distinct_from_native_369": true,
+  "duplicate_records": 0,
+  "assigned_wss": 0,
+  "assigned_ss": 0,
+  "full_page_sequence_samples": [
+    750,
+    999,
+    1001
+  ],
+  "epsilon_reference_page_readbacks": 18
+}

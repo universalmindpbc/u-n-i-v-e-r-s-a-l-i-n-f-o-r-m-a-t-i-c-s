@@ -1,0 +1,61 @@
+{
+  "passed": true,
+  "live": true,
+  "processAudioDisabled": true,
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "geometry": {
+        "cx": 220,
+        "cy": 200,
+        "width": 264,
+        "height": 304.8409423828125,
+        "edges": 102,
+        "maxCellDistance": 0.000030517578125,
+        "maxRadius": 152.42047119140625,
+        "visible": "visible"
+      },
+      "keyboardControls": true,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "geometry": {
+        "cx": 220,
+        "cy": 200,
+        "width": 264,
+        "height": 304.8409423828125,
+        "edges": 102,
+        "maxCellDistance": 0.000030517578125,
+        "maxRadius": 152.42047119140625,
+        "visible": "visible"
+      },
+      "keyboardControls": true,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "geometry": {
+        "cx": 220,
+        "cy": 200,
+        "width": 264,
+        "height": 304.8409423828125,
+        "edges": 102,
+        "maxCellDistance": 0.000030517578125,
+        "maxRadius": 152.42047119140625,
+        "visible": "visible"
+      },
+      "keyboardControls": true,
+      "errors": []
+    }
+  ]
+}

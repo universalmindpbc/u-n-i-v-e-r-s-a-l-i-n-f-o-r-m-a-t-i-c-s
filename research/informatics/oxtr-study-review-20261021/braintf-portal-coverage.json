@@ -1,0 +1,1362 @@
+{
+  "total_portal_experiments": 1028,
+  "author_packaged_target_contexts": 803,
+  "missing_from_author_package": [
+    {
+      "id": 901,
+      "name": "YY1_AMY_BULK",
+      "target": "YY1",
+      "context": "AMY"
+    },
+    {
+      "id": 186,
+      "name": "CTCF_AMY_NEUN",
+      "target": "CTCF",
+      "context": "AMY_NEUN"
+    },
+    {
+      "id": 247,
+      "name": "EGR1_ANCG_BULK",
+      "target": "EGR1",
+      "context": "ANCG"
+    },
+    {
+      "id": 402,
+      "name": "H3K4ME3_FP_OLIG",
+      "target": "H3K4ME3",
+      "context": "FP_OLIG"
+    },
+    {
+      "id": 227,
+      "name": "DEAF1_SCG_BULK",
+      "target": "DEAF1",
+      "context": "SCG"
+    },
+    {
+      "id": 210,
+      "name": "CTCF_SCG_BULK",
+      "target": "CTCF",
+      "context": "SCG"
+    },
+    {
+      "id": 388,
+      "name": "H3K4ME3_AMY_OLIG",
+      "target": "H3K4ME3",
+      "context": "AMY_OLIG"
+    },
+    {
+      "id": 56,
+      "name": "BCL11A_AMY_BULK",
+      "target": "BCL11A",
+      "context": "AMY"
+    },
+    {
+      "id": 344,
+      "name": "H3K27AC_OL_NEUN",
+      "target": "H3K27AC",
+      "context": "OL_NEUN"
+    },
+    {
+      "id": 576,
+      "name": "NR3C1_AMY_NEUN",
+      "target": "NR3C1",
+      "context": "AMY_NEUN"
+    },
+    {
+      "id": 791,
+      "name": "SP1_HC_OLIG",
+      "target": "SP1",
+      "context": "HC_OLIG"
+    },
+    {
+      "id": 606,
+      "name": "NRF1_HC_BULK",
+      "target": "NRF1",
+      "context": "HC"
+    },
+    {
+      "id": 340,
+      "name": "H3K27AC_HC_NEUN",
+      "target": "H3K27AC",
+      "context": "HC_NEUN"
+    },
+    {
+      "id": 413,
+      "name": "H3K9AC_DLPFC_BULK",
+      "target": "H3K9AC",
+      "context": "DLPFC"
+    },
+    {
+      "id": 789,
+      "name": "SP1_HC_NEG",
+      "target": "SP1",
+      "context": "HC_NEG"
+    },
+    {
+      "id": 777,
+      "name": "SP1_ANCG_BULK",
+      "target": "SP1",
+      "context": "ANCG"
+    },
+    {
+      "id": 667,
+      "name": "RAD21_SCG_BULK",
+      "target": "RAD21",
+      "context": "SCG"
+    },
+    {
+      "id": 202,
+      "name": "CTCF_HC_BULK",
+      "target": "CTCF",
+      "context": "HC"
+    },
+    {
+      "id": 412,
+      "name": "H3K9AC_CB_BULK",
+      "target": "H3K9AC",
+      "context": "CB"
+    },
+    {
+      "id": 767,
+      "name": "SOX8_HC_BULK",
+      "target": "SOX8",
+      "context": "HC"
+    },
+    {
+      "id": 70,
+      "name": "BCL11A_SCG_BULK",
+      "target": "BCL11A",
+      "context": "SCG"
+    },
+    {
+      "id": 333,
+      "name": "H3K27AC_DMPFC_BULK",
+      "target": "H3K27AC",
+      "context": "DMPFC"
+    },
+    {
+      "id": 503,
+      "name": "MYT1L_CB_NEUN",
+      "target": "MYT1L",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 790,
+      "name": "SP1_HC_NEUN",
+      "target": "SP1",
+      "context": "HC_NEUN"
+    },
+    {
+      "id": 190,
+      "name": "CTCF_CB_NEG",
+      "target": "CTCF",
+      "context": "CB_NEG"
+    },
+    {
+      "id": 339,
+      "name": "H3K27AC_HC_NEG",
+      "target": "H3K27AC",
+      "context": "HC_NEG"
+    },
+    {
+      "id": 57,
+      "name": "BCL11A_ANCG_BULK",
+      "target": "BCL11A",
+      "context": "ANCG"
+    },
+    {
+      "id": 404,
+      "name": "H3K4ME3_HC_NEG",
+      "target": "H3K4ME3",
+      "context": "HC_NEG"
+    },
+    {
+      "id": 903,
+      "name": "YY1_ANCG_BULK",
+      "target": "YY1",
+      "context": "ANCG"
+    },
+    {
+      "id": 552,
+      "name": "NR2F1_CB_NEUN",
+      "target": "NR2F1",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 368,
+      "name": "H3K4ME1_ANCG_BULK",
+      "target": "H3K4ME1",
+      "context": "ANCG"
+    },
+    {
+      "id": 902,
+      "name": "YY1_AMY_NEUN",
+      "target": "YY1",
+      "context": "AMY_NEUN"
+    },
+    {
+      "id": 187,
+      "name": "CTCF_AMY_OLIG",
+      "target": "CTCF",
+      "context": "AMY_OLIG"
+    },
+    {
+      "id": 377,
+      "name": "H3K4ME1_FP_NEG",
+      "target": "H3K4ME1",
+      "context": "FP_NEG"
+    },
+    {
+      "id": 409,
+      "name": "H3K4ME3_OL_NEUN",
+      "target": "H3K4ME3",
+      "context": "OL_NEUN"
+    },
+    {
+      "id": 118,
+      "name": "BRD4_CB_NEUN",
+      "target": "BRD4",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 161,
+      "name": "CREB1_ANCG_BULK",
+      "target": "CREB1",
+      "context": "ANCG"
+    },
+    {
+      "id": 345,
+      "name": "H3K27AC_OL_OLIG",
+      "target": "H3K27AC",
+      "context": "OL_OLIG"
+    },
+    {
+      "id": 621,
+      "name": "PKNOX1_CB_NEUN",
+      "target": "PKNOX1",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 941,
+      "name": "ZEB2_DMPFC_BULK",
+      "target": "ZEB2",
+      "context": "DMPFC"
+    },
+    {
+      "id": 261,
+      "name": "EGR1_SCG_BULK",
+      "target": "EGR1",
+      "context": "SCG"
+    },
+    {
+      "id": 515,
+      "name": "NEUROD1_ANCG_BULK",
+      "target": "NEUROD1",
+      "context": "ANCG"
+    },
+    {
+      "id": 629,
+      "name": "PKNOX1_HC_NEUN",
+      "target": "PKNOX1",
+      "context": "HC_NEUN"
+    },
+    {
+      "id": 150,
+      "name": "CLOCK_CB_NEUN",
+      "target": "CLOCK",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 406,
+      "name": "H3K4ME3_HC_OLIG",
+      "target": "H3K4ME3",
+      "context": "HC_OLIG"
+    },
+    {
+      "id": 397,
+      "name": "H3K4ME3_DLPFC_OLIG",
+      "target": "H3K4ME3",
+      "context": "DLPFC_OLIG"
+    },
+    {
+      "id": 583,
+      "name": "NR3C1_DMPFC_BULK",
+      "target": "NR3C1",
+      "context": "DMPFC"
+    },
+    {
+      "id": 893,
+      "name": "YBX3_OL_NEUN",
+      "target": "YBX3",
+      "context": "OL_NEUN"
+    },
+    {
+      "id": 502,
+      "name": "MITF_SCG_BULK",
+      "target": "MITF",
+      "context": "SCG"
+    },
+    {
+      "id": 359,
+      "name": "H3K27ME3_FP_NEUN",
+      "target": "H3K27ME3",
+      "context": "FP_NEUN"
+    },
+    {
+      "id": 390,
+      "name": "H3K4ME3_CB_BULK",
+      "target": "H3K4ME3",
+      "context": "CB"
+    },
+    {
+      "id": 191,
+      "name": "CTCF_CB_NEUN",
+      "target": "CTCF",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 845,
+      "name": "TARDBP_DMPFC_BULK",
+      "target": "TARDBP",
+      "context": "DMPFC"
+    },
+    {
+      "id": 387,
+      "name": "H3K4ME3_AMY_NEUN",
+      "target": "H3K4ME3",
+      "context": "AMY_NEUN"
+    },
+    {
+      "id": 257,
+      "name": "EGR1_HC_BULK",
+      "target": "EGR1",
+      "context": "HC"
+    },
+    {
+      "id": 514,
+      "name": "NEUROD1_AMY_BULK",
+      "target": "NEUROD1",
+      "context": "AMY"
+    },
+    {
+      "id": 346,
+      "name": "H3K27ME3_SCG_BULK",
+      "target": "H3K27ME3",
+      "context": "SCG"
+    },
+    {
+      "id": 909,
+      "name": "YY1_DMPFC_BULK",
+      "target": "YY1",
+      "context": "DMPFC"
+    },
+    {
+      "id": 371,
+      "name": "H3K4ME1_DLPFC_BULK",
+      "target": "H3K4ME1",
+      "context": "DLPFC"
+    },
+    {
+      "id": 353,
+      "name": "H3K27ME3_DLPFC_NEG",
+      "target": "H3K27ME3",
+      "context": "DLPFC_NEG"
+    },
+    {
+      "id": 212,
+      "name": "DEAF1_ANCG_BULK",
+      "target": "DEAF1",
+      "context": "ANCG"
+    },
+    {
+      "id": 759,
+      "name": "SOX8_AMY_BULK",
+      "target": "SOX8",
+      "context": "AMY"
+    },
+    {
+      "id": 386,
+      "name": "H3K4ME3_AMY_BULK",
+      "target": "H3K4ME3",
+      "context": "AMY"
+    },
+    {
+      "id": 335,
+      "name": "H3K27AC_FP_NEG",
+      "target": "H3K27AC",
+      "context": "FP_NEG"
+    },
+    {
+      "id": 62,
+      "name": "BCL11A_DMPFC_BULK",
+      "target": "BCL11A",
+      "context": "DMPFC"
+    },
+    {
+      "id": 379,
+      "name": "H3K4ME1_FP_OLIG",
+      "target": "H3K4ME1",
+      "context": "FP_OLIG"
+    },
+    {
+      "id": 323,
+      "name": "H3K27AC_AMY_OLIG",
+      "target": "H3K27AC",
+      "context": "AMY_OLIG"
+    },
+    {
+      "id": 588,
+      "name": "NR3C1_HC_BULK",
+      "target": "NR3C1",
+      "context": "HC"
+    },
+    {
+      "id": 849,
+      "name": "TARDBP_HC_BULK",
+      "target": "TARDBP",
+      "context": "HC"
+    },
+    {
+      "id": 331,
+      "name": "H3K27AC_DLPFC_NEUN",
+      "target": "H3K27AC",
+      "context": "DLPFC_NEUN"
+    },
+    {
+      "id": 563,
+      "name": "NR2F2_ANCG_BULK",
+      "target": "NR2F2",
+      "context": "ANCG"
+    },
+    {
+      "id": 593,
+      "name": "NRF1_AMY_BULK",
+      "target": "NRF1",
+      "context": "AMY"
+    },
+    {
+      "id": 517,
+      "name": "NEUROD1_CB_NEUN",
+      "target": "NEUROD1",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 342,
+      "name": "H3K27AC_OL_BULK",
+      "target": "H3K27AC",
+      "context": "OL"
+    },
+    {
+      "id": 862,
+      "name": "TCF12_CB_NEUN",
+      "target": "TCF12",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 253,
+      "name": "EGR1_DMPFC_BULK",
+      "target": "EGR1",
+      "context": "DMPFC"
+    },
+    {
+      "id": 389,
+      "name": "H3K4ME3_ANCG_BULK",
+      "target": "H3K4ME3",
+      "context": "ANCG"
+    },
+    {
+      "id": 324,
+      "name": "H3K27AC_ANCG_BULK",
+      "target": "H3K27AC",
+      "context": "ANCG"
+    },
+    {
+      "id": 398,
+      "name": "H3K4ME3_DMPFC_BULK",
+      "target": "H3K4ME3",
+      "context": "DMPFC"
+    },
+    {
+      "id": 595,
+      "name": "NRF1_ANCG_BULK",
+      "target": "NRF1",
+      "context": "ANCG"
+    },
+    {
+      "id": 562,
+      "name": "NR2F2_AMY_BULK",
+      "target": "NR2F2",
+      "context": "AMY"
+    },
+    {
+      "id": 66,
+      "name": "BCL11A_HC_BULK",
+      "target": "BCL11A",
+      "context": "HC"
+    },
+    {
+      "id": 361,
+      "name": "H3K27ME3_HC_BULK",
+      "target": "H3K27ME3",
+      "context": "HC"
+    },
+    {
+      "id": 400,
+      "name": "H3K4ME3_FP_NEG",
+      "target": "H3K4ME3",
+      "context": "FP_NEG"
+    },
+    {
+      "id": 411,
+      "name": "H3K4ME3_SCG_BULK",
+      "target": "H3K4ME3",
+      "context": "SCG"
+    },
+    {
+      "id": 403,
+      "name": "H3K4ME3_HC_BULK",
+      "target": "H3K4ME3",
+      "context": "HC"
+    },
+    {
+      "id": 619,
+      "name": "PKNOX1_AMY_NEUN",
+      "target": "PKNOX1",
+      "context": "AMY_NEUN"
+    },
+    {
+      "id": 222,
+      "name": "DEAF1_HC_BULK",
+      "target": "DEAF1",
+      "context": "HC"
+    },
+    {
+      "id": 357,
+      "name": "H3K27ME3_FP_BULK",
+      "target": "H3K27ME3",
+      "context": "FP"
+    },
+    {
+      "id": 205,
+      "name": "CTCF_HC_OLIG",
+      "target": "CTCF",
+      "context": "HC_OLIG"
+    },
+    {
+      "id": 774,
+      "name": "SP1_AMY_BULK",
+      "target": "SP1",
+      "context": "AMY"
+    },
+    {
+      "id": 841,
+      "name": "TARDBP_CB_NEUN",
+      "target": "TARDBP",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 167,
+      "name": "CREB1_DMPFC_BULK",
+      "target": "CREB1",
+      "context": "DMPFC"
+    },
+    {
+      "id": 185,
+      "name": "CTCF_AMY_BULK",
+      "target": "CTCF",
+      "context": "AMY"
+    },
+    {
+      "id": 136,
+      "name": "CHD4_CB_NEUN",
+      "target": "CHD4",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 365,
+      "name": "H3K27ME3_OL_OLIG",
+      "target": "H3K27ME3",
+      "context": "OL_OLIG"
+    },
+    {
+      "id": 322,
+      "name": "H3K27AC_AMY_NEUN",
+      "target": "H3K27AC",
+      "context": "AMY_NEUN"
+    },
+    {
+      "id": 352,
+      "name": "H3K27ME3_DLPFC_BULK",
+      "target": "H3K27ME3",
+      "context": "DLPFC"
+    },
+    {
+      "id": 211,
+      "name": "DEAF1_AMY_BULK",
+      "target": "DEAF1",
+      "context": "AMY"
+    },
+    {
+      "id": 349,
+      "name": "H3K27ME3_CB_BULK",
+      "target": "H3K27ME3",
+      "context": "CB"
+    },
+    {
+      "id": 160,
+      "name": "CREB1_AMY_BULK",
+      "target": "CREB1",
+      "context": "AMY"
+    },
+    {
+      "id": 776,
+      "name": "SP1_AMY_OLIG",
+      "target": "SP1",
+      "context": "AMY_OLIG"
+    },
+    {
+      "id": 393,
+      "name": "H3K4ME3_CB_OLIG",
+      "target": "H3K4ME3",
+      "context": "CB_OLIG"
+    },
+    {
+      "id": 410,
+      "name": "H3K4ME3_OL_OLIG",
+      "target": "H3K4ME3",
+      "context": "OL_OLIG"
+    },
+    {
+      "id": 665,
+      "name": "RAD21_HC_BULK",
+      "target": "RAD21",
+      "context": "HC"
+    },
+    {
+      "id": 407,
+      "name": "H3K4ME3_OL_BULK",
+      "target": "H3K4ME3",
+      "context": "OL"
+    },
+    {
+      "id": 574,
+      "name": "NR2F2_SCG_BULK",
+      "target": "NR2F2",
+      "context": "SCG"
+    },
+    {
+      "id": 343,
+      "name": "H3K27AC_OL_NEG",
+      "target": "H3K27AC",
+      "context": "OL_NEG"
+    },
+    {
+      "id": 444,
+      "name": "KLF16_CB_NEUN",
+      "target": "KLF16",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 178,
+      "name": "CREM_CB_NEUN",
+      "target": "CREM",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 341,
+      "name": "H3K27AC_HC_OLIG",
+      "target": "H3K27AC",
+      "context": "HC_OLIG"
+    },
+    {
+      "id": 366,
+      "name": "H3K4ME1_SCG_BULK",
+      "target": "H3K4ME1",
+      "context": "SCG"
+    },
+    {
+      "id": 246,
+      "name": "EGR1_AMY_BULK",
+      "target": "EGR1",
+      "context": "AMY"
+    },
+    {
+      "id": 385,
+      "name": "H3K4ME1_SCG_BULK",
+      "target": "H3K4ME1",
+      "context": "SCG"
+    },
+    {
+      "id": 592,
+      "name": "NR3C1_SCG_BULK",
+      "target": "NR3C1",
+      "context": "SCG"
+    },
+    {
+      "id": 579,
+      "name": "NR3C1_CB_NEUN",
+      "target": "NR3C1",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 374,
+      "name": "H3K4ME1_DLPFC_OLIG",
+      "target": "H3K4ME1",
+      "context": "DLPFC_OLIG"
+    },
+    {
+      "id": 796,
+      "name": "SP1_SCG_BULK",
+      "target": "SP1",
+      "context": "SCG"
+    },
+    {
+      "id": 497,
+      "name": "MITF_HC_BULK",
+      "target": "MITF",
+      "context": "HC"
+    },
+    {
+      "id": 396,
+      "name": "H3K4ME3_DLPFC_NEUN",
+      "target": "H3K4ME3",
+      "context": "DLPFC_NEUN"
+    },
+    {
+      "id": 914,
+      "name": "YY1_HC_BULK",
+      "target": "YY1",
+      "context": "HC"
+    },
+    {
+      "id": 330,
+      "name": "H3K27AC_DLPFC_NEG",
+      "target": "H3K27AC",
+      "context": "DLPFC_NEG"
+    },
+    {
+      "id": 575,
+      "name": "NR3C1_AMY_BULK",
+      "target": "NR3C1",
+      "context": "AMY"
+    },
+    {
+      "id": 218,
+      "name": "DEAF1_DMPFC_BULK",
+      "target": "DEAF1",
+      "context": "DMPFC"
+    },
+    {
+      "id": 659,
+      "name": "RAD21_AMY_BULK",
+      "target": "RAD21",
+      "context": "AMY"
+    },
+    {
+      "id": 204,
+      "name": "CTCF_HC_NEUN",
+      "target": "CTCF",
+      "context": "HC_NEUN"
+    },
+    {
+      "id": 936,
+      "name": "ZEB2_ANCG_BULK",
+      "target": "ZEB2",
+      "context": "ANCG"
+    },
+    {
+      "id": 391,
+      "name": "H3K4ME3_CB_NEG",
+      "target": "H3K4ME3",
+      "context": "CB_NEG"
+    },
+    {
+      "id": 703,
+      "name": "SIN3A_CB_NEUN",
+      "target": "SIN3A",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 728,
+      "name": "SKIL_CB_NEUN",
+      "target": "SKIL",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 380,
+      "name": "H3K4ME1_HC_BULK",
+      "target": "H3K4ME1",
+      "context": "HC"
+    },
+    {
+      "id": 373,
+      "name": "H3K4ME1_DLPFC_NEUN",
+      "target": "H3K4ME1",
+      "context": "DLPFC_NEUN"
+    },
+    {
+      "id": 369,
+      "name": "H3K4ME1_CB_BULK",
+      "target": "H3K4ME1",
+      "context": "CB"
+    },
+    {
+      "id": 338,
+      "name": "H3K27AC_HC_BULK",
+      "target": "H3K27AC",
+      "context": "HC"
+    },
+    {
+      "id": 383,
+      "name": "H3K4ME1_OL_NEUN",
+      "target": "H3K4ME1",
+      "context": "OL_NEUN"
+    },
+    {
+      "id": 577,
+      "name": "NR3C1_ANCG_BULK",
+      "target": "NR3C1",
+      "context": "ANCG"
+    },
+    {
+      "id": 783,
+      "name": "SP1_DMPFC_BULK",
+      "target": "SP1",
+      "context": "DMPFC"
+    },
+    {
+      "id": 163,
+      "name": "CREB1_CB_NEUN",
+      "target": "CREB1",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 432,
+      "name": "KAT2B_CB_NEUN",
+      "target": "KAT2B",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 486,
+      "name": "MITF_ANCG_BULK",
+      "target": "MITF",
+      "context": "ANCG"
+    },
+    {
+      "id": 597,
+      "name": "NRF1_CB_NEUN",
+      "target": "NRF1",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 197,
+      "name": "CTCF_DMPFC_BULK",
+      "target": "CTCF",
+      "context": "DMPFC"
+    },
+    {
+      "id": 337,
+      "name": "H3K27AC_FP_OLIG",
+      "target": "H3K27AC",
+      "context": "FP_OLIG"
+    },
+    {
+      "id": 853,
+      "name": "TARDBP_SCG_BULK",
+      "target": "TARDBP",
+      "context": "SCG"
+    },
+    {
+      "id": 327,
+      "name": "H3K27AC_CB_NEUN",
+      "target": "H3K27AC",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 414,
+      "name": "H3K9AC_FP_BULK",
+      "target": "H3K9AC",
+      "context": "FP"
+    },
+    {
+      "id": 405,
+      "name": "H3K4ME3_HC_NEUN",
+      "target": "H3K4ME3",
+      "context": "HC_NEUN"
+    },
+    {
+      "id": 381,
+      "name": "H3K4ME1_OL_BULK",
+      "target": "H3K4ME1",
+      "context": "OL"
+    },
+    {
+      "id": 415,
+      "name": "H3K9AC_OL_BULK",
+      "target": "H3K9AC",
+      "context": "OL"
+    },
+    {
+      "id": 350,
+      "name": "H3K27ME3_CB_NEG",
+      "target": "H3K27ME3",
+      "context": "CB_NEG"
+    },
+    {
+      "id": 370,
+      "name": "H3K4ME1_CB_NEUN",
+      "target": "H3K4ME1",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 839,
+      "name": "TARDBP_ANCG_BULK",
+      "target": "TARDBP",
+      "context": "ANCG"
+    },
+    {
+      "id": 188,
+      "name": "CTCF_ANCG_BULK",
+      "target": "CTCF",
+      "context": "ANCG"
+    },
+    {
+      "id": 334,
+      "name": "H3K27AC_FP_BULK",
+      "target": "H3K27AC",
+      "context": "FP"
+    },
+    {
+      "id": 326,
+      "name": "H3K27AC_CB_NEG",
+      "target": "H3K27AC",
+      "context": "CB_NEG"
+    },
+    {
+      "id": 746,
+      "name": "SMC3_CB_NEUN",
+      "target": "SMC3",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 660,
+      "name": "RAD21_ANCG_BULK",
+      "target": "RAD21",
+      "context": "ANCG"
+    },
+    {
+      "id": 367,
+      "name": "H3K4ME1_AMY_BULK",
+      "target": "H3K4ME1",
+      "context": "AMY"
+    },
+    {
+      "id": 214,
+      "name": "DEAF1_CB_NEUN",
+      "target": "DEAF1",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 594,
+      "name": "NRF1_AMY_NEUN",
+      "target": "NRF1",
+      "context": "AMY_NEUN"
+    },
+    {
+      "id": 601,
+      "name": "NRF1_DMPFC_BULK",
+      "target": "NRF1",
+      "context": "DMPFC"
+    },
+    {
+      "id": 570,
+      "name": "NR2F2_HC_BULK",
+      "target": "NR2F2",
+      "context": "HC"
+    },
+    {
+      "id": 611,
+      "name": "NRF1_SCG_BULK",
+      "target": "NRF1",
+      "context": "SCG"
+    },
+    {
+      "id": 376,
+      "name": "H3K4ME1_FP_BULK",
+      "target": "H3K4ME1",
+      "context": "FP"
+    },
+    {
+      "id": 176,
+      "name": "CREB1_SCG_BULK",
+      "target": "CREB1",
+      "context": "SCG"
+    },
+    {
+      "id": 935,
+      "name": "ZEB2_AMY_BULK",
+      "target": "ZEB2",
+      "context": "AMY"
+    },
+    {
+      "id": 382,
+      "name": "H3K4ME1_OL_NEG",
+      "target": "H3K4ME1",
+      "context": "OL_NEG"
+    },
+    {
+      "id": 394,
+      "name": "H3K4ME3_DLPFC_BULK",
+      "target": "H3K4ME3",
+      "context": "DLPFC"
+    },
+    {
+      "id": 798,
+      "name": "SP4_CB_NEUN",
+      "target": "SP4",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 949,
+      "name": "ZEB2_SCG_BULK",
+      "target": "ZEB2",
+      "context": "SCG"
+    },
+    {
+      "id": 39,
+      "name": "ASH2L_CB_NEUN",
+      "target": "ASH2L",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 459,
+      "name": "MAZ_CB_NEUN",
+      "target": "MAZ",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 492,
+      "name": "MITF_DMPFC_BULK",
+      "target": "MITF",
+      "context": "DMPFC"
+    },
+    {
+      "id": 775,
+      "name": "SP1_AMY_NEUN",
+      "target": "SP1",
+      "context": "AMY_NEUN"
+    },
+    {
+      "id": 321,
+      "name": "H3K27AC_AMY_BULK",
+      "target": "H3K27AC",
+      "context": "AMY"
+    },
+    {
+      "id": 809,
+      "name": "SREBF2_CB_NEUN",
+      "target": "SREBF2",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 362,
+      "name": "H3K27ME3_OL_BULK",
+      "target": "H3K27ME3",
+      "context": "OL"
+    },
+    {
+      "id": 485,
+      "name": "MITF_AMY_BULK",
+      "target": "MITF",
+      "context": "AMY"
+    },
+    {
+      "id": 329,
+      "name": "H3K27AC_DLPFC_BULK",
+      "target": "H3K27AC",
+      "context": "DLPFC"
+    },
+    {
+      "id": 358,
+      "name": "H3K27ME3_FP_NEG",
+      "target": "H3K27ME3",
+      "context": "FP_NEG"
+    },
+    {
+      "id": 332,
+      "name": "H3K27AC_DLPFC_OLIG",
+      "target": "H3K27AC",
+      "context": "DLPFC_OLIG"
+    },
+    {
+      "id": 355,
+      "name": "H3K27ME3_DLPFC_OLIG",
+      "target": "H3K27ME3",
+      "context": "DLPFC_OLIG"
+    },
+    {
+      "id": 566,
+      "name": "NR2F2_DMPFC_BULK",
+      "target": "NR2F2",
+      "context": "DMPFC"
+    },
+    {
+      "id": 820,
+      "name": "SRF_CB_NEUN",
+      "target": "SRF",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 408,
+      "name": "H3K4ME3_OL_NEG",
+      "target": "H3K4ME3",
+      "context": "OL_NEG"
+    },
+    {
+      "id": 663,
+      "name": "RAD21_DMPFC_BULK",
+      "target": "RAD21",
+      "context": "DMPFC"
+    },
+    {
+      "id": 401,
+      "name": "H3K4ME3_FP_NEUN",
+      "target": "H3K4ME3",
+      "context": "FP_NEUN"
+    },
+    {
+      "id": 760,
+      "name": "SOX8_ANCG_BULK",
+      "target": "SOX8",
+      "context": "ANCG"
+    },
+    {
+      "id": 979,
+      "name": "ZNF143_CB_NEUN",
+      "target": "ZNF143",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 523,
+      "name": "NEUROD1_HC_BULK",
+      "target": "NEUROD1",
+      "context": "HC"
+    },
+    {
+      "id": 634,
+      "name": "POL2_CB_NEUN",
+      "target": "POL2",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 378,
+      "name": "H3K4ME1_FP_NEUN",
+      "target": "H3K4ME1",
+      "context": "FP_NEUN"
+    },
+    {
+      "id": 770,
+      "name": "SOX8_SCG_BULK",
+      "target": "SOX8",
+      "context": "SCG"
+    },
+    {
+      "id": 392,
+      "name": "H3K4ME3_CB_NEUN",
+      "target": "H3K4ME3",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 395,
+      "name": "H3K4ME3_DLPFC_NEG",
+      "target": "H3K4ME3",
+      "context": "DLPFC_NEG"
+    },
+    {
+      "id": 360,
+      "name": "H3K27ME3_FP_OLIG",
+      "target": "H3K27ME3",
+      "context": "FP_OLIG"
+    },
+    {
+      "id": 838,
+      "name": "TARDBP_AMY_BULK",
+      "target": "TARDBP",
+      "context": "AMY"
+    },
+    {
+      "id": 354,
+      "name": "H3K27ME3_DLPFC_NEUN",
+      "target": "H3K27ME3",
+      "context": "DLPFC_NEUN"
+    },
+    {
+      "id": 364,
+      "name": "H3K27ME3_OL_NEUN",
+      "target": "H3K27ME3",
+      "context": "OL_NEUN"
+    },
+    {
+      "id": 945,
+      "name": "ZEB2_HC_BULK",
+      "target": "ZEB2",
+      "context": "HC"
+    },
+    {
+      "id": 347,
+      "name": "H3K27ME3_AMY_BULK",
+      "target": "H3K27ME3",
+      "context": "AMY"
+    },
+    {
+      "id": 375,
+      "name": "H3K4ME1_DMPFC_BULK",
+      "target": "H3K4ME1",
+      "context": "DMPFC"
+    },
+    {
+      "id": 363,
+      "name": "H3K27ME3_OL_NEG",
+      "target": "H3K27ME3",
+      "context": "OL_NEG"
+    },
+    {
+      "id": 348,
+      "name": "H3K27ME3_ANCG_BULK",
+      "target": "H3K27ME3",
+      "context": "ANCG"
+    },
+    {
+      "id": 336,
+      "name": "H3K27AC_FP_NEUN",
+      "target": "H3K27AC",
+      "context": "FP_NEUN"
+    },
+    {
+      "id": 351,
+      "name": "H3K27ME3_CB_NEUN",
+      "target": "H3K27ME3",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 328,
+      "name": "H3K27AC_CB_OLIG",
+      "target": "H3K27AC",
+      "context": "CB_OLIG"
+    },
+    {
+      "id": 416,
+      "name": "H3K9AC_OL_NEUN",
+      "target": "H3K9AC",
+      "context": "OL_NEUN"
+    },
+    {
+      "id": 920,
+      "name": "YY1_SCG_BULK",
+      "target": "YY1",
+      "context": "SCG"
+    },
+    {
+      "id": 356,
+      "name": "H3K27ME3_DMPFC_BULK",
+      "target": "H3K27ME3",
+      "context": "DMPFC"
+    },
+    {
+      "id": 399,
+      "name": "H3K4ME3_FP_BULK",
+      "target": "H3K4ME3",
+      "context": "FP"
+    },
+    {
+      "id": 372,
+      "name": "H3K4ME1_DLPFC_NEG",
+      "target": "H3K4ME1",
+      "context": "DLPFC_NEG"
+    },
+    {
+      "id": 80,
+      "name": "BHLHE40_CB_NEUN",
+      "target": "BHLHE40",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 788,
+      "name": "SP1_HC_BULK",
+      "target": "SP1",
+      "context": "HC"
+    },
+    {
+      "id": 172,
+      "name": "CREB1_HC_BULK",
+      "target": "CREB1",
+      "context": "HC"
+    },
+    {
+      "id": 607,
+      "name": "NRF1_HC_NEUN",
+      "target": "NRF1",
+      "context": "HC_NEUN"
+    },
+    {
+      "id": 520,
+      "name": "NEUROD1_DMPFC_BULK",
+      "target": "NEUROD1",
+      "context": "DMPFC"
+    },
+    {
+      "id": 526,
+      "name": "NEUROD1_SCG_BULK",
+      "target": "NEUROD1",
+      "context": "SCG"
+    },
+    {
+      "id": 28,
+      "name": "ASH1L_CB_NEUN",
+      "target": "ASH1L",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 915,
+      "name": "YY1_HC_NEUN",
+      "target": "YY1",
+      "context": "HC_NEUN"
+    },
+    {
+      "id": 192,
+      "name": "CTCF_CB_OLIG",
+      "target": "CTCF",
+      "context": "CB_OLIG"
+    },
+    {
+      "id": 384,
+      "name": "H3K4ME1_OL_OLIG",
+      "target": "H3K4ME1",
+      "context": "OL_OLIG"
+    },
+    {
+      "id": 764,
+      "name": "SOX8_DMPFC_BULK",
+      "target": "SOX8",
+      "context": "DMPFC"
+    },
+    {
+      "id": 203,
+      "name": "CTCF_HC_NEG",
+      "target": "CTCF",
+      "context": "HC_NEG"
+    },
+    {
+      "id": 249,
+      "name": "EGR1_CB_NEUN",
+      "target": "EGR1",
+      "context": "CB_NEUN"
+    },
+    {
+      "id": 325,
+      "name": "H3K27AC_CB_BULK",
+      "target": "H3K27AC",
+      "context": "CB"
+    }
+  ]
+}

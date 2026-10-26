@@ -1,0 +1,58 @@
+{
+  "live": true,
+  "processMuted": true,
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "threeVisibleSteps": true,
+      "independentModes": true,
+      "preferencesPreserved": true,
+      "teachingExport": true,
+      "actualAnimationPixels": true,
+      "noOverflow": true,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "threeVisibleSteps": true,
+      "independentModes": true,
+      "preferencesPreserved": true,
+      "teachingExport": false,
+      "actualAnimationPixels": false,
+      "noOverflow": true,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "threeVisibleSteps": true,
+      "independentModes": true,
+      "preferencesPreserved": true,
+      "teachingExport": false,
+      "actualAnimationPixels": false,
+      "noOverflow": true,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "threeVisibleSteps": true,
+      "independentModes": true,
+      "preferencesPreserved": true,
+      "teachingExport": false,
+      "actualAnimationPixels": false,
+      "noOverflow": true,
+      "errors": []
+    }
+  ]
+}

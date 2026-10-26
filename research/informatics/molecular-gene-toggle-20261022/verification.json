@@ -1,0 +1,874 @@
+{
+  "verifiedAt": "2026-10-21T18:34:08.846570+00:00",
+  "sourceCommit": "cbc03e37f991ef333623c7126361e407b63e2397",
+  "integratedOtherChatBaseline": "02463ea5a5c3f0cdac5e3d45e22b11cc4452ee0f",
+  "productionMainUnchanged": "636bfa9ae41efe036b2cccac0827c724edfde92b",
+  "proofURL": "https://staging.universalmind.tv/informatics/molecular/",
+  "deployment": {
+    "method": "./deploy-panthur-staging.sh informatics",
+    "trackedAssets": 11226,
+    "changedUploads": 16,
+    "successful": true
+  },
+  "changes": [
+    "Persistent Gene / Protein toggle with explicit level labels.",
+    "Reference DNA, canonical exon markers, selectable 48-base helix windows and FASTA downloads.",
+    "Collection conceals the underlying scene and inspector; stronger cards retain subtle background video."
+  ],
+  "scientificInterpretation": {
+    "dna": "Sequence-accurate reference bases displayed in an illustrative 48-base helix, not a measured OXTR fold or atomic structure.",
+    "protein": "Experimental protein coordinates with source records and construct limits.",
+    "geometry": "Independent exploratory overlays."
+  },
+  "sourceValidation": {
+    "passed": true,
+    "genes": 9,
+    "targets": 8,
+    "reference": "GRCh38",
+    "independentSequenceMatch": "UCSC hg38 and Ensembl normalized genomic sequences match for all nine genes.",
+    "checks": [
+      "SHA256",
+      "strand orientation",
+      "canonical exons",
+      "transcription start",
+      "window boundaries"
+    ],
+    "command": "node tools/check-molecular-genes.mjs"
+  },
+  "proteinAndGeometryValidation": {
+    "passed": true,
+    "command": "node tools/check-molecular-atlas.mjs",
+    "structures": 8,
+    "checks": [
+      "Coordinate checksums",
+      "construct sequences",
+      "solid geometry invariants",
+      "Odom Phi Ratio",
+      "89-point sphere"
+    ]
+  },
+  "browserSafety": {
+    "processMuteConfirmedBeforeNavigation": true,
+    "nativeFullscreenInvoked": false,
+    "mediaPausedAndContextsClosed": true
+  },
+  "otherChatPreservation": {
+    "protectedFiles": [
+      {
+        "path": "Informatics/library-data/archive-records.json",
+        "sha256": "a6c81a17ba16d3f02b3688ed19e9b4fdb71d305770f121ed9b7af00cc7460ace",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/2d1e97a69066.jpg",
+        "sha256": "2d1e97a690668da58e82b93a9061c40db076bcabc7a2f3f418549102e2046268",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/2e23485c20ee.jpg",
+        "sha256": "2e23485c20ee21fdaad48f1be24271e942bb563202f404c05328e38da110ae93",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/36cc491c43ce.jpg",
+        "sha256": "36cc491c43ce7741034c7a664ab13e7066ffb1f01db632c8fb63444ff3ebbaf0",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/46f7634e8459.jpg",
+        "sha256": "46f7634e84594b3ae127e048edb6e67276dd346c1b8a2802803d48c9c7ccf0c2",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/47ffc4c3abbf.jpg",
+        "sha256": "47ffc4c3abbf42736c511d7997641c8cfbe950ec65b2ec45b2145fc4b551617b",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/51aace12beda.jpg",
+        "sha256": "51aace12bedaf0f2c31ea37ec833248b31a395d7398bfa5ea99ada6948501467",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/66691cb200fe.png",
+        "sha256": "66691cb200fe73689ba88c9b9835bf15a2528dac15460967dd4a6c243c5ec640",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/7854eca9c827.png",
+        "sha256": "7854eca9c827126096603ae0795928d5a52e5162f7bf56d21025b0ed1a8c2996",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/94076ff1f6d0.jpg",
+        "sha256": "94076ff1f6d05b37e8fd96db1bd05240736af4bc501292342df3b72d336af0d4",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/986d2fc1169d.jpg",
+        "sha256": "986d2fc1169dca760c40395fc075a076964c1d6d74f4a54ede1de6491d2a3aa1",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/9dbd228d8d75.jpg",
+        "sha256": "9dbd228d8d751906c4933d6dd623af2d13c3a9af26db381a40661d352b907ac4",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/a1e01b1dc2f0.jpg",
+        "sha256": "a1e01b1dc2f0964add29156d10b14c3a2445faf6171f13509ae141be9fac7a1d",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/a3e7168642e3.jpg",
+        "sha256": "a3e7168642e30bff8ecb5d14962bc5014c690c9dc46fdebf75c4ef2aa687c9ea",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/a5c985eed9b6.png",
+        "sha256": "a5c985eed9b6eef9d9591f0d209377ed9f79d6abc1093adf1af01b931ce9b84a",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/abb4e82f5fa6.jpg",
+        "sha256": "abb4e82f5fa6468d29c212f9560589b2f9d88f86fc7c27f5c57277e06225c8ec",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/b7e458d34b3b.jpg",
+        "sha256": "b7e458d34b3b80c7823d80484edb5784b0da881443c227360bf3ed155bbe2240",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/bc7cc70c465e.jpg",
+        "sha256": "bc7cc70c465ebe1a557bebe26b0e6f013df11a51f4ac918d2f9563fb9268d7c9",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/c1bea99e1d89.jpg",
+        "sha256": "c1bea99e1d89233a5dc1de0581adec194eae0184f0b75cddd70c44ac4bfc4d3e",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/cdec699932b9.jpg",
+        "sha256": "cdec699932b93270f7fc1f84007b7cdcae5f47e5c06ac6d9a518e54195467b72",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/cf5c37e03ed4.jpg",
+        "sha256": "cf5c37e03ed406fa8d6cf247b77191411823ef104641ab1d4078a8cd0a106ed1",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/d04185bab997.jpg",
+        "sha256": "d04185bab997209ba0d57f3a3477a99a0e88eea2518582dd0f8d6f93094adc2a",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/d279ce2c826d.jpg",
+        "sha256": "d279ce2c826decd250fc5aff080e5d798d70cdfda8fc8a3ea2933d95d628c275",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/ee107fa4e066.png",
+        "sha256": "ee107fa4e06670685a71b2b4c74704d4ecd4fd29a09cf6216d736016c991bd8e",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/f2aa73aa96f1.jpg",
+        "sha256": "f2aa73aa96f1d3c559b354e4043cb43cd25f05986554dd6802d0db84ac231f8d",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/figures/fb9a8d9373aa.png",
+        "sha256": "fb9a8d9373aa1d2aa6776072aac78d4a1ab6ed58a2396847947f17d6e1719778",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/language-source.json",
+        "sha256": "39bdf14824ed7f41ffba818494d3cdee89aac17145fb394a2465d18b4cc37021",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/library.json",
+        "sha256": "07455efb6272395f4861410c5a6ff4e3278bd0b213afb0efeee25faf32a086a1",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/search-log.json",
+        "sha256": "a17a6d5becabd009f4dae37addc335667a2273172306792407646c36fae734ec",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/sound-source.json",
+        "sha256": "e7adb2ee44d4758656ca3c74d0a150bf3b81e75d159874cc7257aa096cdd75fe",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-data/vision-source.json",
+        "sha256": "4e587a23ac97ae7b76307dfaf117c9ab026b7d022e2d7f158d4b4f710c3308cd",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-launcher.css",
+        "sha256": "bd3957786ecb670508ae5d421d854429fd3ffb7a87f7d745b19e952cb01ec286",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-launcher.js",
+        "sha256": "2ccca3944f2d6e51d3a7f250ec3dca45eec9eb41bc4a0bd27cb9324647972716",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library-theme.js",
+        "sha256": "29419131491b488d2837d3de05117356e46caa0bd404be31657a32b5c91fd187",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library.css",
+        "sha256": "d392bc21564173c36256f8a914e0b2f0dbe977cefe5e4ccb77886821d224814b",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library.html",
+        "sha256": "c6f9e1190ee1a4a2570b004f64c5d9f60906f8b32f114de16ee8e7dd5c7fb451",
+        "matchesIntegratedBaseline": true
+      },
+      {
+        "path": "Informatics/library.js",
+        "sha256": "3da737a1f1c7820d0e8cd78194b19950ca3ca185cba609befed52f423648b321",
+        "matchesIntegratedBaseline": true
+      }
+    ],
+    "count": 37,
+    "allByteIdentical": true,
+    "sharedIndexChange": "Molecular iframe cache version only: v2 to v3."
+  },
+  "checks": {
+    "liveGeneAndCollection": {
+      "passed": true,
+      "live": true,
+      "processMuted": true,
+      "results": [
+        {
+          "allGenes": [
+            {
+              "symbol": "OXTR",
+              "length": 19248,
+              "window": 15
+            },
+            {
+              "symbol": "SLC6A4",
+              "length": 44225,
+              "window": 2785
+            },
+            {
+              "symbol": "DRD2",
+              "length": 67382,
+              "window": 1004
+            },
+            {
+              "symbol": "GRIN1",
+              "length": 30420,
+              "window": 808
+            },
+            {
+              "symbol": "GRIN2B",
+              "length": 544197
+            },
+            {
+              "symbol": "IL6",
+              "length": 6119,
+              "window": 1316
+            },
+            {
+              "symbol": "NR3C1",
+              "length": 157582,
+              "window": 31826
+            },
+            {
+              "symbol": "DOCK2",
+              "length": 446159,
+              "window": 51
+            },
+            {
+              "symbol": "CD38",
+              "length": 74958,
+              "window": 53
+            }
+          ]
+        },
+        {
+          "viewport": {
+            "width": 1470,
+            "height": 956
+          },
+          "geneProteinToggle": true,
+          "sourceLabels": true,
+          "sequenceWindow": true,
+          "exonJump": true,
+          "endBoundary": true,
+          "collectionLegibility": true,
+          "geometryPreserved": true,
+          "videoContinued": true,
+          "noOverflow": true
+        },
+        {
+          "viewport": {
+            "width": 1024,
+            "height": 768
+          },
+          "geneProteinToggle": true,
+          "sourceLabels": true,
+          "sequenceWindow": true,
+          "exonJump": true,
+          "endBoundary": true,
+          "collectionLegibility": true,
+          "geometryPreserved": true,
+          "videoContinued": true,
+          "noOverflow": true
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "geneProteinToggle": true,
+          "sourceLabels": true,
+          "sequenceWindow": true,
+          "exonJump": true,
+          "endBoundary": true,
+          "collectionLegibility": true,
+          "geometryPreserved": true,
+          "videoContinued": true,
+          "noOverflow": true
+        },
+        {
+          "viewport": {
+            "width": 320,
+            "height": 844
+          },
+          "geneProteinToggle": true,
+          "sourceLabels": true,
+          "sequenceWindow": true,
+          "exonJump": true,
+          "endBoundary": true,
+          "collectionLegibility": true,
+          "geometryPreserved": true,
+          "videoContinued": true,
+          "noOverflow": true
+        },
+        {
+          "geneRequestFailureVisible": true,
+          "retryRecovers": true
+        }
+      ]
+    },
+    "liveEntryAndVideo": {
+      "passed": true,
+      "live": true,
+      "processMuted": true,
+      "nativeFullscreen": false,
+      "results": [
+        {
+          "viewport": {
+            "width": 1470,
+            "height": 956
+          },
+          "navigationOrder": [
+            "Geometry Atlas",
+            "Molecular Atlas",
+            "About",
+            "Sound",
+            "Vision",
+            "Language",
+            "Universal Research",
+            "Partners"
+          ],
+          "noHeaderOverlap": true,
+          "transparentCanvas": true,
+          "existingVideoPreserved": true,
+          "playbackContinued": true,
+          "globalSoundControls": true,
+          "selectionPreservedAcrossAreas": true,
+          "dnaEvidenceLink": true,
+          "universalResearchLink": true,
+          "brandLogoAndWeights": true,
+          "standaloneMutedVideoControls": true
+        },
+        {
+          "viewport": {
+            "width": 1024,
+            "height": 768
+          },
+          "navigationOrder": [
+            "Geometry Atlas",
+            "Molecular Atlas",
+            "About",
+            "Sound",
+            "Vision",
+            "Language",
+            "Universal Research",
+            "Partners"
+          ],
+          "noHeaderOverlap": true,
+          "transparentCanvas": true,
+          "existingVideoPreserved": true,
+          "playbackContinued": true,
+          "globalSoundControls": true,
+          "selectionPreservedAcrossAreas": true,
+          "dnaEvidenceLink": true,
+          "universalResearchLink": true,
+          "brandLogoAndWeights": true,
+          "standaloneMutedVideoControls": true
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "navigationOrder": [
+            "Geometry Atlas",
+            "Molecular Atlas",
+            "About",
+            "Sound",
+            "Vision",
+            "Language",
+            "Universal Research",
+            "Partners"
+          ],
+          "noHeaderOverlap": true,
+          "transparentCanvas": true,
+          "existingVideoPreserved": true,
+          "playbackContinued": true,
+          "globalSoundControls": true,
+          "selectionPreservedAcrossAreas": true,
+          "dnaEvidenceLink": true,
+          "universalResearchLink": true,
+          "brandLogoAndWeights": true,
+          "standaloneMutedVideoControls": true
+        },
+        {
+          "viewport": {
+            "width": 320,
+            "height": 844
+          },
+          "navigationOrder": [
+            "Geometry Atlas",
+            "Molecular Atlas",
+            "About",
+            "Sound",
+            "Vision",
+            "Language",
+            "Universal Research",
+            "Partners"
+          ],
+          "noHeaderOverlap": true,
+          "transparentCanvas": true,
+          "existingVideoPreserved": true,
+          "playbackContinued": true,
+          "globalSoundControls": true,
+          "selectionPreservedAcrossAreas": true,
+          "dnaEvidenceLink": true,
+          "universalResearchLink": true,
+          "brandLogoAndWeights": true,
+          "standaloneMutedVideoControls": true
+        }
+      ]
+    },
+    "candidateProteinRegression": {
+      "passed": true,
+      "live": false,
+      "processMuted": true,
+      "nativeFullscreen": false,
+      "results": [
+        {
+          "viewport": {
+            "width": 1470,
+            "height": 956
+          },
+          "structures": [
+            {
+              "target": "OXTR",
+              "pdb": "7QVM",
+              "observed": 250,
+              "visiblePixels": 895
+            },
+            {
+              "target": "SLC6A4",
+              "pdb": "5I6X",
+              "observed": 544,
+              "visiblePixels": 852
+            },
+            {
+              "target": "DRD2",
+              "pdb": "6CM4",
+              "observed": 423,
+              "visiblePixels": 784
+            },
+            {
+              "target": "NMDA",
+              "pdb": "9IYQ",
+              "observed": 781,
+              "visiblePixels": 1153
+            },
+            {
+              "target": "IL6",
+              "pdb": "1ALU",
+              "observed": 157,
+              "visiblePixels": 825
+            },
+            {
+              "target": "NR3C1",
+              "pdb": "1M2Z",
+              "observed": 255,
+              "visiblePixels": 913
+            },
+            {
+              "target": "DOCK2",
+              "pdb": "6TGB",
+              "observed": 1450,
+              "visiblePixels": 708
+            },
+            {
+              "target": "CD38",
+              "pdb": "1YH3",
+              "observed": 252,
+              "visiblePixels": 613
+            }
+          ],
+          "representations": 3,
+          "geometryModes": [
+            "tetrahedron",
+            "cube",
+            "octahedron",
+            "dodecahedron",
+            "icosahedron",
+            "stellated",
+            "odom",
+            "phi"
+          ],
+          "odomRatio": 1.618033989,
+          "cameraDrag": true,
+          "cameraKeyboard": true,
+          "sequenceSelection": true,
+          "downloads": true,
+          "rapidTargetChanges": true
+        },
+        {
+          "viewport": {
+            "width": 1024,
+            "height": 768
+          },
+          "noOverflow": true,
+          "targetSwitch": true,
+          "evidencePanel": true
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "noOverflow": true,
+          "targetSwitch": true,
+          "evidencePanel": true
+        },
+        {
+          "viewport": {
+            "width": 320,
+            "height": 844
+          },
+          "noOverflow": true,
+          "targetSwitch": true,
+          "evidencePanel": true
+        },
+        {
+          "failedRequestShowsError": true,
+          "retryRecovers": true
+        }
+      ]
+    },
+    "liveHTTP": {
+      "verifiedAt": "2026-10-21T18:31:08Z",
+      "sourceCommit": "cbc03e37f991ef333623c7126361e407b63e2397",
+      "passed": true,
+      "assets": [
+        {
+          "path": "Informatics/index.html",
+          "url": "https://staging.universalmind.tv/informatics/index.html",
+          "status": 200,
+          "bytes": 24167,
+          "rawSHA256": "704cb22f2da3bf796604a9b1bd04c03ca1aa32ee6dd1c8c6dda53b3679df1ee8",
+          "sourceSHA256": "cd9a1c90d1007671df02ef244822df03fa000795288c21cfddfa8e441da81c6f",
+          "hostInjectedAnalyticsScripts": 1,
+          "contentType": "text/html",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/library-data/library.json",
+          "url": "https://staging.universalmind.tv/informatics/library-data/library.json",
+          "status": 200,
+          "bytes": 2943828,
+          "rawSHA256": "07455efb6272395f4861410c5a6ff4e3278bd0b213afb0efeee25faf32a086a1",
+          "sourceSHA256": "07455efb6272395f4861410c5a6ff4e3278bd0b213afb0efeee25faf32a086a1",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "application/json",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/library-launcher.css",
+          "url": "https://staging.universalmind.tv/informatics/library-launcher.css",
+          "status": 200,
+          "bytes": 11273,
+          "rawSHA256": "bd3957786ecb670508ae5d421d854429fd3ffb7a87f7d745b19e952cb01ec286",
+          "sourceSHA256": "bd3957786ecb670508ae5d421d854429fd3ffb7a87f7d745b19e952cb01ec286",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "text/css",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/library-launcher.js",
+          "url": "https://staging.universalmind.tv/informatics/library-launcher.js",
+          "status": 200,
+          "bytes": 13148,
+          "rawSHA256": "2ccca3944f2d6e51d3a7f250ec3dca45eec9eb41bc4a0bd27cb9324647972716",
+          "sourceSHA256": "2ccca3944f2d6e51d3a7f250ec3dca45eec9eb41bc4a0bd27cb9324647972716",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "text/javascript",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/library-theme.js",
+          "url": "https://staging.universalmind.tv/informatics/library-theme.js",
+          "status": 200,
+          "bytes": 3710,
+          "rawSHA256": "29419131491b488d2837d3de05117356e46caa0bd404be31657a32b5c91fd187",
+          "sourceSHA256": "29419131491b488d2837d3de05117356e46caa0bd404be31657a32b5c91fd187",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "text/javascript",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/library.css",
+          "url": "https://staging.universalmind.tv/informatics/library.css",
+          "status": 200,
+          "bytes": 13117,
+          "rawSHA256": "d392bc21564173c36256f8a914e0b2f0dbe977cefe5e4ccb77886821d224814b",
+          "sourceSHA256": "d392bc21564173c36256f8a914e0b2f0dbe977cefe5e4ccb77886821d224814b",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "text/css",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/library.html",
+          "url": "https://staging.universalmind.tv/informatics/library.html",
+          "status": 200,
+          "bytes": 7910,
+          "rawSHA256": "712d8431371ae42a3cd7240b7d95fa3cbb181c5436bc2545a8b2052cb9a3bc72",
+          "sourceSHA256": "c6f9e1190ee1a4a2570b004f64c5d9f60906f8b32f114de16ee8e7dd5c7fb451",
+          "hostInjectedAnalyticsScripts": 1,
+          "contentType": "text/html",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/library.js",
+          "url": "https://staging.universalmind.tv/informatics/library.js",
+          "status": 200,
+          "bytes": 18310,
+          "rawSHA256": "3da737a1f1c7820d0e8cd78194b19950ca3ca185cba609befed52f423648b321",
+          "sourceSHA256": "3da737a1f1c7820d0e8cd78194b19950ca3ca185cba609befed52f423648b321",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "text/javascript",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/molecular/atlas.css",
+          "url": "https://staging.universalmind.tv/informatics/molecular/atlas.css",
+          "status": 200,
+          "bytes": 21036,
+          "rawSHA256": "8b4aad7beba6e0f80f8966efa695fce7bf6d5ea8e72f73db518774b9d4f263b5",
+          "sourceSHA256": "8b4aad7beba6e0f80f8966efa695fce7bf6d5ea8e72f73db518774b9d4f263b5",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "text/css",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/molecular/atlas.js",
+          "url": "https://staging.universalmind.tv/informatics/molecular/atlas.js",
+          "status": 200,
+          "bytes": 30876,
+          "rawSHA256": "1477225d7f4d999ff7f129e6b20359475d76ebb71e892e96b5757a1098b715bd",
+          "sourceSHA256": "1477225d7f4d999ff7f129e6b20359475d76ebb71e892e96b5757a1098b715bd",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "text/javascript",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/molecular/data/genes/cd38.json",
+          "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/cd38.json",
+          "status": 200,
+          "bytes": 76843,
+          "rawSHA256": "6db6c07fec44ac703e426802d97db12c8c99f2932e9c2b84fba183995c2e8a2a",
+          "sourceSHA256": "6db6c07fec44ac703e426802d97db12c8c99f2932e9c2b84fba183995c2e8a2a",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "application/json",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/molecular/data/genes/dock2.json",
+          "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/dock2.json",
+          "status": 200,
+          "bytes": 452432,
+          "rawSHA256": "261cc9ab7811b0ee4b630ab200aa4000da7cace13e31bfd8bc7c291c443d764f",
+          "sourceSHA256": "261cc9ab7811b0ee4b630ab200aa4000da7cace13e31bfd8bc7c291c443d764f",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "application/json",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/molecular/data/genes/drd2.json",
+          "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/drd2.json",
+          "status": 200,
+          "bytes": 69298,
+          "rawSHA256": "75b10e87f4467a9e7c703abde0268ec847eec5e11d625f3fca770bada3bb32d4",
+          "sourceSHA256": "75b10e87f4467a9e7c703abde0268ec847eec5e11d625f3fca770bada3bb32d4",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "application/json",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/molecular/data/genes/grin1.json",
+          "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/grin1.json",
+          "status": 200,
+          "bytes": 33519,
+          "rawSHA256": "2f9ee2c23a1ca2930c3f3725f9bb603cd6f722f7018d07a3bcca698090d52d38",
+          "sourceSHA256": "2f9ee2c23a1ca2930c3f3725f9bb603cd6f722f7018d07a3bcca698090d52d38",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "application/json",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/molecular/data/genes/grin2b.json",
+          "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/grin2b.json",
+          "status": 200,
+          "bytes": 546687,
+          "rawSHA256": "475bc33a1b07da010830c1db0b64a84ecd6462434c3cff389f8789764c23b455",
+          "sourceSHA256": "475bc33a1b07da010830c1db0b64a84ecd6462434c3cff389f8789764c23b455",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "application/json",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/molecular/data/genes/il6.json",
+          "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/il6.json",
+          "status": 200,
+          "bytes": 7714,
+          "rawSHA256": "029a31d979aa4592133889096f944c79273f920b971cc065f9dec5999fab4e3b",
+          "sourceSHA256": "029a31d979aa4592133889096f944c79273f920b971cc065f9dec5999fab4e3b",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "application/json",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/molecular/data/genes/index.json",
+          "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/index.json",
+          "status": 200,
+          "bytes": 37254,
+          "rawSHA256": "0a21b971ddbc818da981abafe662df47466ce0836740c0807657fa184dbb76b2",
+          "sourceSHA256": "0a21b971ddbc818da981abafe662df47466ce0836740c0807657fa184dbb76b2",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "application/json",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/molecular/data/genes/nr3c1.json",
+          "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/nr3c1.json",
+          "status": 200,
+          "bytes": 159607,
+          "rawSHA256": "4b650457c6bc0ce31addfe697e6df798b1ac85310970c65a9d57660bf0ac9654",
+          "sourceSHA256": "4b650457c6bc0ce31addfe697e6df798b1ac85310970c65a9d57660bf0ac9654",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "application/json",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/molecular/data/genes/oxtr.json",
+          "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/oxtr.json",
+          "status": 200,
+          "bytes": 20737,
+          "rawSHA256": "ed254465508ce7d2a5e43b112d9f6738701d92f8fde2fbcc8bce98afc50a114b",
+          "sourceSHA256": "ed254465508ce7d2a5e43b112d9f6738701d92f8fde2fbcc8bce98afc50a114b",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "application/json",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/molecular/data/genes/slc6a4.json",
+          "url": "https://staging.universalmind.tv/informatics/molecular/data/genes/slc6a4.json",
+          "status": 200,
+          "bytes": 46799,
+          "rawSHA256": "d8d4f5f6d00e833cffb6f496e0e00b21343d3f9ec22ab7151e5faefcd55f9347",
+          "sourceSHA256": "d8d4f5f6d00e833cffb6f496e0e00b21343d3f9ec22ab7151e5faefcd55f9347",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "application/json",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/molecular/gene-thumb.svg",
+          "url": "https://staging.universalmind.tv/informatics/molecular/gene-thumb.svg",
+          "status": 200,
+          "bytes": 505,
+          "rawSHA256": "ea282ef2fb13c044ea097cfd3bf7dc03866305b5c6faf30c2835f5295edbbe8c",
+          "sourceSHA256": "ea282ef2fb13c044ea097cfd3bf7dc03866305b5c6faf30c2835f5295edbbe8c",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "image/svg+xml",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/molecular/index.html",
+          "url": "https://staging.universalmind.tv/informatics/molecular/index.html",
+          "status": 200,
+          "bytes": 9323,
+          "rawSHA256": "9adb8e4c4ee8ab168af6fe05f358ee2c5a47bd9dd49117eb05395854f792e827",
+          "sourceSHA256": "95607c8ab079f4eaa7ae526f162d3d3ec6341fe5f879df486f497c56c3e012fa",
+          "hostInjectedAnalyticsScripts": 1,
+          "contentType": "text/html",
+          "matchesCommittedSource": true
+        },
+        {
+          "path": "Informatics/molecular/vendor/engine.js",
+          "url": "https://staging.universalmind.tv/informatics/molecular/vendor/engine.js",
+          "status": 200,
+          "bytes": 3140992,
+          "rawSHA256": "5ccd0c534e1e9199d016143f6541958d5ce9ed6f99014aa49407364e539501f6",
+          "sourceSHA256": "5ccd0c534e1e9199d016143f6541958d5ce9ed6f99014aa49407364e539501f6",
+          "hostInjectedAnalyticsScripts": 0,
+          "contentType": "text/javascript",
+          "matchesCommittedSource": true
+        }
+      ]
+    }
+  },
+  "screenshots": [
+    {
+      "path": "gene-desktop.png",
+      "sha256": "31da1ab1bab972407c494b52d70009b1842bede921264a758348192936948ed2",
+      "visuallyReviewed": false
+    },
+    {
+      "path": "gene-mobile.png",
+      "sha256": "9a0d9904c9974fbe03c6386a51c5ecc9e521bc030959aca4c3dcb0855e7b1a18",
+      "visuallyReviewed": true
+    },
+    {
+      "path": "collection-desktop.png",
+      "sha256": "68cb182ec0d3860886287e11a4d8e5319807ac6987dd8d5860436ee69088a641",
+      "visuallyReviewed": true
+    },
+    {
+      "path": "collection-mobile.png",
+      "sha256": "ee9b708dbc1cf7f246a350297391c287f985149a8251e77378405cd3495bd14b",
+      "visuallyReviewed": false
+    }
+  ]
+}

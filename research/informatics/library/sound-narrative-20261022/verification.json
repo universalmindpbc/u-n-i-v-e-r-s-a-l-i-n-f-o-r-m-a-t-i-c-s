@@ -1,0 +1,52 @@
+{
+  "checkedAt": "2026-10-21T18:36:53.423Z",
+  "candidate": false,
+  "processAudioDisabled": true,
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "status": "passed"
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "status": "passed"
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "status": "passed"
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "status": "passed"
+    },
+    {
+      "navigation": "direct and embedded menu routes, About, focus, media preservation",
+      "status": "passed"
+    }
+  ],
+  "errors": [],
+  "sourceCommit": "e19204d9",
+  "sourceQuotationEntriesChecked": 244,
+  "portalSoundEntriesIntegrated": 5,
+  "portalDuplicateMerged": "528 Hz music",
+  "chapters": 6,
+  "topics": 16,
+  "narrativeEntries": 248,
+  "uniquePublications": 242,
+  "visualReview": "Desktop contents, mobile reading and white paper dialog inspected; no clipping, text bleed, import commentary or personal credits.",
+  "productionUnchanged": true,
+  "integratedBaseline": "4eea6799",
+  "postIntegrationNavigation": "integration-verification.json"
+}

@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "at": "2026-10-25T00:39:32.624Z",
+  "process_audio_muted": true,
+  "real_openai_requests": 1,
+  "provider_response_id": "resp_00d67a2d7abb07c7016add4fc3109487d0b1d1ebdeda5e2a9b",
+  "receipt_id": "0ea81cfa-a5d4-4d61-b1e3-13f9cf7a03cc",
+  "diagram_visible_before_during_after_request": true,
+  "live_status_rendered": true,
+  "status_preserved_across_five_steps": true,
+  "no_gpu_or_qpu_submission": true,
+  "errors": []
+}

@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "sourcePages": 236,
+  "sourceEntriesPreserved": 802,
+  "records": 833,
+  "unassignedSourceLinks": 0,
+  "updates": 41,
+  "identityConflictRecords": 3,
+  "checks": [
+    "source text retention",
+    "every source page and figure",
+    "citation link coverage",
+    "star and modality boundaries",
+    "dated appraisal provenance",
+    "retraction exclusion",
+    "language preference"
+  ]
+}

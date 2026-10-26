@@ -1,0 +1,46 @@
+{
+  "checkedAt": "2026-10-24T03:03:08.563Z",
+  "origin": "https://universalmind.tv",
+  "endpoint": "https://informatics-universal-one.universalmind.workers.dev",
+  "processAudioDisabled": true,
+  "layouts": [
+    {
+      "width": 1470,
+      "height": 1000,
+      "viewport": 1470,
+      "scroll": 1470
+    },
+    {
+      "width": 1024,
+      "height": 900,
+      "viewport": 1024,
+      "scroll": 1024
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "viewport": 390,
+      "scroll": 390
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "viewport": 320,
+      "scroll": 320
+    }
+  ],
+  "consoleErrors": [],
+  "researchResponses": [
+    {
+      "status": 200
+    }
+  ],
+  "mcpTest": "Endpoint verified: 8 read-only tools, 811 publications and 1001 Atlas records. Complete account setup in your chosen AI.",
+  "query": "15 matching publications · first 8 shown",
+  "dialogKeyboard": true,
+  "jsonDownload": 811,
+  "answer": "UNIVERSAL ONE\nOne indexed study is “The effect of music performance on the transcriptome of professional musicians” (Scientific Reports, 2015). [1] It measured whole-blood gene-expression changes after a two-hour concert, including responses involving SNCA, FOS and DUSP1, comparing 10 performers with 10 music-free controls. [1] A key limitation is that blood gene expression does not directly establish corresponding changes in the brain. [1]\n1 source\nRead aloud",
+  "embeddedNavigation": true,
+  "passed": true,
+  "browserClosed": true
+}

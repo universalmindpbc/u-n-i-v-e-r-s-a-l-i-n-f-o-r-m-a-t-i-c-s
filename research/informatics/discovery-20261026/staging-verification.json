@@ -1,0 +1,220 @@
+{
+  "base": "https://staging.universalmind.tv/informatics/",
+  "checkedAt": "2026-10-25T23:48:40.071Z",
+  "audioDisabledAtProcessLaunch": true,
+  "noJavaScript": true,
+  "layouts": [
+    {
+      "width": 1470,
+      "noHorizontalOverflow": true
+    },
+    {
+      "width": 390,
+      "noHorizontalOverflow": true
+    },
+    {
+      "width": 320,
+      "noHorizontalOverflow": true
+    }
+  ],
+  "assets": [
+    {
+      "path": "index.html",
+      "sha256": "b4feefac97f3c1cdd848b3bfd80c67697e45b1995508bb6cc461ad535b2fe49e",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "connect.html",
+      "sha256": "e831e7298d52b90fba9953263bedefb6001e41e90daa1854227594dbe6754a83",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "llms.txt",
+      "sha256": "9084410ec95b4abaeadedf7953d9d49e671e0de8384a693a54174b2abcc62e75",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/index.html",
+      "sha256": "b5c2ab1dd43db22efec7b22adcc7debd977acb2099d8e823c81274e584a0c899",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/access.html",
+      "sha256": "0c5c3f84ef14f6de0f7546ac2cad07b67dcc2bd1871784c178e655e618eb8068",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/data.html",
+      "sha256": "b486528483863cb3744dbcdb37e570ae650ad8445c34e4a8e737405d3d635f69",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/provenance.html",
+      "sha256": "ca30c7d2fff21bc647395ba1da2768108ed3b3fea7f53f1ba923f4bfa17a9308",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/reading.css",
+      "sha256": "a6c5b9a1322752f93c8f67fca24e35efc2c79cf447e2673eb7a9695844db99a0",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/atlas/m1.html",
+      "sha256": "771d0d285c29aa0fef17289899245df8e7b1c59c7cd6372056bedc73395ebf74",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/atlas/m9.html",
+      "sha256": "3537141235df915c328488b75ae404f66ddd3bbffdb11c10ec0a338863ea5e2d",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/atlas/m750.html",
+      "sha256": "123a92162236b9b9cd36eea938ffdd8efe572b13b31be9f834739a2916434628",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/atlas/m1001.html",
+      "sha256": "2fc4f0302928dd2fef2afadae28d6d2d94f4e45a82d262fb039aa52f5595e5f1",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/publications/index.html",
+      "sha256": "918c0f886086a562c8a885965c6f9edc42fc853ceaa1ce595f26343a829be060",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/experiments/index.html",
+      "sha256": "27b05d08b202cb59586657aa6b848d1e08bc597be4b8b817a9ccf625f4c1c5c5",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "exports/manifest.json",
+      "sha256": "5b782d0b5c59d2a4b1288a4be35ba6aca6aaad3408684afa0f7170add6d10ffd",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/archive/20261026/VERIFY-TIMESTAMP.txt",
+      "sha256": "acc9f3d94f01276fdb82387b863d7b97626e1008b319424f9806c3e1a9fef0a0",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/archive/20261026/desci-directory-metadata.json.txt",
+      "sha256": "dd8af4d5399b0b951df05f3a4fbb919b9f6169132715e6c6afd58969b260a168",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/archive/20261026/desci-recovered-manifest.json.txt",
+      "sha256": "4b1886aba6b21c2c16cd6981ca01264c386549833f84ca20d6a6a4a96ea792fb",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/archive/20261026/desci-recovery.txt",
+      "sha256": "7a2afaac24a3d73fa05c7211b8c448f1d7340cb91495c96d93d61a424a7ca007",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/archive/20261026/desci-storage-map.json.txt",
+      "sha256": "18c69d13278168282d761d8500eb81c57501d89d0e1a9170ee9ef56674d17867",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/archive/20261026/desci-verification.json.txt",
+      "sha256": "ec9c6052df728c4f720e8af2d08534339e76eaaaac0a3905de146effac1ec03d",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/archive/20261026/integrity.json.txt",
+      "sha256": "61b6a91e8ddc3608e35ff669dbeba5be887db5079cf5bd4f51b3813a47cb0689",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/archive/20261026/manifest.json.ots",
+      "sha256": "0ac732fb55da997e423fbf598c554659902ea25e3aa0c66c9b542a5699d7370b",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/archive/20261026/manifest.json.txt",
+      "sha256": "df177d308cf36853b5c23e5d47356bc0d7976a1bb12792a0771020477adcbd5a",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/archive/20261026/manifest.tsq",
+      "sha256": "20cd0acb09d69f1336188ab7e751a8cccd13412a05eb2400fac044b0a46c75b0",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/archive/20261026/manifest.tsr",
+      "sha256": "d2eb843cc8043851160b863e29ec91fec4c5bb198fa0822dc0dd354c2ce88ed9",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/archive/20261026/production-robots.txt",
+      "sha256": "9f9cb1206d02cc5b14f0dbf538a26c48a8918b3f20c6c3a611060b7bcbad82c7",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/archive/20261026/source-files.json.txt",
+      "sha256": "f972f011754a491d255aa1906f8ddb2c6d870c849697451bdff48545e4c5bc16",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/archive/20261026/synapse-verification.json.txt",
+      "sha256": "08ff7a9b0beb6d97d7d33e744d3c8a82e4631f0dba166b965c832402a6abc5b3",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/archive/20261026/timestamp-chain.pem.txt",
+      "sha256": "450dee95aecff125ad43035a92dc8e63beb93f2064af4e064586627b309855f5",
+      "matches": true,
+      "stagingNoindex": true
+    },
+    {
+      "path": "read/archive/20261026/timestamp-verification.json.txt",
+      "sha256": "d56cff5f64a72e9ee49278d1fffbc6ff6aef3510e7fba3a02fb90114dd0185b3",
+      "matches": true,
+      "stagingNoindex": true
+    }
+  ],
+  "errors": [],
+  "provenanceVerified": true,
+  "journeys": [
+    "overview → publication index → complete publication",
+    "geometry index → M9 → evidence status and complete data",
+    "experiment index → versioned experiment",
+    "AI access policy"
+  ],
+  "stagingRobotsExcluded": true,
+  "sitemapMatches": true,
+  "landingReadingLinkWorks": true,
+  "passed": true
+}

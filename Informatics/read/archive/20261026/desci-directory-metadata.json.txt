@@ -1,0 +1,10 @@
+{
+  "Hash": {
+    "/": "bafybeiegycaritcwqqx6rfeoazvv3cdlh7klfaw5gqftdtik6pdxz5egbe"
+  },
+  "NumLinks": 33,
+  "BlockSize": 2535,
+  "LinksSize": 2533,
+  "DataSize": 2,
+  "CumulativeSize": 223350561
+}

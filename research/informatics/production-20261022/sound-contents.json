@@ -1,0 +1,118 @@
+{
+  "results": [
+    {
+      "width": 1470,
+      "mode": "video",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 1470,
+      "mode": "black",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 1470,
+      "mode": "white",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "mode": "video",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "mode": "black",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "mode": "white",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "mode": "video",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "mode": "black",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "mode": "white",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "mode": "video",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "mode": "black",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "mode": "white",
+      "topics": 19,
+      "scoresAndCountsInline": true,
+      "icons32px": true,
+      "subchapterSpacingAtLeast24px": true,
+      "overflow": false
+    }
+  ],
+  "errors": [],
+  "muted": true,
+  "contextsClosed": true,
+  "chapterLinksPassed": true,
+  "verifiedEnvironment": "production",
+  "verifiedBaseURL": "https://universalmind.tv/informatics/"
+}

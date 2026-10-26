@@ -1,0 +1,86 @@
+{
+  "results": [
+    {
+      "width": 1470,
+      "stats": {
+        "sound": {
+          "papers": 284,
+          "journals": 145,
+          "citations": 24691
+        },
+        "vision": {
+          "papers": 65,
+          "journals": 36,
+          "citations": 2290
+        },
+        "language": {
+          "papers": 315,
+          "journals": 171,
+          "citations": 9874
+        },
+        "all": {
+          "papers": 651,
+          "journals": 306,
+          "citations": 36582
+        }
+      },
+      "status": "passed"
+    },
+    {
+      "width": 390,
+      "stats": {
+        "sound": {
+          "papers": 284,
+          "journals": 145,
+          "citations": 24691
+        },
+        "vision": {
+          "papers": 65,
+          "journals": 36,
+          "citations": 2290
+        },
+        "language": {
+          "papers": 315,
+          "journals": 171,
+          "citations": 9874
+        },
+        "all": {
+          "papers": 651,
+          "journals": 306,
+          "citations": 36582
+        }
+      },
+      "status": "passed"
+    },
+    {
+      "width": 320,
+      "stats": {
+        "sound": {
+          "papers": 284,
+          "journals": 145,
+          "citations": 24691
+        },
+        "vision": {
+          "papers": 65,
+          "journals": 36,
+          "citations": 2290
+        },
+        "language": {
+          "papers": 315,
+          "journals": 171,
+          "citations": 9874
+        },
+        "all": {
+          "papers": 651,
+          "journals": 306,
+          "citations": 36582
+        }
+      },
+      "status": "passed"
+    }
+  ],
+  "errors": [],
+  "muted": true,
+  "verifiedEnvironment": "production",
+  "verifiedBaseURL": "https://universalmind.tv/informatics/"
+}

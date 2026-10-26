@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Quantum Lab · Universal Informatics</title>
+<meta name="description" content="Create reproducible neutral-atom simulations, compare a verified GPU experiment and explore quantum methods for biological research.">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<link rel="icon" href="/vogue/iam/favicon.png"><link rel="stylesheet" href="lab.css?v=1">
+<script defer src="../global-navigation.js?v=4"></script><script type="module" src="lab.js?v=3"></script>
+<link rel="canonical" href="https://universalmind.tv/informatics/quantum/verification.html"></head>
+<body>
+<a class="skip" href="#workspace">Skip to experiment</a>
+<header class="standalone"><a href="../?entry=research&amp;area=quantum">UNIVERSAL INFORMATICS</a><details><summary>Research Atlas</summary><nav data-global-menu="quantum" aria-label="Informatics sections"></nav></details></header>
+<main>
+<div class="lab-masthead"><p class="eyebrow">UNIVERSAL INFORMATICS <span>/</span> COMPUTATIONAL RESEARCH</p><span class="status-dot">Browser laboratory · free</span></div>
+<section class="intro" aria-labelledby="lab-title"><div><h1 id="lab-title">Connection verification<span>.</span></h1><p class="tagline">Our two-atom<br>computational reference.</p></div><div class="intro-copy"><p>Explore classical, quantum and hybrid methods. Define a model, run an experiment, compare the evidence and share the complete method.</p><p class="subtle">Our first experiment studies two interacting neutral atoms. It establishes a computational foundation for future biological research.</p></div></section>
+<nav class="section-nav" aria-label="Quantum Lab sections"><a href="#workspace">01 <span>Experiment</span></a><a href="#workflow">02 <span>Workflow</span></a><a href="#methods">03 <span>Biological questions</span></a><a href="#access">04 <span>Connection evidence</span></a></nav>
+
+<section id="workspace" class="workspace" aria-labelledby="experiment-title">
+<div class="section-heading"><div><p class="eyebrow">EXPERIMENT 001 / RYDBERG PAIR</p><h2 id="experiment-title">Two atoms. Four outcomes.</h2></div><button id="baseline" class="text-button">Restore reference ↺</button></div>
+<div class="experiment-grid">
+ <div class="atom-view">
+  <div class="figure-top"><span>IDEAL STATE EVOLUTION</span><span id="time-label">4.000 µs</span></div>
+  <svg id="atoms" viewBox="0 0 640 390" role="img" aria-labelledby="atoms-title atoms-desc">
+   <title id="atoms-title">Two interacting neutral atoms</title><desc id="atoms-desc">Ring arcs show simulated excitation probabilities. The distance label shows atom separation. These are atoms, not electron orbitals.</desc>
+   <defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#182530" stroke-width=".6"/></pattern></defs>
+   <rect width="640" height="390" fill="url(#grid)"/>
+   <path d="M80 190H560M180 56V312M460 56V312" stroke="#29404f" stroke-width=".7" stroke-dasharray="3 8"/>
+   <path d="M200 190H440" stroke="#8194a1" stroke-dasharray="2 7"/>
+   <g class="atom" transform="translate(180 190)"><circle r="65" class="atom-track"/><circle id="atom-a-ring" r="65" pathLength="1" class="atom-ring"/><circle r="42" class="atom-core"/><circle r="8" fill="#b9f8e5"/><path d="M-85 0H-74M74 0H85M0-85V-74M0 74V85" stroke="#526778"/></g>
+   <g class="atom" transform="translate(460 190)"><circle r="65" class="atom-track"/><circle id="atom-b-ring" r="65" pathLength="1" class="atom-ring"/><circle r="42" class="atom-core"/><circle r="8" fill="#b9f8e5"/><path d="M-85 0H-74M74 0H85M0-85V-74M0 74V85" stroke="#526778"/></g>
+   <text x="180" y="82" class="svg-label">ATOM 0</text><text x="460" y="82" class="svg-label">ATOM 1</text>
+   <text x="180" y="300" id="atom-a-prob" class="svg-prob">—</text><text x="460" y="300" id="atom-b-prob" class="svg-prob">—</text>
+   <path d="M180 340V350M180 345H460M460 340V350" stroke="#5d7484"/><rect x="266" y="332" width="108" height="26" fill="#0a121b"/><text x="320" y="350" id="distance-label" class="svg-label">5.70 µm</text>
+  </svg>
+  <div class="timeline"><label for="time">Explore simulated time <span id="time-value">4.000 µs</span></label><input id="time" type="range" min="0" max="160" value="160" step="1" disabled><svg id="pulse" viewBox="0 0 600 80" role="img" aria-label="Drive amplitude and detuning over time"></svg><div class="key"><span class="mint">Drive Ω</span><span class="blue">Detuning Δ</span><span>0 → <span id="duration-label">4</span> µs</span></div></div>
+  <p class="figure-note">Ring arcs = excitation probability · calculated evolution<br>Hardware endpoint measurements do not provide a time-resolved movie.</p>
+ </div>
+ <div class="results-view"><div class="figure-top"><span>JOINT OUTCOME PROBABILITIES</span><span id="plot-state">REFERENCE</span></div><div class="key"><span class="blue">CPU calculation</span><span class="mint" id="gpu-key">Recorded GPU samples</span></div><div id="outcomes" aria-live="off"></div><p id="comparison-note" class="subtle">Loading verified results…</p><div class="result-metrics"><div><span id="metric-shots">20,000</span><small>recorded GPU shots</small></div><div><span id="metric-error">—</span><small>step-halving difference</small></div></div><p id="run-status" role="status">Preparing the reference calculation…</p><p id="hardware-snapshot" class="hardware-note"></p></div>
+</div>
+<form id="experiment-form" class="experiment-form">
+ <div class="form-heading"><h3>Create your experiment</h3><p>Change this model’s parameters and run a fresh calculation. No cloud charges.</p></div>
+ <div class="parameter-grid">
+  <label>Atom separation <span>µm</span><input id="distance_um" name="distance_um" type="number" min="4.5" max="9" step="0.1" value="5.7" required></label>
+  <label>Pulse duration <span>µs</span><input id="duration_us" name="duration_us" type="number" min="2" max="6" step="0.1" value="4" required></label>
+  <label>Peak drive Ω <span>rad / µs</span><input id="omega_rad_us" name="omega_rad_us" type="number" min="1" max="10" step="0.1" value="6.3" required></label>
+  <label>Detuning ±Δ <span>rad / µs</span><input id="detuning_rad_us" name="detuning_rad_us" type="number" min="10" max="50" step="0.1" value="31.5" required></label>
+ </div>
+ <div class="actions"><button class="primary" id="run" type="submit">Run simulation <span>↗</span></button><button type="button" id="rerun" disabled>Rerun selected experiment</button><button type="button" id="export" disabled>Export run ↓</button><button type="button" id="export-figure" disabled>Export figure ↓</button><label class="import-button" tabindex="0" role="button">Import experiment ↑<input type="file" id="import" accept=".json,application/json" hidden></label></div>
+ <p id="draft-status" class="subtle" role="status">The reference parameters are ready. Every saved run receives a unique ID.</p>
+</form>
+<div class="workspace-bottom"><details><summary>Model &amp; numerical checks</summary><div class="details-body"><p class="equation">H / ℏ = Ω(t)/2 · (X₀ + X₁) − Δ(t) · (n₀ + n₁) + V · n₀n₁</p><p>V = C₆/r⁶, C₆ = 5.42 × 10⁻²⁴ rad m⁶/s. Initial state |gg⟩. Phase is zero. The drive ramps over the first and final 2.5% of the pulse; detuning sweeps linearly between them.</p><p>The browser solves the four-state Schrödinger equation with RK4, repeats at half the step size, and requires probability difference and norm error below 10⁻⁶. This check measures numerical convergence, not physical fidelity.</p><p>Ideal closed system. No noise, atom loss or preparation/readout errors. g = ground; r = Rydberg excitation. Basis order: gg, gr, rg, rr, with atom 0 first.</p><p id="reference-check"></p><a href="reproduce.py" download>Download independent Python reference ↓</a> · <a href="requirements.txt" download>Python dependencies ↓</a> · <a href="data/reference.json" download>Download archived evidence ↓</a></div></details><details id="history-panel"><summary>Your run history <span id="history-count">0</span></summary><div class="details-body"><p>Stored in this browser profile on this device. Export for durable storage or sharing. No account sync or server upload.</p><div id="history"></div><button id="clear-history">Clear local history</button></div></details></div>
+</section>
+
+<section id="workflow" class="page-section" aria-labelledby="workflow-title"><div class="section-heading"><div><p class="eyebrow">ONE MODEL / INDEPENDENT PATHS</p><h2 id="workflow-title">How the experiment travels.</h2></div><p>Select a stage to learn its role.</p></div><div class="workflow"><div class="workflow-start"><button data-stage="gpt"><span>ASSIST</span><strong>GPT / AI</strong></button><i>→</i><button data-stage="wolfram"><span>MODEL</span><strong>Wolfram<br>Quantum Framework</strong></button><i>→</i><button data-stage="spec"><span>DEFINE</span><strong>Versioned<br>experiment</strong></button></div><div class="workflow-branches"><div class="workflow-lane cpu"><em>REFERENCE</em><button data-stage="cpu"><span>VERIFY</span><strong>Independent CPU</strong></button></div><div class="workflow-lane hardware"><em>QUANTUM HARDWARE</em><button data-stage="braket"><span>ROUTE</span><strong>Amazon Braket</strong></button><i>→</i><button data-stage="aquila"><span>EXECUTE</span><strong>QuEra Aquila</strong></button></div><div class="workflow-lane gpu"><em>CLASSICAL SIMULATION</em><button data-stage="cudaq"><span>COMPILE</span><strong>NVIDIA CUDA-Q</strong></button><i>→</i><button data-stage="qbraid"><span>DISPATCH</span><strong>qBraid</strong></button><i>→</i><button data-stage="nvidia"><span>SIMULATE</span><strong>NVIDIA GH200</strong></button></div></div><div class="workflow-end"><span>↓</span><button data-stage="compare"><span>COMPARE</span><strong>Universal Informatics</strong></button></div><div id="stage-detail" role="status"><strong>Independent paths, shared evidence.</strong> The GPU circuit approximates the analog model; its numerical error is checked before comparing sampled outcomes.</div></div><p class="attribution">Technology used in this experiment. Independent research demonstration; no partnership or endorsement is implied. The diagram records the tested research workflow. Website cloud submission is awaiting activation.</p></section>
+
+<section id="methods" class="page-section" aria-labelledby="methods-title"><p class="eyebrow">START WITH THE SCIENCE</p><h2 id="methods-title">What question are you asking?</h2><p class="section-lead">A biological question needs a precise mathematical model and a strong classical benchmark. Different quantum devices accept different kinds of problems.</p><div id="method-cards" class="method-grid"></div><div class="section-heading research-heading"><div><p class="eyebrow">RESEARCH TO LEARN FROM</p><h2>Methods with evidence.</h2></div><p>Five selected papers · evidence checked 24 October 2026</p></div><div id="papers" class="paper-grid"></div></section>
+
+<section id="access" class="page-section"><p class="eyebrow">CONNECTION EVIDENCE</p><h2>Recorded experiment, optional controls.</h2><p>This view preserves the two-atom verification and browser calculation. The main Quantum Lab opens with biological questions and AI guidance. GPU and QPU submissions are not active on the website.</p><div hidden><select id="provider"><option value="aquila">QuEra Aquila</option></select><input id="shots" type="number" value="100"><button id="prepare-request" disabled>Export technical record</button><p id="request-status"></p></div></section>
+<footer><span>UNIVERSAL INFORMATICS / QUANTUM LAB</span><p>Reproducible computation. Biological questions. Evidence in context.</p><a href="#lab-title">Back to top ↑</a></footer>
+</main>
+<noscript><p>This experiment workspace needs JavaScript. <a href="data/reference.json">Download the reference evidence</a>.</p></noscript>
+</body></html>

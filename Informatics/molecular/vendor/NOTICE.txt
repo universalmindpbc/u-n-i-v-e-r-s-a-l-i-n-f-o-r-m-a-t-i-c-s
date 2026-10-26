@@ -1,0 +1,5 @@
+Universal Informatics Molecular Atlas uses Mol* 5.13.1.
+Mol* is copyright its contributors and distributed under the MIT license.
+See LICENSE-Molstar.txt and the third-party legal notices preserved in engine.js.
+Source and reproducible dependency lock: research/informatics/molecular-atlas-build/.
+Molecular coordinate sources and publication attribution are linked in the atlas Evidence panel and data/catalogue.json.

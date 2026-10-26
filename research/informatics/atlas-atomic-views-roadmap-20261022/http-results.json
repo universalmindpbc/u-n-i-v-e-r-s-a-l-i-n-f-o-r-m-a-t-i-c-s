@@ -1,0 +1,194 @@
+{
+  "verifiedAt": "2026-10-21T19:01:26Z",
+  "sourceCommit": "231f0b5d7b365168c0c24293d8fff2d42a3a9233",
+  "passed": true,
+  "assets": [
+    {
+      "path": "Informatics/app.js",
+      "url": "https://staging.universalmind.tv/informatics/app.js",
+      "status": 200,
+      "bytes": 15724,
+      "rawSHA256": "f52660df0f034c0b1e015e618888596f9bb128a41ccd6545f17bec629a5f0b42",
+      "sourceSHA256": "f52660df0f034c0b1e015e618888596f9bb128a41ccd6545f17bec629a5f0b42",
+      "hostInjectedAnalyticsScripts": 0,
+      "contentType": "text/javascript",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/index.html",
+      "url": "https://staging.universalmind.tv/informatics/index.html",
+      "status": 200,
+      "bytes": 24185,
+      "rawSHA256": "118e348f5086da7052d93e1b04b2fb5efee467285bb81244419d4e5c4e1f35f2",
+      "sourceSHA256": "4afb10818829daf3fd31b9de7b88f378bba6769c93e17dd923e7f24fc07c9ef9",
+      "hostInjectedAnalyticsScripts": 1,
+      "contentType": "text/html",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/library-data/library.json",
+      "url": "https://staging.universalmind.tv/informatics/library-data/library.json",
+      "status": 200,
+      "bytes": 2943828,
+      "rawSHA256": "07455efb6272395f4861410c5a6ff4e3278bd0b213afb0efeee25faf32a086a1",
+      "sourceSHA256": "07455efb6272395f4861410c5a6ff4e3278bd0b213afb0efeee25faf32a086a1",
+      "hostInjectedAnalyticsScripts": 0,
+      "contentType": "application/json",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/library-data/sound-edition.json",
+      "url": "https://staging.universalmind.tv/informatics/library-data/sound-edition.json",
+      "status": 200,
+      "bytes": 380646,
+      "rawSHA256": "72b21f12aa82d6f2e0fd4033dc3b047322db8fd9945994e3d1225093966592bc",
+      "sourceSHA256": "72b21f12aa82d6f2e0fd4033dc3b047322db8fd9945994e3d1225093966592bc",
+      "hostInjectedAnalyticsScripts": 0,
+      "contentType": "application/json",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/library-launcher.css",
+      "url": "https://staging.universalmind.tv/informatics/library-launcher.css",
+      "status": 200,
+      "bytes": 13063,
+      "rawSHA256": "2d230e7215cc10c868765d9050a5173d405d9ba343300116e512339bc682bdf9",
+      "sourceSHA256": "2d230e7215cc10c868765d9050a5173d405d9ba343300116e512339bc682bdf9",
+      "hostInjectedAnalyticsScripts": 0,
+      "contentType": "text/css",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/library-launcher.js",
+      "url": "https://staging.universalmind.tv/informatics/library-launcher.js",
+      "status": 200,
+      "bytes": 15970,
+      "rawSHA256": "e658635d4c81bae246d42eddb00a11aeac02897d85a240df569bcce773b2cf26",
+      "sourceSHA256": "e658635d4c81bae246d42eddb00a11aeac02897d85a240df569bcce773b2cf26",
+      "hostInjectedAnalyticsScripts": 0,
+      "contentType": "text/javascript",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/library-navigation.js",
+      "url": "https://staging.universalmind.tv/informatics/library-navigation.js",
+      "status": 200,
+      "bytes": 2621,
+      "rawSHA256": "8901b3e870e48664b1a7db9e667c9ca387ed1afc2d5c41591893e0d7a4abf10e",
+      "sourceSHA256": "8901b3e870e48664b1a7db9e667c9ca387ed1afc2d5c41591893e0d7a4abf10e",
+      "hostInjectedAnalyticsScripts": 0,
+      "contentType": "text/javascript",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/library-theme.js",
+      "url": "https://staging.universalmind.tv/informatics/library-theme.js",
+      "status": 200,
+      "bytes": 3710,
+      "rawSHA256": "29419131491b488d2837d3de05117356e46caa0bd404be31657a32b5c91fd187",
+      "sourceSHA256": "29419131491b488d2837d3de05117356e46caa0bd404be31657a32b5c91fd187",
+      "hostInjectedAnalyticsScripts": 0,
+      "contentType": "text/javascript",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/library.css",
+      "url": "https://staging.universalmind.tv/informatics/library.css",
+      "status": 200,
+      "bytes": 17529,
+      "rawSHA256": "73e2ffa21648750b53998f82c47fd70bb4a2f6c8ece2f964a74e8b1e6e376d09",
+      "sourceSHA256": "73e2ffa21648750b53998f82c47fd70bb4a2f6c8ece2f964a74e8b1e6e376d09",
+      "hostInjectedAnalyticsScripts": 0,
+      "contentType": "text/css",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/library.html",
+      "url": "https://staging.universalmind.tv/informatics/library.html",
+      "status": 200,
+      "bytes": 7122,
+      "rawSHA256": "94f25ab10126c9d583ee6ba526f4a3bbe3c2df0dd8fff98a7e1b7a2375915b4b",
+      "sourceSHA256": "8c6193017f0e4f1b3d173f54dbf0418938d252223d36c4e14f9d7c1bc0a6d201",
+      "hostInjectedAnalyticsScripts": 1,
+      "contentType": "text/html",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/library.js",
+      "url": "https://staging.universalmind.tv/informatics/library.js",
+      "status": 200,
+      "bytes": 21716,
+      "rawSHA256": "fdc5bb595317e9442815f8bfad5eea452f8c8451238e90cc8d077da341b7eddb",
+      "sourceSHA256": "fdc5bb595317e9442815f8bfad5eea452f8c8451238e90cc8d077da341b7eddb",
+      "hostInjectedAnalyticsScripts": 0,
+      "contentType": "text/javascript",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/molecular/atlas.css",
+      "url": "https://staging.universalmind.tv/informatics/molecular/atlas.css",
+      "status": 200,
+      "bytes": 21235,
+      "rawSHA256": "f7bcf4fa8876eade4e81f15547081e01edeab43355e55b666b382ef95a9232d8",
+      "sourceSHA256": "f7bcf4fa8876eade4e81f15547081e01edeab43355e55b666b382ef95a9232d8",
+      "hostInjectedAnalyticsScripts": 0,
+      "contentType": "text/css",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/molecular/atlas.js",
+      "url": "https://staging.universalmind.tv/informatics/molecular/atlas.js",
+      "status": 200,
+      "bytes": 32939,
+      "rawSHA256": "b370b34dd14917336a39d0a6191099ffde41dc1b3f6b58ace1bc09b7be8e4c9d",
+      "sourceSHA256": "b370b34dd14917336a39d0a6191099ffde41dc1b3f6b58ace1bc09b7be8e4c9d",
+      "hostInjectedAnalyticsScripts": 0,
+      "contentType": "text/javascript",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/molecular/index.html",
+      "url": "https://staging.universalmind.tv/informatics/molecular/index.html",
+      "status": 200,
+      "bytes": 9428,
+      "rawSHA256": "62baa2089be65b782df7df464629fccea55adf6da34e5dbd11b9275b1cebb92f",
+      "sourceSHA256": "e2c469a2b98c6b7ccbd6841bf94dca053c6531d4ec1490542ed481b06b49409e",
+      "hostInjectedAnalyticsScripts": 1,
+      "contentType": "text/html",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/molecular/vendor/BIOEXCEL-LICENSE.txt",
+      "url": "https://staging.universalmind.tv/informatics/molecular/vendor/BIOEXCEL-LICENSE.txt",
+      "status": 200,
+      "bytes": 11357,
+      "rawSHA256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+      "sourceSHA256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+      "hostInjectedAnalyticsScripts": 0,
+      "contentType": "text/plain",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/molecular/vendor/dna-model-notice.txt",
+      "url": "https://staging.universalmind.tv/informatics/molecular/vendor/dna-model-notice.txt",
+      "status": 200,
+      "bytes": 792,
+      "rawSHA256": "537f6757036e08886c87e9e3be4879f4b208f492d1c076fa318955bf1ac4527d",
+      "sourceSHA256": "537f6757036e08886c87e9e3be4879f4b208f492d1c076fa318955bf1ac4527d",
+      "hostInjectedAnalyticsScripts": 0,
+      "contentType": "text/plain",
+      "matchesCommittedSource": true
+    },
+    {
+      "path": "Informatics/molecular/vendor/engine.js",
+      "url": "https://staging.universalmind.tv/informatics/molecular/vendor/engine.js",
+      "status": 200,
+      "bytes": 3148690,
+      "rawSHA256": "c9b21fb5c2eb0c0fae64bd865699ec16e44df7b6d754bfaf3240190c3f3673f8",
+      "sourceSHA256": "c9b21fb5c2eb0c0fae64bd865699ec16e44df7b6d754bfaf3240190c3f3673f8",
+      "hostInjectedAnalyticsScripts": 0,
+      "contentType": "text/javascript",
+      "matchesCommittedSource": true
+    }
+  ]
+}

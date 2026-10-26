@@ -1,0 +1,9 @@
+{
+  "revision": "d6f1ff781e6c37c30d6ee25e6079ca13cd7e8c81efd665a3ce0801ec3b9dc58c",
+  "destinations": {
+    "desci": "queued",
+    "synapse": "delivered"
+  },
+  "synapse_folder": "syn78381228",
+  "desci_note": "Queued until the existing DeSci document service is repaired; no replacement draft created."
+}

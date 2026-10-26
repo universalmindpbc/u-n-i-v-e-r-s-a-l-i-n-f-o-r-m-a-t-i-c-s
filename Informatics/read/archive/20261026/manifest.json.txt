@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "datasetVersion": "informatics-20261026-43d49bbc4b88",
+  "createdAt": "2026-10-25T23:17:34.049490+00:00",
+  "source": "https://informatics-universal-one-staging.universalmind.workers.dev",
+  "sourceCommit": "6fcbb450d14f54efefdbb57630c6c875e8019b2a",
+  "datasetContentVersion": "43d49bbc4b8805d8f8995ddb53a27032791299be2d7c09ddfc0e735b95fce743",
+  "maintainer": "Universal Mind / Ben Korbel",
+  "scope": {
+    "structuredScientificSources": 1170,
+    "linkedAssets": 9015,
+    "publicSourceFiles": 113,
+    "privateDataIncluded": false,
+    "fullTextArticlesAdded": false
+  },
+  "files": [
+    {
+      "path": "informatics-complete.json.gz",
+      "bytes": 75558215,
+      "sha256": "9e23e50ddf18f866f694b22db0eb58a303260bd32b3bb7a3f547ebd9ada055ae",
+      "role": "Complete lossless JSON dataset, gzip compressed"
+    },
+    {
+      "path": "informatics-complete.csv.gz",
+      "bytes": 144093134,
+      "sha256": "0995feb6849942b44101924ec6587ad561f5ad7b59c836db5bc497a002ccbb20",
+      "role": "Complete lossless CSV dataset, gzip compressed"
+    },
+    {
+      "path": "dataset-manifest.json",
+      "bytes": 2391728,
+      "sha256": "5b782d0b5c59d2a4b1288a4be35ba6aca6aaad3408684afa0f7170add6d10ffd",
+      "role": "Original source and asset inventory with individual hashes"
+    },
+    {
+      "path": "DATA-GUIDE.txt",
+      "bytes": 2379,
+      "sha256": "4dd8718622192ddffb27d6b252bb5142fa47fa3a35b38ad1b30a7db8aa30b547",
+      "role": "Dataset schema and reconstruction instructions"
+    },
+    {
+      "path": "public-source.tar.gz",
+      "bytes": 1256032,
+      "sha256": "9aa3a6c1e0bea9211daccc6f75242c976e2337ec7ed583d367649d65faefc3c1",
+      "role": "Public client code, scientific methods, data export and reading-page builders"
+    },
+    {
+      "path": "source-files.json",
+      "bytes": 17877,
+      "sha256": "f972f011754a491d255aa1906f8ddb2c6d870c849697451bdff48545e4c5bc16",
+      "role": "SHA-256 inventory for the public source archive"
+    },
+    {
+      "path": "SNAPSHOT.txt",
+      "bytes": 1221,
+      "sha256": "17f543d90c337b70d1e035b6c846b33f115a080dc8e2973a5dc568cb9bd48ef0",
+      "role": "Snapshot scope, attribution and interpretation"
+    }
+  ]
+}

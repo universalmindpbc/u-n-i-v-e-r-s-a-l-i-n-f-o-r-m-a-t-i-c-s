@@ -1,0 +1,2880 @@
+{
+  "checkedAt": "2026-10-23T12:18:32.584678+00:00",
+  "baselineRetained": 115,
+  "method": "Version-specific official PMC Cloud metadata and JATS. CC BY/CC0 and author manuscripts explicitly tagged TDM are retained separately. NC/ND/unknown licences are held for review. Retractions, identifier conflicts and missing bodies are excluded. TDM manuscripts remain private; no full-text redistribution, provider upload, embedding or model training performed.",
+  "summary": {
+    "rights-review-required": 45,
+    "text-mining-manuscript-cached": 44,
+    "not-in-cloud-dataset": 31,
+    "conflicting-license-review-required": 1,
+    "open-fulltext-cached": 9
+  },
+  "records": [
+    {
+      "id": "pmid-42519422",
+      "pmcid": "PMC13383946",
+      "title": "MicroRNAs expression changes associated with trauma-focused psychotherapy efficacy in treatment-resistant depression: An exploratory study.",
+      "versions": [
+        {
+          "version": 1,
+          "title": "MicroRNAs expression changes associated with trauma-focused psychotherapy efficacy in treatment-resistant depression: An exploratory study",
+          "doi": "10.1016/j.nsa.2026.107020",
+          "pmid": 42519422,
+          "license_code": "CC BY-NC-ND",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-42615937",
+      "pmcid": "PMC13502011",
+      "title": "Shared Transcriptomic and Epigenomic Signatures Between Traumatic Brain Injury and Music Exposure: An Integrative Proof of Concept",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Shared Transcriptomic and Epigenomic Signatures Between Traumatic Brain Injury and Music Exposure: An Integrative Proof of Concept",
+          "doi": "10.1080/17590914.2026.2691563",
+          "pmid": 42615937,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-38776115",
+      "pmcid": "PMC11127494",
+      "title": "CD38 Deficiency Protects Mouse Retinal Ganglion Cells Through Activating the NAD+/Sirt1 Pathway in Ischemia-Reperfusion and Optic Nerve Crush Models",
+      "versions": [
+        {
+          "version": 1,
+          "title": "CD38 Deficiency Protects Mouse Retinal Ganglion Cells Through Activating the NAD+/Sirt1 Pathway in Ischemia-Reperfusion and Optic Nerve Crush Models",
+          "doi": "10.1167/iovs.65.5.36",
+          "pmid": 38776115,
+          "license_code": "CC BY-NC-ND",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-38362742",
+      "pmcid": "PMC10878335",
+      "title": "DNA methylation changes in association with trauma-focused psychotherapy efficacy in treatment-resistant depression patients: a prospective longitudinal study.",
+      "versions": [
+        {
+          "version": 1,
+          "title": "DNA methylation changes in association with trauma-focused psychotherapy efficacy in treatment-resistant depression patients: a prospective longitudinal study",
+          "doi": "10.1080/20008066.2024.2314913",
+          "pmid": 38362742,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-37982547",
+      "pmcid": "PMC11098967",
+      "title": "Mindfulness-Based Stress Reduction Reduces Proinflammatory Gene Regulation But Not Systemic Inflammation Among Older Adults: A Randomized Controlled Trial",
+      "versions": [
+        {
+          "version": 319,
+          "title": "Mindfulness-Based Stress Reduction reduces pro-inflammatory gene regulation but not systemic inflammation among older adults: A randomized controlled trial",
+          "doi": "10.1097/PSY.0000000000001264",
+          "pmid": 37982547,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 319,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11098967.319/PMC11098967.319.xml?md5=d05190b9d4f53781df4336c3187168aa",
+      "sha256": "1b16dfe2ba8b376ff85637909baac237c51fb570fb20ab9e3948ea59b5be2de8",
+      "bytes": 140381,
+      "paragraphs": 40,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC11098967",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-38222454",
+      "pmcid": "PMC10784230",
+      "title": "Light damage induces inflammatory factors in mouse retina and vitreous humor",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Light damage induces inflammatory factors in mouse retina and vitreous humor",
+          "doi": null,
+          "pmid": 38222454,
+          "license_code": "CC BY-NC-ND",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-37560036",
+      "pmcid": "PMC10407892",
+      "title": "Transcendental Meditation practitioners show reduced expression of the Conserved Transcriptional Response to Adversity",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Transcendental Meditation practitioners show reduced expression of the Conserved Transcriptional Response to Adversity",
+          "doi": "10.1016/j.bbih.2023.100672",
+          "pmid": 37560036,
+          "license_code": "CC BY-NC-ND",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-35544697",
+      "pmcid": "PMC9273284",
+      "title": "Dopamine receptor signaling regulates fibrotic activation of retinal pigmented epithelial cells",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-36278141",
+      "pmcid": "PMC9585929",
+      "title": "Effect of Mindfulness Versus Loving-kindness Training on Leukocyte Gene Expression in Midlife Adults Raised in Low-Socioeconomic Status Households",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Effect of Mindfulness Versus Loving-kindness Training on Leukocyte Gene Expression in Midlife Adults Raised in Low-Socioeconomic Status Households",
+          "doi": "10.1007/s12671-022-01857-z",
+          "pmid": 36278141,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9585929.1/PMC9585929.1.xml?md5=752c4610127d83f0f9309d4715a2004a",
+      "sha256": "956f8160b4192e36eebc47b42986eabda4f3c15f95c30ad1db9837f869c05213",
+      "bytes": 125940,
+      "paragraphs": 36,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC9585929",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-36267832",
+      "pmcid": "PMC9576541",
+      "title": "Online, low-volume meditation does not alter immune-related biomarkers",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Online, low-volume meditation does not alter immune-related biomarkers",
+          "doi": "10.1016/j.bbih.2022.100531",
+          "pmid": 36267832,
+          "license_code": "CC BY-NC-ND",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-35070159",
+      "pmcid": "PMC8772504",
+      "title": "Inflammation-related microRNAs are involved in stressful life events exposure and in trauma-focused psychotherapy in treatment-resistant depressed patients.",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Inflammation-related microRNAs are involved in stressful life events exposure and in trauma-focused psychotherapy in treatment-resistant depressed patients",
+          "doi": "10.1080/20008198.2021.1987655",
+          "pmid": 35070159,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-31521905",
+      "pmcid": "PMC7389869",
+      "title": "Examining the link between emotional childhood abuse and social relationships in midlife: The moderating role of the oxytocin receptor gene",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Examining the Link Between Emotional Childhood Abuse and Social Relationships in Midlife: The Moderating Role of the Oxytocin Receptor Gene",
+          "doi": "10.1016/j.chiabu.2019.104151",
+          "pmid": 31521905,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7389869.1/PMC7389869.1.xml?md5=af11aa3c7d3bbf5c93650c6a1f4de3dc",
+      "sha256": "f1070346ed92b7912ef9fea742297fafab69aa9f7e0c03a77ff932c8f6139231",
+      "bytes": 232154,
+      "paragraphs": 41,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC7389869",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-28889075",
+      "pmcid": "PMC5863232",
+      "title": "Epigenetic clock analysis in long-term meditators",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Epigenetic clock analysis in long-term meditators",
+          "doi": "10.1016/j.psyneuen.2017.08.016",
+          "pmid": 28889075,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5863232.1/PMC5863232.1.xml?md5=fc5de2c9a21d3966119d9dc96417ec97",
+      "sha256": "81b46c42149335c6251bb98f5ae8fb4300c3df2aa501489fa86defd6c93a97b7",
+      "bytes": 79515,
+      "paragraphs": 17,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC5863232",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-28526450",
+      "pmcid": "PMC5581254",
+      "title": "The association of single-nucleotide polymorphisms in the oxytocin receptor and G protein–coupled receptor kinase 6 (GRK6) genes with oxytocin dosing requirements and labor outcomes",
+      "versions": [
+        {
+          "version": 1,
+          "title": "The association of single nucleotide polymorphisms in the oxytocin receptor and G protein-coupled receptor kinase 6 (GRK6) genes with oxytocin dosing requirements and labor outcomes",
+          "doi": "10.1016/j.ajog.2017.05.023",
+          "pmid": 28526450,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5581254.1/PMC5581254.1.xml?md5=01ef8bcf24d3a7a74ad97330b4c70611",
+      "sha256": "c28f4397c23ae2b96daa3517958aa482678167121f947e24e618d6c4933f6de2",
+      "bytes": 83098,
+      "paragraphs": 21,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC5581254",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-27317929",
+      "pmcid": "PMC5040919",
+      "title": "Effects of oxytocin administration on spirituality and emotional responses to meditation",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-26903384",
+      "pmcid": "PMC5317103",
+      "title": "Oxytocin receptor gene polymorphism modulates the effects of social support on heart rate variability",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Oxytocin receptor gene polymorphism modulates the effects of social support on heart rate variability",
+          "doi": "10.1016/j.biopsycho.2016.02.007",
+          "pmid": 26903384,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5317103.1/PMC5317103.1.xml?md5=181d897c7d6d9e1ea25a0ca7b68b54f0",
+      "sha256": "89ff9c6bfdab0381e5f310a8d877a50130a22c1fbdc91ef760bed614b681b093",
+      "bytes": 109549,
+      "paragraphs": 33,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC5317103",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-26178189",
+      "pmcid": "PMC4560652",
+      "title": "A common oxytocin receptor gene (OXTR)polymorphism modulates intranasal oxytocin effects on the neural response to social cooperation in humans",
+      "versions": [
+        {
+          "version": 1,
+          "title": "A common oxytocin receptor gene (OXTR) polymorphism modulates intranasal oxytocin effects on the neural response to social cooperation in humans",
+          "doi": "10.1111/gbb.12234",
+          "pmid": 26178189,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4560652.1/PMC4560652.1.xml?md5=47383e251e538a5796d61c06a8d621e3",
+      "sha256": "ad443d4cbae0ed21dff86bd4606a4f0487e82df4c8c16044d62ffa59a6c30c99",
+      "bytes": 123640,
+      "paragraphs": 35,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC4560652",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-25537522",
+      "pmcid": "PMC4393338",
+      "title": "Mindfulness meditation for younger breast cancer survivors: A randomized controlled trial",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Mindfulness meditation for younger breast cancer survivors: A randomized controlled trial",
+          "doi": "10.1002/cncr.29194",
+          "pmid": 25537522,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4393338.1/PMC4393338.1.xml?md5=89fbeb9397c47872bea5335d9e82b462",
+      "sha256": "8c18b64f9196c79b0c1b1bcd1bfdfc855f60b115f613a71c496a95360fcd43ef",
+      "bytes": 99007,
+      "paragraphs": 30,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC4393338",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-25593022",
+      "pmcid": "PMC4554231",
+      "title": "Oxytocin expression and function in the posterior retina: a novel signaling pathway",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-24485481",
+      "pmcid": "PMC4039194",
+      "title": "Rapid changes in histone deacetylases and inflammatory gene expression in expert meditators",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Rapid changes in histone deacetylases and inflammatory gene expression in expert meditators",
+          "doi": "10.1016/j.psyneuen.2013.11.004",
+          "pmid": 24485481,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4039194.1/PMC4039194.1.xml?md5=6cd8f6aac92c785fe0ef3aa3809fbe05",
+      "sha256": "514b181a9ab9bc13bd8c22c9bfaac95256bacd681ce5f654b3fe86d4386ed68d",
+      "bytes": 156985,
+      "paragraphs": 38,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC4039194",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2013 Elsevier Ltd. All rights reserved. 2013 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-25749595",
+      "pmcid": "PMC4411534",
+      "title": "Tai chi, cellular inflammation, and transcriptome dynamics in breast cancer survivors with insomnia: a randomized controlled trial",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-24703167",
+      "pmcid": "PMC4060606",
+      "title": "Yoga reduces inflammatory signaling in fatigued breast cancer survivors: A randomized controlled trial",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Yoga reduces inflammatory signaling in fatigued breast cancer survivors: A randomized controlled trial",
+          "doi": "10.1016/j.psyneuen.2014.01.019",
+          "pmid": 24703167,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4060606.1/PMC4060606.1.xml?md5=c99c08697f1c9a92f558b06c1e8af477",
+      "sha256": "530bb7dc2caf4152a1a792bbc6a6a11050b4f3c7f9c45e64f2aac23f8d4c3cae",
+      "bytes": 117379,
+      "paragraphs": 28,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC4060606",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2014 Elsevier Ltd. All rights reserved. 2014 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-23435350",
+      "pmcid": "PMC3628588",
+      "title": "Recreational Music-Making alters gene expression pathways in patients with coronary heart disease",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Recreational music-making alters gene expression pathways in patients with coronary heart disease",
+          "doi": "10.12659/MSM.883807",
+          "pmid": 23435350,
+          "license_code": null,
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-22820409",
+      "pmcid": "PMC3635809",
+      "title": "Mindfulness-Based Stress Reduction training reduces loneliness and pro-inflammatory gene expression in older adults: a small randomized controlled trial",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Mindfulness-Based Stress Reduction Training Reduces Loneliness and Pro-Inflammatory Gene Expression in Older Adults: A Small Randomized Controlled Trial",
+          "doi": "10.1016/j.bbi.2012.07.006",
+          "pmid": 22820409,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3635809.1/PMC3635809.1.xml?md5=8591f3493603ec95d6495af420460048",
+      "sha256": "c8ff5d5d2b6b322b6b925417348b967c67b6682e87de240cc2d704d89981bb4c",
+      "bytes": 102006,
+      "paragraphs": 28,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC3635809",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2012 Elsevier Inc. All rights reserved. 2012 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-22123970",
+      "pmcid": "PMC3250137",
+      "title": "Common oxytocin receptor gene (OXTR) polymorphism and social support interact to reduce stress in humans",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-21896752",
+      "pmcid": "PMC3174632",
+      "title": "Oxytocin receptor gene (OXTR) is related to psychological resources",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-22303405",
+      "pmcid": "PMC3268383",
+      "title": "Toward an Epigenetic View of Our Musical Mind",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Toward an Epigenetic View of Our Musical Mind",
+          "doi": "10.3389/fgene.2011.00111",
+          "pmid": 22303405,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "src-32ff0961cd36",
+      "pmcid": "PMC5891835",
+      "title": "Quantum annealing versus classical machine learning applied to a simplified computational biology problem",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Quantum annealing versus classical machine learning applied to a simplified computational biology problem",
+          "doi": "10.1038/s41534-018-0060-8",
+          "pmid": 29652405,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5891835.1/PMC5891835.1.xml?md5=db0b292b8f60c94f7e259dd68312e22f",
+      "sha256": "1fe7e128719897eadb80aca7b8342655bd0076f4d925e4ecdc9df66ad3ee0999",
+      "bytes": 112469,
+      "paragraphs": 27,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC5891835",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "src-e9b23a765f28",
+      "pmcid": "PMC3494746",
+      "title": "Yogic meditation reverses NF- κ B and IRF-related transcriptome dynamics in leukocytes of family dementia caregivers in a randomized controlled trial",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Yogic meditation reverses NF-κB and IRF-related transcriptome dynamics in leukocytes of family dementia caregivers in a randomized controlled trial",
+          "doi": "10.1016/j.psyneuen.2012.06.011",
+          "pmid": 22795617,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3494746.1/PMC3494746.1.xml?md5=e8bfb3b1ff9af561cef0cf0397deeb27",
+      "sha256": "7af261119540be7804e3aae532b67bc324824c5cfe14838429349544805ca9a7",
+      "bytes": 109033,
+      "paragraphs": 20,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC3494746",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2012 Elsevier Ltd. All rights reserved. 2012 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-42411718",
+      "pmcid": "PMC13347840",
+      "title": "Peer-delivered combined EMD and imagery rescripting for traumatized Chinese university students: a RCT.",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Peer-delivered combined EMD and imagery rescripting for traumatized Chinese university students: a RCT",
+          "doi": "10.1080/20008066.2026.2686577",
+          "pmid": 42411718,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-42773467",
+      "pmcid": "PMC13599145",
+      "title": "The immediate and follow-up effects of EMDR therapy for adults with post-traumatic stress disorder: a meta-analysis of randomized controlled trials.",
+      "versions": [
+        {
+          "version": 1,
+          "title": "The immediate and follow-up effects of EMDR therapy for adults with post-traumatic stress disorder: a meta-analysis of randomized controlled trials",
+          "doi": "10.1186/s40359-026-05349-w",
+          "pmid": 42773467,
+          "license_code": "CC BY-NC-ND",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-39835632",
+      "pmcid": "PMC11753006",
+      "title": "Effectiveness of an intensive outpatient treatment programme combining prolonged exposure and EMDR therapy for adolescents and young adults with PTSD in a naturalistic setting.",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Effectiveness of an intensive outpatient treatment programme combining prolonged exposure and EMDR therapy for adolescents and young adults with PTSD in a naturalistic setting",
+          "doi": "10.1080/20008066.2025.2451478",
+          "pmid": 39835632,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-40243164",
+      "pmcid": "PMC12006939",
+      "title": "Effects of eye movement desensitisation and reprocessing on depressive symptoms, stress and rumination in adolescents with depression: a randomised controlled trial.",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Effects of eye movement desensitisation and reprocessing on depressive symptoms, stress and rumination in adolescents with depression: a randomised controlled trial",
+          "doi": "10.1080/20008066.2025.2488558",
+          "pmid": 40243164,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-40547443",
+      "pmcid": "PMC12179724",
+      "title": "Music therapy for the treatment of anxiety: a systematic review with multilevel meta-analyses",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Music therapy for the treatment of anxiety: a systematic review with multilevel meta-analyses",
+          "doi": "10.1016/j.eclinm.2025.103293",
+          "pmid": 40547443,
+          "license_code": "CC BY-NC-ND",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-39630422",
+      "pmcid": "PMC11618582",
+      "title": "Psychological Interventions for Pediatric Posttraumatic Stress Disorder: A Systematic Review and Network Meta-Analysis.",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-40655918",
+      "pmcid": "PMC12244202",
+      "title": "Music interventions for posttraumatic stress disorder: A systematic review",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Music interventions for posttraumatic stress disorder: A systematic review",
+          "doi": "10.1016/j.xjmad.2024.100053",
+          "pmid": 40655918,
+          "license_code": "CC BY-NC-ND",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-37531065",
+      "pmcid": "PMC10561173",
+      "title": "Light disrupts social memory via a retina-to-supraoptic nucleus circuit",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-36588113",
+      "pmcid": "PMC9805913",
+      "title": "LIGHTSITE II Randomized Multicenter Trial: Evaluation of Multiwavelength Photobiomodulation in Non-exudative Age-Related Macular Degeneration",
+      "versions": [
+        {
+          "version": 1,
+          "title": "LIGHTSITE II Randomized Multicenter Trial: Evaluation of Multiwavelength Photobiomodulation in Non-exudative Age-Related Macular Degeneration",
+          "doi": "10.1007/s40123-022-00640-6",
+          "pmid": 36588113,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        },
+        {
+          "version": 2,
+          "title": "LIGHTSITE II Randomized Multicenter Trial: Evaluation of Multiwavelength Photobiomodulation in Non-exudative Age-Related Macular Degeneration",
+          "doi": "10.1007/s40123-022-00640-6",
+          "pmid": 36588113,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-36350591",
+      "pmcid": "PMC9647561",
+      "title": "Mindfulness-Based Stress Reduction vs Escitalopram for the Treatment of Adults With Anxiety Disorders: A Randomized Clinical Trial",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-35707677",
+      "pmcid": "PMC9190205",
+      "title": "The Role of the Endocannabinoids 2-AG and Anandamide in Clinical Symptoms and Treatment Outcome in Veterans with PTSD.",
+      "versions": [
+        {
+          "version": 1,
+          "title": "The Role of the Endocannabinoids 2-AG and Anandamide in Clinical Symptoms and Treatment Outcome in Veterans with PTSD",
+          "doi": "10.1177/24705470221107290",
+          "pmid": 35707677,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-34025912",
+      "pmcid": "PMC8128126",
+      "title": "Safety and effectiveness of intensive treatment for complex PTSD delivered via home-based telehealth.",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Safety and effectiveness of intensive treatment for complex PTSD delivered via home-based telehealth",
+          "doi": "10.1080/20008198.2020.1860346",
+          "pmid": 34025912,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-30049225",
+      "pmcid": "PMC6348030",
+      "title": "Gamification Use and Design in Popular Health and Fitness Mobile Applications",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "src-8ad1130190f0",
+      "pmcid": "PMC6824981",
+      "title": "Theta-Burst Transcranial Magnetic Stimulation for Posttraumatic Stress Disorder",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Theta Burst Transcranial Magnetic Stimulation for Posttraumatic Stress Disorder",
+          "doi": "10.1176/appi.ajp.2019.18101160",
+          "pmid": 31230462,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6824981.1/PMC6824981.1.xml?md5=74292a10a08928f8ebc0cbe8496c2ca3",
+      "sha256": "45ac42f6d929fadda3f9f3a41ab4ef2fb92d60f27d52ccc152a97364d6a54d76",
+      "bytes": 116542,
+      "paragraphs": 31,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC6824981",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-29110615",
+      "pmcid": "PMC5872374",
+      "title": "Effects of Molecular Hydrogen Assessed by an Animal Model and a Randomized Clinical Study on Mild Cognitive Impairment",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Effects of Molecular Hydrogen Assessed by an Animal Model and a Randomized Clinical Study on Mild Cognitive Impairment",
+          "doi": "10.2174/1567205014666171106145017",
+          "pmid": 29110615,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-29899015",
+      "pmcid": "PMC6220554",
+      "title": "Loss‐Framed Financial Incentives and Personalized Goal‐Setting to Increase Physical Activity Among Ischemic Heart Disease Patients Using Wearable Devices: The ACTIVE REWARD Randomized Trial",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Loss‐Framed Financial Incentives and Personalized Goal‐Setting to Increase Physical Activity Among Ischemic Heart Disease Patients Using Wearable Devices: The ACTIVE REWARD Randomized Trial",
+          "doi": "10.1161/JAHA.118.009173",
+          "pmid": 29899015,
+          "license_code": "CC BY-NC-ND",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-30003481",
+      "pmcid": "PMC6153249",
+      "title": "Social Incentives and Gamification to Promote Weight Loss: The LOSE IT Randomized, Controlled Trial",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-28669546",
+      "pmcid": "PMC7881764",
+      "title": "Biased Oxytocinergic Modulation of Midbrain Dopamine Systems",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Biased oxytocinergic modulation of midbrain dopamine systems",
+          "doi": "10.1016/j.neuron.2017.06.003",
+          "pmid": 28669546,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7881764.1/PMC7881764.1.xml?md5=e8d93a1980d3470f3dfc702e3d5dc5ed",
+      "sha256": "589eb5ed39a77da6718bf37d6f56b670621453907fca8f468cc83cee1c1ecfc0",
+      "bytes": 203072,
+      "paragraphs": 49,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC7881764",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-27647521",
+      "pmcid": "PMC6866719",
+      "title": "Desynchronization of autonomic response and central autonomic network connectivity in posttraumatic stress disorder",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-28481610",
+      "pmcid": "PMC5540313",
+      "title": "Exploring the Potential of Technology-Based Mental Health Services for Homeless Youth: A Qualitative Study",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Exploring the Potential of Technology-Based Mental Health Services for Homeless Youth: A Qualitative Study",
+          "doi": "10.1037/ser0000120",
+          "pmid": 28481610,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5540313.1/PMC5540313.1.xml?md5=d6fc43db81365e8209fdddbd53f190e9",
+      "sha256": "4dd632db659cb59399baf59bb4b1f001eef3f091e76d6c9f7cbd36f0250db04d",
+      "bytes": 94025,
+      "paragraphs": 49,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC5540313",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-28386342",
+      "pmcid": "PMC5376007",
+      "title": "Hydrogen-rich saline attenuates isoflurane-induced caspase-3 activation and cognitive impairment via inhibition of isoflurane-induced oxidative stress, mitochondrial dysfunction, and reduction in ATP levels",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-29497485",
+      "pmcid": "PMC5806445",
+      "title": "Hydrogen-rich water for improvements of mood, anxiety, and autonomic nerve function in daily life",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Hydrogen-rich water for improvements of mood, anxiety, and autonomic nerve function in daily life",
+          "doi": "10.4103/2045-9912.222448",
+          "pmid": 29497485,
+          "license_code": "CC BY-NC-SA",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-29228794",
+      "pmcid": "PMC5871269",
+      "title": "Learning to BREATHE: A Pilot Study of a Mindfulness-Based Intervention to Support Marginalized Youth",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Learning to BREATHE: A Pilot Study of a Mindfulness-Based Intervention to Support Marginalized Youth",
+          "doi": "10.1177/2156587217696928",
+          "pmid": 29228794,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-31097900",
+      "pmcid": "PMC6516785",
+      "title": "No digital divide? Technology use among homeless adults",
+      "versions": [
+        {
+          "version": 1,
+          "title": "No Digital Divide? Technology Use among Homeless Adults",
+          "doi": "10.1080/10530789.2017.1305140",
+          "pmid": 31097900,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6516785.1/PMC6516785.1.xml?md5=51c39d434712a3a103f478cd4bb13aaf",
+      "sha256": "12c841f6936ef389753a4c45fa70fc24bb74845ba48cb4a208b7f42f788bd13b",
+      "bytes": 56474,
+      "paragraphs": 18,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC6516785",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-27707822",
+      "pmcid": "PMC7651954",
+      "title": "Using social media to monitor mental health discussions − evidence from Twitter",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-27543885",
+      "pmcid": "PMC5359600",
+      "title": "Common variant in OXTR predicts growth in positive emotions from loving-kindness training",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Common variant in OXTR predicts growth in positive emotions from loving-kindness training",
+          "doi": "10.1016/j.psyneuen.2016.08.010",
+          "pmid": 27543885,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5359600.1/PMC5359600.1.xml?md5=e699c1fdb864be99b796cc3a4f56a2e2",
+      "sha256": "3dc4855065130ffff02b4c5a7f762ea188e34e5bc27121f9ce241591751a4a81",
+      "bytes": 130216,
+      "paragraphs": 30,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC5359600",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-27002445",
+      "pmcid": "PMC4914381",
+      "title": "Effect of Mindfulness-Based Stress Reduction vs Cognitive Behavioral Therapy or Usual Care on Back Pain and Functional Limitations in Adults With Chronic Low Back Pain: A Randomized Clinical Trial",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Effects of Mindfulness-Based Stress Reduction vs Cognitive-Behavioral Therapy and Usual Care on Back Pain and Functional Limitations among Adults with Chronic Low Back Pain: A Randomized Clinical Trial",
+          "doi": "10.1001/jama.2016.2323",
+          "pmid": 27002445,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4914381.1/PMC4914381.1.xml?md5=77844e350d1cee4353165726962a61ee",
+      "sha256": "63a3abee351d470b3614a194731f797ea948831506f7a85af4e621d52a44d942",
+      "bytes": 129899,
+      "paragraphs": 33,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC4914381",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-26799456",
+      "pmcid": "PMC4940234",
+      "title": "Mindfulness meditation and the immune system: a systematic review of randomized controlled trials",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Mindfulness meditation and the immune system: a systematic review of randomized controlled trials",
+          "doi": "10.1111/nyas.12998",
+          "pmid": 26799456,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4940234.1/PMC4940234.1.xml?md5=9996ef5369b6f8d668acd2ce09653a98",
+      "sha256": "40f563122720ca3cb0933227f54f4a56a00cb40dc7c06f3389a1f3bc8e0aa9e3",
+      "bytes": 126206,
+      "paragraphs": 29,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC4940234",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-27603755",
+      "pmcid": "PMC6140334",
+      "title": "Participation Rates With Opt-out Enrollment in a Remote Monitoring Intervention for Patients With Myocardial Infarction",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Opt-out Enrollment Increases Participation in a Remote Monitoring Intervention for Myocardial Infarction Patients",
+          "doi": "10.1001/jamacardio.2016.2374",
+          "pmid": 27603755,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6140334.1/PMC6140334.1.xml?md5=89ebcd08cd670d5fa3990181071289c0",
+      "sha256": "5c19cf3ecfe2f401871380a8101fbf3f2aa6ed6bf9169b39d5628d147db9df47",
+      "bytes": 20268,
+      "paragraphs": 6,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC6140334",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-26744309",
+      "pmcid": "PMC4830464",
+      "title": "The future of mental health care: peer-to-peer support and social media",
+      "versions": [
+        {
+          "version": 1,
+          "title": "The future of mental health care: peer-to-peer support and social media",
+          "doi": "10.1017/S2045796015001067",
+          "pmid": 26744309,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4830464.1/PMC4830464.1.xml?md5=61422c3c0a1e7b5c0ddc8d15b31a782a",
+      "sha256": "ab77ce8492f40cfb2f5c91e122c6b37a89380c3c104ed8dbb3472535d11b70c2",
+      "bytes": 112382,
+      "paragraphs": 30,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC4830464",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-26074123",
+      "pmcid": "PMC7137601",
+      "title": "Time-course of PTSD symptoms in the Australian Defence Force: a retrospective cohort study",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-27512317",
+      "pmcid": "PMC4959333",
+      "title": "Yoga and heart rate variability: A comprehensive review of the literature",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Yoga and heart rate variability: A comprehensive review of the literature",
+          "doi": "10.4103/0973-6131.183712",
+          "pmid": 27512317,
+          "license_code": "CC BY-NC-SA",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-25694852",
+      "pmcid": "PMC4311559",
+      "title": "Heart Rate Variability: New Perspectives on Physiological Mechanisms, Assessment of Self-regulatory Capacity, and Health risk",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Heart Rate Variability: New Perspectives on Physiological Mechanisms, Assessment of Self-regulatory Capacity, and Health risk",
+          "doi": "10.7453/gahmj.2014.073",
+          "pmid": 25694852,
+          "license_code": null,
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-26170587",
+      "pmcid": "PMC4479905",
+      "title": "Resting heart rate variability after yogic training and swimming: A prospective randomized comparative trial",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Resting heart rate variability after yogic training and swimming: A prospective randomized comparative trial",
+          "doi": "10.4103/0973-6131.154069",
+          "pmid": 26170587,
+          "license_code": "CC BY-NC-SA",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-26347062",
+      "pmcid": "PMC4550182",
+      "title": "Treatments for traumatic brain injury with emphasis on transcranial near-infrared laser phototherapy",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Treatments for traumatic brain injury with emphasis on transcranial near-infrared laser phototherapy",
+          "doi": "10.2147/NDT.S65809",
+          "pmid": 26347062,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-26491332",
+      "pmcid": "PMC4599639",
+      "title": "Virtual reality exposure-based therapy for the treatment of post-traumatic stress disorder: a review of its efficacy, the adequacy of the treatment protocol, and its acceptability",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Virtual reality exposure-based therapy for the treatment of post-traumatic stress disorder: a review of its efficacy, the adequacy of the treatment protocol, and its acceptability",
+          "doi": "10.2147/NDT.S89542",
+          "pmid": 26491332,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-24626068",
+      "pmcid": "PMC3951026",
+      "title": "Effect of Transcendental Meditation on Employee Stress, Depression, and Burnout: A Randomized Controlled Study",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-24876768",
+      "pmcid": "PMC4036702",
+      "title": "Effectiveness of music therapy: a summary of systematic reviews based on randomized controlled trials of music interventions",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Effectiveness of music therapy: a summary of systematic reviews based on randomized controlled trials of music interventions",
+          "doi": "10.2147/PPA.S61340",
+          "pmid": 24876768,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-24609454",
+      "pmcid": "PMC4193714",
+      "title": "Feasibility, Acceptability, and Preliminary Efficacy of a Smartphone Intervention for Schizophrenia",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-24626074",
+      "pmcid": "PMC3951033",
+      "title": "The role of eye movement desensitization and reprocessing (EMDR) therapy in medicine: addressing the psychological and physical symptoms stemming from adverse life experiences.",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-22374478",
+      "pmcid": "PMC3345952",
+      "title": "Bridging the Hemispheres in Meditation: thicker callosal regions and enhanced fractional anisotropy (FA) in long-term practitioners",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Bridging the Hemispheres in Meditation: thicker callosal regions and enhanced fractional anisotropy (FA) in long-term practitioners",
+          "doi": "10.1016/j.neuroimage.2012.02.026",
+          "pmid": 22374478,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3345952.1/PMC3345952.1.xml?md5=d6dd3c96023cc75aa1bf48f86219b827",
+      "sha256": "219c4bc5aee107fefd5ca54e7984de82c494b3779c6e72e1b87be11a97a0d7a0",
+      "bytes": 114650,
+      "paragraphs": 30,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC3345952",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2012 Elsevier Inc. All rights reserved. 2012 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-22169588",
+      "pmcid": "PMC3384690",
+      "title": "Changes in stress, eating, and metabolic factors are related to changes in telomerase activity in a randomized mindfulness intervention pilot study",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Changes in stress, eating, and metabolic factors are related to changes in telomerase activity in a randomized mindfulness intervention pilot study",
+          "doi": "10.1016/j.psyneuen.2011.10.008",
+          "pmid": 22169588,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3384690.1/PMC3384690.1.xml?md5=419c9cc8c65e138db963b36f212b0275",
+      "sha256": "2d318ff1a85efbeb107fac6945b87bbf2dcd1de6389acae8c4e807ed5d4007c4",
+      "bytes": 138318,
+      "paragraphs": 49,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC3384690",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-22891157",
+      "pmcid": "PMC3417777",
+      "title": "Finding low-energy conformations of lattice protein models by quantum annealing",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Finding low-energy conformations of lattice protein models by quantum annealing",
+          "doi": "10.1038/srep00571",
+          "pmid": 22891157,
+          "license_code": "CC BY-NC-ND",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-23149426",
+      "pmcid": "PMC7269100",
+      "title": "Stress Reduction in the Secondary Prevention of Cardiovascular Disease: Randomized, Controlled Trial of Transcendental Meditation and Health Education in Blacks",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Stress Reduction in the Secondary Prevention of Cardiovascular Disease: A Randomized Controlled Trial of Transcendental Meditation and Health Education in African Americans",
+          "doi": "10.1161/CIRCOUTCOMES.112.967406",
+          "pmid": 23149426,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7269100.1/PMC7269100.1.xml?md5=e274f063a22f2629091be66811b63e4a",
+      "sha256": "a18b710e2ad8194bbe378a8f2636bc598b077473de72ad2d41883e9d5aa2b609",
+      "bytes": 131379,
+      "paragraphs": 37,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC7269100",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-22393318",
+      "pmcid": "PMC3289949",
+      "title": "The unique brain anatomy of meditation practitioners: alterations in cortical gyrification",
+      "versions": [
+        {
+          "version": 1,
+          "title": "The Unique Brain Anatomy of Meditation Practitioners: Alterations in Cortical Gyrification",
+          "doi": "10.3389/fnhum.2012.00034",
+          "pmid": 22393318,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-21716581",
+      "pmcid": "PMC3110826",
+      "title": "Effects of music listening on cortisol levels and propofol consumption during spinal anesthesia",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Effects of Music Listening on Cortisol Levels and Propofol Consumption during Spinal Anesthesia",
+          "doi": "10.3389/fpsyg.2011.00058",
+          "pmid": 21716581,
+          "license_code": null,
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-22893808",
+      "pmcid": "PMC3402110",
+      "title": "EMDR versus stabilisation in traumatised asylum seekers and refugees: results of a pilot study.",
+      "versions": [
+        {
+          "version": 1,
+          "title": "EMDR versus stabilisation in traumatised asylum seekers and refugees: results of a pilot study",
+          "doi": "10.3402/ejpt.v2i0.5881",
+          "pmid": 22893808,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-22144961",
+      "pmcid": "PMC3225923",
+      "title": "Heart rate variability – a historical perspective",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Heart Rate Variability – A Historical Perspective",
+          "doi": "10.3389/fphys.2011.00086",
+          "pmid": 22144961,
+          "license_code": null,
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-21840289",
+      "pmcid": "PMC3176989",
+      "title": "Loving-kindness and compassion meditation: Potential for psychological interventions",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Loving-Kindness and Compassion Meditation: Potential for Psychological Interventions",
+          "doi": "10.1016/j.cpr.2011.07.003",
+          "pmid": 21840289,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3176989.1/PMC3176989.1.xml?md5=ac3c06aa0e1217c776583d08e39bb903",
+      "sha256": "b677f940dcb07a24824cecd71451a1f63b120612b2a6938a2ff8e37626624094",
+      "bytes": 106846,
+      "paragraphs": 40,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC3176989",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2011 Elsevier Ltd. All rights reserved. 2011 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-21372745",
+      "pmcid": "PMC3123409",
+      "title": "Mindfulness Training for Coping with Hot Flashes: Results of a Randomized Trial",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Mindfulness Training for Coping with Hot Flashes: Results of a Randomized Trial",
+          "doi": "10.1097/gme.0b013e318204a05c",
+          "pmid": 21372745,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3123409.1/PMC3123409.1.xml?md5=45bac9fe0252b6b3ae3018461597059b",
+      "sha256": "1fa1f6a9dcb867e4372d17390dc553068873d0cfea00e36baeb754a52adf616b",
+      "bytes": 125225,
+      "paragraphs": 32,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC3123409",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-21241793",
+      "pmcid": "PMC3358819",
+      "title": "Openness and conscientiousness predict 34-SSweek patterns of Interleukin-6 in older persons",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Openness and Conscientiousness Predict 34-Week Patterns of Interleukin-6 in Older Persons",
+          "doi": "10.1016/j.bbi.2011.01.003",
+          "pmid": 21241793,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3358819.1/PMC3358819.1.xml?md5=ab71f9f270378b5b4c4e42c77cd5aafe",
+      "sha256": "f5d5c052a38d3e47657087d09a1e90c24d11ee3d19df2f124e8f65a9133830dc",
+      "bytes": 98055,
+      "paragraphs": 28,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC3358819",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-22021757",
+      "pmcid": "PMC3191432",
+      "title": "Yoga respiratory training improves respiratory function and cardiac sympathovagal balance in elderly subjects: a randomised controlled trial",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Yoga respiratory training improves respiratory function and cardiac sympathovagal balance in elderly subjects: a randomised controlled trial",
+          "doi": "10.1136/bmjopen-2011-000085",
+          "pmid": 22021757,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-20557568",
+      "pmcid": "PMC6493805",
+      "title": "Dopamine and Oxytocin Interactions Underlying Behaviors: Potential Contributions to Behavioral Disorders",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-20490324",
+      "pmcid": "PMC2872234",
+      "title": "Drinking Hydrogen Water Ameliorated Cognitive Impairment in Senescence-Accelerated Mice",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Drinking Hydrogen Water Ameliorated Cognitive Impairment in Senescence-Accelerated Mice",
+          "doi": "10.3164/jcbn.10-19",
+          "pmid": 20490324,
+          "license_code": null,
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-21423355",
+      "pmcid": "PMC3059975",
+      "title": "Fractal physiology and the fractional calculus: a perspective",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Fractal Physiology and the Fractional Calculus: A Perspective",
+          "doi": "10.3389/fphys.2010.00012",
+          "pmid": 21423355,
+          "license_code": null,
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-21423358",
+      "pmcid": "PMC3059969",
+      "title": "Fractals in the nervous system: conceptual implications for theoretical neuroscience",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Fractals in the Nervous System: Conceptual Implications for Theoretical Neuroscience",
+          "doi": "10.3389/fphys.2010.00015",
+          "pmid": 21423358,
+          "license_code": null,
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-20121706",
+      "pmcid": "PMC2855827",
+      "title": "Heart rate variability (HRV) in adolescent females with anxiety disorders and major depressive disorder",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Heart rate variability (HRV) in adolescent females with anxiety disorders and major depressive disorder",
+          "doi": "10.1111/j.1651-2227.2009.01657.x",
+          "pmid": 20121706,
+          "license_code": "CC BY",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "conflicting-license-review-required",
+      "rights": [
+        "Journal Compilation © 2010 Foundation Acta Pædiatrica https://creativecommons.org/licenses/by/2.5/ Re-use of this article is permitted in accordance with the Creative Commons Deed, Attribution 2.5, which does not permit commercial exploitation."
+      ]
+    },
+    {
+      "id": "pmid-20013298",
+      "pmcid": "PMC2812711",
+      "title": "Occipital gamma activation during Vipassana meditation",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Occipital gamma activation during Vipassana meditation",
+          "doi": "10.1007/s10339-009-0352-1",
+          "pmid": 20013298,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-20871742",
+      "pmcid": "PMC2944261",
+      "title": "Buddha's Brain: Neuroplasticity and Meditation",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-21768988",
+      "pmcid": "PMC4106278",
+      "title": "Mindfulness Meditation for Alcohol Relapse Prevention: A Feasibility Pilot Study",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Mindfulness Meditation for Alcohol Relapse Prevention: A Feasibility Pilot Study",
+          "doi": "10.1097/ADM.0b013e31816f8546",
+          "pmid": 21768988,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4106278.1/PMC4106278.1.xml?md5=92a5df06bacc186c613691a479748a79",
+      "sha256": "1bc1772c3edb4e9efa289205727a9911a923899e9e0baa49d4ce09fba378385d",
+      "bytes": 109268,
+      "paragraphs": 29,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC4106278",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "Copyright © 2008 American Society of Addiction Medicine 2008 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-18710596",
+      "pmcid": "PMC2776393",
+      "title": "Music, memory and emotion",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Music, memory and emotion",
+          "doi": "10.1186/jbiol82",
+          "pmid": 18710596,
+          "license_code": null,
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-17274213",
+      "pmcid": "PMC2048830",
+      "title": "Effectiveness of Transcendental Meditation on Functional Capacity and Quality of Life of African Americans with Congestive Heart Failure: A Randomized Control Study",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-20072706",
+      "pmcid": "PMC2804994",
+      "title": "Modifying Exposure-Based CBT for Cambodian Refugees with Posttraumatic Stress Disorder",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-16254067",
+      "pmcid": "PMC2632240",
+      "title": "Therapeutic Effects of Individualized Alpha Frequency Transcranial Magnetic Stimulation ( α TMS) on the Negative Symptoms of Schizophrenia",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-16275477",
+      "pmcid": "PMC2656447",
+      "title": "Does Schumann resonance affect our blood pressure?",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "src-688f56d0a555",
+      "pmcid": "PMC2533840",
+      "title": "Light in the Heart of Darkness: EMDR and the Treatment of War and Terrorism Survivors",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-11828038",
+      "pmcid": "PMC1746263",
+      "title": "Sahaja yoga in the management of moderate to severe asthma: a randomised controlled trial Thorax",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "src-1d69fc1d3629",
+      "pmcid": "PMC6703757",
+      "title": "A Little Goes a Long Way: How the Adult Brain Is Shaped by Musical Training in Childhood",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "src-56e515aacddb",
+      "pmcid": "PMC3128829",
+      "title": "A Randomized Controlled Trial on Effects of the Transcendental Meditation Program on Blood Pressure, Psychological Distress, and Coping in Young Adults",
+      "versions": [
+        {
+          "version": 1,
+          "title": "A Randomized Controlled Trial on Effects of the Transcendental Meditation Program on Blood Pressure, Psychological Distress, and Coping in Young Adults",
+          "doi": "10.1038/ajh.2009.184",
+          "pmid": 19798037,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3128829.1/PMC3128829.1.xml?md5=3d0003b8562e8523c1d4fccdb5875454",
+      "sha256": "09eab04f0de42e32363897856fdc8c75ab34cc89fc1ab076c3a72c052786b32d",
+      "bytes": 89482,
+      "paragraphs": 43,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC3128829",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "src-507ea85612c7",
+      "pmcid": "PMC5392238",
+      "title": "Baseline psychophysiological and cortisol reactivity as a predictor of PTSD treatment outcome in virtual reality exposure therapy",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Baseline psychophysiological and cortisol reactivity as a predictor of PTSD treatment outcome in virtual reality exposure therapy",
+          "doi": "10.1016/j.brat.2016.05.002",
+          "pmid": 27183343,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5392238.1/PMC5392238.1.xml?md5=976685a7390590eeb743df8a4a3425eb",
+      "sha256": "50649c91bc2979392b0d698d95bd124fde28010402b3cea820893955be8906a8",
+      "bytes": 138750,
+      "paragraphs": 37,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC5392238",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "src-217758559eb4",
+      "pmcid": "PMC3844086",
+      "title": "Biological impact of preschool music classes on processing speech in noise",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Biological impact of preschool music classes on processing speech in noise",
+          "doi": "10.1016/j.dcn.2013.06.003",
+          "pmid": 23872199,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3844086.1/PMC3844086.1.xml?md5=950d7e09cca97da956faed231d7a1e0f",
+      "sha256": "fef7e7f3364fa9ca9c363d22741b5b7733ecb2288ea34edb76aa3e41f4c7dc5f",
+      "bytes": 126473,
+      "paragraphs": 31,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC3844086",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2013 Elsevier Ltd. All rights reserved. 2013 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "src-5e9624ec353b",
+      "pmcid": "PMC6614917",
+      "title": "Comparative Effect of Nature-Based Sounds Intervention and Headphones Intervention on Pain Severity After Cesarean Section: A Prospective Double-Blind Randomized Trial",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Comparative Effect of Nature-Based Sounds Intervention and Headphones Intervention on Pain Severity After Cesarean Section: A Prospective Double-Blind Randomized Trial",
+          "doi": "10.5812/aapm.67835",
+          "pmid": 31341820,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "src-62baf77006d6",
+      "pmcid": "PMC5710273",
+      "title": "Effect of a Game-Based Intervention Designed to Enhance Social Incentives to Increase Physical Activity Among Families. The BE FIT Randomized Clinical Trial",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "src-7e2f0ecca8d8",
+      "pmcid": "PMC2695992",
+      "title": "Effect of compassion meditation on neuroendocrine, innate immune and behavioral responses to psychosocial stress",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Effect of Compassion Meditation on Neuroendocrine, Innate Immune and Behavioral Responses to Psychosocial Stress",
+          "doi": "10.1016/j.psyneuen.2008.08.011",
+          "pmid": 18835662,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC2695992.1/PMC2695992.1.xml?md5=9868d3af30df18dc7adf4e4db1e217fc",
+      "sha256": "f09d017620e2decf07b1cbdb26bfe261b680d0df23d859d088c5c6ebfec47da0",
+      "bytes": 129077,
+      "paragraphs": 31,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC2695992",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "src-7447bc610298",
+      "pmcid": "PMC6029433",
+      "title": "Framing Financial Incentives to Increase Physical Activity Among Overweight and Obese Adults: A Randomized, Controlled Trial",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Framing Financial Incentives to Increase Physical Activity Among Overweight and Obese Adults: A Randomized, Controlled Trial",
+          "doi": "10.7326/M15-1635",
+          "pmid": 26881417,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6029433.1/PMC6029433.1.xml?md5=b20cbf0963da49eb036a7fef7e0d6c18",
+      "sha256": "de582fd3f201d640ff7c7b15ee6b522a0772f35ba8401d9cfbb94f3db31d3bc5",
+      "bytes": 123501,
+      "paragraphs": 33,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC6029433",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "src-0e1e9057a0a3",
+      "pmcid": "PMC5278278",
+      "title": "Ibobbly mobile health intervention for suicide prevention in Australian Indigenous youth: a pilot randomised controlled trial",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Ibobbly mobile health intervention for suicide prevention in Australian Indigenous youth: a pilot randomised controlled trial",
+          "doi": "10.1136/bmjopen-2016-013518",
+          "pmid": 28132007,
+          "license_code": "CC BY-NC",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "src-5fad89c454d7",
+      "pmcid": "PMC3083925",
+      "title": "Innate immune, neuroendocrine and behavioral responses to psychosocial stress do not predict subsequent compassion meditation practice time",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Innate immune, neuroendocrine and behavioral responses to psychosocial stress do not predict subsequent compassion meditation practice time",
+          "doi": "10.1016/j.psyneuen.2009.06.008",
+          "pmid": 19615827,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3083925.1/PMC3083925.1.xml?md5=b3a94857fba8f5ee4bed9010695187d8",
+      "sha256": "d71a6f205d169973c9742503b7abaf9321dac0b97e079c04f1567963584af964",
+      "bytes": 39434,
+      "paragraphs": 18,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC3083925",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2009 Elsevier Ltd. All rights reserved. 2009 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "src-056d5bb4ab8f",
+      "pmcid": "PMC4200536",
+      "title": "Internet and Social Media Use as a Resource Among Homeless Youth",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Internet and Social Media Use as a Resource Among Homeless Youth",
+          "doi": "10.1111/jcc4.12038",
+          "pmid": 25328374,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4200536.1/PMC4200536.1.xml?md5=dacb4dc560a30f4d3ac9d1946a93c4b9",
+      "sha256": "78e7793adf92c94d43e97ced7680a67314d3705c81e4402532b55025eff1517b",
+      "bytes": 104612,
+      "paragraphs": 38,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC4200536",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2013 International Communication Association 2013 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "src-374faac36b5c",
+      "pmcid": "PMC3567773",
+      "title": "Music-based memory enhancement in Alzheimer's Disease: Promise and limitations",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Music-Based Memory Enhancement in Alzheimer’s Disease: Promise and Limitations",
+          "doi": "10.1016/j.neuropsychologia.2012.09.019",
+          "pmid": 23000133,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC3567773.1/PMC3567773.1.xml?md5=367ce2521cea1e00699ca5feda643f53",
+      "sha256": "3c8031e159755bcb9781dff9d8bc1635a0eed48569efafb4eae2b2cbc73450b3",
+      "bytes": 118201,
+      "paragraphs": 34,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC3567773",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "src-ef07290a540d",
+      "pmcid": "PMC6632777",
+      "title": "Oxytocin Enhances Amygdala-Dependent, Socially Reinforced Learning and Emotional Empathy in Humans",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "src-0096ffba98ce",
+      "pmcid": "PMC8254820",
+      "title": "Quantum computing at the frontiers of biological sciences",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Quantum computing at the frontiers of biological sciences",
+          "doi": "10.1038/s41592-020-01004-3",
+          "pmid": 33398186,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8254820.1/PMC8254820.1.xml?md5=24c2c72549e5525d4d9e501ba6a4e63c",
+      "sha256": "1aaf75693acd1b36f2613e2b4859031db6be0f5aeae49ac5ace692253226fc92",
+      "bytes": 114677,
+      "paragraphs": 28,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC8254820",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "src-d4fda8276d47",
+      "pmcid": "PMC4890098",
+      "title": "Resilience Training Program Reduces Physiological and Psychological Stress in Police Officers",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Resilience Training Program Reduces Physiological and Psychological Stress in Police Officers",
+          "doi": "10.7453/gahmj.2012.1.5.013",
+          "pmid": 27257532,
+          "license_code": null,
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "src-560b5106d25b",
+      "pmcid": "PMC4311753",
+      "title": "Self-compassion as a predictor of interleukin-6 response to acute psychosocial stress",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Self-compassion as a predictor of interleukin-6 response to acute psychosocial stress",
+          "doi": "10.1016/j.bbi.2013.11.006",
+          "pmid": 24239953,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4311753.1/PMC4311753.1.xml?md5=b8e31b4942cd558b6c0ac2361d4f2e10",
+      "sha256": "d136cf0889edad0ea11c5a827b1d8d54fd1113add9fa818d35a2f3ac35cbf305",
+      "bytes": 71056,
+      "paragraphs": 39,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC4311753",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "src-1023e40a3842",
+      "pmcid": "PMC5108018",
+      "title": "The effect of music with and without binaural beat audio on operative anxiety in patients undergoing cataract surgery: a randomized controlled trial",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "src-9db71a3fce02",
+      "pmcid": "PMC3833489",
+      "title": "The Global Coherence Initiative: Creating a Coherent Planetary Standing Wave",
+      "versions": [
+        {
+          "version": 1,
+          "title": "The Global Coherence Initiative: Creating a Coherent Planetary Standing Wave",
+          "doi": "10.7453/gahmj.2012.1.1.013",
+          "pmid": 24278803,
+          "license_code": null,
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "src-1fa89730e1eb",
+      "pmcid": "PMC4433372",
+      "title": "The influence of social networking sites on health behavior change: a systematic review and meta-analysis",
+      "versions": [],
+      "status": "not-in-cloud-dataset"
+    },
+    {
+      "id": "pmid-24025838",
+      "pmcid": "PMC4091761",
+      "title": "Social reward requires coordinated activity of nucleus accumbens oxytocin and serotonin",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Social reward requires coordinated activity of accumbens oxytocin and 5HT",
+          "doi": "10.1038/nature12518",
+          "pmid": 24025838,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC4091761.1/PMC4091761.1.xml?md5=dd9cf28cfcbd56357d225ae24cd6952e",
+      "sha256": "8a7f6e76a44ee08309747c9de2ffa5d1b99c4e1e162365d03c807c54a3cfb84c",
+      "bytes": 88628,
+      "paragraphs": 26,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC4091761",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "Users may view, print, copy, and download text and data-mine the content in such documents, for the purposes of academic research, subject always to the full Conditions of use: http://www.nature.com/authors/editorial_policies/license.html#terms"
+        ]
+      }
+    },
+    {
+      "id": "pmid-30301953",
+      "pmcid": "PMC6283620",
+      "title": "The neural mechanisms and circuitry of the pair bond",
+      "versions": [
+        {
+          "version": 1,
+          "title": "The neural mechanisms and circuitry of the pair bond",
+          "doi": "10.1038/s41583-018-0072-6",
+          "pmid": 30301953,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6283620.1/PMC6283620.1.xml?md5=de7f8d0dc4c57789fab62a10e703bd16",
+      "sha256": "f10b7e572ff4b64c0030e90f2824d02402f84424f3acaba56f04a0c42d061b2c",
+      "bytes": 169532,
+      "paragraphs": 33,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC6283620",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-32313029",
+      "pmcid": "PMC7171089",
+      "title": "Quantitative cellular-resolution map of the oxytocin receptor in postnatally developing mouse brains",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Quantitative cellular-resolution map of the oxytocin receptor in postnatally developing mouse brains",
+          "doi": "10.1038/s41467-020-15659-1",
+          "pmid": 32313029,
+          "license_code": "CC BY",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "open-fulltext-cached",
+      "version": 1,
+      "license": "CC BY",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7171089.1/PMC7171089.1.xml?md5=23dbae33af352201559e22b452ac2dfe",
+      "sha256": "aeaaaace87c8a54d4980e8ecaf5a3d4ac9229508941d27724881f135fe6c10eb",
+      "bytes": 141414,
+      "paragraphs": 60,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/open-fulltext-20261023/PMC7171089",
+      "rights": {
+        "license": "CC BY",
+        "use": "Attribution-preserving reuse",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© The Author(s) 2020 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      }
+    },
+    {
+      "id": "pmid-19234457",
+      "pmcid": "PMC2944040",
+      "title": "Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood abuse",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood abuse",
+          "doi": "10.1038/nn.2270",
+          "pmid": 19234457,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC2944040.1/PMC2944040.1.xml?md5=7dfb3479fca2853e2005e866313477bb",
+      "sha256": "09c4f9671233a541d98604d1ac8013af1c9278a3af0de922cca0a829762a6d89",
+      "bytes": 97519,
+      "paragraphs": 30,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC2944040",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© 2009 Nature America, Inc. All rights reserved. 2009 This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-29184215",
+      "pmcid": "PMC5726568",
+      "title": "Social stress induces neurovascular pathology promoting depression",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Social stress induces neurovascular pathology promoting depression",
+          "doi": "10.1038/s41593-017-0010-3",
+          "pmid": 29184215,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5726568.1/PMC5726568.1.xml?md5=f4b3993796231491329df8a048070a3f",
+      "sha256": "99421f87cbda18f9ad68035f2e04c7019226c104cc2ba60c7e297616625395d7",
+      "bytes": 131153,
+      "paragraphs": 40,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC5726568",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "Users may view, print, copy, and download text and data-mine the content in such documents, for the purposes of academic research, subject always to the full Conditions of use: http://www.nature.com/authors/editorial_policies/license.html#terms"
+        ]
+      }
+    },
+    {
+      "id": "pmid-37938765",
+      "pmcid": "PMC11371636",
+      "title": "Functional involvement of septal miR-132 in extinction and oxytocin-mediated reversal of social fear",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Functional involvement of septal miR-132 in extinction and oxytocin-mediated reversal of social fear",
+          "doi": "10.1038/s41380-023-02309-3",
+          "pmid": 37938765,
+          "license_code": "CC BY",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "open-fulltext-cached",
+      "version": 1,
+      "license": "CC BY",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11371636.1/PMC11371636.1.xml?md5=9d318f7e60b1a78c08593af6d96074de",
+      "sha256": "f30f7109e8d32ce5d2a7a0124392f7d0f3f65a5eea10e35a6e80695e36c711e3",
+      "bytes": 164495,
+      "paragraphs": 74,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/open-fulltext-20261023/PMC11371636",
+      "rights": {
+        "license": "CC BY",
+        "use": "Attribution-preserving reuse",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© The Author(s) 2023 2023 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      }
+    },
+    {
+      "id": "pmid-39313675",
+      "pmcid": "PMC11735929",
+      "title": "Effects of intranasal oxytocin on fear extinction learning",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Effects of intranasal oxytocin on fear extinction learning",
+          "doi": "10.1038/s41386-024-01996-y",
+          "pmid": 39313675,
+          "license_code": "CC BY",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "open-fulltext-cached",
+      "version": 1,
+      "license": "CC BY",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11735929.1/PMC11735929.1.xml?md5=6c8d1a14bb7479195b061fe028fabc88",
+      "sha256": "6e831619d1389d8d4d3f6b8c93c3119b3981e59e1fd377c9ba97ec802722b424",
+      "bytes": 112054,
+      "paragraphs": 48,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/open-fulltext-20261023/PMC11735929",
+      "rights": {
+        "license": "CC BY",
+        "use": "Attribution-preserving reuse",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© This is a U.S. Government work and not under copyright protection in the US; foreign copyright protection may apply 2024 2024 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      }
+    },
+    {
+      "id": "pmid-41663511",
+      "pmcid": "PMC12957489",
+      "title": "Interdependency between oxytocin and dopamine in trust-based learning in mice",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Interdependency between oxytocin and dopamine in trust-based learning in mice",
+          "doi": "10.1038/s41598-026-38976-9",
+          "pmid": 41663511,
+          "license_code": "CC BY-NC-ND",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "rights-review-required"
+    },
+    {
+      "id": "pmid-37730989",
+      "pmcid": "PMC10639004",
+      "title": "Neural circuitry for maternal oxytocin release induced by infant cries",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Neural circuitry for maternal oxytocin release induced by infant cries",
+          "doi": "10.1038/s41586-023-06540-4",
+          "pmid": 37730989,
+          "license_code": "TDM",
+          "is_manuscript": true,
+          "is_retracted": false
+        }
+      ],
+      "status": "text-mining-manuscript-cached",
+      "version": 1,
+      "license": "TDM",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10639004.1/PMC10639004.1.xml?md5=1b1542b6f8bfbf6325008bdb63aec4df",
+      "sha256": "4a95fa348c4bbe8318825d1d78e1bda2ab1cfa277472210598f3da7f1be8a5f9",
+      "bytes": 160907,
+      "paragraphs": 44,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/text-mining-manuscripts-20261023/PMC10639004",
+      "rights": {
+        "license": "TDM",
+        "use": "Private text mining",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "This file is available for text mining. It may also be used consistent with the principles of fair use under the copyright law."
+        ]
+      }
+    },
+    {
+      "id": "pmid-25806429",
+      "pmcid": "PMC5380155",
+      "title": "The effect of music performance on the transcriptome of professional musicians",
+      "versions": [
+        {
+          "version": 1,
+          "title": "The effect of music performance on the transcriptome of professional musicians",
+          "doi": "10.1038/srep09506",
+          "pmid": 25806429,
+          "license_code": "CC BY",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "open-fulltext-cached",
+      "version": 1,
+      "license": "CC BY",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5380155.1/PMC5380155.1.xml?md5=7704e52e4f03a0dd0af7c4cb6b16d57b",
+      "sha256": "11f498101ac88771b0be326e58059c1b39b11d45b5025165e3d2d61570c699ed",
+      "bytes": 107217,
+      "paragraphs": 31,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/open-fulltext-20261023/PMC5380155",
+      "rights": {
+        "license": "CC BY",
+        "use": "Attribution-preserving reuse",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "Copyright © 2015, Macmillan Publishers Limited. All rights reserved 2015 Macmillan Publishers Limited. All rights reserved https://creativecommons.org/licenses/by/4.0/ This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder in order to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/"
+        ]
+      }
+    },
+    {
+      "id": "pmid-38049408",
+      "pmcid": "PMC10695969",
+      "title": "Biological principles for music and mental health",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Biological principles for music and mental health",
+          "doi": "10.1038/s41398-023-02671-4",
+          "pmid": 38049408,
+          "license_code": "CC BY",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "open-fulltext-cached",
+      "version": 1,
+      "license": "CC BY",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10695969.1/PMC10695969.1.xml?md5=e94b4572ca3c57c9583d6554defb0ab6",
+      "sha256": "9a24906b9a7709aaf6d80e9bd523050f7902d47fbbcb4b717b4cc7b5671d7d0e",
+      "bytes": 335541,
+      "paragraphs": 69,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/open-fulltext-20261023/PMC10695969",
+      "rights": {
+        "license": "CC BY",
+        "use": "Attribution-preserving reuse",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© The Author(s) 2023 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      }
+    },
+    {
+      "id": "pmid-38862815",
+      "pmcid": "PMC11420060",
+      "title": "Self-administered mindfulness interventions reduce stress in a large, randomized controlled multi-site study",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Self-administered mindfulness interventions reduce stress in a large, randomized controlled multi-site study",
+          "doi": "10.1038/s41562-024-01907-7",
+          "pmid": 38862815,
+          "license_code": "CC BY",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "open-fulltext-cached",
+      "version": 1,
+      "license": "CC BY",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11420060.1/PMC11420060.1.xml?md5=60b1c0cd989e94980c56896eb1008c49",
+      "sha256": "9c11ee9e0e47fedb348a5751a61e036f8a95d49605e5c16ac6397363ee72197e",
+      "bytes": 157728,
+      "paragraphs": 57,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/open-fulltext-20261023/PMC11420060",
+      "rights": {
+        "license": "CC BY",
+        "use": "Attribution-preserving reuse",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "© The Author(s) 2024, corrected publication 2024 2024 https://creativecommons.org/licenses/by/4.0/ Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ ."
+        ]
+      }
+    },
+    {
+      "id": "pmid-27576169",
+      "pmcid": "PMC5022094",
+      "title": "Meditation and vacation effects have an impact on disease-associated molecular phenotypes",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Meditation and vacation effects have an impact on disease-associated molecular phenotypes",
+          "doi": "10.1038/tp.2016.164",
+          "pmid": 27576169,
+          "license_code": "CC BY",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "open-fulltext-cached",
+      "version": 1,
+      "license": "CC BY",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5022094.1/PMC5022094.1.xml?md5=f2e852cf6b7f74d83e455c8b0bc10369",
+      "sha256": "8f0f14c499396c77a687ed2bfd09948cd16b3dce20273b379fe739cc9c73bc6a",
+      "bytes": 86751,
+      "paragraphs": 34,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/open-fulltext-20261023/PMC5022094",
+      "rights": {
+        "license": "CC BY",
+        "use": "Attribution-preserving reuse",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "Copyright © 2016 The Author(s) 2016 The Author(s) https://creativecommons.org/licenses/by/4.0/ This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/"
+        ]
+      }
+    },
+    {
+      "id": "pmid-27898068",
+      "pmcid": "PMC5290356",
+      "title": "Preliminary indications of the effect of a brief yoga intervention on markers of inflammation and DNA methylation in chronically stressed women",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Preliminary indications of the effect of a brief yoga intervention on markers of inflammation and DNA methylation in chronically stressed women",
+          "doi": "10.1038/tp.2016.234",
+          "pmid": 27898068,
+          "license_code": "CC BY",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "open-fulltext-cached",
+      "version": 1,
+      "license": "CC BY",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5290356.1/PMC5290356.1.xml?md5=d493f169df41e4a98ca18e5fa54f2fe2",
+      "sha256": "92d4f6c179d12821bd23ac6fff7beb6095ce55643d0811b0810b4c8f4364c925",
+      "bytes": 171437,
+      "paragraphs": 41,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/open-fulltext-20261023/PMC5290356",
+      "rights": {
+        "license": "CC BY",
+        "use": "Attribution-preserving reuse",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "Copyright © 2016 The Author(s) 2016 The Author(s) https://creativecommons.org/licenses/by/4.0/ This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article's Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/"
+        ]
+      }
+    },
+    {
+      "id": "pmid-27698453",
+      "pmcid": "PMC5048146",
+      "title": "Possible neural mechanisms of psychotherapy for trauma-related symptoms: cerebral responses to the neuropsychological treatment of post-traumatic stress disorder model individuals",
+      "versions": [
+        {
+          "version": 1,
+          "title": "Possible neural mechanisms of psychotherapy for trauma-related symptoms: cerebral responses to the neuropsychological treatment of post-traumatic stress disorder model individuals",
+          "doi": "10.1038/srep34610",
+          "pmid": 27698453,
+          "license_code": "CC BY",
+          "is_manuscript": false,
+          "is_retracted": false
+        }
+      ],
+      "status": "open-fulltext-cached",
+      "version": 1,
+      "license": "CC BY",
+      "source": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5048146.1/PMC5048146.1.xml?md5=2c1caf497908e442a72fe5646abb7d06",
+      "sha256": "0f842024e5403491f134edd9f82d0cf61076255d2b40e3eaa2ff6372e3902b8b",
+      "bytes": 93637,
+      "paragraphs": 40,
+      "localDirectory": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s/research/open-fulltext-20261023/PMC5048146",
+      "rights": {
+        "license": "CC BY",
+        "use": "Attribution-preserving reuse",
+        "publicFulltextRedistribution": false,
+        "providerUpload": false,
+        "modelTraining": false,
+        "basis": "https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/",
+        "articleRights": [
+          "Copyright © 2016, The Author(s) 2016 The Author(s) https://creativecommons.org/licenses/by/4.0/ This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/"
+        ]
+      }
+    }
+  ]
+}

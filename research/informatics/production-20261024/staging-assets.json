@@ -1,0 +1,238 @@
+{
+  "origin": "https://staging.universalmind.tv",
+  "source": "15459e32e14c2c90cd570a6db306842982d93fdd",
+  "verifiedAt": "2026-10-24T01:23:42.377Z",
+  "files": [
+    {
+      "file": "Informatics/index.html",
+      "status": 200,
+      "bytes": 27027,
+      "sha256": "09ae73eac9fd8fc21aeb057c77786a639b8047ed926044970dcda255466de572",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/fibonacci-expansion.json",
+      "status": 200,
+      "bytes": 130818,
+      "sha256": "d471fbc295be94428c524ca504714ae2a4e2eef6aeddf77bedf4fb0fd022a480",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/fulltext-availability.json",
+      "status": 200,
+      "bytes": 190013,
+      "sha256": "8bc19f3aa4eb7f6a4e2b5bb0880787680979e094aefcae52b28d7a828ad789ef",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/general-edition.json",
+      "status": 200,
+      "bytes": 470604,
+      "sha256": "249b2378e4e31874edf3006dbc994081cba02db51f675b00fe7ef2a0d90a40a7",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library.html",
+      "status": 200,
+      "bytes": 34475,
+      "sha256": "6bdc8b30d0e8442dae65a4b72be5898dc87bcd0f7a83dde928da7dbdf2d2b757",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library.js",
+      "status": 200,
+      "bytes": 35005,
+      "sha256": "58273bfd15fe2d2097662b99e1926bbe02824fde6386aab1d7361536c1e819bf",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/atlas.js",
+      "status": 200,
+      "bytes": 36839,
+      "sha256": "fee0c3cbf4b8820e46b5674931c966d5f74e74d1470eb165a90c05d09bc688ac",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/interactions/contact.json",
+      "status": 200,
+      "bytes": 12468,
+      "sha256": "e2b892dfdd7bea1df79399a1fe238b03850d73269459248c145c562bb8f143b6",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/interactions/density.cube",
+      "status": 200,
+      "bytes": 1632658,
+      "sha256": "e35efe317f9fbddbdb003567f3d950268e8e00019a34acb18d85d8c96b037f0a",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/interactions/fragment.pdb",
+      "status": 200,
+      "bytes": 2453,
+      "sha256": "55ba520116e7268c00a3c92d076ad2dd3ad52bb720d513795075b9b1b3f7e9e8",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/interactions/fragment.xyz",
+      "status": 200,
+      "bytes": 1312,
+      "sha256": "7c4521492d46b589214b73a6fb47e97f82edb317a992bcc9561f83d30b7af3fa",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/interactions/homo-minus-1.cube",
+      "status": 200,
+      "bytes": 1632655,
+      "sha256": "76e110eef447e98007c43ac3de8a8451fa0b3e59657ed87a069244ebfb182d64",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/interactions/homo.cube",
+      "status": 200,
+      "bytes": 1632655,
+      "sha256": "2d4f4a177f6a3ec352afa15c1a26e14f456e706afe0b0e2701d58b22223a5b8d",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/interactions/lumo.cube",
+      "status": 200,
+      "bytes": 1632655,
+      "sha256": "ce88117e7e8fba07f4bc38cca2599b084734c550ed0d6d757c5d2c596150c3f0",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/data/interactions/quantum.json",
+      "status": 200,
+      "bytes": 8730,
+      "sha256": "75bfdfaf6402066e232b748dc8cb153cb408580f43d852481bdab77f8583537c",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/index.html",
+      "status": 200,
+      "bytes": 9958,
+      "sha256": "47f6bfbcdb4ba7b24cdac4677de353979bcc1863363f4a36c0e3bfd8cc420ed7",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/interaction-ui.js",
+      "status": 200,
+      "bytes": 22665,
+      "sha256": "bfa28324268e2be47f6e4eb0f4250270b8846b37013f4eb78eed6bf255d86d6e",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/interactions.css",
+      "status": 200,
+      "bytes": 10202,
+      "sha256": "3aaa4f06467fa2a55a685bb7df4899cbca0ec5dda8e7cee390fed9a39b22e6a7",
+      "matches": true
+    },
+    {
+      "file": "Informatics/molecular/vendor/engine.js",
+      "status": 200,
+      "bytes": 3163747,
+      "sha256": "98bc2afc91a19c468bc8e949bf2ac25c0be50a372821f6932ac0ed02bcc5be9f",
+      "matches": true
+    },
+    {
+      "file": "Informatics/universal-one-audio.js",
+      "status": 200,
+      "bytes": 1576,
+      "sha256": "38bae647336cc4d8543d2cf37802ef237238bc2ebadf64c96622cec519b6ca79",
+      "matches": true
+    },
+    {
+      "file": "Informatics/universal-one-character.js",
+      "status": 200,
+      "bytes": 3250,
+      "sha256": "2840af3f8bb86465920540171971d8409f50aab6c0377f08d6ed854999375b31",
+      "matches": true
+    },
+    {
+      "file": "Informatics/universal-one-context.js",
+      "status": 200,
+      "bytes": 3488,
+      "sha256": "a5241bb3e4378a3377c5954e2ebd3f8a6a93fc3dd1cc5f56a9253dde996a5a91",
+      "matches": true
+    },
+    {
+      "file": "Informatics/universal-one-live.js",
+      "status": 200,
+      "bytes": 11598,
+      "sha256": "e7230e117c0499253863b623ed30127abfeb244a501afffa98a13b4b3687fdd9",
+      "matches": true
+    },
+    {
+      "file": "Informatics/universal-one-routing.js",
+      "status": 200,
+      "bytes": 770,
+      "sha256": "a45e3a5787e18b1b84e8c82ac7c304a2a959323e1c7b0ef449c92663c8730308",
+      "matches": true
+    },
+    {
+      "file": "Informatics/universal-one-waveform.js",
+      "status": 200,
+      "bytes": 4580,
+      "sha256": "60d7ffcb8b649e8aa78112e4c29b8f9d2597eaf4ee8be9190e0dc9d3a8c8f57f",
+      "matches": true
+    },
+    {
+      "file": "Informatics/universal-one.css",
+      "status": 200,
+      "bytes": 8569,
+      "sha256": "89afff1e41f8505b9d8db9f6e7ebd5a3d7f33c78d80c0d430f1d394a15446eb1",
+      "matches": true
+    },
+    {
+      "file": "Informatics/universal-one.js",
+      "status": 200,
+      "bytes": 20452,
+      "sha256": "42a62612224c650b508a586bff1a779996125f8ec8fecff525b6b1f6f1610573",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/sound-edition.json",
+      "status": 200,
+      "bytes": 393283,
+      "sha256": "f4d010fc15cfa5260a226d6553443ef0600467a020df0d49c06e8e93da8a50b8",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/language-edition.json",
+      "status": 200,
+      "bytes": 412493,
+      "sha256": "51d124e407ab2239c22610aaef7372232dc3a1831a044cc58edcd04aa3daa3a3",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library-data/vision-edition.json",
+      "status": 200,
+      "bytes": 216851,
+      "sha256": "02d5fb54f02717887e780ccbd152c16fb28070077ffd22ff8119851dca8ffa89",
+      "matches": true
+    },
+    {
+      "file": "Informatics/style.css",
+      "status": 200,
+      "bytes": 12300,
+      "sha256": "9da76c3b11ee2674e42c5904d302979be683b567601075f9eac5da2434949155",
+      "matches": true
+    },
+    {
+      "file": "Informatics/library.css",
+      "status": 200,
+      "bytes": 26890,
+      "sha256": "e3d93dc1bf29ebaa010a154e64a8183b0dc2b4e353226e4d1466b277640f3b8c",
+      "matches": true
+    },
+    {
+      "file": "Informatics/pilot-v1/index.json",
+      "status": 200,
+      "bytes": 215476,
+      "sha256": "a4db55764d8505f49b5249a87e423e7e97a242cdf13502030269d4207a49b447",
+      "matches": true
+    }
+  ]
+}

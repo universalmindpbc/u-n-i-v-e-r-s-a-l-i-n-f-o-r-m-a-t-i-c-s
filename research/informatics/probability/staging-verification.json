@@ -1,0 +1,135 @@
+{
+  "staging_url": "https://staging.universalmind.tv/informatics/?atlas=1&record=fibonacci-m9-p24#geometry-summary",
+  "source_commit": "913f58b75a7c3816788981b908302a39762f2e75",
+  "http_files": [
+    {
+      "file": "index.html",
+      "sha256": "e2d65f8f10c01efa69a71f8c48af6de6ff0719dfee51b2b2c91a5f361086539e",
+      "matches_committed_source": true
+    },
+    {
+      "file": "research.html",
+      "sha256": "eee3beb5f0d2b2721158966222b5603f16c72cf9c135e67611b3694e14090163",
+      "matches_committed_source": true
+    },
+    {
+      "file": "research.css",
+      "sha256": "162cd9ffebb41d9ecd31137e6e47fc3769ec244b198cbeae9bc20fb67361f458",
+      "matches_committed_source": true
+    },
+    {
+      "file": "research.js",
+      "sha256": "ad4f90f3c9469484573ca0b321a8d2022c613b7d7f969d650589ca9c87aad52d",
+      "matches_committed_source": true
+    },
+    {
+      "file": "pilot-v1/probability.js",
+      "sha256": "1a8b1a41dfa8f1f6a00714ca7d75a9b6a1c3c076dd7652918d04c068a867db6b",
+      "matches_committed_source": true
+    },
+    {
+      "file": "pilot-v1/m9.json",
+      "sha256": "b61f8ded38c2f30570dbca68a3a2990c395bb2626ef818e279b91a05d945e093",
+      "matches_committed_source": true
+    },
+    {
+      "file": "pilot-v1/dataset.json",
+      "sha256": "1351f4c07662bb54b867593e3b6fade9970ad7fba5f037b1561b4a04263e23b7",
+      "matches_committed_source": true
+    },
+    {
+      "file": "pilot-v1/m9-probability.json",
+      "sha256": "c234fbfff17c0fb9764173d06846c09a1d723f7ff66eddb481d8fed171e7a90d",
+      "matches_committed_source": true
+    },
+    {
+      "file": "pilot-v1/m9-probability.py",
+      "sha256": "3e400d0ecc752f53a79c4f315171753836b8171cab11a336bae28c5c886b454d",
+      "matches_committed_source": true
+    },
+    {
+      "file": "pilot-v1/records.csv",
+      "sha256": "b418c1b71572f506f36f1b32e2d8f049eabe8f5fb9731a165ca362edfb9f0009",
+      "matches_committed_source": true
+    },
+    {
+      "file": "pilot-v1/CSV-README.txt",
+      "sha256": "7ebc1e590dee02f85ca2df486d40d6b0cd70c6e8b5654277d468a9751e79fc2d",
+      "matches_committed_source": true
+    },
+    {
+      "file": "pilot-v1/m1-m48-data.zip",
+      "sha256": "a742d38197d5672da6ca76899ddbabd810d31c54da35793fe10471e328550e22",
+      "matches_committed_source": true
+    }
+  ],
+  "browser": {
+    "passed": true,
+    "results": [
+      {
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "probability": true,
+        "lightbox": true,
+        "downloads": true,
+        "originalAlignment": true,
+        "otherRecordsUnassigned": true,
+        "focusReturn": true,
+        "musicContinuous": true,
+        "nativeFullscreenInvoked": false,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "probability": true,
+        "lightbox": true,
+        "downloads": true,
+        "originalAlignment": true,
+        "otherRecordsUnassigned": true,
+        "focusReturn": true,
+        "musicContinuous": true,
+        "nativeFullscreenInvoked": false,
+        "errors": []
+      }
+    ]
+  },
+  "screenshot_review": {
+    "desktop_probability": true,
+    "mobile_probability": true,
+    "mobile_calculation": true
+  },
+  "probability_exact": "263/51305410956800",
+  "production_modified": false,
+  "local_workspace_mirror_matches": [
+    "dataset.json",
+    "m9.json",
+    "records.csv",
+    "CSV-README.txt",
+    "m1-m48-data.zip",
+    "m9-probability.json",
+    "m9-probability.py"
+  ],
+  "notion": {
+    "page_id": "3fb7b9c9-9c56-8137-a2c5-c99b7bc2a1ee",
+    "page_last_edited_at": "2026-10-18T02:54:59.325Z",
+    "probability": "Approximately 1 in 195.1 billion",
+    "exact": "263/51305410956800",
+    "method": "uniform-alpha-shuffle-original-alignment-v1",
+    "original_beta_preserved": true,
+    "unrelated_properties_preserved": true,
+    "collapsible_calculation": true,
+    "verified": true,
+    "approved_quote": "We are exploring equilateral triangles, honeycomb theorem, and carbon structures in relationship to this Atlas for useful directions for computation in OXTR research.",
+    "quote_verified": true
+  },
+  "deployment": {
+    "result": "Deploy complete: informatics",
+    "manifest_files_match_source": 522,
+    "other_deployment_scopes_unchanged": true
+  }
+}

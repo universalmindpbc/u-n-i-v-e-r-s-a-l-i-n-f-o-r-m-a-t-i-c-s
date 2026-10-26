@@ -1,0 +1,46 @@
+{
+  "candidate": false,
+  "checks": [
+    {
+      "width": 1470,
+      "themes": 3,
+      "chapters": 4,
+      "topics": 15,
+      "molecularPapers": 10,
+      "exported": 93,
+      "stats": "Papers & references\n93\nJournals\n50\nRecorded citations\n3,040"
+    },
+    {
+      "width": 1024,
+      "themes": 3,
+      "chapters": 4,
+      "topics": 15,
+      "molecularPapers": 10,
+      "exported": 93,
+      "stats": "Papers & references\n93\nJournals\n50\nRecorded citations\n3,040"
+    },
+    {
+      "width": 390,
+      "themes": 3,
+      "chapters": 4,
+      "topics": 15,
+      "molecularPapers": 10,
+      "exported": 93,
+      "stats": "Papers & references\n93\nJournals\n50\nRecorded citations\n3,040"
+    },
+    {
+      "width": 320,
+      "themes": 3,
+      "chapters": 4,
+      "topics": 15,
+      "molecularPapers": 10,
+      "exported": 93,
+      "stats": "Papers & references\n93\nJournals\n50\nRecorded citations\n3,040"
+    }
+  ],
+  "errors": [],
+  "audio": "Chromium process launched with --mute-audio; all pages paused and closed",
+  "environment": "production",
+  "baseUrl": "https://universalmind.tv/informatics/",
+  "sourceCommit": "0c7e0665bb0dbd696850b8e21946d250cdfda660"
+}

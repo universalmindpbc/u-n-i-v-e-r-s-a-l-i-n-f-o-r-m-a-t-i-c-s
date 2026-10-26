@@ -1,0 +1,42 @@
+{
+  "revision": "06410f8305a8505334cdbd3726a0bd82810299a6e5781ec2fe1d901fbb48b2ac",
+  "destinations": {
+    "desci": "queued",
+    "synapse": "delivered"
+  },
+  "synapse": {
+    "destination": "synapse",
+    "revision": "06410f8305a8505334cdbd3726a0bd82810299a6e5781ec2fe1d901fbb48b2ac",
+    "remote_id": "syn78381066",
+    "visibility": "existing_project_permissions",
+    "connector_receipt": {
+      "project": "syn78366147",
+      "folder": "syn78381066",
+      "manifestSHA256": "aae7af1302586270bd44bb172e3b0d7fe0a5b97a77018b32ec993e3117b4c4ec",
+      "status": "uploaded",
+      "files": [
+        {
+          "name": "06410f8305a8505334cdbd3726a0bd82810299a6e5781ec2fe1d901fbb48b2ac-study.csv",
+          "id": "syn78381069",
+          "version": 1
+        },
+        {
+          "name": "06410f8305a8505334cdbd3726a0bd82810299a6e5781ec2fe1d901fbb48b2ac-study.json",
+          "id": "syn78381070",
+          "version": 1
+        },
+        {
+          "name": "manifest.json",
+          "id": "syn78381071",
+          "version": 1
+        },
+        {
+          "name": "integrity.json",
+          "id": "syn78381072",
+          "version": 1
+        }
+      ],
+      "completedAt": "2026-10-26T00:12:02.468129+00:00"
+    }
+  }
+}

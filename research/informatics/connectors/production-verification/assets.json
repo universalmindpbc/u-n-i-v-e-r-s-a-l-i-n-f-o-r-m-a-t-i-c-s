@@ -1,0 +1,206 @@
+{
+  "checkedAt": "2026-10-24T03:04:40.838Z",
+  "sourceCommit": "1422493ca9b28c71bb171b08c64f162ab83400ed",
+  "approvedStagingCommit": "bd7fce6a69f7210b45c69f045bae7e13f5c7e346",
+  "processAudioDisabled": true,
+  "assets": [
+    {
+      "site": "https://staging.universalmind.tv",
+      "path": "Informatics/connect.css",
+      "sha256": "cbcb6f1e30d4eccb374a57547ea9a8f6fba7b22a907cb452b6fc921a7aa6eb35",
+      "bytes": 4486,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://staging.universalmind.tv",
+      "path": "Informatics/connect.html",
+      "sha256": "34c23fa20475893d6e8705ad1be86afc754057fe00efcca54a84d6b568f5fc29",
+      "bytes": 10781,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://staging.universalmind.tv",
+      "path": "Informatics/connect.js",
+      "sha256": "1227ae3472159a4ab32abede300b99b4f3cdbf5573373e62a6a76aa9979d5eca",
+      "bytes": 13465,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://staging.universalmind.tv",
+      "path": "Informatics/connectors/client.py",
+      "sha256": "791cea08b1a814396637b0a2928cabc67dbf585984a31a9a77d274e46ab41df1",
+      "bytes": 2624,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://staging.universalmind.tv",
+      "path": "Informatics/connectors/deepseek.py",
+      "sha256": "46eddc0d36ceaf895d9424c9a2692d799db46e5e7366b82840141938066f21e7",
+      "bytes": 2521,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://staging.universalmind.tv",
+      "path": "Informatics/connectors/draft-desci.mjs",
+      "sha256": "6e89ff2cb57b828eff57835d21155c2569c70f3a12e383611c078c23114eb4c2",
+      "bytes": 6024,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://staging.universalmind.tv",
+      "path": "Informatics/connectors/export-research.mjs",
+      "sha256": "59a3e625c1499faedd93e169f9206e95eb6d3e40aff060ccd9b99b7829180733",
+      "bytes": 4105,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://staging.universalmind.tv",
+      "path": "Informatics/connectors/publish-synapse.py",
+      "sha256": "fcdda0e32677d861af7809db5247a258ba4623dd2c888f03e55c78f2bd69bfbb",
+      "bytes": 4985,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://staging.universalmind.tv",
+      "path": "Informatics/global-navigation.js",
+      "sha256": "bc3692380dd1a3dbc2d8bb48a0b463cdb5c56801de6f469b649f81eeec21e82e",
+      "bytes": 2091,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://staging.universalmind.tv",
+      "path": "Informatics/index.html",
+      "sha256": "4c086a251bb63f051735e40830e3a535cb072aea7bc801aa665fb9f1c53f8dab",
+      "bytes": 27027,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://staging.universalmind.tv",
+      "path": "Informatics/library-launcher.js",
+      "sha256": "7701719bf40ba81e9e21b791f6ae02ceff5f8023e76250b340a51fd9674f22a9",
+      "bytes": 16625,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://staging.universalmind.tv",
+      "path": "Informatics/library-navigation.js",
+      "sha256": "b7a5d9a42be48e4b425697f31cf0114972cf825974f4ebde3bcc676c410adb22",
+      "bytes": 2711,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://staging.universalmind.tv",
+      "path": "Informatics/library.html",
+      "sha256": "7273c5136e6033e29b42aae3ca6d56c35c4390463ba8bd716c41d1e4fea48bf3",
+      "bytes": 34475,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://staging.universalmind.tv",
+      "path": "Informatics/molecular/index.html",
+      "sha256": "0737a953596bf186a990a712ba66d2685986e6798a108abbe8d404a4296890a0",
+      "bytes": 9958,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://universalmind.tv",
+      "path": "Informatics/connect.css",
+      "sha256": "cbcb6f1e30d4eccb374a57547ea9a8f6fba7b22a907cb452b6fc921a7aa6eb35",
+      "bytes": 4486,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://universalmind.tv",
+      "path": "Informatics/connect.html",
+      "sha256": "34c23fa20475893d6e8705ad1be86afc754057fe00efcca54a84d6b568f5fc29",
+      "bytes": 10781,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://universalmind.tv",
+      "path": "Informatics/connect.js",
+      "sha256": "1227ae3472159a4ab32abede300b99b4f3cdbf5573373e62a6a76aa9979d5eca",
+      "bytes": 13465,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://universalmind.tv",
+      "path": "Informatics/connectors/client.py",
+      "sha256": "791cea08b1a814396637b0a2928cabc67dbf585984a31a9a77d274e46ab41df1",
+      "bytes": 2624,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://universalmind.tv",
+      "path": "Informatics/connectors/deepseek.py",
+      "sha256": "46eddc0d36ceaf895d9424c9a2692d799db46e5e7366b82840141938066f21e7",
+      "bytes": 2521,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://universalmind.tv",
+      "path": "Informatics/connectors/draft-desci.mjs",
+      "sha256": "6e89ff2cb57b828eff57835d21155c2569c70f3a12e383611c078c23114eb4c2",
+      "bytes": 6024,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://universalmind.tv",
+      "path": "Informatics/connectors/export-research.mjs",
+      "sha256": "59a3e625c1499faedd93e169f9206e95eb6d3e40aff060ccd9b99b7829180733",
+      "bytes": 4105,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://universalmind.tv",
+      "path": "Informatics/connectors/publish-synapse.py",
+      "sha256": "fcdda0e32677d861af7809db5247a258ba4623dd2c888f03e55c78f2bd69bfbb",
+      "bytes": 4985,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://universalmind.tv",
+      "path": "Informatics/global-navigation.js",
+      "sha256": "bc3692380dd1a3dbc2d8bb48a0b463cdb5c56801de6f469b649f81eeec21e82e",
+      "bytes": 2091,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://universalmind.tv",
+      "path": "Informatics/index.html",
+      "sha256": "4c086a251bb63f051735e40830e3a535cb072aea7bc801aa665fb9f1c53f8dab",
+      "bytes": 27027,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://universalmind.tv",
+      "path": "Informatics/library-launcher.js",
+      "sha256": "7701719bf40ba81e9e21b791f6ae02ceff5f8023e76250b340a51fd9674f22a9",
+      "bytes": 16625,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://universalmind.tv",
+      "path": "Informatics/library-navigation.js",
+      "sha256": "b7a5d9a42be48e4b425697f31cf0114972cf825974f4ebde3bcc676c410adb22",
+      "bytes": 2711,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://universalmind.tv",
+      "path": "Informatics/library.html",
+      "sha256": "7273c5136e6033e29b42aae3ca6d56c35c4390463ba8bd716c41d1e4fea48bf3",
+      "bytes": 34475,
+      "matchesApproved": true
+    },
+    {
+      "site": "https://universalmind.tv",
+      "path": "Informatics/molecular/index.html",
+      "sha256": "0737a953596bf186a990a712ba66d2685986e6798a108abbe8d404a4296890a0",
+      "bytes": 9958,
+      "matchesApproved": true
+    }
+  ],
+  "passed": true,
+  "browserClosed": true
+}

@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "records_reconstructed_exactly": 1001,
+  "json_files_needed_by_csv_bundle": 0,
+  "native_and_m9_image_columns_verified": true,
+  "distinct_image_urls": 8938,
+  "shared_tables_verified": 10,
+  "csv_and_json_bundle_overviews_identical": true
+}

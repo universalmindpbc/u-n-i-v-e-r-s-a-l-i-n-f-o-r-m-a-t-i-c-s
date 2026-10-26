@@ -1,0 +1,57 @@
+{
+  "source_commit": "2dc22373",
+  "base_commit": "05d863629d94483698125a68a8037abc445039c5",
+  "url": "https://staging.universalmind.tv/informatics/?area=partners",
+  "date": "2026-10-21",
+  "viewport_results": [
+    {
+      "width": 1440,
+      "passed": true
+    },
+    {
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "width": 390,
+      "passed": true
+    },
+    {
+      "width": 320,
+      "passed": true
+    }
+  ],
+  "http_assets": [
+    {
+      "name": "index.html",
+      "sha256": "3a8bf64609e2e4c3d8598278a3424045501f35a135ccf215b7e431bc769caa5b"
+    },
+    {
+      "name": "app.js",
+      "sha256": "a5f1e7bc2a21f36f57fc3e2e6524e40647f05f3129688e50ca0f98adcf2db52b"
+    },
+    {
+      "name": "atlas.css",
+      "sha256": "c65d344a4405a2ad141017b26931ea3bd526244c05d8565a238195d15392c48d"
+    }
+  ],
+  "checks": [
+    "Four-item Research Atlas menu; Partners navigation by keyboard and pointer",
+    "Correct organisation order and NVIDIA final position",
+    "CSIRO wording preserved",
+    "Two-column desktop and single-column mobile layout; no horizontal overflow",
+    "Escape focus restoration; outside-click dismissal; reload persistence",
+    "Research view return path",
+    "External-link isolation attributes",
+    "No page JavaScript errors",
+    "Visible desktop and mobile screenshots reviewed"
+  ],
+  "browser": {
+    "dedicated_headless_process": true,
+    "process_mute_audio_verified": true,
+    "native_fullscreen_disabled": true,
+    "closed_after_checks": true
+  },
+  "research_data_changed": false,
+  "production_modified": false
+}

@@ -1,0 +1,77 @@
+{
+  "staging": [
+    {
+      "file": "Informatics/index.html",
+      "sha256": "040b1eb05f0435556f2ebc63ac870c74fec5e12ddc6413bca2a12c6f5de7a781",
+      "status": 200
+    },
+    {
+      "file": "Informatics/library-data/fibonacci-expansion.json",
+      "sha256": "d471fbc295be94428c524ca504714ae2a4e2eef6aeddf77bedf4fb0fd022a480",
+      "status": 200
+    },
+    {
+      "file": "Informatics/library-data/fulltext-availability.json",
+      "sha256": "8bc19f3aa4eb7f6a4e2b5bb0880787680979e094aefcae52b28d7a828ad789ef",
+      "status": 200
+    },
+    {
+      "file": "Informatics/library-data/general-edition.json",
+      "sha256": "249b2378e4e31874edf3006dbc994081cba02db51f675b00fe7ef2a0d90a40a7",
+      "status": 200
+    },
+    {
+      "file": "Informatics/library.html",
+      "sha256": "e0b7dc36fba0ad82d937e70d9733a2e5d52571495b4397fb2c33331d74cfdeec",
+      "status": 200
+    },
+    {
+      "file": "Informatics/library.js",
+      "sha256": "ad99ed47b29e11f68a701b87d1fcab734135ca33d4c14b2d2efde2e64dc29e38",
+      "status": 200
+    },
+    {
+      "file": "Informatics/universal-one-audio.js",
+      "sha256": "38bae647336cc4d8543d2cf37802ef237238bc2ebadf64c96622cec519b6ca79",
+      "status": 200
+    },
+    {
+      "file": "Informatics/universal-one-character.js",
+      "sha256": "2840af3f8bb86465920540171971d8409f50aab6c0377f08d6ed854999375b31",
+      "status": 200
+    },
+    {
+      "file": "Informatics/universal-one.css",
+      "sha256": "4b406b27b5163bafc9542c147ef69b09160c3340cf11ef36c2ade53748f69ad1",
+      "status": 200
+    },
+    {
+      "file": "Informatics/universal-one.js",
+      "sha256": "35e57ca51473c72a1818e1689bd3d0a3d097a79cfca0a8c4a8c290b7fb248151",
+      "status": 200
+    }
+  ],
+  "production": [
+    {
+      "file": "Informatics/index.html",
+      "sha256": "66b2b09f0d92277b6f8e83b5330a34f7d9f8ecd7a08b378a59c415bd011addb7",
+      "unchanged": true
+    },
+    {
+      "file": "Informatics/library.html",
+      "sha256": "ab0f579a019181a619d41e71267b560c8b7bc1cb1d398c87fb619bafb7bdd858",
+      "unchanged": true
+    },
+    {
+      "file": "Informatics/library.js",
+      "sha256": "aec8c6ac1fc0233ab04dd423d0b0ba55b492c9b6bab8ff210b74c174b09b168f",
+      "unchanged": true
+    },
+    {
+      "file": "Informatics/library-data/general-edition.json",
+      "sha256": "c627cf47b5ca139cbe497bf6499b9bb3917476c887c958067e654b3f9aa5f5e9",
+      "unchanged": true
+    }
+  ],
+  "exports": {}
+}

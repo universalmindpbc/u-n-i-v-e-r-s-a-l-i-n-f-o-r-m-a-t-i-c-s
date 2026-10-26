@@ -1,0 +1,27 @@
+{
+  "question": "Do regular Fibonacci sequences, M9 P24 including Alpha, Beta, Gamma and Epsilon, and Phi Ratio help predict transcription factor binding around OXTR?",
+  "plan": {
+    "scope": "Retrospective audit of completed public OXTR work; no new jobs.",
+    "question": "Do regular Fibonacci sequences, M9 P24 including Alpha, Beta, Gamma and Epsilon, and Phi Ratio help predict transcription factor binding around OXTR?",
+    "hypotheses": [
+      "Fibonacci and Phi Ratio may improve occupancy prediction",
+      "M9 P24 Alpha/Beta/Gamma/Epsilon responses are candidate future predictive features"
+    ],
+    "controls": [
+      "Ordinary DNA inputs",
+      "Shuffled input control",
+      "Classical motif baseline"
+    ],
+    "current_evidence_boundary": "The two-window 16-run quantum batch qualifies measurements. It does not evaluate biological prediction or coherence lifetime. The later 152-window classical OXTR test is a separate pilot.",
+    "next_test": "Prespecify more labelled genomic windows, partition adjacent windows together, freeze all representations and model selection, then compare held-out prediction against ordinary and shuffled controls.",
+    "authority": {
+      "new_Aquila_jobs": false,
+      "new_paid_GPU_jobs": false
+    },
+    "success": "Improvement on independent biological test regions with uncertainty and matched baselines; null findings remain reportable."
+  },
+  "evidence": {
+    "record_sha256": "fec93e37a37c7594913c76bc7cf18ad338e74dbb7ba9668ec37bcf9dd8f2ec92",
+    "source": "https://universalmind.tv/informatics/quantum/experiments/oxtr-agent-follow-through-pilot/r1/experiment.json"
+  }
+}

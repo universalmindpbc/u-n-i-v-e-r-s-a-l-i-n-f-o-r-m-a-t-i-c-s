@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "observations_recomputed_from_receipts": true,
+  "all_16_records_preserved": true,
+  "excitation_counts_are_integers": true,
+  "explicit_biological_success_criterion": true,
+  "no_calibrated_trust_score_claimed": true,
+  "at": "2026-10-25T03:38:28.402Z"
+}

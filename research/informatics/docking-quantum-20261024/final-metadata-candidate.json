@@ -1,0 +1,23 @@
+{
+  "live": false,
+  "audioMutedAtProcessLevel": true,
+  "nativeFullscreen": false,
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "dockPixels": 14400,
+      "quantumPixels": 598,
+      "controls": true,
+      "quantumFields": 4,
+      "geometryPreserved": true,
+      "noOverflow": true,
+      "errors": [],
+      "failed": []
+    }
+  ],
+  "directQuantum": true,
+  "checksumFailureVisible": true
+}

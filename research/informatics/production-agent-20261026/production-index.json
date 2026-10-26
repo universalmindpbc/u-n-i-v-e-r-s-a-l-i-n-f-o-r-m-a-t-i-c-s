@@ -1,0 +1,363 @@
+{
+  "passed": true,
+  "version": "research-20261026-daytab-v1",
+  "counts": {
+    "publications": 891,
+    "passages": 4268,
+    "fullTextArticles": 149,
+    "atlasRecords": 1001
+  },
+  "embeddingTokens": 0,
+  "records": [
+    {
+      "id": "pmid-41450809",
+      "sha256": "01441e8d8d91041c373f349dcc73f9158bfd8d2fcdc2de922750a09a2bcb3b46",
+      "embedded": true
+    },
+    {
+      "id": "pmid-41911215",
+      "sha256": "56a06281288dc6b233ac283f7dcd6f423a1f3ebdbd8ea8fbc7bb4f25c9be571d",
+      "embedded": true
+    },
+    {
+      "id": "pmid-40795897",
+      "sha256": "4aee07ce71c04ee2d1b71f83e744e67e1a37aedb85998e1a10086bd3e58c83b1",
+      "embedded": true
+    },
+    {
+      "id": "pmid-40563070",
+      "sha256": "275ea07f7cafeac60e8b39cddf69e84ac300b0b47235d3565bba0d38e306a784",
+      "embedded": true
+    },
+    {
+      "id": "pmid-42671585",
+      "sha256": "7504f53970b220348a8eabb5597781ab8b8467fc64019a3a4978d75271b9c980",
+      "embedded": true
+    },
+    {
+      "id": "pmid-42307797",
+      "sha256": "270fecb0008cf5ea8cd2f322f2145eb46a09f91c0f2fa55734dba4bc9b5c7bf9",
+      "embedded": true
+    },
+    {
+      "id": "pmid-39088370",
+      "sha256": "54b1349d61fc951c50dc806c666e3f3720773fa354260592830b13bf3468bf3d",
+      "embedded": true
+    },
+    {
+      "id": "pmid-32653082",
+      "sha256": "e751137bfc277a7b9b49dc9204967b5a33925487aa3581d7c8ed4421f043702c",
+      "embedded": true
+    },
+    {
+      "id": "pmid-36011825",
+      "sha256": "8ae662884034881c578c07a54c4c57167059e9b695c14e91798c7000f7e84598",
+      "embedded": true
+    },
+    {
+      "id": "pmid-38319068",
+      "sha256": "c395c4e7f9cf9883f029573faed6cb0d59fefc2bd0b7189372f150cb1aefb538",
+      "embedded": true
+    },
+    {
+      "id": "pmid-32564499",
+      "sha256": "1ee746f51854a4ac55999cdd33805a9c7ef48435616f7aca73991e44152129c2",
+      "embedded": true
+    },
+    {
+      "id": "pmid-33107329",
+      "sha256": "8ad86fa769ffdc9b971b974560a9adfecaec4d0d4f58e29863aefcc404b89720",
+      "embedded": true
+    },
+    {
+      "id": "pmid-32412916",
+      "sha256": "c468e6726e1dcd4b88da0ea935215ac62286030cfb1beddf84f8fc88f7a15dd9",
+      "embedded": true
+    },
+    {
+      "id": "pmid-40269359",
+      "sha256": "ec3b3443c7e61b41198fa9b0566080e9ca1d2913b69a8534a23f6b3475e0872f",
+      "embedded": true
+    },
+    {
+      "id": "pmid-36790246",
+      "sha256": "2c25d8e36dc511d4137062aa668ab5bf48b4ed53067d32d6aadeb1ba7ac6284a",
+      "embedded": true
+    },
+    {
+      "id": "pmid-35713444",
+      "sha256": "7229dc0f611b6c98036ea6dbc0d0b2be83116676301c244e95e4fba4d889aabc",
+      "embedded": true
+    },
+    {
+      "id": "pmid-38982009",
+      "sha256": "ee50fdd582968fb00ef67f76953c50cd579d7ad25e81a1bbc91c5f7901cac98b",
+      "embedded": true
+    },
+    {
+      "id": "pmid-42116620",
+      "sha256": "4edd8b681a2dabcff37ec21cd8dd41bc127111ca5a9a8daeb3ca788528508d37",
+      "embedded": true
+    },
+    {
+      "id": "pmid-40621706",
+      "sha256": "be3038f7d6a9937eebf71ae36ea6228eef0b222e4b8826d0f33625955320c996",
+      "embedded": true
+    },
+    {
+      "id": "pmid-35655482",
+      "sha256": "70d7ef7afd59a3ebc616bbe0d82ac376639f3c0b1968968a36d462fca37a7a7a",
+      "embedded": true
+    },
+    {
+      "id": "pmid-40769315",
+      "sha256": "7fb118ecd171601be9829671a6fc89ce960e941c27174b82ceec95d037e84cd1",
+      "embedded": true
+    },
+    {
+      "id": "pmid-40716437",
+      "sha256": "fea5af4f3e5c5c0d6cd0c2b6615eecfb11525659a5f472e8d40b2b61aeda68b4",
+      "embedded": true
+    },
+    {
+      "id": "pmid-38227442",
+      "sha256": "100822840de0a86a2b5d2b03a26ebcefa90f0f8c33294153e50ab9f541548076",
+      "embedded": true
+    },
+    {
+      "id": "pmid-39758524",
+      "sha256": "55adb9e8590ced53e5623b23199ed0ab1ada77d47ea2ff8ad590e0de01841109",
+      "embedded": true
+    },
+    {
+      "id": "pmid-42518933",
+      "sha256": "0e2716349cff6f1342c5a24698394aaebb1d0b6870fc7b05b59e4f3a3a311a2d",
+      "embedded": true
+    },
+    {
+      "id": "pmid-41655996",
+      "sha256": "d8242e4549c282ad19447c4d18eb3bd571ecde6368e1175870ffa49fec74c538",
+      "embedded": true
+    },
+    {
+      "id": "pmid-37882058",
+      "sha256": "3dac76e1f159a4866794094aeb5d2240796e7a16c5f9e8552be0ced44714df85",
+      "embedded": true
+    },
+    {
+      "id": "pmid-30711853",
+      "sha256": "176bc9bf9a205bb3620a9fa1a425c5f757e8bc794362e3e13971ad798473134c",
+      "embedded": true
+    },
+    {
+      "id": "pmid-24880581",
+      "sha256": "6fdb96ec0a8229b9b6fe3cf46792181297343b91828de18aaca457de084c4b7b",
+      "embedded": true
+    },
+    {
+      "id": "pmid-32892758",
+      "sha256": "18e5bd74ce70b09e7263555b09179aca31dd19e1451e4ee2bd7764de37726b35",
+      "embedded": true
+    },
+    {
+      "id": "pmid-22322458",
+      "sha256": "9db00ce630c0871a899bfe107c66f0bfc7276e619b812b90d40f6f9d1974559d",
+      "embedded": true
+    },
+    {
+      "id": "pmid-39916551",
+      "sha256": "faafab96614c732ce44fcba2a1f31105cae2285416fecb0b0b115c5365311afb",
+      "embedded": true
+    },
+    {
+      "id": "pmid-12883106",
+      "sha256": "ad286850bfb78b6ac7a4dc984ee88d2f268fc274bfbb9f522de62dc574aabc97",
+      "embedded": true
+    },
+    {
+      "id": "pmid-11020090",
+      "sha256": "afc182112a9ea9daebcdc52fb8cfc984868b30c32a035178e4919443792b4bf6",
+      "embedded": true
+    },
+    {
+      "id": "pmid-19235193",
+      "sha256": "aea2aeae7e30350dd94a1cd569c918ad372e7dd6039ceb61fba431f501545c42",
+      "embedded": true
+    },
+    {
+      "id": "pmid-25686304",
+      "sha256": "6928a38ffa20a281f780a8cd2bc3ec0500c168e52a3ca6bcc7c08eef4d47f5dd",
+      "embedded": true
+    },
+    {
+      "id": "pmid-23541163",
+      "sha256": "eea60cb6afaa6eb72cd68ca9f24273984917f6915624b406811300fdb16ff166",
+      "embedded": true
+    },
+    {
+      "id": "pmid-20876468",
+      "sha256": "d305b9f36cd73f4c1c5691feb61dd44d2fc20fc506cd8ac1cd37bd0ecf541630",
+      "embedded": true
+    },
+    {
+      "id": "pmid-22430268",
+      "sha256": "b0c3e7ebfb7567d450a5e8d62f5593e4c13a3570a8d555f4e86eb4ef179994f6",
+      "embedded": true
+    },
+    {
+      "id": "pmid-21723049",
+      "sha256": "794b07cdbfa94c0c61d98cd94e91d35b50a2489d71faff665de05e488d24a6d8",
+      "embedded": true
+    },
+    {
+      "id": "pmid-29422189",
+      "sha256": "46c4ad82e1ac030a0ab7e787f44bb93b751c5ca1ff59c3ea2e68b1334f3fed7c",
+      "embedded": true
+    },
+    {
+      "id": "pmid-24647726",
+      "sha256": "3a6fad1966b76c16e76748a2bbd3992c79c99fd21e3d339f7cfb639c8dcc0c9f",
+      "embedded": true
+    },
+    {
+      "id": "pmid-14756612",
+      "sha256": "3f02260d8ee606ba88db36c4a687d4ed4fe882b46485bae68132a093b6d5af95",
+      "embedded": true
+    },
+    {
+      "id": "pmid-26586819",
+      "sha256": "298ca9547857a2c6d927fc712e71568010060555cf6dc050f847b0b292b1f63a",
+      "embedded": true
+    },
+    {
+      "id": "pmid-29921143",
+      "sha256": "ef71bd5a842927ac3b7fe8fbe8461bacd0a334d8c95d9b2fe79da2f9561e93b6",
+      "embedded": true
+    },
+    {
+      "id": "pmid-16847590",
+      "sha256": "ae82699384b7debd8f95825e0d3e735149224c6ba5b4278f510e210b188c3bca",
+      "embedded": true
+    },
+    {
+      "id": "pmid-18356284",
+      "sha256": "c5fbf16b0c1fae1a15d41151bac7ccb444c8cddf18362f5106e416089e0a10b1",
+      "embedded": true
+    },
+    {
+      "id": "pmid-25397817",
+      "sha256": "ded9446c3db46ddfd954cf9bc85e46051503fd55b8f5de9d448e21f342650408",
+      "embedded": true
+    },
+    {
+      "id": "pmid-31632617",
+      "sha256": "a3e2d6757e7fe0d47a28dc311437e668c85a09974391d9a1006d99eb3c803a3b",
+      "embedded": true
+    },
+    {
+      "id": "pmid-39427264",
+      "sha256": "b63f09697ec645454dfd8d8b0c360c6f9e5908702ccb75dcc09fc2f5853aad15",
+      "embedded": true
+    },
+    {
+      "id": "pmid-7591024",
+      "sha256": "26aeee8f13284b894641dc471375c85a9dbd4cf7ca438426c0c6374a3cc5ce85",
+      "embedded": true
+    },
+    {
+      "id": "pmid-30279666",
+      "sha256": "198566b70ae80a433a9de42489913a600f38a1137b7f221c13820036db8cd7a9",
+      "embedded": true
+    },
+    {
+      "id": "pmid-34907015",
+      "sha256": "554c36a5e19d2d2a8d72fdbd53d131a20b31f9f0afc20edb116a60d09d7c2d81",
+      "embedded": true
+    },
+    {
+      "id": "pmid-29900257",
+      "sha256": "c71af66f9905bec97d9dc8ab964e59da148a6a90952e9e41b407ab8b8a7e6150",
+      "embedded": true
+    },
+    {
+      "id": "pmid-33393484",
+      "sha256": "4833773d75d8c967409107b5592c928fe86dab362918f387d4c0bcff53e65f6f",
+      "embedded": true
+    },
+    {
+      "id": "pmid-30256277",
+      "sha256": "d3c7c2b031d008cf0324753e69d170c55516f6e4eff10aeb277cc7c0c9ad0c95",
+      "embedded": true
+    },
+    {
+      "id": "pmid-39413359",
+      "sha256": "234223c21e18e56bfe803c14de234444b2669f30304673fb5abebd7089b44914",
+      "embedded": true
+    },
+    {
+      "id": "pmid-37546047",
+      "sha256": "ef3b518b63d581cfed60fa23af98894eacb3cfb8de027b5d29a32495c16b3a14",
+      "embedded": true
+    },
+    {
+      "id": "pmid-35818436",
+      "sha256": "bcd81cc29ad3089ab7dddd6b94003227a74fe34747b6d5825b6002088f77ace5",
+      "embedded": true
+    },
+    {
+      "id": "pmid-40414454",
+      "sha256": "ccb68788c681f7b232de9875c615494dd4b972ae88d1246a7cdb53c14c252047",
+      "embedded": true
+    },
+    {
+      "id": "pmid-33734493",
+      "sha256": "1123113e7e66553738bb355c56eb240ba61979ec2f92f5b5a55e0728920c0299",
+      "embedded": true
+    },
+    {
+      "id": "pmid-27723444",
+      "sha256": "698cb8afa778dd7fcfa024355baab06aa28953333c87d7776b1e1f80b87c28c9",
+      "embedded": true
+    },
+    {
+      "id": "pmid-34729544",
+      "sha256": "b0c23758ad448193c0a6d5bba3542b637171d92cb3f1285c32a95cf686d08561",
+      "embedded": true
+    },
+    {
+      "id": "pmid-38078959",
+      "sha256": "141b3dbcc38820f77ca6443195903bbca66b25357dcc7a7cc60bfd540c9b2a95",
+      "embedded": true
+    },
+    {
+      "id": "pmid-41642087",
+      "sha256": "bf93acd93c1a9ca1832786e7ba087e4d90e1e9d493bbb913548e5dccd05a574f",
+      "embedded": true
+    },
+    {
+      "id": "pmid-42640862",
+      "sha256": "4dad7c778aa1fd4ceab33abbd8aa9d521199dff99f0adb3363ee551868964cbf",
+      "embedded": true
+    },
+    {
+      "id": "pmid-29936408",
+      "sha256": "a2991ce87e588044e8c86d71b2fca451d893d3be286e69e57a0df05a11b8d5d8",
+      "embedded": true
+    },
+    {
+      "id": "pmid-36006668",
+      "sha256": "7dd74099fdf9b949871366703c94579203b9bff903e18ca0dba781967b0ee928",
+      "embedded": true
+    },
+    {
+      "id": "pmid-39808431",
+      "sha256": "24350e9cd7782144cbc88318c3063ea5fbb1e69d7d96241fb47fe92743f30ee2",
+      "embedded": true
+    },
+    {
+      "id": "pmid-42599846",
+      "sha256": "3b9effb4c2f7568ca5f91bbd43c5fe0bee2bd2ddee560dddc6b04c6419a4ef40",
+      "embedded": true
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "newRecords": 23,
+  "expectedUniqueRecords": 781,
+  "existingPaperPlacementsPreserved": 990,
+  "journalGroups": {
+    "nature": 49,
+    "null": 1,
+    "frontiers": 42
+  },
+  "assessmentCopyPreserved": true,
+  "legacyExtractionInputsUnchanged": true
+}

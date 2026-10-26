@@ -1,0 +1,491 @@
+{
+  "date": "2026-10-23",
+  "rubric": {
+    "3": "Double-blind randomized controlled trials; registered triple masking also meets this threshold. Masked roles are specified for each study.",
+    "2": "Single-blind randomized controlled trials, including masked outcome assessment.",
+    "1": "General research; includes nonrandomized studies and trials without verified participant or assessor blinding."
+  },
+  "citationPolicy": "Crossref is-referenced-by-count snapshots, not live totals. Zero is a verified zero in Crossref, not a claim that no citation exists anywhere.",
+  "jadad": "Separate assessment; remains unassessed.",
+  "records": [
+    {
+      "id": "pmid-41534731",
+      "title": "Neural mechanisms of mindfulness: reduced neural reactivity to social-evaluative threat accounts for mindfulness intervention effects on inflammatory gene expression",
+      "design": "Randomized controlled trial; registered single-blind (outcome assessors)",
+      "trustAssessment": {
+        "score": 2,
+        "basis": "The linked trial register specifies masked outcome assessors; participants knew their allocation.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/41534731/",
+          "https://doi.org/10.1016/j.bbi.2026.106284",
+          "https://clinicaltrials.gov/study/NCT05304052"
+        ],
+        "assessedAt": "2026-10-23",
+        "scheme": "Universal Mind trust score: study design",
+        "scope": "Paper",
+        "registeredMaskingBasis": true
+      },
+      "citationSnapshot": {
+        "count": 1,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1016/j.bbi.2026.106284"
+      },
+      "crossrefResponseSHA256": "224f4b8c82258e5397f12b77e6f5990b84f5ff16008d17ae9f994004f7742a4c"
+    },
+    {
+      "id": "pmid-41020112",
+      "title": "Psychological assessments, allostatic load and gene expression analyses in a randomized controlled trial comparing meditation, yoga, and stress education",
+      "design": "Randomized controlled trial; registered double-blind (participants and outcome assessors)",
+      "trustAssessment": {
+        "score": 3,
+        "basis": "The linked trial register specifies double masking of participants and outcome assessors. The article does not describe the masking procedure; this score reflects the registered design.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12463968/",
+          "https://pubmed.ncbi.nlm.nih.gov/41020112/",
+          "https://doi.org/10.3389/fpsyg.2025.1653242",
+          "https://clinicaltrials.gov/study/NCT01308970"
+        ],
+        "assessedAt": "2026-10-23",
+        "scheme": "Universal Mind trust score: study design",
+        "scope": "Paper",
+        "registeredMaskingBasis": true
+      },
+      "citationSnapshot": {
+        "count": 3,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.3389/fpsyg.2025.1653242"
+      },
+      "crossrefResponseSHA256": "db4e778f9352c91ffbb654584e215994f3dcbff61811b6c597d15035145eada8"
+    },
+    {
+      "id": "pmid-39680432",
+      "title": "Effect of a Web-Based Heartfulness Program on the Mental Well-Being, Biomarkers, and Gene Expression Profile of Health Care Students: Randomized Controlled Trial",
+      "design": "Randomized controlled trial; blinding not reported",
+      "trustAssessment": {
+        "score": 1,
+        "basis": "The article and ISRCTN record describe random allocation but do not report blinding. A higher score requires documented masking.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC11686021/",
+          "https://pubmed.ncbi.nlm.nih.gov/39680432/",
+          "https://doi.org/10.2196/65506",
+          "https://www.isrctn.com/ISRCTN82860715"
+        ],
+        "assessedAt": "2026-10-23",
+        "scheme": "Universal Mind trust score: study design",
+        "scope": "Paper",
+        "registeredMaskingBasis": false
+      },
+      "citationSnapshot": {
+        "count": 4,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.2196/65506"
+      },
+      "crossrefResponseSHA256": "62f4c8f5efa57f27d84a99611f27d171b87ab398401894432f74b04c8d48a853"
+    },
+    {
+      "id": "pmid-38671329",
+      "title": "Serotonin Transporter (SLC6A4) and FK506-Binding Protein 5 (FKBP5) Genotype and Methylation Relationships with Response to Meditation in Veterans with PTSD",
+      "design": "Secondary analysis of two intervention studies",
+      "trustAssessment": {
+        "score": 1,
+        "basis": "The reported analysis relates genotype and methylation to response across two studies; it is not an independent blinded randomized treatment comparison.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/38671329/",
+          "https://doi.org/10.1007/s12035-024-04096-6"
+        ],
+        "assessedAt": "2026-10-23",
+        "scheme": "Universal Mind trust score: study design",
+        "scope": "Paper",
+        "registeredMaskingBasis": false
+      },
+      "citationSnapshot": {
+        "count": 9,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1007/s12035-024-04096-6"
+      },
+      "crossrefResponseSHA256": "1881d8f88cea246546a31f16ed1337ce9ad1f5e99a265f45a1037cb6aebc6b47"
+    },
+    {
+      "id": "pmid-37982547",
+      "title": "Mindfulness-Based Stress Reduction Reduces Proinflammatory Gene Regulation But Not Systemic Inflammation Among Older Adults: A Randomized Controlled Trial",
+      "design": "Randomized controlled trial; single-blind (laboratory assessors)",
+      "trustAssessment": {
+        "score": 2,
+        "basis": "Laboratory technicians were blind to treatment condition; the linked trial register identifies single masking of outcome assessors.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC11098967/",
+          "https://pubmed.ncbi.nlm.nih.gov/37982547/",
+          "https://doi.org/10.1097/psy.0000000000001264",
+          "https://clinicaltrials.gov/study/NCT02888600"
+        ],
+        "assessedAt": "2026-10-23",
+        "scheme": "Universal Mind trust score: study design",
+        "scope": "Paper",
+        "registeredMaskingBasis": false
+      },
+      "citationSnapshot": {
+        "count": 15,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1097/psy.0000000000001264"
+      },
+      "crossrefResponseSHA256": "3d983b811c56d198bdd9a2a8baf86024feba47625fbacc1f8444e24e21374e95"
+    },
+    {
+      "id": "pmid-37560036",
+      "title": "Transcendental Meditation practitioners show reduced expression of the Conserved Transcriptional Response to Adversity",
+      "design": "Observational comparison; secondary analysis",
+      "trustAssessment": {
+        "score": 1,
+        "basis": "A nonrandomized comparison of long-term practitioners and controls; the analysis does not meet the blinded randomized-trial categories.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10407892/",
+          "https://pubmed.ncbi.nlm.nih.gov/37560036/",
+          "https://doi.org/10.1016/j.bbih.2023.100672"
+        ],
+        "assessedAt": "2026-10-23",
+        "scheme": "Universal Mind trust score: study design",
+        "scope": "Paper",
+        "registeredMaskingBasis": false
+      },
+      "citationSnapshot": {
+        "count": 12,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1016/j.bbih.2023.100672"
+      },
+      "crossrefResponseSHA256": "89217b09a14ec12d7e93062911f3f60bbe3119b52198d3012c73286b21a8fe55"
+    },
+    {
+      "id": "pmid-36350591",
+      "title": "Mindfulness-Based Stress Reduction vs Escitalopram for the Treatment of Adults With Anxiety Disorders: A Randomized Clinical Trial",
+      "design": "Randomized controlled trial; single-blind (clinical assessors)",
+      "trustAssessment": {
+        "score": 2,
+        "basis": "The article identifies a single-blind trial: independent clinical evaluators were masked, while participants and providers knew the treatment.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9647561/",
+          "https://pubmed.ncbi.nlm.nih.gov/36350591/",
+          "https://doi.org/10.1001/jamapsychiatry.2022.3679",
+          "https://clinicaltrials.gov/study/NCT03522844"
+        ],
+        "assessedAt": "2026-10-23",
+        "scheme": "Universal Mind trust score: study design",
+        "scope": "Paper",
+        "registeredMaskingBasis": false
+      },
+      "citationSnapshot": {
+        "count": 184,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1001/jamapsychiatry.2022.3679"
+      },
+      "crossrefResponseSHA256": "f971b50b06c6b1b29b49ebc155f2783aaf8264b9221e4bcee554b5ea7e454b34"
+    },
+    {
+      "id": "pmid-36267832",
+      "title": "Online, low-volume meditation does not alter immune-related biomarkers",
+      "design": "Randomized pilot trial; single-blind",
+      "trustAssessment": {
+        "score": 2,
+        "basis": "The Methods section explicitly describes a single-blind randomized parallel pilot trial.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9576541/",
+          "https://pubmed.ncbi.nlm.nih.gov/36267832/",
+          "https://doi.org/10.1016/j.bbih.2022.100531"
+        ],
+        "assessedAt": "2026-10-23",
+        "scheme": "Universal Mind trust score: study design",
+        "scope": "Paper",
+        "registeredMaskingBasis": false
+      },
+      "citationSnapshot": {
+        "count": 10,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1016/j.bbih.2022.100531"
+      },
+      "crossrefResponseSHA256": "0eae48e9b816a34b70dc9e6990b58d3aac6f559e66412df4edc968d1d0cccbcf"
+    },
+    {
+      "id": "pmid-35820992",
+      "title": "Effectiveness and cost-effectiveness of universal school-based mindfulness training compared with normal school provision in reducing risk of mental health problems and promoting well-being in adolescence: the MYRIAD cluster randomised controlled trial",
+      "design": "Cluster randomized controlled trial; unblinded",
+      "trustAssessment": {
+        "score": 1,
+        "basis": "Students and teachers were not blind to allocation. The main outcomes used self-report; the paper does not establish blinded outcome assessment.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9340028/",
+          "https://pubmed.ncbi.nlm.nih.gov/35820992/",
+          "https://doi.org/10.1136/ebmental-2021-300396"
+        ],
+        "assessedAt": "2026-10-23",
+        "scheme": "Universal Mind trust score: study design",
+        "scope": "Paper",
+        "registeredMaskingBasis": false
+      },
+      "citationSnapshot": {
+        "count": 241,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1136/ebmental-2021-300396"
+      },
+      "crossrefResponseSHA256": "9506b486e872cf9b2af765e9bee1a7823e77c32cc90924766ab01088326db688"
+    },
+    {
+      "id": "pmid-35427760",
+      "title": "Smartphone mindfulness meditation training reduces Pro-inflammatory gene expression in stressed adults: A randomized controlled trial",
+      "design": "Randomized controlled trial; registered single-blind (outcome assessors)",
+      "trustAssessment": {
+        "score": 2,
+        "basis": "The linked trial register specifies masked outcome assessors. The experimenter setting up the apps knew the assigned condition.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/35427760/",
+          "https://doi.org/10.1016/j.bbi.2022.04.003",
+          "https://clinicaltrials.gov/study/NCT03803865",
+          "https://www.healthandhumanperformancelab.com/_files/ugd/b30fc8_81ef3b38218542ec880d0700d6e1dec1.pdf"
+        ],
+        "assessedAt": "2026-10-23",
+        "scheme": "Universal Mind trust score: study design",
+        "scope": "Paper",
+        "registeredMaskingBasis": true
+      },
+      "citationSnapshot": {
+        "count": 27,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1016/j.bbi.2022.04.003"
+      },
+      "crossrefResponseSHA256": "a31abd24d70933d8e202a76c07687dceff68620e8082430e5af828b70ff2b61c"
+    },
+    {
+      "id": "pmid-36278141",
+      "title": "Effect of Mindfulness Versus Loving-kindness Training on Leukocyte Gene Expression in Midlife Adults Raised in Low-Socioeconomic Status Households",
+      "design": "Randomized controlled trial; registered triple-masked",
+      "trustAssessment": {
+        "score": 3,
+        "basis": "The trial register lists participants, investigators and outcome assessors as masked. The paper confirms that lab-visit personnel were blind to condition. The score reflects the registered masking design.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC9585929/",
+          "https://pubmed.ncbi.nlm.nih.gov/36278141/",
+          "https://doi.org/10.1007/s12671-022-01857-z",
+          "https://clinicaltrials.gov/study/NCT02400593"
+        ],
+        "assessedAt": "2026-10-23",
+        "scheme": "Universal Mind trust score: study design",
+        "scope": "Paper",
+        "registeredMaskingBasis": true
+      },
+      "citationSnapshot": {
+        "count": 13,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1007/s12671-022-01857-z"
+      },
+      "crossrefResponseSHA256": "9533b77c85444e5a2a7a178174cf67f6e1a9f1e226463eb44407d0fd373e1838"
+    },
+    {
+      "id": "pmid-27002445",
+      "title": "Effect of Mindfulness-Based Stress Reduction vs Cognitive Behavioral Therapy or Usual Care on Back Pain and Functional Limitations in Adults With Chronic Low Back Pain: A Randomized Clinical Trial",
+      "design": "Randomized controlled trial; single-blind (interviewers)",
+      "trustAssessment": {
+        "score": 2,
+        "basis": "The article explicitly describes an interviewer-blind trial with follow-up interviewers masked to treatment group.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC4914381/",
+          "https://pubmed.ncbi.nlm.nih.gov/27002445/",
+          "https://doi.org/10.1001/jama.2016.2323",
+          "https://clinicaltrials.gov/study/NCT01467843"
+        ],
+        "assessedAt": "2026-10-23",
+        "scheme": "Universal Mind trust score: study design",
+        "scope": "Paper",
+        "registeredMaskingBasis": false
+      },
+      "citationSnapshot": {
+        "count": 661,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1001/jama.2016.2323"
+      },
+      "crossrefResponseSHA256": "23c064178543aca72825b620a912b00082b4a2efe2217ce6fb5b25452ef7a434"
+    },
+    {
+      "id": "pmid-26241597",
+      "title": "Mindfulness-Based Stress Reduction for Posttraumatic Stress Disorder Among Veterans: A Randomized Clinical Trial",
+      "design": "Randomized controlled trial; single-blind (clinical assessors)",
+      "trustAssessment": {
+        "score": 2,
+        "basis": "The publication and authors’ follow-up confirm blinded clinical interviews. Participants knew their treatment. The register labels investigators and assessors as double masked; this score follows the confirmed assessor blinding in the published study.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/26241597/",
+          "https://doi.org/10.1001/jama.2015.8361",
+          "https://clinicaltrials.gov/study/NCT01548742",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10688415/"
+        ],
+        "assessedAt": "2026-10-23",
+        "scheme": "Universal Mind trust score: study design",
+        "scope": "Paper",
+        "registeredMaskingBasis": false
+      },
+      "citationSnapshot": {
+        "count": 280,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1001/jama.2015.8361"
+      },
+      "crossrefResponseSHA256": "3247acaf39d3eda143b875204c6263c28344734d7da3f971c295a6d2f23fdf53"
+    },
+    {
+      "id": "pmid-25907157",
+      "title": "Effectiveness and cost-effectiveness of mindfulness-based cognitive therapy compared with maintenance antidepressant treatment in the prevention of depressive relapse or recurrence (PREVENT): a randomised controlled trial",
+      "design": "Randomized controlled trial; single-blind (research assessors)",
+      "trustAssessment": {
+        "score": 2,
+        "basis": "The abstract explicitly identifies a single-blind trial: participants knew allocation and research assessors were masked.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/25907157/",
+          "https://doi.org/10.1016/s0140-6736(14)62222-4"
+        ],
+        "assessedAt": "2026-10-23",
+        "scheme": "Universal Mind trust score: study design",
+        "scope": "Paper",
+        "registeredMaskingBasis": false
+      },
+      "citationSnapshot": {
+        "count": 445,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1016/s0140-6736(14)62222-4"
+      },
+      "crossrefResponseSHA256": "30f82a24415a14180be9f715dacfad912ac14a9a7263a67241755fc745fdb78a"
+    },
+    {
+      "id": "pmid-25537522",
+      "title": "Mindfulness meditation for younger breast cancer survivors: a randomized controlled trial",
+      "design": "Randomized controlled trial; blinding not reported",
+      "trustAssessment": {
+        "score": 1,
+        "basis": "The published methods describe randomization to mindfulness or waitlist but do not report masked outcome assessment.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC4393338/",
+          "https://pubmed.ncbi.nlm.nih.gov/25537522/",
+          "https://doi.org/10.1002/cncr.29194"
+        ],
+        "assessedAt": "2026-10-23",
+        "scheme": "Universal Mind trust score: study design",
+        "scope": "Paper",
+        "registeredMaskingBasis": false
+      },
+      "citationSnapshot": {
+        "count": 351,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1002/cncr.29194"
+      },
+      "crossrefResponseSHA256": "ea5887b016158e7a33a49dd11d496e7e2ed5edfccaa011b61df702d8e90a7838"
+    },
+    {
+      "id": "pmid-24485481",
+      "title": "Rapid changes in histone deacetylases and inflammatory gene expression in expert meditators",
+      "design": "Nonrandomized controlled study",
+      "trustAssessment": {
+        "score": 1,
+        "basis": "Expert meditators and controls were compared without random allocation.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC4039194/",
+          "https://pubmed.ncbi.nlm.nih.gov/24485481/",
+          "https://doi.org/10.1016/j.psyneuen.2013.11.004"
+        ],
+        "assessedAt": "2026-10-23",
+        "scheme": "Universal Mind trust score: study design",
+        "scope": "Paper",
+        "registeredMaskingBasis": false
+      },
+      "citationSnapshot": {
+        "count": 212,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1016/j.psyneuen.2013.11.004"
+      },
+      "crossrefResponseSHA256": "54ee5aab3c1c90b0d7f5b9f1c04b664a864ba6c9062e40f7dbb51fe4295e902d"
+    },
+    {
+      "id": "pmid-22820409",
+      "title": "Mindfulness-Based Stress Reduction training reduces loneliness and pro-inflammatory gene expression in older adults: a small randomized controlled trial",
+      "design": "Randomized pilot trial; single-blind (study assessors)",
+      "trustAssessment": {
+        "score": 2,
+        "basis": "The paper reports that blinded study staff collected post-treatment measures and blood samples.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC3635809/",
+          "https://pubmed.ncbi.nlm.nih.gov/22820409/",
+          "https://doi.org/10.1016/j.bbi.2012.07.006"
+        ],
+        "assessedAt": "2026-10-23",
+        "scheme": "Universal Mind trust score: study design",
+        "scope": "Paper",
+        "registeredMaskingBasis": false
+      },
+      "citationSnapshot": {
+        "count": 499,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1016/j.bbi.2012.07.006"
+      },
+      "crossrefResponseSHA256": "4026c5a44d22863ffa28a2d47a9aff0e5aca7d03ea71b5e8bdd128218a06c719"
+    },
+    {
+      "id": "pmid-40379363",
+      "title": "Mindfulness-based cognitive therapy versus treatment as usual after non-remission with NHS Talking Therapies high-intensity psychological therapy for depression: a UK-based clinical effectiveness and cost-effectiveness randomised, controlled, superiority trial",
+      "design": "Randomized controlled trial; masked statistical analysis",
+      "trustAssessment": {
+        "score": 1,
+        "basis": "Participants and therapists were unmasked, and follow-up outcomes were self-reported electronically. Masked statistical analysis alone is not treated as single-blind outcome assessment.",
+        "sources": [
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12078190/",
+          "https://pubmed.ncbi.nlm.nih.gov/40379363/",
+          "https://doi.org/10.1016/s2215-0366(25)00105-1"
+        ],
+        "assessedAt": "2026-10-23",
+        "scheme": "Universal Mind trust score: study design",
+        "scope": "Paper",
+        "registeredMaskingBasis": false
+      },
+      "citationSnapshot": {
+        "count": 16,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1016/s2215-0366(25)00105-1"
+      },
+      "crossrefResponseSHA256": "5f9d4ab4bed5acb21d67ec8255244829ac91d5b712e5cc0f8cc0b77414072add"
+    },
+    {
+      "id": "doi-10.1007-s12671-026-02877-9",
+      "title": "Dynamic Methylation Changes in Alzheimer’s Disease-Related Genes During Mindfulness Practice – a Proof-of-Concept Study",
+      "design": "Nonrandomized controlled pre/post study",
+      "trustAssessment": {
+        "score": 1,
+        "basis": "Experienced meditators and matched controls were compared without random allocation.",
+        "sources": [
+          "https://link.springer.com/article/10.1007/s12671-026-02877-9"
+        ],
+        "assessedAt": "2026-10-23",
+        "scheme": "Universal Mind trust score: study design",
+        "scope": "Paper",
+        "registeredMaskingBasis": false
+      },
+      "citationSnapshot": {
+        "count": 0,
+        "source": "Crossref",
+        "retrievedAt": "2026-10-23",
+        "url": "https://api.crossref.org/works/10.1007/s12671-026-02877-9"
+      },
+      "crossrefResponseSHA256": "9d77fb43699e0a11489d35af0f252d1d5a90f393f197a06ac017195b206f299d"
+    }
+  ]
+}

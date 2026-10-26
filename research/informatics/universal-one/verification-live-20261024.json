@@ -1,0 +1,251 @@
+{
+  "verifiedAt": "2026-10-23T19:13:34.403902+00:00",
+  "environment": "staging",
+  "url": "https://staging.universalmind.tv/informatics/",
+  "sourceCommit": "3637bb032ad2e7a820bf46295504b3eb2a0b31b0",
+  "productionBase": "d82c7ae080a5236cd1029bd9605d7b4e3988feb4",
+  "productionModified": false,
+  "workerVersion": "6fe818a2-f757-43a1-afe1-1dd509234cdc",
+  "datasetVersion": "research-20261024-v2",
+  "checks": {
+    "panthurPreflights": "passed",
+    "syntaxAndDiff": "passed",
+    "liveLifecycle": "passed",
+    "audioMixLifecycle": "passed",
+    "liveBrowser": [
+      {
+        "textAstra": true,
+        "answer": "UNIVERSAL ONE\nThe index contains 811 unique publications, including 149 permitted full-text articles. Collection counts overlap, so they are not added together.\nRead aloud"
+      },
+      {
+        "dictation": "How many publications are in the research library?",
+        "microphoneWaveform": true
+      },
+      {
+        "liveSpeechAutomatic": true,
+        "transcript": "YouHow many unique publications and permitted full-text articles are indexed?Universal OneThe index contains 811 unique publications, including 149 permitted full-text articles. Collection counts overlap, so they are not added together.Read aloudUniversal OneNamaste. What research question can I help you with?Universal OneLet me quickly check the library\u2019s indexed count.YouHow many publications are in the research library?Universal OneThe research library currently indexes 811 unique publications, and 149 of those are permitted full-text articles.",
+        "realRemoteAudioDecoded": true,
+        "duckedVolume": 0.12
+      },
+      {
+        "liveCitedAnswer": "UNIVERSAL ONE\nThe Atlas record Fibonacci M9P24 records the M9 Pisano period as 24 in its pisano_period field. The same record notes that some display conventions, like being zero-based, showing residue 0 as 9, and plotting positions clockwise from north, do not change the period itself.\n2 sources",
+        "optionalTranscript": true
+      },
+      {
+        "textReturn": true,
+        "restoredVolume": 0.8,
+        "microphoneClosed": true
+      }
+    ],
+    "navigationAndLayout": [
+      {
+        "width": 1470,
+        "themes": 3,
+        "textPanelFits": true
+      },
+      {
+        "width": 1024,
+        "themes": 3,
+        "textPanelFits": true
+      },
+      {
+        "width": 390,
+        "themes": 3,
+        "textPanelFits": true
+      },
+      {
+        "width": 320,
+        "themes": 3,
+        "textPanelFits": true
+      },
+      {
+        "voiceAcrossResearchLightbox": true,
+        "singleCharacter": true,
+        "sharedSession": true,
+        "fullscreenSubtree": true
+      },
+      {
+        "latePermissionCancelled": true
+      }
+    ],
+    "errors": [],
+    "stagingAssetsMatched": 12,
+    "productionAssetsUnchanged": 4,
+    "processAudioDisabled": true,
+    "automatedMediaClosed": true,
+    "nativeFullscreenInvoked": false
+  },
+  "apiResponses": [
+    {
+      "url": "https://informatics-universal-one-staging.universalmind.workers.dev/research",
+      "status": 200
+    },
+    {
+      "url": "https://informatics-universal-one-staging.universalmind.workers.dev/transcribe",
+      "status": 200
+    },
+    {
+      "url": "https://informatics-universal-one-staging.universalmind.workers.dev/voice-session",
+      "status": 200
+    },
+    {
+      "url": "https://api.openai.com/v1/realtime/calls",
+      "status": 201
+    },
+    {
+      "url": "https://informatics-universal-one-staging.universalmind.workers.dev/research",
+      "status": 200
+    },
+    {
+      "url": "https://informatics-universal-one-staging.universalmind.workers.dev/research",
+      "status": 200
+    }
+  ],
+  "realtimeEvents": {
+    "session.created": 1,
+    "conversation.item.added": 13,
+    "conversation.item.done": 13,
+    "response.created": 5,
+    "response.output_item.added": 7,
+    "response.content_part.added": 5,
+    "response.output_audio_transcript.delta": 119,
+    "output_audio_buffer.started": 5,
+    "response.output_audio.done": 5,
+    "response.output_audio_transcript.done": 5,
+    "response.content_part.done": 5,
+    "response.output_item.done": 7,
+    "response.done": 5,
+    "rate_limits.updated": 5,
+    "output_audio_buffer.stopped": 4,
+    "input_audio_buffer.speech_started": 1,
+    "input_audio_buffer.speech_stopped": 1,
+    "input_audio_buffer.committed": 1,
+    "response.function_call_arguments.delta": 121,
+    "conversation.item.input_audio_transcription.delta": 9,
+    "response.function_call_arguments.done": 2,
+    "conversation.item.input_audio_transcription.completed": 1
+  },
+  "assetHashes": {
+    "staging": [
+      {
+        "file": "Informatics/index.html",
+        "sha256": "e8c22a72ab311c85e0594a9ae538f03f24f63d39323fe898442d9bc834688ec1",
+        "status": 200
+      },
+      {
+        "file": "Informatics/library-data/fibonacci-expansion.json",
+        "sha256": "d471fbc295be94428c524ca504714ae2a4e2eef6aeddf77bedf4fb0fd022a480",
+        "status": 200
+      },
+      {
+        "file": "Informatics/library-data/fulltext-availability.json",
+        "sha256": "8bc19f3aa4eb7f6a4e2b5bb0880787680979e094aefcae52b28d7a828ad789ef",
+        "status": 200
+      },
+      {
+        "file": "Informatics/library-data/general-edition.json",
+        "sha256": "249b2378e4e31874edf3006dbc994081cba02db51f675b00fe7ef2a0d90a40a7",
+        "status": 200
+      },
+      {
+        "file": "Informatics/library.html",
+        "sha256": "79f2d2dce633b323763b9644c8eb125d2fc6a1b538a7f39d86a2b6eb7988833a",
+        "status": 200
+      },
+      {
+        "file": "Informatics/library.js",
+        "sha256": "58273bfd15fe2d2097662b99e1926bbe02824fde6386aab1d7361536c1e819bf",
+        "status": 200
+      },
+      {
+        "file": "Informatics/universal-one-audio.js",
+        "sha256": "38bae647336cc4d8543d2cf37802ef237238bc2ebadf64c96622cec519b6ca79",
+        "status": 200
+      },
+      {
+        "file": "Informatics/universal-one-character.js",
+        "sha256": "2840af3f8bb86465920540171971d8409f50aab6c0377f08d6ed854999375b31",
+        "status": 200
+      },
+      {
+        "file": "Informatics/universal-one-live.js",
+        "sha256": "f5a9fb0a7b1b39ee72db4cabc233c603ae66ff20be7a70728f789261f246a277",
+        "status": 200
+      },
+      {
+        "file": "Informatics/universal-one-waveform.js",
+        "sha256": "60d7ffcb8b649e8aa78112e4c29b8f9d2597eaf4ee8be9190e0dc9d3a8c8f57f",
+        "status": 200
+      },
+      {
+        "file": "Informatics/universal-one.css",
+        "sha256": "f144877a41a81c9bf8f98b999a4f96fab0ba0b8591579323a12e80ef12032e89",
+        "status": 200
+      },
+      {
+        "file": "Informatics/universal-one.js",
+        "sha256": "070ec9b4b50ec5975b52c18e1f8e6b43dcb9b466393e719a50cfb7b3659778de",
+        "status": 200
+      }
+    ],
+    "production": [
+      {
+        "file": "Informatics/index.html",
+        "sha256": "66b2b09f0d92277b6f8e83b5330a34f7d9f8ecd7a08b378a59c415bd011addb7",
+        "unchanged": true
+      },
+      {
+        "file": "Informatics/library.html",
+        "sha256": "ab0f579a019181a619d41e71267b560c8b7bc1cb1d398c87fb619bafb7bdd858",
+        "unchanged": true
+      },
+      {
+        "file": "Informatics/library.js",
+        "sha256": "aec8c6ac1fc0233ab04dd423d0b0ba55b492c9b6bab8ff210b74c174b09b168f",
+        "unchanged": true
+      },
+      {
+        "file": "Informatics/library-data/general-edition.json",
+        "sha256": "c627cf47b5ca139cbe497bf6499b9bb3917476c887c958067e654b3f9aa5f5e9",
+        "unchanged": true
+      }
+    ],
+    "exports": {}
+  },
+  "screenshots": [
+    {
+      "name": "live-transcript.png",
+      "sha256": "9f2b21903092111ad566c566b686956f58432f2c1957eb410748706f8ac1d761"
+    },
+    {
+      "name": "live-compact.png",
+      "sha256": "817ccce58fc2565a1d15c87ad7b0ef801af0407c4ce9bf60c77a539af107db7e"
+    },
+    {
+      "name": "live-browsing-library.png",
+      "sha256": "6e06fc09447095c555051ac90170fc9cf9c92817b0d03cdcc585fd405b63661d"
+    },
+    {
+      "name": "voice-layout-1470.png",
+      "sha256": "4c67f8d170780dc7cfba26e37f445d21b4686e85e4f9abca7100913d14c1ae6d"
+    },
+    {
+      "name": "voice-layout-1024.png",
+      "sha256": "53194c55f14d2fa0382938d4fd1c39efadbc2bd62ae22dff1be57876c065b17c"
+    },
+    {
+      "name": "voice-layout-390.png",
+      "sha256": "df51ec728bb600d7865de61985af5a8ea03db0be5850e7b7ac00c5e656052d36"
+    },
+    {
+      "name": "voice-layout-320.png",
+      "sha256": "a65470a704159fb597cefc29e5d53b3c184415d95b1abd446e3de843669ade29"
+    }
+  ],
+  "notes": [
+    "The initial synthetic microphone fixture repeated speech without a pause. The final fixture includes eight seconds of silence between repetitions to exercise automatic turn detection.",
+    "Transcript visibility checks wait for the existing smooth scroll to finish.",
+    "Silent browser checks establish requests, responses, audio decoding and volume control; subjective voice quality remains for Ben to proof.",
+    "The M9 follow-up is sent through the same real Realtime data channel during the browser check; the first spoken question is captured through the synthetic microphone without Send."
+  ]
+}

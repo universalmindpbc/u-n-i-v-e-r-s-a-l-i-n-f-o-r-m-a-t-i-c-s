@@ -1,0 +1,214 @@
+{
+  "reviewedOn": "2026-10-22",
+  "status": "Corrected Sound scope: retain 7.83 Hz and Schumann research. Related therapies, quantum computing, economics and digital health recorded separately pending placement, as clarified by Ben on 22 October 2026.",
+  "libraryIntroduction": "A collected library for exploring how sound, vision and language modulate gene expression.",
+  "readingBackgrounds": {
+    "default": "video",
+    "options": [
+      "video",
+      "black",
+      "white"
+    ],
+    "rememberReaderChoice": true
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "sourceChapter": "I",
+      "title": "Brain entrainment, sound and gene expression",
+      "subchapters": [
+        {
+          "sourceSubchapter": "i",
+          "title": "Brain entrainment, pain, anxiety and heart-rate variability"
+        },
+        {
+          "sourceSubchapter": "ii",
+          "title": "528 Hz sound: gene expression, hormonal responses and cell studies"
+        },
+        {
+          "sourceSubchapter": "iii",
+          "title": "7.83 Hz and low-frequency electromagnetic research"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "sourceChapter": "III",
+      "title": "Music, heart-rate variability and autonomic regulation",
+      "subchapters": [
+        {
+          "sourceSubchapter": "vii",
+          "title": "Music, heart-rate variability, cognition, emotional regulation, pain and mental health"
+        },
+        {
+          "sourceSubchapter": "viii",
+          "title": "Music and therapeutic suggestions during surgery and recovery"
+        },
+        {
+          "sourceSubchapter": "ix",
+          "title": "Baroreflex, heart-rate variability and Mayer waves around 0.1 Hz"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "sourceChapter": "IV",
+      "title": "Music and gene expression",
+      "subchapters": [
+        {
+          "sourceSubchapter": "x",
+          "title": "Music-making, gene expression and stress"
+        },
+        {
+          "sourceSubchapter": "xi",
+          "title": "Music, NMDA receptors and learning"
+        },
+        {
+          "sourceSubchapter": "xii",
+          "title": "Music-making, IL6 expression and the stress response"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "sourceChapter": "V",
+      "title": "Electromagnetic stimulation and Schumann resonance",
+      "subchapters": [
+        {
+          "sourceSubchapter": "xiv",
+          "title": "Transcranial magnetic stimulation: stimulation frequencies and depression"
+        },
+        {
+          "sourceSubchapter": "xviii",
+          "title": "Schumann resonance, geomagnetic activity and physiological responses"
+        },
+        {
+          "sourceSubchapter": "xix",
+          "title": "Schumann resonances in the Earth–ionosphere cavity"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "sourceChapter": "VI",
+      "title": "Brain entrainment, music and mental health in at-risk communities",
+      "subchapters": [
+        {
+          "sourceSubchapter": "xx",
+          "title": "Brain entrainment, pain, anxiety and heart-rate variability in at-risk communities"
+        },
+        {
+          "sourceSubchapter": "xxi",
+          "title": "Music and mental health among people experiencing homelessness and refugees"
+        },
+        {
+          "sourceSubchapter": "xxii",
+          "title": "Music and mental health among Indigenous youth"
+        },
+        {
+          "sourceSubchapter": "xxiii",
+          "title": "Music and mental health among military personnel and veterans"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "sourceChapter": "VIII",
+      "title": "OXTR, human connection and psychological resources",
+      "subchapters": [
+        {
+          "sourceSubchapter": "xxix",
+          "title": "Oxytocin pathways, dopamine and serotonin"
+        },
+        {
+          "sourceSubchapter": "xxx",
+          "title": "OXTR variation and psychological resources"
+        },
+        {
+          "sourceSubchapter": "xxxi",
+          "title": "Oxytocin, empathy and intergroup relationships"
+        }
+      ]
+    }
+  ],
+  "excludeFromSound": [
+    "II / iv–vi: Fibonacci, cosmological, black-hole and DNA-tetrahedron chapter; explicitly excluded by Ben.",
+    "IV / xiii: music and endogenous DMT hypothesis; exclusion recommended in the heading review and accepted with that feedback.",
+    "V / xv–xvii: laser/LED, general electromagnetic-field and ultrasound sections; excluded with the instruction to retain TMS. The later instruction explicitly restores 7.83 Hz and Schumann research.",
+    "X / xxxv: EMDR chapter and cross-link; separate collection review.",
+    "XI / xxxvi: mantra, mindfulness and yoga chapter and cross-link; separate collection review."
+  ],
+  "tmsFocus": "Retain stimulation frequencies and investigate their possible relevance to auditory brain entrainment. Matching frequency values alone does not demonstrate equivalent mechanisms or effects. Treat transfer as a research question.",
+  "specificCorrections": [
+    "Use approximately 0.1 Hz and Mayer waves in the baroreflex section.",
+    "Distinguish human hormone measurements, animal gene-expression findings and cell-culture outcomes in the 528 Hz section.",
+    "Identify the animal evidence and receptor subunits in the NMDA section.",
+    "Preserve the selected IL6 passage reporting changes in both resting controls and the music-making group.",
+    "Retain Oxytocin receptor gene (OXTR) is related to psychological resources; remove the retired evolutionary and spiritual framing.",
+    "Identify SLC6A4 as a serotonin transporter.",
+    "Describe oxytocin and intergroup relationships with their study context, without a universal claim about ending conflict."
+  ],
+  "preservation": {
+    "originalSourceFiles": "Unchanged",
+    "selectedQuotations": "Preserve verbatim with attribution to article authors",
+    "curation": "Ben Korbel",
+    "trustScores": "Preserve original medical-cross scores and their original scope; discuss any additions or changes with Ben"
+  },
+  "reviewOrder": [
+    "Sound",
+    "EMDR / Vision",
+    "Mantra / Language"
+  ],
+  "scopeCorrection": {
+    "date": "2026-10-22",
+    "restoreTopics": [
+      "iii",
+      "xviii",
+      "xix"
+    ],
+    "restoreIndividualPaper": "pmid-17994268 in retained OXTR topic xxx",
+    "rule": "All entries belonging to retained topics remain available. A heading change does not remove its papers. No new trust scores."
+  },
+  "awaitingPlacement": [
+    {
+      "subchapter": "xxiv",
+      "heading": "Virtual reality interventions for PTSD in veterans",
+      "status": "Recorded; destination undecided; not displayed within Sound."
+    },
+    {
+      "subchapter": "xxv",
+      "heading": "Near-infrared treatment research for traumatic brain injury",
+      "status": "Recorded; destination undecided; not displayed within Sound."
+    },
+    {
+      "subchapter": "xxvi",
+      "heading": "Art therapy with military personnel and veterans",
+      "status": "Recorded; destination undecided; not displayed within Sound."
+    },
+    {
+      "subchapter": "xxvii",
+      "heading": "Art therapy with at-risk youth",
+      "status": "Recorded; destination undecided; not displayed within Sound."
+    },
+    {
+      "subchapter": "xxviii",
+      "heading": "Quantum computing methods for bioinformatics and gene-expression modelling",
+      "status": "Recorded; destination undecided; not displayed within Sound."
+    },
+    {
+      "subchapter": "xxxii",
+      "heading": "Corporate social responsibility and consumer trust",
+      "status": "Recorded; destination undecided; not displayed within Sound."
+    },
+    {
+      "subchapter": "xxxiii",
+      "heading": "Wellbeing, trust and economic participation",
+      "status": "Recorded; destination undecided; not displayed within Sound."
+    },
+    {
+      "subchapter": "xxxiv",
+      "heading": "Gamification and engagement with digital health interventions",
+      "status": "Recorded; destination undecided; not displayed within Sound."
+    }
+  ]
+}

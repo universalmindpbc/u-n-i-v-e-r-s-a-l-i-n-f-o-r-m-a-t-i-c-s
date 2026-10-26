@@ -1,0 +1,574 @@
+{
+  "recordedOn": "2026-10-22",
+  "instruction": "Keep these subjects recorded outside the Sound narrative until their destinations are agreed. Vision is a potential destination for virtual reality, near-infrared treatment and art therapy; no destination has been assigned.",
+  "originalData": "Informatics/library-data/library.json; original quotations, citations and trust scores unchanged.",
+  "topics": [
+    {
+      "subchapter": "xxiv",
+      "heading": "Virtual reality interventions for PTSD in veterans",
+      "status": "Awaiting placement",
+      "entries": [
+        {
+          "recordId": "pmid-26491332",
+          "title": "Virtual reality exposure-based therapy for the treatment of post-traumatic stress disorder: a review of its efficacy, the adequacy of the treatment protocol, and its acceptability",
+          "pages": [
+            109
+          ]
+        },
+        {
+          "recordId": "src-507ea85612c7",
+          "title": "Baseline psychophysiological and cortisol reactivity as a predictor of PTSD treatment outcome in virtual reality exposure therapy",
+          "pages": [
+            109
+          ]
+        }
+      ]
+    },
+    {
+      "subchapter": "xxv",
+      "heading": "Near-infrared treatment research for traumatic brain injury",
+      "status": "Awaiting placement",
+      "entries": [
+        {
+          "recordId": "pmid-26347062",
+          "title": "Treatments for traumatic brain injury with emphasis on transcranial near-infrared laser phototherapy",
+          "pages": [
+            110
+          ]
+        }
+      ]
+    },
+    {
+      "subchapter": "xxvi",
+      "heading": "Art therapy with military personnel and veterans",
+      "status": "Awaiting placement",
+      "entries": [
+        {
+          "recordId": "doi-2f565d066e4e774b",
+          "title": "Art therapy for PTSD and TBI: A senior active duty military service member’s therapeutic journey",
+          "pages": [
+            111
+          ]
+        }
+      ]
+    },
+    {
+      "subchapter": "xxvii",
+      "heading": "Art therapy with at-risk youth",
+      "status": "Awaiting placement",
+      "entries": [
+        {
+          "recordId": "doi-befa7b53c55cb589",
+          "title": "Ethical implications of cross-cultural international art therapy",
+          "pages": [
+            112
+          ]
+        },
+        {
+          "recordId": "doi-b2b4a7cf6604ec4e",
+          "title": "The art of wellness: A 14-week art therapy program for at-risk youth",
+          "pages": [
+            112
+          ]
+        }
+      ]
+    },
+    {
+      "subchapter": "xxviii",
+      "heading": "Quantum computing methods for bioinformatics and gene-expression modelling",
+      "status": "Awaiting placement",
+      "entries": [
+        {
+          "recordId": "src-ba204cd2f0e1",
+          "title": "Quantum Computing-Applications in Bioinformatics",
+          "pages": [
+            113
+          ]
+        },
+        {
+          "recordId": "src-32ff0961cd36",
+          "title": "Quantum annealing versus classical machine learning applied to a simplified computational biology problem",
+          "pages": [
+            115
+          ]
+        },
+        {
+          "recordId": "pmid-22891157",
+          "title": "Finding low-energy conformations of lattice protein models by quantum annealing",
+          "pages": [
+            114
+          ]
+        },
+        {
+          "recordId": "src-1fa27d13ad19",
+          "title": "Cloud Quantum Computing of an Atomic Nucleus",
+          "pages": [
+            114
+          ]
+        },
+        {
+          "recordId": "src-0096ffba98ce",
+          "title": "Quantum Computing at the Frontiers of Biological Sciences",
+          "pages": [
+            115
+          ]
+        },
+        {
+          "recordId": "src-c04464bc7c82",
+          "title": "Quantum Computing, Grover’s Search Algorithm and its Application in Bioinformatics",
+          "pages": [
+            115
+          ]
+        },
+        {
+          "recordId": "src-8b2ea769f9f9",
+          "title": "Scalable Quantum Simulation of Molecular Energies",
+          "pages": [
+            114
+          ]
+        },
+        {
+          "recordId": "src-9329423f6826",
+          "title": "The prospects of quantum computing in computational molecular biology",
+          "pages": [
+            113
+          ]
+        },
+        {
+          "recordId": "src-c7690e396a71",
+          "title": "YinYang Bipolar Relativity: A Unifying Theory of Nature, Agents and Causality with Applications in Quantum Computing, Cognitive Informatics and Life Sciences",
+          "pages": [
+            115
+          ]
+        },
+        {
+          "recordId": "src-199d07efad3e",
+          "title": "Α Quantum Pattern Recognition Method for Improving Pairwise Sequence Alignment",
+          "pages": [
+            114
+          ]
+        }
+      ]
+    },
+    {
+      "subchapter": "xxxii",
+      "heading": "Corporate social responsibility and consumer trust",
+      "status": "Awaiting placement",
+      "entries": [
+        {
+          "recordId": "doi-16fea1e714a7ade6",
+          "title": "Perceived CSR and Corporate Reputation: The Mediating Role of Employee Trust",
+          "pages": [
+            134
+          ]
+        },
+        {
+          "recordId": "doi-16f513abd981c573",
+          "title": "Corporate Social Performance and Stock Returns: UK Evidence from Disaggregate Measures",
+          "pages": [
+            135
+          ]
+        },
+        {
+          "recordId": "doi-06a35c77903dbedd",
+          "title": "Do Stock Market Investors Reward Companies with Reputations for Social Performance?",
+          "pages": [
+            134
+          ]
+        },
+        {
+          "recordId": "src-79f3e30fa012",
+          "title": "2015 Cone Communications/Ebiquity Global CSR Study",
+          "pages": [
+            130
+          ]
+        },
+        {
+          "recordId": "src-fd2ebca6b27f",
+          "title": "3. “Oxytocin plays an essential role in prosocial behaviours of empathy, trust and kindness”",
+          "pages": [
+            137
+          ]
+        },
+        {
+          "recordId": "src-0b5043af2ada",
+          "title": "Beyond corporate social responsibility: Integrated external engagement",
+          "pages": [
+            136
+          ]
+        },
+        {
+          "recordId": "src-41119f037bd1",
+          "title": "CSR and Market Valuation: International Evidence",
+          "pages": [
+            134
+          ]
+        },
+        {
+          "recordId": "src-2c4944155b58",
+          "title": "Converting Social Problems into Business Opportunities: The New Meaning of Corporate Social Responsibility",
+          "pages": [
+            135
+          ]
+        },
+        {
+          "recordId": "src-3a89367924ad",
+          "title": "Corporate Social Responsibility and Stock Prices: The Environmental Awareness of Shareholders",
+          "pages": [
+            134
+          ]
+        },
+        {
+          "recordId": "src-f9996534c3de",
+          "title": "Corporate Social Responsibility, Customer Satisfaction, and Market Value",
+          "pages": [
+            136
+          ]
+        },
+        {
+          "recordId": "src-9903c78b8bca",
+          "title": "Do social responsibility disclosures show improvements on stock price?",
+          "pages": [
+            135
+          ]
+        },
+        {
+          "recordId": "src-0331f0f8df05",
+          "title": "Doing Well by Doing Good: Increasingly, Consumers care about corporate social responsibility, but does it convert to consumption?",
+          "pages": [
+            131
+          ]
+        },
+        {
+          "recordId": "src-8fa7c87846bb",
+          "title": "JB Hi-Fi Saving to the Tune of $8M With Workplace Giving Program",
+          "pages": [
+            132
+          ]
+        },
+        {
+          "recordId": "src-1bdc22144734",
+          "title": "Leading the social enterprise: Reinvent with a human focus 2019",
+          "pages": [
+            133
+          ]
+        },
+        {
+          "recordId": "src-65918bab6057",
+          "title": "Making the most of corporate social responsibility",
+          "pages": [
+            136
+          ]
+        },
+        {
+          "recordId": "src-8fc39ea39386",
+          "title": "Meaningful Brands",
+          "pages": [
+            131
+          ]
+        },
+        {
+          "recordId": "src-3eabe9d978d0",
+          "title": "Oxytocin increases trust in humans",
+          "pages": [
+            137
+          ]
+        },
+        {
+          "recordId": "src-f5f4305c559e",
+          "title": "Project ROI Report: Defining the Competitive and Financial Advantages of Corporate Responsibility and Sustainability",
+          "pages": [
+            134
+          ]
+        },
+        {
+          "recordId": "src-d899a7527d6e",
+          "title": "The Effect of CSR on Stock Performance: New Evidence for the USA and Europe",
+          "pages": [
+            135
+          ]
+        },
+        {
+          "recordId": "src-eb73dd2f6645",
+          "title": "The Link Between Competitive Advantage and Corporate Social Responsibility",
+          "pages": [
+            135
+          ]
+        },
+        {
+          "recordId": "src-c0ab648e5e97",
+          "title": "The Right Culture: Not Just About Employee Satisfaction",
+          "pages": [
+            132
+          ]
+        },
+        {
+          "recordId": "src-34b978285d9c",
+          "title": "The expansion of non-financial reporting: an exploratory study",
+          "pages": [
+            135
+          ]
+        },
+        {
+          "recordId": "src-973ffd9f69b7",
+          "title": "The influence of the implementation of CSR on business strategy: An empirical approach based on Cameroonian enterprises",
+          "pages": [
+            135
+          ]
+        },
+        {
+          "recordId": "src-62d753228d9f",
+          "title": "The road ahead: The KPMG Survey of Corporate Responsibility Reporting 2017",
+          "pages": [
+            133
+          ]
+        },
+        {
+          "recordId": "src-f8cfd5c578c0",
+          "title": "Valuing social responsibility programs",
+          "pages": [
+            136
+          ]
+        }
+      ]
+    },
+    {
+      "subchapter": "xxxiii",
+      "heading": "Wellbeing, trust and economic participation",
+      "status": "Awaiting placement",
+      "entries": [
+        {
+          "recordId": "doi-ed68cfcb4dcfc73a",
+          "title": "Development as Happiness: The Subjective Perception of Happiness and UNDP’s Analysis of Poverty, Wealth and Development",
+          "pages": [
+            139
+          ]
+        },
+        {
+          "recordId": "pmid-18356530",
+          "title": "Spending Money on Others Promotes Happiness",
+          "pages": [
+            138
+          ]
+        },
+        {
+          "recordId": "doi-b76baa5fd9acdf58",
+          "title": "Income and Happiness: Towards a Unified Theory",
+          "pages": [
+            138
+          ]
+        },
+        {
+          "recordId": "doi-1a368149449ab40a",
+          "title": "Happiness, Economy and Institutions",
+          "pages": [
+            138
+          ]
+        },
+        {
+          "recordId": "src-d57f1cb7f9f8",
+          "title": "1. Facebook’s daily sentiment and international stock markets",
+          "pages": [
+            141
+          ]
+        },
+        {
+          "recordId": "src-48c16fe9201b",
+          "title": "Global Happiness and Well-Being Policy Report",
+          "pages": [
+            140
+          ]
+        },
+        {
+          "recordId": "src-c395c5051a97",
+          "title": "Happiness - A Revolution in Economics",
+          "pages": [
+            139
+          ]
+        },
+        {
+          "recordId": "src-29d7f1722875",
+          "title": "Happiness and Economic Performance",
+          "pages": [
+            139
+          ]
+        },
+        {
+          "recordId": "src-d14e94a49dd0",
+          "title": "Happiness and Growth the World Over: Time Series Evidence on the Happiness-Income Paradox",
+          "pages": [
+            139
+          ]
+        },
+        {
+          "recordId": "src-56579cb2ab4b",
+          "title": "Happiness and the Human Development Index: Australia Is Not a Paradox",
+          "pages": [
+            139
+          ]
+        },
+        {
+          "recordId": "src-61127c5b6ae5",
+          "title": "Happiness and the Human Development Index: The Paradox of Australia",
+          "pages": [
+            139
+          ]
+        },
+        {
+          "recordId": "src-d5a8539d2615",
+          "title": "Happy Planet Index - Sustainable Wellbeing",
+          "pages": [
+            140
+          ]
+        },
+        {
+          "recordId": "src-22567131f310",
+          "title": "OECD Better Life Index",
+          "pages": [
+            140
+          ]
+        },
+        {
+          "recordId": "src-81feac0bd644",
+          "title": "The Macroeconomics of Happiness",
+          "pages": [
+            138
+          ]
+        },
+        {
+          "recordId": "src-afa869d2686e",
+          "title": "United Nations Development Programme Human Development Index (HDI)",
+          "pages": [
+            140
+          ]
+        },
+        {
+          "recordId": "src-cd60e63a37c8",
+          "title": "Wealth and Happiness Revisited – Growing National Income Does Go with Greater Happiness Social Indicator Research",
+          "pages": [
+            139
+          ]
+        },
+        {
+          "recordId": "src-e9e860c4c356",
+          "title": "What Can Economists Learn from Happiness Research?",
+          "pages": [
+            138
+          ]
+        },
+        {
+          "recordId": "src-94a4e0f0ceac",
+          "title": "World Happiness Report",
+          "pages": [
+            140
+          ]
+        },
+        {
+          "recordId": "src-3f86d9ca1d91",
+          "title": "World happiness report [2012]",
+          "pages": [
+            138
+          ]
+        },
+        {
+          "recordId": "src-af9fd7e05850",
+          "title": "“Facebook Happiness Index predicts daily movement in US Stock Exchange”",
+          "pages": [
+            141
+          ]
+        },
+        {
+          "recordId": "src-306bb292006b",
+          "title": "“the association between happiness and stockholding is driven by trust”",
+          "pages": [
+            141
+          ]
+        }
+      ]
+    },
+    {
+      "subchapter": "xxxiv",
+      "heading": "Gamification and engagement with digital health interventions",
+      "status": "Awaiting placement",
+      "entries": [
+        {
+          "recordId": "pmid-30049225",
+          "title": "Gamification Use and Design in Popular Health and Fitness Mobile Applications",
+          "pages": [
+            142
+          ]
+        },
+        {
+          "recordId": "pmid-28281353",
+          "title": "A Randomized Controlled Trial of Opt-In Versus Opt-Out Enrollment Into a Diabetes Behavioral Intervention",
+          "pages": [
+            143
+          ]
+        },
+        {
+          "recordId": "pmid-29899015",
+          "title": "Loss‐Framed Financial Incentives and Personalized Goal‐Setting to Increase Physical Activity Among Ischemic Heart Disease Patients Using Wearable Devices: The ACTIVE REWARD Randomized Trial",
+          "pages": [
+            143
+          ]
+        },
+        {
+          "recordId": "pmid-30003481",
+          "title": "Social Incentives and Gamification to Promote Weight Loss: The LOSE IT Randomized, Controlled Trial",
+          "pages": [
+            144
+          ]
+        },
+        {
+          "recordId": "pmid-27603755",
+          "title": "Participation Rates With Opt-out Enrollment in a Remote Monitoring Intervention for Patients With Myocardial Infarction",
+          "pages": [
+            143
+          ]
+        },
+        {
+          "recordId": "src-c6b891dd9958",
+          "title": "Commitment Devices - Using Initiatives to Change Behavior",
+          "pages": [
+            144
+          ]
+        },
+        {
+          "recordId": "src-62baf77006d6",
+          "title": "Effect of a Game-Based Intervention Designed to Enhance Social Incentives to Increase Physical Activity Among Families. The BE FIT Randomized Clinical Trial",
+          "pages": [
+            143
+          ]
+        },
+        {
+          "recordId": "src-7447bc610298",
+          "title": "Framing Financial Incentives to Increase Physical Activity Among Overweight and Obese Adults: A Randomized, Controlled Trial",
+          "pages": [
+            144
+          ]
+        },
+        {
+          "recordId": "src-3108ecac9819",
+          "title": "Improving Health Care by Gamifying It",
+          "pages": [
+            142
+          ]
+        },
+        {
+          "recordId": "src-beb7877d1a26",
+          "title": "The Fresh Start Effect: Temporal Landmarks Motivate Aspirational Behavior",
+          "pages": [
+            144
+          ]
+        },
+        {
+          "recordId": "src-58e202d443bd",
+          "title": "Using Wearable Devices and Smartphones to Track Physical Activity: Initial Activation, Sustained Use, and Step Counts Across Sociodemographic Characteristics in a National Sample",
+          "pages": [
+            142
+          ]
+        }
+      ]
+    }
+  ]
+}

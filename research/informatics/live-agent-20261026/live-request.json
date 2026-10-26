@@ -1,0 +1,74 @@
+{
+  "version": "quantum-question-v3",
+  "id": "1c103512-56e3-4d30-a9d4-e3aa7471dbf9",
+  "createdAt": "2026-10-26T02:08:28.777Z",
+  "question": "Do quantum responses generated from Fibonacci, Phi Ratio and M9 P24 Alpha, Beta, Gamma and Epsilon representations improve our ability to predict transcription factor occupancy around OXTR? Continue the available analysis using existing data and local simulations.",
+  "model": "gpt-6-astra",
+  "provider_response_id": "resp_0d20252c9c366644016adeb61a404887d0a4e405aeacdc621f",
+  "route": "oxtr_occupancy",
+  "allowance": {
+    "allowed": true,
+    "unit": "AI questions",
+    "periods": {
+      "day": {
+        "key": "2026-10-26T00:00:00.000Z",
+        "used": 1,
+        "limit": 30,
+        "resetAt": "2026-10-27T00:00:00.000Z",
+        "remaining": 29
+      },
+      "week": {
+        "key": "2026-10-26T00:00:00.000Z",
+        "used": 1,
+        "limit": 120,
+        "resetAt": "2026-11-02T00:00:00.000Z",
+        "remaining": 119
+      },
+      "month": {
+        "key": "2026-10-01T00:00:00.000Z",
+        "used": 4,
+        "limit": 300,
+        "resetAt": "2026-11-01T00:00:00.000Z",
+        "remaining": 296
+      }
+    },
+    "resetAt": null,
+    "hardware": {
+      "available": false,
+      "reason": "The approved Study 01 batch is recorded separately. New hardware submissions are not enabled through this question endpoint."
+    }
+  },
+  "study": {
+    "id": "95d33a87-ecbf-4700-a178-112daa83ac2a",
+    "version": "oxtr-follow-through-v1"
+  },
+  "status": "agent_running",
+  "message": "Astra will analyse the saved measurements and public DNA evidence. No new Aquila run will be submitted.",
+  "reports": {
+    "classical": null,
+    "simulation": null,
+    "quantum": null,
+    "comparison": null
+  },
+  "agent": {
+    "clientId": "7a54f4c3689dab6c74129aad83c22524",
+    "id": "95d33a87-ecbf-4700-a178-112daa83ac2a",
+    "version": "oxtr-follow-through-v1",
+    "requestKey": "e8e60c08-7e7f-42b7-ae91-460ab8d5218e",
+    "question": "Do quantum responses generated from Fibonacci, Phi Ratio and M9 P24 Alpha, Beta, Gamma and Epsilon representations improve our ability to predict transcription factor occupancy around OXTR? Continue the available analysis using existing data and local simulations.",
+    "status": "queued",
+    "stage": "question",
+    "message": "Astra will analyse the saved measurements and public DNA evidence. No new Aquila run will be submitted.",
+    "createdAt": "2026-10-26T02:08:28.876Z",
+    "updatedAt": "2026-10-26T02:08:28.876Z",
+    "events": [],
+    "policy": {
+      "newAquilaUSD": 0,
+      "newPaidGPUUSD": 0,
+      "maxModelCalls": 4,
+      "requireGeminiReview": true,
+      "maxModelTokens": 24000
+    },
+    "report": null
+  }
+}

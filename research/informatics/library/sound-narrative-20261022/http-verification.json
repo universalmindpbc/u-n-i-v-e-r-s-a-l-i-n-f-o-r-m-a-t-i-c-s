@@ -1,0 +1,67 @@
+[
+  {
+    "asset": "library.html",
+    "sha256": "3364ff2f4c41b4c602de20f14e2c8e91682772c5aa247f4310a7aef962ab9bd0",
+    "matches": true
+  },
+  {
+    "asset": "library.js",
+    "sha256": "4c69a9d4fcfa245901870be1f87cf4004edc32de978bd418e53bd171c983d99d",
+    "matches": true
+  },
+  {
+    "asset": "library.css",
+    "sha256": "13f406ffa582de6a8c21d21b98889d4f75d19a5f7e9afe0a9b74a6130dab12b1",
+    "matches": true
+  },
+  {
+    "asset": "library-navigation.js",
+    "sha256": "8901b3e870e48664b1a7db9e667c9ca387ed1afc2d5c41591893e0d7a4abf10e",
+    "matches": true
+  },
+  {
+    "asset": "library-data/sound-edition.json",
+    "sha256": "d05c47527143f69b4585486234a7e4d84cbd41b1d73f610f9edfee809d3ee47c",
+    "matches": true
+  },
+  {
+    "asset": "library-launcher.js",
+    "sha256": "41cdf3c74dab4943fe69ac058f8cb4a704e953902eb4c940f486456b89575537",
+    "matches": true
+  },
+  {
+    "asset": "index.html",
+    "sha256": "441d68daf581ed68f221a72596f2a2a27fd198d3d307309ce33b75840d388a68",
+    "matches": true
+  },
+  {
+    "asset": "app.js",
+    "sha256": "f52660df0f034c0b1e015e618888596f9bb128a41ccd6545f17bec629a5f0b42",
+    "matches": true
+  },
+  {
+    "asset": "molecular/index.html",
+    "sha256": "95607c8ab079f4eaa7ae526f162d3d3ec6341fe5f879df486f497c56c3e012fa",
+    "matches": true
+  },
+  {
+    "asset": "molecular/atlas.js",
+    "sha256": "1477225d7f4d999ff7f129e6b20359475d76ebb71e892e96b5757a1098b715bd",
+    "matches": true
+  },
+  {
+    "asset": "molecular/atlas.css",
+    "sha256": "8b4aad7beba6e0f80f8966efa695fce7bf6d5ea8e72f73db518774b9d4f263b5",
+    "matches": true
+  },
+  {
+    "asset": "molecular/vendor/engine.js",
+    "sha256": "5ccd0c534e1e9199d016143f6541958d5ce9ed6f99014aa49407364e539501f6",
+    "matches": true
+  },
+  {
+    "asset": "molecular/data/genes/index.json",
+    "sha256": "0a21b971ddbc818da981abafe662df47466ce0836740c0807657fa184dbb76b2",
+    "matches": true
+  }
+]

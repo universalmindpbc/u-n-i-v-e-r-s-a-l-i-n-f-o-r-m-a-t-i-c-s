@@ -1,0 +1,18 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {needsResearch} from '../../../Informatics/universal-one-routing.js';
+import {ResearchBudget,budget,budgetStatus,BudgetError} from '../../../cloudflare/informatics-research-budget.js';
+const catalogue=JSON.parse(fs.readFileSync(new URL('../../../cloudflare/informatics-research-topics.json',import.meta.url))).terms;
+const questions=['What is an electron?','Who discovered gravity?','How long were the sessions?','What did they measure?','And younger participants?','Do we have anything else?','Electronic music making and gene expression.','Are there any studies on the informatics website around music making and gene expression?', 'What is gene expression?', 'gene expression.', 'transcription.', '7.83 hertz.', 'transcription', 'EMDR', 'mantra', 'transcendental meditation', 'TM', 'mindfulness', 'yoga', 'molecular hydrogen', 'binaural beats', 'brain entrainment', 'transcranial magnetic stimulation', 'human resonances', 'Schumann resonance', '5 to 8 hertz', '5–8Hz', '7.83Hz', 'OXTR','IL-6','CD38','NR3C1','DOCK2','GRIN1','GRIN2B','7QVM','M9 nested sequences','What is molecular docking?'];
+for(const q of questions)assert(needsResearch(q,catalogue),q);
+for(const q of ['Thank you','Namaste','Stop speaking'])assert(!needsResearch(q,catalogue),q);
+assert(needsResearch('Which genes changed?',catalogue,[{role:'user',content:questions[0]}]));
+assert(!needsResearch('Thank you',catalogue,[{role:'user',content:questions[0]}]));
+const stores=new Map();
+const env={BUDGET:{idFromName:name=>name,get(name){if(!stores.has(name)){let value;const txn={get:async()=>structuredClone(value),put:async(k,v)=>{value=structuredClone(v);}};stores.set(name,new ResearchBudget({storage:{transaction:fn=>fn(txn)}}));}return {fetch:(url,init)=>stores.get(name).fetch(new Request(url,init))};}}};
+for(let i=0;i<120;i++)await budget({...env,QUOTA_SCOPE:'qa'},'research_question');
+await assert.rejects(()=>budget({...env,QUOTA_SCOPE:'qa'},'research_question'),e=>e instanceof BudgetError&&e.status===429&&!!e.resetAt);
+await budget(env,'research_question');
+let status=await budgetStatus(env);assert.equal(status.visitors.counts.research_question,1);assert.equal(status.verification.counts.research_question,120);
+await budget(env,'voice');status=await budgetStatus(env);assert.equal(status.visitors.counts.voice,1);assert.equal(status.visitors.counts.research_question,1);
+console.log(`${questions.length} research-first routes, social bypass, contextual follow-ups, bounded quotas and QA/visitor isolation passed.`);

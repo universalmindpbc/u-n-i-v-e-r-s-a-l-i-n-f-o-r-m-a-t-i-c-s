@@ -1,0 +1,69 @@
+{
+  "transport": "Browser same-origin HTTP fetch; generic command-line clients rejected by hosting firewall",
+  "processAudioMuted": true,
+  "results": [
+    {
+      "path": "library.html",
+      "requested": "library.html?verify=67facc10",
+      "status": 200,
+      "sha256": "1611e3315e67ed1393d05a6b072a3362d3e0dcbf34fd613f652712e371f8b37a",
+      "matched": true
+    },
+    {
+      "path": "library.js",
+      "requested": "https://staging.universalmind.tv/informatics/library.js?v=10",
+      "status": 200,
+      "sha256": "d2074dd84d1eca6b55825263de22cd268580fcde15ea4f98072e82b71cb15edb",
+      "matched": true
+    },
+    {
+      "path": "library-model.js",
+      "requested": "https://staging.universalmind.tv/informatics/library-model.js?v=5",
+      "status": 200,
+      "sha256": "f830b0b3ba02cc34c8df59fdada35d2537054d3957d054e0dccff2f4738900a9",
+      "matched": true
+    },
+    {
+      "path": "library.css",
+      "requested": "https://staging.universalmind.tv/informatics/library.css?v=13",
+      "status": 200,
+      "sha256": "105d04d56c5cb22a5cb244b0bf05e504ec379a733de0e16178c8619cda6d3a57",
+      "matched": true
+    },
+    {
+      "path": "library-data/library.json",
+      "requested": "https://staging.universalmind.tv/informatics/library-data/library.json?v=20261023d",
+      "status": 200,
+      "sha256": "4a87b4f7fe0e8451514249b30d87ddadcb2e61b2ccdc9be3e529886623872ac9",
+      "matched": true
+    },
+    {
+      "path": "library-data/language-edition.json",
+      "requested": "https://staging.universalmind.tv/informatics/library-data/language-edition.json?v=20261023d",
+      "status": 200,
+      "sha256": "0b86ca6658f780949554f335078e0c8804ee99941fe980fbb20a0668a636b0b1",
+      "matched": true
+    },
+    {
+      "path": "library-data/general-edition.json",
+      "requested": "https://staging.universalmind.tv/informatics/library-data/general-edition.json?v=20261023d",
+      "status": 200,
+      "sha256": "da20c4b1322c89d08dabb90bfdde2982b319924d88be31bea53605ca709a74ac",
+      "matched": true
+    },
+    {
+      "path": "library-data/mindfulness-expansion.json",
+      "requested": "https://staging.universalmind.tv/informatics/library-data/mindfulness-expansion.json?v=20261023d",
+      "status": 200,
+      "sha256": "0e933eafe764d5a21f92bde5c712e8871b70a7b490598600af5e7b69e2cb28f7",
+      "matched": true
+    },
+    {
+      "path": "library-data/publication-access.json",
+      "requested": "https://staging.universalmind.tv/informatics/library-data/publication-access.json?v=20261023d",
+      "status": 200,
+      "sha256": "d2cfdbbbee277f60bcbe6f4f1b83fe79fc226d3bffdbc4feb2987af0d375c6d3",
+      "matched": true
+    }
+  ]
+}

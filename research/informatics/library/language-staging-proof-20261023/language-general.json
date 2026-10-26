@@ -1,0 +1,61 @@
+{
+  "url": "https://staging.universalmind.tv/informatics/library.html?collection=language",
+  "candidate": false,
+  "checkedAt": "2026-10-23T01:55:06.797Z",
+  "processAudioMuted": true,
+  "checks": [
+    {
+      "width": 1470,
+      "languagePapers": 323,
+      "generalPapers": 292,
+      "allPapers": 726,
+      "originalQuotesRetained": 295,
+      "verbatimAssessment": true,
+      "jadadStates": true,
+      "crossListing": true,
+      "keyboard": true,
+      "themes": 3,
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "languagePapers": 323,
+      "generalPapers": 292,
+      "allPapers": 726,
+      "originalQuotesRetained": 295,
+      "verbatimAssessment": true,
+      "jadadStates": true,
+      "crossListing": true,
+      "keyboard": true,
+      "themes": 3,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "languagePapers": 323,
+      "generalPapers": 292,
+      "allPapers": 726,
+      "originalQuotesRetained": 295,
+      "verbatimAssessment": true,
+      "jadadStates": true,
+      "crossListing": true,
+      "keyboard": true,
+      "themes": 3,
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "languagePapers": 323,
+      "generalPapers": 292,
+      "allPapers": 726,
+      "originalQuotesRetained": 295,
+      "verbatimAssessment": true,
+      "jadadStates": true,
+      "crossListing": true,
+      "keyboard": true,
+      "themes": 3,
+      "overflow": false
+    }
+  ],
+  "errors": []
+}

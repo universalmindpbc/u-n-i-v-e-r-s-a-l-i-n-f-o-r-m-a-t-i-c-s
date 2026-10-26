@@ -1,0 +1,203 @@
+{
+  "approvedSourceCommit": "0c7e0665bb0dbd696850b8e21946d250cdfda660",
+  "previousProduction": "40a7f4d6cb4c108b9a7802f509d7137f465ddff5",
+  "verifiedAt": "2026-10-23T11:21:53.067858+00:00",
+  "manifestMatches": true,
+  "files": [
+    {
+      "file": "Informatics/app.js",
+      "sha256": "f9999e33bb659137932bbfad78a7b5396deda101e7489a85f94d35d52d8df3e0",
+      "bytes": 16847,
+      "staging": {
+        "status": 200,
+        "matches": true
+      },
+      "production": {
+        "status": 200,
+        "matches": true
+      }
+    },
+    {
+      "file": "Informatics/index.html",
+      "sha256": "e017e05abc8442b906c7a53d1d670a422bf51bd03519dfd558aa811f8f6983a0",
+      "bytes": 25873,
+      "staging": {
+        "status": 200,
+        "matches": true
+      },
+      "production": {
+        "status": 200,
+        "matches": true
+      }
+    },
+    {
+      "file": "Informatics/library-data/general-edition.json",
+      "sha256": "da20c4b1322c89d08dabb90bfdde2982b319924d88be31bea53605ca709a74ac",
+      "bytes": 331357,
+      "staging": {
+        "status": 200,
+        "matches": true
+      },
+      "production": {
+        "status": 200,
+        "matches": true
+      }
+    },
+    {
+      "file": "Informatics/library-data/language-edition.json",
+      "sha256": "0b86ca6658f780949554f335078e0c8804ee99941fe980fbb20a0668a636b0b1",
+      "bytes": 401424,
+      "staging": {
+        "status": 200,
+        "matches": true
+      },
+      "production": {
+        "status": 200,
+        "matches": true
+      }
+    },
+    {
+      "file": "Informatics/library-data/library.json",
+      "sha256": "4a87b4f7fe0e8451514249b30d87ddadcb2e61b2ccdc9be3e529886623872ac9",
+      "bytes": 2958726,
+      "staging": {
+        "status": 200,
+        "matches": true
+      },
+      "production": {
+        "status": 200,
+        "matches": true
+      }
+    },
+    {
+      "file": "Informatics/library-data/mindfulness-expansion.json",
+      "sha256": "0e933eafe764d5a21f92bde5c712e8871b70a7b490598600af5e7b69e2cb28f7",
+      "bytes": 58286,
+      "staging": {
+        "status": 200,
+        "matches": true
+      },
+      "production": {
+        "status": 200,
+        "matches": true
+      }
+    },
+    {
+      "file": "Informatics/library-data/publication-access.json",
+      "sha256": "d2cfdbbbee277f60bcbe6f4f1b83fe79fc226d3bffdbc4feb2987af0d375c6d3",
+      "bytes": 294638,
+      "staging": {
+        "status": 200,
+        "matches": true
+      },
+      "production": {
+        "status": 200,
+        "matches": true
+      }
+    },
+    {
+      "file": "Informatics/library-data/vision-edition.json",
+      "sha256": "c349c4c7d1b878966cece663841fa2706f8f458a5a037bf23cd0d1c676ae215f",
+      "bytes": 209896,
+      "staging": {
+        "status": 200,
+        "matches": true
+      },
+      "production": {
+        "status": 200,
+        "matches": true
+      }
+    },
+    {
+      "file": "Informatics/library-data/vision-expansion.json",
+      "sha256": "ddfe21e7913784100ee8d7013b6801bee8e2688aa9c9699368594220b6fa565b",
+      "bytes": 165900,
+      "staging": {
+        "status": 200,
+        "matches": true
+      },
+      "production": {
+        "status": 200,
+        "matches": true
+      }
+    },
+    {
+      "file": "Informatics/library-model.js",
+      "sha256": "f830b0b3ba02cc34c8df59fdada35d2537054d3957d054e0dccff2f4738900a9",
+      "bytes": 4945,
+      "staging": {
+        "status": 200,
+        "matches": true
+      },
+      "production": {
+        "status": 200,
+        "matches": true
+      }
+    },
+    {
+      "file": "Informatics/library.css",
+      "sha256": "cf75127a4a43690d06d664664032b526eb5f2e6e91f985f7c3972bd862b71d60",
+      "bytes": 24775,
+      "staging": {
+        "status": 200,
+        "matches": true
+      },
+      "production": {
+        "status": 200,
+        "matches": true
+      }
+    },
+    {
+      "file": "Informatics/library.html",
+      "sha256": "30520665a263d74bb89c7d6f4afc129255df2db815e21a27a45632392030c0ab",
+      "bytes": 33267,
+      "staging": {
+        "status": 200,
+        "matches": true
+      },
+      "production": {
+        "status": 200,
+        "matches": true
+      }
+    },
+    {
+      "file": "Informatics/library.js",
+      "sha256": "10ea398619d1799dfe1cbf8034be401894eefa95bad7c585ec01cc17badd9864",
+      "bytes": 31915,
+      "staging": {
+        "status": 200,
+        "matches": true
+      },
+      "production": {
+        "status": 200,
+        "matches": true
+      }
+    },
+    {
+      "file": "Informatics/style.css",
+      "sha256": "37fbbfe43a8897bda00bd061aa196cb7cf8f777983b9400f38de0e5d88912cf9",
+      "bytes": 12290,
+      "staging": {
+        "status": 200,
+        "matches": true
+      },
+      "production": {
+        "status": 200,
+        "matches": true
+      }
+    },
+    {
+      "file": "Informatics/library-data/sound-edition.json",
+      "sha256": "72b21f12aa82d6f2e0fd4033dc3b047322db8fd9945994e3d1225093966592bc",
+      "bytes": 380646,
+      "staging": {
+        "status": 200,
+        "matches": true
+      },
+      "production": {
+        "status": 200,
+        "matches": true
+      }
+    }
+  ]
+}

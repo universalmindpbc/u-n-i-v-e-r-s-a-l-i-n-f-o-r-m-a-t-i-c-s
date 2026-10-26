@@ -1,0 +1,282 @@
+{
+  "verifiedAt": "2026-10-23T20:33:20.078775+00:00",
+  "environment": "staging",
+  "proofUrl": "https://staging.universalmind.tv/informatics/?area=molecular",
+  "sourceCommit": "190955c1cc706f8474634ee8080796fb3bc1a354",
+  "integratedStagingCommit": "d2f4eafc",
+  "changedWebsiteFiles": [
+    "Informatics/molecular/index.html",
+    "Informatics/molecular/vendor/engine.js"
+  ],
+  "productionModified": false,
+  "geometry": {
+    "vertices": 60,
+    "edges": 90,
+    "pentagons": 12,
+    "hexagons": 20,
+    "unitCircumradius": true,
+    "equalEdgeLengths": true,
+    "threeEdgesPerVertex": true,
+    "twoFacesPerEdge": true,
+    "existingEightConstructionsUnchanged": true
+  },
+  "build": {
+    "molstar": "5.13.1",
+    "esbuild": "0.25.12",
+    "lockfileSHA256": "c3952520069e5912f8517aa9a0289953187c835e97e1c8b9ef3f46e618ccb1f6",
+    "note": "Existing pinned dependencies reused after lockfile equality and version checks; generated trailing whitespace normalised to the committed bundle convention."
+  },
+  "deployment": {
+    "method": "./deploy-panthur-staging.sh informatics",
+    "preflights": "passed",
+    "changedUploads": 2
+  },
+  "browser": {
+    "passed": true,
+    "live": true,
+    "processMuted": true,
+    "nativeFullscreen": false,
+    "results": [
+      {
+        "viewport": {
+          "width": 1470,
+          "height": 956
+        },
+        "level": "gene",
+        "shape": {
+          "name": "Truncated icosahedron",
+          "vertices": 60,
+          "edges": 90,
+          "segments": 90
+        },
+        "goldPixels": 11369,
+        "controls": true,
+        "download": true,
+        "collectionReturn": true,
+        "previousSolid": true,
+        "noOverflow": true
+      },
+      {
+        "viewport": {
+          "width": 1470,
+          "height": 956
+        },
+        "level": "protein",
+        "shape": {
+          "name": "Truncated icosahedron",
+          "vertices": 60,
+          "edges": 90,
+          "segments": 90
+        },
+        "goldPixels": 8447,
+        "controls": true,
+        "download": true,
+        "collectionReturn": true,
+        "previousSolid": true,
+        "noOverflow": true
+      },
+      {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "level": "gene",
+        "shape": {
+          "name": "Truncated icosahedron",
+          "vertices": 60,
+          "edges": 90,
+          "segments": 90
+        },
+        "goldPixels": 11369,
+        "controls": true,
+        "download": true,
+        "collectionReturn": true,
+        "previousSolid": true,
+        "noOverflow": true
+      },
+      {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "level": "protein",
+        "shape": {
+          "name": "Truncated icosahedron",
+          "vertices": 60,
+          "edges": 90,
+          "segments": 90
+        },
+        "goldPixels": 8447,
+        "controls": true,
+        "download": true,
+        "collectionReturn": true,
+        "previousSolid": true,
+        "noOverflow": true
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "level": "gene",
+        "shape": {
+          "name": "Truncated icosahedron",
+          "vertices": 60,
+          "edges": 90,
+          "segments": 90
+        },
+        "goldPixels": 4239,
+        "controls": true,
+        "download": true,
+        "collectionReturn": true,
+        "previousSolid": true,
+        "noOverflow": true
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "level": "protein",
+        "shape": {
+          "name": "Truncated icosahedron",
+          "vertices": 60,
+          "edges": 90,
+          "segments": 90
+        },
+        "goldPixels": 5235,
+        "controls": true,
+        "download": true,
+        "collectionReturn": true,
+        "previousSolid": true,
+        "noOverflow": true
+      },
+      {
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "level": "gene",
+        "shape": {
+          "name": "Truncated icosahedron",
+          "vertices": 60,
+          "edges": 90,
+          "segments": 90
+        },
+        "goldPixels": 2964,
+        "controls": true,
+        "download": true,
+        "collectionReturn": true,
+        "previousSolid": true,
+        "noOverflow": true
+      },
+      {
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "level": "protein",
+        "shape": {
+          "name": "Truncated icosahedron",
+          "vertices": 60,
+          "edges": 90,
+          "segments": 90
+        },
+        "goldPixels": 3467,
+        "controls": true,
+        "download": true,
+        "collectionReturn": true,
+        "previousSolid": true,
+        "noOverflow": true
+      },
+      {
+        "viewport": {
+          "width": 1470,
+          "height": 956
+        },
+        "embedded": true,
+        "entry": true,
+        "selectionPreserved": true
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "embedded": true,
+        "entry": true,
+        "selectionPreserved": true
+      }
+    ]
+  },
+  "http": {
+    "staging": {
+      "molecular/index.html": {
+        "bytes": 9714,
+        "sha256": "816a7b23a9dd0a056ed7d4e6ddb4ac94b42283e02f047b96791af4ff7b62b0fb"
+      },
+      "molecular/vendor/engine.js": {
+        "bytes": 3149110,
+        "sha256": "524daa4c1429997df0dbbe6a072b03f3c787b18ad63d52aae41314eb25b2f7dd"
+      },
+      "index.html": {
+        "bytes": 26760,
+        "sha256": "188d0fa3ff79c1d62e2a8711c53e20f17626fbc0439d92a5bc72a5852bb1e427"
+      },
+      "library.html": {
+        "bytes": 34208,
+        "sha256": "60cf860479a5ef3d9e4fc4ce3ea76df378fb7bf4f2527121ad41b9027f9f4e15"
+      },
+      "universal-one.js": {
+        "bytes": 19170,
+        "sha256": "f787c1760520d18236c5ad4b95e3224de2c710916acf5d75408f7ea600531d1a"
+      },
+      "universal-one-live.js": {
+        "bytes": 10102,
+        "sha256": "b88c650efc36e875f172748e9836852dba8391607ce700067adbaa5390c894bd"
+      },
+      "universal-one.css": {
+        "bytes": 8141,
+        "sha256": "ccb55ac36dec3dc000b8658eec7f1ce0635e895beaf9aa83f1ecf019fd8e1728"
+      }
+    },
+    "production": {
+      "molecular/index.html": {
+        "bytes": 9646,
+        "sha256": "bfdf30d655f38481fb5ebc81d3d3a3ff35023b1e7b53bbc1ab7924b04a3cc782"
+      },
+      "molecular/vendor/engine.js": {
+        "bytes": 3148690,
+        "sha256": "c9b21fb5c2eb0c0fae64bd865699ec16e44df7b6d754bfaf3240190c3f3673f8"
+      }
+    }
+  },
+  "screenshots": [
+    {
+      "file": "gene-1470.png",
+      "sha256": "d2263586390d1b5c85515bebcf06f7251d4f60dd64ee45be2fe494b9de20a33d"
+    },
+    {
+      "file": "protein-1470.png",
+      "sha256": "48143149b7280648fdd291428a77c3e7331e8c9352efc23874f6b9be41832088"
+    },
+    {
+      "file": "gene-390.png",
+      "sha256": "2a60c638d33dadc5904ad9e8421edbb4694f434ec18f1533603226647758fe84"
+    },
+    {
+      "file": "protein-320.png",
+      "sha256": "7aafbd79c86727dc7a9a2b9b40dc7b87bae5f800c5ecd87910ee9aaaba8f595d"
+    },
+    {
+      "file": "embedded-1470.png",
+      "sha256": "2465a3d06477d13a3e2043b5b7474270bfca4b12e4df3052dddf2e6591e67221"
+    },
+    {
+      "file": "embedded-390.png",
+      "sha256": "678d5f23f3f8cab356e2a820d4eec7ebb031dc316cf6303c475a5141a93c08e7"
+    }
+  ],
+  "visualReview": "Gold wireframe, label, control layout and construction note inspected on desktop and mobile; scale and camera behaviour retained from the existing geometry layers.",
+  "coordination": "Universal One release integrated first; docking/quantum chat waits for this completed staging record before shared file integration."
+}

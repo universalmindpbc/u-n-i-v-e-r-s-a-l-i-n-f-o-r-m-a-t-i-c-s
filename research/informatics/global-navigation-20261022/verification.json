@@ -1,0 +1,122 @@
+{
+  "passed": true,
+  "live": true,
+  "processMuted": true,
+  "nativeFullscreen": false,
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "sharedMenuLabels": [
+        "About",
+        "Geometry Atlas",
+        "Transcription Atlas",
+        "Molecular Atlas",
+        "Sound Atlas",
+        "Vision Atlas",
+        "Language Atlas",
+        "Universal Research",
+        "Partners"
+      ],
+      "keyboardAndFocus": true,
+      "allMenusFit": true,
+      "mainAndEmbeddedMolecularTranscription": true,
+      "standaloneMolecularTranscription": true,
+      "embeddedAndStandaloneResearchTranscription": true,
+      "originalCatalogueReused": true,
+      "mediaSourceAndFullscreenPreserved": true,
+      "noPageErrors": true
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "sharedMenuLabels": [
+        "About",
+        "Geometry Atlas",
+        "Transcription Atlas",
+        "Molecular Atlas",
+        "Sound Atlas",
+        "Vision Atlas",
+        "Language Atlas",
+        "Universal Research",
+        "Partners"
+      ],
+      "keyboardAndFocus": true,
+      "allMenusFit": true,
+      "mainAndEmbeddedMolecularTranscription": true,
+      "standaloneMolecularTranscription": true,
+      "embeddedAndStandaloneResearchTranscription": true,
+      "originalCatalogueReused": true,
+      "mediaSourceAndFullscreenPreserved": true,
+      "noPageErrors": true
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "sharedMenuLabels": [
+        "About",
+        "Geometry Atlas",
+        "Transcription Atlas",
+        "Molecular Atlas",
+        "Sound Atlas",
+        "Vision Atlas",
+        "Language Atlas",
+        "Universal Research",
+        "Partners"
+      ],
+      "keyboardAndFocus": true,
+      "allMenusFit": true,
+      "mainAndEmbeddedMolecularTranscription": true,
+      "standaloneMolecularTranscription": true,
+      "embeddedAndStandaloneResearchTranscription": true,
+      "originalCatalogueReused": true,
+      "mediaSourceAndFullscreenPreserved": true,
+      "noPageErrors": true
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "sharedMenuLabels": [
+        "About",
+        "Geometry Atlas",
+        "Transcription Atlas",
+        "Molecular Atlas",
+        "Sound Atlas",
+        "Vision Atlas",
+        "Language Atlas",
+        "Universal Research",
+        "Partners"
+      ],
+      "keyboardAndFocus": true,
+      "allMenusFit": true,
+      "mainAndEmbeddedMolecularTranscription": true,
+      "standaloneMolecularTranscription": true,
+      "embeddedAndStandaloneResearchTranscription": true,
+      "originalCatalogueReused": true,
+      "mediaSourceAndFullscreenPreserved": true,
+      "noPageErrors": true
+    }
+  ],
+  "sourceCommit": "8f5b06b1aac84838695326bcd688cb3e2f8bbbaa",
+  "deployment": {
+    "method": "./deploy-panthur-staging.sh informatics",
+    "changedUploads": 8,
+    "preflightsPassed": true
+  },
+  "visualReview": "Desktop and mobile menus inspected; Molecular menu appears above the view controls.",
+  "productionModified": false,
+  "mainBefore": "636bfa9ae41efe036b2cccac0827c724edfde92b",
+  "coordination": {
+    "threadId": "01a15d06-4ecd-75c1-93db-a2a274fb14ea",
+    "messageSent": true,
+    "sharedDefinition": "Informatics/global-navigation.js"
+  }
+}

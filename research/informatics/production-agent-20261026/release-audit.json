@@ -1,0 +1,91 @@
+{
+  "schema": "informatics-production-release-v1",
+  "date": "2026-10-26",
+  "authorization": "User explicitly approved all staging for production and confirmed AWS administrator CloudShell sign-in.",
+  "previous_production_commit": "97962ec3a0c86e55153ba43eb1828cc1d4e11e69",
+  "approved_site_commit": "e451c3b84",
+  "cloud_source_commit": "645cddad2",
+  "production_url": "https://universalmind.tv/informatics/?area=quantum&entry=research",
+  "staging_url": "https://staging.universalmind.tv/informatics/?area=quantum&entry=research",
+  "deployment": {
+    "method": "Existing Panthur incremental FTP deployment and existing Cloudflare Worker; existing AWS runtime updated in place",
+    "changed_assets_uploaded": 1936,
+    "tracked_informatics_assets": 13263,
+    "root_robots_sitemap_llms_and_redirects": "deployed"
+  },
+  "research": {
+    "version": "research-20261026-daytab-v1",
+    "new_records": 70,
+    "publications": 891,
+    "passages": 4268,
+    "full_text_articles": 149,
+    "atlas_records": 1001,
+    "fulltext_rows_changed": false
+  },
+  "verification": {
+    "production_assets": 1928,
+    "export_parts": 5,
+    "export_bytes": 219849744,
+    "fresh_workflow": true,
+    "mobile_widths": [
+      320,
+      390
+    ],
+    "result_dialogs": true,
+    "universal_one_live_response": true,
+    "mcp_tools": 9,
+    "session_audience_isolation": true,
+    "private_session_credential_http_status": 403,
+    "browser_audio_muted": true
+  },
+  "limits": {
+    "new_paid_Aquila_jobs": false,
+    "new_paid_GPU_jobs": false,
+    "hosting_monthly_usd": 25,
+    "shared_monthly_worker_attempts": 120,
+    "gemini_shared_test_ceiling_usd": 1,
+    "astra_tokens_per_study": 24000,
+    "astra_calls_per_study": 4
+  },
+  "live_workflow_verification": "passed: browser question, Astra plan, Gemini design approval, existing data analysis, 16 local CPU CUDA-Q checks, Gemini revision request, Astra revision, Gemini final approval, visible insights, JSON and CSV download, new-question reset",
+  "task_id": "ac5191ae-7466-47ff-8532-7f36e2136bf1",
+  "live_report": {
+    "task_id": "ac5191ae-7466-47ff-8532-7f36e2136bf1",
+    "status": "complete",
+    "completed_at": "2026-10-26T04:31:11.358958+00:00",
+    "reviewed_at": "2026-10-26T04:31:38.407337+00:00",
+    "review_model": "gemini-4-argon",
+    "review_decisions": [
+      "approve",
+      "revise",
+      "approve"
+    ],
+    "export_csv_rows": 6708,
+    "all_json_fields_reconstructed_from_csv": true,
+    "new_Aquila_USD": 0,
+    "new_qBraid_credits": 0
+  },
+  "cloud_budget_and_storage": {
+    "task_id": "ac5191ae-7466-47ff-8532-7f36e2136bf1",
+    "astra_calls": 3,
+    "astra_accounted_tokens": 10282,
+    "astra_token_ceiling": 24000,
+    "gemini_reviews_all_tests": 10,
+    "gemini_accounted_micro_usd_all_tests": 904624,
+    "gemini_test_ceiling_micro_usd": 1000000,
+    "gemini_remaining_micro_usd": 95376,
+    "saved_results": [
+      {
+        "file": "result.json",
+        "encryption": "AES256"
+      },
+      {
+        "file": "result.csv",
+        "encryption": "AES256"
+      }
+    ],
+    "new_paid_Aquila_jobs": 0,
+    "new_paid_GPU_jobs": 0,
+    "recorded_at": "2026-10-26T04:35:14.650439+00:00"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "sourceCommit": "70d0c369481701435c9f12ecd632e1e4618c736d",
+  "verifiedAt": "2026-10-23T08:59:22.818762+00:00",
+  "url": "https://staging.universalmind.tv/informatics/library.html?collection=language",
+  "chapterURL": "https://staging.universalmind.tv/informatics/library.html?collection=language&chapter=4",
+  "deployment": "Existing deploy-panthur-staging.sh informatics; 9 changed uploads",
+  "processAudioMuted": true,
+  "sourceChecks": [
+    "JavaScript syntax",
+    "research counts and filters",
+    "isolated PDF import: 299 Language body entries including four formerly unlinked records",
+    "Sound edition and assessment byte-identical to prior approved staging",
+    "four Language hero findings and limitations verbatim"
+  ],
+  "layoutChecks": {
+    "widths": [
+      1470,
+      1024,
+      390,
+      320
+    ],
+    "themes": [
+      "video",
+      "black",
+      "white"
+    ],
+    "horizontalOverflow": false,
+    "visuallyInspected": [
+      "mindfulness-scores-320.png",
+      "mindfulness-scores-390.png",
+      "contents-1470.png"
+    ]
+  },
+  "languageTotals": {
+    "papersAndReferences": 327,
+    "journals": 175,
+    "recordedCitations": 13237,
+    "citationCoverage": 102
+  },
+  "mindfulnessTrustScores": {
+    "1": 8,
+    "2": 9,
+    "3": 2
+  },
+  "citationSnapshots": 19,
+  "registeredMaskingBasisForScore3": [
+    "pmid-41020112",
+    "pmid-36278141"
+  ],
+  "unresolvedOriginalCoverCitationDifference": 61,
+  "productionModified": false,
+  "productionGitRef": "40a7f4d6cb4c108b9a7802f509d7137f465ddff5",
+  "stagingManifestCommittedSeparately": true
+}

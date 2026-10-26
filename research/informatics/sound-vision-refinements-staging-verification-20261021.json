@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-21",
+  "source_commit": "ef651986e1aed907ddcfd8c73506015f7e689146",
+  "integrated_staging_baseline": "7e85d924b3c1b55d65c3cc48d5c116c2fe7523bf",
+  "proof_urls": [
+    "https://staging.universalmind.tv/informatics/?area=sound",
+    "https://staging.universalmind.tv/informatics/?area=vision"
+  ],
+  "coordination": "Integrated the other chat’s verified studies and Partners release before editing; communicated deployment scope and exact asset versions before its next comparison/filter changes.",
+  "changes": [
+    "Restored the animated 1–3–5–8 connector above the C–E–G–C piano keys.",
+    "Scale Gamma blend now includes both canonical opposing equilateral triangles and its perimeter hexagon.",
+    "Circle of fifths explains Pythagorean tuning through 3:2 fifths and 2:1 octaves, seven distinct notes and the repeated tonic as eighth; scholarly method and historical attribution links included.",
+    "Frequency diagrams are exactly 528 Hz (hexagon), 111 Hz (triangle) and 7.38 Hz (circle).",
+    "The 7.38 Hz digit mapping explicitly omits the decimal point and shows 7 + 3 + 8 = 18, with residue zero displayed as 9.",
+    "Separate A4 reference options remain 432, 440 and 444 Hz.",
+    "Vision heading is EMDR | Vision Sciences in standard page typography.",
+    "Vision animation traces both the central intersection hexagon and the outer hexagon through all six triangle vertices."
+  ],
+  "preserved": [
+    "Original About text and homepage animation",
+    "Exact Sound research questions and Vision Focus/Hypothesis",
+    "Partners, OXTR studies, record navigation, canonical geometry and research data"
+  ],
+  "alpha_discussion": {
+    "value_1_equilateral_positions": [
+      2,
+      10,
+      18
+    ],
+    "value_8_equilateral_positions": [
+      6,
+      14,
+      22
+    ],
+    "combined_star_rotation_from_gamma_degrees": 30,
+    "full_1358_path_added": false,
+    "reason": "Repeated Alpha values leave multiple selections for a 1–3–5–8 path; the user requested discussion before choosing one."
+  },
+  "checks": [
+    "JavaScript syntax and git diff whitespace checks passed.",
+    "All existing Panthur staging preflights passed; only 3 changed Informatics assets uploaded.",
+    "Live Alpha values, Gamma indices and both triangle vertex lists match geometry.json.",
+    "Piano connector, Gamma blend, scale selection and unchanged A4 reference options verified.",
+    "Exact 528/111/7.38 labels, digit sums and diagram shapes verified.",
+    "Vision heading and outer hexagon vertices on radius 240 verified; both hexagons present.",
+    "Original research wording, sans-serif typography, keyboard navigation and blend activation verified.",
+    "SVG exports retain Gamma triangles, Alpha overlay and selected scale.",
+    "Sound to detailed Beta record, Partners and Vision navigation passed.",
+    "No horizontal overflow or browser page errors at four widths.",
+    "Separate Chromium process asserted --mute-audio before navigation; native fullscreen mocked; automated media paused and browsers closed."
+  ],
+  "candidate": {
+    "candidate": true,
+    "processMuted": true,
+    "report": [
+      {
+        "viewport": {
+          "width": 1470,
+          "height": 956
+        },
+        "passed": true
+      },
+      {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "passed": true
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "passed": true
+      },
+      {
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "passed": true
+      }
+    ]
+  },
+  "live": {
+    "candidate": false,
+    "processMuted": true,
+    "report": [
+      {
+        "viewport": {
+          "width": 1470,
+          "height": 956
+        },
+        "passed": true
+      },
+      {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "passed": true
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "passed": true
+      },
+      {
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "passed": true
+      }
+    ]
+  },
+  "http": [
+    {
+      "name": "index.html",
+      "url": "https://staging.universalmind.tv/informatics/",
+      "status": 200,
+      "identical": true,
+      "normalisedIdentical": true,
+      "sha256": "be7c3d04bca9cfb8ae1f766d26cb1c6627e3a954b172b8fac8a881f2b66ba868"
+    },
+    {
+      "name": "app.js",
+      "url": "https://staging.universalmind.tv/Informatics/app.js?v=21",
+      "status": 200,
+      "identical": true,
+      "normalisedIdentical": true,
+      "sha256": "a5f1e7bc2a21f36f57fc3e2e6524e40647f05f3129688e50ca0f98adcf2db52b"
+    },
+    {
+      "name": "atlas.css",
+      "url": "https://staging.universalmind.tv/informatics/atlas.css?v=6",
+      "status": 200,
+      "identical": true,
+      "normalisedIdentical": true,
+      "sha256": "cfc65cc38e3fcf0c0b71f5c4252fe56c43ee844dc9ac444ebd41734e700e6caf"
+    },
+    {
+      "name": "record-navigation.js",
+      "url": "https://staging.universalmind.tv/informatics/record-navigation.js?v=1",
+      "status": 200,
+      "identical": true,
+      "normalisedIdentical": true,
+      "sha256": "07058c2083567bd181e1adafcd6ead3d3782f519825b783ff634e268e51bd856"
+    },
+    {
+      "name": "atlas-visuals.js",
+      "url": "https://staging.universalmind.tv/informatics/atlas-visuals.js?v=4",
+      "status": 200,
+      "identical": true,
+      "normalisedIdentical": true,
+      "sha256": "1658eda32d629d5b5e68f7929df89afbc570df75e165a44b29384cf6fa50f64b"
+    }
+  ],
+  "production": "Not modified; origin/main remains a0ced3b0adc553d3786441dc293fb3f700f22734."
+}

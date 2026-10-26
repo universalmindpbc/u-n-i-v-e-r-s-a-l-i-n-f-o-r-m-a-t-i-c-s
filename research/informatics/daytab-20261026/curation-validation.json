@@ -1,0 +1,47 @@
+{
+  "passed": true,
+  "primaryRecordsRetrieved": 2450,
+  "selectedPublications": 70,
+  "pmidIdentityChecks": 70,
+  "doiAndTitleAgreementChecks": 69,
+  "newJadadScoresAssigned": 0,
+  "csvJsonRecordsMatched": 70,
+  "baselinePublications": 821,
+  "generatedPublications": 891,
+  "publicAbstractsRepublished": 0,
+  "titleAgreement": "Normalized main title, allowing subtitles and British/American spelling",
+  "titleVariants": [
+    {
+      "pmid": "35713444",
+      "basis": "Full main title matches; PubMed title also includes a subtitle."
+    },
+    {
+      "pmid": "25686304",
+      "basis": "Full main title matches; PubMed title also includes a subtitle."
+    },
+    {
+      "pmid": "23541163",
+      "basis": "Full main title matches; PubMed title also includes a subtitle."
+    },
+    {
+      "pmid": "20876468",
+      "basis": "Full main title matches; PubMed title also includes a subtitle."
+    },
+    {
+      "pmid": "24647726",
+      "basis": "Full main title matches; PubMed title also includes a subtitle."
+    },
+    {
+      "pmid": "18356284",
+      "basis": "Full main title matches; PubMed title also includes a subtitle."
+    },
+    {
+      "pmid": "38078959",
+      "basis": "Full main title matches; PubMed title also includes a subtitle."
+    },
+    {
+      "pmid": "39808431",
+      "basis": "Full main title matches; PubMed title also includes a subtitle."
+    }
+  ]
+}

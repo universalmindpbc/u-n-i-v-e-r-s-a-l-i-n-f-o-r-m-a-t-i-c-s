@@ -1,0 +1,2 @@
+{"reserved_USD": 0.072512, "material_bytes": 11051}
+{"decision": "approve", "model": "gemini-4-argon", "recorded": "2026-10-26T00:31:37.081299+00:00", "usage": {"promptTokenCount": 4940, "candidatesTokenCount": 645, "totalTokenCount": 5585, "promptTokensDetails": [{"modality": "TEXT", "tokenCount": 4940}], "candidatesTokensDetails": [{"modality": "TEXT", "tokenCount": 645}]}}

@@ -1,0 +1,114 @@
+{
+  "passed": true,
+  "live": true,
+  "processMuted": true,
+  "nativeFullscreen": false,
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "structures": [
+        {
+          "target": "OXTR",
+          "pdb": "7QVM",
+          "observed": 250,
+          "visiblePixels": 895
+        },
+        {
+          "target": "SLC6A4",
+          "pdb": "5I6X",
+          "observed": 544,
+          "visiblePixels": 852
+        },
+        {
+          "target": "DRD2",
+          "pdb": "6CM4",
+          "observed": 423,
+          "visiblePixels": 784
+        },
+        {
+          "target": "NMDA",
+          "pdb": "9IYQ",
+          "observed": 781,
+          "visiblePixels": 1153
+        },
+        {
+          "target": "IL6",
+          "pdb": "1ALU",
+          "observed": 157,
+          "visiblePixels": 825
+        },
+        {
+          "target": "NR3C1",
+          "pdb": "1M2Z",
+          "observed": 255,
+          "visiblePixels": 913
+        },
+        {
+          "target": "DOCK2",
+          "pdb": "6TGB",
+          "observed": 1450,
+          "visiblePixels": 708
+        },
+        {
+          "target": "CD38",
+          "pdb": "1YH3",
+          "observed": 252,
+          "visiblePixels": 613
+        }
+      ],
+      "representations": 3,
+      "geometryModes": [
+        "tetrahedron",
+        "cube",
+        "octahedron",
+        "dodecahedron",
+        "icosahedron",
+        "stellated",
+        "odom",
+        "phi"
+      ],
+      "odomRatio": 1.618033989,
+      "cameraDrag": true,
+      "cameraKeyboard": true,
+      "sequenceSelection": true,
+      "downloads": true,
+      "rapidTargetChanges": true
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "noOverflow": true,
+      "targetSwitch": true,
+      "evidencePanel": true
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "targetSwitch": true,
+      "evidencePanel": true
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "noOverflow": true,
+      "targetSwitch": true,
+      "evidencePanel": true
+    },
+    {
+      "failedRequestShowsError": true,
+      "retryRecovers": true
+    }
+  ],
+  "verifiedEnvironment": "production",
+  "verifiedBaseURL": "https://universalmind.tv/informatics/"
+}

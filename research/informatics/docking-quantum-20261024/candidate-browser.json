@@ -1,0 +1,87 @@
+{
+  "live": false,
+  "audioMutedAtProcessLevel": true,
+  "nativeFullscreen": false,
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "dockPixels": 14400,
+      "quantumPixels": 598,
+      "controls": true,
+      "quantumFields": 4,
+      "geometryPreserved": true,
+      "noOverflow": true,
+      "errors": [],
+      "failed": []
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "dockPixels": 14400,
+      "quantumPixels": 684,
+      "controls": true,
+      "quantumFields": 4,
+      "geometryPreserved": true,
+      "noOverflow": true,
+      "errors": [],
+      "failed": []
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "dockPixels": 14400,
+      "quantumPixels": 1462,
+      "controls": true,
+      "quantumFields": 4,
+      "geometryPreserved": true,
+      "noOverflow": true,
+      "errors": [],
+      "failed": []
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "dockPixels": 14400,
+      "quantumPixels": 1782,
+      "controls": true,
+      "quantumFields": 4,
+      "geometryPreserved": true,
+      "noOverflow": true,
+      "errors": [],
+      "failed": []
+    },
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "embedded": true,
+      "entry": true,
+      "separateViews": true,
+      "pauseOnExit": true,
+      "selectionPreserved": true
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "embedded": true,
+      "entry": true,
+      "separateViews": true,
+      "pauseOnExit": true,
+      "selectionPreserved": true
+    }
+  ],
+  "directQuantum": true,
+  "checksumFailureVisible": true
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "file": "Informatics/index.html",
+    "url": "https://universalmind.tv/informatics/index.html?v=17",
+    "sha256": "26d4247b9b54e1caaa7e59eba0b13fead13f1bec5e05489efc163c1837def500",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/index.html",
+    "url": "https://universalmind.tv/informatics/quantum/index.html?v=17",
+    "sha256": "8f5b0d1577787e057993cf9d64b82e1f0bd5254a543fc2d19e87732a9deb2670",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/biology.css",
+    "url": "https://universalmind.tv/informatics/quantum/biology.css?v=12",
+    "sha256": "316df20c669c274c0a8acba2d7ba5a63f2a27a2838500f637d045b9c5feba2fc",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/biology.js",
+    "url": "https://universalmind.tv/informatics/quantum/biology.js?v=15",
+    "sha256": "0f5efd108e1e76bb05beaa1a9c0aab9e78a3494504ff76d4b067143dd897dcbe",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/insights.js",
+    "url": "https://universalmind.tv/informatics/quantum/insights.js?v=5",
+    "sha256": "fa5b8643ff619d00ca02b86f3d640d1f2581f27aaacf7ff44112c223ba8cb3b2",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/response-view.js",
+    "url": "https://universalmind.tv/informatics/quantum/response-view.js?v=6",
+    "sha256": "110f9c7dce539f61c13fb88132dabadafdea02363c4dca0b660283d7aa7abde1",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/study.js",
+    "url": "https://universalmind.tv/informatics/quantum/study.js?v=7",
+    "sha256": "adcfdb35627d4626618582e18f17a2eb4ef11cd53768dcc90445e0bee6a0158e",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/data/oxtr-next-test-evidence.json",
+    "url": "https://universalmind.tv/informatics/quantum/data/oxtr-next-test-evidence.json?v=1",
+    "sha256": "6741d032ea6058f0d66a6d1ecf7e35823f5d4701914a39d50c06993003549a76",
+    "match": true
+  },
+  {
+    "file": "Informatics/vision-science.js",
+    "url": "https://universalmind.tv/informatics/vision-science.js?v=2",
+    "sha256": "d3995b1d01eb19eb0152bb5af0e4cfb7c65c2c902bf683181deeb04fd6e71d5f",
+    "match": true
+  }
+]

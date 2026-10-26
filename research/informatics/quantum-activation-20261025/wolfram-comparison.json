@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "program_id": "chr3-8752896-8753152-ordinary",
+  "maximum_probability_error": 7.257771376945055e-09,
+  "framework_head": "Wolfram`QuantumFramework`QuantumOperator",
+  "hermitian": true,
+  "dimension": [
+    64,
+    64
+  ]
+}

@@ -1,0 +1,28 @@
+Adaptive music handoff preflight passed (music-tv-18c5895fee6a).
+Owner-state persistence checks passed.
+Broadcast clock preflight passed: five canonical music rooms use buffered, clock-aligned video handoffs; Safety Cushion has one ready 21-track Videos feed and no Parties or Radio.
+Programme catalogue release checks passed: Notion/Tensor 25/25, exact routes, 18 live Rave cues, Bloom wallet recovery, and the complete 128-slot modul8 infinity cycle.
+New videos release checks passed: 21/21 Ready, exact four-room routing, alternating Inner Planes, james bondage flow, Lisa placement, and a complete 128-slot modul8 global cycle.
+Broadcast interactions preflight passed (broadcast-interactions-20ea963338ad): thirteen live shared Music streams, six unrestricted rapid-fire Blooms, every playable mantra in unrestricted low-latency polyphonic stakeholder-demo mode, and programme-isolated same-origin coordination.
+Circle rooms preflight passed (circle-rooms-3839d898c873, circle-rooms-css-26a3fe8531d9).
+Care worlds preflight passed (CSS 97f6e5244cc9, JS edfca941922e).
+Public crawler surface preflight passed.
+Universal Sovereignty privacy and nonblocking-entry boundaries passed.
+node:internal/modules/run_main:107
+    triggerUncaughtException(
+    ^
+
+AssertionError [ERR_ASSERTION]: Missing shop image: a s s e t s/shop-mockup/body-diversity-home/mugler-home-loop.mp4
+    at file:///private/tmp/um-quantum-lab-20261025/tools/check-shopfront-mockup.mjs:429:10
+    at ModuleJob.run (node:internal/modules/esm/module_job:439:25)
+    at async node:internal/modules/esm/loader:643:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:101:5) {
+  generatedMessage: false,
+  code: 'ERR_ASSERTION',
+  actual: '',
+  expected: true,
+  operator: '==',
+  diff: 'simple'
+}
+
+Node.js v24.19.0

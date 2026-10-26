@@ -1,0 +1,33 @@
+{
+  "status": 200,
+  "answer": "The M9 Atlas record (Fibonacci M9P24) has a Pisano period of 24. [S1]",
+  "sources": [
+    {
+      "label": "S1",
+      "id": "fibonacci-m9-p24",
+      "passageId": "fibonacci-m9-p24:summary:0",
+      "title": "Fibonacci M9P24",
+      "authors": "",
+      "journal": "Universal Informatics Atlas",
+      "url": "https://universalmind.tv/informatics/?record=fibonacci-m9-p24&area=geometry",
+      "section": "summary",
+      "kind": "atlas",
+      "text": "{\"id\":\"fibonacci-m9-p24\",\"name\":\"Fibonacci M9P24\",\"dataset_version\":\"m1-m48-v1\",\"modulus\":9,\"pisano_period\":24,\"conventions\":{\"node_rule\":\"Native residues divisible by 3, including zero; preserves the approved M6/M9/M12 reference selection. Additional regular formations of all native values are catalogued separately.\",\"orientation\":\"clockwise from north\",\"clock_labels\":[24,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23],\"index_origin\":0,\"zero_display\":9,\"m1_convention\":\"Modulo 1 has period 1 and residue 0.\",\"beta_circle_positions\":9,\"alpha_circle_positions\":24},\"geometry_summary\":{\"scope\":\"Shapes in the primary Gamma node set (native residues divisible by 3, including zero). All regular polygons on the period circle are catalogued separately with their native values; their existence alone is a property of the plotting grid.\",\"shapes\":[{\"name\":\"Equilateral triangle\",\"count\":2,\"status\":\"Present\",\"alpha_paths\":[[0,8,16,0],[4,12,20,4]],\"orientation\":\"North / south\",\"rotation_degrees\":null,\"rotations_degrees\":[0,60]},{\"name\":\"Hexagon\",\"count\":1,\"status\":\"Present\",\"alpha_paths\":[[0,4,8,12,16,20,0]],\"orientation\":\"North–south\",\"rotation_degrees\":0,\"rotations_degrees\":[0]},{\"name\":\"2D stellated octahedron\",\"count\":1,\"status\":\"Present\",\"alpha_paths\":[[0,8,16,0],[4,12,20,4]],\"orientation\":\"North–south\",\"rotation_degrees\":0,\"rotations_degrees\":[0]},{\"name\":\"Chevron\",\"count\":1,\"status\":\"Present\",\"alpha_paths\":[],\"orientation\":\"North–south\",\"rotation_degrees\":0,\"rotations_degrees\":[0]},{\"name\":\"Unicursal hexagram\",\"count\":1,\"status\":\"Present\",\"alpha_paths\":[[0,8,20,12,4,16,0],[4,12,0,16,8,20,4],[8,16,4,20,12,0,8]],\"orientation\":\"North–south\",\"rotation_degrees\":0,\"rotations_degrees\":[0]}],\"circle_role\":\"Pisano-period plotting framework\",\"epsilon_rule\":\"A regular six-node formation must support the reference unicursal route through only 3, 6 and 9, containing all three. Rotations and reflections of the route are tested; reversed or cyclically shifted traversals are deduplicated.\",\"rule_version\":\"native-pilot-v1\",\"other_orientations_status\":\"Absent\"},\"research\":{\"focus\":\"OXTR gene expression\",\"tiers\":[{\"name\":\"Creates cellular life\",\"range\":[8,10],\"evidence\":[],\"wss_score\":null},{\"name\":\"Supports cellular life\",\"range\":[5,7],\"evidence\":[],\"wss_score\":null},{\"name\":\"Creates elemental life\",\"range\":[1,4],\"evidence\":[],\"wss_score\":null}],\"background_literature\":{\"scope\":\"Shared background literature for the initial OXTR research programme across M1–M1001. Studies of related mechanisms in other systems provide context for investigation.\",\"register_id\":\"oxtr-phase1-literature\",\"relationship\":\"background_context\",\"register_file\":\"research-register.json\",\"publication_ids\":[\"E01\",\"E02\",\"E03\",\"E04\",\"E05\",\"E06\",\"E07\",\"E08\",\"E09\",\"E10\",\"E11\",\"E12\",\"E13\",\"E14\"],\"register_version\":\"2026-10-18.1\",\"hero_publication_ids\":[\"E03\",\"E06\",\"E08\",\"E11\"],\"modulus_relevance_status\":\"Not yet assessed\"},\"quantum_annealing_status\":\"Not yet performed\",\"biological_significance_status\":\"Not yet assessed\",\"statistical_significance_status\":\"Not yet assessed\"},\"epsilon_status\":\"Present\",\"verification\":{\"scope\":\"Native period, sequences, regular polygon index spacing and reference Epsilon routes; no physical or biological validation.\",\"python\":\"Passed\",\"wolfram\":\"Passed\",\"evidence\":\"wolfram-core-result.json\",\"wolfram_scope\":\"24 native periods, complete Alpha, primary Gamma indices, Beta interval sums/residues, primary regular triangles and hexagons. Extended catalogue, Chevron and Epsilon remain Python-checked only.\"},\"family\":{\"m9\":true,\"label\":\"M9 family\"},\"hypothesis\":\"The Alpha, Beta, Gamma and Epsilon sequences of M9P24 may offer useful descriptions of biological timing, cellular division and molecular organisation in the context of OXTR. Bioinformatics and in si",
+      "doi": null,
+      "rights": null,
+      "sha256": "55da8b5e3406368cece4476720ca9d9208627e30a827fca30533d3235d74d8ff",
+      "retrievalLabel": "S1"
+    }
+  ],
+  "model": "gpt-6-astra",
+  "version": "research-20261024-v2",
+  "usage": {
+    "totalTokens": 5169
+  },
+  "retrieval": {
+    "required": true,
+    "sourceCount": 1,
+    "contextMessages": 0,
+    "previousReferences": 0
+  }
+}

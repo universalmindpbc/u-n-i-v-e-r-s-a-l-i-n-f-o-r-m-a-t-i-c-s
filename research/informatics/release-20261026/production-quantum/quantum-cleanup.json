@@ -1,0 +1,17 @@
+{
+  "origin": "https://universalmind.tv",
+  "errors": [],
+  "muted": true,
+  "assets": [
+    {
+      "url": "https://universalmind.tv/informatics/quantum/biology.js?v=clean-3",
+      "status": 200
+    },
+    {
+      "url": "https://universalmind.tv/informatics/quantum/study.js?v=clean-3",
+      "status": 200
+    }
+  ],
+  "passed": true,
+  "dialogs": 4
+}

@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "at": "2026-10-24T23:56:58.578Z",
+  "canonical_atlas_exact": true,
+  "coordinate_and_drive_checks": true,
+  "current_device_revalidation_required": true,
+  "strict_ai_context": true,
+  "source_only_no_compute": true
+}

@@ -1,0 +1,14 @@
+import fs from 'node:fs/promises';
+import assert from 'node:assert/strict';
+const base=process.env.UO_ENDPOINT||'https://informatics-universal-one-staging.universalmind.workers.dev';
+const out=new URL(process.env.UO_PROOF_DIR||'./verification/',import.meta.url);
+await fs.mkdir(out,{recursive:true});
+const qa=(await fs.readFile('/private/tmp/uo-secrets/qa-token','utf8')).trim();
+const secrets=JSON.parse(await fs.readFile('/private/tmp/uo-secrets/worker.json','utf8'));
+const started=Date.now();
+const a=await fetch(base+'/a2a/v1',{method:'POST',headers:{'Content-Type':'application/json','A2A-Version':'1.0','X-Research-QA':qa},body:JSON.stringify({jsonrpc:'2.0',id:'proof',method:'SendMessage',params:{message:{messageId:crypto.randomUUID(),role:'ROLE_USER',parts:[{text:'Find a recreational music-making study involving gene expression in the repository. Name the study, give one measured finding and explain one limitation, briefly.'}]}}}),signal:AbortSignal.timeout(240000)});
+const ad=await a.json();await fs.writeFile(new URL('a2a-answer.json',out),JSON.stringify({status:a.status,elapsedMs:Date.now()-started,response:ad},null,2));
+assert.ok(ad.result?.message?.parts?.[0]?.text);assert.ok(ad.result.message.metadata.sources.length);console.log('A2A answered with '+ad.result.message.metadata.sources.length+' sources.');
+const r=await fetch('https://api.openai.com/v1/responses',{method:'POST',headers:{Authorization:'Bearer '+secrets.OPENAI_API_KEY,'Content-Type':'application/json'},body:JSON.stringify({model:'gpt-6-astra',input:'Use the Universal Informatics MCP server to retrieve the exact inventory and M9 Atlas probability section. Briefly report the publication and Atlas counts, then explain what the M9 probability calculation does and does not establish. Cite the API source URLs. Do not answer from general knowledge.',max_output_tokens:2000,tools:[{type:'mcp',server_label:'universal_informatics',server_url:base+'/mcp',allowed_tools:['get_inventory','get_atlas_record'],require_approval:'never'}]}),signal:AbortSignal.timeout(240000)});
+const d=await r.json();const report={status:r.status,model:d.model,usage:d.usage,output:d.output,error:d.error};await fs.writeFile(new URL('openai-mcp.json',out),JSON.stringify(report,null,2));
+assert.equal(r.status,200);const calls=d.output.filter(o=>o.type==='mcp_call');assert.ok(calls.length>=2);assert.ok(calls.every(c=>!c.error));assert.ok(d.output.some(o=>o.type==='message'));console.log('OpenAI remote MCP: '+calls.map(c=>c.name).join(', '));

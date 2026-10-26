@@ -1,0 +1,31 @@
+{
+  "verifiedAt": "2026-10-26",
+  "environment": "AWS staging; us-east-1",
+  "localWorkerStopped": true,
+  "runtimeStack": "informatics-astra-staging-runtime",
+  "runtimeStackStatus": "UPDATE_COMPLETE",
+  "dispatcher": {"state": "ENABLED", "schedule": "rate(1 minute)", "monthlyAttemptLimit": 120},
+  "taskId": "62c79a3b-0e1c-43b4-ba7c-93b86b353136",
+  "requestId": "cf99061f-0f17-4166-bd56-6e73bed9316c",
+  "startedUTC": "2026-10-25T20:54:19Z",
+  "completedUTC": "2026-10-25T21:03:07Z",
+  "durationMilliseconds": 527915.83,
+  "maxMemoryMB": 1496,
+  "imageSourceCommit": "97b968a7",
+  "imageDigest": "sha256:559390a8cb4c41478344046c7398d84240c1cf1f2ad2267bab76689924543626",
+  "checkpoint": {"bytes": 1781760, "encryption": "AES256", "sha256": "fd1194c8bfc08331d321083be8e05d39b13d9fa4f06bcb587f80c444eec242c5"},
+  "archivedJSON": {"bytes": 127137, "sha256": "19f0b929ceacf46da6343044f2c15ec8b212d2cc3ca53990674ab63a6ff762f5"},
+  "archivedCSV": {"bytes": 249005, "sha256": "fd3b8725a73d4d35f4d4e36682ab6370208264245269011d6ef1bfbdd752e2e1"},
+  "browserAndArchiveValuesMatch": true,
+  "comparison": {
+    "note": "Python and JavaScript serialize whitespace, Unicode and integer-valued floats differently. Compare parsed values, retaining booleans and normalizing JSON numbers to float. CSV rows are sorted by field and numeric cells parsed before comparison.",
+    "canonicalJSONSHA256": "c8d7c88951e6a3c9af599dd0806af42b99fed9ba5d2539d4a6f106073b71d786",
+    "canonicalCSVRows": 3712,
+    "canonicalCSVSHA256": "60015fdc7d13f19090f1b34b9d0ed78dbbf8903b4a6ae10c2552ac2a3945780b"
+  },
+  "model": "gpt-6-astra",
+  "tokens": 6208,
+  "newAquilaUSD": 0,
+  "newQbraidCredits": 0,
+  "passed": true
+}

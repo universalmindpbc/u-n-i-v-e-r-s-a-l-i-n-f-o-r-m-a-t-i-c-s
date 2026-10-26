@@ -1,0 +1,508 @@
+[
+  {
+    "version": "quantum-question-v3",
+    "id": "6e08ca7f-0cfe-444c-8b0a-06159909c92a",
+    "createdAt": "2026-10-25T00:26:29.599Z",
+    "question": "Do quantum responses generated from Fibonacci and M9 P24 representations improve our ability to predict transcription factor occupancy around OXTR?",
+    "model": "gpt-6-astra",
+    "provider_response_id": "resp_070c9127c6d4c937016add4cb3c91087d0862d95e7796a89e6",
+    "route": "oxtr_occupancy",
+    "allowance": {
+      "allowed": true,
+      "unit": "AI questions",
+      "periods": {
+        "day": {
+          "key": "2026-10-25T00:00:00.000Z",
+          "used": 3,
+          "limit": 30,
+          "resetAt": "2026-10-26T00:00:00.000Z",
+          "remaining": 27
+        },
+        "week": {
+          "key": "2026-10-19T00:00:00.000Z",
+          "used": 13,
+          "limit": 120,
+          "resetAt": "2026-10-26T00:00:00.000Z",
+          "remaining": 107
+        },
+        "month": {
+          "key": "2026-10-01T00:00:00.000Z",
+          "used": 13,
+          "limit": 300,
+          "resetAt": "2026-11-01T00:00:00.000Z",
+          "remaining": 287
+        }
+      },
+      "resetAt": null,
+      "hardware": {
+        "available": false,
+        "reason": "Study 01 is in design review; compute runs follow the agreed protocol."
+      }
+    },
+    "study": {
+      "id": "oxtr-qrc-01",
+      "version": "1.0.0"
+    },
+    "status": "not_started",
+    "message": "Question received. The first OXTR study run has not started.",
+    "reports": {
+      "classical": null,
+      "simulation": null,
+      "quantum": null,
+      "comparison": null
+    }
+  },
+  {
+    "version": "quantum-question-v3",
+    "id": "55fee7f0-67ab-4770-af4e-ffc09e700a67",
+    "createdAt": "2026-10-25T00:26:34.495Z",
+    "question": "Assemble these three synthetic DNA fragments in a known common orientation: ATGCCTA, CCTAGGA, AGGATTC. Compare every possible ordering and show the reconstructed sequence.",
+    "model": "gpt-6-astra",
+    "provider_response_id": "resp_02367e1e45413c57016add4cb89ce087d0ab28c350b8d511b0",
+    "route": "dna_assembly",
+    "allowance": {
+      "allowed": true,
+      "unit": "AI questions",
+      "periods": {
+        "day": {
+          "key": "2026-10-25T00:00:00.000Z",
+          "used": 4,
+          "limit": 30,
+          "resetAt": "2026-10-26T00:00:00.000Z",
+          "remaining": 26
+        },
+        "week": {
+          "key": "2026-10-19T00:00:00.000Z",
+          "used": 14,
+          "limit": 120,
+          "resetAt": "2026-10-26T00:00:00.000Z",
+          "remaining": 106
+        },
+        "month": {
+          "key": "2026-10-01T00:00:00.000Z",
+          "used": 14,
+          "limit": 300,
+          "resetAt": "2026-11-01T00:00:00.000Z",
+          "remaining": 286
+        }
+      },
+      "resetAt": null,
+      "hardware": {
+        "available": false,
+        "reason": "Study 01 is in design review; compute runs follow the agreed protocol."
+      }
+    },
+    "study": {
+      "id": "dna-assembly-55fee7f0-67ab-4770-af4e-ffc09e700a67",
+      "version": "read-ordering-v1"
+    },
+    "status": "classical_complete",
+    "message": "Your classical result is ready.",
+    "reports": {
+      "classical": {
+        "study_id": "dna-assembly-55fee7f0-67ab-4770-af4e-ffc09e700a67",
+        "study_version": "read-ordering-v1",
+        "state": "complete",
+        "kind": "classical",
+        "title": "Your reconstructed DNA sequence",
+        "finding": "The supplied fragments have one best ordering under the overlap calculation.",
+        "calculation": {
+          "version": "read-ordering-v1",
+          "method": "Exact classical enumeration",
+          "reads": [
+            "ATGCCTA",
+            "CCTAGGA",
+            "AGGATTC"
+          ],
+          "weights": [
+            [
+              0,
+              4,
+              1
+            ],
+            [
+              1,
+              0,
+              4
+            ],
+            [
+              0,
+              1,
+              0
+            ]
+          ],
+          "order": [
+            0,
+            1,
+            2
+          ],
+          "pieces": [
+            {
+              "read": 0,
+              "sequence": "ATGCCTA",
+              "overlap": 0
+            },
+            {
+              "read": 1,
+              "sequence": "CCTAGGA",
+              "overlap": 4
+            },
+            {
+              "read": 2,
+              "sequence": "AGGATTC",
+              "overlap": 4
+            }
+          ],
+          "sequence": "ATGCCTAGGATTC",
+          "overlapScore": 8,
+          "optimalOrders": 1,
+          "tested": 6,
+          "disconnected": false,
+          "assumptions": [
+            "Error-free fragments in a known common orientation.",
+            "Each supplied fragment appears once; no reverse complements or repeat resolution.",
+            "Maximum overlap is an optimisation objective, not proof of a true biological sequence."
+          ],
+          "qubo": {
+            "variables": 9,
+            "index": "read * fragment_count + position; zero-based",
+            "constant": 54,
+            "linear": [
+              -18,
+              -18,
+              -18,
+              -18,
+              -18,
+              -18,
+              -18,
+              -18,
+              -18
+            ],
+            "quadratic": [
+              {
+                "i": 0,
+                "j": 1,
+                "value": 18
+              },
+              {
+                "i": 0,
+                "j": 3,
+                "value": 18
+              },
+              {
+                "i": 0,
+                "j": 2,
+                "value": 18
+              },
+              {
+                "i": 0,
+                "j": 6,
+                "value": 18
+              },
+              {
+                "i": 1,
+                "j": 2,
+                "value": 18
+              },
+              {
+                "i": 3,
+                "j": 6,
+                "value": 18
+              },
+              {
+                "i": 3,
+                "j": 4,
+                "value": 18
+              },
+              {
+                "i": 1,
+                "j": 4,
+                "value": 18
+              },
+              {
+                "i": 3,
+                "j": 5,
+                "value": 18
+              },
+              {
+                "i": 1,
+                "j": 7,
+                "value": 18
+              },
+              {
+                "i": 4,
+                "j": 5,
+                "value": 18
+              },
+              {
+                "i": 4,
+                "j": 7,
+                "value": 18
+              },
+              {
+                "i": 6,
+                "j": 7,
+                "value": 18
+              },
+              {
+                "i": 2,
+                "j": 5,
+                "value": 18
+              },
+              {
+                "i": 6,
+                "j": 8,
+                "value": 18
+              },
+              {
+                "i": 2,
+                "j": 8,
+                "value": 18
+              },
+              {
+                "i": 7,
+                "j": 8,
+                "value": 18
+              },
+              {
+                "i": 5,
+                "j": 8,
+                "value": 18
+              },
+              {
+                "i": 0,
+                "j": 4,
+                "value": -4
+              },
+              {
+                "i": 0,
+                "j": 7,
+                "value": -1
+              },
+              {
+                "i": 1,
+                "j": 3,
+                "value": -1
+              },
+              {
+                "i": 3,
+                "j": 7,
+                "value": -4
+              },
+              {
+                "i": 4,
+                "j": 6,
+                "value": -1
+              },
+              {
+                "i": 1,
+                "j": 5,
+                "value": -4
+              },
+              {
+                "i": 1,
+                "j": 8,
+                "value": -1
+              },
+              {
+                "i": 2,
+                "j": 4,
+                "value": -1
+              },
+              {
+                "i": 4,
+                "j": 8,
+                "value": -4
+              },
+              {
+                "i": 5,
+                "j": 7,
+                "value": -1
+              }
+            ],
+            "penalty": 9
+          },
+          "ising": {
+            "convention": "x=(1-z)/2; z is the Pauli-Z eigenvalue",
+            "offset": 48.5,
+            "h": [
+              -7.75,
+              -7.5,
+              -8.75,
+              -7.75,
+              -6.5,
+              -7.75,
+              -8.75,
+              -7.5,
+              -7.75
+            ],
+            "J": [
+              {
+                "i": 0,
+                "j": 1,
+                "value": 4.5
+              },
+              {
+                "i": 0,
+                "j": 3,
+                "value": 4.5
+              },
+              {
+                "i": 0,
+                "j": 2,
+                "value": 4.5
+              },
+              {
+                "i": 0,
+                "j": 6,
+                "value": 4.5
+              },
+              {
+                "i": 1,
+                "j": 2,
+                "value": 4.5
+              },
+              {
+                "i": 3,
+                "j": 6,
+                "value": 4.5
+              },
+              {
+                "i": 3,
+                "j": 4,
+                "value": 4.5
+              },
+              {
+                "i": 1,
+                "j": 4,
+                "value": 4.5
+              },
+              {
+                "i": 3,
+                "j": 5,
+                "value": 4.5
+              },
+              {
+                "i": 1,
+                "j": 7,
+                "value": 4.5
+              },
+              {
+                "i": 4,
+                "j": 5,
+                "value": 4.5
+              },
+              {
+                "i": 4,
+                "j": 7,
+                "value": 4.5
+              },
+              {
+                "i": 6,
+                "j": 7,
+                "value": 4.5
+              },
+              {
+                "i": 2,
+                "j": 5,
+                "value": 4.5
+              },
+              {
+                "i": 6,
+                "j": 8,
+                "value": 4.5
+              },
+              {
+                "i": 2,
+                "j": 8,
+                "value": 4.5
+              },
+              {
+                "i": 7,
+                "j": 8,
+                "value": 4.5
+              },
+              {
+                "i": 5,
+                "j": 8,
+                "value": 4.5
+              },
+              {
+                "i": 0,
+                "j": 4,
+                "value": -1
+              },
+              {
+                "i": 0,
+                "j": 7,
+                "value": -0.25
+              },
+              {
+                "i": 1,
+                "j": 3,
+                "value": -0.25
+              },
+              {
+                "i": 3,
+                "j": 7,
+                "value": -1
+              },
+              {
+                "i": 4,
+                "j": 6,
+                "value": -0.25
+              },
+              {
+                "i": 1,
+                "j": 5,
+                "value": -1
+              },
+              {
+                "i": 1,
+                "j": 8,
+                "value": -0.25
+              },
+              {
+                "i": 2,
+                "j": 4,
+                "value": -0.25
+              },
+              {
+                "i": 4,
+                "j": 8,
+                "value": -1
+              },
+              {
+                "i": 5,
+                "j": 7,
+                "value": -0.25
+              }
+            ]
+          },
+          "execution": {
+            "classical": true,
+            "gpu": false,
+            "qpu": false,
+            "wolfram": false
+          }
+        },
+        "receipt": {
+          "run_id": "55fee7f0-67ab-4770-af4e-ffc09e700a67",
+          "execution": "classical-cpu",
+          "backend": "Exact enumeration",
+          "completed_at": "2026-10-25T00:26:34.495Z",
+          "input_sha256": "a1a7e36e7d844a74ab0956f38952630fc4b2226e23259ced8a2e922bca04e2c1",
+          "model_version": "read-ordering-v1"
+        },
+        "details": [
+          "Error-free fragments in a known common orientation.",
+          "Each supplied fragment appears once; no reverse complements or repeat resolution.",
+          "Maximum overlap is an optimisation objective, not proof of a true biological sequence."
+        ]
+      },
+      "simulation": null,
+      "quantum": null,
+      "comparison": null
+    }
+  }
+]

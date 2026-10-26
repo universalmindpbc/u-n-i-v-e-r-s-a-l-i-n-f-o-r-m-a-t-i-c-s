@@ -1,0 +1,62 @@
+/* Scope every rule to the new Vision explainer. */
+.vision-science{--vs-ink:#e9eeeb;--vs-muted:#a6b6b4;--vs-line:#b3d4cb26;--vs-green:#82dfb5;--vs-pink:#ed94c8;--vs-blue:#a4c6ed;margin:64px -24px 12px;padding:0 24px 12px;background:#050908f5;color:var(--vs-ink);border-top:1px solid #82dfb575;scroll-margin-top:24px}
+.vision-science .vs-masthead{display:flex;justify-content:space-between;gap:20px;padding:19px 0;border-bottom:1px solid var(--vs-line);color:#9ab7ab;font:9px/1.6 monospace;letter-spacing:.14em}
+.vision-science .vs-intro{display:grid;grid-template-columns:1fr 1fr;gap:50px;padding:52px 0 42px;align-items:start}
+.vision-science .vs-kicker{margin:0 0 18px;color:#8fc6ac;font:9px/1.6 Arial,sans-serif;letter-spacing:.16em}
+.vision-science h2{color:var(--vs-ink);font:300 clamp(28px,3.5vw,46px)/1.13 Arial,sans-serif;letter-spacing:-.045em;margin:0}
+.vision-science h2 em{font-style:normal;color:#a2dfc0}
+.vision-science .vs-mini-geometry{color:#82dfb5;width:115px;margin-top:30px}
+.vision-science .vs-opening p,.vision-science .vs-chapter-copy>p,.vision-science .vs-summary p[data-source-paragraph]{color:var(--vs-muted);font:13px/1.85 Arial,sans-serif;margin:0 0 19px;overflow-wrap:break-word}
+.vision-science .vs-opening p:first-child{font-size:15px;line-height:1.85;color:#c7d5d0}
+.vision-science .vs-opening p:last-child{font-size:11px;margin:27px 0 0;color:#859b94}
+.vision-science strong{font-weight:500;color:#e1ece7}
+.vision-science .vs-opening p:first-child strong{font-weight:500}
+.vision-science a{color:inherit;text-decoration-color:#82dfb55c;text-underline-offset:4px;text-decoration-thickness:1px}
+.vision-science a:hover{color:white;text-decoration-color:var(--vs-green)}
+.vision-science :is(a,button,input):focus-visible{outline:2px solid var(--vs-green);outline-offset:5px}
+.vision-science h2:focus,.vision-science h3:focus{outline:none}
+.vision-science .vs-chapter-nav{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0;width:100%;border-top:1px solid var(--vs-line);border-bottom:1px solid var(--vs-line)}
+.vision-science .vs-chapter-nav a{display:flex;align-items:center;gap:14px;min-height:63px;padding:14px 18px;color:#c4d6cd;font:12px/1.5 Arial,sans-serif;letter-spacing:.02em;text-decoration:none;border-right:1px solid var(--vs-line)}
+.vision-science .vs-chapter-nav a:first-child{padding-left:0}.vision-science .vs-chapter-nav a:last-child{border-right:0;padding-right:0}
+.vision-science .vs-chapter-nav span{color:#739389;font:10px monospace}.vision-science .vs-chapter-nav b{margin-left:auto;font-size:16px;font-weight:400;color:#7f9e91}
+.vision-science .vs-chapter{display:grid;grid-template-columns:minmax(0,.87fr) minmax(0,1.13fr);gap:56px;border-bottom:1px solid var(--vs-line);padding:56px 0 52px;align-items:start;scroll-margin-top:28px}
+.vision-science .vs-figure{min-width:0;margin:0;background:#101a1770;border:1px solid #82dfb51f;padding:18px 20px 20px;color:var(--vs-green);border-radius:3px}
+.vision-science .vs-figure-heading{display:flex;justify-content:space-between;gap:15px;align-items:center;font:8px/1.7 monospace;letter-spacing:.13em;color:#8eab9c}
+.vision-science .vs-figure-heading>span:first-child{font-size:15px;color:#82dfb5}
+.vision-science .vs-diagram svg{display:block;width:100%;height:auto;overflow:hidden}
+.vision-science .vs-figure figcaption{color:#78988a;font:9px/1.65 Arial,sans-serif;letter-spacing:.025em;margin-top:17px;border-top:1px solid #82dfb51c;padding-top:13px}
+.vision-science h3{font:400 clamp(23px,2.35vw,30px)/1.22 Arial,sans-serif;letter-spacing:-.025em;margin:0 0 24px;color:#edf2ee;max-width:490px}
+.vision-science .vs-chapter-copy .vs-subtitle{margin:-12px 0 24px;color:#82dfb5;font:11px/1.5 Arial,sans-serif;letter-spacing:.05em}
+.vision-science .vs-chapter-copy>p>strong:first-child{display:block;margin:23px 0 7px;font:10px/1.5 Arial,sans-serif;letter-spacing:.065em;color:#bedbcd}
+.vision-science .vs-chapter-copy .vs-kicker{font-size:9px;line-height:1.6;color:#8fc6ac;margin-bottom:14px}
+.vision-science .vs-publication{position:relative;display:block;text-decoration:none;border-top:1px solid var(--vs-line);margin-top:26px;padding:19px 30px 0 0}
+.vision-science .vs-publication>span{display:block;font:9px/1.6 Arial,sans-serif;color:#8ca69a;letter-spacing:.06em;margin-bottom:7px}
+.vision-science .vs-publication strong{display:block;font:12px/1.65 Arial,sans-serif;color:#c5ded0}
+.vision-science .vs-publication i{position:absolute;right:0;top:27px;font:19px Arial,sans-serif;color:#82dfb5}
+.vision-science .vs-toggles{display:flex;border:1px solid #82dfb533;border-radius:3px;overflow:hidden}
+#experience .vision-science .vs-toggles button{flex:1;padding:10px 4px;font:10px Arial,sans-serif;min-height:39px;border-right:1px solid #82dfb52b;color:#86ab99;letter-spacing:.025em}
+#experience .vision-science .vs-toggles button:last-child{border:0}
+#experience .vision-science .vs-toggles button[aria-pressed=true]{color:#caffdf;background:#82dfb519}
+#experience .vision-science .vs-toggles button:hover{color:#f4fff6}
+.vision-science .vs-cortex .vs-figure{background:#1a141d70;border-color:#ed94c821;color:var(--vs-pink)}
+.vision-science .vs-cortex :is(.vs-kicker,.vs-figure-heading>span:first-child,.vs-publication i){color:#d9a6ca}
+.vision-science .vs-cortex .vs-figure-heading,.vision-science .vs-cortex figcaption{color:#aa8da3}
+.vision-science .vs-slider{display:block;color:#bc9db1;font:10px/1.6 Arial,sans-serif;margin:0 4px}
+.vision-science .vs-slider>span{display:flex;justify-content:space-between;gap:10px}
+.vision-science .vs-slider output{color:#f0bee0;font-family:monospace}
+.vision-science .vs-slider input{display:block;width:100%;height:24px;margin:8px 0 0;accent-color:#ed94c8;cursor:pointer}
+.vision-science .vs-space .vs-figure{background:#101b2870;border-color:#a4c6ed29;color:var(--vs-blue)}
+.vision-science .vs-space :is(.vs-kicker,.vs-figure-heading>span:first-child,.vs-publication i){color:#a4c6ed}
+.vision-science .vs-space .vs-figure-heading,.vision-science .vs-space figcaption{color:#92a9c6}
+.vision-science .vs-summary{display:grid;grid-template-columns:140px minmax(0,1fr);gap:36px;align-items:center;background:#e7c98f0b;border:1px solid #e7c98f35;margin:48px 0 0;padding:36px 40px;border-radius:3px}
+.vision-science .vs-summary-symbol{color:#e7c98f}
+.vision-science .vs-summary h3{font-size:25px;margin-bottom:17px;color:#efdec0}
+.vision-science .vs-summary .vs-kicker{color:#c4ac7d}
+.vision-science .vs-summary p[data-source-paragraph]{margin-bottom:0;color:#bdb7aa}
+.vision-science .vs-summary strong{color:#e6d7b9}
+.vision-science .vs-colophon{display:flex;justify-content:space-between;gap:18px;align-items:center;padding:25px 0 8px;color:#7a9186;font:8px/1.8 monospace;letter-spacing:.08em}
+.vision-science .vs-colophon a{font:10px Arial,sans-serif;letter-spacing:0;text-decoration:none}
+@media(max-width:1100px){.vision-science .vs-intro{gap:32px}.vision-science .vs-chapter{gap:32px}.vision-science .vs-figure{padding:15px}.vision-science .vs-summary{padding:30px;grid-template-columns:105px minmax(0,1fr);gap:25px}}
+@media(max-width:720px){.vision-science{margin-top:44px}.vision-science .vs-masthead{font-size:8px;letter-spacing:.1em}.vision-science .vs-intro{grid-template-columns:1fr;gap:26px;padding:35px 0 29px}.vision-science h2{font-size:clamp(29px,7.8vw,42px)}.vision-science .vs-mini-geometry{display:none}.vision-science .vs-opening p:first-child{font-size:14px}.vision-science .vs-chapter-nav a{font-size:10px;gap:7px;padding:13px 9px;min-height:59px}.vision-science .vs-chapter-nav span{font-size:8px}.vision-science .vs-chapter-nav b{font-size:12px}.vision-science .vs-chapter{grid-template-columns:1fr;gap:28px;padding:34px 0}.vision-science .vs-figure{max-width:430px;width:100%;margin:0 auto;padding:16px 20px}.vision-science .vs-diagram{max-width:340px;margin:0 auto}.vision-science h3{font-size:27px;margin-bottom:20px}.vision-science .vs-chapter-copy>p,.vision-science .vs-summary p[data-source-paragraph]{font-size:13px;line-height:1.9}.vision-science .vs-summary{grid-template-columns:1fr;padding:25px 23px;gap:18px;margin-top:32px}.vision-science .vs-summary-symbol{width:75px}.vision-science .vs-summary h3{font-size:24px}.vision-science .vs-colophon{flex-wrap:wrap;gap:7px 14px}.vision-science .vs-colophon>span:nth-child(2){order:3;width:100%}}
+@media(prefers-reduced-motion:reduce){.vision-science *{scroll-behavior:auto}}
+@media(max-width:720px){.vision-science{margin:44px -8px 12px;padding:0 14px 12px}}

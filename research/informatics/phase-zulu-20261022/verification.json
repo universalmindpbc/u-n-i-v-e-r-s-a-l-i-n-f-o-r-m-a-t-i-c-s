@@ -1,0 +1,241 @@
+{
+  "sourceCommit": "934d86db49716a11c9fc119271ccb89619d52608",
+  "deploymentMethod": "./deploy-panthur-staging.sh informatics",
+  "changedWebsiteFiles": [
+    "Informatics/index.html",
+    "Informatics/library-launcher.js",
+    "Informatics/library-launcher.css"
+  ],
+  "http": {
+    "checkedAt": "2026-10-21T16:59:01.707465+00:00",
+    "sourceCommit": "934d86db49716a11c9fc119271ccb89619d52608",
+    "assets": [
+      {
+        "file": "Informatics/index.html",
+        "url": "https://staging.universalmind.tv/informatics/index.html",
+        "sha256": "0ff4f330c78426b1acb162426951b7680a4c318225d2407d03d34dd1cd9f4721",
+        "remoteSha256": "0ff4f330c78426b1acb162426951b7680a4c318225d2407d03d34dd1cd9f4721"
+      },
+      {
+        "file": "Informatics/library-launcher.js",
+        "url": "https://staging.universalmind.tv/informatics/library-launcher.js",
+        "sha256": "6d545c4a99857c809bc47bcf8f9c28fe5e8475f84042b70986095ce384702476",
+        "remoteSha256": "6d545c4a99857c809bc47bcf8f9c28fe5e8475f84042b70986095ce384702476"
+      },
+      {
+        "file": "Informatics/library-launcher.css",
+        "url": "https://staging.universalmind.tv/informatics/library-launcher.css",
+        "sha256": "2b33a16f881e9ce25434bb402994ccead2774636fd37c4b2010da1bf76d4886a",
+        "remoteSha256": "2b33a16f881e9ce25434bb402994ccead2774636fd37c4b2010da1bf76d4886a"
+      }
+    ],
+    "productionUnchanged": true,
+    "productionHomepageSha256": "5f7a8dd07645016b365c84cc6153c1c7f8bfa798fad7c1647304e5141f1e838a"
+  },
+  "diagram": {
+    "passed": true,
+    "candidate": false,
+    "checkedAt": "2026-10-21T16:59:07.620Z",
+    "base": "https://staging.universalmind.tv/informatics/",
+    "processMuted": true,
+    "nativeFullscreen": false,
+    "results": [
+      {
+        "viewport": {
+          "width": 1470,
+          "height": 956
+        },
+        "targets": 14,
+        "outer": 6,
+        "inner": 6,
+        "nestedNOS1": true,
+        "centralOXTR": true,
+        "originalResearchAims": true,
+        "sequencePreserved": true,
+        "noRectangularNodes": true,
+        "mapVisible": true,
+        "zoom": true,
+        "keyboardLibraryNavigation": true,
+        "filterAliases": true,
+        "focusRestored": true,
+        "noHorizontalPageOverflow": true,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "targets": 14,
+        "outer": 6,
+        "inner": 6,
+        "nestedNOS1": true,
+        "centralOXTR": true,
+        "originalResearchAims": true,
+        "sequencePreserved": true,
+        "noRectangularNodes": true,
+        "mapVisible": true,
+        "zoom": true,
+        "keyboardLibraryNavigation": true,
+        "filterAliases": true,
+        "focusRestored": true,
+        "noHorizontalPageOverflow": true,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "targets": 14,
+        "outer": 6,
+        "inner": 6,
+        "nestedNOS1": true,
+        "centralOXTR": true,
+        "originalResearchAims": true,
+        "sequencePreserved": true,
+        "noRectangularNodes": true,
+        "mapVisible": true,
+        "zoom": true,
+        "keyboardLibraryNavigation": true,
+        "filterAliases": true,
+        "focusRestored": true,
+        "noHorizontalPageOverflow": true,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "targets": 14,
+        "outer": 6,
+        "inner": 6,
+        "nestedNOS1": true,
+        "centralOXTR": true,
+        "originalResearchAims": true,
+        "sequencePreserved": true,
+        "noRectangularNodes": true,
+        "mapVisible": true,
+        "zoom": true,
+        "keyboardLibraryNavigation": true,
+        "filterAliases": true,
+        "focusRestored": true,
+        "noHorizontalPageOverflow": true,
+        "errors": []
+      }
+    ]
+  },
+  "libraryIntegration": {
+    "passed": true,
+    "candidate": false,
+    "checkedAt": "2026-10-21T16:59:46.917Z",
+    "base": "https://staging.universalmind.tv/informatics/",
+    "processMuted": true,
+    "records": 833,
+    "results": [
+      {
+        "viewport": {
+          "width": 1470,
+          "height": 956
+        },
+        "searchAndFilters": true,
+        "threeCollections": true,
+        "sourceReaderPages": 236,
+        "recordPermalink": true,
+        "jsonExport": true,
+        "focusRestored": true,
+        "networkTargets": 14,
+        "activeExperiencePreserved": true,
+        "networkInActiveExperience": true,
+        "media": {
+          "same": true,
+          "advanced": true,
+          "paused": false,
+          "events": []
+        },
+        "nativeFullscreen": false,
+        "errors": []
+      },
+      {
+        "unavailableStateAndRetry": true,
+        "noFallbackData": true
+      },
+      {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "searchAndFilters": true,
+        "threeCollections": true,
+        "sourceReaderPages": 236,
+        "recordPermalink": true,
+        "jsonExport": true,
+        "focusRestored": true,
+        "networkTargets": 14,
+        "activeExperiencePreserved": true,
+        "networkInActiveExperience": true,
+        "media": {
+          "same": true,
+          "advanced": true,
+          "paused": false,
+          "events": []
+        },
+        "nativeFullscreen": false,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "searchAndFilters": true,
+        "threeCollections": true,
+        "sourceReaderPages": 236,
+        "recordPermalink": true,
+        "jsonExport": true,
+        "focusRestored": true,
+        "networkTargets": 14,
+        "activeExperiencePreserved": true,
+        "networkInActiveExperience": true,
+        "media": {
+          "same": true,
+          "advanced": true,
+          "paused": false,
+          "events": []
+        },
+        "nativeFullscreen": false,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "searchAndFilters": true,
+        "threeCollections": true,
+        "sourceReaderPages": 236,
+        "recordPermalink": true,
+        "jsonExport": true,
+        "focusRestored": true,
+        "networkTargets": 14,
+        "activeExperiencePreserved": true,
+        "networkInActiveExperience": true,
+        "media": {
+          "same": true,
+          "advanced": true,
+          "paused": false,
+          "events": []
+        },
+        "nativeFullscreen": false,
+        "errors": []
+      }
+    ]
+  },
+  "proofImages": [
+    "network-1470.png",
+    "network-390.png",
+    "enlarged-390.png"
+  ],
+  "productionModified": false
+}

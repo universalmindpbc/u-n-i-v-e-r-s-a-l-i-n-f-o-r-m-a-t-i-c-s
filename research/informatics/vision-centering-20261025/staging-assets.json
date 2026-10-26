@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://staging.universalmind.tv/informatics/index.html",
+    "sha256": "6870b708992e1afa6df7c767852f4cd4f88233ab23d2f8a7723748fa8edd7f80",
+    "matches_source": true
+  },
+  {
+    "url": "https://staging.universalmind.tv/informatics/vision-science.js?v=2",
+    "sha256": "d3995b1d01eb19eb0152bb5af0e4cfb7c65c2c902bf683181deeb04fd6e71d5f",
+    "matches_source": true
+  }
+]

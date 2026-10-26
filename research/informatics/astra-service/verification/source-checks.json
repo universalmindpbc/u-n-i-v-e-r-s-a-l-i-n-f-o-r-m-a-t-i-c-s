@@ -1,0 +1,15 @@
+{
+  "experiment_roundtrip": true,
+  "source_count": 1170,
+  "new_Aquila_jobs": 0,
+  "new_qBraid_jobs": 0,
+  "new_local_CUDA_Q_cases": 16,
+  "biological_windows": 280,
+  "tests": [
+    "scientific label isolation",
+    "checkpoint recovery",
+    "broker idempotency and cancellation",
+    "owner authentication"
+  ],
+  "passed": true
+}

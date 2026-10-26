@@ -1,0 +1,22 @@
+{
+  "recorded_at": "2026-10-26T00:52:22.609853+00:00",
+  "staging_url": "https://staging.universalmind.tv/informatics/?area=quantum&entry=research",
+  "deployed_commit": "a112900c3fcd736510001c8c6c8f0754119853fd",
+  "production_commit": "97962ec3a0c86e55153ba43eb1828cc1d4e11e69",
+  "production_tag": "production-2026-10-26-1127",
+  "new_review_ui_production": false,
+  "reviewed_report": "Informatics/quantum/experiments/oxtr-agent-follow-through-pilot/r1/experiment.json",
+  "review_completed_at": "2026-10-26T00:31:37.081299+00:00",
+  "checks": [
+    "real Gemini exact-report review",
+    "evidence binding",
+    "1172-source complete JSON/CSV roundtrip",
+    "Synapse four-file download equality",
+    "desktop/mobile browser proof",
+    "new-task and altered-evidence approval guards",
+    "nine staging asset byte comparisons"
+  ],
+  "cloud_review_loop": "prototype tested; not installed in existing cloud recipe",
+  "desci": "queued pending existing service repair",
+  "new_paid_quantum_jobs": 0
+}

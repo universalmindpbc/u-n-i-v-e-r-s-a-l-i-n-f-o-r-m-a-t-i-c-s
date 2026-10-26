@@ -1,0 +1,8 @@
+﻿record_id,modulus,pisano_period,dataset_version,visit_order,alpha_index,clock_position,display_value
+fibonacci-m9-p24,9,24,m1-m48-v1,1,0,24,9
+fibonacci-m9-p24,9,24,m1-m48-v1,2,8,8,3
+fibonacci-m9-p24,9,24,m1-m48-v1,3,20,20,6
+fibonacci-m9-p24,9,24,m1-m48-v1,4,12,12,9
+fibonacci-m9-p24,9,24,m1-m48-v1,5,4,4,3
+fibonacci-m9-p24,9,24,m1-m48-v1,6,16,16,6
+fibonacci-m9-p24,9,24,m1-m48-v1,7,0,24,9

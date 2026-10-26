@@ -1,0 +1,45 @@
+import {loadContinuation,currentStudyState} from './study-progress.js?v=4';
+const $=s=>document.querySelector(s),ns='http://www.w3.org/2000/svg';
+const labels={question:['Begin with your biological question.','GPT uses the Atlas definitions and saved study recipe to select the calculation. Select a step to inspect its role.'],model:['One model, two matched routes.','Wolfram checks the mathematical specification. The same coordinates, interactions, pulses and measurement conventions feed CUDA-Q and the Aquila program.'],simulation:['Predict the quantum response with CUDA-Q.','CUDA-Q generates the matched simulation. The documented GPU route uses qBraid for supported compiled programs.'],hardware:['Measure the response on Aquila.','Amazon Braket submits the approved analog program to QuEra Aquila. Actual queued, running, completed and failed states belong to a saved task receipt.'],evidence:['Let independent observations test the prediction.','Build and adjust the prediction methods using one set of DNA regions. Then keep the methods unchanged and predict binding on different regions. Compare those predictions with laboratory results kept hidden until the predictions are complete.'],result:['Return the biological finding.','A completed result combines a plain-language finding, uncertainty and an interactive geometry comparison. Methods, source versions and execution receipts remain available on demand.']};
+let study,state,selected='question',aiState=null,timer,agentTask=null;
+function selectStage(id){selected=id;document.querySelectorAll('[data-stage]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.stage===id)));$('#flow-detail-title').textContent=labels[id][0];$('#flow-detail-text').textContent=labels[id][1];}
+
+document.querySelectorAll('[data-stage]').forEach(b=>b.onclick=()=>selectStage(b.dataset.stage));
+$('#motion-toggle').onclick=()=>{const moving=$('#motion-toggle').getAttribute('aria-pressed')!=='true';$('#motion-toggle').setAttribute('aria-pressed',String(moving));$('#motion-toggle').textContent=moving?'Pause motion Ⅱ':'Resume motion ▷';$('#motion-toggle').setAttribute('aria-label',moving?'Pause diagram animation':'Resume diagram animation');$('#workflow').classList.toggle('motion-paused',!moving);};
+function renderState(){
+ if(agentTask){renderAgentState();return;}
+ for(const n of document.querySelectorAll('[data-stage]')){delete n.dataset.state;n.querySelector('.stage-state').textContent='';}
+ const processing=aiState&&aiState.state!=='ready';
+ $('#workflow-state').textContent=processing?aiState.label:'';
+ $('#workflow-title').textContent=processing?'Follow your investigation.':'How your question is investigated.';
+ if(processing){const n=$('[data-stage="question"]');n.dataset.state=aiState.state;n.querySelector('.stage-state').textContent=aiState.label;}
+ selectStage(selected);
+}
+window.addEventListener('quantum:question',e=>{aiState=e.detail;$('#workflow').classList.toggle('is-preparing',e.detail.state==='running');renderState();});
+async function refreshState(){try{const r=await fetch('data/oxtr-qrc-state.json',{cache:'no-store',signal:AbortSignal.timeout(12000)});if(!r.ok)throw Error();const next=await r.json();if(next.study_id!=='oxtr-qrc-01'||!next.stages)throw Error();try{await loadContinuation();state=currentStudyState(next);}catch{state=next;}renderState();window.dispatchEvent(new CustomEvent('quantum:state',{detail:state}));}catch{/* The recorded study never supplies live investigation status. */}}
+function sn(tag,attrs,text){const n=document.createElementNS(ns,tag);Object.entries(attrs).forEach(([k,v])=>n.setAttribute(k,v));if(text!==undefined)n.textContent=text;return n;}
+export function patternSpec(atlas,key){const grid=key==='beta'?9:24,indices=key==='alpha'?Array.from({length:24},(_,i)=>i):key==='beta'?atlas.beta.interval_residues:atlas.gamma.alpha_indices,paths=key==='gamma'?atlas.gamma.triangle_paths:key==='epsilon'?[atlas.epsilon.alpha_indices]:key==='beta'?[[...atlas.beta.interval_residues,atlas.beta.interval_residues[0]]]:[];return {grid,indices,paths};}
+function drawPattern(key){const a=study.atlas,{grid,indices,paths}=patternSpec(a,key),svg=$('#study-geometry'),color={alpha:'#76baff',beta:'#e9d86b',gamma:'#e99ac6',epsilon:'#e3e9f0'}[key];svg.replaceChildren(sn('circle',{cx:210,cy:173,r:125,fill:'none',stroke:'#3b515b'}));svg.setAttribute('aria-label',`${key} canonical reference on ${grid} positions; no measured study results`);const pt=i=>[210+125*Math.sin(i/grid*Math.PI*2),173-125*Math.cos(i/grid*Math.PI*2)];for(let i=0;i<grid;i++){const [x,y]=pt(i);svg.append(sn('circle',{cx:x,cy:y,r:2,fill:'#49616a'}));}for(const path of paths)svg.append(sn('polyline',{points:path.map(i=>pt(i).join(',')).join(' '),fill:'none',stroke:color,'stroke-width':2}));for(const i of indices){const [x,y]=pt(i);const group=sn('g',{});group.append(sn('circle',{cx:x,cy:y,r:key==='alpha'?4:5,fill:color}),sn('title',{},`Position ${i||grid} · value ${key==='beta'?i:a.alpha.display_values[i]}`));const angle=i/grid*Math.PI*2;group.append(sn('text',{x:210+145*Math.sin(angle),y:178-145*Math.cos(angle),fill:color,'text-anchor':'middle','font-size':key==='alpha'?11:14},key==='beta'?i:a.alpha.display_values[i]));svg.append(group);}
+const notes={alpha:'Alpha · the complete 24-step Fibonacci residue cycle. Values are shown in their canonical period positions.',beta:'Beta · 4 → 8 → 7 → 5 → 1 → 2 on the nine-position residue circle.',gamma:'Gamma · two triangle paths through six period positions. The laser program retains the order of the path.',epsilon:'Epsilon · the canonical seven-visit path through the same six positions. Its repeated closing point remains part of the template.'};$('#pattern-note').textContent=notes[key];document.querySelectorAll('[data-study-pattern]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.studyPattern===key)));}
+async function init(){try{const r=await fetch('data/oxtr-qrc-study.json');if(!r.ok)throw Error();study=await r.json();if(study.id!=='oxtr-qrc-01')throw Error();drawPattern('gamma');document.querySelectorAll('[data-study-pattern]').forEach(b=>b.onclick=()=>drawPattern(b.dataset.studyPattern));const dl=document.createElement('dl');for(const [term,description]of[['Biological target',study.evaluation.target],['CUDA-Q and Aquila',study.execution.parity],['Independent test',study.evaluation.splits],['Primary measure',study.evaluation.primary_metric],['Reusable record',study.cache.rule]]){const dt=document.createElement('dt'),dd=document.createElement('dd');dt.textContent=term;dd.textContent=description;dl.append(dt,dd);}$('#protocol-summary').append(dl);}catch{$('#pattern-note').textContent='The reference definitions did not load. Reload to retry.';$('#protocol-summary').textContent='Study specification unavailable.';}await refreshState();timer=setInterval(()=>{if(!document.hidden)refreshState();},30000);}
+window.addEventListener('pagehide',()=>clearInterval(timer));init();
+
+function renderAgentState(){
+ const t=agentTask,done=t.status==='complete',stopped=['needs_attention','failed','cancelled'].includes(t.status),seen=new Set((t.events||[]).map(e=>e.stage));
+ const stages={question:['Question received','complete'],model:['',''],simulation:['',''],hardware:['',''],evidence:['',''],result:['','']};
+ if(seen.has('model'))stages.model=['Selecting the method','running'];
+ if((t.reviews||[]).some(r=>r.phase==='design'&&r.decision==='approve'))stages.model=['Design reviewed','complete'];
+ if(seen.has('classical'))stages.evidence=[seen.has('simulation')||done?'Classical analysis complete':'Comparing DNA evidence',seen.has('simulation')||done?'complete':'running'];
+ if(seen.has('simulation')){const checked=done||seen.has('final_review')||(t.stage==='result'&&!stopped);stages.simulation=[checked?'Local CUDA-Q checks complete':'Running local CUDA-Q checks',checked?'complete':'running'];}
+ if(t.report?.prior_quantum)stages.hardware=['Recorded measurements reused','recorded'];
+ if(seen.has('result'))stages.result=['Astra is interpreting the findings','running'];
+ if(t.stage==='final_review')stages.result=['Gemini is reviewing the findings','running'];
+ if(done)stages.result=['Reviewed insights ready','complete'];
+ if(stopped){for(const id of Object.keys(stages))if(stages[id][1]==='running')stages[id]=['Progress saved','paused'];stages.result=[t.status==='cancelled'?'Investigation cancelled':'Progress saved · attention needed','paused'];}
+ for(const [id,[label,status]]of Object.entries(stages)){const n=document.querySelector(`[data-stage="${id}"]`);n.querySelector('.stage-state').textContent=label;n.dataset.state=status;}
+ $('#workflow-title').textContent='Follow your investigation.';
+ $('#workflow-state').textContent=done?'Your insights are ready':t.status==='queued'?'Queued':t.status==='needs_attention'?'Your input is needed':t.status==='cancelled'?'Cancelled':t.stage==='design_review'?'Gemini · design review':t.stage==='final_review'?'Gemini · findings review':'Astra is working';
+ selectStage(selected);
+}
+window.addEventListener('quantum:agent',e=>{agentTask=e.detail;renderState();});
+renderState();

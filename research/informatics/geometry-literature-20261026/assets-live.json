@@ -1,0 +1,142 @@
+{
+  "passed": true,
+  "sourceCommit": "93d35407091981ea5e1abfd2986212ef1ccd5575",
+  "assets": [
+    {
+      "path": "Informatics/exports/manifest.json",
+      "url": "https://staging.universalmind.tv/informatics/exports/manifest.json?verification=93d35407",
+      "sha256": "5b782d0b5c59d2a4b1288a4be35ba6aca6aaad3408684afa0f7170add6d10ffd",
+      "rawSHA256": "5b782d0b5c59d2a4b1288a4be35ba6aca6aaad3408684afa0f7170add6d10ffd",
+      "normalization": null,
+      "matched": true
+    },
+    {
+      "path": "Informatics/library-data/fibonacci-expansion.json",
+      "url": "https://staging.universalmind.tv/informatics/library-data/fibonacci-expansion.json?v=geometry-20261026",
+      "sha256": "3c0926d690776962d2525e0f4e30b2349aeb14a8d70a2027b2ce2cefc3a20599",
+      "rawSHA256": "3c0926d690776962d2525e0f4e30b2349aeb14a8d70a2027b2ce2cefc3a20599",
+      "normalization": null,
+      "matched": true
+    },
+    {
+      "path": "Informatics/library-data/fulltext-availability.json",
+      "url": "https://staging.universalmind.tv/informatics/library-data/fulltext-availability.json?v=geometry-20261026",
+      "sha256": "faa1f05a9ea305479c135857000799b727001dd09f41183a4a25a01f1660dfe2",
+      "rawSHA256": "faa1f05a9ea305479c135857000799b727001dd09f41183a4a25a01f1660dfe2",
+      "normalization": null,
+      "matched": true
+    },
+    {
+      "path": "Informatics/library-data/general-edition.json",
+      "url": "https://staging.universalmind.tv/informatics/library-data/general-edition.json?v=geometry-20261026",
+      "sha256": "3c2672d0d4c865d2f97b1fe55bed99be85b829f317f07249411a2af3bf7a0e06",
+      "rawSHA256": "3c2672d0d4c865d2f97b1fe55bed99be85b829f317f07249411a2af3bf7a0e06",
+      "normalization": null,
+      "matched": true
+    },
+    {
+      "path": "Informatics/library-data/publication-access.json",
+      "url": "https://staging.universalmind.tv/informatics/library-data/publication-access.json?v=geometry-20261026",
+      "sha256": "cbcb66fc428878fa15bf5b23e70ef22cdebf6d38e738be0957e601855edbf42d",
+      "rawSHA256": "cbcb66fc428878fa15bf5b23e70ef22cdebf6d38e738be0957e601855edbf42d",
+      "normalization": null,
+      "matched": true
+    },
+    {
+      "path": "Informatics/library-data/vision-edition.json",
+      "url": "https://staging.universalmind.tv/informatics/library-data/vision-edition.json?v=geometry-20261026",
+      "sha256": "6d76cc04b9318f1da452bdb33d983d04edacef9c3b45912265f366dfcbe1e3bb",
+      "rawSHA256": "6d76cc04b9318f1da452bdb33d983d04edacef9c3b45912265f366dfcbe1e3bb",
+      "normalization": null,
+      "matched": true
+    },
+    {
+      "path": "Informatics/library-data/vision-expansion.json",
+      "url": "https://staging.universalmind.tv/informatics/library-data/vision-expansion.json?v=geometry-20261026",
+      "sha256": "667923535bb06a96d7a217f992e98f1f47475859b70e497bfca50a76fd270c4b",
+      "rawSHA256": "667923535bb06a96d7a217f992e98f1f47475859b70e497bfca50a76fd270c4b",
+      "normalization": null,
+      "matched": true
+    },
+    {
+      "path": "Informatics/library.html",
+      "url": "https://staging.universalmind.tv/informatics/library.html?verification=93d35407",
+      "sha256": "f854991d4ec103f806773b4e909efc2210903f288b46ba0b37706a437609f62c",
+      "rawSHA256": "14e367ae5e0fbd56943eaadf6630fb1f38f8cb01e49ecc6bff7853c521ad45ca",
+      "normalization": "Existing Cloudflare analytics script only",
+      "matched": true
+    },
+    {
+      "path": "Informatics/library.js",
+      "url": "https://staging.universalmind.tv/informatics/library.js?v=18",
+      "sha256": "346517a15b258323496d3c272dee39e405cf9ec4d6315097665b82aed87b6a1b",
+      "rawSHA256": "346517a15b258323496d3c272dee39e405cf9ec4d6315097665b82aed87b6a1b",
+      "normalization": null,
+      "matched": true
+    },
+    {
+      "path": "Informatics/quantum/agent.js",
+      "url": "https://staging.universalmind.tv/informatics/quantum/agent.js?verification=93d35407",
+      "sha256": "5245701fa161c0257f1dd558974eec533dc77cbb8855fc2be6dcf6e318bff726",
+      "rawSHA256": "5245701fa161c0257f1dd558974eec533dc77cbb8855fc2be6dcf6e318bff726",
+      "normalization": null,
+      "matched": true
+    },
+    {
+      "path": "Informatics/quantum/biology.css",
+      "url": "https://staging.universalmind.tv/informatics/quantum/biology.css?v=unified-2",
+      "sha256": "0ecf02c14a8ae759f8445921c1bb225b9288b335cbee4e0bd5e3f1fef8f96f19",
+      "rawSHA256": "0ecf02c14a8ae759f8445921c1bb225b9288b335cbee4e0bd5e3f1fef8f96f19",
+      "normalization": null,
+      "matched": true
+    },
+    {
+      "path": "Informatics/quantum/biology.js",
+      "url": "https://staging.universalmind.tv/informatics/quantum/biology.js?v=unified-2",
+      "sha256": "31ea9c5fb153b72fb9b270f5c5cb84c1c0f1d9fe96870680e6894495aba6176a",
+      "rawSHA256": "31ea9c5fb153b72fb9b270f5c5cb84c1c0f1d9fe96870680e6894495aba6176a",
+      "normalization": null,
+      "matched": true
+    },
+    {
+      "path": "Informatics/quantum/index.html",
+      "url": "https://staging.universalmind.tv/informatics/quantum/index.html?verification=93d35407",
+      "sha256": "4f7399c99da5b57d1eb8e9a0654fe50adfa468f4f7d8d217606a19978379b31f",
+      "rawSHA256": "d5ef8a0454472930582ad80ffe92062b89cf2777b3bace3cbfb5ea1f3ac7ae45",
+      "normalization": "Existing Cloudflare analytics script only",
+      "matched": true
+    },
+    {
+      "path": "Informatics/quantum/insights.js",
+      "url": "https://staging.universalmind.tv/informatics/quantum/insights.js?verification=93d35407",
+      "sha256": "35942ed539ef9aadd0bdab3b5a9daed64de3fc18e97557a1745f6f0404e6d6a9",
+      "rawSHA256": "35942ed539ef9aadd0bdab3b5a9daed64de3fc18e97557a1745f6f0404e6d6a9",
+      "normalization": null,
+      "matched": true
+    },
+    {
+      "path": "Informatics/quantum/study-progress.js",
+      "url": "https://staging.universalmind.tv/informatics/quantum/study-progress.js?verification=93d35407",
+      "sha256": "6139399ec101e98e5a47fe67da12cc7fa53320089ca09f3eb09b8c430de4b93a",
+      "rawSHA256": "6139399ec101e98e5a47fe67da12cc7fa53320089ca09f3eb09b8c430de4b93a",
+      "normalization": null,
+      "matched": true
+    },
+    {
+      "path": "Informatics/quantum/study.js",
+      "url": "https://staging.universalmind.tv/informatics/quantum/study.js?verification=93d35407",
+      "sha256": "cfb9a1a1ba5256f4890f08d938ca413eba792a466237977cd052b8c7ee78332a",
+      "rawSHA256": "cfb9a1a1ba5256f4890f08d938ca413eba792a466237977cd052b8c7ee78332a",
+      "normalization": null,
+      "matched": true
+    }
+  ],
+  "productionCounts": {
+    "publications": 811,
+    "atlas": 1001,
+    "full_texts": 149,
+    "public_full_texts": 146,
+    "m9_family": 111
+  },
+  "newRecordAbsentFromProduction": true
+}

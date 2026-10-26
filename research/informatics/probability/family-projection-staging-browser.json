@@ -1,0 +1,148 @@
+{
+  "passed": true,
+  "mode": "deployed_staging",
+  "results": [
+    {
+      "modulus": 9,
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "probability": true,
+      "lightbox": true,
+      "downloads": true,
+      "originalAlignment": true,
+      "otherRecordsUnassigned": true,
+      "nativeBetaObservations": true,
+      "betaNativeReducedToggle": true,
+      "betaFullSequenceAndRepeats": true,
+      "betaExports": true,
+      "allFourNativeReducedViews": true,
+      "cycleBasedEpsilon": true,
+      "epsilonIndependent": true,
+      "formationCounts": true,
+      "familySummary": true,
+      "focusReturn": true,
+      "musicContinuous": true,
+      "nativeFullscreenInvoked": false,
+      "errors": []
+    },
+    {
+      "modulus": 9,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "probability": true,
+      "lightbox": true,
+      "downloads": true,
+      "originalAlignment": true,
+      "otherRecordsUnassigned": true,
+      "nativeBetaObservations": true,
+      "betaNativeReducedToggle": true,
+      "betaFullSequenceAndRepeats": true,
+      "betaExports": true,
+      "allFourNativeReducedViews": true,
+      "cycleBasedEpsilon": true,
+      "epsilonIndependent": true,
+      "formationCounts": true,
+      "familySummary": true,
+      "focusReturn": true,
+      "musicContinuous": true,
+      "nativeFullscreenInvoked": false,
+      "errors": []
+    },
+    {
+      "modulus": 18,
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "probability": true,
+      "lightbox": true,
+      "downloads": true,
+      "originalAlignment": true,
+      "otherRecordsUnassigned": true,
+      "nativeBetaObservations": true,
+      "betaNativeReducedToggle": true,
+      "betaFullSequenceAndRepeats": true,
+      "betaExports": true,
+      "allFourNativeReducedViews": true,
+      "cycleBasedEpsilon": true,
+      "epsilonIndependent": true,
+      "formationCounts": true,
+      "familySummary": true,
+      "focusReturn": true,
+      "musicContinuous": true,
+      "nativeFullscreenInvoked": false,
+      "errors": []
+    },
+    {
+      "modulus": 18,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "probability": true,
+      "lightbox": true,
+      "downloads": true,
+      "originalAlignment": true,
+      "otherRecordsUnassigned": true,
+      "nativeBetaObservations": true,
+      "betaNativeReducedToggle": true,
+      "betaFullSequenceAndRepeats": true,
+      "betaExports": true,
+      "allFourNativeReducedViews": true,
+      "cycleBasedEpsilon": true,
+      "epsilonIndependent": true,
+      "formationCounts": true,
+      "familySummary": true,
+      "focusReturn": true,
+      "musicContinuous": true,
+      "nativeFullscreenInvoked": false,
+      "errors": []
+    }
+  ],
+  "source_commit": "6286f58065425a2f5ab2a406c4f7fcbb82f0fc5c",
+  "verified_on": "2026-10-18",
+  "process_audio_disabled": true,
+  "direct_link": {
+    "passed": true,
+    "url": "https://staging.universalmind.tv/informatics/?atlas=1&record=fibonacci-m27-p72#alpha",
+    "results": [
+      {
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "direct_alpha_link": true,
+        "original_alignment": true,
+        "repeated_cycles": 3,
+        "native_fullscreen_invoked": false,
+        "process_audio_disabled": true,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "direct_alpha_link": true,
+        "original_alignment": true,
+        "repeated_cycles": 3,
+        "native_fullscreen_invoked": false,
+        "process_audio_disabled": true,
+        "errors": []
+      }
+    ]
+  },
+  "arithmetic_checks": {
+    "whole_integer_fibonacci_family_members": 111,
+    "sequences_per_family_record": 4,
+    "current_published_family_records": 5,
+    "native_data_and_images_preserved": true,
+    "epsilon_cycle_and_native_assessments_separate": true,
+    "json_csv_zip_consistent": true,
+    "checker": "tools/check-informatics-family-projection.py"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "checkedAt": "2026-10-21T23:15:55.823643+00:00",
+  "sourceCommit": "d638233ac5045cb1a4450cfd995c492fc979d30d",
+  "productionBaselineCommit": "93e74a360654d8ff3c9baa09f548d82d8284c661",
+  "passed": true,
+  "results": [
+    {
+      "environment": "staging",
+      "file": "library.html",
+      "url": "https://staging.universalmind.tv/informatics/library.html?verify=d638233a",
+      "status": 200,
+      "sha256": "9bff48152d7321e5a7f1e0c9000a173c052e1e8f99aa35e60878579b3ef7f56c",
+      "matchesExpectedCommit": true,
+      "error": null
+    },
+    {
+      "environment": "staging",
+      "file": "library.css",
+      "url": "https://staging.universalmind.tv/informatics/library.css?verify=d638233a",
+      "status": 200,
+      "sha256": "4604066ea9a35b9bca06101ca1dd271bd5f517714b66642f85ca8fe4aaf6d533",
+      "matchesExpectedCommit": true,
+      "error": null
+    },
+    {
+      "environment": "staging",
+      "file": "library.js",
+      "url": "https://staging.universalmind.tv/informatics/library.js?verify=d638233a",
+      "status": 200,
+      "sha256": "df0e6fc2ff0757bc6a099f8a4e475b468590409c4f96145a36c98a27abeb5e0c",
+      "matchesExpectedCommit": true,
+      "error": null
+    },
+    {
+      "environment": "production",
+      "file": "library.html",
+      "url": "https://universalmind.tv/informatics/library.html?verify=d638233a",
+      "status": 200,
+      "sha256": "bca5089edad89c787331a0005eb5f72bb376deb3a64697c3aa188cd8621a891f",
+      "matchesExpectedCommit": true,
+      "error": null
+    },
+    {
+      "environment": "production",
+      "file": "library.css",
+      "url": "https://universalmind.tv/informatics/library.css?verify=d638233a",
+      "status": 200,
+      "sha256": "9b54f26452bfb6a40cb072db8936a6d929c45663632cadba88429ea4da18ea6f",
+      "matchesExpectedCommit": true,
+      "error": null
+    },
+    {
+      "environment": "production",
+      "file": "library.js",
+      "url": "https://universalmind.tv/informatics/library.js?verify=d638233a",
+      "status": 200,
+      "sha256": "4582ac62d80a296b73f2d2157078b9d590262a3efc80717a8b778c2acb0d7181",
+      "matchesExpectedCommit": true,
+      "error": null
+    }
+  ]
+}

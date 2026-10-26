@@ -1,0 +1,152 @@
+{
+  "url": "https://staging.universalmind.tv/informatics/?about",
+  "sourceCommit": "f87ea36b878cd7a264e44a8c767570026c23d0d5",
+  "processAudioMuted": true,
+  "nativeFullscreen": false,
+  "viewports": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "layout": {
+        "dialogFits": true,
+        "noHorizontalOverflow": true,
+        "documentFits": true,
+        "allMediaPaused": true,
+        "fullscreen": false
+      },
+      "copyExact": true,
+      "keyboardEnterAndTab": true,
+      "closeButtonBackEscapeAndBackdrop": true,
+      "focusAndScrollRestored": true,
+      "aboutDeepLink": true,
+      "libraryLinksRetained": true,
+      "activeResearchPreserved": true,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "layout": {
+        "dialogFits": true,
+        "noHorizontalOverflow": true,
+        "documentFits": true,
+        "allMediaPaused": true,
+        "fullscreen": false
+      },
+      "copyExact": true,
+      "keyboardEnterAndTab": true,
+      "closeButtonBackEscapeAndBackdrop": true,
+      "focusAndScrollRestored": true,
+      "aboutDeepLink": true,
+      "libraryLinksRetained": true,
+      "activeResearchPreserved": null,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "layout": {
+        "dialogFits": true,
+        "noHorizontalOverflow": true,
+        "documentFits": true,
+        "allMediaPaused": true,
+        "fullscreen": false
+      },
+      "copyExact": true,
+      "keyboardEnterAndTab": true,
+      "closeButtonBackEscapeAndBackdrop": true,
+      "focusAndScrollRestored": true,
+      "aboutDeepLink": true,
+      "libraryLinksRetained": true,
+      "activeResearchPreserved": true,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "layout": {
+        "dialogFits": true,
+        "noHorizontalOverflow": true,
+        "documentFits": true,
+        "allMediaPaused": true,
+        "fullscreen": false
+      },
+      "copyExact": true,
+      "keyboardEnterAndTab": true,
+      "closeButtonBackEscapeAndBackdrop": true,
+      "focusAndScrollRestored": true,
+      "aboutDeepLink": true,
+      "libraryLinksRetained": true,
+      "activeResearchPreserved": null,
+      "errors": []
+    }
+  ],
+  "assets": [
+    {
+      "name": "index.html",
+      "status": 200,
+      "sha256": "e017e05abc8442b906c7a53d1d670a422bf51bd03519dfd558aa811f8f6983a0",
+      "matchesLocal": true
+    },
+    {
+      "name": "style.css",
+      "status": 200,
+      "sha256": "37fbbfe43a8897bda00bd061aa196cb7cf8f777983b9400f38de0e5d88912cf9",
+      "matchesLocal": true
+    },
+    {
+      "name": "app.js",
+      "status": 200,
+      "sha256": "f9999e33bb659137932bbfad78a7b5396deda101e7489a85f94d35d52d8df3e0",
+      "matchesLocal": true
+    },
+    {
+      "name": "library.js",
+      "status": 200,
+      "sha256": "d2074dd84d1eca6b55825263de22cd268580fcde15ea4f98072e82b71cb15edb",
+      "matchesLocal": true
+    },
+    {
+      "name": "library-data/library.json",
+      "status": 200,
+      "sha256": "4a87b4f7fe0e8451514249b30d87ddadcb2e61b2ccdc9be3e529886623872ac9",
+      "matchesLocal": true
+    },
+    {
+      "name": "library-data/language-edition.json",
+      "status": 200,
+      "sha256": "0b86ca6658f780949554f335078e0c8804ee99941fe980fbb20a0668a636b0b1",
+      "matchesLocal": true
+    }
+  ],
+  "verifiedAt": "2026-10-23T09:51:05.918Z",
+  "productionModified": false,
+  "baseStagingCommit": "8c0750c6d6350a1990d9eba43f78d8d13a896f0e",
+  "productionGitRef": "40a7f4d6cb4c108b9a7802f509d7137f465ddff5",
+  "changedUploads": [
+    "Informatics/style.css",
+    "Informatics/app.js",
+    "Informatics/index.html"
+  ],
+  "visuallyInspected": [
+    "about-focus-1470.png",
+    "about-focus-390.png",
+    "lightbox-1470.png",
+    "lightbox-320.png"
+  ],
+  "coordination": {
+    "threadId": "01a15d06-4ecd-75c1-93db-a2a274fb14ea",
+    "separateCheckout": true,
+    "peerConfirmedNoDeployment": true,
+    "libraryAssetsMatch": true
+  },
+  "keyboardVerification": "Native modal tab navigation, blocked background focus, Enter activation, Escape close, and return focus passed. Browser chrome remains available through native tab navigation."
+}

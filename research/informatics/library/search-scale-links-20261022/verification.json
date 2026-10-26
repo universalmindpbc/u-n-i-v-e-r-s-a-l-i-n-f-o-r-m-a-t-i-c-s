@@ -1,0 +1,227 @@
+{
+  "verifiedAt": "2026-10-21T19:40:36.665937+00:00",
+  "url": "https://staging.universalmind.tv/informatics/library.html",
+  "sourceCommit": "8f83790dcca9f7b735b507db6299c87c2701e168",
+  "productionCommitUnchanged": "636bfa9ae41efe036b2cccac0827c724edfde92b",
+  "scope": "Collection totals, Sound chapter/subchapter counts, visible advanced filters, blinded randomized-trial filters and publication-link repair. Shared navigation retained.",
+  "searchBrowser": {
+    "results": [
+      {
+        "width": 1470,
+        "stats": {
+          "sound": {
+            "papers": 284,
+            "journals": 145,
+            "citations": 24691
+          },
+          "vision": {
+            "papers": 65,
+            "journals": 36,
+            "citations": 2290
+          },
+          "language": {
+            "papers": 315,
+            "journals": 171,
+            "citations": 9874
+          },
+          "all": {
+            "papers": 651,
+            "journals": 306,
+            "citations": 36582
+          }
+        },
+        "status": "passed"
+      },
+      {
+        "width": 390,
+        "stats": {
+          "sound": {
+            "papers": 284,
+            "journals": 145,
+            "citations": 24691
+          },
+          "vision": {
+            "papers": 65,
+            "journals": 36,
+            "citations": 2290
+          },
+          "language": {
+            "papers": 315,
+            "journals": 171,
+            "citations": 9874
+          },
+          "all": {
+            "papers": 651,
+            "journals": 306,
+            "citations": 36582
+          }
+        },
+        "status": "passed"
+      },
+      {
+        "width": 320,
+        "stats": {
+          "sound": {
+            "papers": 284,
+            "journals": 145,
+            "citations": 24691
+          },
+          "vision": {
+            "papers": 65,
+            "journals": 36,
+            "citations": 2290
+          },
+          "language": {
+            "papers": 315,
+            "journals": 171,
+            "citations": 9874
+          },
+          "all": {
+            "papers": 651,
+            "journals": 306,
+            "citations": 36582
+          }
+        },
+        "status": "passed"
+      }
+    ],
+    "errors": [],
+    "muted": true
+  },
+  "narrativeBrowser": {
+    "checkedAt": "2026-10-21T19:38:05.784Z",
+    "candidate": false,
+    "processAudioDisabled": true,
+    "results": [
+      {
+        "viewport": {
+          "width": 1470,
+          "height": 956
+        },
+        "status": "passed"
+      },
+      {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "status": "passed"
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "status": "passed"
+      },
+      {
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "status": "passed"
+      },
+      {
+        "navigation": "direct and embedded menu routes, About, focus, media preservation",
+        "status": "passed"
+      }
+    ],
+    "errors": []
+  },
+  "assetParity": [
+    {
+      "path": "library.html",
+      "url": "https://staging.universalmind.tv/informatics/library.html",
+      "status": 200,
+      "sha256": "a53b6b66e1f079438ffc2a719cc4edaa6899caf8b58be65e8281bbb404df7419",
+      "bytes": 6817,
+      "matches": true
+    },
+    {
+      "path": "library.js",
+      "url": "https://staging.universalmind.tv/informatics/library.js",
+      "status": 200,
+      "sha256": "28bbfb92b0e2b0a6789b689e57c66149912ca5ba065f6548c259d7779cc2ce9a",
+      "bytes": 25308,
+      "matches": true
+    },
+    {
+      "path": "library.css",
+      "url": "https://staging.universalmind.tv/informatics/library.css",
+      "status": 200,
+      "sha256": "e4d8f614162642e3ecc1fe3cdf1832abb56d3e6a51c50838faa152d706f75b8a",
+      "bytes": 18782,
+      "matches": true
+    },
+    {
+      "path": "library-model.js",
+      "url": "https://staging.universalmind.tv/informatics/library-model.js",
+      "status": 200,
+      "sha256": "82137ad87566cef86fdf1991fe09fc6bbb0adbc3fd57553ad3d7fac8e5ac3984",
+      "bytes": 3629,
+      "matches": true
+    },
+    {
+      "path": "library-data/publication-access.json",
+      "url": "https://staging.universalmind.tv/informatics/library-data/publication-access.json",
+      "status": 200,
+      "sha256": "eda1a19b123e782dba358a0f0078205d54d9c54d5386b687207aa8d0aacc318b",
+      "bytes": 292701,
+      "matches": true
+    },
+    {
+      "path": "global-navigation.js",
+      "url": "https://staging.universalmind.tv/informatics/global-navigation.js",
+      "status": 200,
+      "sha256": "c0dab2f17753f7284ab5049f779c7247c8e02f154b884ef629d4bf52c0379a98",
+      "bytes": 1842,
+      "matches": true
+    },
+    {
+      "path": "library-navigation.js",
+      "url": "https://staging.universalmind.tv/informatics/library-navigation.js",
+      "status": 200,
+      "sha256": "8901b3e870e48664b1a7db9e667c9ca387ed1afc2d5c41591893e0d7a4abf10e",
+      "bytes": 2621,
+      "matches": true
+    }
+  ],
+  "linkAudit": {
+    "records": 833,
+    "distinctUrlsChecked": 2542,
+    "primaryLinksChanged": 417,
+    "statuses": {
+      "http-accessible": 503,
+      "indexed-access-restricted": 211,
+      "access-restricted": 62,
+      "unconfirmed": 11,
+      "archived-original": 21,
+      "manually-located": 20,
+      "dead-link": 5
+    },
+    "publishedRecords": {
+      "recordsBeforePublicationDeduplication": 654,
+      "primaryLinksChanged": 359,
+      "statuses": {
+        "http-accessible": 405,
+        "indexed-access-restricted": 170,
+        "access-restricted": 38,
+        "archived-original": 21,
+        "manually-located": 20
+      }
+    }
+  },
+  "linkAuditLimits": "Publisher restrictions, captcha responses and intermittent external errors remain documented. Located DOI/PMID records and manually confirmed publication pages are distinct from successful unrestricted HTTP checks. No assertion of universal full-text availability.",
+  "preservation": {
+    "originalSoundQuotations": true,
+    "originalMedicalCrossTrustScores": true,
+    "unaccountedSoundEntries": 0
+  },
+  "citationTotals": "Historical recorded counts; duplicates count once, missing values stay unknown. Journal totals include identified journals only.",
+  "browserSafety": {
+    "processMuteAudioConfirmed": true,
+    "allBrowserContextsClosed": true,
+    "nativeFullscreenUsed": false
+  },
+  "modelTests": "Passed count parsing, missing/zero counts, duplicate identities, manual duplicate groups, distinct same-title records and blinded-trial matching."
+}

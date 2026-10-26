@@ -1,0 +1,115 @@
+{
+  "passed": true,
+  "candidate": false,
+  "checkedAt": "2026-10-21T06:46:23.625Z",
+  "base": "https://staging.universalmind.tv/informatics/",
+  "processMuted": true,
+  "records": 833,
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "searchAndFilters": true,
+      "threeCollections": true,
+      "sourceReaderPages": 236,
+      "recordPermalink": true,
+      "jsonExport": true,
+      "focusRestored": true,
+      "networkTargets": 13,
+      "activeExperiencePreserved": true,
+      "media": {
+        "same": true,
+        "advanced": true,
+        "paused": false,
+        "events": []
+      },
+      "nativeFullscreen": false,
+      "errors": []
+    },
+    {
+      "unavailableStateAndRetry": true,
+      "noFallbackData": true
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "searchAndFilters": true,
+      "threeCollections": true,
+      "sourceReaderPages": 236,
+      "recordPermalink": true,
+      "jsonExport": true,
+      "focusRestored": true,
+      "networkTargets": 13,
+      "activeExperiencePreserved": true,
+      "media": {
+        "same": true,
+        "advanced": true,
+        "paused": false,
+        "events": []
+      },
+      "nativeFullscreen": false,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "searchAndFilters": true,
+      "threeCollections": true,
+      "sourceReaderPages": 236,
+      "recordPermalink": true,
+      "jsonExport": true,
+      "focusRestored": true,
+      "networkTargets": 13,
+      "activeExperiencePreserved": true,
+      "media": {
+        "same": true,
+        "advanced": true,
+        "paused": false,
+        "events": []
+      },
+      "nativeFullscreen": false,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "searchAndFilters": true,
+      "threeCollections": true,
+      "sourceReaderPages": 236,
+      "recordPermalink": true,
+      "jsonExport": true,
+      "focusRestored": true,
+      "networkTargets": 13,
+      "activeExperiencePreserved": true,
+      "media": {
+        "same": true,
+        "advanced": true,
+        "paused": false,
+        "events": []
+      },
+      "nativeFullscreen": false,
+      "errors": []
+    }
+  ],
+  "sourceCommit": "f3507f917c6dffc09454319e69124836feff109f",
+  "deployment": {
+    "workflow": "deploy-panthur-staging.sh informatics",
+    "changedAssets": 38,
+    "preflights": "All configured staging preflights passed with the supported hash-checked external shop media fixture.",
+    "productionModified": false
+  },
+  "proofURLs": [
+    "https://staging.universalmind.tv/informatics/?about=1",
+    "https://staging.universalmind.tv/informatics/library.html?collection=sound",
+    "https://staging.universalmind.tv/informatics/library.html?collection=vision",
+    "https://staging.universalmind.tv/informatics/library.html?collection=language"
+  ]
+}

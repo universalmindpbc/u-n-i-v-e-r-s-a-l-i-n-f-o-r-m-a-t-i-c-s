@@ -1,0 +1,15 @@
+{
+  "name": "universal-molecular-atlas",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "esbuild viewer.js --bundle --minify --format=iife --global-name=MolecularEngine --outfile=../../../Informatics/molecular/vendor/engine.js --legal-comments=eof"
+  },
+  "dependencies": {
+    "molstar": "5.13.1"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.12"
+  }
+}

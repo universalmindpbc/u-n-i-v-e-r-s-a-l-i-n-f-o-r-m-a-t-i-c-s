@@ -1,0 +1,4 @@
+Informatics: 11270 tracked assets; 14 changed uploads via Panthur FTP.
+Informatics: uploaded 14/14 changed assets.
+Informatics: completed changed uploads through the existing Panthur curl/FTP transport.
+Deploy complete: informatics

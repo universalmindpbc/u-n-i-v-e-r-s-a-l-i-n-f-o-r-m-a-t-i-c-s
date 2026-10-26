@@ -1,0 +1,5 @@
+﻿a,b,relationship,basis
+literature:TFBS014,literature:TFBS013,same_reported_element,Both reports investigate US-2; the later reporter record retains its own assay context.
+literature:TFBS007,literature:TFBS006,reported_subregion,The later -712 to -692 region is inside the earlier -851 to -656 region under the reported promoter numbering; genomic anchor remains unresolved.
+literature:TFBS011,literature:TFBS010,distinct_elements_in_shared_region,"Two cooperating elements in the -85 to -65 regulatory region; preserve both, not duplicates."
+literature:TFBS043,oreganno:OREG1492306,annotation_reused,The paper cites this existing annotation; not a new independent experiment.

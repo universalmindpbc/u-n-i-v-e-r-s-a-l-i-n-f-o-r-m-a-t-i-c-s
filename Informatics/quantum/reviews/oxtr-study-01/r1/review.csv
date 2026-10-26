@@ -1,0 +1,342 @@
+﻿field,type,value,escaped
+,object,,0
+/schema,string,universal-informatics/scientific-review-display/v1,0
+/study_id,string,oxtr-qrc-01,0
+/review_status,string,retrospective_model_review_complete,0
+/plain_language_finding,string,"Gemini accepted Astra’s report: this pilot found no clear improvement in OXTR binding predictions from Fibonacci spacing and Phi Ratio. A larger prediction test is still needed for the Alpha, Beta, Gamma and Epsilon quantum responses.",0
+/scope,string,"Scientific interpretation review by a second model. This is not independent experimental reproduction, a biological validation or a statistical confidence score.",0
+/study_files,array,,0
+/study_files/0,object,,0
+/study_files/0/path,string,experiments/oxtr-agent-follow-through-pilot/r1/experiment.json,0
+/study_files/0/sha256,string,adc1914cac349c28afc5f4d8c72dbddf80f38063ab1bef3e93e21cea8d415876,0
+/study_files/1,object,,0
+/study_files/1/path,string,experiments/oxtr-qrc-01-qualification/r1/experiment.json,0
+/study_files/1/sha256,string,ea623488ca7bbd06b79a83cbace4b6f50260d820ea8e2ea6bb667a4753e1afd0,0
+/reviews,object,,0
+/reviews/design,object,,0
+/reviews/design/decision,string,approve,0
+/reviews/design/summary,string,"Astra's retrospective audit design and proposed next test for Fibonacci, Phi Ratio, and M9 P24 Alpha/Beta/Gamma/Epsilon features around OXTR are scientifically sound. The plan properly separates the two-window quantum measurement qualification from the 152-window classical prediction pilot, incorporates ordinary, shuffled, and classical motif controls, prevents spatial data leakage by grouping adjacent genomic windows, and stays within budget authority while explicitly welcoming null findings.",0
+/reviews/design/checks,array,,0
+/reviews/design/checks/0,object,,0
+/reviews/design/checks/0/claim,string,"Explicit inclusion of Fibonacci, Phi Ratio, and M9 P24 Alpha/Beta/Gamma/Epsilon hypotheses",0
+/reviews/design/checks/0/finding,string,"The question and hypotheses explicitly retain regular Fibonacci sequences, Phi Ratio, and M9 P24 Alpha/Beta/Gamma/Epsilon responses as candidate features for transcription factor binding prediction around OXTR.",0
+/reviews/design/checks/0/evidence,array,,0
+/reviews/design/checks/0/evidence/0,string,plan.question,0
+/reviews/design/checks/0/evidence/1,string,plan.hypotheses,0
+/reviews/design/checks/0/status,string,pass,0
+/reviews/design/checks/1,object,,0
+/reviews/design/checks/1/claim,string,"Separation of quantum measurement qualification, coherence lifetime, and biological prediction",0
+/reviews/design/checks/1/finding,string,"The design explicitly states that the two-window 16-run quantum batch only qualifies measurements and does not evaluate biological prediction or coherence lifetime, keeping the 152-window classical test distinct.",0
+/reviews/design/checks/1/evidence,array,,0
+/reviews/design/checks/1/evidence/0,string,plan.current_evidence_boundary,0
+/reviews/design/checks/1/status,string,pass,0
+/reviews/design/checks/2,object,,0
+/reviews/design/checks/2/claim,string,Control baselines and leakage prevention,0
+/reviews/design/checks/2/finding,string,"The design includes ordinary DNA inputs, shuffled input controls, and a classical motif baseline, and specifies partitioning adjacent genomic windows together with frozen representations to prevent spatial leakage.",0
+/reviews/design/checks/2/evidence,array,,0
+/reviews/design/checks/2/evidence/0,string,plan.controls,0
+/reviews/design/checks/2/evidence/1,string,plan.next_test,0
+/reviews/design/checks/2/status,string,pass,0
+/reviews/design/checks/3,object,,0
+/reviews/design/checks/3/claim,string,"Uncertainty, null findings, and budget authority",0
+/reviews/design/checks/3/finding,string,"The plan requires uncertainty quantification on independent test regions, treats null findings as reportable, and requests no new paid Aquila or GPU jobs.",0
+/reviews/design/checks/3/evidence,array,,0
+/reviews/design/checks/3/evidence/0,string,plan.authority,0
+/reviews/design/checks/3/evidence/1,string,plan.success,0
+/reviews/design/checks/3/evidence/2,string,evidence.record_sha256,0
+/reviews/design/checks/3/status,string,pass,0
+/reviews/design/required_changes,array,,0
+/reviews/design/provider,string,google,0
+/reviews/design/model,string,gemini-4-argon,0
+/reviews/design/provider_response_id,string,1JXeapfZLrLP1e8PzJXQIQ,0
+/reviews/design/evidence_sha256,string,74aa308fd4b7c48694c49779f46329726cdd9d98df3c4ebf9d5f5bf96b99b056,0
+/reviews/design/usage,object,,0
+/reviews/design/usage/promptTokenCount,number,1151,0
+/reviews/design/usage/candidatesTokenCount,number,436,0
+/reviews/design/usage/totalTokenCount,number,1587,0
+/reviews/design/usage/promptTokensDetails,array,,0
+/reviews/design/usage/promptTokensDetails/0,object,,0
+/reviews/design/usage/promptTokensDetails/0/modality,string,TEXT,0
+/reviews/design/usage/promptTokensDetails/0/tokenCount,number,1151,0
+/reviews/design/usage/candidatesTokensDetails,array,,0
+/reviews/design/usage/candidatesTokensDetails/0,object,,0
+/reviews/design/usage/candidatesTokensDetails/0/modality,string,TEXT,0
+/reviews/design/usage/candidatesTokensDetails/0/tokenCount,number,436,0
+/reviews/design/reserved_micro_usd,number,183048,0
+/reviews/design/reviewed_at,string,2026-10-25T23:50:52.494129+00:00,0
+/reviews/design/duration_seconds,number,8.251,0
+/reviews/final,object,,0
+/reviews/final/decision,string,approve,0
+/reviews/final/summary,string,"The retrospective report accurately interprets the OXTR pilot metrics and local program checks. It properly separates chromosome-split training from chromosome 3 evaluation, reports the inconclusive block-bootstrap interval for Fibonacci and Phi Ratio features, and notes that M9 P24 Alpha, Beta, Gamma, and Epsilon were not tested for classical biological prediction. It also clearly distinguishes local numerical compilation and reused Aquila excitation data from predictive biological validation.",0
+/reviews/final/checks,array,,0
+/reviews/final/checks/0,object,,0
+/reviews/final/checks/0/claim,string,"Adding Fibonacci and Phi Ratio features yielded an inconclusive OXTR CTCF binding prediction result, while M9 P24 Alpha, Beta, Gamma, and Epsilon were not tested in the classical predictor.",0
+/reviews/final/checks/0/finding,string,"Average precision on the 152 OXTR windows changed from 0.0719 to 0.0739 (difference +0.00199), with a 95% block-bootstrap interval of [-0.0263, +0.0082] spanning zero. The classical model only compared ordinary motif/spacing against Fibonacci and Phi Ratio features.",0
+/reviews/final/checks/0/evidence,array,,0
+/reviews/final/checks/0/evidence/0,string,difference_average_precision: 0.0019879267780844173,0
+/reviews/final/checks/0/evidence/1,string,"block_bootstrap_95_interval: [-0.026260195602900528, 0.008181524055569506]",0
+/reviews/final/checks/0/evidence/2,string,verdict: inconclusive,0
+/reviews/final/checks/0/status,string,pass,0
+/reviews/final/checks/1,object,,0
+/reviews/final/checks/1/claim,string,"Data leakage was prevented by freezing selection and splitting by chromosome, while noting assay quality and sample size limits.",0
+/reviews/final/checks/1/finding,string,"Learning used chr1 (64 windows), model selection used chr2 (64 windows), and evaluation used chr3 OXTR (152 windows, 8 peak windows overlapping 5 peak regions) once. ENCODE assay ENCSR932ZMX quality warnings and lack of accessibility-matched controls are properly disclosed.",0
+/reviews/final/checks/1/evidence,array,,0
+/reviews/final/checks/1/evidence/0,string,selection_frozen_before_scores: true,0
+/reviews/final/checks/1/evidence/1,string,"OXTR test: windows 152, peak_windows 8",0
+/reviews/final/checks/1/evidence/2,string,"qc: Antibody characterization exemption, Low read depth, Bottlenecking and library complexity warnings",0
+/reviews/final/checks/1/status,string,pass,0
+/reviews/final/checks/2,object,,0
+/reviews/final/checks/2/claim,string,Quantum measurements and local CUDA-Q checks do not evaluate OXTR binding prediction.,0
+/reviews/final/checks/2/finding,string,"The 16 local cases (2 windows across ordinary, Fibonacci, Phi Ratio, M9 P24 Alpha, Beta, Gamma, Epsilon, and shuffled representations) verify numerical compilation (max implementation error <= 1.59e-14). Reused Aquila data do not overlap the five CTCF peaks, and no new paid quantum jobs were run.",0
+/reviews/final/checks/2/evidence,array,,0
+/reviews/final/checks/2/evidence/0,string,quantum_prediction_status: Not evaluated,0
+/reviews/final/checks/2/evidence/1,string,new_Aquila_USD: 0,0
+/reviews/final/checks/2/evidence/2,string,new_qBraid_credits: 0,0
+/reviews/final/checks/2/status,string,not_tested,0
+/reviews/final/required_changes,array,,0
+/reviews/final/provider,string,google,0
+/reviews/final/model,string,gemini-4-argon,0
+/reviews/final/provider_response_id,string,X5_eavitJfy0vr0Plb25IA,0
+/reviews/final/evidence_sha256,string,61c7b7072feb8090fec94d21b9664f36ac7347de50075801dbbfb271c11520b1,0
+/reviews/final/usage,object,,0
+/reviews/final/usage/promptTokenCount,number,4940,0
+/reviews/final/usage/candidatesTokenCount,number,645,0
+/reviews/final/usage/totalTokenCount,number,5585,0
+/reviews/final/usage/promptTokensDetails,array,,0
+/reviews/final/usage/promptTokensDetails/0,object,,0
+/reviews/final/usage/promptTokensDetails/0/modality,string,TEXT,0
+/reviews/final/usage/promptTokensDetails/0/tokenCount,number,4940,0
+/reviews/final/usage/candidatesTokensDetails,array,,0
+/reviews/final/usage/candidatesTokensDetails/0,object,,0
+/reviews/final/usage/candidatesTokensDetails/0/modality,string,TEXT,0
+/reviews/final/usage/candidatesTokensDetails/0/tokenCount,number,645,0
+/reviews/final/reserved_micro_usd,number,72512,0
+/reviews/final/reviewed_at,string,2026-10-26T00:31:37.081299+00:00,0
+/reviews/final/duration_seconds,number,10.183,0
+/review_inputs,object,,0
+/review_inputs/design,object,,0
+/review_inputs/design/question,string,"Do regular Fibonacci sequences, M9 P24 including Alpha, Beta, Gamma and Epsilon, and Phi Ratio help predict transcription factor binding around OXTR?",0
+/review_inputs/design/plan,object,,0
+/review_inputs/design/plan/scope,string,Retrospective audit of completed public OXTR work; no new jobs.,0
+/review_inputs/design/plan/question,string,"Do regular Fibonacci sequences, M9 P24 including Alpha, Beta, Gamma and Epsilon, and Phi Ratio help predict transcription factor binding around OXTR?",0
+/review_inputs/design/plan/hypotheses,array,,0
+/review_inputs/design/plan/hypotheses/0,string,Fibonacci and Phi Ratio may improve occupancy prediction,0
+/review_inputs/design/plan/hypotheses/1,string,M9 P24 Alpha/Beta/Gamma/Epsilon responses are candidate future predictive features,0
+/review_inputs/design/plan/controls,array,,0
+/review_inputs/design/plan/controls/0,string,Ordinary DNA inputs,0
+/review_inputs/design/plan/controls/1,string,Shuffled input control,0
+/review_inputs/design/plan/controls/2,string,Classical motif baseline,0
+/review_inputs/design/plan/current_evidence_boundary,string,The two-window 16-run quantum batch qualifies measurements. It does not evaluate biological prediction or coherence lifetime. The later 152-window classical OXTR test is a separate pilot.,0
+/review_inputs/design/plan/next_test,string,"Prespecify more labelled genomic windows, partition adjacent windows together, freeze all representations and model selection, then compare held-out prediction against ordinary and shuffled controls.",0
+/review_inputs/design/plan/authority,object,,0
+/review_inputs/design/plan/authority/new_Aquila_jobs,boolean,false,0
+/review_inputs/design/plan/authority/new_paid_GPU_jobs,boolean,false,0
+/review_inputs/design/plan/success,string,Improvement on independent biological test regions with uncertainty and matched baselines; null findings remain reportable.,0
+/review_inputs/design/evidence,object,,0
+/review_inputs/design/evidence/record_sha256,string,fec93e37a37c7594913c76bc7cf18ad338e74dbb7ba9668ec37bcf9dd8f2ec92,0
+/review_inputs/design/evidence/source,string,https://universalmind.tv/informatics/quantum/experiments/oxtr-agent-follow-through-pilot/r1/experiment.json,0
+/review_inputs/final,object,,0
+/review_inputs/final/scope,string,"Review the interpretation of this exact published OXTR report against the supplied method, metrics and recorded program checks. This is retrospective model review, not independent reproduction. Use two or three concise checks. Return fewer than 350 words.",0
+/review_inputs/final/archive_sha256,string,adc1914cac349c28afc5f4d8c72dbddf80f38063ab1bef3e93e21cea8d415876,0
+/review_inputs/final/question,string,"Do regular Fibonacci sequences, M9 P24 including Alpha, Beta, Gamma and Epsilon, and Phi Ratio help predict transcription factor binding around OXTR?",0
+/review_inputs/final/cohort,object,,0
+/review_inputs/final/cohort/version,string,oxtr-follow-through-v1,0
+/review_inputs/final/cohort/analysis_code_sha256,string,9a40f5fd28523e40421217534b71e8ddc7ef8bdaf17fd83d0f288376723c7818,0
+/review_inputs/final/cohort/assay,string,ENCSR932ZMX,0
+/review_inputs/final/cohort/factor,string,CTCF,0
+/review_inputs/final/cohort/cell,string,GM23338 iPSCs,0
+/review_inputs/final/cohort/assembly,string,GRCh38,0
+/review_inputs/final/cohort/sampling,string,"32 peak-centred and 32 nearby non-peak windows per development chromosome; all 152 fixed OXTR windows for evaluation. Non-peak means no peak reported in this assay, not proven absence.",0
+/review_inputs/final/cohort/qc,array,,0
+/review_inputs/final/cohort/qc/0,string,Antibody characterization exemption,0
+/review_inputs/final/cohort/qc/1,string,Low read depth,0
+/review_inputs/final/cohort/qc/2,string,Bottlenecking and library complexity warnings,0
+/review_inputs/final/cohort/sources,array,,0
+/review_inputs/final/cohort/sources/0,object,,0
+/review_inputs/final/cohort/sources/0/kind,string,GRCh38 DNA,0
+/review_inputs/final/cohort/sources/0/sha256,string,7394b02ddb3664b93adb468a1c75f56c41adda0de9394c30f318ae17f59fd2d2,0
+/review_inputs/final/cohort/sources/0/source,string,https://api.genome.ucsc.edu/getData/sequence,0
+/review_inputs/final/cohort/sources/1,object,,0
+/review_inputs/final/cohort/sources/1/kind,string,ENCODE peaks,0
+/review_inputs/final/cohort/sources/1/sha256,string,ee5624447f4852f48ddf34c03a7d41c5ec7ebf9e86e7c0b93888eb6ad483ec68,0
+/review_inputs/final/cohort/sources/1/source,string,https://www.encodeproject.org/files/ENCFF651DQL/,0
+/review_inputs/final/cohort/sources/2,object,,0
+/review_inputs/final/cohort/sources/2/kind,string,JASPAR motif library,0
+/review_inputs/final/cohort/sources/2/sha256,string,4005b5449ba07d9b58495f51143186e7e3959efd0ad670770fbddf57bf941e8f,0
+/review_inputs/final/cohort/sources/2/source,string,https://jaspar.elixir.no/matrix/MA0139.2/,0
+/review_inputs/final/cohort/sources/3,object,,0
+/review_inputs/final/cohort/sources/3/kind,string,GRCh38 DNA chr1,0
+/review_inputs/final/cohort/sources/3/sha256,string,75d5ec59de19ef4832475f26d18060e722371b3adf6f846f7df988c9e324f4ad,0
+/review_inputs/final/cohort/sources/3/source,string,https://api.genome.ucsc.edu/getData/sequence?genome=hg38;chrom=chr1;start=10032536;end=10708035,0
+/review_inputs/final/cohort/sources/4,object,,0
+/review_inputs/final/cohort/sources/4/kind,string,GRCh38 DNA chr2,0
+/review_inputs/final/cohort/sources/4/sha256,string,e2e8c1ba5faa8cda35dd35ff8efde4cbf4399660f7ab049662430d328e914670,0
+/review_inputs/final/cohort/sources/4/source,string,https://api.genome.ucsc.edu/getData/sequence?genome=hg38;chrom=chr2;start=10020094;end=10310877,0
+/review_inputs/final/cohort/selection_frozen_before_scores,boolean,true,0
+/review_inputs/final/cohort/model_selection,string,"Use chr1 for learning, chr2 to choose a fixed candidate, then evaluate chr3/OXTR once. No OXTR labels enter fitting or candidate selection.",0
+/review_inputs/final/cohort/primary_measure,string,Average precision: how often regions ranked as likely binding regions match the laboratory peak map.,0
+/review_inputs/final/cohort/limits,array,,0
+/review_inputs/final/cohort/limits/0,string,"Small pilot with five OXTR peak regions; descriptive results, not an independent confirmation.",0
+/review_inputs/final/cohort/limits/1,string,Local background selection and one cell context limit generalisation.,0
+/review_inputs/final/cohort/limits/2,string,No accessibility-matched negative set or ENCODE blacklist filtering in this pilot.,0
+/review_inputs/final/cohort/limits/3,string,Additional hardware and population-wide inference are outside this task.,0
+/review_inputs/final/analysis,object,,0
+/review_inputs/final/analysis/version,string,oxtr-follow-through-v1,0
+/review_inputs/final/analysis/counts,object,,0
+/review_inputs/final/analysis/counts/development,object,,0
+/review_inputs/final/analysis/counts/development/windows,number,64,0
+/review_inputs/final/analysis/counts/development/peak_windows,number,32,0
+/review_inputs/final/analysis/counts/validation,object,,0
+/review_inputs/final/analysis/counts/validation/windows,number,64,0
+/review_inputs/final/analysis/counts/validation/peak_windows,number,32,0
+/review_inputs/final/analysis/counts/OXTR test,object,,0
+/review_inputs/final/analysis/counts/OXTR test/windows,number,152,0
+/review_inputs/final/analysis/counts/OXTR test/peak_windows,number,8,0
+/review_inputs/final/analysis/difference_average_precision,number,0.0019879267780844173,0
+/review_inputs/final/analysis/block_bootstrap_95_interval,array,,0
+/review_inputs/final/analysis/block_bootstrap_95_interval/0,number,'-0.026260195602900528,1
+/review_inputs/final/analysis/block_bootstrap_95_interval/1,number,0.008181524055569506,0
+/review_inputs/final/analysis/bootstrap_valid_replicates,number,999,0
+/review_inputs/final/analysis/verdict,string,inconclusive,0
+/review_inputs/final/analysis/positive_result_rule,string,The added features improve average precision and the block-resampled interval remains above zero. This small pilot still needs a fresh independent dataset.,0
+/review_inputs/final/analysis/negative_result_rule,string,An interval below zero is discouraging for this recipe; an interval spanning zero leaves benefit unresolved.,0
+/review_inputs/final/analysis/test_prevalence,number,0.05263157894736842,0
+/review_inputs/final/analysis/limits,array,,0
+/review_inputs/final/analysis/limits/0,string,"Small pilot with five OXTR peak regions; descriptive results, not an independent confirmation.",0
+/review_inputs/final/analysis/limits/1,string,Local background selection and one cell context limit generalisation.,0
+/review_inputs/final/analysis/limits/2,string,No accessibility-matched negative set or ENCODE blacklist filtering in this pilot.,0
+/review_inputs/final/analysis/limits/3,string,Additional hardware and population-wide inference are outside this task.,0
+/review_inputs/final/analysis/quantum_prediction_status,string,Not evaluated: the two DNA samples with saved Aquila measurements do not overlap the five CTCF peak regions. They cannot train or test a binding predictor.,0
+/review_inputs/final/models,object,,0
+/review_inputs/final/models/ordinary motif and spacing,object,,0
+/review_inputs/final/models/ordinary motif and spacing/selected_model,string,random forest,0
+/review_inputs/final/models/ordinary motif and spacing/validation_average_precision,number,0.9296159815133493,0
+/review_inputs/final/models/ordinary motif and spacing/OXTR_average_precision,number,0.0719144453117206,0
+/review_inputs/final/models/ordinary motif and spacing/OXTR_roc_auc,number,0.5963541666666667,0
+/review_inputs/final/models/with Fibonacci and Phi Ratio,object,,0
+/review_inputs/final/models/with Fibonacci and Phi Ratio/selected_model,string,random forest,0
+/review_inputs/final/models/with Fibonacci and Phi Ratio/validation_average_precision,number,0.9291072679012629,0
+/review_inputs/final/models/with Fibonacci and Phi Ratio/OXTR_average_precision,number,0.07390237208980502,0
+/review_inputs/final/models/with Fibonacci and Phi Ratio/OXTR_roc_auc,number,0.6145833333333334,0
+/review_inputs/final/quantum,object,,0
+/review_inputs/final/quantum/prior,string,Fraction of atoms excited under the programmed pulse; not binding probabilities. All provider measurements here are reused from 25 October 2026.,0
+/review_inputs/final/quantum/local_scope,string,"One reported CTCF peak window and one nearby non-peak window, each prepared eight ways. Local numerical preparation only; two samples cannot establish binding-prediction accuracy.",0
+/review_inputs/final/quantum/cases,array,,0
+/review_inputs/final/quantum/cases/0,object,,0
+/review_inputs/final/quantum/cases/0/sample,string,chr3-8742912-8743168,0
+/review_inputs/final/quantum/cases/0/representation,string,ordinary,0
+/review_inputs/final/quantum/cases/0/reported_CTCF_peak,number,1,0
+/review_inputs/final/quantum/cases/0/max_export_observable_error,number,1.814456321209773e-05,0
+/review_inputs/final/quantum/cases/0/max_implementation_probability_error,number,1.5931700403370996e-14,0
+/review_inputs/final/quantum/cases/1,object,,0
+/review_inputs/final/quantum/cases/1/sample,string,chr3-8742912-8743168,0
+/review_inputs/final/quantum/cases/1/representation,string,fibonacci,0
+/review_inputs/final/quantum/cases/1/reported_CTCF_peak,number,1,0
+/review_inputs/final/quantum/cases/1/max_export_observable_error,number,3.1857500037775824e-05,0
+/review_inputs/final/quantum/cases/1/max_implementation_probability_error,number,1.3572476476042539e-14,0
+/review_inputs/final/quantum/cases/2,object,,0
+/review_inputs/final/quantum/cases/2/sample,string,chr3-8742912-8743168,0
+/review_inputs/final/quantum/cases/2/representation,string,phi,0
+/review_inputs/final/quantum/cases/2/reported_CTCF_peak,number,1,0
+/review_inputs/final/quantum/cases/2/max_export_observable_error,number,3.660459427669349e-05,0
+/review_inputs/final/quantum/cases/2/max_implementation_probability_error,number,1.099120794378905e-14,0
+/review_inputs/final/quantum/cases/3,object,,0
+/review_inputs/final/quantum/cases/3/sample,string,chr3-8742912-8743168,0
+/review_inputs/final/quantum/cases/3/representation,string,alpha,0
+/review_inputs/final/quantum/cases/3/reported_CTCF_peak,number,1,0
+/review_inputs/final/quantum/cases/3/max_export_observable_error,number,2.205868983792095e-05,0
+/review_inputs/final/quantum/cases/3/max_implementation_probability_error,number,1.4932499681208355e-14,0
+/review_inputs/final/quantum/cases/4,object,,0
+/review_inputs/final/quantum/cases/4/sample,string,chr3-8742912-8743168,0
+/review_inputs/final/quantum/cases/4/representation,string,beta,0
+/review_inputs/final/quantum/cases/4/reported_CTCF_peak,number,1,0
+/review_inputs/final/quantum/cases/4/max_export_observable_error,number,8.092851107135886e-06,0
+/review_inputs/final/quantum/cases/4/max_implementation_probability_error,number,1.582067810090848e-14,0
+/review_inputs/final/quantum/cases/5,object,,0
+/review_inputs/final/quantum/cases/5/sample,string,chr3-8742912-8743168,0
+/review_inputs/final/quantum/cases/5/representation,string,gamma,0
+/review_inputs/final/quantum/cases/5/reported_CTCF_peak,number,1,0
+/review_inputs/final/quantum/cases/5/max_export_observable_error,number,1.902762714107814e-05,0
+/review_inputs/final/quantum/cases/5/max_implementation_probability_error,number,9.908740494779522e-15,0
+/review_inputs/final/quantum/cases/6,object,,0
+/review_inputs/final/quantum/cases/6/sample,string,chr3-8742912-8743168,0
+/review_inputs/final/quantum/cases/6/representation,string,epsilon,0
+/review_inputs/final/quantum/cases/6/reported_CTCF_peak,number,1,0
+/review_inputs/final/quantum/cases/6/max_export_observable_error,number,2.3081191080757938e-05,0
+/review_inputs/final/quantum/cases/6/max_implementation_probability_error,number,1.509903313490213e-14,0
+/review_inputs/final/quantum/cases/7,object,,0
+/review_inputs/final/quantum/cases/7/sample,string,chr3-8742912-8743168,0
+/review_inputs/final/quantum/cases/7/representation,string,shuffled,0
+/review_inputs/final/quantum/cases/7/reported_CTCF_peak,number,1,0
+/review_inputs/final/quantum/cases/7/max_export_observable_error,number,1.849196454243218e-05,0
+/review_inputs/final/quantum/cases/7/max_implementation_probability_error,number,1.5765166949677223e-14,0
+/review_inputs/final/quantum/cases/8,object,,0
+/review_inputs/final/quantum/cases/8/sample,string,chr3-8743680-8743936,0
+/review_inputs/final/quantum/cases/8/representation,string,ordinary,0
+/review_inputs/final/quantum/cases/8/reported_CTCF_peak,number,0,0
+/review_inputs/final/quantum/cases/8/max_export_observable_error,number,5.0087001073455354e-05,0
+/review_inputs/final/quantum/cases/8/max_implementation_probability_error,number,5.842548667089886e-15,0
+/review_inputs/final/quantum/cases/9,object,,0
+/review_inputs/final/quantum/cases/9/sample,string,chr3-8743680-8743936,0
+/review_inputs/final/quantum/cases/9/representation,string,fibonacci,0
+/review_inputs/final/quantum/cases/9/reported_CTCF_peak,number,0,0
+/review_inputs/final/quantum/cases/9/max_export_observable_error,number,7.747152541493026e-05,0
+/review_inputs/final/quantum/cases/9/max_implementation_probability_error,number,7.854827899222983e-15,0
+/review_inputs/final/quantum/cases/10,object,,0
+/review_inputs/final/quantum/cases/10/sample,string,chr3-8743680-8743936,0
+/review_inputs/final/quantum/cases/10/representation,string,phi,0
+/review_inputs/final/quantum/cases/10/reported_CTCF_peak,number,0,0
+/review_inputs/final/quantum/cases/10/max_export_observable_error,number,7.747152541493026e-05,0
+/review_inputs/final/quantum/cases/10/max_implementation_probability_error,number,7.854827899222983e-15,0
+/review_inputs/final/quantum/cases/11,object,,0
+/review_inputs/final/quantum/cases/11/sample,string,chr3-8743680-8743936,0
+/review_inputs/final/quantum/cases/11/representation,string,alpha,0
+/review_inputs/final/quantum/cases/11/reported_CTCF_peak,number,0,0
+/review_inputs/final/quantum/cases/11/max_export_observable_error,number,7.548924967765984e-05,0
+/review_inputs/final/quantum/cases/11/max_implementation_probability_error,number,4.3576253716537394e-15,0
+/review_inputs/final/quantum/cases/12,object,,0
+/review_inputs/final/quantum/cases/12/sample,string,chr3-8743680-8743936,0
+/review_inputs/final/quantum/cases/12/representation,string,beta,0
+/review_inputs/final/quantum/cases/12/reported_CTCF_peak,number,0,0
+/review_inputs/final/quantum/cases/12/max_export_observable_error,number,4.215526694346201e-05,0
+/review_inputs/final/quantum/cases/12/max_implementation_probability_error,number,5.4817261840867104e-15,0
+/review_inputs/final/quantum/cases/13,object,,0
+/review_inputs/final/quantum/cases/13/sample,string,chr3-8743680-8743936,0
+/review_inputs/final/quantum/cases/13/representation,string,gamma,0
+/review_inputs/final/quantum/cases/13/reported_CTCF_peak,number,0,0
+/review_inputs/final/quantum/cases/13/max_export_observable_error,number,5.5082683285539794e-05,0
+/review_inputs/final/quantum/cases/13/max_implementation_probability_error,number,7.646661082105766e-15,0
+/review_inputs/final/quantum/cases/14,object,,0
+/review_inputs/final/quantum/cases/14/sample,string,chr3-8743680-8743936,0
+/review_inputs/final/quantum/cases/14/representation,string,epsilon,0
+/review_inputs/final/quantum/cases/14/reported_CTCF_peak,number,0,0
+/review_inputs/final/quantum/cases/14/max_export_observable_error,number,5.1080145989497535e-05,0
+/review_inputs/final/quantum/cases/14/max_implementation_probability_error,number,4.7878367936959876e-15,0
+/review_inputs/final/quantum/cases/15,object,,0
+/review_inputs/final/quantum/cases/15/sample,string,chr3-8743680-8743936,0
+/review_inputs/final/quantum/cases/15/representation,string,shuffled,0
+/review_inputs/final/quantum/cases/15/reported_CTCF_peak,number,0,0
+/review_inputs/final/quantum/cases/15/max_export_observable_error,number,4.6625229655591915e-05,0
+/review_inputs/final/quantum/cases/15/max_implementation_probability_error,number,4.6629367034256575e-15,0
+/review_inputs/final/quantum/compiled_artifact_hash,string,50a7c401263cb7f93acb5f6299f7f1cdde50c3d9cf877b8f8eee98c74152d518,0
+/review_inputs/final/quantum/template_hash,string,2e69559c1b034cf206626490a3a278ef1d8e1d9b3a727d0a57aa0c4d977c140e,0
+/review_inputs/final/report,object,,0
+/review_inputs/final/report/answer,string,"There is no demonstrated benefit yet for predicting binding around OXTR. Adding Fibonacci and Phi Ratio features gave an inconclusive result. The new classical test did not evaluate biological prediction by M9 P24 Alpha, Beta, Gamma or Epsilon. This pilot concerns CTCF, one DNA-binding protein measured in one stem-cell context, not transcription factors generally.",0
+/review_inputs/final/report/what_we_did,string,"The agent completed a comparison of ordinary DNA binding-pattern and spacing features, with and without Fibonacci/Phi Ratio features. It learned on chromosome 1, chose the method on chromosome 2 and tested OXTR on chromosome 3, without seeing OXTR laboratory answers during learning or selection. The agent also prepared a new matched pair of DNA windows: one overlapping a reported CTCF peak and one comparison window. For each, it compiled the same DNA eight ways—ordinary, Fibonacci, Phi Ratio, Alpha, Beta, Gamma, Epsilon and shuffled controls—and completed 16 local CUDA-Q CPU checks.",0
+/review_inputs/final/report/meaning,string,"At OXTR, average precision rose from 0.0719 to 0.0739. This is a ranking score, not percent accuracy. The uncertainty range for the change extended from −0.0263 to +0.0082, leaving benefit unresolved; the noisy increase establishes no advantage. The pilot covered only five OXTR peak regions and used laboratory data with quality warnings. Saved CUDA-Q/Aquila readings describe programmed atom excitation, not binding probabilities; the two saved samples overlap none of those peaks, so they do not validate binding prediction. The new matched pair checks programs, not predictive performance.",0
+/review_inputs/final/report/next_dependency,string,"A larger quantum prediction test still needs more matched quantum measurements linked to laboratory binding results, and a larger independent biological test remains necessary. Today’s instruction prohibits new Aquila submissions; none were made, and no new quantum jobs were submitted. Fresh device validation and explicit allowance are required before Aquila submission; new paid qBraid work also lacks a credit allowance. This is an automated preliminary report, with Gemini oversight deferred. The inconclusive result usefully separates completed program checks from evidence of predictive benefit.",0
+/review_inputs/final/execution,object,,0
+/review_inputs/final/execution/task_id,string,d9dcc3f7-4091-4ce8-97f8-905102574f1d,0
+/review_inputs/final/execution/model,string,gpt-6-astra,0
+/review_inputs/final/execution/model_response_id,string,resp_0146319c05283545016add8c1849d887d087c2402026b351c9,0
+/review_inputs/final/execution/model_tokens,number,4252,0
+/review_inputs/final/execution/completed_at,string,2026-10-25T04:57:05.713254+00:00,0
+/review_inputs/final/execution/spend,object,,0
+/review_inputs/final/execution/spend/new_Aquila_USD,number,0,0
+/review_inputs/final/execution/spend/new_qBraid_credits,number,0,0
+/review_inputs/final/historical_note,string,The report records Gemini as deferred at original completion. This new review is a separate later record and leaves the historical text intact. Eight labelled windows overlap five peak regions.,0
+/provenance,object,,0
+/provenance/design,string,"Retrospective review of the saved design and proposed next test. Its record_sha256 identifies a separate cloud QA execution of the same pilot; the source URL in that original input is a reference link, not the file matching that hash.",0
+/provenance/final,string,"Review of the exact published genomic report identified by archive_sha256. The earlier two-window qualification is supporting context, not a binding-prediction result.",0
+/provenance/timestamps,string,Application-recorded UTC completion times; no independent timestamp certification.,0
+/provenance/historical_records,string,Original study timestamps and deferred-review fields remain unchanged. This later review is an additional record.,0

@@ -1,0 +1,163 @@
+{
+  "tool": "Wolfram Language",
+  "kernel_version": "15.0.1 for Linux x86 (64-bit) (July 2, 2026)",
+  "status": "passed",
+  "offsets_checked": 39248,
+  "coordinate_rounding_scale": 1000000000,
+  "coordinate_table_sha256": "e0bc7128dfcc791eadbfeda80150cf6e8c12532ec37f47386085041d7b3da027",
+  "residue_counts_0_to_8": [
+    4361,
+    4361,
+    4361,
+    4361,
+    4361,
+    4361,
+    4361,
+    4361,
+    4360
+  ],
+  "interval_cases_columns": [
+    "start",
+    "end",
+    "anchor_genomic",
+    "offset",
+    "residue",
+    "display"
+  ],
+  "interval_cases": [
+    [
+      8770729,
+      8770746,
+      8770737,
+      8890,
+      7,
+      7
+    ],
+    [
+      8770405,
+      8770425,
+      8770415,
+      9212,
+      5,
+      5
+    ],
+    [
+      8739658,
+      8740510,
+      8740445,
+      39182,
+      5,
+      5
+    ],
+    [
+      8740380,
+      8740381,
+      8740380,
+      39247,
+      7,
+      7
+    ],
+    [
+      8779627,
+      8779628,
+      8779627,
+      0,
+      0,
+      9
+    ],
+    [
+      8740380,
+      8779628,
+      8760004,
+      19623,
+      3,
+      3
+    ],
+    [
+      8779626,
+      8779628,
+      8779627,
+      0,
+      0,
+      9
+    ],
+    [
+      8740375,
+      8740381,
+      8740380,
+      39247,
+      7,
+      7
+    ],
+    [
+      8779627,
+      8779633,
+      8779627,
+      0,
+      0,
+      9
+    ]
+  ],
+  "alpha_residues": [
+    0,
+    1,
+    1,
+    2,
+    3,
+    5,
+    8,
+    4,
+    3,
+    7,
+    1,
+    8,
+    0,
+    8,
+    8,
+    7,
+    6,
+    4,
+    1,
+    5,
+    6,
+    2,
+    8,
+    1
+  ],
+  "gamma_indices": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20
+  ],
+  "beta_residues": [
+    4,
+    8,
+    7,
+    5,
+    1,
+    2
+  ],
+  "epsilon_indices": [
+    0,
+    8,
+    20,
+    12,
+    4,
+    16,
+    0
+  ],
+  "epsilon_values": [
+    9,
+    3,
+    6,
+    9,
+    3,
+    6,
+    9
+  ],
+  "unit_circle_identity": true,
+  "scope": "All 39248 possible offsets: M9 residue and full/M9 circle coordinates rounded to 1e-9; nine interval edge cases; Fibonacci recurrence and canonical route values. Computational checks only."
+}

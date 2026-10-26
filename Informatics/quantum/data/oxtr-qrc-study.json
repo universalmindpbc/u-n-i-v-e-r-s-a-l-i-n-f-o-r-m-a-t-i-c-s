@@ -1,0 +1,662 @@
+{
+  "schema": "universal-informatics/oxtr-qrc-study/v1",
+  "id": "oxtr-qrc-01",
+  "version": "1.0.0",
+  "status": "measurement_qualification_complete",
+  "question": "Do quantum responses generated from Fibonacci and M9 P24 representations improve our ability to predict transcription factor occupancy around OXTR?",
+  "gene": "OXTR",
+  "method": "Quantum reservoir computing",
+  "created_on": "2026-10-25",
+  "scope": "The first measurement phase has completed CPU and GPU checks and all 16 Aquila programs. Held-out occupancy prediction remains to be evaluated.",
+  "atlas": {
+    "id": "fibonacci-m9-p24",
+    "sha256": "55da8b5e3406368cece4476720ca9d9208627e30a827fca30533d3235d74d8ff",
+    "alpha": {
+      "residues": [
+        0,
+        1,
+        1,
+        2,
+        3,
+        5,
+        8,
+        4,
+        3,
+        7,
+        1,
+        8,
+        0,
+        8,
+        8,
+        7,
+        6,
+        4,
+        1,
+        5,
+        6,
+        2,
+        8,
+        1
+      ],
+      "display_values": [
+        9,
+        1,
+        1,
+        2,
+        3,
+        5,
+        8,
+        4,
+        3,
+        7,
+        1,
+        8,
+        9,
+        8,
+        8,
+        7,
+        6,
+        4,
+        1,
+        5,
+        6,
+        2,
+        8,
+        1
+      ]
+    },
+    "beta": {
+      "interval_sums": [
+        4,
+        17,
+        16,
+        23,
+        10,
+        11
+      ],
+      "interval_residues": [
+        4,
+        8,
+        7,
+        5,
+        1,
+        2
+      ],
+      "display_cycle": [
+        4,
+        8,
+        7,
+        5,
+        1,
+        2
+      ],
+      "intervals": [
+        {
+          "from_index": 0,
+          "to_index": 4,
+          "interior_indices": [
+            1,
+            2,
+            3
+          ],
+          "interior_values": [
+            1,
+            1,
+            2
+          ],
+          "sum": 4,
+          "residue": 4
+        },
+        {
+          "from_index": 4,
+          "to_index": 8,
+          "interior_indices": [
+            5,
+            6,
+            7
+          ],
+          "interior_values": [
+            5,
+            8,
+            4
+          ],
+          "sum": 17,
+          "residue": 8
+        },
+        {
+          "from_index": 8,
+          "to_index": 12,
+          "interior_indices": [
+            9,
+            10,
+            11
+          ],
+          "interior_values": [
+            7,
+            1,
+            8
+          ],
+          "sum": 16,
+          "residue": 7
+        },
+        {
+          "from_index": 12,
+          "to_index": 16,
+          "interior_indices": [
+            13,
+            14,
+            15
+          ],
+          "interior_values": [
+            8,
+            8,
+            7
+          ],
+          "sum": 23,
+          "residue": 5
+        },
+        {
+          "from_index": 16,
+          "to_index": 20,
+          "interior_indices": [
+            17,
+            18,
+            19
+          ],
+          "interior_values": [
+            4,
+            1,
+            5
+          ],
+          "sum": 10,
+          "residue": 1
+        },
+        {
+          "from_index": 20,
+          "to_index": 0,
+          "interior_indices": [
+            21,
+            22,
+            23
+          ],
+          "interior_values": [
+            2,
+            8,
+            1
+          ],
+          "sum": 11,
+          "residue": 2
+        }
+      ],
+      "minimal_cycle": [
+        4,
+        8,
+        7,
+        5,
+        1,
+        2
+      ],
+      "native_doubling": true,
+      "recognised_doubling_cycle": [
+        1,
+        2,
+        4,
+        8,
+        7,
+        5
+      ],
+      "rotation_to_recognised": 4,
+      "m9_doubling_cycle_present": true,
+      "start_value": 4,
+      "start_interval_clock_positions": [
+        24,
+        4
+      ],
+      "start_interval_values": [
+        1,
+        1,
+        2
+      ],
+      "circle_positions": 9,
+      "cycle_length": 6,
+      "endpoint_rule": "Exclude endpoints, include wraparound; raw residues used for sums. Empty interiors sum to zero."
+    },
+    "gamma": {
+      "alpha_indices": [
+        0,
+        4,
+        8,
+        12,
+        16,
+        20
+      ],
+      "clock_positions": [
+        24,
+        4,
+        8,
+        12,
+        16,
+        20
+      ],
+      "clockwise_values": [
+        9,
+        3,
+        3,
+        9,
+        6,
+        6
+      ],
+      "triangle_paths": [
+        [
+          0,
+          8,
+          16,
+          0
+        ],
+        [
+          4,
+          12,
+          20,
+          4
+        ]
+      ]
+    },
+    "epsilon": {
+      "alpha_indices": [
+        0,
+        8,
+        20,
+        12,
+        4,
+        16,
+        0
+      ],
+      "traversal_values": [
+        9,
+        3,
+        6,
+        9,
+        3,
+        6,
+        9
+      ],
+      "three_step_repeat": true,
+      "formation_id": "6-nodes-offset-0",
+      "clock_positions": [
+        24,
+        8,
+        20,
+        12,
+        4,
+        16,
+        24
+      ],
+      "rotation_degrees": 0.0,
+      "status": "Proposed geometric traversal; physical interpretation not assessed."
+    },
+    "orientation": "clockwise from north",
+    "grids": "Alpha/Gamma/Epsilon: 24 period positions; Beta: 9 residue positions"
+  },
+  "reference": {
+    "species": "Homo sapiens",
+    "assembly": "GRCh38 / hg38",
+    "chromosome": "chr3",
+    "start_0based": 8740380,
+    "end_exclusive": 8779628,
+    "length_bp": 39248,
+    "gene_id": "ENSG00000180914",
+    "canonical_transcript": "ENST00000316793.8",
+    "gene_start_1based": 8750381,
+    "gene_end_1based": 8769628,
+    "gene_strand": -1,
+    "selection": "Ensembl OXTR gene body plus 10,000 bases on each genomic side",
+    "scope": "A defined locus window; distal regulatory elements outside it are not captured. Overlapping records may extend beyond its boundaries.",
+    "origin_genomic_base_0based": 8779627,
+    "direction": "OXTR minus strand; descending genomic coordinates",
+    "clockwise_from": "north",
+    "coordinate_convention": "0-based, end-exclusive"
+  },
+  "template": {
+    "id": "rydberg-reservoir-global-pulse-v1",
+    "qubits": 6,
+    "geometry": "Six sites on a regular hexagon; ring radius and nearest-neighbour separation 9 micrometres, with one vertex at north. Positions are fixed throughout each run.",
+    "radius_m": 9e-06,
+    "omega_rad_s": 2000000,
+    "detuning_bound_rad_s": 4000000,
+    "duration_s": 4e-06,
+    "input_slots": 24,
+    "edge_ramp_s": 2e-07,
+    "input": "A 24-slot vector of motif/spacing descriptors. Each encoding uses the same source features and identical normalization fitted on training data only.",
+    "encoding": "Global detuning varies with the input; fixed nonzero drive permits noncommuting evolution. Canonical representation weights/order define registered alternatives. No local detuning access is assumed.",
+    "output": "Six excitation probabilities and fifteen labelled pair probabilities at the final time; additional times require distinct tasks and a new frozen version.",
+    "model": "H(t)/hbar = Omega(t)/2 sum_i X_i - Delta_x(t) sum_i n_i + sum_i<j C6/r_ij^6 n_i n_j",
+    "c6_source": "Read and freeze Aquila device capabilities at compilation; never infer a molecular interaction from this Hamiltonian.",
+    "symmetry": "Global driving of this symmetric array can produce redundant single-site and pair features. Measure effective feature rank on training data and retain the same symmetry treatment across all encodings; six atoms do not imply 21 independent features."
+  },
+  "variants": [
+    {
+      "id": "ordinary",
+      "label": "Ordinary representation",
+      "role": "Same biological descriptors in their original genomic order."
+    },
+    {
+      "id": "fibonacci",
+      "label": "Native Fibonacci",
+      "role": "Predeclared distance features from native Fibonacci gaps, with the physical base-pair range fixed before labels are inspected."
+    },
+    {
+      "id": "phi",
+      "label": "Phi Ratio",
+      "role": "Ratios of neighbouring motif gaps; retain physical gaps and distinguish native ratios from modular residues."
+    },
+    {
+      "id": "alpha",
+      "label": "Alpha \u00b7 M9 P24",
+      "role": "Full canonical residue order; never equate 24 period positions with 24 hours or a universal 24-base spacing."
+    },
+    {
+      "id": "beta",
+      "label": "Beta \u00b7 M9 P24",
+      "role": "Canonical 4,8,7,5,1,2 cycle. Six-of-nine membership alone is a broad divisibility feature."
+    },
+    {
+      "id": "gamma",
+      "label": "Gamma \u00b7 M9 P24",
+      "role": "Canonical two-triangle order encoded in time. Shared positions alone do not distinguish Epsilon."
+    },
+    {
+      "id": "epsilon",
+      "label": "Epsilon \u00b7 M9 P24",
+      "role": "Canonical seven-visit path, with the repeated closing point retained. A timed encoding must pass a distinguishability check."
+    },
+    {
+      "id": "shuffled",
+      "label": "Matched shuffled representations",
+      "role": "Seeded controls preserve feature distributions, pulse duration, energy-scale bounds and input information."
+    }
+  ],
+  "evaluation": {
+    "target": "Presence of reproducible TF occupancy in a defined assay and cell context; no claim of exact contact bases, affinity or causal regulation.",
+    "factor": null,
+    "cell_context": null,
+    "assay_accessions": [],
+    "selection_rule": "Choose one human GRCh38 TF assay with replicates, appropriate controls, adequate locus coverage and no dependence on Fibonacci fit. Record accession, factor, cell, QC and label rules before fitting.",
+    "inputs": [
+      "DNA sequence and motif scores",
+      "Motif positions, orientation and gaps",
+      "Predefined Fibonacci, Phi Ratio and M9 P24 descriptors"
+    ],
+    "not_inputs": [
+      "Experimental occupancy labels or ChIP signal",
+      "Assay-specific labels used to choose encodings",
+      "Test-set scores or feature rankings"
+    ],
+    "splits": "Chromosome/block-separated training and validation, with chr3/OXTR withheld from all fitting. Keep overlapping windows and biological replicates together.",
+    "primary_metric": "Difference in average precision on the frozen independent test set, QRC versus the strongest validation-selected classical model on identical inputs.",
+    "controls": [
+      "Classical motif/sequence baseline",
+      "Classical nonlinear model with identical representation features",
+      "CUDA-Q simulated reservoir using the same physical program",
+      "Aquila reservoir with ordinary encoding",
+      "Matched shuffled encoding and label-permutation checks"
+    ],
+    "secondary": [
+      "Calibration and precision at a fixed recall",
+      "Per-representation effects with multiple-comparison correction",
+      "Sensitivity to window origin, strand and measurement uncertainty"
+    ],
+    "success": "Positive held-out improvement with a prespecified uncertainty interval; report inconclusive or negative results without selecting a favourable encoding after testing. No speedup or aromatic mechanism follows from classification alone.",
+    "uncertainty": "Bootstrap independent genomic blocks, keep repeat shots within their sample, report intervals. A locus with too few labels receives a ranking with uncertainty, not a predictive-performance claim."
+  },
+  "execution": {
+    "current_stage": "qualification_complete",
+    "submission_enabled": false,
+    "simulation_backend": "NVIDIA CUDA-Q",
+    "simulation_route": "Compile a checked time-evolution circuit, validate locally, then use the existing qBraid GPU route for supported compiled programs. Native CUDA-Q dynamics is an alternative only after runtime capability checks.",
+    "hardware_backend": "QuEra Aquila via Amazon Braket",
+    "parity": "Identical coordinates, C6, pulse schedule, basis/readout convention and observation times. Freeze the discretized AHS program before compiling the matched simulation.",
+    "stages": [
+      "design_review",
+      "data_admission",
+      "model_validation",
+      "simulation",
+      "hardware",
+      "evaluation",
+      "complete"
+    ],
+    "planned_shots_per_input": 100,
+    "budget_rule": "No dispatch until the complete task count, provider quotes and shared budget reservation are recorded and approved for the run. Existing one-task approval is not reused.",
+    "task_formula": "number of frozen input windows \u00d7 encoding variants \u00d7 readout times \u00d7 hardware repeats",
+    "job_records": [
+      {
+        "provider": "qBraid",
+        "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add543a2a6c33b9a67fcf6a",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "qBraid",
+        "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add544c2a6c33b9a67fcf6e",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "qBraid",
+        "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add545d2a6c33b9a67fcf75",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "qBraid",
+        "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add546f2a6c33b9a67fcf7d",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "qBraid",
+        "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add54802a6c33b9a67fcf85",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "qBraid",
+        "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add54912a6c33b9a67fcf8b",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "qBraid",
+        "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add54a32a6c33b9a67fcf90",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "qBraid",
+        "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add54b52a6c33b9a67fcf99",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "qBraid",
+        "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add54c82a6c33b9a67fcf9e",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "qBraid",
+        "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add54dd2a6c33b9a67fcfa2",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "qBraid",
+        "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add54ef2a6c33b9a67fcfae",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "qBraid",
+        "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add55002a6c33b9a67fcfb4",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "qBraid",
+        "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add55112a6c33b9a67fcfbd",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "qBraid",
+        "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add55222a6c33b9a67fcfc1",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "qBraid",
+        "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add55332a6c33b9a67fcfc5",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "qBraid",
+        "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add55442a6c33b9a67fcfcf",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "qBraid",
+        "id": "qbraid:qbraid:sim:gpu-sv-cd19-qjob-6add55542a6c33b9a67fcfd5",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "Amazon Braket / QuEra",
+        "id": "92a97488-675a-4126-838a-75ff29e0c539",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "Amazon Braket / QuEra",
+        "id": "4d690682-bbcd-471f-84fe-d7d29ab4f0f3",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "Amazon Braket / QuEra",
+        "id": "fd03b07f-1c48-40a1-8510-05bcfa38987b",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "Amazon Braket / QuEra",
+        "id": "1408321b-3bbf-42d0-98d8-b2a3f6a2282d",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "Amazon Braket / QuEra",
+        "id": "21a80a56-064a-4940-8ed9-9d77122436c7",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "Amazon Braket / QuEra",
+        "id": "056c9488-bd07-469c-93e2-edf24e8fff9c",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "Amazon Braket / QuEra",
+        "id": "46eac414-f077-4214-81ef-e21635955bb9",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "Amazon Braket / QuEra",
+        "id": "f4bc57c5-2ab1-463e-8e3b-88c7c61e4eb0",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "Amazon Braket / QuEra",
+        "id": "393fd233-18b4-47f4-ba5e-af2d142e8512",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "Amazon Braket / QuEra",
+        "id": "aff105ae-441b-49d7-a5b0-9797edc60b05",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "Amazon Braket / QuEra",
+        "id": "17ffbfd0-8304-4b30-a749-8d0c91eab2d9",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "Amazon Braket / QuEra",
+        "id": "941daa0a-4939-411e-a7f1-88fcb16baaca",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "Amazon Braket / QuEra",
+        "id": "ea4bb9a4-c91a-492a-80a7-c59fd051a807",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "Amazon Braket / QuEra",
+        "id": "f30cda70-0079-41e9-aa40-72e24b51f15d",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "Amazon Braket / QuEra",
+        "id": "1cbb29aa-c1b8-49bb-af31-dd18a7cbd480",
+        "state": "COMPLETED"
+      },
+      {
+        "provider": "Amazon Braket / QuEra",
+        "id": "8408039a-06e1-4782-910f-44a9313c8e12",
+        "state": "COMPLETED"
+      }
+    ],
+    "results": null
+  },
+  "cache": {
+    "key_fields": [
+      "template_version",
+      "dataset_hash",
+      "split_hash",
+      "feature_hash",
+      "normalization_hash",
+      "encoding_id",
+      "device_capabilities_hash",
+      "program_hash",
+      "backend_version",
+      "shots",
+      "seed",
+      "calibration_timestamp"
+    ],
+    "rule": "Show cache provenance and run date. A replay of saved results never creates a new hardware receipt. A changed input or model invalidates its dependent result."
+  },
+  "review": {
+    "status": "First measurement phase complete",
+    "next": "Evaluate the prespecified prediction benchmark against held-out biological observations.",
+    "methods_url": "data/oxtr-qrc-qualification.md"
+  },
+  "sources": [
+    "https://github.com/QuEraComputing/QRC-tutorials",
+    "https://arxiv.org/abs/2407.02553",
+    "https://arxiv.org/abs/2605.04737",
+    "https://arxiv.org/abs/2602.14641",
+    "https://docs.aws.amazon.com/braket/latest/developerguide/braket-quera-submitting-analog-program-aquila.html"
+  ],
+  "delivery": {
+    "phase": "measurement_qualification",
+    "return_url": "https://staging.universalmind.tv/informatics/?entry=research&area=quantum#study",
+    "simulation": "Approximately 5\u201310 minutes from processing start, including the classical calculation and CUDA-Q simulation. Planning estimate; queue and workload can extend it.",
+    "hardware": "Timing varies with device availability and the quantum queue. The 25 October 2026 qualification batch completed in 16 minutes 51 seconds from first submission to final completion; the earlier two-atom test took 18 hours 52 minutes. Observed timings are not delivery guarantees.",
+    "report": "Publish simulation findings first, then the combined report after hardware completion and evaluation. Clearly identify each version.",
+    "notification": "Optional email with verified consent at study launch; send a private return link without biological data in the message. Email delivery is not active in this design review.",
+    "persistence": "The review interface saves an optional study record and delivery preference on this device. Execution requires a durable study record independent of browser lifetime.",
+    "source": "https://docs.aws.amazon.com/braket/latest/developerguide/braket-task-when.html",
+    "classical": "Approximately 5\u201310 minutes from processing start, including the classical calculation and CUDA-Q simulation. Planning estimate; queue and workload can extend it."
+  },
+  "roadmap": {
+    "stage": 5,
+    "title": "Drug Discovery Network & Open Source Genomic Insights",
+    "status": "future_feature",
+    "flow": [
+      "Recorded classical and quantum results",
+      "Preliminary AI insights",
+      "Human review and sharing approval",
+      "External research collaboration",
+      "Open Source Genomic Insights"
+    ],
+    "sharing": "No active external submission or publishing connection. Future automation retains human oversight."
+  },
+  "qualification": {
+    "version": "1.1.0-qualification",
+    "status": "complete",
+    "report": "oxtr-qrc-qualification.json",
+    "methods": "oxtr-qrc-qualification.md",
+    "windows": 2,
+    "representations": 8,
+    "shots_per_program": 100,
+    "scope": "Execution and numerical qualification; no biological prediction result."
+  }
+}

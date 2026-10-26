@@ -1,0 +1,61 @@
+{
+  "origin": "https://staging.universalmind.tv",
+  "errors": [],
+  "assets": [
+    {
+      "url": "https://staging.universalmind.tv/informatics/quantum/scientific-review.css?v=live-3",
+      "status": 200,
+      "sha256": "c0dc0abffd5fac8b90a53c71fb8dba4c66f4c4e8383154153e3f6d0ff08880c2",
+      "matches_source": true
+    },
+    {
+      "url": "https://staging.universalmind.tv/informatics/quantum/biology.css?v=live-2",
+      "status": 200,
+      "sha256": "0ecf02c14a8ae759f8445921c1bb225b9288b335cbee4e0bd5e3f1fef8f96f19",
+      "matches_source": true
+    },
+    {
+      "url": "https://staging.universalmind.tv/informatics/quantum/biology.js?v=live-6",
+      "status": 200,
+      "sha256": "46932dd8df53c178cbaa1d3a395de6e349a6adc2334975ca11ba39355644c2c9",
+      "matches_source": true
+    },
+    {
+      "url": "https://staging.universalmind.tv/informatics/quantum/scientific-review.js?v=live-3",
+      "status": 200,
+      "sha256": "36122cd98b6f4a42eed29b8d84689599fb9a0b1e2f9fb07c373ab0ec3deb86ec",
+      "matches_source": true
+    },
+    {
+      "url": "https://staging.universalmind.tv/informatics/quantum/study-progress.js?v=3",
+      "status": 200,
+      "sha256": "2f8fc854df640fed68be82afa254de67e639550e7f3070b89a94a1f264ceec0d",
+      "matches_source": true
+    },
+    {
+      "url": "https://staging.universalmind.tv/informatics/quantum/agent.js?v=reviewed-4",
+      "status": 200,
+      "sha256": "63414f68a7304f9270355281e0534e8bda819a17686a66901df5d57fddc85813",
+      "matches_source": true
+    },
+    {
+      "url": "https://staging.universalmind.tv/informatics/quantum/insights.js?v=live-4",
+      "status": 200,
+      "sha256": "e749b9d0a3a1ee3a7bfbc3c6407334390d453b30b52cf02034f6dcf637e01edd",
+      "matches_source": true
+    },
+    {
+      "url": "https://staging.universalmind.tv/informatics/quantum/study.js?v=live-7",
+      "status": 200,
+      "sha256": "f330ca0a1499915b7af339af4628010750e590bec559ec216733b5cf945cc76b",
+      "matches_source": true
+    }
+  ],
+  "muted": true,
+  "connectorPaths": [
+    "M 512 55.921875 H 94.6328125 V 167.84375",
+    "M 963.1640625 167.84375 V 71.921875 H 788",
+    "M 788 50.921875 H 1205.359375 V 167.84375"
+  ],
+  "passed": true
+}

@@ -1,0 +1,14 @@
+{
+  "base_commit": "0b4669f0",
+  "change": "Move the existing interactive technology diagram into the shared area below the five-step navigation.",
+  "diagram_content_preserved": true,
+  "diagram_javascript_unchanged": true,
+  "calculation_javascript_unchanged": true,
+  "styles_unchanged": true,
+  "transcription_atlas_unchanged": true,
+  "source_files": [
+    "Informatics/quantum/index.html",
+    "Informatics/index.html"
+  ],
+  "new_compute_jobs": 0
+}

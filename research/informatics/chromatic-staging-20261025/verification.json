@@ -1,0 +1,385 @@
+{
+  "candidate": false,
+  "audio": "Dedicated Chromium --mute-audio before navigation",
+  "viewports": [
+    {
+      "width": 1470,
+      "height": 956,
+      "tabs": [
+        "sequence",
+        "melody",
+        "scale",
+        "chromatic",
+        "fifths",
+        "tuning"
+      ],
+      "selected": "chromatic",
+      "progress": "1.0000",
+      "playing": "false",
+      "layout": "wide",
+      "pitches": [
+        "C",
+        "C♯",
+        "D",
+        "D♯",
+        "E",
+        "F",
+        "F♯",
+        "G",
+        "G♯",
+        "A",
+        "A♯",
+        "B"
+      ],
+      "keys": [
+        {
+          "pitch": 0,
+          "color": "white"
+        },
+        {
+          "pitch": 2,
+          "color": "white"
+        },
+        {
+          "pitch": 4,
+          "color": "white"
+        },
+        {
+          "pitch": 5,
+          "color": "white"
+        },
+        {
+          "pitch": 7,
+          "color": "white"
+        },
+        {
+          "pitch": 9,
+          "color": "white"
+        },
+        {
+          "pitch": 11,
+          "color": "white"
+        },
+        {
+          "pitch": 12,
+          "color": "white"
+        },
+        {
+          "pitch": 1,
+          "color": "black"
+        },
+        {
+          "pitch": 3,
+          "color": "black"
+        },
+        {
+          "pitch": 6,
+          "color": "black"
+        },
+        {
+          "pitch": 8,
+          "color": "black"
+        },
+        {
+          "pitch": 10,
+          "color": "black"
+        }
+      ],
+      "groups": [
+        2,
+        3
+      ],
+      "overflow": false,
+      "clipped": [],
+      "keyboardNavigation": true,
+      "workings": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "tabs": [
+        "sequence",
+        "melody",
+        "scale",
+        "chromatic",
+        "fifths",
+        "tuning"
+      ],
+      "selected": "chromatic",
+      "progress": "1.0000",
+      "playing": "false",
+      "layout": "wide",
+      "pitches": [
+        "C",
+        "C♯",
+        "D",
+        "D♯",
+        "E",
+        "F",
+        "F♯",
+        "G",
+        "G♯",
+        "A",
+        "A♯",
+        "B"
+      ],
+      "keys": [
+        {
+          "pitch": 0,
+          "color": "white"
+        },
+        {
+          "pitch": 2,
+          "color": "white"
+        },
+        {
+          "pitch": 4,
+          "color": "white"
+        },
+        {
+          "pitch": 5,
+          "color": "white"
+        },
+        {
+          "pitch": 7,
+          "color": "white"
+        },
+        {
+          "pitch": 9,
+          "color": "white"
+        },
+        {
+          "pitch": 11,
+          "color": "white"
+        },
+        {
+          "pitch": 12,
+          "color": "white"
+        },
+        {
+          "pitch": 1,
+          "color": "black"
+        },
+        {
+          "pitch": 3,
+          "color": "black"
+        },
+        {
+          "pitch": 6,
+          "color": "black"
+        },
+        {
+          "pitch": 8,
+          "color": "black"
+        },
+        {
+          "pitch": 10,
+          "color": "black"
+        }
+      ],
+      "groups": [
+        2,
+        3
+      ],
+      "overflow": false,
+      "clipped": [],
+      "keyboardNavigation": true,
+      "workings": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "tabs": [
+        "sequence",
+        "melody",
+        "scale",
+        "chromatic",
+        "fifths",
+        "tuning"
+      ],
+      "selected": "chromatic",
+      "progress": "1.0000",
+      "playing": "false",
+      "layout": "stacked",
+      "pitches": [
+        "C",
+        "C♯",
+        "D",
+        "D♯",
+        "E",
+        "F",
+        "F♯",
+        "G",
+        "G♯",
+        "A",
+        "A♯",
+        "B"
+      ],
+      "keys": [
+        {
+          "pitch": 0,
+          "color": "white"
+        },
+        {
+          "pitch": 2,
+          "color": "white"
+        },
+        {
+          "pitch": 4,
+          "color": "white"
+        },
+        {
+          "pitch": 5,
+          "color": "white"
+        },
+        {
+          "pitch": 7,
+          "color": "white"
+        },
+        {
+          "pitch": 9,
+          "color": "white"
+        },
+        {
+          "pitch": 11,
+          "color": "white"
+        },
+        {
+          "pitch": 12,
+          "color": "white"
+        },
+        {
+          "pitch": 1,
+          "color": "black"
+        },
+        {
+          "pitch": 3,
+          "color": "black"
+        },
+        {
+          "pitch": 6,
+          "color": "black"
+        },
+        {
+          "pitch": 8,
+          "color": "black"
+        },
+        {
+          "pitch": 10,
+          "color": "black"
+        }
+      ],
+      "groups": [
+        2,
+        3
+      ],
+      "overflow": false,
+      "clipped": [],
+      "keyboardNavigation": true,
+      "workings": true
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "tabs": [
+        "sequence",
+        "melody",
+        "scale",
+        "chromatic",
+        "fifths",
+        "tuning"
+      ],
+      "selected": "chromatic",
+      "progress": "1.0000",
+      "playing": "false",
+      "layout": "stacked",
+      "pitches": [
+        "C",
+        "C♯",
+        "D",
+        "D♯",
+        "E",
+        "F",
+        "F♯",
+        "G",
+        "G♯",
+        "A",
+        "A♯",
+        "B"
+      ],
+      "keys": [
+        {
+          "pitch": 0,
+          "color": "white"
+        },
+        {
+          "pitch": 2,
+          "color": "white"
+        },
+        {
+          "pitch": 4,
+          "color": "white"
+        },
+        {
+          "pitch": 5,
+          "color": "white"
+        },
+        {
+          "pitch": 7,
+          "color": "white"
+        },
+        {
+          "pitch": 9,
+          "color": "white"
+        },
+        {
+          "pitch": 11,
+          "color": "white"
+        },
+        {
+          "pitch": 12,
+          "color": "white"
+        },
+        {
+          "pitch": 1,
+          "color": "black"
+        },
+        {
+          "pitch": 3,
+          "color": "black"
+        },
+        {
+          "pitch": 6,
+          "color": "black"
+        },
+        {
+          "pitch": 8,
+          "color": "black"
+        },
+        {
+          "pitch": 10,
+          "color": "black"
+        }
+      ],
+      "groups": [
+        2,
+        3
+      ],
+      "overflow": false,
+      "clipped": [],
+      "keyboardNavigation": true,
+      "workings": true
+    }
+  ],
+  "animation": {
+    "first": 0.1051,
+    "second": 0.2353,
+    "paused": 0.2463,
+    "replay": 0.0217,
+    "completed": 1,
+    "loop": 0.0906,
+    "pass": true
+  },
+  "errors": [],
+  "svgExport": "universal-informatics-chromatic.svg"
+}

@@ -1,0 +1,434 @@
+{
+  "date": "2026-10-24",
+  "sourceCommit": "dc08e88d8b34dcbdb7d2601230f1a82ac316af05",
+  "backendSourceCommit": "a1f2449455fdd163afb5c5ff911118a0e41e700e",
+  "workerVersion": "5729b341-c0fd-4eab-af64-9ee0cfad6f65",
+  "stagingURL": "https://staging.universalmind.tv/informatics/",
+  "productionCommitUnchanged": "d82c7ae080a5236cd1029bd9605d7b4e3988feb4",
+  "localChecks": {
+    "hundredTurnOriginalBytes": 10887374,
+    "hundredTurnSentBytes": 18569,
+    "unicodeEscapingBounds": 44000,
+    "sourceReferencesRetained": true,
+    "pageHistoryUnchanged": true,
+    "routingExamples": 38,
+    "microphoneLifecycle": true,
+    "visibilityPermissionMuteInterruption": true
+  },
+  "liveTurns": [
+    {
+      "mode": "voice",
+      "fixture": "Find one indexed EMDR study measuring DNA methylation or gene expression. Give its title and one finding briefly.",
+      "question": "Find one indexed EMDR study measuring DNA methylation or gene expression. Give its title and one finding briefly.",
+      "answer": "\u201cTranscriptional Modulation of Stress-Related Genes in Association with Early Life Stress Exposure and Trauma-Focused Psychotherapy in Treatment-Resistant Depression Patients\u201d from 2023.\n\nIt measured whole-blood mRNA with RT-qPCR over 12 weeks, and FKBP5 and SGK1 expression decreased significantly at eight weeks, then rebounded during follow-up. This is gene expression evidence, not DNA methylation.",
+      "sources": [
+        {
+          "id": "doi-14a5c17359f1dfcb",
+          "title": "Transcriptional Modulation of Stress-Related Genes in Association with Early Life Stress Exposure and Trauma-Focused Psychotherapy in Treatment-Resistant Depression Patients",
+          "url": "https://doi.org/10.1891/emdr-2023-0019"
+        }
+      ],
+      "rawHistoryBytes": 1770,
+      "forced": 1,
+      "users": 1,
+      "answers": 1,
+      "requests": [
+        {
+          "path": "/research",
+          "status": 200,
+          "bytes": 1115,
+          "historyMessages": 3,
+          "previousReferences": 0,
+          "question": "Find one indexed EMDR study that measures DNA methylation or gene expression. Return the study title and one brief finding. If multiple exist, choose the most directly measuring DNA methylation or gene expression. If none exist, state that no indexed study was found and identify any closest related evidence. Include any relevant measurement details and uncertainty. Original subject: EMDR. No prior retrieved study in this conversation.",
+          "area": "vision"
+        }
+      ]
+    },
+    {
+      "mode": "voice",
+      "fixture": "What was the sample size in that study?",
+      "question": "What was the sample size in that study?",
+      "answer": "The study reports 41 participants at baseline, with 21 in the longitudinal sample: 12 in EMDR and 9 in trauma-focused CBT.",
+      "sources": [
+        {
+          "id": "doi-14a5c17359f1dfcb",
+          "title": "Transcriptional Modulation of Stress-Related Genes in Association with Early Life Stress Exposure and Trauma-Focused Psychotherapy in Treatment-Resistant Depression Patients",
+          "url": "https://doi.org/10.1891/emdr-2023-0019"
+        }
+      ],
+      "rawHistoryBytes": 3056,
+      "forced": 2,
+      "users": 2,
+      "answers": 2,
+      "requests": [
+        {
+          "path": "/research",
+          "status": 200,
+          "bytes": 1907,
+          "historyMessages": 6,
+          "previousReferences": 1,
+          "question": "Follow-up on the previously retrieved study \u201cTranscriptional Modulation of Stress-Related Genes in Association with Early Life Stress Exposure and Trauma-Focused Psychotherapy in Treatment-Resistant Depression Patients\u201d (2023): confirm the sample size reported in the prior result and provide it exactly as stated. Do not re-interpret beyond the prior retrieval.",
+          "area": "vision"
+        }
+      ]
+    },
+    {
+      "mode": "voice",
+      "fixture": "What did they measure, and when?",
+      "question": "What did they measure, and when?",
+      "answer": "They measured whole-blood mRNA expression of NR3C1, FKBP5, and SGK1 using RT-qPCR. The time points were baseline, then weeks 4, 8, and 12. This was gene expression, not DNA methylation.",
+      "sources": [
+        {
+          "id": "doi-14a5c17359f1dfcb",
+          "title": "Transcriptional Modulation of Stress-Related Genes in Association with Early Life Stress Exposure and Trauma-Focused Psychotherapy in Treatment-Resistant Depression Patients",
+          "url": "https://doi.org/10.1891/emdr-2023-0019"
+        }
+      ],
+      "rawHistoryBytes": 4414,
+      "forced": 3,
+      "users": 3,
+      "answers": 3,
+      "requests": [
+        {
+          "path": "/research",
+          "status": 200,
+          "bytes": 2272,
+          "historyMessages": 9,
+          "previousReferences": 1,
+          "question": "Follow-up on the previously retrieved 2023 study \u201cTranscriptional Modulation of Stress-Related Genes in Association with Early Life Stress Exposure and Trauma-Focused Psychotherapy in Treatment-Resistant Depression Patients\u201d: specify what molecular outcome was measured and the time points. Use the prior retrieval\u2019s details and keep the wording factual and brief. Include any uncertainty noted earlier.",
+          "area": "vision"
+        }
+      ]
+    },
+    {
+      "mode": "voice",
+      "fixture": "Was it randomized, and what limits the result?",
+      "question": "Was it randomized, and what limits the result?",
+      "answer": "Randomization isn\u2019t confirmed from the available record. It doesn\u2019t say how people were assigned to EMDR versus trauma-focused CBT.\n\nThe result is limited because the therapies were pooled, so changes can\u2019t be attributed specifically to EMDR. Participants continued usual medication and there was no untreated molecular comparison group, so you can\u2019t isolate psychotherapy effects. The longitudinal sample is small, transcript levels rebounded during follow-up, and the measure was whole-blood mRNA expression, not DNA methylation.",
+      "sources": [
+        {
+          "id": "doi-14a5c17359f1dfcb",
+          "title": "Transcriptional Modulation of Stress-Related Genes in Association with Early Life Stress Exposure and Trauma-Focused Psychotherapy in Treatment-Resistant Depression Patients",
+          "url": "https://doi.org/10.1891/emdr-2023-0019"
+        }
+      ],
+      "rawHistoryBytes": 6152,
+      "forced": 4,
+      "users": 4,
+      "answers": 4,
+      "requests": [
+        {
+          "path": "/research",
+          "status": 200,
+          "bytes": 2717,
+          "historyMessages": 12,
+          "previousReferences": 1,
+          "question": "Follow-up on the previously retrieved 2023 study \u201cTranscriptional Modulation of Stress-Related Genes in Association with Early Life Stress Exposure and Trauma-Focused Psychotherapy in Treatment-Resistant Depression Patients\u201d: was the assignment randomized? Summarize the key limitations that constrain interpretation, especially any issues affecting EMDR-specific attribution. Use prior retrieval context and avoid adding unsupported claims.",
+          "area": "vision"
+        }
+      ]
+    },
+    {
+      "mode": "voice",
+      "fixture": "Do we have evidence involving younger participants?",
+      "question": "Do we have evidence involving younger participants?",
+      "answer": "Yes. There is indexed evidence in younger participants. One study is titled \u201cDistinct saliva DNA methylation profiles in relation to treatment outcome in youth with posttraumatic stress disorder.\u201d It included children and adolescents aged 8 to 18 and found saliva DNA methylation differences linked to treatment response, including signals involving C18orf63 and the stress-related CRHR2 locus.\n\nHowever, the treatment analysis combined EMDR and trauma-focused CBT, so the molecular associations can\u2019t be attributed specifically to EMDR. It also shows an association with treatment response, not a proven causal mechanism.",
+      "sources": [
+        {
+          "id": "pmid-39060246",
+          "title": "Distinct saliva DNA methylation profiles in relation to treatment outcome in youth with posttraumatic stress disorder.",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11282249/"
+        }
+      ],
+      "rawHistoryBytes": 11664,
+      "forced": 5,
+      "users": 5,
+      "answers": 5,
+      "requests": [
+        {
+          "path": "/research",
+          "status": 200,
+          "bytes": 3112,
+          "historyMessages": 12,
+          "previousReferences": 1,
+          "question": "Search the indexed EMDR literature for evidence involving younger participants (children or adolescents) that includes molecular outcomes such as gene expression or DNA methylation, or the closest related molecular evidence if none exists. Provide one relevant study title and a brief finding, and note any uncertainty or gap. Original subject: EMDR. Relevant previous study: 2023 transcriptional modulation study in adults.",
+          "area": "vision"
+        }
+      ]
+    },
+    {
+      "mode": "voice",
+      "fixture": "Which paper supports that?",
+      "question": "Which paper supports that?",
+      "answer": "The supporting paper is titled \u201cDistinct saliva DNA methylation profiles in relation to treatment outcome in youth with posttraumatic stress disorder.\u201d It reports youth, ages 8 to 18, with saliva DNA methylation differences linked to treatment response, including signals involving C18orf63 and CRHR2, but it analyzed EMDR and trauma-focused CBT together, so the findings are not specific to EMDR.",
+      "sources": [
+        {
+          "id": "pmid-39060246",
+          "title": "Distinct saliva DNA methylation profiles in relation to treatment outcome in youth with posttraumatic stress disorder.",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11282249/"
+        }
+      ],
+      "rawHistoryBytes": 13021,
+      "forced": 6,
+      "users": 6,
+      "answers": 6,
+      "requests": [
+        {
+          "path": "/research",
+          "status": 200,
+          "bytes": 3382,
+          "historyMessages": 12,
+          "previousReferences": 2,
+          "question": "Clarify which paper supports the prior statement about younger participants with molecular evidence. Provide the paper title exactly as retrieved and a brief restatement that it includes youth and saliva DNA methylation linked to treatment outcome, noting the combined treatment limitation.",
+          "area": "vision"
+        }
+      ]
+    },
+    {
+      "mode": "text",
+      "question": "Which paper supports the younger-participant finding, and how many participants were included? Answer briefly.",
+      "answer": "UNIVERSAL ONE\nThe paper is \u201cDistinct saliva DNA methylation profiles in relation to treatment outcome in youth with posttraumatic stress disorder\u201d (*Translational Psychiatry*, 2024). It included 87 participants aged 8\u201318: 46 with PTSD and 41 trauma-exposed controls. Treatment findings pooled EMDR and trauma-focused CBT, so they are not specific to EMDR. [1]\n1 source\nRead aloud",
+      "rawHistoryBytes": 14319,
+      "forced": 6,
+      "users": 7,
+      "answers": 7,
+      "requests": [
+        {
+          "path": "/research",
+          "status": 200,
+          "bytes": 3489,
+          "historyMessages": 12,
+          "previousReferences": 2,
+          "question": "Which paper supports the younger-participant finding, and how many participants were included? Answer briefly.",
+          "area": "vision"
+        }
+      ]
+    },
+    {
+      "mode": "voice",
+      "fixture": "Which paper supports that?",
+      "question": "Which paper supports that?",
+      "answer": "The supporting paper is titled \u201cDistinct saliva DNA methylation profiles in relation to treatment outcome in youth with posttraumatic stress disorder,\u201d published in Translational Psychiatry in 2024. It studied 87 participants aged 8 to 18, including 46 with PTSD and 41 trauma-exposed controls.",
+      "sources": [
+        {
+          "id": "pmid-39060246",
+          "title": "Distinct saliva DNA methylation profiles in relation to treatment outcome in youth with posttraumatic stress disorder.",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11282249/"
+        }
+      ],
+      "rawHistoryBytes": 15674,
+      "forced": 7,
+      "users": 8,
+      "answers": 8,
+      "requests": [
+        {
+          "path": "/research",
+          "status": 200,
+          "bytes": 3939,
+          "historyMessages": 12,
+          "previousReferences": 2,
+          "question": "User asks which paper supports the earlier claim about younger participants showing molecular evidence related to treatment outcome. Retrieve the specific indexed paper and any relevant citation details, including title and key population description, for the youth saliva DNA methylation finding. Use the prior referenced youth PTSD study as the relevant previous study.",
+          "area": "vision"
+        }
+      ]
+    }
+  ],
+  "network": [
+    {
+      "path": "/voice-session",
+      "status": 200,
+      "bytes": 20
+    },
+    {
+      "path": "/v1/realtime/calls",
+      "status": 201,
+      "bytes": 1806
+    },
+    {
+      "path": "/research",
+      "status": 200,
+      "bytes": 1115,
+      "historyMessages": 3,
+      "previousReferences": 0,
+      "question": "Find one indexed EMDR study that measures DNA methylation or gene expression. Return the study title and one brief finding. If multiple exist, choose the most directly measuring DNA methylation or gene expression. If none exist, state that no indexed study was found and identify any closest related evidence. Include any relevant measurement details and uncertainty. Original subject: EMDR. No prior retrieved study in this conversation.",
+      "area": "vision"
+    },
+    {
+      "path": "/research",
+      "status": 200,
+      "bytes": 1907,
+      "historyMessages": 6,
+      "previousReferences": 1,
+      "question": "Follow-up on the previously retrieved study \u201cTranscriptional Modulation of Stress-Related Genes in Association with Early Life Stress Exposure and Trauma-Focused Psychotherapy in Treatment-Resistant Depression Patients\u201d (2023): confirm the sample size reported in the prior result and provide it exactly as stated. Do not re-interpret beyond the prior retrieval.",
+      "area": "vision"
+    },
+    {
+      "path": "/research",
+      "status": 200,
+      "bytes": 2272,
+      "historyMessages": 9,
+      "previousReferences": 1,
+      "question": "Follow-up on the previously retrieved 2023 study \u201cTranscriptional Modulation of Stress-Related Genes in Association with Early Life Stress Exposure and Trauma-Focused Psychotherapy in Treatment-Resistant Depression Patients\u201d: specify what molecular outcome was measured and the time points. Use the prior retrieval\u2019s details and keep the wording factual and brief. Include any uncertainty noted earlier.",
+      "area": "vision"
+    },
+    {
+      "path": "/research",
+      "status": 200,
+      "bytes": 2717,
+      "historyMessages": 12,
+      "previousReferences": 1,
+      "question": "Follow-up on the previously retrieved 2023 study \u201cTranscriptional Modulation of Stress-Related Genes in Association with Early Life Stress Exposure and Trauma-Focused Psychotherapy in Treatment-Resistant Depression Patients\u201d: was the assignment randomized? Summarize the key limitations that constrain interpretation, especially any issues affecting EMDR-specific attribution. Use prior retrieval context and avoid adding unsupported claims.",
+      "area": "vision"
+    },
+    {
+      "path": "/research",
+      "status": 200,
+      "bytes": 3112,
+      "historyMessages": 12,
+      "previousReferences": 1,
+      "question": "Search the indexed EMDR literature for evidence involving younger participants (children or adolescents) that includes molecular outcomes such as gene expression or DNA methylation, or the closest related molecular evidence if none exists. Provide one relevant study title and a brief finding, and note any uncertainty or gap. Original subject: EMDR. Relevant previous study: 2023 transcriptional modulation study in adults.",
+      "area": "vision"
+    },
+    {
+      "path": "/research",
+      "status": 200,
+      "bytes": 3382,
+      "historyMessages": 12,
+      "previousReferences": 2,
+      "question": "Clarify which paper supports the prior statement about younger participants with molecular evidence. Provide the paper title exactly as retrieved and a brief restatement that it includes youth and saliva DNA methylation linked to treatment outcome, noting the combined treatment limitation.",
+      "area": "vision"
+    },
+    {
+      "path": "/research",
+      "status": 200,
+      "bytes": 3489,
+      "historyMessages": 12,
+      "previousReferences": 2,
+      "question": "Which paper supports the younger-participant finding, and how many participants were included? Answer briefly.",
+      "area": "vision"
+    },
+    {
+      "path": "/voice-session",
+      "status": 200,
+      "bytes": 20
+    },
+    {
+      "path": "/v1/realtime/calls",
+      "status": 201,
+      "bytes": 1808
+    },
+    {
+      "path": "/research",
+      "status": 200,
+      "bytes": 3939,
+      "historyMessages": 12,
+      "previousReferences": 2,
+      "question": "User asks which paper supports the earlier claim about younger participants showing molecular evidence related to treatment outcome. Retrieve the specific indexed paper and any relevant citation details, including title and key population description, for the youth saliva DNA methylation finding. Use the prior referenced youth PTSD study as the relevant previous study.",
+      "area": "vision"
+    }
+  ],
+  "reconnectedWithRetainedTranscript": true,
+  "remoteAudioDecoded": true,
+  "footerAbsent": true,
+  "microphoneReleased": true,
+  "browserErrors": [],
+  "visitorAllowanceUnchanged": true,
+  "stressTest": {
+    "syntheticHistoryStressTest": true,
+    "processAudioDisabled": true,
+    "requests": [
+      {
+        "status": 200,
+        "bytes": 328,
+        "history": 0,
+        "references": 0
+      },
+      {
+        "status": 200,
+        "bytes": 4041,
+        "history": 12,
+        "references": 1
+      }
+    ],
+    "initialAnswer": "UNIVERSAL ONE\nTitle: \u201cRecreational music-making modulates the human stress response: a preliminary individualized gene expression strategy\u201d (2005).\n\nMeasured finding: The study reported a statistically significant reversal of stress-induced IL6 gene-expression changes in both the recreational music-making group and the resting control group\u2014not an effect unique to music-making. [1]\n1 source\nRead aloud",
+    "fixture": {
+      "simulatedExchanges": 100,
+      "rawBytes": 177901,
+      "sourceIDs": [
+        "pmid-15668624"
+      ]
+    },
+    "followupAnswer": "UNIVERSAL ONE\nIL6 (interleukin-6) is explicitly confirmed as measured in the approved study record. [1] The full gene panel cannot be verified from this library: the record names only IL6, and the full text is not indexed.\n1 source\nRead aloud",
+    "retainedHistory": 202,
+    "success": true,
+    "browserClosed": true
+  },
+  "assets": [
+    {
+      "path": "index.html",
+      "status": 200,
+      "localSha256": "f0f81961fa61632b54b0857482413b4085b75bb31b867939e71f1d1c596e98e2",
+      "remoteSha256": "f0f81961fa61632b54b0857482413b4085b75bb31b867939e71f1d1c596e98e2",
+      "matched": true
+    },
+    {
+      "path": "library.html",
+      "status": 200,
+      "localSha256": "94eea76a772ca20e594e4106246051cd51208ede718d67c74612de5eb2b940e0",
+      "remoteSha256": "94eea76a772ca20e594e4106246051cd51208ede718d67c74612de5eb2b940e0",
+      "matched": true
+    },
+    {
+      "path": "universal-one.js?v=11",
+      "status": 200,
+      "localSha256": "cc84310c1178f88a8f2fd4fd88d95d7b13cc06b93c16de6054ca9190315cb102",
+      "remoteSha256": "cc84310c1178f88a8f2fd4fd88d95d7b13cc06b93c16de6054ca9190315cb102",
+      "matched": true
+    },
+    {
+      "path": "universal-one-live.js?v=6",
+      "status": 200,
+      "localSha256": "d502c8d7eb3187772f66acd845dd156942a28cc118df156c2086370f5a670678",
+      "remoteSha256": "d502c8d7eb3187772f66acd845dd156942a28cc118df156c2086370f5a670678",
+      "matched": true
+    },
+    {
+      "path": "universal-one-context.js?v=1",
+      "status": 200,
+      "localSha256": "a5241bb3e4378a3377c5954e2ebd3f8a6a93fc3dd1cc5f56a9253dde996a5a91",
+      "remoteSha256": "a5241bb3e4378a3377c5954e2ebd3f8a6a93fc3dd1cc5f56a9253dde996a5a91",
+      "matched": true
+    },
+    {
+      "path": "universal-one-routing.js?v=3",
+      "status": 200,
+      "localSha256": "a45e3a5787e18b1b84e8c82ac7c304a2a959323e1c7b0ef449c92663c8730308",
+      "remoteSha256": "a45e3a5787e18b1b84e8c82ac7c304a2a959323e1c7b0ef449c92663c8730308",
+      "matched": true
+    }
+  ],
+  "mediaQA": {
+    "separateChromium": true,
+    "processMuteAudio": true,
+    "syntheticMicrophoneOnly": true,
+    "allBrowsersClosed": true,
+    "nativeSafariFullscreenTested": false
+  },
+  "testFixtureRepair": "The initial synthetic microphone stopped emitting audio after its clip, preventing the VAD silence event. Continuous zero-valued audio fixed the fixture; the complete rerun passed.",
+  "visualChecks": {
+    "desktopWidth": 1470,
+    "mobileWidth": 390,
+    "footerRemoved": true,
+    "textAnswerAndCitationVisible": true,
+    "screenshots": [
+      {
+        "path": "verification/followup-desktop.png",
+        "sha256": "895eeb6bc9f90cffd23b9a49ecc88847d835c14020130a07ecf188b9935d1418"
+      },
+      {
+        "path": "verification/followup-mobile.png",
+        "sha256": "896550940a86a490366cf1f29cdce75769663c676d2f275052d8adb25bb3db48"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sound": {
+    "pages": 144,
+    "records": 460,
+    "bodyLinks": 457,
+    "recordLinks": 457,
+    "unassignedLinks": []
+  },
+  "vision": {
+    "pages": 19,
+    "records": 47,
+    "bodyLinks": 45,
+    "recordLinks": 45,
+    "unassignedLinks": []
+  },
+  "language": {
+    "pages": 73,
+    "records": 295,
+    "bodyLinks": 293,
+    "recordLinks": 293,
+    "unassignedLinks": []
+  }
+}

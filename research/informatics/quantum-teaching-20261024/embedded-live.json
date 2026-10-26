@@ -1,0 +1,39 @@
+{
+  "live": true,
+  "audioMutedAtProcessLevel": true,
+  "nativeFullscreen": false,
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "embedded": true,
+      "entry": true,
+      "separateViews": true,
+      "renderedPixels": {
+        "docking": 14879,
+        "quantum": 109912
+      },
+      "pauseOnExit": true,
+      "selectionPreserved": true
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "embedded": true,
+      "entry": true,
+      "separateViews": true,
+      "renderedPixels": {
+        "docking": 5036,
+        "quantum": 23079
+      },
+      "pauseOnExit": true,
+      "selectionPreserved": true
+    }
+  ],
+  "directQuantum": true,
+  "checksumFailureVisible": true
+}

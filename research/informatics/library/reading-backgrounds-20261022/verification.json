@@ -1,0 +1,491 @@
+{
+  "passed": true,
+  "candidate": false,
+  "checkedAt": "2026-10-21T18:03:51.867Z",
+  "processMuted": true,
+  "nativeFullscreen": false,
+  "reducedMotion": true,
+  "blockedStorage": true,
+  "errors": [],
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "defaultVideo": true,
+      "threeModes": true,
+      "contrastByMode": {
+        "video": [
+          {
+            "selector": ".intro-copy",
+            "color": "rgb(193, 206, 214)",
+            "ratio": 7.296243006178908
+          },
+          {
+            "selector": ".card-note",
+            "color": "rgb(193, 206, 214)",
+            "ratio": 7.296243006178908
+          },
+          {
+            "selector": ".citation-line",
+            "color": "rgb(170, 185, 195)",
+            "ratio": 5.827615394646814
+          },
+          {
+            "selector": ".library-footer",
+            "color": "rgb(170, 185, 195)",
+            "ratio": 5.827615394646814
+          },
+          {
+            "selector": ".tag",
+            "color": "rgb(122, 186, 255)",
+            "ratio": 5.748470172668461
+          },
+          {
+            "selector": ".star-label",
+            "color": "rgb(231, 209, 123)",
+            "ratio": 7.7077403547077
+          }
+        ],
+        "black": [
+          {
+            "selector": ".intro-copy",
+            "color": "rgb(193, 206, 214)",
+            "ratio": 13.067021857350257
+          },
+          {
+            "selector": ".card-note",
+            "color": "rgb(193, 206, 214)",
+            "ratio": 13.067021857350257
+          },
+          {
+            "selector": ".citation-line",
+            "color": "rgb(170, 185, 195)",
+            "ratio": 10.436820384627076
+          },
+          {
+            "selector": ".library-footer",
+            "color": "rgb(170, 185, 195)",
+            "ratio": 10.436820384627076
+          },
+          {
+            "selector": ".tag",
+            "color": "rgb(122, 186, 255)",
+            "ratio": 10.29507725126102
+          },
+          {
+            "selector": ".star-label",
+            "color": "rgb(231, 209, 123)",
+            "ratio": 13.803982625092477
+          }
+        ],
+        "white": [
+          {
+            "selector": ".intro-copy",
+            "color": "rgb(52, 73, 85)",
+            "ratio": 9.416171723828256
+          },
+          {
+            "selector": ".card-note",
+            "color": "rgb(52, 73, 85)",
+            "ratio": 9.416171723828256
+          },
+          {
+            "selector": ".citation-line",
+            "color": "rgb(82, 97, 107)",
+            "ratio": 6.400579932523359
+          },
+          {
+            "selector": ".library-footer",
+            "color": "rgb(82, 97, 107)",
+            "ratio": 6.400579932523359
+          },
+          {
+            "selector": ".tag",
+            "color": "rgb(7, 95, 148)",
+            "ratio": 6.832509174219305
+          },
+          {
+            "selector": ".star-label",
+            "color": "rgb(121, 90, 0)",
+            "ratio": 6.411322409822992
+          }
+        ]
+      },
+      "videoMuted": true,
+      "pauseResume": true,
+      "staticModesPauseVideo": true,
+      "preferencesSurviveReload": true,
+      "filtersPreserved": true,
+      "articleAndNotebook": true,
+      "keyboard": true,
+      "embeddedReader": true,
+      "iframeClosed": true,
+      "parentMediaUnchanged": true,
+      "noOverflow": true
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "defaultVideo": true,
+      "threeModes": true,
+      "contrastByMode": {
+        "video": [
+          {
+            "selector": ".intro-copy",
+            "color": "rgb(193, 206, 214)",
+            "ratio": 7.296243006178908
+          },
+          {
+            "selector": ".card-note",
+            "color": "rgb(193, 206, 214)",
+            "ratio": 7.296243006178908
+          },
+          {
+            "selector": ".citation-line",
+            "color": "rgb(170, 185, 195)",
+            "ratio": 5.827615394646814
+          },
+          {
+            "selector": ".library-footer",
+            "color": "rgb(170, 185, 195)",
+            "ratio": 5.827615394646814
+          },
+          {
+            "selector": ".tag",
+            "color": "rgb(122, 186, 255)",
+            "ratio": 5.748470172668461
+          },
+          {
+            "selector": ".star-label",
+            "color": "rgb(231, 209, 123)",
+            "ratio": 7.7077403547077
+          }
+        ],
+        "black": [
+          {
+            "selector": ".intro-copy",
+            "color": "rgb(193, 206, 214)",
+            "ratio": 13.067021857350257
+          },
+          {
+            "selector": ".card-note",
+            "color": "rgb(193, 206, 214)",
+            "ratio": 13.067021857350257
+          },
+          {
+            "selector": ".citation-line",
+            "color": "rgb(170, 185, 195)",
+            "ratio": 10.436820384627076
+          },
+          {
+            "selector": ".library-footer",
+            "color": "rgb(170, 185, 195)",
+            "ratio": 10.436820384627076
+          },
+          {
+            "selector": ".tag",
+            "color": "rgb(122, 186, 255)",
+            "ratio": 10.29507725126102
+          },
+          {
+            "selector": ".star-label",
+            "color": "rgb(231, 209, 123)",
+            "ratio": 13.803982625092477
+          }
+        ],
+        "white": [
+          {
+            "selector": ".intro-copy",
+            "color": "rgb(52, 73, 85)",
+            "ratio": 9.416171723828256
+          },
+          {
+            "selector": ".card-note",
+            "color": "rgb(52, 73, 85)",
+            "ratio": 9.416171723828256
+          },
+          {
+            "selector": ".citation-line",
+            "color": "rgb(82, 97, 107)",
+            "ratio": 6.400579932523359
+          },
+          {
+            "selector": ".library-footer",
+            "color": "rgb(82, 97, 107)",
+            "ratio": 6.400579932523359
+          },
+          {
+            "selector": ".tag",
+            "color": "rgb(7, 95, 148)",
+            "ratio": 6.832509174219305
+          },
+          {
+            "selector": ".star-label",
+            "color": "rgb(121, 90, 0)",
+            "ratio": 6.411322409822992
+          }
+        ]
+      },
+      "videoMuted": true,
+      "pauseResume": true,
+      "staticModesPauseVideo": true,
+      "preferencesSurviveReload": true,
+      "filtersPreserved": true,
+      "articleAndNotebook": true,
+      "keyboard": true,
+      "embeddedReader": true,
+      "iframeClosed": true,
+      "parentMediaUnchanged": true,
+      "noOverflow": true
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "defaultVideo": true,
+      "threeModes": true,
+      "contrastByMode": {
+        "video": [
+          {
+            "selector": ".intro-copy",
+            "color": "rgb(193, 206, 214)",
+            "ratio": 7.296243006178908
+          },
+          {
+            "selector": ".card-note",
+            "color": "rgb(193, 206, 214)",
+            "ratio": 7.296243006178908
+          },
+          {
+            "selector": ".citation-line",
+            "color": "rgb(170, 185, 195)",
+            "ratio": 5.827615394646814
+          },
+          {
+            "selector": ".library-footer",
+            "color": "rgb(170, 185, 195)",
+            "ratio": 5.827615394646814
+          },
+          {
+            "selector": ".tag",
+            "color": "rgb(122, 186, 255)",
+            "ratio": 5.748470172668461
+          },
+          {
+            "selector": ".star-label",
+            "color": "rgb(231, 209, 123)",
+            "ratio": 7.7077403547077
+          }
+        ],
+        "black": [
+          {
+            "selector": ".intro-copy",
+            "color": "rgb(193, 206, 214)",
+            "ratio": 13.067021857350257
+          },
+          {
+            "selector": ".card-note",
+            "color": "rgb(193, 206, 214)",
+            "ratio": 13.067021857350257
+          },
+          {
+            "selector": ".citation-line",
+            "color": "rgb(170, 185, 195)",
+            "ratio": 10.436820384627076
+          },
+          {
+            "selector": ".library-footer",
+            "color": "rgb(170, 185, 195)",
+            "ratio": 10.436820384627076
+          },
+          {
+            "selector": ".tag",
+            "color": "rgb(122, 186, 255)",
+            "ratio": 10.29507725126102
+          },
+          {
+            "selector": ".star-label",
+            "color": "rgb(231, 209, 123)",
+            "ratio": 13.803982625092477
+          }
+        ],
+        "white": [
+          {
+            "selector": ".intro-copy",
+            "color": "rgb(52, 73, 85)",
+            "ratio": 9.416171723828256
+          },
+          {
+            "selector": ".card-note",
+            "color": "rgb(52, 73, 85)",
+            "ratio": 9.416171723828256
+          },
+          {
+            "selector": ".citation-line",
+            "color": "rgb(82, 97, 107)",
+            "ratio": 6.400579932523359
+          },
+          {
+            "selector": ".library-footer",
+            "color": "rgb(82, 97, 107)",
+            "ratio": 6.400579932523359
+          },
+          {
+            "selector": ".tag",
+            "color": "rgb(7, 95, 148)",
+            "ratio": 6.832509174219305
+          },
+          {
+            "selector": ".star-label",
+            "color": "rgb(121, 90, 0)",
+            "ratio": 6.411322409822992
+          }
+        ]
+      },
+      "videoMuted": true,
+      "pauseResume": true,
+      "staticModesPauseVideo": true,
+      "preferencesSurviveReload": true,
+      "filtersPreserved": true,
+      "articleAndNotebook": true,
+      "keyboard": true,
+      "embeddedReader": true,
+      "iframeClosed": true,
+      "parentMediaUnchanged": true,
+      "noOverflow": true
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "defaultVideo": true,
+      "threeModes": true,
+      "contrastByMode": {
+        "video": [
+          {
+            "selector": ".intro-copy",
+            "color": "rgb(193, 206, 214)",
+            "ratio": 7.296243006178908
+          },
+          {
+            "selector": ".card-note",
+            "color": "rgb(193, 206, 214)",
+            "ratio": 7.296243006178908
+          },
+          {
+            "selector": ".citation-line",
+            "color": "rgb(170, 185, 195)",
+            "ratio": 5.827615394646814
+          },
+          {
+            "selector": ".library-footer",
+            "color": "rgb(170, 185, 195)",
+            "ratio": 5.827615394646814
+          },
+          {
+            "selector": ".tag",
+            "color": "rgb(122, 186, 255)",
+            "ratio": 5.748470172668461
+          },
+          {
+            "selector": ".star-label",
+            "color": "rgb(231, 209, 123)",
+            "ratio": 7.7077403547077
+          }
+        ],
+        "black": [
+          {
+            "selector": ".intro-copy",
+            "color": "rgb(193, 206, 214)",
+            "ratio": 13.067021857350257
+          },
+          {
+            "selector": ".card-note",
+            "color": "rgb(193, 206, 214)",
+            "ratio": 13.067021857350257
+          },
+          {
+            "selector": ".citation-line",
+            "color": "rgb(170, 185, 195)",
+            "ratio": 10.436820384627076
+          },
+          {
+            "selector": ".library-footer",
+            "color": "rgb(170, 185, 195)",
+            "ratio": 10.436820384627076
+          },
+          {
+            "selector": ".tag",
+            "color": "rgb(122, 186, 255)",
+            "ratio": 10.29507725126102
+          },
+          {
+            "selector": ".star-label",
+            "color": "rgb(231, 209, 123)",
+            "ratio": 13.803982625092477
+          }
+        ],
+        "white": [
+          {
+            "selector": ".intro-copy",
+            "color": "rgb(52, 73, 85)",
+            "ratio": 9.416171723828256
+          },
+          {
+            "selector": ".card-note",
+            "color": "rgb(52, 73, 85)",
+            "ratio": 9.416171723828256
+          },
+          {
+            "selector": ".citation-line",
+            "color": "rgb(82, 97, 107)",
+            "ratio": 6.400579932523359
+          },
+          {
+            "selector": ".library-footer",
+            "color": "rgb(82, 97, 107)",
+            "ratio": 6.400579932523359
+          },
+          {
+            "selector": ".tag",
+            "color": "rgb(7, 95, 148)",
+            "ratio": 6.832509174219305
+          },
+          {
+            "selector": ".star-label",
+            "color": "rgb(121, 90, 0)",
+            "ratio": 6.411322409822992
+          }
+        ]
+      },
+      "videoMuted": true,
+      "pauseResume": true,
+      "staticModesPauseVideo": true,
+      "preferencesSurviveReload": true,
+      "filtersPreserved": true,
+      "articleAndNotebook": true,
+      "keyboard": true,
+      "embeddedReader": true,
+      "iframeClosed": true,
+      "parentMediaUnchanged": true,
+      "noOverflow": true
+    }
+  ],
+  "sourceCommit": "3e001f90ffa029d2bb407f2ae9bb1c86f7c43599",
+  "preservedStagingBase": "9525ae5c96372e4c38d2277657df2727be7708df",
+  "productionRefUnchanged": "636bfa9ae41efe036b2cccac0827c724edfde92b",
+  "visualReview": {
+    "desktopVideoAndWhite": true,
+    "mobileVideoAndWhite": true,
+    "articleVideoAndWhite": true,
+    "noUnderlyingTextBleed": true
+  },
+  "atlasNavigationPreserved": true,
+  "nestedSourceReader": true
+}

@@ -1,0 +1,567 @@
+[
+  {
+    "path": "Informatics/.htaccess",
+    "bytes": 316,
+    "sha256": "aa2efdf1128cd401a6e71ef9d5fb599dc573aebe597a5623467601d8b31c238d"
+  },
+  {
+    "path": "Informatics/app.js",
+    "bytes": 16867,
+    "sha256": "43220af01742e7fc1c3efa76a29201908754d8b2bb813bdacc244c82592a0526"
+  },
+  {
+    "path": "Informatics/atlas-visuals.js",
+    "bytes": 36416,
+    "sha256": "72ebebbb51ad51b094ec5072e051885fdf134ccd51bf0a9bc73ba9dfddbb5235"
+  },
+  {
+    "path": "Informatics/atlas.css",
+    "bytes": 19333,
+    "sha256": "ce3acc1519362548ba110a5103d735be62ff903f17c8b40b9caa42c5969c88d3"
+  },
+  {
+    "path": "Informatics/complete-downloads.js",
+    "bytes": 2629,
+    "sha256": "79f416d3f8cb51be19b3b654351011df20921367a138c1a2c978069771f18416"
+  },
+  {
+    "path": "Informatics/connect.css",
+    "bytes": 4486,
+    "sha256": "cbcb6f1e30d4eccb374a57547ea9a8f6fba7b22a907cb452b6fc921a7aa6eb35"
+  },
+  {
+    "path": "Informatics/connect.html",
+    "bytes": 11800,
+    "sha256": "9f756bf554ff520c6f482cde26c0dd83c993daae06ff20759debc6cd0b00626c"
+  },
+  {
+    "path": "Informatics/connect.js",
+    "bytes": 13465,
+    "sha256": "1227ae3472159a4ab32abede300b99b4f3cdbf5573373e62a6a76aa9979d5eca"
+  },
+  {
+    "path": "Informatics/connectors/client.py",
+    "bytes": 2624,
+    "sha256": "791cea08b1a814396637b0a2928cabc67dbf585984a31a9a77d274e46ab41df1"
+  },
+  {
+    "path": "Informatics/connectors/deepseek.py",
+    "bytes": 2521,
+    "sha256": "46eddc0d36ceaf895d9424c9a2692d799db46e5e7366b82840141938066f21e7"
+  },
+  {
+    "path": "Informatics/connectors/draft-desci.mjs",
+    "bytes": 6024,
+    "sha256": "6e89ff2cb57b828eff57835d21155c2569c70f3a12e383611c078c23114eb4c2"
+  },
+  {
+    "path": "Informatics/connectors/export-research.mjs",
+    "bytes": 4105,
+    "sha256": "59a3e625c1499faedd93e169f9206e95eb6d3e40aff060ccd9b99b7829180733"
+  },
+  {
+    "path": "Informatics/connectors/publish-synapse.py",
+    "bytes": 4985,
+    "sha256": "fcdda0e32677d861af7809db5247a258ba4623dd2c888f03e55c78f2bd69bfbb"
+  },
+  {
+    "path": "Informatics/exports/README.md",
+    "bytes": 2379,
+    "sha256": "4dd8718622192ddffb27d6b252bb5142fa47fa3a35b38ad1b30a7db8aa30b547"
+  },
+  {
+    "path": "Informatics/exports/read_complete.py",
+    "bytes": 1966,
+    "sha256": "2d4096871fb07bd808104970efea6bd93902d39236f3f844728c3c89e599f990"
+  },
+  {
+    "path": "Informatics/genomics.html",
+    "bytes": 2382,
+    "sha256": "2bdf4e17c62f6bf16c2156e99ec12ab218558f2759550515856407839dae64cf"
+  },
+  {
+    "path": "Informatics/global-navigation.js",
+    "bytes": 2059,
+    "sha256": "a08ff7aea8557d4eef355941e5d4735107a828fbaeb272b2ba1c5e9b66d81b27"
+  },
+  {
+    "path": "Informatics/index.html",
+    "bytes": 28357,
+    "sha256": "b4feefac97f3c1cdd848b3bfd80c67697e45b1995508bb6cc461ad535b2fe49e"
+  },
+  {
+    "path": "Informatics/landing.js",
+    "bytes": 7325,
+    "sha256": "e488cf6baced5117dbd78b14031111dd350acec19ee87b495bddcd7a63edf939"
+  },
+  {
+    "path": "Informatics/library-launcher.css",
+    "bytes": 13063,
+    "sha256": "2d230e7215cc10c868765d9050a5173d405d9ba343300116e512339bc682bdf9"
+  },
+  {
+    "path": "Informatics/library-launcher.js",
+    "bytes": 16625,
+    "sha256": "7701719bf40ba81e9e21b791f6ae02ceff5f8023e76250b340a51fd9674f22a9"
+  },
+  {
+    "path": "Informatics/library-model.js",
+    "bytes": 4986,
+    "sha256": "e565f7a479f36b6afcc26b5d24d761e1ddbe271c7bc3b7aed1d3f962325e23ae"
+  },
+  {
+    "path": "Informatics/library-multiselect.js",
+    "bytes": 4864,
+    "sha256": "fe821d9440a04ad19d0216f1058224155a96243d76371bfe3c415d0479e94108"
+  },
+  {
+    "path": "Informatics/library-navigation.js",
+    "bytes": 2711,
+    "sha256": "b7a5d9a42be48e4b425697f31cf0114972cf825974f4ebde3bcc676c410adb22"
+  },
+  {
+    "path": "Informatics/library-theme.js",
+    "bytes": 4050,
+    "sha256": "f9595ab6810d7f41d64afc0d863514d2777248b6c93d99efd352d81fbc1c7f04"
+  },
+  {
+    "path": "Informatics/library.css",
+    "bytes": 27176,
+    "sha256": "fa53261889024631208f7e7279c87449489740647a26841eba54bf6ad8897d4d"
+  },
+  {
+    "path": "Informatics/library.html",
+    "bytes": 34636,
+    "sha256": "f212d444c54422d61af65f6c7e62121f7f4af66122d2ef1f7ca61265a205bb36"
+  },
+  {
+    "path": "Informatics/library.js",
+    "bytes": 35013,
+    "sha256": "346517a15b258323496d3c272dee39e405cf9ec4d6315097665b82aed87b6a1b"
+  },
+  {
+    "path": "Informatics/llms.txt",
+    "bytes": 1401,
+    "sha256": "9084410ec95b4abaeadedf7953d9d49e671e0de8384a693a54174b2abcc62e75"
+  },
+  {
+    "path": "Informatics/molecular-entry.css",
+    "bytes": 474,
+    "sha256": "34e92170839e6613cd71325b857b5b3762fb6334f20bc9fae97a9d4fd2e18bd7"
+  },
+  {
+    "path": "Informatics/molecular-entry.js",
+    "bytes": 1648,
+    "sha256": "460a2b6e67a5c184e171d7f374f47d6f36147b9e417bd1e957c92ff9babe70cf"
+  },
+  {
+    "path": "Informatics/molecular/atlas.css",
+    "bytes": 22898,
+    "sha256": "1056d7f89414c4630741f162e9b5f38d1a111da3e895cf629e3f658f59adb6fb"
+  },
+  {
+    "path": "Informatics/molecular/atlas.js",
+    "bytes": 36839,
+    "sha256": "fee0c3cbf4b8820e46b5674931c966d5f74e74d1470eb165a90c05d09bc688ac"
+  },
+  {
+    "path": "Informatics/molecular/index.html",
+    "bytes": 10121,
+    "sha256": "3530cc1283c982f47eedad95d2f81456d381b176fdef1533b67396bfe4a9e548"
+  },
+  {
+    "path": "Informatics/molecular/interaction-ui.js",
+    "bytes": 22665,
+    "sha256": "bfa28324268e2be47f6e4eb0f4250270b8846b37013f4eb78eed6bf255d86d6e"
+  },
+  {
+    "path": "Informatics/molecular/interactions.css",
+    "bytes": 10202,
+    "sha256": "3aaa4f06467fa2a55a685bb7df4899cbca0ec5dda8e7cee390fed9a39b22e6a7"
+  },
+  {
+    "path": "Informatics/molecular/vendor/BIOEXCEL-LICENSE.txt",
+    "bytes": 11357,
+    "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+  },
+  {
+    "path": "Informatics/molecular/vendor/LICENSE-Molstar.txt",
+    "bytes": 1088,
+    "sha256": "aa42900c6ea7bfcf22d25a4c369025e01a526c66501fd9193f9a8aecee7a0753"
+  },
+  {
+    "path": "Informatics/molecular/vendor/NOTICE.txt",
+    "bytes": 419,
+    "sha256": "2fb16a763647a50bef87176cf1ac1390b1c55b99a2cccceb09bb9d1bf5774a89"
+  },
+  {
+    "path": "Informatics/molecular/vendor/dna-model-notice.txt",
+    "bytes": 792,
+    "sha256": "537f6757036e08886c87e9e3be4879f4b208f492d1c076fa318955bf1ac4527d"
+  },
+  {
+    "path": "Informatics/molecular/vendor/engine.js",
+    "bytes": 3163747,
+    "sha256": "98bc2afc91a19c468bc8e949bf2ac25c0be50a372821f6932ac0ed02bcc5be9f"
+  },
+  {
+    "path": "Informatics/page-markers.css",
+    "bytes": 515,
+    "sha256": "9a3d6808a97551225776eb2e80543651f4e5aecefb93ac5b74f63fd90ad5b03a"
+  },
+  {
+    "path": "Informatics/pilot-v1/CSV-README.txt",
+    "bytes": 3407,
+    "sha256": "31e786a411cf8e06f9b01a2e03b485959f9506db3e1ed98003347040b5c4ffea"
+  },
+  {
+    "path": "Informatics/pilot-v1/M1-M1001-CSV-README.txt",
+    "bytes": 3799,
+    "sha256": "7574bda186fbe075bfa13ecc6ccbff5f27ed0d82f17054cd04b125e8942b2a70"
+  },
+  {
+    "path": "Informatics/pilot-v1/M1-M1001-README.txt",
+    "bytes": 2472,
+    "sha256": "79cc1b745df76abc6d7597d7a2205d2f1e3c33cf6e23f54e90581ce4c1d95636"
+  },
+  {
+    "path": "Informatics/pilot-v1/explorer.js",
+    "bytes": 2313,
+    "sha256": "a909dc2125f3eff660d4ec41199176d9656410c1c14593b523779e2760c8c5db"
+  },
+  {
+    "path": "Informatics/pilot-v1/family.js",
+    "bytes": 7210,
+    "sha256": "7655450b66a2f6c25ed19a445864f95da3c420221755ef20f66853fdd1b2681d"
+  },
+  {
+    "path": "Informatics/pilot-v1/m18-probability.py",
+    "bytes": 8594,
+    "sha256": "bade8a76b0b361e95b7f9a383ef6a1acbd6c200257d58993ac1f4b7d5c8bfad1"
+  },
+  {
+    "path": "Informatics/pilot-v1/m9-probability.py",
+    "bytes": 8550,
+    "sha256": "3e400d0ecc752f53a79c4f315171753836b8171cab11a336bae28c5c886b454d"
+  },
+  {
+    "path": "Informatics/pilot-v1/oxtr-tfbs-v1/README.txt",
+    "bytes": 8323,
+    "sha256": "8c809fdb8bcee30ae2813dc527742846a9a145adf39add1babd5008c4995d09e"
+  },
+  {
+    "path": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/build_experiment.py",
+    "bytes": 12875,
+    "sha256": "c4ae017479d67d3636fd369e859a8f797329e88780f4d2186c807f6c26d3d488"
+  },
+  {
+    "path": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/methods.md",
+    "bytes": 10748,
+    "sha256": "8c6ba6b7e9409e3aeca954144798feca7177d5916ccb0fc04fcaaf73413bd8cf"
+  },
+  {
+    "path": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/requirements.txt",
+    "bytes": 29,
+    "sha256": "b519d87b8a293239d34c9e2db71ba2628df999be716d753575ae6bc0e485b424"
+  },
+  {
+    "path": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/verify.wl",
+    "bytes": 1583,
+    "sha256": "6bea21f9ea43691b683d05522c5354eb1636e655a1d1b4b3dfb31536abe6bafa"
+  },
+  {
+    "path": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/BrainTF-LICENSE.txt",
+    "bytes": 1068,
+    "sha256": "9252b2ac7c103bedb175a07ecc71baf6e75933784dcab8f223d6a52667f971dc"
+  },
+  {
+    "path": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/README.txt",
+    "bytes": 1123,
+    "sha256": "c7041015ae7024df19300b2d6e9254852151c55d0dd6b6e76bb64daa56959795"
+  },
+  {
+    "path": "Informatics/pilot-v1/probability.js",
+    "bytes": 3363,
+    "sha256": "d88f7ee8858a4201bd4e6661294445c38e01e0cb820ac755c1a7301f474a2aa8"
+  },
+  {
+    "path": "Informatics/pilot-v1/verify_batch.wl",
+    "bytes": 9679,
+    "sha256": "c699fe2e85fcf10c94b2bfd281d15443d4462bf34da4c04a5d40125e01a37206"
+  },
+  {
+    "path": "Informatics/pilot-v1/verify_core.wl",
+    "bytes": 4049,
+    "sha256": "08145a4c8e30e4cfe20f38df879322b3c59abdbc3fc32068846a74aec4b318c6"
+  },
+  {
+    "path": "Informatics/quantum-entry.css",
+    "bytes": 225,
+    "sha256": "111d9abb033000754bc1f23a18504a86743aac1a7d5f6733a9ce5a436d3fd851"
+  },
+  {
+    "path": "Informatics/quantum-entry.js",
+    "bytes": 753,
+    "sha256": "d12f06e9188d179103142de78dad0776330bc2e23d4632e52f8290e03a02a45e"
+  },
+  {
+    "path": "Informatics/quantum/agent.js",
+    "bytes": 7858,
+    "sha256": "5245701fa161c0257f1dd558974eec533dc77cbb8855fc2be6dcf6e318bff726"
+  },
+  {
+    "path": "Informatics/quantum/biology.css",
+    "bytes": 48651,
+    "sha256": "0ecf02c14a8ae759f8445921c1bb225b9288b335cbee4e0bd5e3f1fef8f96f19"
+  },
+  {
+    "path": "Informatics/quantum/biology.js",
+    "bytes": 21029,
+    "sha256": "31ea9c5fb153b72fb9b270f5c5cb84c1c0f1d9fe96870680e6894495aba6176a"
+  },
+  {
+    "path": "Informatics/quantum/data/oxtr-qrc-protocol.md",
+    "bytes": 17900,
+    "sha256": "b1e8b93d61d1b7d634cb53d5f230e90791a0cab7c40a186a4795c3738789bd43"
+  },
+  {
+    "path": "Informatics/quantum/data/oxtr-qrc-qualification.md",
+    "bytes": 7174,
+    "sha256": "00d02ea441764039e7c2fddd27115571ddca1480c3305a9ad8703b22b41e8b07"
+  },
+  {
+    "path": "Informatics/quantum/hypothesis.js",
+    "bytes": 4517,
+    "sha256": "11bcf4afab33943cfa6f5d40aa644089d16b1a7f7875f910cc503a4a2abec063"
+  },
+  {
+    "path": "Informatics/quantum/index.html",
+    "bytes": 28003,
+    "sha256": "39d221676e9265268dd0ab66c174e793cab755f1a4692331496499eda248157e"
+  },
+  {
+    "path": "Informatics/quantum/insights.js",
+    "bytes": 4190,
+    "sha256": "35942ed539ef9aadd0bdab3b5a9daed64de3fc18e97557a1745f6f0404e6d6a9"
+  },
+  {
+    "path": "Informatics/quantum/lab.css",
+    "bytes": 14389,
+    "sha256": "ce3fcd1662c84e40bb5a792aa5e0eca70cee0aa89903135cd0b4952cd4036f4b"
+  },
+  {
+    "path": "Informatics/quantum/lab.js",
+    "bytes": 21307,
+    "sha256": "5667c817b1528975432a349b2c2556c4d66111621319f6c472ebfc8f8855264a"
+  },
+  {
+    "path": "Informatics/quantum/model.mjs",
+    "bytes": 3025,
+    "sha256": "b61d600c5cf74c89524aa847238183ea11a2fdf9b2ba7f3b5ce61093a80c091a"
+  },
+  {
+    "path": "Informatics/quantum/model.worker.js",
+    "bytes": 210,
+    "sha256": "4a72734392a799324de02e35fb42e854a7e2a780ee05debd2809d1a2d7a0d750"
+  },
+  {
+    "path": "Informatics/quantum/reproduce.py",
+    "bytes": 2073,
+    "sha256": "e1826ed52104869add25393ebe618b62950677978a0b40934872dfa18df5ca15"
+  },
+  {
+    "path": "Informatics/quantum/requirements.txt",
+    "bytes": 27,
+    "sha256": "983665a6331eda07ab1f4b23ef92d66f4b024c27b360ee0e7420511ef3b28c64"
+  },
+  {
+    "path": "Informatics/quantum/response-view.js",
+    "bytes": 12791,
+    "sha256": "110f9c7dce539f61c13fb88132dabadafdea02363c4dca0b660283d7aa7abde1"
+  },
+  {
+    "path": "Informatics/quantum/result-contract.js",
+    "bytes": 1659,
+    "sha256": "2cf8be883a6da7b14213d813ee349125b4733367a7e1544d736f14fd16106180"
+  },
+  {
+    "path": "Informatics/quantum/study-progress.js",
+    "bytes": 10942,
+    "sha256": "6139399ec101e98e5a47fe67da12cc7fa53320089ca09f3eb09b8c430de4b93a"
+  },
+  {
+    "path": "Informatics/quantum/study.js",
+    "bytes": 9599,
+    "sha256": "cfb9a1a1ba5256f4890f08d938ca413eba792a466237977cd052b8c7ee78332a"
+  },
+  {
+    "path": "Informatics/quantum/verification.html",
+    "bytes": 12043,
+    "sha256": "bd56a38853a3e8a2604b01d102c48fb51e44cbab76dd44f6e599acaed5279859"
+  },
+  {
+    "path": "Informatics/record-navigation.js",
+    "bytes": 6107,
+    "sha256": "07058c2083567bd181e1adafcd6ead3d3782f519825b783ff634e268e51bd856"
+  },
+  {
+    "path": "Informatics/research.css",
+    "bytes": 16684,
+    "sha256": "62d34fbc42967c29ae4267de8a57b4e627f72e044302c18325c2fb664decc8bd"
+  },
+  {
+    "path": "Informatics/research.html",
+    "bytes": 14711,
+    "sha256": "07a2e24d72b0eecca9db9588f955d1de14174931233de63232d26027401fd5a5"
+  },
+  {
+    "path": "Informatics/research.js",
+    "bytes": 21230,
+    "sha256": "0a3a15fe61cf34e357541b677ec1d79585ecb3a2539ab65c34e0ef4a4319f97e"
+  },
+  {
+    "path": "Informatics/science-studies.js",
+    "bytes": 27508,
+    "sha256": "039949e3f67211f2f49228bc96f22d92780a970627fbf5fc0b8f46343cdb030d"
+  },
+  {
+    "path": "Informatics/science.css",
+    "bytes": 39912,
+    "sha256": "3b1dc08557873620e70bbce2ad13d4f9526971fcefaeb7e49e3b8216b1f7808f"
+  },
+  {
+    "path": "Informatics/science.js",
+    "bytes": 61824,
+    "sha256": "3844b867a860e26cb0bc3113470759d4c49eee886f2d6591376dbf78516b3945"
+  },
+  {
+    "path": "Informatics/shared-experience.css",
+    "bytes": 1231,
+    "sha256": "c01069c6af3910971cf562666e86c6c2f7eb31074410656ef337808c20070b3c"
+  },
+  {
+    "path": "Informatics/shared-experience.js",
+    "bytes": 2395,
+    "sha256": "b0ff825af3d938146832790d69ab57db694a1b5f9aac5eaaa2b9fb625cb81a71"
+  },
+  {
+    "path": "Informatics/shared-shell-route.js",
+    "bytes": 689,
+    "sha256": "6ecfcf7fc994a6a036e38cc426e3c5c2493c5c1f1e816df47f1198375f8f30b6"
+  },
+  {
+    "path": "Informatics/style.css",
+    "bytes": 12522,
+    "sha256": "8c6293e7444175be20962ceb0ed6167081300a1b6a4fcd5b4ca4ad09f89c37af"
+  },
+  {
+    "path": "Informatics/tfbs-evidence.js",
+    "bytes": 679,
+    "sha256": "21f5b9da1947a1ac8e3956b24c88820e9a29252be7e43bc1d7e59ed789df6c21"
+  },
+  {
+    "path": "Informatics/tfbs-explorer.js",
+    "bytes": 17272,
+    "sha256": "7d5271021644d7fc543cafd5513a2bcdd46f8d63436f56728d32e7ed21c911ce"
+  },
+  {
+    "path": "Informatics/tfbs-geometry.js",
+    "bytes": 50022,
+    "sha256": "8ee3b7eb0dc5f7c60c44c5b01bed9f7b49371b1f34b5a512eae7dda082161e5d"
+  },
+  {
+    "path": "Informatics/universal-one-audio.js",
+    "bytes": 1576,
+    "sha256": "38bae647336cc4d8543d2cf37802ef237238bc2ebadf64c96622cec519b6ca79"
+  },
+  {
+    "path": "Informatics/universal-one-character.js",
+    "bytes": 3250,
+    "sha256": "2840af3f8bb86465920540171971d8409f50aab6c0377f08d6ed854999375b31"
+  },
+  {
+    "path": "Informatics/universal-one-context.js",
+    "bytes": 3488,
+    "sha256": "a5241bb3e4378a3377c5954e2ebd3f8a6a93fc3dd1cc5f56a9253dde996a5a91"
+  },
+  {
+    "path": "Informatics/universal-one-live.js",
+    "bytes": 11598,
+    "sha256": "e7230e117c0499253863b623ed30127abfeb244a501afffa98a13b4b3687fdd9"
+  },
+  {
+    "path": "Informatics/universal-one-routing.js",
+    "bytes": 770,
+    "sha256": "a45e3a5787e18b1b84e8c82ac7c304a2a959323e1c7b0ef449c92663c8730308"
+  },
+  {
+    "path": "Informatics/universal-one-waveform.js",
+    "bytes": 4580,
+    "sha256": "60d7ffcb8b649e8aa78112e4c29b8f9d2597eaf4ee8be9190e0dc9d3a8c8f57f"
+  },
+  {
+    "path": "Informatics/universal-one.css",
+    "bytes": 8569,
+    "sha256": "89afff1e41f8505b9d8db9f6e7ebd5a3d7f33c78d80c0d430f1d394a15446eb1"
+  },
+  {
+    "path": "Informatics/universal-one.js",
+    "bytes": 20452,
+    "sha256": "42a62612224c650b508a586bff1a779996125f8ec8fecff525b6b1f6f1610573"
+  },
+  {
+    "path": "Informatics/vision-science.css",
+    "bytes": 8491,
+    "sha256": "8e241c43ae881a9c238ceeacead33064180f29d58669fef485d28c61409d9d14"
+  },
+  {
+    "path": "Informatics/vision-science.js",
+    "bytes": 14924,
+    "sha256": "d3995b1d01eb19eb0152bb5af0e4cfb7c65c2c902bf683181deeb04fd6e71d5f"
+  },
+  {
+    "path": "llms.txt",
+    "bytes": 5412,
+    "sha256": "93d1a7f00fb522c913ef3df76cbdde0ffa075d26a344cc04992102323ca83324"
+  },
+  {
+    "path": "research/informatics/pilot/csv_records.py",
+    "bytes": 2992,
+    "sha256": "a858c469bf3c778a93c2c45058bfa99478da3460e8a3289066f039ffd1b3592f"
+  },
+  {
+    "path": "robots-staging.txt",
+    "bytes": 85,
+    "sha256": "859eef86606facf7d1910d81fe123eafb60ca9f3a9dbc40765ccfeb772daae0b"
+  },
+  {
+    "path": "robots.txt",
+    "bytes": 3674,
+    "sha256": "8da03aa079d56f42c19b478b4c6379a86953e5dfe5bd109df47d52b4dc3005ea"
+  },
+  {
+    "path": "sitemap.xml",
+    "bytes": 175056,
+    "sha256": "db599eb695df803672d28ef962721daa20685ca55a9a2ce8c0f17346d361668f"
+  },
+  {
+    "path": "tools/archive-informatics-snapshot.py",
+    "bytes": 5444,
+    "sha256": "d833dcbb25f558d7d99888ea8e0fac403c85f2ffd6310eebda94d2689a57f1b7"
+  },
+  {
+    "path": "tools/build-informatics-reading.mjs",
+    "bytes": 20402,
+    "sha256": "75a8924ac50905d1b18f1ab3beeddf0bf734b71a0634410ae4ca6a4df9446930"
+  },
+  {
+    "path": "tools/check-informatics-discovery.py",
+    "bytes": 4826,
+    "sha256": "b0cadd7567e99a130661c4cbf529f54f55400ca1a2b767173120c0e0033f9bfe"
+  },
+  {
+    "path": "tools/export-informatics.py",
+    "bytes": 8036,
+    "sha256": "945f7b879d78fbb0271aade8675145a981af979f9fd1f5d7e5c38c192551b079"
+  }
+]

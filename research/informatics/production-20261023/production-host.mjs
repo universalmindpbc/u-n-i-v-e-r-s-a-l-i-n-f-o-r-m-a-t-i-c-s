@@ -1,0 +1,2 @@
+import {registerHooks} from 'node:module';
+registerHooks({load(url,context,nextLoad){const r=nextLoad(url,context);if(url.includes('/tools/check-')&&r.format==='module'){return {...r,source:String(r.source).replaceAll('https://staging.universalmind.tv/informatics/','https://universalmind.tv/informatics/').replaceAll('/private/tmp/vision-research-','/private/tmp/informatics-production-20261023/vision-').replaceAll('/private/tmp/language-research-','/private/tmp/informatics-production-20261023/language-')};}return r;}});

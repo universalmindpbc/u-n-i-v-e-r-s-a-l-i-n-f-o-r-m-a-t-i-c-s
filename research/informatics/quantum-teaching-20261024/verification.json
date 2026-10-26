@@ -1,0 +1,65 @@
+{
+  "verifiedAt": "2026-10-23T21:54:26.302610+00:00",
+  "sourceCommit": "a5310660c3886b21f458d83d8f85491ec075b428",
+  "integratedStagingCommit": "fed46344f1572381dfd14a24983a8ec59bad728c",
+  "stagingURL": "https://staging.universalmind.tv/informatics/molecular/?level=quantum",
+  "dockingURL": "https://staging.universalmind.tv/informatics/molecular/?level=docking",
+  "deployment": {
+    "workflow": "./deploy-panthur-staging.sh informatics",
+    "changedUploads": 5,
+    "preflightsPassed": true,
+    "manifestSHA256": "8ccef213d4c2097e7ac07faa61c0527f04074da881d9dfcfa3aad333b68565b3",
+    "httpExactAssetMatches": 18,
+    "manifestMatchesHTTP": true
+  },
+  "live": {
+    "teachingViewports": [
+      1470,
+      1024,
+      390,
+      320
+    ],
+    "embeddedViewports": [
+      1470,
+      390
+    ],
+    "visibleModelPixelsVerified": true,
+    "animationAndPausePixelsVerifiedAtWidth": 1470,
+    "modeSettingsPreserved": true,
+    "sourceAndExportChecked": true,
+    "invalidCalculatedFieldRejected": true,
+    "consoleErrors": []
+  },
+  "candidateRegression": {
+    "calculatedFields": 4,
+    "viewports": [
+      1470,
+      1024,
+      390,
+      320
+    ],
+    "embeddedViewports": [
+      1470,
+      390
+    ],
+    "coordinateAndCubeChecksumsPassed": true,
+    "byteIdenticalCalculatedDownloads": true
+  },
+  "visualReview": {
+    "desktopAndPhone": true,
+    "sharedBandsSmooth": true,
+    "teachingTogglesMatchApprovedConcept": true,
+    "embeddedCameraSettledBeforeCapture": true
+  },
+  "browserSafety": {
+    "separateChromium": true,
+    "processMuteFlagVerified": true,
+    "nativeFullscreen": false,
+    "allAutomatedPagesClosed": true
+  },
+  "production": {
+    "modified": false,
+    "remoteMain": "d82c7ae080a5236cd1029bd9605d7b4e3988feb4"
+  },
+  "scope": "Only five Molecular Atlas public assets changed. Existing Universal One source and scientific datasets match the completed staging release."
+}

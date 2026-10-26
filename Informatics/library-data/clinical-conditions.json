@@ -1,0 +1,4387 @@
+{
+  "version": 1,
+  "method": "Labels identify explicit conditions or symptoms in publication titles and transcribed study participants or measurements. They do not assert a diagnosis, effectiveness, or full-text appraisal. Empty labels mean not yet classified. The name Mindfulness-Based Stress Reduction alone is not a stress outcome; oxidative and cellular stress alone are not mental-health symptom labels.",
+  "taxonomy": [
+    {
+      "id": "anxiety",
+      "label": "Anxiety"
+    },
+    {
+      "id": "ptsd",
+      "label": "PTSD"
+    },
+    {
+      "id": "trauma",
+      "label": "Trauma-related symptoms"
+    },
+    {
+      "id": "depression",
+      "label": "Depression"
+    },
+    {
+      "id": "psychosis",
+      "label": "Psychosis"
+    },
+    {
+      "id": "schizophrenia",
+      "label": "Schizophrenia"
+    },
+    {
+      "id": "bipolar",
+      "label": "Bipolar disorder"
+    },
+    {
+      "id": "mania",
+      "label": "Mania / hypomania"
+    },
+    {
+      "id": "adhd",
+      "label": "ADHD"
+    },
+    {
+      "id": "ocd",
+      "label": "Obsessive-compulsive disorder"
+    },
+    {
+      "id": "stress",
+      "label": "Stress"
+    },
+    {
+      "id": "sleep",
+      "label": "Sleep problems / insomnia"
+    },
+    {
+      "id": "substance-use",
+      "label": "Substance use / addiction"
+    },
+    {
+      "id": "autism",
+      "label": "Autism"
+    },
+    {
+      "id": "eating-disorders",
+      "label": "Eating disorders"
+    },
+    {
+      "id": "dementia",
+      "label": "Dementia / Alzheimer’s disease"
+    }
+  ],
+  "records": {
+    "doi-10.1007-s12671-026-02877-9": [
+      {
+        "id": "dementia",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Dynamic Methylation Changes in Alzheimer’s Disease-Related Genes During Mindfulness Practice – a Proof-of-Concept Study",
+            "matchedText": "Alzheimer"
+          }
+        ]
+      }
+    ],
+    "pmid-42519422": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "MicroRNAs expression changes associated with trauma-focused psychotherapy efficacy in treatment-resistant depression: An exploratory study.",
+            "matchedText": "trauma"
+          }
+        ]
+      },
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "MicroRNAs expression changes associated with trauma-focused psychotherapy efficacy in treatment-resistant depression: An exploratory study.",
+            "matchedText": "depression"
+          }
+        ]
+      }
+    ],
+    "pmid-42615937": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Shared Transcriptomic and Epigenomic Signatures Between Traumatic Brain Injury and Music Exposure: An Integrative Proof of Concept",
+            "matchedText": "Traumatic"
+          }
+        ]
+      }
+    ],
+    "pmid-41367385": [
+      {
+        "id": "autism",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Decoding the peripheral transcriptomic and meta-genomic response to music in autism spectrum disorder via saliva-based RNA sequencing",
+            "matchedText": "autism"
+          }
+        ]
+      }
+    ],
+    "pmid-40281224": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Epigenetic markers of disease risk and psychotherapy response in anxiety disorders - a longitudinal analysis of the DNA methylome",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-40749778": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Irregular light schedules disrupt daily rhythms and dysregulate genes involved in neuroplasticity, motivation, and stress responses",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-41020112": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Psychological assessments, allostatic load and gene expression analyses in a randomized controlled trial comparing meditation, yoga, and stress education",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-39060246": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Distinct saliva DNA methylation profiles in relation to treatment outcome in youth with posttraumatic stress disorder.",
+            "matchedText": "posttraumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Distinct saliva DNA methylation profiles in relation to treatment outcome in youth with posttraumatic stress disorder.",
+            "matchedText": "posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Distinct saliva DNA methylation profiles in relation to treatment outcome in youth with posttraumatic stress disorder.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-38362742": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "DNA methylation changes in association with trauma-focused psychotherapy efficacy in treatment-resistant depression patients: a prospective longitudinal study.",
+            "matchedText": "trauma"
+          }
+        ]
+      },
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "DNA methylation changes in association with trauma-focused psychotherapy efficacy in treatment-resistant depression patients: a prospective longitudinal study.",
+            "matchedText": "depression"
+          }
+        ]
+      }
+    ],
+    "pmid-38671329": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Serotonin Transporter (SLC6A4) and FK506-Binding Protein 5 (FKBP5) Genotype and Methylation Relationships with Response to Meditation in Veterans with PTSD",
+            "matchedText": "PTSD"
+          },
+          {
+            "field": "evidence.sample",
+            "text": "72 veterans with PTSD",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "pmid-36658116": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Epigenetics of traumatic stress: The association of NR3C1 methylation and posttraumatic stress disorder symptom changes in response to narrative exposure therapy",
+            "matchedText": "posttraumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Epigenetics of traumatic stress: The association of NR3C1 methylation and posttraumatic stress disorder symptom changes in response to narrative exposure therapy",
+            "matchedText": "traumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Epigenetics of traumatic stress: The association of NR3C1 methylation and posttraumatic stress disorder symptom changes in response to narrative exposure therapy",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-36819725": [
+      {
+        "id": "dementia",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Sensogenomics of music and Alzheimer's disease: An interdisciplinary view from neuroscience, transcriptomics, and epigenomics",
+            "matchedText": "Alzheimer"
+          }
+        ]
+      }
+    ],
+    "doi-14a5c17359f1dfcb": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Transcriptional Modulation of Stress-Related Genes in Association with Early Life Stress Exposure and Trauma-Focused Psychotherapy in Treatment-Resistant Depression Patients",
+            "matchedText": "Trauma"
+          }
+        ]
+      },
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Transcriptional Modulation of Stress-Related Genes in Association with Early Life Stress Exposure and Trauma-Focused Psychotherapy in Treatment-Resistant Depression Patients",
+            "matchedText": "Depression"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Transcriptional Modulation of Stress-Related Genes in Association with Early Life Stress Exposure and Trauma-Focused Psychotherapy in Treatment-Resistant Depression Patients",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "pmid-35070159": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Inflammation-related microRNAs are involved in stressful life events exposure and in trauma-focused psychotherapy in treatment-resistant depressed patients.",
+            "matchedText": "trauma"
+          }
+        ]
+      },
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Inflammation-related microRNAs are involved in stressful life events exposure and in trauma-focused psychotherapy in treatment-resistant depressed patients.",
+            "matchedText": "depressed"
+          }
+        ]
+      }
+    ],
+    "pmid-31645664": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Successful treatment of post-traumatic stress disorder reverses DNA methylation marks.",
+            "matchedText": "post-traumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Successful treatment of post-traumatic stress disorder reverses DNA methylation marks.",
+            "matchedText": "post-traumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Successful treatment of post-traumatic stress disorder reverses DNA methylation marks.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-28795405": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Genomewide DNA methylation analysis in combat veterans reveals a novel locus for PTSD",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "pmid-29306937": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The Effects of Stress and Meditation on the Immune System, Human Microbiota, & Epigenetics",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "pmid-25749595": [
+      {
+        "id": "sleep",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Tai chi, cellular inflammation, and transcriptome dynamics in breast cancer survivors with insomnia: a randomized controlled trial",
+            "matchedText": "insomnia"
+          }
+        ]
+      }
+    ],
+    "pmid-22123970": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Common oxytocin receptor gene (OXTR) polymorphism and social support interact to reduce stress in humans",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-18833581": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The DRD2 gene 957C>T polymorphism is associated with Posttraumatic Stress Disorder in war veterans",
+            "matchedText": "Posttraumatic Stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The DRD2 gene 957C>T polymorphism is associated with Posttraumatic Stress Disorder in war veterans",
+            "matchedText": "Posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The DRD2 gene 957C>T polymorphism is associated with Posttraumatic Stress Disorder in war veterans",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "pmid-18596974": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Genomic counter-stress changes induced by the relaxation response",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-15668624": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Recreational music-making modulates the human stress response: a preliminary individualized gene expression strategy",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "src-f509442c9ca1": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Interaction effect of oxytocin receptor (OXTR) rs53576 genotype and maternal postpartum depression on child behavioural problems",
+            "matchedText": "depression"
+          }
+        ]
+      }
+    ],
+    "src-473becc5048a": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The intergenerational transference of Post-Traumatic Stress Disorder amongst children and grandchildren of Vietnam veterans in Australia: An argument for a genetic origin. Review of current literature",
+            "matchedText": "Post-Traumatic Stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The intergenerational transference of Post-Traumatic Stress Disorder amongst children and grandchildren of Vietnam veterans in Australia: An argument for a genetic origin. Review of current literature",
+            "matchedText": "Post-Traumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The intergenerational transference of Post-Traumatic Stress Disorder amongst children and grandchildren of Vietnam veterans in Australia: An argument for a genetic origin. Review of current literature",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "src-e9b23a765f28": [
+      {
+        "id": "dementia",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Yogic meditation reverses NF- κ B and IRF-related transcriptome dynamics in leukocytes of family dementia caregivers in a randomized controlled trial",
+            "matchedText": "dementia"
+          }
+        ]
+      }
+    ],
+    "pmid-41974356": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Community singing intervention reduces maternal salivary cytokines and enhances maternal-infant cortisol synchrony in postnatal depression: biological findings from the SHAPER-PND trial",
+            "matchedText": "depression"
+          }
+        ]
+      }
+    ],
+    "pmid-42880055": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Efficacy of eye movement desensitization and reprocessing for anxiety: An umbrella review and meta-meta-analysis of randomized controlled trials.",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-42703195": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Efficacy of the Adapted Integrative Group EMDR Therapy Protocol for Ongoing Traumatic Stress in Adolescents after a Traumatic Event.",
+            "matchedText": "Traumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Efficacy of the Adapted Integrative Group EMDR Therapy Protocol for Ongoing Traumatic Stress in Adolescents after a Traumatic Event.",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "portal-66ebe89ad390": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Is the Group Traumatic Episode Protocol (G-TEP) Effective for Post-Traumatic Stress Disorder? A Meta-Analysis.",
+            "matchedText": "Post-Traumatic Stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Is the Group Traumatic Episode Protocol (G-TEP) Effective for Post-Traumatic Stress Disorder? A Meta-Analysis.",
+            "matchedText": "Traumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Is the Group Traumatic Episode Protocol (G-TEP) Effective for Post-Traumatic Stress Disorder? A Meta-Analysis.",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "pmid-42411718": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Peer-delivered combined EMD and imagery rescripting for traumatized Chinese university students: a RCT.",
+            "matchedText": "traumatized"
+          }
+        ]
+      }
+    ],
+    "pmid-42254728": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Remote EMDR versus CBT for PTSD after the Kahramanmaraş earthquakes: a randomized trial.",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "pmid-42773467": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The immediate and follow-up effects of EMDR therapy for adults with post-traumatic stress disorder: a meta-analysis of randomized controlled trials.",
+            "matchedText": "post-traumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The immediate and follow-up effects of EMDR therapy for adults with post-traumatic stress disorder: a meta-analysis of randomized controlled trials.",
+            "matchedText": "post-traumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The immediate and follow-up effects of EMDR therapy for adults with post-traumatic stress disorder: a meta-analysis of randomized controlled trials.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "portal-e25cb1d2bb79": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Theta binaural beats for pain, cognition and anxiety",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-42324567": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Trauma-focused treatments for refugee children and adolescents with PTSD: a three-arm randomized controlled trial comparing the efficacy of EMDR and KIDNET versus a waitlist control group (the KIEM study).",
+            "matchedText": "PTSD"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Trauma-focused treatments for refugee children and adolescents with PTSD: a three-arm randomized controlled trial comparing the efficacy of EMDR and KIDNET versus a waitlist control group (the KIEM study).",
+            "matchedText": "Trauma"
+          }
+        ]
+      }
+    ],
+    "pmid-41340540": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Clinical and Cost-Effectiveness of Eye Movement Desensitisation and Reprocessing for Post-Traumatic Stress Disorder in Children and Adolescents: A Systematic Review and Meta-Analysis.",
+            "matchedText": "Post-Traumatic Stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Clinical and Cost-Effectiveness of Eye Movement Desensitisation and Reprocessing for Post-Traumatic Stress Disorder in Children and Adolescents: A Systematic Review and Meta-Analysis.",
+            "matchedText": "Post-Traumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Clinical and Cost-Effectiveness of Eye Movement Desensitisation and Reprocessing for Post-Traumatic Stress Disorder in Children and Adolescents: A Systematic Review and Meta-Analysis.",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "pmid-39835632": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effectiveness of an intensive outpatient treatment programme combining prolonged exposure and EMDR therapy for adolescents and young adults with PTSD in a naturalistic setting.",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "pmid-40243164": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effects of eye movement desensitisation and reprocessing on depressive symptoms, stress and rumination in adolescents with depression: a randomised controlled trial.",
+            "matchedText": "depressive"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effects of eye movement desensitisation and reprocessing on depressive symptoms, stress and rumination in adolescents with depression: a randomised controlled trial.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-40379363": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Mindfulness-based cognitive therapy versus treatment as usual after non-remission with NHS Talking Therapies high-intensity psychological therapy for depression: a UK-based clinical effectiveness and cost-effectiveness randomised, controlled, superiority trial",
+            "matchedText": "depression"
+          },
+          {
+            "field": "evidence.sample",
+            "text": "234 adults with depression persisting after psychological therapy",
+            "matchedText": "depression"
+          },
+          {
+            "field": "evidence.measurement",
+            "text": "PHQ-9 depression symptoms",
+            "matchedText": "depression"
+          }
+        ]
+      }
+    ],
+    "pmid-40547443": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Music therapy for the treatment of anxiety: a systematic review with multilevel meta-analyses",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-39630422": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Psychological Interventions for Pediatric Posttraumatic Stress Disorder: A Systematic Review and Network Meta-Analysis.",
+            "matchedText": "Posttraumatic Stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Psychological Interventions for Pediatric Posttraumatic Stress Disorder: A Systematic Review and Network Meta-Analysis.",
+            "matchedText": "Posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Psychological Interventions for Pediatric Posttraumatic Stress Disorder: A Systematic Review and Network Meta-Analysis.",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "pmid-40706348": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Stress and stress reactivity in posttraumatic stress disorder (PTSD) following eye movement desensitization (EMD): A randomized controlled trial.",
+            "matchedText": "posttraumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Stress and stress reactivity in posttraumatic stress disorder (PTSD) following eye movement desensitization (EMD): A randomized controlled trial.",
+            "matchedText": "posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Stress and stress reactivity in posttraumatic stress disorder (PTSD) following eye movement desensitization (EMD): A randomized controlled trial.",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "pmid-40417270": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The effectiveness of online Eye Movement Desensitization and Reprocessing 2.0 Group Protocol on post-traumatic stress disorders symptoms, depression, anxiety, and stress in individuals who have experienced a traffic accident: a randomized-controlled study.",
+            "matchedText": "anxiety"
+          }
+        ]
+      },
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The effectiveness of online Eye Movement Desensitization and Reprocessing 2.0 Group Protocol on post-traumatic stress disorders symptoms, depression, anxiety, and stress in individuals who have experienced a traffic accident: a randomized-controlled study.",
+            "matchedText": "post-traumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The effectiveness of online Eye Movement Desensitization and Reprocessing 2.0 Group Protocol on post-traumatic stress disorders symptoms, depression, anxiety, and stress in individuals who have experienced a traffic accident: a randomized-controlled study.",
+            "matchedText": "post-traumatic"
+          }
+        ]
+      },
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The effectiveness of online Eye Movement Desensitization and Reprocessing 2.0 Group Protocol on post-traumatic stress disorders symptoms, depression, anxiety, and stress in individuals who have experienced a traffic accident: a randomized-controlled study.",
+            "matchedText": "depression"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The effectiveness of online Eye Movement Desensitization and Reprocessing 2.0 Group Protocol on post-traumatic stress disorders symptoms, depression, anxiety, and stress in individuals who have experienced a traffic accident: a randomized-controlled study.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "doi-37881ae999c094e1": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The effectiveness of trauma-based therapies for Aboriginal and non-Aboriginal children and adolescents in out-of-home care",
+            "matchedText": "trauma"
+          }
+        ]
+      }
+    ],
+    "pmid-40655918": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Music interventions for posttraumatic stress disorder: A systematic review",
+            "matchedText": "posttraumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Music interventions for posttraumatic stress disorder: A systematic review",
+            "matchedText": "posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Music interventions for posttraumatic stress disorder: A systematic review",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-39731040": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The effect of eye movement desensitization on neurocognitive functioning compared to retrieval-only in PTSD patients: a randomized controlled trial.",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "pmid-39023949": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The use of the \"group traumatic episode protocol (G-TEP) \" in an outpatient randomized and hospital setting: Implementation and effects in heterogeneous patient samples.",
+            "matchedText": "traumatic"
+          }
+        ]
+      }
+    ],
+    "portal-1542d1de36c9": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Group early intervention eye movement desensitization and reprocessing therapy as a video-conference psychotherapy with frontline/emergency workers in response to the COVID-19 pandemic in the treatment of post-traumatic stress disorder and moral injury-An RCT study.",
+            "matchedText": "post-traumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Group early intervention eye movement desensitization and reprocessing therapy as a video-conference psychotherapy with frontline/emergency workers in response to the COVID-19 pandemic in the treatment of post-traumatic stress disorder and moral injury-An RCT study.",
+            "matchedText": "post-traumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Group early intervention eye movement desensitization and reprocessing therapy as a video-conference psychotherapy with frontline/emergency workers in response to the COVID-19 pandemic in the treatment of post-traumatic stress disorder and moral injury-An RCT study.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-36350591": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Mindfulness-Based Stress Reduction vs Escitalopram for the Treatment of Adults With Anxiety Disorders: A Randomized Clinical Trial",
+            "matchedText": "Anxiety"
+          },
+          {
+            "field": "evidence.measurement",
+            "text": "Clinician-rated anxiety severity",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-38327501": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Randomized controlled trials of mind-body interventions for posttraumatic stress disorder: a systematic review",
+            "matchedText": "posttraumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Randomized controlled trials of mind-body interventions for posttraumatic stress disorder: a systematic review",
+            "matchedText": "posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Randomized controlled trials of mind-body interventions for posttraumatic stress disorder: a systematic review",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-38032626": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The effect of eye movement desensitization and reprocessing-based online group counseling for university students: Psychological need satisfaction, psychological resilience, psychological well-being, and small 't' trauma.",
+            "matchedText": "trauma"
+          }
+        ]
+      }
+    ],
+    "portal-937934d6d2dd": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "VA/DoD Clinical Practice Guideline for the Management of PTSD",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "pmid-35820992": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "evidence.measurement",
+            "text": "Depression risk, social-emotional functioning and wellbeing",
+            "matchedText": "Depression"
+          }
+        ]
+      }
+    ],
+    "doi-67fa7275f4f4ba77": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effects of EMDR Group Traumatic Episode Protocol on Burnout Within IAPT Healthcare Professionals: A Feasibility and Acceptability Study",
+            "matchedText": "Traumatic"
+          }
+        ]
+      }
+    ],
+    "pmid-36248508": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The effect of the online eye movement desensitization and reprocessing early intervention protocol (EMDR R-TEP) for the risk groups with post-traumatic stress symptoms during the COVID-19 pandemic.",
+            "matchedText": "post-traumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The effect of the online eye movement desensitization and reprocessing early intervention protocol (EMDR R-TEP) for the risk groups with post-traumatic stress symptoms during the COVID-19 pandemic.",
+            "matchedText": "post-traumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The effect of the online eye movement desensitization and reprocessing early intervention protocol (EMDR R-TEP) for the risk groups with post-traumatic stress symptoms during the COVID-19 pandemic.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "src-3d07e41dbe7a": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The efficacy of trauma-based therapies for Aboriginal children and young people in out-of-home care: a journey through LINKS",
+            "matchedText": "trauma"
+          }
+        ]
+      }
+    ],
+    "pmid-35707677": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The Role of the Endocannabinoids 2-AG and Anandamide in Clinical Symptoms and Treatment Outcome in Veterans with PTSD.",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "src-05fee8b7d126": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "COVID-19, Isolation, Quarantine: On the Efficacy of Internet-Based Eye Movement Desensitization and Reprocessing (EMDR) and Cognitive-Behavioral Therapy (CBT) for Ongoing Trauma",
+            "matchedText": "Trauma"
+          }
+        ]
+      }
+    ],
+    "pmid-33709117": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Long-term effectiveness of eye movement desensitization and reprocessing in children and adolescents with medically related subthreshold post-traumatic stress disorder: a randomized controlled trial.",
+            "matchedText": "post-traumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Long-term effectiveness of eye movement desensitization and reprocessing in children and adolescents with medically related subthreshold post-traumatic stress disorder: a randomized controlled trial.",
+            "matchedText": "post-traumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Long-term effectiveness of eye movement desensitization and reprocessing in children and adolescents with medically related subthreshold post-traumatic stress disorder: a randomized controlled trial.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "doi-37bd65a31f48ce93": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Randomized Controlled Trial: Self-Care Traumatic Episode Protocol, Computerized EMDR Treatment of COVID-19-Related Stress",
+            "matchedText": "Traumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Randomized Controlled Trial: Self-Care Traumatic Episode Protocol, Computerized EMDR Treatment of COVID-19-Related Stress",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "pmid-34025912": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Safety and effectiveness of intensive treatment for complex PTSD delivered via home-based telehealth.",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "pmid-34050123": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Theta burst stimulation for the acute treatment of major depressive disorder: A systematic review and meta-analysis",
+            "matchedText": "depressive"
+          }
+        ]
+      }
+    ],
+    "pmid-32655132": [
+      {
+        "id": "psychosis",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Intranasal oxytocin increases heart-rate variability in men at clinical high risk for psychosis: a proof-of-concept study",
+            "matchedText": "psychosis"
+          }
+        ]
+      }
+    ],
+    "pmid-31794974": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "One-year clinical outcomes following theta burst stimulation for post-traumatic stress disorder",
+            "matchedText": "post-traumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "One-year clinical outcomes following theta burst stimulation for post-traumatic stress disorder",
+            "matchedText": "post-traumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "One-year clinical outcomes following theta burst stimulation for post-traumatic stress disorder",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "src-4981a8e87964": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Self-administered EMDR therapy: potential solution for expanding the availability of psychotherapy for PTSD or unregulated recipe for disaster?",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "pmid-30073406": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Efficacy of binaural auditory beats in cognition, anxiety, and pain perception: a meta-analysis",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-31352130": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Pretreatment cortisol predicts trauma-focused psychotherapy response in youth with (partial) posttraumatic stress disorder.",
+            "matchedText": "posttraumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Pretreatment cortisol predicts trauma-focused psychotherapy response in youth with (partial) posttraumatic stress disorder.",
+            "matchedText": "trauma"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Pretreatment cortisol predicts trauma-focused psychotherapy response in youth with (partial) posttraumatic stress disorder.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-30858808": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Psychological and Brain Connectivity Changes Following Trauma-Focused CBT and EMDR Treatment in Single-Episode PTSD Patients.",
+            "matchedText": "PTSD"
+          },
+          {
+            "field": "evidence.sample",
+            "text": "Single-episode PTSD patients; not a military-specific sample",
+            "matchedText": "PTSD"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Psychological and Brain Connectivity Changes Following Trauma-Focused CBT and EMDR Treatment in Single-Episode PTSD Patients.",
+            "matchedText": "Trauma"
+          }
+        ]
+      }
+    ],
+    "src-8ad1130190f0": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Theta-Burst Transcranial Magnetic Stimulation for Posttraumatic Stress Disorder",
+            "matchedText": "Posttraumatic Stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Theta-Burst Transcranial Magnetic Stimulation for Posttraumatic Stress Disorder",
+            "matchedText": "Posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Theta-Burst Transcranial Magnetic Stimulation for Posttraumatic Stress Disorder",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "pmid-29946275": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "An Eye Movement Desensitization and Reprocessing (EMDR) Group Intervention for Syrian Refugees With Post-traumatic Stress Symptoms: Results of a Randomized Controlled Trial.",
+            "matchedText": "Post-traumatic Stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "An Eye Movement Desensitization and Reprocessing (EMDR) Group Intervention for Syrian Refugees With Post-traumatic Stress Symptoms: Results of a Randomized Controlled Trial.",
+            "matchedText": "Post-traumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "An Eye Movement Desensitization and Reprocessing (EMDR) Group Intervention for Syrian Refugees With Post-traumatic Stress Symptoms: Results of a Randomized Controlled Trial.",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "pmid-30197612": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effective Treatment of Veterans With PTSD: Comparison Between Intensive Daily and Weekly EMDR Approaches.",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "pmid-30186192": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Eye Movement Desensitization and Reprocessing Versus Treatment as Usual in the Treatment of Depression: A Randomized-Controlled Trial.",
+            "matchedText": "Depression"
+          },
+          {
+            "field": "evidence.sample",
+            "text": "People with depression; not a veteran-specific sample",
+            "matchedText": "depression"
+          }
+        ]
+      }
+    ],
+    "pmid-30053086": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Molecular Hydrogen Prevents Social Deficits and Depression-Like Behaviors Induced by Low-Intensity Blast in Mice",
+            "matchedText": "Depression"
+          }
+        ]
+      }
+    ],
+    "pmid-29297265": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Short-Term Effects of Binaural Beats on EEG Power, Functional Connectivity, Cognition, Gait and Anxiety in Parkinson’s Disease",
+            "matchedText": "Anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-30552076": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Supported Internet-Delivered Cognitive Behavioral Therapy Programs for Depression, Anxiety, and Stress in University Students: Open, Non-Randomised Trial of Acceptability, Effectiveness, and Satisfaction",
+            "matchedText": "Anxiety"
+          }
+        ]
+      },
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Supported Internet-Delivered Cognitive Behavioral Therapy Programs for Depression, Anxiety, and Stress in University Students: Open, Non-Randomised Trial of Acceptability, Effectiveness, and Satisfaction",
+            "matchedText": "Depression"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Supported Internet-Delivered Cognitive Behavioral Therapy Programs for Depression, Anxiety, and Stress in University Students: Open, Non-Randomised Trial of Acceptability, Effectiveness, and Satisfaction",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "portal-b171bb6d1a29": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Transcendental Meditation versus exposure therapy in veterans with PTSD",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "pmid-30545815": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Using Psychological Artificial Intelligence (Tess) to Relieve Symptoms of Depression and Anxiety: Randomized Controlled Trial",
+            "matchedText": "Anxiety"
+          }
+        ]
+      },
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Using Psychological Artificial Intelligence (Tess) to Relieve Symptoms of Depression and Anxiety: Randomized Controlled Trial",
+            "matchedText": "Depression"
+          }
+        ]
+      }
+    ],
+    "pmid-28660669": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Comparison of eye movement desensitization and reprocessing therapy, cognitive behavioral writing therapy, and wait-list in pediatric posttraumatic stress disorder following single-incident trauma: a multicenter randomized clinical trial.",
+            "matchedText": "posttraumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Comparison of eye movement desensitization and reprocessing therapy, cognitive behavioral writing therapy, and wait-list in pediatric posttraumatic stress disorder following single-incident trauma: a multicenter randomized clinical trial.",
+            "matchedText": "posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Comparison of eye movement desensitization and reprocessing therapy, cognitive behavioral writing therapy, and wait-list in pediatric posttraumatic stress disorder following single-incident trauma: a multicenter randomized clinical trial.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-28588005": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Delivering Cognitive Behavior Therapy to Young Adults With Symptoms of Depression and Anxiety Using a Fully Automated Conversational Agent (Woebot): A Randomized Controlled Trial",
+            "matchedText": "Anxiety"
+          }
+        ]
+      },
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Delivering Cognitive Behavior Therapy to Young Adults With Symptoms of Depression and Anxiety Using a Fully Automated Conversational Agent (Woebot): A Randomized Controlled Trial",
+            "matchedText": "Depression"
+          }
+        ]
+      }
+    ],
+    "pmid-27647521": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Desynchronization of autonomic response and central autonomic network connectivity in posttraumatic stress disorder",
+            "matchedText": "posttraumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Desynchronization of autonomic response and central autonomic network connectivity in posttraumatic stress disorder",
+            "matchedText": "posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Desynchronization of autonomic response and central autonomic network connectivity in posttraumatic stress disorder",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "doi-648f6da34833f786": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Evaluating the EMDR Group Traumatic Episode Protocol With Refugees: A Field Study",
+            "matchedText": "Traumatic"
+          }
+        ]
+      }
+    ],
+    "pmid-28359771": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Hydrogen-rich saline attenuates anxiety-like behaviors in morphine-withdrawn mice",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-29497485": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Hydrogen-rich water for improvements of mood, anxiety, and autonomic nerve function in daily life",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-28087128": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Intranasal Oxytocin to Prevent Posttraumatic Stress Disorder Symptoms: A Randomized Controlled Trial in Emergency Department Patients",
+            "matchedText": "Posttraumatic Stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Intranasal Oxytocin to Prevent Posttraumatic Stress Disorder Symptoms: A Randomized Controlled Trial in Emergency Department Patients",
+            "matchedText": "Posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Intranasal Oxytocin to Prevent Posttraumatic Stress Disorder Symptoms: A Randomized Controlled Trial in Emergency Department Patients",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "pmid-28103407": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The Course and Correlates of Combat‐Related PTSD in Australian Vietnam Veterans in the Three Decades After the War",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "pmid-28544507": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The Effect of Binaural Beat Technology on the Cardiovascular Stress Response in Military Service Members With Postdeployment Stress",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "doi-2f565d066e4e774b": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Art therapy for PTSD and TBI: A senior active duty military service member’s therapeutic journey",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "pmid-25582800": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Mindfulness‐based cognitive therapy for youth with anxiety disorders at risk for bipolar disorder: a pilot trial",
+            "matchedText": "anxiety"
+          }
+        ]
+      },
+      {
+        "id": "bipolar",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Mindfulness‐based cognitive therapy for youth with anxiety disorders at risk for bipolar disorder: a pilot trial",
+            "matchedText": "bipolar"
+          }
+        ]
+      }
+    ],
+    "pmid-26963955": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Outcomes from eye movement desensitization and reprocessing in active-duty service members with posttraumatic stress disorder.",
+            "matchedText": "posttraumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Outcomes from eye movement desensitization and reprocessing in active-duty service members with posttraumatic stress disorder.",
+            "matchedText": "posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Outcomes from eye movement desensitization and reprocessing in active-duty service members with posttraumatic stress disorder.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-27353367": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The efficacy of eye movement desensitization and reprocessing for post-traumatic stress disorder and depression among Syrian refugees: results of a randomized controlled trial.",
+            "matchedText": "post-traumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The efficacy of eye movement desensitization and reprocessing for post-traumatic stress disorder and depression among Syrian refugees: results of a randomized controlled trial.",
+            "matchedText": "post-traumatic"
+          }
+        ]
+      },
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The efficacy of eye movement desensitization and reprocessing for post-traumatic stress disorder and depression among Syrian refugees: results of a randomized controlled trial.",
+            "matchedText": "depression"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The efficacy of eye movement desensitization and reprocessing for post-traumatic stress disorder and depression among Syrian refugees: results of a randomized controlled trial.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-26074123": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Time-course of PTSD symptoms in the Australian Defence Force: a retrospective cohort study",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "pmid-26256140": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "A pilot randomized trial teaching mindfulness-based stress reduction to traumatized youth in foster care",
+            "matchedText": "traumatized"
+          }
+        ]
+      }
+    ],
+    "doi-1e4b5bdcc2212351": [
+      {
+        "id": "substance-use",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Does Mindfulness Meditation Increase Effectiveness of Substance Abuse Treatment with Incarcerated Youth? A Pilot Randomized Controlled Trial",
+            "matchedText": "Substance Abuse"
+          }
+        ]
+      }
+    ],
+    "pmid-25907157": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effectiveness and cost-effectiveness of mindfulness-based cognitive therapy compared with maintenance antidepressant treatment in the prevention of depressive relapse or recurrence (PREVENT): a randomised controlled trial",
+            "matchedText": "depressive"
+          },
+          {
+            "field": "evidence.sample",
+            "text": "424 adults with recurrent depression",
+            "matchedText": "depression"
+          },
+          {
+            "field": "evidence.measurement",
+            "text": "Time to depressive relapse or recurrence",
+            "matchedText": "depressive"
+          }
+        ]
+      }
+    ],
+    "pmid-25989952": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "EMDR for Syrian refugees with posttraumatic stress disorder symptoms: results of a pilot randomized controlled trial.",
+            "matchedText": "posttraumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "EMDR for Syrian refugees with posttraumatic stress disorder symptoms: results of a pilot randomized controlled trial.",
+            "matchedText": "posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "EMDR for Syrian refugees with posttraumatic stress disorder symptoms: results of a pilot randomized controlled trial.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-26241597": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Mindfulness-Based Stress Reduction for Posttraumatic Stress Disorder Among Veterans: A Randomized Clinical Trial",
+            "matchedText": "Posttraumatic Stress"
+          },
+          {
+            "field": "evidence.sample",
+            "text": "116 veterans with PTSD",
+            "matchedText": "PTSD"
+          },
+          {
+            "field": "evidence.measurement",
+            "text": "Self-reported PTSD symptoms; clinician assessments",
+            "matchedText": "PTSD"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Mindfulness-Based Stress Reduction for Posttraumatic Stress Disorder Among Veterans: A Randomized Clinical Trial",
+            "matchedText": "Posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Mindfulness-Based Stress Reduction for Posttraumatic Stress Disorder Among Veterans: A Randomized Clinical Trial",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "doi-b1734615d2614781": [
+      {
+        "id": "substance-use",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Participatory choral music as a means of engagement in a veterans' mental health and addiction treatment setting",
+            "matchedText": "addiction"
+          }
+        ]
+      }
+    ],
+    "pmid-25607833": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Prolonged exposure vs eye movement desensitization and reprocessing vs waiting list for posttraumatic stress disorder in patients with a psychotic disorder: a randomized clinical trial.",
+            "matchedText": "posttraumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Prolonged exposure vs eye movement desensitization and reprocessing vs waiting list for posttraumatic stress disorder in patients with a psychotic disorder: a randomized clinical trial.",
+            "matchedText": "posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "psychosis",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Prolonged exposure vs eye movement desensitization and reprocessing vs waiting list for posttraumatic stress disorder in patients with a psychotic disorder: a randomized clinical trial.",
+            "matchedText": "psychotic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Prolonged exposure vs eye movement desensitization and reprocessing vs waiting list for posttraumatic stress disorder in patients with a psychotic disorder: a randomized clinical trial.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-26181573": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Regular Yoga Practice Improves Antioxidant Status, Immune Function, and Stress Hormone Releases in Young Healthy People: A Randomized, Double Blind, Controlled Pilot Study",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "pmid-25234347": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Self-Compassion in Recovery Following Potentially Traumatic Stress: Longitudinal Study of At-Risk Youth",
+            "matchedText": "Traumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Self-Compassion in Recovery Following Potentially Traumatic Stress: Longitudinal Study of At-Risk Youth",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "pmid-26679295": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The Feasibility, Acceptability, and Efficacy of Delivering Internet-Based Self-Help and Guided Self-Help Interventions for Generalized Anxiety Disorder to Indian University Students: Design of a Randomized Controlled Trial",
+            "matchedText": "Anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-26347062": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Treatments for traumatic brain injury with emphasis on transcranial near-infrared laser phototherapy",
+            "matchedText": "traumatic"
+          }
+        ]
+      }
+    ],
+    "pmid-26491332": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Virtual reality exposure-based therapy for the treatment of post-traumatic stress disorder: a review of its efficacy, the adequacy of the treatment protocol, and its acceptability",
+            "matchedText": "post-traumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Virtual reality exposure-based therapy for the treatment of post-traumatic stress disorder: a review of its efficacy, the adequacy of the treatment protocol, and its acceptability",
+            "matchedText": "post-traumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Virtual reality exposure-based therapy for the treatment of post-traumatic stress disorder: a review of its efficacy, the adequacy of the treatment protocol, and its acceptability",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-24799299": [
+      {
+        "id": "schizophrenia",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "A pilot six-week randomized controlled trial of oxytocin on social cognition and social skills in schizophrenia",
+            "matchedText": "schizophrenia"
+          }
+        ]
+      }
+    ],
+    "pmid-25071612": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Anxiety disorders are associated with reduced heart rate variability: a meta-analysis",
+            "matchedText": "Anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-24626068": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effect of Transcendental Meditation on Employee Stress, Depression, and Burnout: A Randomized Controlled Study",
+            "matchedText": "Depression"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effect of Transcendental Meditation on Employee Stress, Depression, and Burnout: A Randomized Controlled Study",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "pmid-24372522": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effects of Buddhism Walking Meditation on Depression, Functional Fitness, and Endothelium-Dependent Vasodilation in Depressed Elderly",
+            "matchedText": "Depression"
+          }
+        ]
+      }
+    ],
+    "doi-1ee8c9dc33b350fa": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effects of music relaxation video on pain and anxiety for women with gynaecological cancer receiving intracavitary brachytherapy: a randomised controlled trial",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-24107199": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effects of the Transcendental Meditation Technique on Trait Anxiety: A Meta-Analysis of Randomized Controlled Trials",
+            "matchedText": "Anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-25101684": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Efficacy of eye-movement desensitization and reprocessing for patients with posttraumatic-stress disorder: a meta-analysis of randomized controlled trials.",
+            "matchedText": "posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Efficacy of eye-movement desensitization and reprocessing for patients with posttraumatic-stress disorder: a meta-analysis of randomized controlled trials.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "doi-4e5b48cad9b6436d": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "EMDR With Traumatized Refugees: From Experience-Based to Evidence-Based Practice",
+            "matchedText": "Traumatized"
+          }
+        ]
+      }
+    ],
+    "pmid-24609454": [
+      {
+        "id": "schizophrenia",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Feasibility, Acceptability, and Preliminary Efficacy of a Smartphone Intervention for Schizophrenia",
+            "matchedText": "Schizophrenia"
+          }
+        ]
+      }
+    ],
+    "pmid-24515537": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Significant Reductions in Posttraumatic Stress Symptoms in Congolese Refugees Within 10 days of Transcendental Meditation Practice",
+            "matchedText": "Posttraumatic Stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Significant Reductions in Posttraumatic Stress Symptoms in Congolese Refugees Within 10 days of Transcendental Meditation Practice",
+            "matchedText": "Posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Significant Reductions in Posttraumatic Stress Symptoms in Congolese Refugees Within 10 days of Transcendental Meditation Practice",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "pmid-24965797": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Trauma-focused cognitive behavioral therapy or eye movement desensitization and reprocessing: what works in children with posttraumatic stress symptoms? A randomized controlled trial.",
+            "matchedText": "posttraumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Trauma-focused cognitive behavioral therapy or eye movement desensitization and reprocessing: what works in children with posttraumatic stress symptoms? A randomized controlled trial.",
+            "matchedText": "Trauma"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Trauma-focused cognitive behavioral therapy or eye movement desensitization and reprocessing: what works in children with posttraumatic stress symptoms? A randomized controlled trial.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-23702050": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "A multi-site single blind clinical study to compare the effects of prolonged exposure, eye movement desensitization and reprocessing and waiting list on patients with a current diagnosis of psychosis and co morbid post traumatic stress disorder: study protocol for the randomized controlled trial Treating Trauma in Psychosis.",
+            "matchedText": "post traumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "A multi-site single blind clinical study to compare the effects of prolonged exposure, eye movement desensitization and reprocessing and waiting list on patients with a current diagnosis of psychosis and co morbid post traumatic stress disorder: study protocol for the randomized controlled trial Treating Trauma in Psychosis.",
+            "matchedText": "post traumatic"
+          }
+        ]
+      },
+      {
+        "id": "psychosis",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "A multi-site single blind clinical study to compare the effects of prolonged exposure, eye movement desensitization and reprocessing and waiting list on patients with a current diagnosis of psychosis and co morbid post traumatic stress disorder: study protocol for the randomized controlled trial Treating Trauma in Psychosis.",
+            "matchedText": "psychosis"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "A multi-site single blind clinical study to compare the effects of prolonged exposure, eye movement desensitization and reprocessing and waiting list on patients with a current diagnosis of psychosis and co morbid post traumatic stress disorder: study protocol for the randomized controlled trial Treating Trauma in Psychosis.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-23784718": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Loving‐Kindness in the Treatment of Traumatized Refugees and Minority Groups: A Typology of Mindfulness and the Nodal Network Model of Affect and Affect Regulation",
+            "matchedText": "Traumatized"
+          }
+        ]
+      }
+    ],
+    "pmid-23742229": [
+      {
+        "id": "schizophrenia",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Molecular hydrogen: an overview of its neurobiological effects and therapeutic potential for bipolar disorder and schizophrenia",
+            "matchedText": "schizophrenia"
+          }
+        ]
+      },
+      {
+        "id": "bipolar",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Molecular hydrogen: an overview of its neurobiological effects and therapeutic potential for bipolar disorder and schizophrenia",
+            "matchedText": "bipolar"
+          }
+        ]
+      }
+    ],
+    "pmid-23568415": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Reduction in Posttraumatic Stress Symptoms in Congolese Refugees Practicing Transcendental Meditation",
+            "matchedText": "Posttraumatic Stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Reduction in Posttraumatic Stress Symptoms in Congolese Refugees Practicing Transcendental Meditation",
+            "matchedText": "Posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Reduction in Posttraumatic Stress Symptoms in Congolese Refugees Practicing Transcendental Meditation",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "doi-0017e1c8036baaa5": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "A pendulum between trauma and life: Group music therapy with post-traumatized soldiers",
+            "matchedText": "trauma"
+          }
+        ]
+      }
+    ],
+    "pmid-22169588": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Changes in stress, eating, and metabolic factors are related to changes in telomerase activity in a randomized mindfulness intervention pilot study",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-22352291": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effective and viable mind-body stress reduction in the workplace: a randomized controlled trial",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-22742936": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Hydrogen-rich saline protects against oxidative damage and cognitive deficits after mild traumatic brain injury",
+            "matchedText": "traumatic"
+          }
+        ]
+      }
+    ],
+    "pmid-23149426": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Stress Reduction in the Secondary Prevention of Cardiovascular Disease: Randomized, Controlled Trial of Transcendental Meditation and Health Education in Blacks",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "pmid-21401686": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "A randomised controlled trial of the effects of mindfulness practice on medical student stress levels",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-21630119": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Anger Regulation in Traumatized Cambodian Refugees: The Perspectives of Buddhist Monks",
+            "matchedText": "Traumatized"
+          }
+        ]
+      }
+    ],
+    "pmid-22893808": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "EMDR versus stabilisation in traumatised asylum seekers and refugees: results of a pilot study.",
+            "matchedText": "traumatised"
+          }
+        ]
+      }
+    ],
+    "pmid-20685168": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Music interventions in patients during coronary angiographic procedures: a randomized controlled study of the effect on patients' anxiety and well-being",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-22171868": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Original sound compositions reduce anxiety in emergency department patients: a randomised controlled trial",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-20593431": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Depression following open‐heart surgery: A path model involving interleukin‐6, spiritual struggle, and hope under preoperative distress",
+            "matchedText": "Depression"
+          }
+        ]
+      }
+    ],
+    "pmid-20378181": [
+      {
+        "id": "schizophrenia",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effects of 10 Hz repetitive transcranial magnetic stimulation (rTMS) on clinical global impression in chronic schizophrenia",
+            "matchedText": "schizophrenia"
+          }
+        ]
+      }
+    ],
+    "pmid-20492042": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effects of music intervention on physiological stress response and anxiety level of mechanically ventilated patients in China: a randomised controlled trial",
+            "matchedText": "anxiety"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effects of music intervention on physiological stress response and anxiety level of mechanically ventilated patients in China: a randomised controlled trial",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-20121706": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Heart rate variability (HRV) in adolescent females with anxiety disorders and major depressive disorder",
+            "matchedText": "anxiety"
+          }
+        ]
+      },
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Heart rate variability (HRV) in adolescent females with anxiety disorders and major depressive disorder",
+            "matchedText": "depressive"
+          }
+        ]
+      }
+    ],
+    "pmid-20117669": [
+      {
+        "id": "adhd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Pilot Feasibility Study of Binaural Auditory Beats for Reducing Symptoms of Inattention in Children and Adolescents with Attention-Deficit/Hyperactivity Disorder",
+            "matchedText": "Attention-Deficit"
+          }
+        ]
+      }
+    ],
+    "pmid-20193089": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Post traumatic stress symptoms and heart rate variability in Bihar flood survivors following yoga: a randomized controlled study",
+            "matchedText": "Post traumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Post traumatic stress symptoms and heart rate variability in Bihar flood survivors following yoga: a randomized controlled study",
+            "matchedText": "Post traumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Post traumatic stress symptoms and heart rate variability in Bihar flood survivors following yoga: a randomized controlled study",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-19654388": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Association of Torture and Other Potentially Traumatic Events With Mental Health Outcomes Among Populations Exposed to Mass Conflict and Displacement: A Systematic Review and Meta-analysis",
+            "matchedText": "Traumatic"
+          }
+        ]
+      }
+    ],
+    "pmid-19267396": [
+      {
+        "id": "schizophrenia",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Loving‐kindness meditation to enhance recovery from negative symptoms of schizophrenia",
+            "matchedText": "schizophrenia"
+          }
+        ]
+      }
+    ],
+    "doi-2f7b8dd67e1c8bbb": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Drumming through trauma: Music therapy with post-traumatic soldiers",
+            "matchedText": "trauma"
+          }
+        ]
+      }
+    ],
+    "pmid-17284128": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "A randomized clinical trial of eye movement desensitization and reprocessing (EMDR), fluoxetine, and pill placebo in the treatment of posttraumatic stress disorder: treatment effects and long-term maintenance.",
+            "matchedText": "posttraumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "A randomized clinical trial of eye movement desensitization and reprocessing (EMDR), fluoxetine, and pill placebo in the treatment of posttraumatic stress disorder: treatment effects and long-term maintenance.",
+            "matchedText": "posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "A randomized clinical trial of eye movement desensitization and reprocessing (EMDR), fluoxetine, and pill placebo in the treatment of posttraumatic stress disorder: treatment effects and long-term maintenance.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-17573044": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Efficacy and Safety of Transcranial Magnetic Stimulation in the Acute Treatment of Major Depression: A Multisite Randomized Controlled Trial",
+            "matchedText": "Depression"
+          }
+        ]
+      }
+    ],
+    "pmid-17938152": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "No Refuge from Terror: The Impact of Detention on the Mental Health of Trauma-affected Refugees Seeking Asylum in Australia",
+            "matchedText": "Trauma"
+          }
+        ]
+      }
+    ],
+    "src-757129132fdc": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Responding to an identified need: A joint department of defense/department of veterans affairs training program in eye movement desensitization and reprocessing (EMDR) for clinicians providing trauma services.",
+            "matchedText": "trauma"
+          }
+        ]
+      }
+    ],
+    "pmid-17450451": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Trauma, PTSD and the longer-term mental health burden amongst Vietnamese refugees. A comparison with the Australian-born population",
+            "matchedText": "PTSD"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Trauma, PTSD and the longer-term mental health burden amongst Vietnamese refugees. A comparison with the Australian-born population",
+            "matchedText": "Trauma"
+          }
+        ]
+      }
+    ],
+    "pmid-16899965": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Eye movement desensitization and reprocessing for posttraumatic stress disorder: a pilot blinded, randomized study of stimulation type.",
+            "matchedText": "posttraumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Eye movement desensitization and reprocessing for posttraumatic stress disorder: a pilot blinded, randomized study of stimulation type.",
+            "matchedText": "posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Eye movement desensitization and reprocessing for posttraumatic stress disorder: a pilot blinded, randomized study of stimulation type.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-16314076": [
+      {
+        "id": "schizophrenia",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Low frequency repetitive transcranial magnetic stimulation improves source monitoring deficit in hallucinating patients with schizophrenia",
+            "matchedText": "schizophrenia"
+          }
+        ]
+      }
+    ],
+    "pmid-20072706": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Modifying Exposure-Based CBT for Cambodian Refugees with Posttraumatic Stress Disorder",
+            "matchedText": "Posttraumatic Stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Modifying Exposure-Based CBT for Cambodian Refugees with Posttraumatic Stress Disorder",
+            "matchedText": "Posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Modifying Exposure-Based CBT for Cambodian Refugees with Posttraumatic Stress Disorder",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "pmid-16254067": [
+      {
+        "id": "schizophrenia",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Therapeutic Effects of Individualized Alpha Frequency Transcranial Magnetic Stimulation ( α TMS) on the Negative Symptoms of Schizophrenia",
+            "matchedText": "Schizophrenia"
+          }
+        ]
+      }
+    ],
+    "pmid-16476137": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Trauma, Post-Migration Living Difficulties, and Social Support as Predictors of Psychological Adjustment in Resettled Sudanese Refugees",
+            "matchedText": "Trauma"
+          }
+        ]
+      }
+    ],
+    "pmid-16115248": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "A prospective, randomised, controlled study examining binaural beat audio and pre‐operative anxiety in patients undergoing general anaesthesia for day case surgery",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-16382423": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "A randomized controlled trial of cognitive‐behavior therapy for Cambodian refugees with treatment‐resistant PTSD and panic attacks: A cross‐over design",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "pmid-15913391": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effect of Music Therapy on the Anxiety Levels and Sleep Patterns of Abused Women in Shelters",
+            "matchedText": "Anxiety"
+          }
+        ]
+      }
+    ],
+    "doi-ee4dbad2ce729f10": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Music Therapy with Traumatized Refugees in a Clinical Setting",
+            "matchedText": "Traumatized"
+          }
+        ]
+      }
+    ],
+    "doi-890fefc8f3be30c0": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Music Therapy, War Trauma, and Peace: A Singaporean Perspective",
+            "matchedText": "Trauma"
+          }
+        ]
+      }
+    ],
+    "doi-29b8d72b63cf67cb": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Sounds of Trauma: An Introduction to Methodology in Music Therapy With Traumatized Refugees in Clinical and Outpatient Settings",
+            "matchedText": "Trauma"
+          }
+        ]
+      }
+    ],
+    "pmid-14991326": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The effect of mental stress on heart rate variability and blood pressure during computer work",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "doi-70f1db616203b86f": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Using heart rate variability analysis to assess the effect of music therapy on anxiety reduction of patients",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "doi-afe44de7f462e56e": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "A Stress Reduction and Self-Care Group for Homeless and Addicted Women: Meditation, Relaxation and Cognitive Methods",
+            "matchedText": "Stress"
+          }
+        ]
+      },
+      {
+        "id": "substance-use",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "A Stress Reduction and Self-Care Group for Homeless and Addicted Women: Meditation, Relaxation and Cognitive Methods",
+            "matchedText": "Addicted"
+          }
+        ]
+      }
+    ],
+    "pmid-12467953": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Relationship between major depression and heart rate variability. Clinical consequences and implications for antidepressive treatment",
+            "matchedText": "depression"
+          }
+        ]
+      }
+    ],
+    "pmid-11955466": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Repetitive transcranial magnetic stimulation versus electroconvulsive therapy for major depression: preliminary results of a randomized trial",
+            "matchedText": "depression"
+          }
+        ]
+      }
+    ],
+    "pmid-11673340": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Depression, Heart Rate Variability, and Acute Myocardial Infarction Circulation",
+            "matchedText": "Depression"
+          }
+        ]
+      }
+    ],
+    "pmid-11191043": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Use of binaural beat tapes for treatment of anxiety: a pilot study of tape preference and outcomes",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-11065312": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effects of short-term psychological stress on the time and frequency domains of heart-rate variability",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-11127626": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Lifetime Prevalence of Trauma among Homeless People in Sydney",
+            "matchedText": "Trauma"
+          }
+        ]
+      }
+    ],
+    "pmid-10686266": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Repetitive transcranial magnetic stimulation is as effective as electroconvulsive therapy in the treatment of nondelusional major depressive disorder: an open study",
+            "matchedText": "depressive"
+          }
+        ]
+      }
+    ],
+    "pmid-18311106": [
+      {
+        "id": "ocd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Randomized Controlled Trial of Yogic Meditation Techniques for Patients With Obsessive-Compulsive Disorder",
+            "matchedText": "Obsessive-Compulsive"
+          }
+        ]
+      }
+    ],
+    "pmid-9483470": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Autonomic balance revisited: panic anxiety and heart rate variability",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-9479674": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Brief psychological intervention with traumatized young women: the efficacy of eye movement desensitization and reprocessing.",
+            "matchedText": "traumatized"
+          }
+        ]
+      }
+    ],
+    "pmid-9479673": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Eye movement desensitization and reprocessing (EDMR) treatment for combat-related posttraumatic stress disorder.",
+            "matchedText": "posttraumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Eye movement desensitization and reprocessing (EDMR) treatment for combat-related posttraumatic stress disorder.",
+            "matchedText": "posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Eye movement desensitization and reprocessing (EDMR) treatment for combat-related posttraumatic stress disorder.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-9924746": [
+      {
+        "id": "substance-use",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Oxytocin and Addiction - A Review",
+            "matchedText": "Addiction"
+          }
+        ]
+      }
+    ],
+    "pmid-9614593": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Preliminary evidence for a beneficial effect of low‐frequency, repetitive transcranial magnetic stimulation in patients with major depression and schizophrenia",
+            "matchedText": "depression"
+          }
+        ]
+      },
+      {
+        "id": "schizophrenia",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Preliminary evidence for a beneficial effect of low‐frequency, repetitive transcranial magnetic stimulation in patients with major depression and schizophrenia",
+            "matchedText": "schizophrenia"
+          }
+        ]
+      }
+    ],
+    "src-11c37f0b338c": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "A randomized clinical trial of repetitive transcranial magnetic stimulation in the treatment of major depression",
+            "matchedText": "depression"
+          }
+        ]
+      }
+    ],
+    "src-ab7cad41c0a1": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Acceptance and Mindfulness Techniques as Applied to Refugee and Ethnic Minority Populations With PTSD: Examples From \"Culturally Adapted CBT\"",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "src-804727a0fe5d": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Activities on Facebook Reveal the Depressive State of Users",
+            "matchedText": "Depressive"
+          }
+        ]
+      }
+    ],
+    "src-a5e92130bd97": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Argentine tango dance compared to mindfulness meditation and a waiting-list control: A randomised trial for treating depression",
+            "matchedText": "depression"
+          }
+        ]
+      }
+    ],
+    "src-4d549c318fe9": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Assessment and Management of Conditions Specifically related to Stress",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "src-35cb6bd28036": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Australian Guidelines for PTSD",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "src-507ea85612c7": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Baseline psychophysiological and cortisol reactivity as a predictor of PTSD treatment outcome in virtual reality exposure therapy",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "src-86c4acbb742d": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Cognitive-Behavior Therapy for Vietnamese Refugees With PTSD and Comorbid Panic Attacks",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "src-eea02e5f3c8d": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Combat, posttraumatic stress disorder and health of australian vietnam veteran conscripts and volunteers in the three decades after return",
+            "matchedText": "posttraumatic stress"
+          }
+        ]
+      },
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Combat, posttraumatic stress disorder and health of australian vietnam veteran conscripts and volunteers in the three decades after return",
+            "matchedText": "posttraumatic"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Combat, posttraumatic stress disorder and health of australian vietnam veteran conscripts and volunteers in the three decades after return",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "src-915d4f585947": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Comparison of cognitive behavioral and mindfulness meditation interventions on adaptation to rheumatoid arthritis for patients with and without history of recurrent depression",
+            "matchedText": "depression"
+          }
+        ]
+      }
+    ],
+    "src-d0bf23be01d8": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Daily Left Prefrontal Transcranial Magnetic Stimulation Therapy for Major Depressive Disorder A Sham-Controlled Randomized Trial",
+            "matchedText": "Depressive"
+          }
+        ]
+      }
+    ],
+    "src-36ff9563ed31": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Detecting Early Risk of Depression from Social Media User-generated Content",
+            "matchedText": "Depression"
+          }
+        ]
+      }
+    ],
+    "src-7e2f0ecca8d8": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effect of compassion meditation on neuroendocrine, innate immune and behavioral responses to psychosocial stress",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "src-595a254107ad": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effectiveness of binaural beats in reducing preoperative dental anxiety",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "src-192b7dfe47ac": [
+      {
+        "id": "dementia",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effects of a neuropsychology program based on mindfulness on Alzheimer's disease: randomized double-blind clinical study",
+            "matchedText": "Alzheimer"
+          }
+        ]
+      }
+    ],
+    "src-feb08f370505": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effects of Heart Rate Variability Coherence Biofeedback Training and Emotional Management Techniques to Decrease Music Performance Anxiety",
+            "matchedText": "Anxiety"
+          }
+        ]
+      }
+    ],
+    "src-4bfecb06eee8": [
+      {
+        "id": "dementia",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Effects of Music Therapy on Psychological Symptoms and Heart Rate Variability in Patients with Dementia. A Pilot Study",
+            "matchedText": "Dementia"
+          }
+        ]
+      }
+    ],
+    "src-d173f7852495": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Eye Movement Desensitization and Reprocessing (EMDR) for PTSD",
+            "matchedText": "PTSD"
+          }
+        ]
+      }
+    ],
+    "src-f7e11cf61952": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Group Therapy for severely traumatized refugees with a focus on sleep disorders",
+            "matchedText": "traumatized"
+          }
+        ]
+      },
+      {
+        "id": "sleep",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Group Therapy for severely traumatized refugees with a focus on sleep disorders",
+            "matchedText": "sleep disorder"
+          }
+        ]
+      }
+    ],
+    "src-5031d021086a": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Heart Rate Variability, Flow, Mood and Mental Stress During Yoga Practices in Yoga Practitioners, Non-yoga Practitioners and People with Metabolic Syndrome",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "src-da6e150a42eb": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Heart rate variability, trait anxiety, and perceived stress among physically fit men and women",
+            "matchedText": "anxiety"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Heart rate variability, trait anxiety, and perceived stress among physically fit men and women",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "src-0c9e697acc13": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Impact of Depression and Antidepressant Treatment on Heart Rate Variability: A Review and Meta-Analysis",
+            "matchedText": "Depression"
+          }
+        ]
+      }
+    ],
+    "src-5fad89c454d7": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Innate immune, neuroendocrine and behavioral responses to psychosocial stress do not predict subsequent compassion meditation practice time",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "src-ec9560b5ddc0": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Instagram photos reveal predictive markers of depression",
+            "matchedText": "depression"
+          }
+        ]
+      }
+    ],
+    "src-e9a8e7396e01": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Isochronic Tones in the Schumann Resonance Frequency for the Treatment of Anxiety: A Descriptive Exploratory Study",
+            "matchedText": "Anxiety"
+          }
+        ]
+      }
+    ],
+    "src-374faac36b5c": [
+      {
+        "id": "dementia",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Music-based memory enhancement in Alzheimer's Disease: Promise and limitations",
+            "matchedText": "Alzheimer"
+          }
+        ]
+      }
+    ],
+    "src-1848d7eaf430": [
+      {
+        "id": "substance-use",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "One session of high frequency repetitive transcranial magnetic stimulation (rTMS) to the right prefrontal cortex transiently reduces cocaine craving",
+            "matchedText": "craving"
+          }
+        ]
+      }
+    ],
+    "src-5ccef969cd6a": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Out of our mind. Art therapy and mindfulness with refugees, political violence and trauma",
+            "matchedText": "trauma"
+          }
+        ]
+      }
+    ],
+    "src-346c18a7b207": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Predicting Depression via Social Media",
+            "matchedText": "Depression"
+          }
+        ]
+      }
+    ],
+    "src-57c7d2ae83b8": [
+      {
+        "id": "schizophrenia",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Rehabilitative Effect of Music Therapy for Residual Schizophrenia: A One-Month Randomised Controlled Trial in Shanghai",
+            "matchedText": "Schizophrenia"
+          }
+        ]
+      }
+    ],
+    "src-d4fda8276d47": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Resilience Training Program Reduces Physiological and Psychological Stress in Police Officers",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "src-560b5106d25b": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Self-compassion as a predictor of interleukin-6 response to acute psychosocial stress",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "src-cec16e08a07b": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Social Media, Big Data, and Public Health Informatics: Ruminating Behavior of Depression Revealed through Twitter",
+            "matchedText": "Depression"
+          }
+        ]
+      }
+    ],
+    "src-8efda8da414f": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Stress Management Based on Trait ‐ Anxiety Levels and Sleep Quality in Middle ‐ Aged Employees Confronted with Psychosocial Chronic Stress",
+            "matchedText": "Anxiety"
+          }
+        ]
+      },
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Stress Management Based on Trait ‐ Anxiety Levels and Sleep Quality in Middle ‐ Aged Employees Confronted with Psychosocial Chronic Stress",
+            "matchedText": "Stress"
+          }
+        ]
+      },
+      {
+        "id": "sleep",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Stress Management Based on Trait ‐ Anxiety Levels and Sleep Quality in Middle ‐ Aged Employees Confronted with Psychosocial Chronic Stress",
+            "matchedText": "Sleep Quality"
+          }
+        ]
+      }
+    ],
+    "src-badc7276ec5f": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Stress reduction and analgesia in patients exposed to calming music postoperatively: a randomized controlled trial",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "src-c64e6046b78d": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Striatal dopamine release after prefrontal repetitive transcranial magnetic stimulation in major depression: Preliminary results of a dynamic [123I] IBZM SPECT study",
+            "matchedText": "depression"
+          }
+        ]
+      }
+    ],
+    "src-1023e40a3842": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The effect of music with and without binaural beat audio on operative anxiety in patients undergoing cataract surgery: a randomized controlled trial",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "src-1a2a9900c208": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The Effects of the EMDR Group Traumatic Episode Protocol With Cancer Survivors",
+            "matchedText": "Traumatic"
+          }
+        ]
+      }
+    ],
+    "src-6d277422d0a0": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "The Sound Mind Warrior Study: Using Sound Technology to Combat Stress in Military Service Members",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "src-ea7973a48c81": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Trait Mindfulness and Stress among Homeless Adults",
+            "matchedText": "Stress"
+          }
+        ]
+      }
+    ],
+    "src-91f34e20ce39": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Traumatised refugees: An integrated dance and verbal therapy approach",
+            "matchedText": "Traumatised"
+          }
+        ]
+      }
+    ],
+    "src-1c956a43ab59": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "Using cultural relaxation methods in post-trauma care among refugees in Australia",
+            "matchedText": "trauma"
+          }
+        ]
+      }
+    ],
+    "src-c7690e396a71": [
+      {
+        "id": "bipolar",
+        "evidence": [
+          {
+            "field": "title",
+            "text": "YinYang Bipolar Relativity: A Unifying Theory of Nature, Agents and Causality with Applications in Quantum Computing, Cognitive Informatics and Life Sciences",
+            "matchedText": "Bipolar"
+          }
+        ]
+      }
+    ],
+    "pmid-41450809": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 50 periodontal surgery patients, binaural-beat exposure was associated with lower postoperative anxiety and physiological stress measures than no auditory intervention. Mean anxiety scores in the intervention arm fell from 49.0 to 38.7.",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-40795897": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "Preoperative binaural-beat stimulation produced a greater reduction in reported state anxiety than the control condition. The reported difference in relative anxiety change was approximately six percentage points.",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-42307797": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "A pilot involving 30 people with multiple sclerosis and 30 healthy participants reported lower salivary cortisol after 4 Hz binaural stimulation than sham following an experimental stress challenge, alongside autonomic and EEG changes.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-39088370": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 96 patients undergoing unsedated upper gastrointestinal endoscopy, binaural-beat music was associated with improved anxiety, procedure tolerance and satisfaction compared with no intervention.",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-36011825": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "A 61-person cataract-surgery trial reported lower operative pain, anxiety and heart rate with binaural-beat audio than with silent headphones.",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-38319068": [
+      {
+        "id": "sleep",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "Among 64 older adults with poor sleep in long-term care, binaural beats embedded in familiar music improved sleep measures and selected autonomic measures relative to the same music without beats over 14 days.",
+            "matchedText": "sleep"
+          }
+        ]
+      }
+    ],
+    "pmid-40269359": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 99 root-canal patients, binaural beats and 432 Hz music each reduced preoperative anxiety relative to white noise. Participants and outcome assessors were described as blinded.",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-35713444": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "Among 112 bronchoscopy patients, the binaural-music arm showed a larger numerical reduction in state anxiety than plain music or no music, with reductions in blood pressure.",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-38982009": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "A 252-child dental trial reported reduced preoperative fear, anxiety and physiological arousal with device-based brainwave entrainment compared with standard behaviour management.",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-40621706": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "Among 27 stroke rehabilitation completers, the binaural-stimulation group improved daily-living and depression scores more than the music comparison group. Balance measures improved in both groups.",
+            "matchedText": "depression"
+          }
+        ]
+      }
+    ],
+    "pmid-40769315": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "Of 151 women randomised after a traumatic birth, 143 entered the reported intention-to-treat analysis. Two early postpartum EMDR sessions reduced self-reported and clinician-rated PTSD symptom severity compared with two telephone contacts; the reported raw symptom differences were 8.7 and 3.8 points respectively.",
+            "matchedText": "ptsd"
+          }
+        ]
+      }
+    ],
+    "pmid-40716437": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 159 people with personality disorders, EMDR reduced PTSD symptoms more than a waitlist. Among participants with PTSD receiving EMDR, 65.5% no longer met the diagnosis after treatment and 73.1% at follow-up.",
+            "matchedText": "ptsd"
+          }
+        ]
+      }
+    ],
+    "pmid-38227442": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 24 forensic patients with psychosis and PTSD, blinded assessments favoured EMDR over routine-care waitlist for clinician-rated PTSD symptoms. The estimated difference averaged across follow-ups was 11.4 points, with a 95% confidence interval of 1.3 to 21.4.",
+            "matchedText": "ptsd"
+          }
+        ]
+      },
+      {
+        "id": "psychosis",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 24 forensic patients with psychosis and PTSD, blinded assessments favoured EMDR over routine-care waitlist for clinician-rated PTSD symptoms. The estimated difference averaged across follow-ups was 11.4 points, with a 95% confidence interval of 1.3 to 21.4.",
+            "matchedText": "psychosis"
+          }
+        ]
+      }
+    ],
+    "pmid-39758524": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 120 women exposed to violence, ten sessions of EMDR produced greater reported improvements in post-traumatic symptoms, anxiety, depression, quality of life and selected cognitive tests than narrative exposure therapy.",
+            "matchedText": "trauma"
+          }
+        ]
+      }
+    ],
+    "pmid-42518933": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "The 40-person EMERALD trial in critical-illness survivors achieved 98% clinician-rated follow-up at 12 months. Exploratory PTSD symptom change favoured EMDR plus usual care by 14.1 points, with a 95% confidence interval of 6.2 to 22.0 points.",
+            "matchedText": "ptsd"
+          }
+        ]
+      }
+    ],
+    "pmid-41655996": [
+      {
+        "id": "eating-disorders",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "A 38-person pilot found greater reductions in binge-eating symptoms, days and frequency with an adapted ten-session EMDR protocol than waitlist, alongside improvements in selected anxiety and sleep outcomes.",
+            "matchedText": "eating-disorders"
+          }
+        ]
+      }
+    ],
+    "pmid-37882058": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 60 early-psychosis service users, a 16-session EMDR adaptation met trial feasibility targets and showed promising clinical signals at six months. PTSD symptoms and general-health signals remained evident at 12 months.",
+            "matchedText": "trauma"
+          }
+        ]
+      },
+      {
+        "id": "psychosis",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 60 early-psychosis service users, a 16-session EMDR adaptation met trial feasibility targets and showed promising clinical signals at six months. PTSD symptoms and general-health signals remained evident at 12 months.",
+            "matchedText": "psychosis"
+          }
+        ]
+      }
+    ],
+    "pmid-30711853": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 22 treatment-resistant depression inpatients, both EMDR and trauma-focused CBT improved depressive symptoms; a post-hoc comparison favoured EMDR at the 12-week follow-up.",
+            "matchedText": "depression"
+          }
+        ]
+      }
+    ],
+    "pmid-24880581": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 20 people with bipolar disorder and trauma histories, EMDR improved depressive, hypomanic and trauma symptoms relative to usual care after treatment, using blinded outcome ratings.",
+            "matchedText": "trauma"
+          }
+        ]
+      },
+      {
+        "id": "bipolar",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 20 people with bipolar disorder and trauma histories, EMDR improved depressive, hypomanic and trauma symptoms relative to usual care after treatment, using blinded outcome ratings.",
+            "matchedText": "bipolar"
+          }
+        ]
+      }
+    ],
+    "pmid-32892758": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "A 155-person international trial found substantial PTSD improvement after either EMDR or imagery rescripting for childhood-related trauma, with a 7.7% dropout rate.",
+            "matchedText": "ptsd"
+          }
+        ]
+      }
+    ],
+    "pmid-22322458": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 140 people with PTSD, EMDR and brief eclectic psychotherapy produced similar final improvements; EMDR achieved improvement more rapidly during treatment.",
+            "matchedText": "ptsd"
+          }
+        ]
+      }
+    ],
+    "pmid-39916551": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "Among 114 participants in the IREM childhood-trauma trial, both EMDR and imagery rescripting improved adaptive and maladaptive schema-mode measures, with gains maintained to one year.",
+            "matchedText": "ptsd"
+          }
+        ]
+      }
+    ],
+    "pmid-12883106": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "An eight-week workplace mindfulness study, with 25 meditators and 16 waitlist participants tested, reported greater left-anterior EEG activation and a stronger influenza-vaccine antibody response in the meditation group.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-11020090": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "Among 90 cancer outpatients completing a seven-week mindfulness programme, mood disturbance and stress symptoms improved relative to waitlist; the intervention group reported reductions of 65% and 31% respectively.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-19235193": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 84 breast-cancer survivors, six weeks of adapted MBSR improved depression, anxiety, fear of recurrence and selected quality-of-life measures relative to usual care.",
+            "matchedText": "anxiety"
+          }
+        ]
+      },
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 84 breast-cancer survivors, six weeks of adapted MBSR improved depression, anxiety, fear of recurrence and selected quality-of-life measures relative to usual care.",
+            "matchedText": "depression"
+          }
+        ]
+      }
+    ],
+    "pmid-25686304": [
+      {
+        "id": "sleep",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 49 older adults with sleep disturbance, mindful-awareness training improved Pittsburgh Sleep Quality Index scores by 1.8 points more than structured sleep-hygiene education, with a 95% confidence interval of 0.6 to 2.9.",
+            "matchedText": "sleep"
+          }
+        ]
+      }
+    ],
+    "pmid-23541163": [
+      {
+        "id": "anxiety",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In a 93-person generalised-anxiety trial, MBSR improved several secondary anxiety ratings and stress-challenge responses more than stress-management education.",
+            "matchedText": "anxiety"
+          }
+        ]
+      }
+    ],
+    "pmid-20876468": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 150 people with multiple sclerosis, eight weeks of mindfulness training improved nonphysical quality of life, depression and fatigue relative to usual care, with benefits persisting at six months.",
+            "matchedText": "depression"
+          }
+        ]
+      }
+    ],
+    "pmid-21723049": [
+      {
+        "id": "substance-use",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In an 88-person smoking-cessation trial, mindfulness training reduced smoking more than the comparison programme; carbon-monoxide-confirmed seven-day abstinence at week 17 was 31% versus 6%.",
+            "matchedText": "substance-use"
+          }
+        ]
+      }
+    ],
+    "pmid-29422189": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In the 616-student Mindful Student Study, an eight-week course reduced exam-period psychological distress relative to usual support. The adjusted difference was -0.14 CORE-OM points, with a 95% confidence interval of -0.22 to -0.06.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-24647726": [
+      {
+        "id": "substance-use",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 286 adults completing substance-use treatment, mindfulness-based relapse prevention reduced substance-use days and heavy drinking at 12 months relative to standard relapse prevention and usual aftercare.",
+            "matchedText": "substance-use"
+          }
+        ]
+      }
+    ],
+    "pmid-14756612": [
+      {
+        "id": "depression",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In a 73-person recurrent-depression trial, MBCT reduced relapse among the 55 participants with three or more prior episodes: 36% relapsed versus 78% with usual care.",
+            "matchedText": "depression"
+          }
+        ]
+      }
+    ],
+    "pmid-29921143": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "A two-site trial in 173 veterans found greater clinician-rated PTSD improvement with an eight-week mantram programme than present-centred therapy; the between-group CAPS difference was approximately ten points. Insomnia also improved.",
+            "matchedText": "ptsd"
+          }
+        ]
+      }
+    ],
+    "pmid-18356284": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "A small mantram study in combat veterans reported promising effects on PTSD symptoms, distress and quality of life, with 29 of 33 enrolled participants completing the study.",
+            "matchedText": "ptsd"
+          }
+        ]
+      }
+    ],
+    "pmid-25397817": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In a 146-veteran trial, adding mantram repetition to usual care increased mindful attention; changes in mindful attention statistically mediated improvements in PTSD symptoms, depression and wellbeing.",
+            "matchedText": "ptsd"
+          }
+        ]
+      }
+    ],
+    "pmid-31632617": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In the 173-veteran mantram trial, hyperarousal improved more than with nonspecific psychotherapy, with effect sizes of 0.57 after treatment and 0.52 at follow-up.",
+            "matchedText": "ptsd"
+          }
+        ]
+      }
+    ],
+    "pmid-39427264": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "A 26-person internet mantram pilot in breast-cancer survivors established delivery feasibility and reported exploratory changes in stress, spiritual wellbeing and selected serum cytokines.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-30279666": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 22 veterans receiving MBSR, responders showed increased FKBP5 methylation while nonresponders showed decreased methylation, following the corrected direction reported in the 2021 corrigendum.",
+            "matchedText": "ptsd"
+          }
+        ]
+      }
+    ],
+    "pmid-33734493": [
+      {
+        "id": "ptsd",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 40 veterans with PTSD, Transcendental Meditation reduced clinician-rated symptoms more than usual care over 12 weeks. Half of the meditation group no longer met PTSD criteria, compared with 10% of controls.",
+            "matchedText": "ptsd"
+          }
+        ]
+      }
+    ],
+    "pmid-27723444": [
+      {
+        "id": "trauma",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 181 male prisoners, Transcendental Meditation reduced self-reported trauma symptoms and perceived stress relative to usual care after four months.",
+            "matchedText": "trauma"
+          }
+        ]
+      }
+    ],
+    "pmid-38078959": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "A 104-nurse trial across three hospitals reported improved wellbeing and lower burnout, anxiety and PTSD symptoms after Transcendental Meditation compared with delayed instruction.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-41642087": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 199 women living in poverty in Uganda, three months of Transcendental Meditation reduced perceived stress, anger and fatigue and improved self-efficacy and sleep quality relative to waitlist.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-42640862": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 114 rural Lebanese women, three months of Transcendental Meditation improved stress, happiness, resilience and self-efficacy relative to the comparison group.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-29936408": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 96 school-district staff, Transcendental Meditation improved mood and distress relative to waitlist over four months. An EEG subset of 79 participants also showed changes in the study's Brain Integration Scale.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-36006668": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 2,182 NHS staff, a digital mindfulness app produced a small but statistically significant reduction in stress relative to an active digital control over 4.5 months, with additional benefits on several wellbeing measures.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-39808431": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 1,458 employees, an eight-week digital meditation programme improved perceived stress relative to waitlist, with an effect size of 0.85 at eight weeks and 0.71 at four months.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ],
+    "pmid-42599846": [
+      {
+        "id": "stress",
+        "evidence": [
+          {
+            "field": "curated primary-source summary",
+            "text": "In 1,281 adults with substantial psychological distress, an eight-week hybrid digital mindfulness programme plus usual services reduced distress more than usual services alone, with an effect size of approximately 0.53.",
+            "matchedText": "stress"
+          }
+        ]
+      }
+    ]
+  },
+  "classificationNotes": {
+    "stressExclusions": [
+      "pmid-41308935",
+      "pmid-37982547",
+      "pmid-37764116",
+      "doi-0bf0e1873d286226",
+      "pmid-22820409",
+      "pmid-36350591",
+      "pmid-28386342",
+      "pmid-27002445",
+      "pmid-26256140",
+      "pmid-25818837",
+      "pmid-22442202",
+      "pmid-22482765",
+      "pmid-21146930",
+      "doi-5bb0d2cb9d5aa958"
+    ],
+    "review": "Initial rule-assisted labels checked for intervention-name and cellular-stress ambiguity. Full-text review can expand condition coverage."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "source_commit": "25683fc743e336836c455086d875c5e9073df835",
+  "verified_on": "2026-10-18",
+  "records": [
+    {
+      "modulus": 9,
+      "page_id": "3fb7b9c9-9c56-8137-a2c5-c99b7bc2a1ee",
+      "source_commit": "25683fc743e336836c455086d875c5e9073df835",
+      "matching_observation_occurrences": 2,
+      "content_matches_expected": true,
+      "unrelated_properties_preserved": true,
+      "json_staging": "https://staging.universalmind.tv/informatics/pilot-v1/m9.json?v=native-beta-notes-v1"
+    },
+    {
+      "modulus": 18,
+      "page_id": "3fb7b9c9-9c56-81dd-8058-e69548b963aa",
+      "source_commit": "25683fc743e336836c455086d875c5e9073df835",
+      "matching_observation_occurrences": 2,
+      "content_matches_expected": true,
+      "unrelated_properties_preserved": true,
+      "json_staging": "https://staging.universalmind.tv/informatics/pilot-v1/m18.json?v=native-beta-notes-v1"
+    }
+  ]
+}

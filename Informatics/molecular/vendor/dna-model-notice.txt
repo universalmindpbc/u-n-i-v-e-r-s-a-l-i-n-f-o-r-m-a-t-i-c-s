@@ -1,0 +1,12 @@
+Molecular Atlas DNA model templates
+
+Derived from the BioExcel biobb_amber NAB reference fixture, distributed under Apache License 2.0. See BIOEXCEL-LICENSE.txt in this directory.
+
+Reference repository: https://github.com/bioexcel/biobb_amber
+Reference commit: 35751118940efeccc430cb53c96b174c6ba7b52c
+Reference file: biobb_amber/test/reference/nab/ref_nab_build_dna_structure.pdb
+Builder commit: bf9be6288f10f0d44077058c35fb84148c166a63
+
+Atlas modifications: recover eight nucleotide templates with inverse helical transforms; omit hydrogen atoms; assemble the chosen gene sequence and its antiparallel complement; omit 5-prime terminal phosphate groups; centre and rotate the model for display.
+
+These are constructed ideal B-DNA coordinates, not a measured structure of the selected gene.

@@ -1,0 +1,47 @@
+{
+  "checkedAt": "2026-10-21T18:58:22.290Z",
+  "candidate": false,
+  "processAudioDisabled": true,
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "status": "passed"
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "status": "passed"
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "status": "passed"
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "status": "passed"
+    },
+    {
+      "navigation": "direct and embedded menu routes, About, focus, media preservation",
+      "status": "passed"
+    }
+  ],
+  "errors": [],
+  "sourceCommit": "fec4e701",
+  "scopeAudit": "../sound-scope-audit-20261022.json",
+  "deferredPlacement": "../deferred-placement-20261022.json",
+  "visualReview": "Desktop contents and 320px reading guide, plus 390px restored frequency chapter inspected; enlarged crosses and labels are readable and unclipped.",
+  "productionModified": false,
+  "integratedBaseline": "031c1c3d",
+  "integrationVerification": "integration-verification.json"
+}

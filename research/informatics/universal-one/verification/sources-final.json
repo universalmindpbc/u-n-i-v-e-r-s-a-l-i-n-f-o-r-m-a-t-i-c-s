@@ -1,0 +1,58 @@
+{
+  "status": 200,
+  "model": "gpt-6-astra",
+  "version": "research-20261024-v2",
+  "answer": "**Principal counting result:** For unmodified, straight-chain fatty acids with n carbon atoms, the number of theoretically possible structures follows the Fibonacci sequence when cis/trans isomers are counted together and adjacent double bonds (allenic/cumulenic structures) are excluded: x1 = x2 = 1 and x(n+1) = x(n) + x(n−1). The counting argument represents single and double bonds as binary strings with no consecutive double bonds. [S1] For example, the paper gives **2,584 possible structures at n = 18**. [S2]\n\n**Stated limitation:** These are theoretical structural possibilities, not a census of fatty acids found in organisms. The authors explicitly state: “Although interesting, it is beyond the scope of this paper to study in detail which of the theoretically possible FAs are used in living organisms.” They also note that not all counted possibilities occur in reality. [S2]",
+  "sources": [
+    {
+      "label": "S1",
+      "id": "nature-fibonacci-srep39821",
+      "passageId": "nature-fibonacci-srep39821:full-text:020a0d70b034a516da5e",
+      "title": "Use of Fibonacci numbers in lipidomics – Enumerating various classes of fatty acids",
+      "authors": "Stefan Schuster; Maximilian Fichtner; Severin Sasso",
+      "journal": "Scientific Reports",
+      "year": 2017,
+      "url": "https://www.nature.com/articles/srep39821",
+      "section": "Article text",
+      "kind": "full-text",
+      "doi": "10.1038/srep39821",
+      "rights": {
+        "doi": "10.1038/srep39821",
+        "title": "Use of Fibonacci numbers in lipidomics – Enumerating various classes of fatty acids",
+        "source": "https://www.nature.com/articles/srep39821",
+        "authors": "Stefan, Schuster; Maximilian, Fichtner; Severin, Sasso",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "copyright": "2017 The Author(s)",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "0c02f0b76896628d60f3f0bd6e4e2e1bc11c7b93460921f50ea070e11a52f6ff",
+      "retrievalLabel": "S3"
+    },
+    {
+      "label": "S2",
+      "id": "nature-fibonacci-srep39821",
+      "passageId": "nature-fibonacci-srep39821:full-text:04f7a689ab2068b592da",
+      "title": "Use of Fibonacci numbers in lipidomics – Enumerating various classes of fatty acids",
+      "authors": "Stefan Schuster; Maximilian Fichtner; Severin Sasso",
+      "journal": "Scientific Reports",
+      "year": 2017,
+      "url": "https://www.nature.com/articles/srep39821",
+      "section": "Article text",
+      "kind": "full-text",
+      "doi": "10.1038/srep39821",
+      "rights": {
+        "doi": "10.1038/srep39821",
+        "title": "Use of Fibonacci numbers in lipidomics – Enumerating various classes of fatty acids",
+        "source": "https://www.nature.com/articles/srep39821",
+        "authors": "Stefan, Schuster; Maximilian, Fichtner; Severin, Sasso",
+        "license": "http://creativecommons.org/licenses/by/4.0/",
+        "copyright": "2017 The Author(s)",
+        "transformation": "Article sections extracted to plain text; navigation and recommendation sections removed. Equations, tables and image content may be incomplete; use the source for technical interpretation."
+      },
+      "sha256": "0f6d6a4ea4f28c64551ee15a26d7ab5221e87fd47428d500d9bf29455e5d9afc",
+      "retrievalLabel": "S4"
+    }
+  ],
+  "authorsAndLicencesRendered": true,
+  "sequentialValidCitations": true
+}

@@ -1,0 +1,66 @@
+{
+  "checkedAt": "2026-10-26T00:23:08.736Z",
+  "sourceCommit": "04f572ea9ae1788bad31103460dd5e212bc5d691",
+  "processAudioDisabled": true,
+  "aboutLayouts": [
+    {
+      "width": 1470,
+      "summaryMatchesApproved": true,
+      "researchPanelMatchesApproved": true,
+      "openAndReturnPassed": true,
+      "noHorizontalOverflow": true
+    },
+    {
+      "width": 390,
+      "summaryMatchesApproved": true,
+      "researchPanelMatchesApproved": true,
+      "openAndReturnPassed": true,
+      "noHorizontalOverflow": true
+    },
+    {
+      "width": 320,
+      "summaryMatchesApproved": true,
+      "researchPanelMatchesApproved": true,
+      "openAndReturnPassed": true,
+      "noHorizontalOverflow": true
+    }
+  ],
+  "readingLayouts": [
+    {
+      "width": 1470,
+      "noHorizontalOverflow": true,
+      "availableWithoutJavaScript": true
+    },
+    {
+      "width": 390,
+      "noHorizontalOverflow": true,
+      "availableWithoutJavaScript": true
+    },
+    {
+      "width": 320,
+      "noHorizontalOverflow": true,
+      "availableWithoutJavaScript": true
+    }
+  ],
+  "assetMatches": [
+    {
+      "url": "https://staging.universalmind.tv/informatics/index.html",
+      "sha256": "c2ba0e69c946a734b6ab678ff9085498f5cc92303d9f015c66b43c58fbecdef4"
+    },
+    {
+      "url": "https://staging.universalmind.tv/informatics/read/index.html",
+      "sha256": "e3d115f6e8248079cfc482d1ae3238777b56496a65838bab27ce5f90c91f31f7"
+    },
+    {
+      "url": "https://staging.universalmind.tv/informatics/llms.txt",
+      "sha256": "5bbe4ae9dbadfaecda9fe2e74d55cb2909f0b83eafe6c648a2884ff79f42db93"
+    },
+    {
+      "url": "https://staging.universalmind.tv/llms.txt",
+      "sha256": "c27eb9b5bb2ea531e0abccdafbd9cb23a1d07ca7a1faa7c1bc7d4ab442e0df4b"
+    }
+  ],
+  "pageErrors": [],
+  "stagingNoindexRetained": true,
+  "passed": true
+}

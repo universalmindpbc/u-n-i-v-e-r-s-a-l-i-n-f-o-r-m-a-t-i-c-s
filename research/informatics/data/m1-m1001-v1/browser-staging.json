@@ -1,0 +1,53 @@
+{
+  "candidate": false,
+  "results": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "recordsAvailable": 1001,
+      "familyMembers": 111,
+      "familyFirst": true,
+      "numericOrder": true,
+      "lastFamilyGroup": true,
+      "sampledRecords": [
+        1,
+        49,
+        54,
+        99,
+        750,
+        999,
+        1001
+      ],
+      "allFourViews": true,
+      "literatureLightboxes": true,
+      "noHorizontalOverflow": true,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "recordsAvailable": 1001,
+      "familyMembers": 111,
+      "familyFirst": true,
+      "numericOrder": true,
+      "lastFamilyGroup": true,
+      "sampledRecords": [
+        1,
+        49,
+        54,
+        99,
+        750,
+        999,
+        1001
+      ],
+      "allFourViews": true,
+      "literatureLightboxes": true,
+      "noHorizontalOverflow": true,
+      "errors": []
+    }
+  ]
+}

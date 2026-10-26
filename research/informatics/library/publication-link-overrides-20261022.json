@@ -1,0 +1,270 @@
+{
+  "src-e3b0fd44d504": {
+    "urls": [
+      "https://dialnet.unirioja.es/servlet/tesis?codigo=45360"
+    ],
+    "evidence": "University of La Rioja thesis catalogue: matching full title, Universidad Autónoma de Madrid, 2014. Original repository handle returns 404; replacement includes abstract and institutional thesis link."
+  },
+  "src-6d277422d0a0": {
+    "urls": [
+      "https://www.sigmarepository.org/inrc/2016/presentations_2016/143/"
+    ],
+    "evidence": "Sigma's current conference record: exact title, MeLisa A. Gantt, 2016; matching study abstract."
+  },
+  "src-06f32466fb34": {
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/25316915/",
+      "https://doi.org/10.1093/jmt/thu023"
+    ],
+    "doi": "10.1093/jmt/thu023",
+    "pmid": "25316915",
+    "journalLabel": "Journal of Music Therapy",
+    "evidence": "PubMed exact title, Stegemöller, 2014, Journal of Music Therapy; replaces retired CiteSeer download URL."
+  },
+  "src-fee7457e290f": {
+    "urls": [
+      "https://journalofscientificexploration.org/index.php/jse/article/view/93/31"
+    ],
+    "journalLabel": "Journal of Scientific Exploration",
+    "evidence": "Publisher full-text PDF: exact title, Radin and Atwater, 2009, volume 23 pages 263–272."
+  },
+  "src-48e0742b692c": {
+    "urls": [
+      "https://www.scirp.org/journal/paperinforcitation?paperid=36722"
+    ],
+    "journalLabel": "World Journal of Neuroscience",
+    "evidence": "Publisher citation record and matching complete title; replaces saistmp.com 404 PDF."
+  },
+  "src-afb0ab31a9b7": {
+    "urls": [
+      "https://www.iiste.org/Journals/index.php/RHSS/article/view/14853"
+    ],
+    "journalLabel": "Research on Humanities and Social Sciences",
+    "evidence": "Publisher exact-title article record by Kiruthu; replaces unavailable university-hosted PDF.",
+    "publicationKey": "work:kiruthu-dadaab-2014"
+  },
+  "src-14af5866007b": {
+    "urls": [
+      "https://doi.org/10.15845/voices.v16i3.865",
+      "https://voices.no/index.php/voices/article/view/2299"
+    ],
+    "doi": "10.15845/voices.v16i3.865",
+    "journalLabel": "Voices: A World Forum for Music Therapy",
+    "evidence": "Publisher exact title, Rachael Comte, 2016, DOI present on article page; original URL is indexed but timed out in direct check."
+  },
+  "src-e3e7571cee79": {
+    "urls": [
+      "https://www.unhcr.org/news/stories/unhcr-and-unesco-help-create-living-museum-mozambique-camp"
+    ],
+    "evidence": "Original UNHCR article, same title and author Tina Ghelli, 31 May 2010; replaces defunct MDG Fund mirror."
+  },
+  "src-7079ef417f29": {
+    "urls": [
+      "https://accan.org.au/files/Grants/homelessandconnected/Homeless_and_Connected_web.pdf"
+    ],
+    "evidence": "Same ACCAN report in its current PDF format; the old .doc address returns 404."
+  },
+  "src-346c18a7b207": {
+    "urls": [
+      "https://www.microsoft.com/en-us/research/publication/predicting-depression-via-social-media/",
+      "https://ojs.aaai.org/index.php/ICWSM/article/download/14432/14281/17950"
+    ],
+    "evidence": "Author institution record and publisher PDF, matching title and authors, 2013."
+  },
+  "src-e1a6ed6a974c": {
+    "urls": [
+      "https://web.archive.org/web/20210923024331/https://selfdecode.com/snp/rs1042778/"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; available snapshot and HTTP 200 verified, original page title/content retained. Snapshot timestamp: 20210923024331"
+  },
+  "src-312a65e2c0be": {
+    "urls": [
+      "https://selfdecode.com/en/snp/rs2254298/"
+    ],
+    "evidence": "Same SelfDecode variant page under its current /en/snp/ route; old /snp/ route returns 404."
+  },
+  "src-d4f0ad936eca": {
+    "urls": [
+      "https://selfdecode.com/en/snp/rs53576/"
+    ],
+    "evidence": "Same SelfDecode variant page under its current /en/snp/ route; old /snp/ route returns 404."
+  },
+  "src-bd646690e96a": {
+    "urls": [
+      "https://www.iiste.org/Journals/index.php/RHSS/article/view/14853"
+    ],
+    "journalLabel": "Research on Humanities and Social Sciences",
+    "evidence": "Publisher exact-title article record by Kiruthu; replaces unavailable university-hosted PDF.",
+    "publicationKey": "work:kiruthu-dadaab-2014"
+  },
+  "src-487a37fcb405": {
+    "urls": [
+      "https://web.archive.org/web/20250331013021/https://accan.org.au/our-work/937-homeless-mobile-use"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; available snapshot and HTTP 200 verified, original page title/content retained. Snapshot timestamp: 20250331013021"
+  },
+  "src-6187c7d861f2": {
+    "urls": [
+      "https://web.archive.org/web/20200520002805/https://at-ease.dva.gov.au/"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; available snapshot and HTTP 200 verified, original page title/content retained. Snapshot timestamp: 20200520002805"
+  },
+  "src-5f67f487758b": {
+    "urls": [
+      "https://web.archive.org/web/20220928005027/http://www.aidacenter.org/project/key-of-return/"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; available snapshot and HTTP 200 verified, original page title/content retained. Snapshot timestamp: 20220928005027"
+  },
+  "src-5ca96c09ff7a": {
+    "urls": [
+      "https://web.archive.org/web/20220925040523/https://www.serajlibraries.org/aida-refugee-camp.html"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; available snapshot and HTTP 200 verified, original page title/content retained. Snapshot timestamp: 20220925040523"
+  },
+  "src-b66173aa6453": {
+    "urls": [
+      "https://web.archive.org/web/20240420183227/https://www.keesingtechnologies.com/wp-content/uploads/2016/10/KJD51_Mordini_copyright.pdf"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; available snapshot and HTTP 200 verified, original page title/content retained. Snapshot timestamp: 20240420183227"
+  },
+  "src-bd928165f653": {
+    "urls": [
+      "https://web.archive.org/web/20250708012451/https://centerhealthyminds.org/science/studies/changing-your-brain-and-generosity-through-compassion-meditation-training"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; available snapshot and HTTP 200 verified, original page title/content retained. Snapshot timestamp: 20250708012451"
+  },
+  "src-431b8c7039b1": {
+    "urls": [
+      "https://web.archive.org/web/20200417001029/https://at-ease.dva.gov.au/resources/mobile-apps"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; available snapshot and HTTP 200 verified, original page title/content retained. Snapshot timestamp: 20200417001029"
+  },
+  "src-02b1d4949a40": {
+    "urls": [
+      "https://web.archive.org/web/20210508133726/https://www.homelessnessaustralia.org.au/about/homelessness-statistics"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; available snapshot and HTTP 200 verified, original page title/content retained. Snapshot timestamp: 20210508133726"
+  },
+  "src-6190b32a0999": {
+    "urls": [
+      "https://web.archive.org/web/20211109174903/https://ec.europa.eu/echo/field-blogs/videos/music-and-dance-improve-health-burundian-refugee-camp_en"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; available snapshot and HTTP 200 verified, original page title/content retained. Snapshot timestamp: 20211109174903"
+  },
+  "src-a69e8c785c65": {
+    "urls": [
+      "https://web.archive.org/web/20210429140305/https://www.pri.org/stories/2014-10-22/refugee-camps-are-surprising-hot-spots-innovation"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; available snapshot and HTTP 200 verified, original page title/content retained. Snapshot timestamp: 20210429140305"
+  },
+  "src-efa5d96ad24f": {
+    "urls": [
+      "https://web.archive.org/web/20221115142525/https://musicaustralia.org.au/2019/04/refugees-stories-through-song-no-borders-music/"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; available snapshot and HTTP 200 verified, original page title/content retained. Snapshot timestamp: 20221115142525"
+  },
+  "src-d36d191de4e3": {
+    "urls": [
+      "https://web.archive.org/web/20260119090351/https://mixmag.asia/read/watch-dj-snake-as-he-visits-bangladesh-to-raise-awareness-for-the-rohingya-refugee-crisis-local"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; available snapshot and HTTP 200 verified, original page title/content retained. Snapshot timestamp: 20260119090351"
+  },
+  "src-18c0ce413c5b": {
+    "urls": [
+      "https://journals.lww.com/ijaweb/abstract/2006/50040/does_intraoperative_music_therapy_or_positive.2.aspx",
+      "https://www.researchgate.net/publication/228833001_Does_intraoperative_music_therapy_or_positive_therapeutic_suggestions_during_general_anaesthesia_affect_the_postoperative_outcome-A_double_blind"
+    ],
+    "journalLabel": "Indian Journal of Anaesthesia",
+    "evidence": "Publisher issue contents confirms exact article, Jayaraman et al., 2006, volume 50(4), pages 258–261. Stable article URL replaces unavailable medind PDF and expired signed PDF URL; author-hosted full paper on ResearchGate matches.",
+    "publicationKey": "work:jayaraman-music-2006"
+  },
+  "src-903e9e8075af": {
+    "urls": [
+      "https://journals.lww.com/ijaweb/abstract/2006/50040/does_intraoperative_music_therapy_or_positive.2.aspx",
+      "https://www.researchgate.net/publication/228833001_Does_intraoperative_music_therapy_or_positive_therapeutic_suggestions_during_general_anaesthesia_affect_the_postoperative_outcome-A_double_blind"
+    ],
+    "journalLabel": "Indian Journal of Anaesthesia",
+    "evidence": "Publisher issue contents confirms exact article, Jayaraman et al., 2006, volume 50(4), pages 258–261. Stable article URL replaces unavailable medind PDF and expired signed PDF URL; author-hosted full paper on ResearchGate matches.",
+    "publicationKey": "work:jayaraman-music-2006"
+  },
+  "src-fd4c7398e614": {
+    "urls": [
+      "https://www.dva.gov.au/sites/default/files/technology-use-and-wellbeing-report.pdf",
+      "https://hdl.handle.net/2440/139831"
+    ],
+    "evidence": "University of Adelaide repository holds the exact Technology Use and Wellbeing report, 2019, with the published PDF."
+  },
+  "src-251870752ed3": {
+    "urls": [
+      "https://research.acer.edu.au/indigenous_education/24/",
+      "https://citeseerx.ist.psu.edu/document?doi=70d07313d4dbc2554bdd6b11c535c9222e190586&repid=rep1&type=pdf"
+    ],
+    "evidence": "ACER record and recovered CiteSeer PDF identify the original 2010 first edition, matching the old Department of Health and Ageing citation; no substitution with the 2014 edition."
+  },
+  "src-22bb91ee46db": {
+    "urls": [
+      "https://web.archive.org/web/20250918053156/https://www.abs.gov.au/ausstats/abs@.nsf/mf/4727.0.55.001"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; HTTP 200 and matching publication title verified. Snapshot timestamp: 20250918053156"
+  },
+  "src-fafddbacaca4": {
+    "urls": [
+      "https://web.archive.org/web/20211203005242/https://www1.health.gov.au/internet/publications/publishing.nsf/Content/mental-pubs-n-report13-toc~mental-pubs-n-report13-3~mental-pubs-n-report13-3-4~mental-pubs-n-report13-3-4-ind19"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; HTTP 200 and matching publication title verified. Snapshot timestamp: 20211203005242"
+  },
+  "src-a25d1aadf21e": {
+    "urls": [
+      "https://web.archive.org/web/20210507061838/https://www.aihw.gov.au/reports/mental-health-services/mental-health-services-in-australia-in-brief-2018/contents/table-of-contents"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; HTTP 200 and matching publication title verified. Snapshot timestamp: 20210507061838"
+  },
+  "src-5b5cfdfc3ae1": {
+    "urls": [
+      "https://web.archive.org/web/20250619022357/https://www.dva.gov.au/documents-and-publications/role-meditational-practices-and-mindfulness-improving-mental-health"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; HTTP 200 and matching publication title verified. Snapshot timestamp: 20250619022357"
+  },
+  "src-02b414423ea8": {
+    "urls": [
+      "https://web.archive.org/web/20200212152138/https://www.dva.gov.au/health-and-wellbeing/research-and-development/social-research/transition-and-wellbeing-research"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; HTTP 200 and matching publication title verified. Snapshot timestamp: 20200212152138"
+  },
+  "src-baad390b21ad": {
+    "urls": [
+      "https://web.archive.org/web/20251013034043/https://communityengagementhub.org/resource/using-music-and-dance-to-improve-health-in-a-tanzania-refugee-camp/"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; HTTP 200 and matching publication title verified. Snapshot timestamp: 20251013034043"
+  },
+  "src-6524a07918e6": {
+    "urls": [
+      "https://web.archive.org/web/20261010170906/https://www.snpedia.com/index.php/Rs53576"
+    ],
+    "evidence": "Internet Archive snapshot of the original page; HTTP 200 and matching publication title verified. Snapshot timestamp: 20261010170906"
+  },
+  "src-2e5b03d555b3": {
+    "urls": [
+      "https://bots.snpedia.com/index.php/Rs1042778"
+    ],
+    "evidence": "Same SNPedia record on its indexed accessible subdomain; exact variant identifier and full reference list verified."
+  },
+  "src-70737632f875": {
+    "urls": [
+      "https://bots.snpedia.com/index.php/Rs2254298"
+    ],
+    "evidence": "Same SNPedia record on its indexed accessible subdomain; exact variant identifier and full reference list verified."
+  },
+  "src-41ca41304bcd": {
+    "urls": [
+      "https://www.abs.gov.au/ausstats/abs%40.nsf/Lookup/by%20Subject/2071.0~2016~Main%20Features~Aboriginal%20and%20Torres%20Strait%20islander%20Population%20Article~12"
+    ],
+    "evidence": "Reconstructed the truncated ABS URL from the original catalogue contents link. Same 2016 Census Aboriginal and Torres Strait Islander Population Article, article number 12, released 31 October 2017."
+  },
+  "src-319a0032dd2e": {
+    "urls": [
+      "https://web.archive.org/web/20191122094511/https://breakermag.com/the-u-n-s-powerful-new-way-to-aid-refugees/"
+    ],
+    "evidence": "Internet Archive original 2019 snapshot, located using the original URL with its trailing slash; title and quoted opening checked against the preserved reference."
+  }
+}

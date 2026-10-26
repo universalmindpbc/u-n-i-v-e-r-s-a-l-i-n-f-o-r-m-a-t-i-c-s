@@ -1,0 +1,6 @@
+#molecular-panel{flex:1;min-height:0;width:100%;height:calc(100svh - 100px)}
+#molecular-frame{display:block;width:100%;height:100%;border:0;background:transparent}
+.molecular-landing-link{font-size:11px;color:#a1b4bf;letter-spacing:1px;margin-top:16px;text-decoration:none}
+.molecular-landing-link:hover{color:#e5f4fb}
+.molecular-landing-link:focus-visible{outline:1px solid #82d4ef;outline-offset:5px}
+@media(max-width:760px){#molecular-panel{height:calc(100svh - 108px)}}

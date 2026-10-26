@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "scanned_changed_files": 36,
+  "secret_value_matches": 0,
+  "json_csv_roundtrip_sources": 1168,
+  "agent_workflow_tests": 5,
+  "agent_audit_tests": 7,
+  "registration_checks": "passed",
+  "connector_protocol_checks": "passed"
+}

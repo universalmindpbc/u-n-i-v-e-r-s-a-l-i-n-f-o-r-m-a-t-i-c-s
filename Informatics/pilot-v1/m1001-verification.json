@@ -1,0 +1,120 @@
+{
+  "version": "m1001-core-verification-v1",
+  "records_checked": 1001,
+  "comparisons_passed": 8008,
+  "passed": true,
+  "scope": "Native Pisano period; complete Alpha, primary Gamma indices, Beta interval sums and residues, primary equilateral-triangle and hexagon indices. Independent integer Fibonacci evaluation and SHA-256 comparisons. Extended catalogue, Chevron and native/cycle-based Epsilon are Python-checked.",
+  "batches": [
+    {
+      "range": [
+        1,
+        100
+      ],
+      "records": 100,
+      "comparisons": 800,
+      "passed": true,
+      "failures": [],
+      "input_sha256": "3e616578bf81c3b7a45cc167521c6500027c75bda76f8c20f076e610ab770ef2"
+    },
+    {
+      "range": [
+        101,
+        200
+      ],
+      "records": 100,
+      "comparisons": 800,
+      "passed": true,
+      "failures": [],
+      "input_sha256": "9ea024f76d23b32af21669b9e97d1da3849bb3e3707e63491c1bc6957437af00"
+    },
+    {
+      "range": [
+        201,
+        300
+      ],
+      "records": 100,
+      "comparisons": 800,
+      "passed": true,
+      "failures": [],
+      "input_sha256": "d8c7ce871693720a1124c66ebb1e49342b9478b6df4974074431d98c0474614b"
+    },
+    {
+      "range": [
+        301,
+        400
+      ],
+      "records": 100,
+      "comparisons": 800,
+      "passed": true,
+      "failures": [],
+      "input_sha256": "2d8bc93e195dc68b53de00ef81fc0133dec61adc22d4cc711428bd8f5799aa08"
+    },
+    {
+      "range": [
+        401,
+        500
+      ],
+      "records": 100,
+      "comparisons": 800,
+      "passed": true,
+      "failures": [],
+      "input_sha256": "46a572dd76e23f6b791280766fceed4f9ca3603d29a373d0eda2c618f2b48478"
+    },
+    {
+      "range": [
+        501,
+        600
+      ],
+      "records": 100,
+      "comparisons": 800,
+      "passed": true,
+      "failures": [],
+      "input_sha256": "55c7708d9eb3c4d7880ac9bf6a3f7bd8b781f39da7ade2af675511e958a14f74"
+    },
+    {
+      "range": [
+        601,
+        700
+      ],
+      "records": 100,
+      "comparisons": 800,
+      "passed": true,
+      "failures": [],
+      "input_sha256": "6d49fe718fd2ef72799455e88f673a804d45ddad7f01464df2bf6898a4e8b164"
+    },
+    {
+      "range": [
+        701,
+        800
+      ],
+      "records": 100,
+      "comparisons": 800,
+      "passed": true,
+      "failures": [],
+      "input_sha256": "13c1ff5f053ad29a110277dd4c01efaf69fff9b83d165804f4c07428c08556a7"
+    },
+    {
+      "range": [
+        801,
+        900
+      ],
+      "records": 100,
+      "comparisons": 800,
+      "passed": true,
+      "failures": [],
+      "input_sha256": "e3d4b817c8d4f46c2ce05cf7b065985ab98f06e6631683eced01cffc350ca5ab"
+    },
+    {
+      "range": [
+        901,
+        1001
+      ],
+      "records": 101,
+      "comparisons": 808,
+      "passed": true,
+      "failures": [],
+      "input_sha256": "76f4a9de61102360dadf32e992df0f48f6dd8e0de3373a55219f28105ac27d48"
+    }
+  ],
+  "python_scope": "Full native sequences, first state return, every formation interval reconstruction, regular polygon spacing and Epsilon routes. All 111 M9-family projections preserve original alignment."
+}

@@ -1,0 +1,77 @@
+{
+  "schema": "universal-informatics/next-test-evidence/v1",
+  "checked_at": "2026-10-25T02:55:15.837983+00:00",
+  "purpose": "Post-run data coverage audit; not a biological prediction result. No measurements or selected inputs changed.",
+  "coordinates": "GRCh38 chr3, 0-based start, end-exclusive; UI displays start + 1 and end.",
+  "locus": {
+    "start": 8740380,
+    "end": 8779628
+  },
+  "assay": {
+    "accession": "ENCSR932ZMX",
+    "factor": "CTCF",
+    "cell": "GM23338",
+    "cell_description": "induced pluripotent stem cells",
+    "replicates": 2,
+    "file": "ENCFF651DQL",
+    "output_type": "conservative IDR thresholded peaks",
+    "audit_warnings": [
+      "antibody characterized with exemption",
+      "low read depth",
+      "mild to moderate bottlenecking",
+      "moderate library complexity"
+    ]
+  },
+  "peaks": [
+    {
+      "start": 8742928,
+      "end": 8743128
+    },
+    {
+      "start": 8755748,
+      "end": 8755830
+    },
+    {
+      "start": 8756915,
+      "end": 8757115
+    },
+    {
+      "start": 8767829,
+      "end": 8768017
+    },
+    {
+      "start": 8769391,
+      "end": 8769649
+    }
+  ],
+  "samples": [
+    {
+      "id": "chr3-8752896-8753152",
+      "start": 8752896,
+      "end": 8753152,
+      "overlap_count": 0
+    },
+    {
+      "id": "chr3-8745472-8745728",
+      "start": 8745472,
+      "end": 8745728,
+      "overlap_count": 0
+    }
+  ],
+  "sources": [
+    {
+      "file": "ENCSR932ZMX.json",
+      "sha256": "673c18bf44b64c4a7a9da0e4508f89b31a757502927a03222cf12e80a123ac46"
+    },
+    {
+      "file": "ENCFF651DQL.bed.gz",
+      "sha256": "ee5624447f4852f48ddf34c03a7d41c5ec7ebf9e86e7c0b93888eb6ad483ec68"
+    },
+    {
+      "file": "inputs.json",
+      "sha256": "0a86b5247d1a8e950d525debeed806109f009f6c51c70555eafcef4199336b33"
+    }
+  ],
+  "prediction_test_run": false,
+  "hardware_jobs_submitted": 0
+}

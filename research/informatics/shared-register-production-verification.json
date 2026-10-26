@@ -1,0 +1,31 @@
+{
+  "approved_staging_commit": "4ee3e2acc256261111bb39c94d3a99e3883be6f6",
+  "verified_at": "2026-10-17 05:20:34 UTC",
+  "production_url": "https://universalmind.tv/informatics/",
+  "deployment": "Existing Panthur scoped Informatics workflow",
+  "matching_staging_manifest_files": 520,
+  "other_production_manifest_entries_preserved": true,
+  "website_source_unchanged_from_approved_staging": true,
+  "live_files_matching_approved_source": 60,
+  "modulus_json_records": 48,
+  "publications": 14,
+  "hero_subset": 4,
+  "unassigned_wss_tiers": 144,
+  "dataset_register_csv_zip_verified": true,
+  "desktop_viewport": [
+    1440,
+    1000
+  ],
+  "mobile_viewport": [
+    390,
+    844
+  ],
+  "all_requested_sequence_views_verified": true,
+  "register_and_genomics_lightboxes_verified": true,
+  "music_continuity": true,
+  "fullscreen_container_preserved": true,
+  "native_fullscreen_invoked": false,
+  "process_audio_disabled": true,
+  "direct_m1_production_entry_verified": true,
+  "browser_console_errors": []
+}

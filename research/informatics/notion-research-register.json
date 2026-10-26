@@ -1,0 +1,26 @@
+{
+  "register_id": "oxtr-phase1-literature",
+  "register_version": "2026-10-18.1",
+  "atlas_database_id": "f394fdfe48d14ef191b19ec45b6aa8d9",
+  "atlas_data_source_id": "e63b575d-a9ae-4c56-8ecc-c7b3b2ec558a",
+  "evidence_database_id": "903d93ef86c740e79bca21c30e148d5a",
+  "evidence_data_source_id": "d64f8e6f-a519-4d99-a14b-49cb740f7804",
+  "register_view_id": "3fc7b9c9-9c56-81a1-8494-000c76dbc0f9",
+  "hero_view_id": "3fc7b9c9-9c56-8176-9bc9-000c9fb407e3",
+  "papers": {
+    "E01": "https://app.notion.com/3fc7b9c99c5681949923ec4b3d1d4696",
+    "E02": "https://app.notion.com/3fc7b9c99c5681aebbb4dba8842d7b83",
+    "E03": "https://app.notion.com/3fc7b9c99c568157a367cccd08100fbc",
+    "E04": "https://app.notion.com/3fc7b9c99c568103a2bfeac049e40c99",
+    "E05": "https://app.notion.com/3fc7b9c99c5681b2873fc2134c285875",
+    "E06": "https://app.notion.com/3fc7b9c99c5681018238fda129ab246e",
+    "E07": "https://app.notion.com/3fc7b9c99c56814ebdabcdcbb42cfe54",
+    "E08": "https://app.notion.com/3fc7b9c99c56816fa0ecc1b3706ab5ba",
+    "E09": "https://app.notion.com/3fc7b9c99c568115af1ee70f388ac8f7",
+    "E10": "https://app.notion.com/3fc7b9c99c56811baac7fb39ed18806a",
+    "E11": "https://app.notion.com/3fc7b9c99c568160b3bde09b5c318304",
+    "E12": "https://app.notion.com/3fc7b9c99c568137bb43e20e2e388bf7",
+    "E13": "https://app.notion.com/3fc7b9c99c568153abcecc9b1019f058",
+    "E14": "https://app.notion.com/3fc7b9c99c56810499a7e04f4ee96ad8"
+  }
+}

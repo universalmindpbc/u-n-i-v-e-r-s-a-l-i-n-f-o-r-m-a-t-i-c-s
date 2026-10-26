@@ -1,0 +1,1171 @@
+{
+  "doi": "10.1038/eye.1998.142",
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          1
+        ]
+      ],
+      "date-time": "2026-10-01T21:53:11Z",
+      "timestamp": 1790891591602,
+      "version": "4.1.0"
+    },
+    "reference-count": 82,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "3",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              1998,
+              5,
+              1
+            ]
+          ],
+          "date-time": "1998-05-01T00:00:00Z",
+          "timestamp": 893980800000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "http://www.springer.com/tdm"
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Eye"
+    ],
+    "published-print": {
+      "date-parts": [
+        [
+          1998,
+          5
+        ]
+      ]
+    },
+    "DOI": "10.1038/eye.1998.142",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2011,
+          7,
+          4
+        ]
+      ],
+      "date-time": "2011-07-04T10:55:00Z",
+      "timestamp": 1309776900000
+    },
+    "page": "531-540",
+    "source": "Crossref",
+    "is-referenced-by-count": 79,
+    "title": [
+      "The photoreceptor mosaic"
+    ],
+    "prefix": "10.1038",
+    "volume": "12",
+    "author": [
+      {
+        "given": "P K",
+        "family": "Ahnelt",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "reference": [
+      {
+        "key": "BFeye1998142_CR1",
+        "unstructured": "Wandeil BA . Foundations of vision. Sunderland, Mass: Sinauer 1995."
+      },
+      {
+        "key": "BFeye1998142_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "151",
+        "DOI": "10.1001/archopht.1969.00990020153002",
+        "volume": "82",
+        "author": "E Yamada",
+        "year": "1969",
+        "unstructured": "Yamada E . Some structural features of the fovea centralis in the human retina. Arch Ophthalmol 1969;82:151\u20139.",
+        "journal-title": "Arch Ophthalmol"
+      },
+      {
+        "key": "BFeye1998142_CR3",
+        "first-page": "1045",
+        "volume": "13",
+        "author": "L Misotten",
+        "year": "1974",
+        "unstructured": "Misotten L . Estimation of the ratio of cones to neurons in the fovea of the human retina. Invest Ophthalmol Vis Sci 1974;13:1045\u20139.",
+        "journal-title": "Invest Ophthalmol Vis Sci"
+      },
+      {
+        "key": "BFeye1998142_CR4",
+        "first-page": "885",
+        "volume": "13",
+        "author": "CK Adams",
+        "year": "1974",
+        "unstructured": "Adams CK, Perez JM, Hawthorne MN . Rod and cone densities in the Rhesus. Invest Ophthalmol Vis Sci 1974;13:885\u20138.",
+        "journal-title": "Invest Ophthalmol Vis Sci"
+      },
+      {
+        "key": "BFeye1998142_CR5",
+        "doi-asserted-by": "crossref",
+        "first-page": "1",
+        "DOI": "10.1111/j.1755-3768.1935.tb04186.x",
+        "volume": "13",
+        "author": "GA \u00d8sterberg",
+        "year": "1935",
+        "unstructured": "\u00d8sterberg GA . Topography of the layer of rods and cones in the human retina. Acta Ophthalmol (Copenh) 1935;13:1\u2013103.",
+        "journal-title": "Acta Ophthalmol (Copenh)"
+      },
+      {
+        "key": "BFeye1998142_CR6",
+        "unstructured": "Polyak S . The retina. Chicago: University of Chicago Press, 1941."
+      },
+      {
+        "key": "BFeye1998142_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "89",
+        "DOI": "10.1016/0278-4327(91)90010-Y",
+        "volume": "10",
+        "author": "CA Curcio",
+        "year": "1991",
+        "unstructured": "Curcio CA, Hendrickson AE . Organisation and development of the primate photoreceptor mosaic. Prog Retinal Res 1991;10:89\u2013120.",
+        "journal-title": "Prog Retinal Res"
+      },
+      {
+        "key": "BFeye1998142_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "511",
+        "DOI": "10.1017/S0952523800000687",
+        "volume": "5",
+        "author": "D Pum",
+        "year": "1990",
+        "unstructured": "Pum D, Ahnelt PK, Grasl M . Iso-orientation areas in the foveal cone mosaic. Vis Neurosci 1990;5:511\u201323.",
+        "journal-title": "Vis Neurosci"
+      },
+      {
+        "key": "BFeye1998142_CR9",
+        "doi-asserted-by": "publisher",
+        "first-page": "3426",
+        "DOI": "10.1523/JNEUROSCI.14-06-03426.1994",
+        "volume": "14",
+        "author": "MI Chiu",
+        "year": "1994",
+        "unstructured": "Chiu MI, Nathans J . Blue cones and cone bipolar cells share transcriptional specificity as determined by expression in human blue visual pigment-derived transgenes. J Neurosci 1994;14:3426\u201336.",
+        "journal-title": "J Neurosci"
+      },
+      {
+        "key": "BFeye1998142_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "1053",
+        "DOI": "10.1126/science.7754386",
+        "volume": "268",
+        "author": "DM Schneeweis",
+        "year": "1995",
+        "unstructured": "Schneeweis DM, Schnapf JL . Photovoltage of rods and cones in the macaque retina. Science 1995;268:1053\u20136.",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFeye1998142_CR11",
+        "first-page": "1259",
+        "volume": "36",
+        "author": "M Nihira",
+        "year": "1995",
+        "unstructured": "Nihira M, Anderson K, Gorin FA, Burns MS . Primate rod and cone photoreceptors may differ in glucose accessibility. Invest Ophthalmol Vis Sci 1995;36:1259\u201370.",
+        "journal-title": "Invest Ophthalmol Vis Sci"
+      },
+      {
+        "key": "BFeye1998142_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "39",
+        "DOI": "10.1002/cne.902930104",
+        "volume": "293",
+        "author": "PK Ahnelt",
+        "year": "1990",
+        "unstructured": "Ahnelt PK, Keri C, Kolb H . Identification of pedicles of putative blue-sensitive cones in human and primate retina. J Comp Neurol 1990;293:39\u201353.",
+        "journal-title": "J Comp Neurol"
+      },
+      {
+        "key": "BFeye1998142_CR13",
+        "unstructured": "Bron AJ, Tripathi RC, Tripathi BJ . Wolff's anatomy of the eye and orbit. 8th ed. London: Chapman and Hall, 1997."
+      },
+      {
+        "key": "BFeye1998142_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "125",
+        "DOI": "10.1002/aja.1001590202",
+        "volume": "159",
+        "author": "BD Borwein",
+        "year": "1980",
+        "unstructured": "Borwein BD, Borwein D, Medeiros J, McGowan JW . The ultrastructure of monkey photoreceptors with special reference to the structure, shape, size and spacing of foveal cones. Am J Anat 1980;159:125\u201346.",
+        "journal-title": "Am J Anat"
+      },
+      {
+        "key": "BFeye1998142_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "363",
+        "DOI": "10.1002/ar.1092050313",
+        "volume": "205",
+        "author": "B Borwein",
+        "year": "1983",
+        "unstructured": "Borwein B . Scanning electron microscopy of monkey foveal photoreceptors. Anat Rec 1983;205:363\u201373.",
+        "journal-title": "Anat Rec"
+      },
+      {
+        "key": "BFeye1998142_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "403",
+        "DOI": "10.1017/S0952523800006647",
+        "volume": "6",
+        "author": "RW Williams",
+        "year": "1991",
+        "unstructured": "Williams RW . The human retina has a cone enriched rim. Vis Neurosci 1991;6:403\u20136.",
+        "journal-title": "Vis Neurosci"
+      },
+      {
+        "key": "BFeye1998142_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "3383",
+        "DOI": "10.1016/0042-6989(95)00334-7",
+        "volume": "36",
+        "author": "MH Chun",
+        "year": "1996",
+        "unstructured": "Chun MH, Grunert U, Martin PR, W\u00e4ssle H . The synaptic complex of cones in the fovea and in the periphery of the macaque monkey retina. Vision Res 1996;36:3383\u201395.",
+        "journal-title": "Vision Res"
+      },
+      {
+        "key": "BFeye1998142_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "381",
+        "DOI": "10.1007/BF02284809",
+        "volume": "25",
+        "author": "JM Hopkins",
+        "year": "1996",
+        "unstructured": "Hopkins JM, Boycott BB . The cone synapses of DB1 diffuse, DB6 diffuse and invaginating midget, bipolar cells of a primate retina. J Neurocytol 1996;25:381\u201390.",
+        "journal-title": "J Neurocytol"
+      },
+      {
+        "key": "BFeye1998142_CR19",
+        "doi-asserted-by": "publisher",
+        "first-page": "288",
+        "DOI": "10.1007/BF01942512",
+        "volume": "42",
+        "author": "P Ahnelt",
+        "year": "1986",
+        "unstructured": "Ahnelt P, Pflug R . Telodendritic contacts of cones in the human fovea. Experientia 1986;42:288\u2013300.",
+        "journal-title": "Experientia"
+      },
+      {
+        "key": "BFeye1998142_CR20",
+        "unstructured": "Kaiser PK, Boynton RM . Human colour vision. 2nd ed. Washington, DC: Optical Society of America, 1996."
+      },
+      {
+        "key": "BFeye1998142_CR21",
+        "unstructured": "Mollon JD, Est\u00e9vez O, Cavonius CR . The two subsystems of colour vision and their roles in wavelength discrimination. In: Blakemore C, editor. Vision: encoding and efficiency. Cambridge: Cambridge University Press, 1990:117\u201331."
+      },
+      {
+        "key": "BFeye1998142_CR22",
+        "doi-asserted-by": "publisher",
+        "first-page": "541",
+        "DOI": "10.1038/eye.1998.143",
+        "volume": "12",
+        "author": "J Bowmaker",
+        "year": "1998",
+        "unstructured": "Bowmaker J . Evolution of colour vision in vertebrates. Eye 1998;12:541\u20137.",
+        "journal-title": "Eye"
+      },
+      {
+        "key": "BFeye1998142_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "70",
+        "DOI": "10.1038/371070a0",
+        "volume": "371",
+        "author": "DJ Calkins",
+        "year": "1994",
+        "unstructured": "Calkins DJ, Schein SJ, Tsukamoto Y, Sterling P . M and L cones in macaque fovea connect to midget ganglion cells by different numbers of excitatory synapses. Nature 1994;371:70\u20132.",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFeye1998142_CR24",
+        "doi-asserted-by": "publisher",
+        "first-page": "677",
+        "DOI": "10.1038/360677a0",
+        "volume": "360",
+        "author": "JD Mollon",
+        "year": "1992",
+        "unstructured": "Mollon JD, Bowmaker JK . The spatial arrangement of cones in the primate fovea. Nature 1992;360:677\u20139.",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFeye1998142_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "2251",
+        "DOI": "10.1523/JNEUROSCI.16-07-02251.1996",
+        "volume": "16",
+        "author": "OS Packer",
+        "year": "1996",
+        "unstructured": "Packer OS, Williams DR, Bensinger DG . Photopigment transmittance imaging of the primate photoreceptor mosaic. J Neurosci 1996;16:2251\u201360.",
+        "journal-title": "J Neurosci"
+      },
+      {
+        "key": "BFeye1998142_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "18",
+        "DOI": "10.1002/cne.902550103",
+        "volume": "255",
+        "author": "PK Ahnelt",
+        "year": "1987",
+        "unstructured": "Ahnelt PK, Kolb H, Pflug R . Identification of a subtype of cone pohtoreceptor, likely to be blue sensitive in the human retina. J Comp Neurol 1987;255:18\u201334.",
+        "journal-title": "J Comp Neurol"
+      },
+      {
+        "key": "BFeye1998142_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "610",
+        "DOI": "10.1002/cne.903120411",
+        "volume": "312",
+        "author": "CA Curcio",
+        "year": "1991",
+        "unstructured": "Curcio CA, Allen KA, Sloan KR, Lerea CL, Hurley JB, Klock IB, Milam AH . Distribution and morphology of human photoreceptors stained with anti-blue opsin. J Comp Neurol 1991;312:610\u201324.",
+        "journal-title": "J Comp Neurol"
+      },
+      {
+        "key": "BFeye1998142_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "454",
+        "DOI": "10.1126/science.403607",
+        "volume": "196",
+        "author": "RE Marc",
+        "year": "1977",
+        "unstructured": "Marc RE, Sperling HG . Chromatic organisation of primate cones. Science 1977;196:454\u20136.",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFeye1998142_CR29",
+        "first-page": "1449",
+        "volume": "24",
+        "author": "EP McCrane",
+        "year": "1983",
+        "unstructured": "McCrane EP, deMonasterio FM, Schein SJ, Caruso RC . Nonfluorescent dye staining of primate blue cones. Invest Ophthalmol Vis Sci 1983;24:1449\u201355.",
+        "journal-title": "Invest Ophthalmol Vis Sci"
+      },
+      {
+        "key": "BFeye1998142_CR30",
+        "first-page": "289",
+        "volume": "26",
+        "author": "FM deMonasterio",
+        "year": "1985",
+        "unstructured": "deMonasterio FM, McCrane EP, Newlander JK, Schein SJ . Density profile of blue-sensitive cones along the horizontal meridian of macaque retina. Invest Ophthalmol Vis Sci 1985;26:289\u2013302.",
+        "journal-title": "Invest Ophthalmol Vis Sci"
+      },
+      {
+        "key": "BFeye1998142_CR31",
+        "first-page": "1451",
+        "volume": "31",
+        "author": "TM Nork",
+        "year": "1990",
+        "unstructured": "Nork TM, McCormick SA, Chao GM, Odom JV . Distribution of carbonic anhydrase among human photoreceptors. Invest Ophthalmol Vis Sci 1990;31:1451\u20138.",
+        "journal-title": "Invest Ophthalmol Vis Sci"
+      },
+      {
+        "key": "BFeye1998142_CR32",
+        "first-page": "171",
+        "volume": "21",
+        "author": "CM Diaz-Arraya",
+        "year": "1993",
+        "unstructured": "Diaz-Arraya CM, Provis JM, Billson FA . NADPH-diaphorase histochemistry reveals cone distribution in adult human retina. Aust NZ J Ophthalmol 1993;21:171\u20139.",
+        "journal-title": "Aust NZ J Ophthalmol"
+      },
+      {
+        "key": "BFeye1998142_CR33",
+        "doi-asserted-by": "publisher",
+        "first-page": "593",
+        "DOI": "10.1002/cne.902730413",
+        "volume": "273",
+        "author": "A Sz\u00e9l",
+        "year": "1988",
+        "unstructured": "Sz\u00e9l A, Diamantstein T, R\u00f6hlich P . Identification of the blue-sensitive cones in the mammalian retina by anti-visual pigment antibody. Comp Neurol 1988;273:593\u2013602.",
+        "journal-title": "Comp Neurol"
+      },
+      {
+        "key": "BFeye1998142_CR34",
+        "first-page": "443",
+        "volume": "386",
+        "author": "H Kolb",
+        "year": "1997",
+        "unstructured": "Kolb H, Goede P, Roberts S, McDermott R . Gouras P. Uniqueness of S-cone pedicle in the human retina and consequences for colour processing. J Comp Neurol 1997;386:443\u201360.",
+        "journal-title": "Uniqueness of S-cone pedicle in the human retina and consequences for colour processing. J Comp Neurol"
+      },
+      {
+        "key": "BFeye1998142_CR35",
+        "doi-asserted-by": "publisher",
+        "first-page": "2681",
+        "DOI": "10.1016/0042-6989(96)00023-5",
+        "volume": "36",
+        "author": "F Naarendorp",
+        "year": "1996",
+        "unstructured": "Naarendorp F, Rice KS, Sieving PA . Simulation of rod and cone signals at threshold in human observers. Vision Res 1996;36:2681\u20138.",
+        "journal-title": "Vision Res"
+      },
+      {
+        "key": "BFeye1998142_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "406",
+        "DOI": "10.1002/cne.903430306",
+        "volume": "343",
+        "author": "PK Ahnelt",
+        "year": "1994",
+        "unstructured": "Ahnelt PK, Kolb H . Horizontal cells and cone photoreceptors in human retina: a Golgi-electron microscope study of spectral connectivity. J Comp Neurol 1994;343:406\u201327.",
+        "journal-title": "J Comp Neurol"
+      },
+      {
+        "key": "BFeye1998142_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "656",
+        "DOI": "10.1126/science.271.5249.656",
+        "volume": "271",
+        "author": "DM Dacey",
+        "year": "1996",
+        "unstructured": "Dacey DM, Lee BB, Stafford DM, Smith VC, Pokorny J . Horizontal cells of the primate retina: cone specificity without cone opponency. Science 1996;271:656\u20138.",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFeye1998142_CR38",
+        "first-page": "3045",
+        "volume": "10",
+        "author": "N Kouyama",
+        "year": "1992",
+        "unstructured": "Kouyama N, Marshak DW . Bipolar cells specific for blue cones in the macaque retina. J Neurosci 1992;10:3045\u201355.",
+        "journal-title": "J Neurosci"
+      },
+      {
+        "key": "BFeye1998142_CR39",
+        "doi-asserted-by": "publisher",
+        "first-page": "579",
+        "DOI": "10.1126/science.3576186",
+        "volume": "236",
+        "author": "CA Curcio",
+        "year": "1987",
+        "unstructured": "Curcio CA, Sloan KR, Packer O, Hendrickson A . Distribution of cones in human and monkey retina: individual variability and radial asymmetry. Science 1987;236:579\u201382.",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFeye1998142_CR40",
+        "unstructured": "K\u00f6nig A . \u00dcber den menschlichen Sehpurpur und seine Bedeutung f\u00fcr das Sehen. Berlin: S B Akad Wiss, 1894:577\u201398."
+      },
+      {
+        "key": "BFeye1998142_CR41",
+        "doi-asserted-by": "publisher",
+        "first-page": "774",
+        "DOI": "10.1038/153774b0",
+        "volume": "153",
+        "author": "EN Willmer",
+        "year": "1944",
+        "unstructured": "Willmer EN . Colour of small objects. Nature 1944;153:774\u20135.",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFeye1998142_CR42",
+        "doi-asserted-by": "publisher",
+        "first-page": "119",
+        "DOI": "10.1038/156119a0",
+        "volume": "156",
+        "author": "EN Wilmer",
+        "year": "1945",
+        "unstructured": "Wilmer EN, Wright WD . Colour sensitivity of the fovea centralis. Nature 1945;156:119\u2013121.",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "BFeye1998142_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "1341",
+        "DOI": "10.1016/0042-6989(81)90241-8",
+        "volume": "21",
+        "author": "DR Williams",
+        "year": "1981",
+        "unstructured": "Williams DR, MacLeod DIA, Hayhoe M . Foveal tritanopia. Vision Res 1981;21:1341\u201356.",
+        "journal-title": "Vision Res"
+      },
+      {
+        "key": "BFeye1998142_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "1357",
+        "DOI": "10.1016/0042-6989(81)90242-X",
+        "volume": "21",
+        "author": "DR Williams",
+        "year": "1981",
+        "unstructured": "Williams DR, MacLeod DIA, Hayhoe M . Punctate sensitivity of the blue-sensitive mechanism. Vision Res 1981;21:1357\u201375.",
+        "journal-title": "Vision Res"
+      },
+      {
+        "key": "BFeye1998142_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "249",
+        "DOI": "10.1006/exer.1994.1014",
+        "volume": "58",
+        "author": "P R\u00f6hlich",
+        "year": "1994",
+        "unstructured": "R\u00f6hlich P, Ahnelt PK, Dawson WW, Sz\u00e9l A . Presence of immunoreactive blue cones in the fetal. monkey fovea. Exp Eye Res 1994;58:249\u201352.",
+        "journal-title": "monkey fovea. Exp Eye Res"
+      },
+      {
+        "key": "BFeye1998142_CR46",
+        "unstructured": "Schwalbe G . Mikroskopische Anatomie des Sehnerven, der Netzhaut und des Glask\u00f6rpers. In Graefe A, Saemisch T, editors. Handbuch der Allgemeinen Augenheilkunde, vol 1. Leipzig: W Engelmann, 1874."
+      },
+      {
+        "key": "BFeye1998142_CR47",
+        "first-page": "31",
+        "volume": "38",
+        "author": "PR MacLeish",
+        "year": "1997",
+        "unstructured": "MacLeish PR, Wikler KC . Evidence for immature cones in the far periphery of the primate retina [abstract]. Invest Ophthalmol Vis Sci 1997;38:31.",
+        "journal-title": "Invest Ophthalmol Vis Sci"
+      },
+      {
+        "key": "BFeye1998142_CR48",
+        "doi-asserted-by": "publisher",
+        "first-page": "548",
+        "DOI": "10.1038/eye.1998.144",
+        "volume": "12",
+        "author": "JD Mollon",
+        "year": "1998",
+        "unstructured": "Mollon JD, et al. What is the function of the cone-rich rim of the retina. Eye 1998;12:548\u201352.",
+        "journal-title": "Eye"
+      },
+      {
+        "key": "BFeye1998142_CR49",
+        "unstructured": "Fine BS, Yanoff M . Ocular histology: a text and atlas. 2nd ed. Hagerstown: Harper and Row, 1975."
+      },
+      {
+        "key": "BFeye1998142_CR50",
+        "unstructured": "Sigelman J, Ozanics V . Retina. In: Jakobiec FA, editor. Ocular anatomy and teratology. Philadelphia: Harper and Row, 1982:441\u2013506."
+      },
+      {
+        "key": "BFeye1998142_CR51",
+        "doi-asserted-by": "publisher",
+        "first-page": "769",
+        "DOI": "10.1001/archopht.1967.00980020771010",
+        "volume": "6",
+        "author": "PF O'Malley",
+        "year": "1967",
+        "unstructured": "O'Malley PF, Allen RA . Peripheral cystoid degeneration of the retina: incidence and distribution in 1000 autopsy eyes. Arch Ophthalmol 1967;6:769\u201376.",
+        "journal-title": "Arch Ophthalmol"
+      },
+      {
+        "key": "BFeye1998142_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "392",
+        "DOI": "10.1016/0002-9394(70)92272-5",
+        "volume": "69",
+        "author": "RY Foos",
+        "year": "1970",
+        "unstructured": "Foos RY, Feman SS . Reticular cystoid degeneration of the peripheral retina. Am J Ophthalmol 1970;69:392\u2013403.",
+        "journal-title": "Am J Ophthalmol"
+      },
+      {
+        "key": "BFeye1998142_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "479",
+        "DOI": "10.1002/cne.902690403",
+        "volume": "269",
+        "author": "SJ Schein",
+        "year": "1988",
+        "unstructured": "Schein SJ . Anatomy of macaque fovea and spatial densities of neurons in foveal representation. J Comp Neurol 1988;269:479\u2013505.",
+        "journal-title": "J Comp Neurol"
+      },
+      {
+        "key": "BFeye1998142_CR54",
+        "doi-asserted-by": "publisher",
+        "first-page": "505",
+        "DOI": "10.1017/S0952523800005605",
+        "volume": "8",
+        "author": "C Diaz-Araya",
+        "year": "1992",
+        "unstructured": "Diaz-Araya C, Provis JM . Evidence of photoreceptor migration during early foveal development: a quantitative analysis of human fetal. retinae. Vis Neurosci 1992;8:505\u201314.",
+        "journal-title": "retinae. Vis Neurosci"
+      },
+      {
+        "key": "BFeye1998142_CR55",
+        "doi-asserted-by": "publisher",
+        "first-page": "847",
+        "DOI": "10.1016/0042-6989(86)90143-4",
+        "volume": "26",
+        "author": "C Yuodelis",
+        "year": "1986",
+        "unstructured": "Yuodelis C, Hendrickson A . A qualitative and quantitative analysis of the human fovea during development. Vision Res 1986;26:847\u201355.",
+        "journal-title": "Vision Res"
+      },
+      {
+        "key": "BFeye1998142_CR56",
+        "doi-asserted-by": "publisher",
+        "first-page": "225",
+        "DOI": "10.1016/0306-4522(88)90021-8",
+        "volume": "25",
+        "author": "VH Perry",
+        "year": "1988",
+        "unstructured": "Perry VH, Cowey A . The length of the fibres of Henle in the retina of macaque monkeys: implications for vision. Neuroscience 1988;25:225\u201336.",
+        "journal-title": "Neuroscience"
+      },
+      {
+        "key": "BFeye1998142_CR57",
+        "doi-asserted-by": "publisher",
+        "first-page": "66",
+        "DOI": "10.1126/science.3353708",
+        "volume": "240",
+        "author": "AG Leventhal",
+        "year": "1988",
+        "unstructured": "Leventhal AG, Ault SJ, Vitek DJ . The nasotemporal division in primate retina: the neural bases of macular sparing and splitting. Science 1988;240:66\u20137.",
+        "journal-title": "Science"
+      },
+      {
+        "key": "BFeye1998142_CR58",
+        "doi-asserted-by": "publisher",
+        "first-page": "487",
+        "DOI": "10.1017/S0952523800009779",
+        "volume": "7",
+        "author": "C Savy",
+        "year": "1991",
+        "unstructured": "Savy C, Simon A, Nguyen-Legros J . Spatial geometry of the dopamine innervation in the avascular area of the human fovea. Vis Neurosci 1991;7:487\u201398.",
+        "journal-title": "Vis Neurosci"
+      },
+      {
+        "key": "BFeye1998142_CR59",
+        "first-page": "1128",
+        "volume": "32",
+        "author": "PK Ahnelt",
+        "year": "1991",
+        "unstructured": "Ahnelt PK, Keri C . Cone pedicles in the fovea and periphery of the human retina. Invest Ophthalmol Vis Sci (ARVO Suppl) 1991;32:1128.",
+        "journal-title": "Invest Ophthalmol Vis Sci (ARVO Suppl)"
+      },
+      {
+        "key": "BFeye1998142_CR60",
+        "doi-asserted-by": "publisher",
+        "first-page": "301",
+        "DOI": "10.1017/S0952523800007987",
+        "volume": "12",
+        "author": "TL Haley",
+        "year": "1995",
+        "unstructured": "Haley TL, Pochet R, Baizer L, Burton MD, Crabb JW, Parmentier M, Polans AS . Calbindin D-28K immunoreactivity of human cone cells varies with retinal position. Vis Neurosci 1995;12:301\u20137.",
+        "journal-title": "Vis Neurosci"
+      },
+      {
+        "key": "BFeye1998142_CR61",
+        "doi-asserted-by": "publisher",
+        "first-page": "1205",
+        "DOI": "10.1016/0042-6989(82)90086-4",
+        "volume": "22",
+        "author": "JI Yellott",
+        "year": "1982",
+        "unstructured": "Yellott JI Jr. Spectral analysis of spatial sampling by photoreceptors: topological disorder prevents aliasing. Vision Res 1982;22:1205\u201310.",
+        "journal-title": "Vision Res"
+      },
+      {
+        "key": "BFeye1998142_CR62",
+        "doi-asserted-by": "publisher",
+        "first-page": "169",
+        "DOI": "10.1017/S0952523800009639",
+        "volume": "9",
+        "author": "CA Curcio",
+        "year": "1992",
+        "unstructured": "Curcio CA, Sloan KR . Packing geometry of human cone photoreceptors: variation with eccentricity and evidence for local anisotropy. Vis Neurosci 1992;9:169\u201380.",
+        "journal-title": "Vis Neurosci"
+      },
+      {
+        "key": "BFeye1998142_CR63",
+        "doi-asserted-by": "publisher",
+        "first-page": "815",
+        "DOI": "10.1016/0042-6989(91)90149-Y",
+        "volume": "31",
+        "author": "N Sekiguchi",
+        "year": "1991",
+        "unstructured": "Sekiguchi N, Williams DR, Packer O . Nonlinear distortion of gratings at the foveal resolution limit. Vision Res 1991;31:815\u201331.",
+        "journal-title": "Vision Res"
+      },
+      {
+        "key": "BFeye1998142_CR64",
+        "doi-asserted-by": "publisher",
+        "first-page": "9770",
+        "DOI": "10.1073/pnas.90.21.9770",
+        "volume": "90",
+        "author": "D Williams",
+        "year": "1993",
+        "unstructured": "Williams D, Sekiguchi N, Brainard D . Colour, contrast sensitivity, and the cone mosaic. Proc Natl Acad Sci USA 1993;90:9770\u20137.",
+        "journal-title": "Proc Natl Acad Sci USA"
+      },
+      {
+        "key": "BFeye1998142_CR65",
+        "doi-asserted-by": "publisher",
+        "first-page": "1909",
+        "DOI": "10.1016/S0042-6989(96)00295-7",
+        "volume": "37",
+        "author": "S Marcos",
+        "year": "1997",
+        "unstructured": "Marcos S, Tornow R-P, Eisner AE, Navarro R . Foveal cone spacing and cone photopigment density difference: objective measurements in the same subjects. Vision Res 1997;37:1909\u201315.",
+        "journal-title": "Vision Res"
+      },
+      {
+        "key": "BFeye1998142_CR66",
+        "doi-asserted-by": "publisher",
+        "first-page": "117",
+        "DOI": "10.1002/(SICI)1096-9861(19970203)378:1<117::AID-CNE7>3.0.CO;2-7",
+        "volume": "378",
+        "author": "K Bumsted",
+        "year": "1997",
+        "unstructured": "Bumsted K, Jason C, Sz\u00e9l A, Hendrickson A . Spatial and temporal expression of cone opsins during monkey retinal development. J Comp Neurol 1997;378:117\u201334.",
+        "journal-title": "J Comp Neurol"
+      },
+      {
+        "key": "BFeye1998142_CR67",
+        "first-page": "2099",
+        "volume": "31",
+        "author": "BS Zeffren",
+        "year": "1990",
+        "unstructured": "Zeffren BS, Applegate RA, Brodley A, van Heuven WAJ . Retinal fixation point location in the foveal avascular zone. Invest Ophthalmol Vis Sci 1990;31:2099\u2013105.",
+        "journal-title": "Invest Ophthalmol Vis Sci"
+      },
+      {
+        "key": "BFeye1998142_CR68",
+        "first-page": "1014",
+        "volume": "26",
+        "author": "D van Norren",
+        "year": "1985",
+        "unstructured": "van Norren D, van Meel GJ . Density of human cone photopigments as a function of age. Invest Ophthalmol Vis Sci 1985;26:1014\u20136.",
+        "journal-title": "Invest Ophthalmol Vis Sci"
+      },
+      {
+        "key": "BFeye1998142_CR69",
+        "doi-asserted-by": "publisher",
+        "first-page": "321",
+        "DOI": "10.1016/0042-6989(86)90029-5",
+        "volume": "26",
+        "author": "PE Kilbride",
+        "year": "1986",
+        "unstructured": "Kilbride PE, Hutman LP, Fishman M, Read JS . Foveal cone pigment density difference in the aging human eye. Vision Res 1986;26:321\u20135.",
+        "journal-title": "Vision Res"
+      },
+      {
+        "key": "BFeye1998142_CR70",
+        "doi-asserted-by": "publisher",
+        "first-page": "2140",
+        "DOI": "10.1364/JOSAA.5.002140",
+        "volume": "5",
+        "author": "G Haegerstrom-Portnoy",
+        "year": "1988",
+        "unstructured": "Haegerstrom-Portnoy G . Short wavelength-sensitive cone sensitivity loss with aging: a protective role for macular pigment? J Opt Soc Am [A] 1988;5:2140\u20134.",
+        "journal-title": "J Opt Soc Am [A]"
+      },
+      {
+        "key": "BFeye1998142_CR71",
+        "doi-asserted-by": "publisher",
+        "first-page": "1853",
+        "DOI": "10.1016/S0161-6420(95)30784-1",
+        "volume": "102",
+        "author": "S Panda-Jonas",
+        "year": "1995",
+        "unstructured": "Panda-Jonas S, Jonas JB, Jakobczyk-Zmija M . Retinal photoreceptor density decreases with age. Ophthalmology 1995;102:1853\u20139.",
+        "journal-title": "Ophthalmology"
+      },
+      {
+        "key": "BFeye1998142_CR72",
+        "first-page": "212",
+        "volume": "99",
+        "author": "A Saito",
+        "year": "1995",
+        "unstructured": "Saito A, Miyake Y, Wang JX, Yagasaki K, Matsumoto Y, Horio N, Horiguchi M . Foveal cone densitometry and changes in foveal cone pigments with aging. Nippon Ganka Gakkai Zasshi 1995;99:212\u20139.",
+        "journal-title": "Nippon Ganka Gakkai Zasshi"
+      },
+      {
+        "key": "BFeye1998142_CR73",
+        "first-page": "235",
+        "volume": "100",
+        "author": "N Horio",
+        "year": "1996",
+        "unstructured": "Horio N, Miyake Y, Horiguchi M . Foveal cone densitometry in high myopia. Nippon Ganka Gakkai Zasshi 1996;100:235\u20139.",
+        "journal-title": "Nippon Ganka Gakkai Zasshi"
+      },
+      {
+        "key": "BFeye1998142_CR74",
+        "doi-asserted-by": "publisher",
+        "first-page": "307",
+        "DOI": "10.1113/jphysiol.1996.sp021310",
+        "volume": "492",
+        "author": "TT Berendschot",
+        "year": "1996",
+        "unstructured": "Berendschot TT, van de Kraats J, van Norren D . Foveal cone mosaic and visual pigment density in dichromats. J Physiol (Lond) 1996;492:307\u201314.",
+        "journal-title": "J Physiol (Lond)"
+      },
+      {
+        "key": "BFeye1998142_CR75",
+        "doi-asserted-by": "publisher",
+        "first-page": "472",
+        "DOI": "10.1002/cne.902980408",
+        "volume": "298",
+        "author": "O Packer",
+        "year": "1990",
+        "unstructured": "Packer O, Hendrickson AE, Curcio CA . Developmental redistribution of photoreceptors across the Macaca nemestrina (pigtail macaque) retina. J Comp Neurol 1990;298:472\u201393.",
+        "journal-title": "J Comp Neurol"
+      },
+      {
+        "key": "BFeye1998142_CR76",
+        "doi-asserted-by": "publisher",
+        "first-page": "133",
+        "DOI": "10.1016/0197-4580(80)90006-8",
+        "volume": "1",
+        "author": "JM Ordy",
+        "year": "1980",
+        "unstructured": "Ordy JM, Brizzee KR, Hansche J . Visual acuity and foveal cone density in the retina of the aged rhesus monkey. Neurobiol Aging 1980;1:133\u201340.",
+        "journal-title": "Neurobiol Aging"
+      },
+      {
+        "key": "BFeye1998142_CR77",
+        "first-page": "1",
+        "volume": "33",
+        "author": "JG Hollyfield",
+        "year": "1992",
+        "unstructured": "Hollyfield JG . Aging of the human retina: differential loss of neurons and retinal pigment epithelial cells. Invest Ophthalmol Vis Sci 1992;33:1\u201317.",
+        "journal-title": "Invest Ophthalmol Vis Sci"
+      },
+      {
+        "key": "BFeye1998142_CR78",
+        "first-page": "3278",
+        "volume": "33",
+        "author": "CA Curcio",
+        "year": "1993",
+        "unstructured": "Curcio CA, Leigh Millican C, Allen KA, Kalina RE . Aging of the photoreceptor mosaic: evidence for selective vulnerability of rods in central retina. Invest Ophthalmol Vis Sci 1993;33:3278\u201396.",
+        "journal-title": "Invest Ophthalmol Vis Sci"
+      },
+      {
+        "key": "BFeye1998142_CR79",
+        "first-page": "1236",
+        "volume": "37",
+        "author": "CA Curcio",
+        "year": "1996",
+        "unstructured": "Curcio CA, Medeiros NE, Leigh Millican C . Photoreceptor loss in age-related macular degeneration. Invest Ophthalmol Vis Sci 1996;37:1236\u201349.",
+        "journal-title": "Invest Ophthalmol Vis Sci"
+      },
+      {
+        "key": "BFeye1998142_CR80",
+        "doi-asserted-by": "publisher",
+        "first-page": "1620",
+        "DOI": "10.1016/S0161-6420(90)32358-8",
+        "volume": "12",
+        "author": "AH Milam",
+        "year": "1990",
+        "unstructured": "Milam AH, Jacobson SG . Photoreceptor rosettes with blue opsin immunoreactivity in retinitis pigmentosa. Ophthalmology 1990;12:1620\u201331.",
+        "journal-title": "Ophthalmology"
+      },
+      {
+        "key": "BFeye1998142_CR81",
+        "first-page": "2532",
+        "volume": "33",
+        "author": "S Panda",
+        "year": "1992",
+        "unstructured": "Panda S, Jonas JB . Decreased photoreceptor count in human eyes with secondary angle-closure glaucoma. Invest Ophthalmol Vis Sci 1992;33:2532\u20136.",
+        "journal-title": "Invest Ophthalmol Vis Sci"
+      },
+      {
+        "key": "BFeye1998142_CR82",
+        "doi-asserted-by": "publisher",
+        "first-page": "184",
+        "DOI": "10.1016/S0002-9394(14)72606-6",
+        "volume": "120",
+        "author": "T Wynganski",
+        "year": "1995",
+        "unstructured": "Wynganski T, Desatnik H, Quigley HA, Glovinsky Y . Comparison of ganglion cell loss and cone loss in experimental glaucoma. Am J Ophthalmol 1995;120:184\u20139.",
+        "journal-title": "Am J Ophthalmol"
+      }
+    ],
+    "container-title": [
+      "Eye"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "http://www.nature.com/articles/eye1998142.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.nature.com/articles/eye1998142",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://www.nature.com/articles/eye1998142.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          8
+        ]
+      ],
+      "date-time": "2024-04-08T11:34:49Z",
+      "timestamp": 1712576089000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/eye1998142"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          1998,
+          5
+        ]
+      ]
+    },
+    "references-count": 82,
+    "journal-issue": {
+      "issue": "3",
+      "published-print": {
+        "date-parts": [
+          [
+            1998,
+            5
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "BFeye1998142"
+    ],
+    "URL": "https://doi.org/10.1038/eye.1998.142",
+    "relation": {},
+    "ISSN": [
+      "0950-222X",
+      "1476-5454"
+    ],
+    "issn-type": [
+      {
+        "value": "0950-222X",
+        "type": "print"
+      },
+      {
+        "value": "1476-5454",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          1998,
+          5
+        ]
+      ]
+    }
+  },
+  "europepmc": [
+    {
+      "id": "9775214",
+      "source": "MED",
+      "pmid": "9775214",
+      "doi": "10.1038/eye.1998.142",
+      "title": "The photoreceptor mosaic.",
+      "authorString": "Ahnelt PK.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Ahnelt PK",
+            "lastName": "Ahnelt",
+            "firstName": "P K",
+            "initials": "PK",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-0784-8891"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of General and Comparative Physiology, Medical School, University of Vienna, Austria. peter.ahnelt@univie.ac.at"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0003-0784-8891"
+          }
+        ]
+      },
+      "journalInfo": {
+        "volume": "12 ( Pt 3b)",
+        "journalIssueId": 939779,
+        "dateOfPublication": "1998 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 1998,
+        "journal": {
+          "medlineAbbreviation": "Eye (Lond)",
+          "title": "Eye (London, England)",
+          "essn": "1476-5454",
+          "issn": "0950-222X",
+          "isoabbreviation": "Eye (Lond)",
+          "nlmid": "8703986"
+        },
+        "printPublicationDate": "1998-01-01"
+      },
+      "pubYear": "1998",
+      "pageInfo": "531-540",
+      "abstractText": "The organisation of the human photoreceptor mosaic reflects evolutionary strategies for optimising visual information under a wide range of stimulus conditions: (1) The rod population dominates (max. 170,000/mm2 at c. 30 degrees sup.) except for the central 2 degrees and along the ora serrata. (2) Density of cone inner/outer segments reaches up to 300,000 mm2 in the fovea. A bundle of c. 300-500 foveolar cones are further distinguished by having their synaptic terminals located within the capillary-free zone. Radial displacement (> 350 microns) of foveal cone terminals may result in the lesion of two sets of cone pathways by perifoveal laser treatment. Along the ora serrata peripheral cone density (c. 4000) rises within a small rim (1 degree) to up to 20,000, but may be considerably decreased by cystoid degenerations. For the L- and M-cone subpopulations ratios of 2:1 to 1:1 and random arrangement are suggested. (3) Blue-sensitive (S-) cones constitute a regular and independent submosaic of c. 7% across the periphery. An annular maximum (1000-5000/mm2) at c. 1 degree surrounds the foveola. There density decreases and irregular zones lacking S-cones result in tritan deficiencies.",
+      "affiliation": "Department of General and Comparative Physiology, Medical School, University of Vienna, Austria. peter.ahnelt@univie.ac.at",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print",
+      "pubTypeList": {
+        "pubType": [
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "meshHeadingList": {
+        "meshHeading": [
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Fovea Centralis",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "AH",
+                  "qualifierName": "anatomy & histology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Humans"
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Retinal Degeneration",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "PA",
+                  "qualifierName": "pathology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Aging",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "PA",
+                  "qualifierName": "pathology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Retinal Rod Photoreceptor Cells",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "AH",
+                  "qualifierName": "anatomy & histology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "N",
+            "descriptorName": "Retinal Cone Photoreceptor Cells",
+            "meshQualifierList": {
+              "meshQualifier": [
+                {
+                  "majorTopic_YN": "N",
+                  "abbreviation": "AH",
+                  "qualifierName": "anatomy & histology"
+                }
+              ]
+            }
+          },
+          {
+            "majorTopic_YN": "Y",
+            "descriptorName": "Photoreceptor Cells, Vertebrate"
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/eye.1998.142"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 62,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCompletion": "1998-10-29",
+      "dateOfCreation": "1998-10-17",
+      "dateOfRevision": "2009-11-03",
+      "firstPublicationDate": "1998-01-01",
+      "firstIndexDate": "2009-11-04",
+      "hasEvaluations": "N"
+    }
+  ],
+  "retrievedAt": "2026-10-26"
+}

@@ -1,0 +1,93 @@
+{
+  "schema": "universal-informatics/quantum-reference/v1",
+  "model_version": "rydberg-pair-v1",
+  "recorded_at_utc": "2026-10-24T04:53:44.326362+00:00",
+  "basis": [
+    "gg",
+    "gr",
+    "rg",
+    "rr"
+  ],
+  "parameters": {
+    "distance_um": 5.7,
+    "duration_us": 4,
+    "omega_rad_us": 6.3,
+    "detuning_rad_us": 31.5
+  },
+  "continuous_probabilities": {
+    "gg": 0.03557419128903691,
+    "gr": 0.4822127450275214,
+    "rg": 0.4822127450275214,
+    "rr": 3.1865592270139733e-07
+  },
+  "circuit_probabilities": {
+    "gg": 0.03556814427798678,
+    "gr": 0.4822157692384977,
+    "rg": 0.4822157692385025,
+    "rr": 3.1724582804595775e-07
+  },
+  "gpu": {
+    "route": "CUDA-Q OpenQASM 2 export \u2192 qBraid GPU-SV",
+    "device": "NVIDIA GH200 (provider-reported)",
+    "shots": 20000,
+    "counts": {
+      "gg": 681,
+      "gr": 9812,
+      "rg": 9507,
+      "rr": 0
+    },
+    "cost_credits": 0,
+    "interval": "95% marginal Wilson intervals",
+    "criterion": "Six binomial standard errors plus two counts per outcome; connectivity/numerics check, not a hardware fidelity claim.",
+    "passed": true,
+    "raw_bit_order": {
+      "00": "gg",
+      "01": "rg",
+      "10": "gr",
+      "11": "rr"
+    }
+  },
+  "validation": {
+    "cudaq_version": "0.16.0",
+    "qbraid_version": "0.13.0",
+    "scipy_version": "1.18.1",
+    "steps": 5120,
+    "circuit_probability_error": 6.046045596112826e-06,
+    "propagator_operator_norm_error": 0.0006170202850399148,
+    "wolfram_probability_error": 8.140704832459988e-09,
+    "submitted_program_sha256": "e58a97cff0db31b072ccb900951477ab38522809d84a34b02c9b1574345d9ef5"
+  },
+  "hardware": {
+    "device": "QuEra Aquila via Amazon Braket",
+    "shots_requested": 100,
+    "shots_returned": 100,
+    "fully_occupied_shots": 97,
+    "initially_empty_shots": 3,
+    "last_verified_status": "COMPLETED",
+    "last_checked_utc": "2026-10-25T00:50:10Z",
+    "completed_at_utc": "2026-10-24T22:59:41.681000+00:00",
+    "submitted_at_utc": "2026-10-24T04:07:26.498000+00:00",
+    "elapsed_seconds": 67935.183,
+    "task_id": "3ae0ec02-160e-45a0-8f37-c88c1bbccda7",
+    "results_available": true,
+    "counts_fully_occupied": {
+      "gg": 6,
+      "gr": 45,
+      "rg": 44,
+      "rr": 2
+    },
+    "conditional_probabilities_fully_occupied": {
+      "gg": 0.061855670103092786,
+      "gr": 0.4639175257731959,
+      "rg": 0.4536082474226804,
+      "rr": 0.020618556701030927
+    },
+    "interpretation": "Hardware connectivity test. Atom loss and readout errors can mimic excitation; the ideal CPU model excludes hardware noise. No quantum advantage claim.",
+    "refresh": "Completed task metadata and downloaded measurements. This archived record does not submit or poll quantum tasks."
+  },
+  "limits": [
+    "GPU samples are classical simulation, not QPU measurements.",
+    "Connectivity and numerical agreement do not establish a biological conclusion or quantum advantage.",
+    "Intervals are marginal, not simultaneous. The original acceptance criterion was six standard errors plus two counts, not interval overlap."
+  ]
+}

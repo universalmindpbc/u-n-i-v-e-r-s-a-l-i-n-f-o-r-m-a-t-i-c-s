@@ -1,0 +1,119 @@
+# Universal Mind public discovery policy.
+# Public Informatics allows reading, indexing and training by every AI provider.
+# The existing I AM discovery and training policy remains in force elsewhere.
+
+User-agent: GPTBot
+Disallow: /
+Allow: /informatics/
+Allow: /informatics$
+
+User-agent: Google-Extended
+Disallow: /
+Allow: /informatics/
+Allow: /informatics$
+
+User-agent: Applebot-Extended
+Disallow: /
+Allow: /informatics/
+Allow: /informatics$
+
+User-agent: ClaudeBot
+Disallow: /
+Allow: /informatics/
+Allow: /informatics$
+
+User-agent: CCBot
+Disallow: /
+Allow: /informatics/
+Allow: /informatics$
+
+User-agent: Bytespider
+Disallow: /
+Allow: /informatics/
+Allow: /informatics$
+
+User-agent: Amazonbot
+Disallow: /
+Allow: /informatics/
+Allow: /informatics$
+
+User-agent: meta-externalagent
+Disallow: /
+Allow: /informatics/
+Allow: /informatics$
+
+User-agent: *
+# Public Informatics, including all research records and dataset formats.
+Allow: /informatics/
+Allow: /informatics$
+# Block the complete implementation and internal document surface by default.
+# The explicit public URLs below are longer matches and therefore take priority.
+Disallow: /vogue/iam/
+Disallow: /i%20%20a%20m/
+Disallow: /iam/
+Disallow: /vogue/
+Disallow: /*.html$
+Disallow: /*.md$
+Disallow: /*.txt$
+Disallow: /*.json$
+Disallow: /*.xlsx$
+Disallow: /*.pdf$
+
+# Discovery documents.
+Allow: /robots.txt
+Allow: /sitemap.xml
+Allow: /llms.txt
+
+# Universal Mind and I AM public pages.
+Allow: /vogue/iam/induction.html
+Allow: /vogue/iam/index.html
+Allow: /vogue/iam/vogue-self-report.html
+Allow: /vogue/iam/about.html
+Allow: /vogue/iam/program.html
+Allow: /vogue/iam/traction.html
+Allow: /vogue/iam/science.html
+Allow: /vogue/iam/sound-prototype-research.html
+Allow: /vogue/iam/our-team.html
+Allow: /vogue/iam/technology-citizen-needs.html
+Allow: /vogue/iam/technology-inference-engine.html
+
+# Resources needed to understand and render the approved public pages.
+Allow: /vogue/iam/styles.css
+Allow: /vogue/iam/adaptive-environment-television.css
+Allow: /vogue/iam/circle-audio-rooms.css
+Allow: /vogue/iam/mantra-sampler.css
+Allow: /vogue/iam/realtime-voice-assistant.css
+Allow: /vogue/iam/vogue-self-report.css
+Allow: /vogue/iam/about.css
+Allow: /vogue/iam/program-page.css
+Allow: /vogue/iam/program-page.js
+Allow: /vogue/iam/programme-guide.css
+Allow: /vogue/iam/programme-guide.js
+Allow: /vogue/iam/broadcast-clock-v1.js
+Allow: /vogue/iam/broadcast-schedule-v1.json
+Allow: /vogue/iam/adaptive-music-video-catalogue-v1.11.json
+Allow: /vogue/iam/radio-station-tensor-notion-export-v1.0.json
+Allow: /vogue/iam/cloudflare-stream-catalogue.js
+Allow: /vogue/iam/traction.css
+Allow: /vogue/iam/traction.js
+Allow: /vogue/iam/global-navigation.css
+Allow: /vogue/iam/global-navigation.js
+Allow: /vogue/iam/mobile-editorial-surface.css
+Allow: /vogue/iam/mobile-editorial-surface.js
+Allow: /vogue/iam/script.js
+Allow: /vogue/iam/science.css
+Allow: /vogue/iam/sound-prototype-research.css
+Allow: /vogue/iam/our-team-concept.css
+Allow: /vogue/iam/technology-citizen-needs.css
+Allow: /vogue/iam/technology-inference-engine.css
+Allow: /vogue/iam/science-research-data-v1.js
+Allow: /vogue/iam/science.js
+Allow: /vogue/iam/a%20s%20s%20e%20t%20s/Universal%20Mind%20%5B%20I%20o%20H%20%5D%20Logo%20512.png
+Allow: /vogue/iam/a%20s%20s%20e%20t%20s/Ben%20Korbel%20portrait.jpg
+
+# Reviewed full research dossiers referenced by the Science page.
+Allow: /vogue/iam/a%20s%20s%20e%20t%20s/r%20e%20s%20e%20a%20r%20c%20h/Universal%20Mind%20%5B%20I%20o%20H%20%5D%20-%20EMDR%20Medical%20Research.pdf
+Allow: /vogue/iam/a%20s%20s%20e%20t%20s/r%20e%20s%20e%20a%20r%20c%20h/Universal%20Mind%20%5B%20I%20o%20H%20%5D%20-%20Sound%20Medical%20Research.pdf
+Allow: /vogue/iam/a%20s%20s%20e%20t%20s/r%20e%20s%20e%20a%20r%20c%20h/Universal%20Mind%20%5B%20I%20o%20H%20%5D%20-%20Mantra%20Medical%20Research.pdf
+
+Sitemap: https://universalmind.tv/sitemap.xml

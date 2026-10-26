@@ -1,0 +1,1909 @@
+{
+  "doi": "10.1021/acs.nanolett.6c03195",
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2026-09-16T13:06:50Z",
+      "timestamp": 1789564010220,
+      "version": "build-2803163510"
+    },
+    "reference-count": 45,
+    "publisher": "American Chemical Society (ACS)",
+    "issue": "36",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              2
+            ]
+          ],
+          "date-time": "2026-09-02T00:00:00Z",
+          "timestamp": 1788307200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ],
+    "funder": [
+      {
+        "DOI": "10.13039/501100001700",
+        "name": "Ministry of Education, Culture, Sports, Science and Technology",
+        "doi-asserted-by": "publisher",
+        "id": [
+          {
+            "id": "10.13039/501100001700",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100009023",
+        "name": "Precursory Research for Embryonic Science and Technology",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "JPMJPR21A9"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "JPMJPR21A9"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100009023",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001691",
+        "name": "Japan Society for the Promotion of Science",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "20H02707"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "20H02707"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001691",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001691",
+        "name": "Japan Society for the Promotion of Science",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "20H05621"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "20H05621"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001691",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001691",
+        "name": "Japan Society for the Promotion of Science",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "22H05473"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "22H05473"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001691",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001691",
+        "name": "Japan Society for the Promotion of Science",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "23K03322"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "23K03322"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001691",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001691",
+        "name": "Japan Society for the Promotion of Science",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "25H00867"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "25H00867"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001691",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001691",
+        "name": "Japan Society for the Promotion of Science",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "25K01609"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "25K01609"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001691",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      },
+      {
+        "DOI": "10.13039/501100001691",
+        "name": "Japan Society for the Promotion of Science",
+        "doi-asserted-by": "publisher",
+        "award": [
+          "25K01670"
+        ],
+        "award-info": [
+          {
+            "award-number": [
+              "25K01670"
+            ]
+          }
+        ],
+        "id": [
+          {
+            "id": "10.13039/501100001691",
+            "id-type": "DOI",
+            "asserted-by": "publisher"
+          }
+        ]
+      }
+    ],
+    "content-domain": {
+      "domain": [],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          16
+        ]
+      ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Lattice geometry plays a fundamental role in the behavior of Bloch electrons in a crystal. The diatomic Kagome lattice, an extension of the honeycomb and Kagome lattices, is predicted to give rise to emergent and topological phenomena, but its experimental investigation has been limited thus far. Here, we fabricate a diatomic Kagome lattice through self-assembly of a triptycene derivative with phenazine moieties (Trip-Phz)\u2500a C3-symmetric, nonplanar \u03c0-conjugated molecule. Our scanning tunneling microscopy (STM) observations show that Trip-Phz forms a highly ordered diatomic Kagome lattice terminated by zigzag-type edges on the Pb(111) surface. Combined STM measurements and tight-binding calculations provide direct evidence for the existence of the edge states that correspond to those of graphene. These states are topological edge states dictated by the quantization of the Zak phase and the bulk-edge correspondence. This work reveals an ideal platform for exploring quantum materials with unique lattice geometries using supramolecular technology.</jats:p>",
+    "DOI": "10.1021/acs.nanolett.6c03195",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          3
+        ]
+      ],
+      "date-time": "2026-09-03T16:05:53Z",
+      "timestamp": 1788451553000
+    },
+    "page": "12146-12152",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+      "Direct Observation\nof the Zigzag Edge States of a\nSupramolecular Diatomic Kagome Lattice"
+    ],
+    "prefix": "10.1021",
+    "volume": "26",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-7343-7268",
+        "authenticated-orcid": true,
+        "given": "Ryohei",
+        "family": "Nemoto",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "National Institute for Materials Science , , 1-1, Namiki, Tsukuba , ,",
+            "place": [
+              "Ibaraki, Japan, 305-0044"
+            ]
+          },
+          {
+            "name": "Institute of Science Tokyo , , 2-12-1, Ookayama, Meguro-ku , ,",
+            "place": [
+              "Tokyo, Japan, 152-8551"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7887-4240",
+        "authenticated-orcid": true,
+        "given": "Xiangzhi",
+        "family": "Meng",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Christian-Albrechts-Universita\u0308t , , ,",
+            "place": [
+              "Kiel, Germany, 24098"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Behzad",
+        "family": "Mortezapour",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Christian-Albrechts-Universita\u0308t , , ,",
+            "place": [
+              "Kiel, Germany, 24098"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2487-3917",
+        "authenticated-orcid": true,
+        "given": "Alexander",
+        "family": "Weismann",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Christian-Albrechts-Universita\u0308t , , ,",
+            "place": [
+              "Kiel, Germany, 24098"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Saya",
+        "family": "Nakano",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Nara Women\u2019s University , , Kitauoyanishi-machi , ,",
+            "place": [
+              "Nara, Japan, 630-8506"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0002-2975-8096",
+        "authenticated-orcid": true,
+        "given": "Masahisa",
+        "family": "Tsuchiizu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Nara Women\u2019s University , , Kitauoyanishi-machi , ,",
+            "place": [
+              "Nara, Japan, 630-8506"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4371-6116",
+        "authenticated-orcid": true,
+        "given": "Ryuichi",
+        "family": "Arafune",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "National Institute for Materials Science , , 1-1, Namiki, Tsukuba , ,",
+            "place": [
+              "Ibaraki, Japan, 305-0044"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Noriaki",
+        "family": "Takagi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Kyoto University , , ,",
+            "place": [
+              "Kyoto, Japan, 606-8501"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sho",
+        "family": "Nakamura",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Kwansei Gakuin University , , , ,",
+            "place": [
+              "Sanda, Hyogo, Japan, 669-1330"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9147-9939",
+        "authenticated-orcid": true,
+        "given": "Katsunori",
+        "family": "Wakabayashi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "National Institute for Materials Science , , 1-1, Namiki, Tsukuba , ,",
+            "place": [
+              "Ibaraki, Japan, 305-0044"
+            ]
+          },
+          {
+            "name": "Kwansei Gakuin University , , , ,",
+            "place": [
+              "Sanda, Hyogo, Japan, 669-1330"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7632-2186",
+        "authenticated-orcid": true,
+        "given": "Rie",
+        "family": "Suizu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Saga University , , 1 Honjo , ,",
+            "place": [
+              "Saga, Japan, 840-8502"
+            ]
+          },
+          {
+            "name": "Nagoya University , , Furo-cho, Chikusa-ku , ,",
+            "place": [
+              "Nagoya, Japan, 464-8602"
+            ]
+          },
+          {
+            "name": "Japan Science and Technology Agency (JST), PRESTO , 4-1-8 Honcho , , ,",
+            "place": [
+              "Kawaguchi, Saitama, Japan, 332-0012"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1165-9065",
+        "authenticated-orcid": true,
+        "given": "Richard",
+        "family": "Berndt",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Christian-Albrechts-Universita\u0308t , , ,",
+            "place": [
+              "Kiel, Germany, 24098"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0811-5665",
+        "authenticated-orcid": true,
+        "given": "Takashi",
+        "family": "Uchihashi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "National Institute for Materials Science , , 1-1, Namiki, Tsukuba , ,",
+            "place": [
+              "Ibaraki, Japan, 305-0044"
+            ]
+          },
+          {
+            "name": "Hokkaido University , , Kita-10 Nishi-8, Kita-ku , ,",
+            "place": [
+              "Sapporo, Japan, 060-0810"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2193-0747",
+        "authenticated-orcid": true,
+        "given": "Kunio",
+        "family": "Awaga",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Nagoya University , , Furo-cho, Chikusa-ku , ,",
+            "place": [
+              "Nagoya, Japan, 464-8602"
+            ]
+          },
+          {
+            "name": "National Institute of Technology (KOSEN), Toyota College , 2-1 Eiseicho , , ,",
+            "place": [
+              "Toyota, Aichi, Japan, 471-8525"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "316",
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          2
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "2026091608065134900_cit1",
+        "doi-asserted-by": "publisher",
+        "first-page": "1473052",
+        "DOI": "10.1080/23746149.2018.1473052",
+        "article-title": "Artificial flat band systems: from\nlattice models to experiments",
+        "volume": "3",
+        "author": "Leykam",
+        "year": "2018",
+        "journal-title": "Adv. Phys. X"
+      },
+      {
+        "key": "2026091608065134900_cit2",
+        "doi-asserted-by": "publisher",
+        "first-page": "2007",
+        "DOI": "10.1039/C9CS00893D",
+        "article-title": "Topological two-dimensional\npolymers",
+        "volume": "49",
+        "author": "Springer",
+        "year": "2020",
+        "journal-title": "Chem. Soc. Rev."
+      },
+      {
+        "key": "2026091608065134900_cit3",
+        "doi-asserted-by": "publisher",
+        "first-page": "021306",
+        "DOI": "10.1063/1.5142397",
+        "article-title": "Nonlinear topological\nphotonics",
+        "volume": "7",
+        "author": "Smirnova",
+        "year": "2020",
+        "journal-title": "Appl. Phys. Rev."
+      },
+      {
+        "key": "2026091608065134900_cit4",
+        "doi-asserted-by": "publisher",
+        "first-page": "1530",
+        "DOI": "10.1126/science.1158877",
+        "article-title": "Graphene:\nStatus and Prospects",
+        "volume": "324",
+        "author": "Geim",
+        "year": "2009",
+        "journal-title": "Science"
+      },
+      {
+        "key": "2026091608065134900_cit5",
+        "doi-asserted-by": "publisher",
+        "first-page": "625",
+        "DOI": "10.1038/nnano.2013.161",
+        "article-title": "Artificial honeycomb lattices for\nelectrons, atoms\nand photons",
+        "volume": "8",
+        "author": "Polini",
+        "year": "2013",
+        "journal-title": "Nat. Nanotechnol."
+      },
+      {
+        "key": "2026091608065134900_cit6",
+        "doi-asserted-by": "publisher",
+        "first-page": "647",
+        "DOI": "10.1038/s41586-022-05516-0",
+        "article-title": "Topological\nkagome magnets and superconductors",
+        "volume": "612",
+        "author": "Yin",
+        "year": "2022",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "2026091608065134900_cit7",
+        "doi-asserted-by": "publisher",
+        "first-page": "777",
+        "DOI": "10.1143/JPSJ.74.777",
+        "article-title": "Theory of\nElectronic States and Transport in Carbon Nanotubes",
+        "volume": "74",
+        "author": "Ando",
+        "year": "2005",
+        "journal-title": "J. Phys. Soc. Jpn."
+      },
+      {
+        "key": "2026091608065134900_cit8",
+        "doi-asserted-by": "publisher",
+        "first-page": "113102",
+        "DOI": "10.1103/PhysRevB.80.113102",
+        "article-title": "Topological insulator\non the kagome lattice",
+        "volume": "80",
+        "author": "Guo",
+        "year": "2009",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "2026091608065134900_cit9",
+        "doi-asserted-by": "publisher",
+        "first-page": "2015",
+        "DOI": "10.1103/PhysRevLett.61.2015",
+        "article-title": "Model\nfor a Quantum Hall Effect without Landau Levels: Condensed-Matter\nRealization of the \u201cParity Anomaly\u201d",
+        "volume": "61",
+        "author": "Haldane",
+        "year": "1988",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "2026091608065134900_cit10",
+        "doi-asserted-by": "publisher",
+        "first-page": "146802",
+        "DOI": "10.1103/PhysRevLett.95.146802",
+        "article-title": "Z\n            2 Topological Order and\nthe Quantum Spin Hall Effect",
+        "volume": "95",
+        "author": "Kane",
+        "year": "2005",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "2026091608065134900_cit11",
+        "doi-asserted-by": "publisher",
+        "first-page": "197",
+        "DOI": "10.1038/nature04233",
+        "article-title": "Two-dimensional\ngas of massless Dirac fermions in graphene",
+        "volume": "438",
+        "author": "Novoselov",
+        "year": "2005",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "2026091608065134900_cit12",
+        "doi-asserted-by": "publisher",
+        "first-page": "236802",
+        "DOI": "10.1103/PhysRevLett.106.236802",
+        "article-title": "High-Temperature\nFractional Quantum\nHall States",
+        "volume": "106",
+        "author": "Tang",
+        "year": "2011",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "2026091608065134900_cit13",
+        "doi-asserted-by": "publisher",
+        "first-page": "638",
+        "DOI": "10.1038/nature25987",
+        "article-title": "Massive\nDirac fermions in a ferromagnetic kagome metal",
+        "volume": "555",
+        "author": "Ye",
+        "year": "2018",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "2026091608065134900_cit14",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/sciadv.aau4511",
+        "article-title": "Realization\nof flat band with possible nontrivial topology in electronic Kagome\nlattice",
+        "volume": "4",
+        "author": "Li",
+        "year": "2018",
+        "journal-title": "Sci. Adv."
+      },
+      {
+        "key": "2026091608065134900_cit15",
+        "doi-asserted-by": "publisher",
+        "first-page": "247002",
+        "DOI": "10.1103/PhysRevLett.125.247002",
+        "article-title": "CsV3Sb5: A A Z2 Topological\nKagome Metal with a Superconducting Ground State",
+        "volume": "125",
+        "author": "Ortiz",
+        "year": "2020",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "2026091608065134900_cit16",
+        "doi-asserted-by": "publisher",
+        "first-page": "1353",
+        "DOI": "10.1038/s41563-021-01034-y",
+        "article-title": "Unconventional chiral charge order in kagome superconductor KV3Sb5",
+        "volume": "20",
+        "author": "Jiang",
+        "year": "2021",
+        "journal-title": "Nat. Mater."
+      },
+      {
+        "key": "2026091608065134900_cit17",
+        "doi-asserted-by": "publisher",
+        "first-page": "6076",
+        "DOI": "10.1002/anie.200701954",
+        "article-title": "\u201cStar\u201d Antiferromagnet:\nA Polymeric Iron(III) Acetate That Exhibits Both Spin Frustration\nand Long-Range Magnetic Ordering",
+        "volume": "46",
+        "author": "Zheng",
+        "year": "2007",
+        "journal-title": "Angew. Chem.\nInt."
+      },
+      {
+        "key": "2026091608065134900_cit18",
+        "doi-asserted-by": "publisher",
+        "first-page": "114201",
+        "DOI": "10.1103/PhysRevMaterials.3.114201",
+        "article-title": "Flat bands and higher-order\ntopology in polymerized triptycene: Tight-binding analysis on decorated\nstar lattices",
+        "volume": "3",
+        "author": "Mizoguchi",
+        "year": "2019",
+        "journal-title": "Phys. Rev. Mater."
+      },
+      {
+        "key": "2026091608065134900_cit19",
+        "doi-asserted-by": "publisher",
+        "first-page": "416",
+        "DOI": "10.1021/acs.accounts.0c00652",
+        "article-title": "Exotic Topological\nBands and Quantum States in Metal-Organic\nand Covalent-Organic Frameworks",
+        "volume": "54",
+        "author": "Jiang",
+        "year": "2021",
+        "journal-title": "Acc. Chem.\nRes."
+      },
+      {
+        "key": "2026091608065134900_cit20",
+        "doi-asserted-by": "publisher",
+        "first-page": "3815",
+        "DOI": "10.1039/C8CC00753E",
+        "article-title": "An exotic band structure\nof a supramolecular honeycomb lattice formed\nby a pancake pi-pi interaction between triradical\ntrianions of triptycene tribenzoquinone",
+        "volume": "54",
+        "author": "Shuku",
+        "year": "2018",
+        "journal-title": "Chem.\nCommun."
+      },
+      {
+        "key": "2026091608065134900_cit21",
+        "doi-asserted-by": "publisher",
+        "first-page": "10905",
+        "DOI": "10.1021/acs.jpclett.2c02683",
+        "article-title": "Intrinsic Second-Order\nTopological Insulator in Two-Dimensional Covalent Organic Frameworks",
+        "volume": "13",
+        "author": "Hu",
+        "year": "2022",
+        "journal-title": "J. Phys. Chem. Lett."
+      },
+      {
+        "key": "2026091608065134900_cit22",
+        "doi-asserted-by": "publisher",
+        "first-page": "7092",
+        "DOI": "10.1038/s41467-023-42884-1",
+        "article-title": "Identifying\ntopological corner states in two-dimensional metal-organic frameworks",
+        "volume": "14",
+        "author": "Hu",
+        "year": "2023",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "2026091608065134900_cit23",
+        "doi-asserted-by": "publisher",
+        "first-page": "155123",
+        "DOI": "10.1103/PhysRevB.107.155123",
+        "article-title": "Engineering Dirac cones and topological\nflat bands with organic molecules",
+        "volume": "107",
+        "author": "Shuku",
+        "year": "2023",
+        "journal-title": "Phys. Rev.\nB"
+      },
+      {
+        "key": "2026091608065134900_cit24",
+        "doi-asserted-by": "publisher",
+        "first-page": "7606",
+        "DOI": "10.1021/acs.nanolett.0c03136",
+        "article-title": "Non-Collinear Orbital-induced\nPlanar Quantum Anomalous Hall Effect",
+        "volume": "20",
+        "author": "Guo",
+        "year": "2020",
+        "journal-title": "Nano Lett."
+      },
+      {
+        "key": "2026091608065134900_cit25",
+        "doi-asserted-by": "publisher",
+        "first-page": "196403",
+        "DOI": "10.1103/PhysRevLett.126.196403",
+        "article-title": "Flat-Band-Enabled\nTriplet Excitonic Insulator in a Diatomic Kagome Lattice",
+        "volume": "126",
+        "author": "Sethi",
+        "year": "2021",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "2026091608065134900_cit26",
+        "doi-asserted-by": "publisher",
+        "first-page": "186401",
+        "DOI": "10.1103/PhysRevLett.130.186401",
+        "article-title": "Excitonic Condensate in Flat Valence\nand Conduction Bands of Opposite Chirality",
+        "volume": "130",
+        "author": "Sethi",
+        "year": "2023",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "2026091608065134900_cit27",
+        "doi-asserted-by": "publisher",
+        "DOI": "10.1126/sciadv.abf0269",
+        "article-title": "Ultrahigh-yield on-surface synthesis and assembly of\ncircumcoronene into a chiral electronic Kagome-honeycomb lattice",
+        "volume": "7",
+        "author": "Telychko",
+        "year": "2021",
+        "journal-title": "Sci. Adv."
+      },
+      {
+        "key": "2026091608065134900_cit28",
+        "doi-asserted-by": "publisher",
+        "first-page": "2969",
+        "DOI": "10.1038/s41467-024-47367-5",
+        "article-title": "Artificial kagome lattices of Shockley surface states patterned by\nhalogen hydrogen-bonded organic frameworks",
+        "volume": "15",
+        "author": "Yin",
+        "year": "2024",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "2026091608065134900_cit29",
+        "doi-asserted-by": "publisher",
+        "first-page": "1920",
+        "DOI": "10.1143/JPSJ.65.1920",
+        "article-title": "Peculiar Localized\nState at Zigzag Graphite Edge",
+        "volume": "65",
+        "author": "Fujita",
+        "year": "1996",
+        "journal-title": "J. Phys. Soc.\nJpn."
+      },
+      {
+        "key": "2026091608065134900_cit30",
+        "doi-asserted-by": "publisher",
+        "first-page": "17954",
+        "DOI": "10.1103/PhysRevB.54.17954",
+        "article-title": "Edge state\nin graphene ribbons: Nanometer size effect and edge shape dependence",
+        "volume": "54",
+        "author": "Nakada",
+        "year": "1996",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "2026091608065134900_cit31",
+        "doi-asserted-by": "publisher",
+        "first-page": "077002",
+        "DOI": "10.1103/PhysRevLett.89.077002",
+        "article-title": "Topological Origin\nof Zero-Energy Edge States in Particle-Hole\nSymmetric Systems",
+        "volume": "89",
+        "author": "Ryu",
+        "year": "2002",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "2026091608065134900_cit32",
+        "doi-asserted-by": "publisher",
+        "first-page": "193406",
+        "DOI": "10.1103/PhysRevB.71.193406",
+        "article-title": "Observation\nof zigzag and armchair edges of graphite using scanning tunneling\nmicroscopy and spectroscopy",
+        "volume": "71",
+        "author": "Kobayashi",
+        "year": "2005",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "2026091608065134900_cit33",
+        "doi-asserted-by": "publisher",
+        "first-page": "5538",
+        "DOI": "10.1038/s41467-021-25688-z",
+        "article-title": "Topological phase\ntransition in chiral graphene nanoribbons: from edge bands to end\nstates",
+        "volume": "12",
+        "author": "Li",
+        "year": "2021",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "2026091608065134900_cit34",
+        "doi-asserted-by": "publisher",
+        "first-page": "1033836",
+        "DOI": "10.3389/fphy.2022.1033836",
+        "article-title": "Spin-valley polarized edge states\nin quasi-one-dimensional asymmetric\nkagome lattice",
+        "volume": "10",
+        "author": "Sun",
+        "year": "2022",
+        "journal-title": "Front. Phys."
+      },
+      {
+        "key": "2026091608065134900_cit35",
+        "doi-asserted-by": "publisher",
+        "first-page": "7593",
+        "DOI": "10.1021/acs.cgd.0c01176",
+        "article-title": "Variable Host-Guest\nCharge-Transfer Interactions in 1D Channels Formed in a Molecule-Based\nHoneycomb Lattice of Phenazine Analogue of Triptycene",
+        "volume": "20",
+        "author": "Ushiroguchi",
+        "year": "2020",
+        "journal-title": "Cryst. Growth Des."
+      },
+      {
+        "key": "2026091608065134900_cit36",
+        "doi-asserted-by": "publisher",
+        "first-page": "19663",
+        "DOI": "10.1021/acsnano.4c04496",
+        "article-title": "Chiral Honeycomb Lattices of Nonplanar \u03c0-Conjugated\nSupramolecules with Protected Dirac and Flat Bands",
+        "volume": "18",
+        "author": "Nemoto",
+        "year": "2024",
+        "journal-title": "ACS Nano"
+      },
+      {
+        "key": "2026091608065134900_cit37",
+        "doi-asserted-by": "publisher",
+        "first-page": "14134",
+        "DOI": "10.1021/ja404351p",
+        "article-title": "A Two-Dimensional\nPolymer from the\nAnthracene Dimer and Triptycene Motifs",
+        "volume": "135",
+        "author": "Bhola",
+        "year": "2013",
+        "journal-title": "J. Am.\nChem. Soc."
+      },
+      {
+        "key": "2026091608065134900_cit38",
+        "doi-asserted-by": "publisher",
+        "first-page": "774",
+        "DOI": "10.1038/nchem.2008",
+        "article-title": "A nanoporous\ntwo-dimensional polymer by single-crystal-to-single-crystal photopolymerization",
+        "volume": "6",
+        "author": "Kissel",
+        "year": "2014",
+        "journal-title": "Nat. Chem."
+      },
+      {
+        "key": "2026091608065134900_cit39",
+        "doi-asserted-by": "publisher",
+        "first-page": "646",
+        "DOI": "10.1002/chem.201503863",
+        "article-title": "Attractive\nDispersion Interactions Versus Steric Repulsion\nof tert-Butyl groups in the Crystal Packing of a D3h-Symmetric\nTris(quinoxalinophenanthrophenazine)",
+        "volume": "22",
+        "author": "Kohl",
+        "year": "2016",
+        "journal-title": "Chem.\u2500Eur.\nJ."
+      },
+      {
+        "key": "2026091608065134900_cit40",
+        "doi-asserted-by": "publisher",
+        "first-page": "11168",
+        "DOI": "10.1021/acsnano.1c03626",
+        "article-title": "Porous Honeycomb\nSelf-Assembled Monolayers: Tripodal Adsorption and Hidden Chirality\nof Carboxylate Anchored Triptycenes on Ag",
+        "volume": "15",
+        "author": "Das",
+        "year": "2021",
+        "journal-title": "ACS\nNano"
+      },
+      {
+        "key": "2026091608065134900_cit41",
+        "doi-asserted-by": "publisher",
+        "first-page": "730",
+        "DOI": "10.1038/s41557-021-00709-y",
+        "article-title": "On-surface\nphotopolymerization of two-dimensional polymers ordered on the mesoscale",
+        "volume": "13",
+        "author": "Grossmann",
+        "year": "2021",
+        "journal-title": "Nat. Chem."
+      },
+      {
+        "key": "2026091608065134900_cit42",
+        "doi-asserted-by": "publisher",
+        "first-page": "2747",
+        "DOI": "10.1103/PhysRevLett.62.2747",
+        "article-title": "Berry\u2019s\nphase for energy bands in solids",
+        "volume": "62",
+        "author": "Zak",
+        "year": "1989",
+        "journal-title": "Phys. Rev.\nLett."
+      },
+      {
+        "key": "2026091608065134900_cit43",
+        "doi-asserted-by": "publisher",
+        "first-page": "195452",
+        "DOI": "10.1103/PhysRevB.84.195452",
+        "article-title": "Zak phase\nand the existence of edge\nstates in graphene",
+        "volume": "84",
+        "author": "Delplace",
+        "year": "2011",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "2026091608065134900_cit44",
+        "doi-asserted-by": "publisher",
+        "first-page": "10978",
+        "DOI": "10.1021/jacs.2c04183",
+        "article-title": "Simple Chemical\nRules for Predicting Band Structures\nof Kagome Materials",
+        "volume": "144",
+        "author": "Jovanovic",
+        "year": "2022",
+        "journal-title": "J. Am. Chem. Soc."
+      },
+      {
+        "key": "2026091608065134900_cit45",
+        "doi-asserted-by": "publisher",
+        "first-page": "1986",
+        "DOI": "10.1039/D1CC06904G",
+        "article-title": "A cationic sulfur-hydrocarbon\ntriradical with an excited quartet\nstate",
+        "volume": "58",
+        "author": "Tang",
+        "year": "2022",
+        "journal-title": "Chem. Commun."
+      }
+    ],
+    "container-title": [
+      "Nano Letters"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://pubs.acs.org/doi/pdf/10.1021/acs.nanolett.6c03195",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "unspecified"
+      },
+      {
+        "URL": "https://pubs.acs.org/nalefd/article-pdf/26/36/12146/68183409/acs.nanolett.6c03195.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://pubs.acs.org/nalefd/article-pdf/26/36/12146/68183409/acs.nanolett.6c03195.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          16
+        ]
+      ],
+      "date-time": "2026-09-16T12:29:39Z",
+      "timestamp": 1789561779000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://pubs.acs.org/nalefd/article/26/36/12146/5404181/Direct-Observation-of-the-Zigzag-Edge-States-of-a"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          2
+        ]
+      ]
+    },
+    "references-count": 45,
+    "journal-issue": {
+      "issue": "36",
+      "published-online": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            2
+          ]
+        ]
+      },
+      "published-print": {
+        "date-parts": [
+          [
+            2026,
+            9,
+            16
+          ]
+        ]
+      }
+    },
+    "URL": "https://doi.org/10.1021/acs.nanolett.6c03195",
+    "relation": {},
+    "ISSN": [
+      "1530-6984",
+      "1530-6992"
+    ],
+    "issn-type": [
+      {
+        "value": "1530-6984",
+        "type": "print"
+      },
+      {
+        "value": "1530-6992",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          2
+        ]
+      ]
+    }
+  },
+  "europepmc": [
+    {
+      "id": "PMC13587768",
+      "source": "PMC",
+      "pmcid": "PMC13587768",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC13587768"
+        ]
+      },
+      "title": "Direct Observation of the Zigzag Edge States of a Supramolecular Diatomic Kagome Lattice",
+      "authorString": "Nemoto R, Meng X, Mortezapour B, Weismann A, Nakano S, Tsuchiizu M, Arafune R, Takagi N, Nakamura S, Wakabayashi K, Suizu R, Berndt R, Uchihashi T, Awaga K.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Nemoto R",
+            "lastName": "Nemoto",
+            "firstName": "Ryohei",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research\nCenter for Materials Nanoarchitectonics (MANA) , , 1-1, Namiki, Tsukuba ,  ,"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Meng X",
+            "lastName": "Meng",
+            "firstName": "Xiangzhi",
+            "initials": "X",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institut\nf\u00fcr Experimentelle und Angewandte Physik , Christian-Albrechts-Universit\u00e4t ,  ,"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mortezapour B",
+            "lastName": "Mortezapour",
+            "firstName": "Behzad",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institut\nf\u00fcr Experimentelle und Angewandte Physik , Christian-Albrechts-Universit\u00e4t ,  ,"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Weismann A",
+            "lastName": "Weismann",
+            "firstName": "Alexander",
+            "initials": "A",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institut\nf\u00fcr Experimentelle und Angewandte Physik , Christian-Albrechts-Universit\u00e4t ,  ,"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nakano S",
+            "lastName": "Nakano",
+            "firstName": "Saya",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department\nof Physics , , Kitauoyanishi-machi ,  ,"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tsuchiizu M",
+            "lastName": "Tsuchiizu",
+            "firstName": "Masahisa",
+            "initials": "M",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department\nof Physics , , Kitauoyanishi-machi ,  ,"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Arafune R",
+            "lastName": "Arafune",
+            "firstName": "Ryuichi",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research\nCenter for Materials Nanoarchitectonics (MANA) , , 1-1, Namiki, Tsukuba ,  ,"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Takagi N",
+            "lastName": "Takagi",
+            "firstName": "Noriaki",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Graduate\nSchool of Human and Environmental Studies , ,  ,"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nakamura S",
+            "lastName": "Nakamura",
+            "firstName": "Sho",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School\nof Science and Technology , Kwansei Gakuin\nUniversity , ,  ,"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wakabayashi K",
+            "lastName": "Wakabayashi",
+            "firstName": "Katsunori",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research\nCenter for Materials Nanoarchitectonics (MANA) , , 1-1, Namiki, Tsukuba ,  ,"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Suizu R",
+            "lastName": "Suizu",
+            "firstName": "Rie",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Synchrotron\nLight Application Center , , 1 Honjo ,  ,"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Berndt R",
+            "lastName": "Berndt",
+            "firstName": "Richard",
+            "initials": "R",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institut\nf\u00fcr Experimentelle und Angewandte Physik , Christian-Albrechts-Universit\u00e4t ,  ,"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Uchihashi T",
+            "lastName": "Uchihashi",
+            "firstName": "Takashi",
+            "initials": "T",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research\nCenter for Materials Nanoarchitectonics (MANA) , , 1-1, Namiki, Tsukuba ,  ,"
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Awaga K",
+            "lastName": "Awaga",
+            "firstName": "Kunio",
+            "initials": "K",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "National Institute of Technology (KOSEN),\nToyota College , 2-1 Eiseicho , ,  ,"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "36",
+        "volume": "26",
+        "journalIssueId": 4291916,
+        "dateOfPublication": " ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 0,
+        "journal": {
+          "medlineAbbreviation": "Nano Lett",
+          "title": "Nano letters",
+          "essn": "1530-6992",
+          "issn": "1530-6984",
+          "isoabbreviation": "Nano Lett",
+          "nlmid": "101088070"
+        }
+      },
+      "pageInfo": "12146-12152",
+      "language": "eng",
+      "pubModel": "Undetermined",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Self-assembly",
+          "Edge States",
+          "Zak Phase",
+          "Diatomic-Kagome Lattice",
+          "Nonplanar \u03a0-Conjugated Molecules",
+          "Scanning Tunneling\nMicroscopy"
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "html",
+            "site": "PubMedCentral",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13587768/?tool=EBI"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "PubMedCentral",
+            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13587768/pdf/?tool=EBI"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13587768"
+          },
+          {
+            "availability": "Free",
+            "availabilityCode": "F",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13587768?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "N",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-09-20",
+      "dateOfRevision": "2026-10-19",
+      "firstPublicationDate": "2026-09-20",
+      "firstIndexDate": "2026-09-20",
+      "fullTextReceivedDate": "2026-09-20",
+      "hasEvaluations": "N"
+    },
+    {
+      "id": "42915366",
+      "source": "MED",
+      "pmid": "42915366",
+      "doi": "10.1021/acs.nanolett.6c03195",
+      "title": "Direct Observation of the Zigzag Edge States of a Supramolecular Diatomic Kagome Lattice.",
+      "authorString": "Nemoto R, Meng X, Mortezapour B, Weismann A, Nakano S, Tsuchiizu M, Arafune R, Takagi N, Nakamura S, Wakabayashi K, Suizu R, Berndt R, Uchihashi T, Awaga K.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Nemoto R",
+            "lastName": "Nemoto",
+            "firstName": "Ryohei",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-7343-7268"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research Center for Materials Nanoarchitectonics (MANA), National Institute for Materials Science, 1-1, Namiki, Tsukuba, Ibaraki305-0044, Japan."
+                },
+                {
+                  "affiliation": "Department of Physics, School of Science, Institute of Science Tokyo, 2-12-1, Ookayama, Meguro-ku, Tokyo152-8551, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Meng X",
+            "lastName": "Meng",
+            "firstName": "Xiangzhi",
+            "initials": "X",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7887-4240"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institut f\u00fcr Experimentelle und Angewandte Physik, Christian-Albrechts-Universit\u00e4t, 24098Kiel, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Mortezapour B",
+            "lastName": "Mortezapour",
+            "firstName": "Behzad",
+            "initials": "B",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institut f\u00fcr Experimentelle und Angewandte Physik, Christian-Albrechts-Universit\u00e4t, 24098Kiel, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Weismann A",
+            "lastName": "Weismann",
+            "firstName": "Alexander",
+            "initials": "A",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2487-3917"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institut f\u00fcr Experimentelle und Angewandte Physik, Christian-Albrechts-Universit\u00e4t, 24098Kiel, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nakano S",
+            "lastName": "Nakano",
+            "firstName": "Saya",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Physics, Nara Women's University, Kitauoyanishi-machi, Nara630-8506, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tsuchiizu M",
+            "lastName": "Tsuchiizu",
+            "firstName": "Masahisa",
+            "initials": "M",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0009-0002-2975-8096"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Physics, Nara Women's University, Kitauoyanishi-machi, Nara630-8506, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Arafune R",
+            "lastName": "Arafune",
+            "firstName": "Ryuichi",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-4371-6116"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research Center for Materials Nanoarchitectonics (MANA), National Institute for Materials Science, 1-1, Namiki, Tsukuba, Ibaraki305-0044, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Takagi N",
+            "lastName": "Takagi",
+            "firstName": "Noriaki",
+            "initials": "N",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Graduate School of Human and Environmental Studies, Kyoto University, Kyoto606-8501, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Nakamura S",
+            "lastName": "Nakamura",
+            "firstName": "Sho",
+            "initials": "S",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "School of Science and Technology, Kwansei Gakuin University, Sanda, Hyogo669-1330, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Wakabayashi K",
+            "lastName": "Wakabayashi",
+            "firstName": "Katsunori",
+            "initials": "K",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-9147-9939"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research Center for Materials Nanoarchitectonics (MANA), National Institute for Materials Science, 1-1, Namiki, Tsukuba, Ibaraki305-0044, Japan."
+                },
+                {
+                  "affiliation": "School of Science and Technology, Kwansei Gakuin University, Sanda, Hyogo669-1330, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Suizu R",
+            "lastName": "Suizu",
+            "firstName": "Rie",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7632-2186"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Synchrotron Light Application Center, Saga University, 1 Honjo, Saga840-8502, Japan."
+                },
+                {
+                  "affiliation": "Department of Chemistry and IRCCS, Nagoya University, Furo-cho, Chikusa-ku, Nagoya464-8602, Japan."
+                },
+                {
+                  "affiliation": "Japan Science and Technology Agency (JST), PRESTO, 4-1-8 Honcho, Kawaguchi, Saitama332-0012, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Berndt R",
+            "lastName": "Berndt",
+            "firstName": "Richard",
+            "initials": "R",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1165-9065"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institut f\u00fcr Experimentelle und Angewandte Physik, Christian-Albrechts-Universit\u00e4t, 24098Kiel, Germany."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Uchihashi T",
+            "lastName": "Uchihashi",
+            "firstName": "Takashi",
+            "initials": "T",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-0811-5665"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Research Center for Materials Nanoarchitectonics (MANA), National Institute for Materials Science, 1-1, Namiki, Tsukuba, Ibaraki305-0044, Japan."
+                },
+                {
+                  "affiliation": "Graduate School of Science, Hokkaido University, Kita-10 Nishi-8, Kita-ku, Sapporo060-0810, Japan."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Awaga K",
+            "lastName": "Awaga",
+            "firstName": "Kunio",
+            "initials": "K",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-2193-0747"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Chemistry and IRCCS, Nagoya University, Furo-cho, Chikusa-ku, Nagoya464-8602, Japan."
+                },
+                {
+                  "affiliation": "National Institute of Technology (KOSEN), Toyota College, 2-1 Eiseicho, Toyota, Aichi471-8525, Japan."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7632-2186"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7887-4240"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-2193-0747"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-7343-7268"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-9147-9939"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-0811-5665"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1165-9065"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2487-3917"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-4371-6116"
+          },
+          {
+            "type": "ORCID",
+            "value": "0009-0002-2975-8096"
+          }
+        ]
+      },
+      "journalInfo": {
+        "issue": "36",
+        "volume": "26",
+        "journalIssueId": 4298479,
+        "dateOfPublication": "2026 Sep",
+        "monthOfPublication": 9,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Nano Lett",
+          "title": "Nano letters",
+          "essn": "1530-6992",
+          "issn": "1530-6984",
+          "isoabbreviation": "Nano Lett",
+          "nlmid": "101088070"
+        },
+        "printPublicationDate": "2026-09-01"
+      },
+      "pubYear": "2026",
+      "pageInfo": "12146-12152",
+      "abstractText": "Lattice geometry plays a fundamental role in the behavior of Bloch electrons in a crystal. The diatomic Kagome lattice, an extension of the honeycomb and Kagome lattices, is predicted to give rise to emergent and topological phenomena, but its experimental investigation has been limited thus far. Here, we fabricate a diatomic Kagome lattice through self-assembly of a triptycene derivative with phenazine moieties (Trip-Phz)\u2500a C3-symmetric, nonplanar \u03c0-conjugated molecule. Our scanning tunneling microscopy (STM) observations show that Trip-Phz forms a highly ordered diatomic Kagome lattice terminated by zigzag-type edges on the Pb(111) surface. Combined STM measurements and tight-binding calculations provide direct evidence for the existence of the edge states that correspond to those of graphene. These states are topological edge states dictated by the quantization of the Zak phase and the bulk-edge correspondence. This work reveals an ideal platform for exploring quantum materials with unique lattice geometries using supramolecular technology.",
+      "affiliation": "Research Center for Materials Nanoarchitectonics (MANA), National Institute for Materials Science, 1-1, Namiki, Tsukuba, Ibaraki305-0044, Japan.",
+      "publicationStatus": "ppublish",
+      "language": "eng",
+      "pubModel": "Print",
+      "pubTypeList": {
+        "pubType": [
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "Japan Society for the Promotion of Science",
+            "grantId": "22H05473",
+            "orderIn": 0
+          },
+          {
+            "agency": "Japan Society for the Promotion of Science",
+            "grantId": "25H00867",
+            "orderIn": 0
+          },
+          {
+            "agency": "Precursory Research for Embryonic Science and Technology",
+            "grantId": "JPMJPR21A9",
+            "orderIn": 0
+          },
+          {
+            "agency": "Japan Society for the Promotion of Science",
+            "grantId": "20H05621",
+            "orderIn": 0
+          },
+          {
+            "agency": "Ministry of Education, Culture, Sports, Science and Technology",
+            "grantId": "NA",
+            "orderIn": 0
+          },
+          {
+            "agency": "Japan Society for the Promotion of Science",
+            "grantId": "25K01670",
+            "orderIn": 0
+          },
+          {
+            "agency": "Japan Society for the Promotion of Science",
+            "grantId": "20H02707",
+            "orderIn": 0
+          },
+          {
+            "agency": "Japan Society for the Promotion of Science",
+            "grantId": "25K01609",
+            "orderIn": 0
+          },
+          {
+            "agency": "Japan Society for the Promotion of Science",
+            "grantId": "23K03322",
+            "orderIn": 0
+          }
+        ]
+      },
+      "keywordList": {
+        "keyword": [
+          "Scanning tunneling microscopy",
+          "Self-assembly",
+          "Edge States",
+          "Zak Phase",
+          "Diatomic-Kagome Lattice",
+          "Nonplanar \u03a0-Conjugated Molecules"
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1021/acs.nanolett.6c03195"
+          }
+        ]
+      },
+      "isOpenAccess": "N",
+      "inEPMC": "N",
+      "inPMC": "N",
+      "citedByCount": 0,
+      "hasReferences": "N",
+      "hasTextMinedTerms": "N",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "N",
+      "hasBook": "N",
+      "hasSuppl": "N",
+      "hasLabsLinks": "N",
+      "hasData": "N",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2026-10-23",
+      "dateOfRevision": "2026-10-23",
+      "firstPublicationDate": "2026-09-01",
+      "firstIndexDate": "2026-10-25",
+      "hasEvaluations": "N"
+    }
+  ],
+  "retrievedAt": "2026-10-26"
+}

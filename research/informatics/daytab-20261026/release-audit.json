@@ -1,0 +1,56 @@
+{
+  "verifiedAt": "2026-10-26T02:10:08.381680+00:00",
+  "environment": "https://staging.universalmind.tv",
+  "sourceCommit": "66d9b83bedb2f9cc0049fbad38e425bdb11b3ec3",
+  "baselineCommit": "3ce760b2203db363078fac573aa8f46769e41d26",
+  "publicationCounts": {
+    "before": 821,
+    "added": 70,
+    "after": 891,
+    "newByCollection": {
+      "sound": 20,
+      "vision": 12,
+      "language": 38
+    }
+  },
+  "selection": "Successful outcomes prioritised; material limitations, secondary analyses and exploratory mechanisms identified.",
+  "deployment": {
+    "transport": "Existing Panthur staging scripts",
+    "scopes": [
+      "informatics",
+      "redirects"
+    ],
+    "informaticsChangedUploads": 88,
+    "exitCodes": [
+      0,
+      0
+    ]
+  },
+  "verification": {
+    "primaryPmids": 70,
+    "doiIdentityAgreement": 69,
+    "allNewRecordsMatchedInLiveExport": 70,
+    "desktopAndMobileViews": 2,
+    "liveSourceFileHashes": 85,
+    "liveExportPartHashes": 5,
+    "completeFormatsReconstructSources": 1172,
+    "readingPages": 1901,
+    "internalLinksChecked": 24107,
+    "allLibraryCsvJsonRecordsMatched": 891,
+    "runtimePageErrors": 0
+  },
+  "unchanged": [
+    "About page",
+    "homepage source and links",
+    "original research records and trust scores",
+    "production site",
+    "hosted MCP/assistant corpus"
+  ],
+  "stagingOnly": true,
+  "externalArchiveTimestampCreated": false,
+  "harnessNotes": [
+    "Browser verification follows the existing shared research frame.",
+    "Filter menus close before the next interaction.",
+    "curl used for export checks after the Python HTTP client received 403; all five files verified."
+  ]
+}

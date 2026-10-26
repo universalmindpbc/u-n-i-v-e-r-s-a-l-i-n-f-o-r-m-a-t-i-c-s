@@ -1,0 +1,17 @@
+Universal Informatics M1–M48
+
+records.csv: one row per modulus. Other CSVs separate observations, interval sums and geometry candidates. Lists within cells use JSON array notation. Legacy epsilon fields describe native 3-6-9 qualification. Separate epsilon_path columns describe an exact M9 reference-path match and its reduced values; an empty legacy epsilon field does not mean this path is absent. Empty Beta means undefined, not zero. Raw residues and display values are separate. Clock position P is north; machine indices start at zero. Original Beta order is preserved.
+
+The included dataset.json is the complete lossless source, including conventions, candidates, verification and unassessed research-tier metadata. CSVs are analytical tables derived from it, not a replacement schema. No biological significance or WSS score is assigned.
+
+Shared literature: research-register.json and research_publications.csv contain 14 unique studies; the four HERO entries are a subset. Each record links these as background_context. The dataset includes the complete bibliography once; individual JSON records include it for standalone use. Publication trust is a provisional editorial appraisal, separate from future modulus WSS.
+
+Probability: the selected comparisons are M9 P24 and M18 P24. Each uses a uniform shuffle of its own 24 native Alpha values, requiring its exact native Gamma values and positions and original Beta alignment. M9: 263/51305410956800, approximately 1 in 195.1 billion. M18: 491/2885929366320000, approximately 1 in 5.88 trillion. Full rules and exact counts are in m9-probability.json and m18-probability.json, with reproducible Python code alongside. M27, M36 and M45 have probability null and status Not selected; null means unscored for this comparison, not zero. Other records have no assigned probability. Large arrangement counts are JSON strings to retain exact integer precision.
+
+Other Geometry: M9-family records include other_geometry_summary. Each 2D stellated octahedron is the pair of alternating equilateral triangles on one regular six-node set. Full Alpha counts and the primary Gamma subset are separate. Formation IDs link to native values and rotations in formation_catalogue. Full Alpha count follows P / 6 for periods divisible by six. Native Beta presence and doubling status are separate from research priority.
+
+Native Beta observations: M9 and M18 include native_beta_observation, mirrored in records.csv. These are mathematical observations under the Atlas construction rules across M1–M1001, with original alignment retained. The complete published Atlas dataset remains M1–M48.
+
+Beta native/reduced views: every published M9-family record includes beta_m9_view. Native values stay unchanged. The reduced nine-position diagram shows the shared cycle once and labels its repeat count; the full reduced sequence is retained in JSON and CSV. SVG/PNG exports follow the selected view.
+
+M9 family views: m9_sequence_views contains Alpha, Beta, Gamma and cycle-based Epsilon. Alpha and Gamma fold indices modulo 24 after reducing values modulo 9. Epsilon uses the fixed M9 route within each 24-position block; this does not change native full-circle Epsilon qualification. Full sequences, individual Epsilon block traversals, repeat counts and original alignment are retained. m9-sequence-family-audit.json verifies all 111 family members through M999.

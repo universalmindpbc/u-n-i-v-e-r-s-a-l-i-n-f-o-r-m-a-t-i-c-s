@@ -1,0 +1,327 @@
+{
+  "AWSTemplateFormatVersion": "2010-09-09",
+  "Description": "On-demand Astra staging CPU worker. No function URL, GPU or Braket permission.",
+  "Parameters": {
+    "StateBucket": {
+      "Type": "String"
+    },
+    "SecretArn": {
+      "Type": "String"
+    },
+    "ImageUri": {
+      "Type": "String"
+    },
+    "DispatcherKey": {
+      "Type": "String",
+      "Default": "build/dispatcher.zip"
+    },
+    "ScheduleState": {
+      "Type": "String",
+      "Default": "DISABLED",
+      "AllowedValues": [
+        "DISABLED",
+        "ENABLED"
+      ]
+    }
+  },
+  "Resources": {
+    "WorkerRole": {
+      "Type": "AWS::IAM::Role",
+      "Properties": {
+        "AssumeRolePolicyDocument": {
+          "Version": "2012-10-17",
+          "Statement": [
+            {
+              "Effect": "Allow",
+              "Principal": {
+                "Service": "lambda.amazonaws.com"
+              },
+              "Action": "sts:AssumeRole"
+            }
+          ]
+        },
+        "Policies": [
+          {
+            "PolicyName": "AstraScopedResources",
+            "PolicyDocument": {
+              "Version": "2012-10-17",
+              "Statement": [
+                {
+                  "Effect": "Allow",
+                  "Action": [
+                    "secretsmanager:GetSecretValue"
+                  ],
+                  "Resource": {
+                    "Ref": "SecretArn"
+                  }
+                },
+                {
+                  "Effect": "Allow",
+                  "Action": [
+                    "s3:ListBucket"
+                  ],
+                  "Resource": {
+                    "Fn::Sub": "arn:${AWS::Partition}:s3:::${StateBucket}"
+                  },
+                  "Condition": {
+                    "StringLike": {
+                      "s3:prefix": [
+                        "state/*"
+                      ]
+                    }
+                  }
+                },
+                {
+                  "Effect": "Allow",
+                  "Action": [
+                    "s3:GetObject",
+                    "s3:PutObject"
+                  ],
+                  "Resource": [
+                    {
+                      "Fn::Sub": "arn:${AWS::Partition}:s3:::${StateBucket}/state/*"
+                    },
+                    {
+                      "Fn::Sub": "arn:${AWS::Partition}:s3:::${StateBucket}/results/*"
+                    }
+                  ]
+                },
+                {
+                  "Effect": "Allow",
+                  "Action": [
+                    "logs:CreateLogStream",
+                    "logs:PutLogEvents"
+                  ],
+                  "Resource": {
+                    "Fn::Sub": "arn:${AWS::Partition}:logs:${AWS::Region}:${AWS::AccountId}:log-group:/aws/*/informatics-astra-*:*"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "DispatcherRole": {
+      "Type": "AWS::IAM::Role",
+      "Properties": {
+        "AssumeRolePolicyDocument": {
+          "Version": "2012-10-17",
+          "Statement": [
+            {
+              "Effect": "Allow",
+              "Principal": {
+                "Service": "lambda.amazonaws.com"
+              },
+              "Action": "sts:AssumeRole"
+            }
+          ]
+        },
+        "Policies": [
+          {
+            "PolicyName": "AstraScopedResources",
+            "PolicyDocument": {
+              "Version": "2012-10-17",
+              "Statement": [
+                {
+                  "Effect": "Allow",
+                  "Action": [
+                    "secretsmanager:GetSecretValue"
+                  ],
+                  "Resource": {
+                    "Ref": "SecretArn"
+                  }
+                },
+                {
+                  "Effect": "Allow",
+                  "Action": [
+                    "s3:ListBucket"
+                  ],
+                  "Resource": {
+                    "Fn::Sub": "arn:${AWS::Partition}:s3:::${StateBucket}"
+                  },
+                  "Condition": {
+                    "StringLike": {
+                      "s3:prefix": [
+                        "allowance/*"
+                      ]
+                    }
+                  }
+                },
+                {
+                  "Effect": "Allow",
+                  "Action": [
+                    "s3:GetObject",
+                    "s3:PutObject"
+                  ],
+                  "Resource": {
+                    "Fn::Sub": "arn:${AWS::Partition}:s3:::${StateBucket}/allowance/*"
+                  }
+                },
+                {
+                  "Effect": "Allow",
+                  "Action": [
+                    "lambda:InvokeFunction"
+                  ],
+                  "Resource": {
+                    "Fn::GetAtt": [
+                      "Worker",
+                      "Arn"
+                    ]
+                  }
+                },
+                {
+                  "Effect": "Allow",
+                  "Action": [
+                    "logs:CreateLogStream",
+                    "logs:PutLogEvents"
+                  ],
+                  "Resource": {
+                    "Fn::Sub": "arn:${AWS::Partition}:logs:${AWS::Region}:${AWS::AccountId}:log-group:/aws/*/informatics-astra-*:*"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "Worker": {
+      "Type": "AWS::Lambda::Function",
+      "Properties": {
+        "FunctionName": "informatics-astra-staging-worker",
+        "Role": {
+          "Fn::GetAtt": [
+            "WorkerRole",
+            "Arn"
+          ]
+        },
+        "PackageType": "Image",
+        "Code": {
+          "ImageUri": {
+            "Ref": "ImageUri"
+          }
+        },
+        "MemorySize": 4096,
+        "Timeout": 900,
+        "EphemeralStorage": {
+          "Size": 4096
+        },
+        "ReservedConcurrentExecutions": 1,
+        "Environment": {
+          "Variables": {
+            "ASTRA_SECRET_ARN": {
+              "Ref": "SecretArn"
+            },
+            "ASTRA_STATE_BUCKET": {
+              "Ref": "StateBucket"
+            }
+          }
+        }
+      }
+    },
+    "Dispatcher": {
+      "Type": "AWS::Lambda::Function",
+      "Properties": {
+        "FunctionName": "informatics-astra-staging-dispatch",
+        "Role": {
+          "Fn::GetAtt": [
+            "DispatcherRole",
+            "Arn"
+          ]
+        },
+        "Runtime": "python3.12",
+        "Handler": "dispatch.handler",
+        "Code": {
+          "S3Bucket": {
+            "Ref": "StateBucket"
+          },
+          "S3Key": {
+            "Ref": "DispatcherKey"
+          }
+        },
+        "MemorySize": 128,
+        "Timeout": 15,
+        "ReservedConcurrentExecutions": 1,
+        "Environment": {
+          "Variables": {
+            "ASTRA_SECRET_ARN": {
+              "Ref": "SecretArn"
+            },
+            "ASTRA_STATE_BUCKET": {
+              "Ref": "StateBucket"
+            },
+            "ASTRA_WORKER_NAME": {
+              "Ref": "Worker"
+            }
+          }
+        }
+      }
+    },
+    "WorkerLogs": {
+      "Type": "AWS::Logs::LogGroup",
+      "Properties": {
+        "LogGroupName": "/aws/lambda/informatics-astra-staging-worker",
+        "RetentionInDays": 7
+      }
+    },
+    "DispatcherLogs": {
+      "Type": "AWS::Logs::LogGroup",
+      "Properties": {
+        "LogGroupName": "/aws/lambda/informatics-astra-staging-dispatch",
+        "RetentionInDays": 7
+      }
+    },
+    "InvokeConfig": {
+      "Type": "AWS::Lambda::EventInvokeConfig",
+      "Properties": {
+        "FunctionName": {
+          "Ref": "Worker"
+        },
+        "Qualifier": "$LATEST",
+        "MaximumRetryAttempts": 0,
+        "MaximumEventAgeInSeconds": 60
+      }
+    },
+    "Tick": {
+      "Type": "AWS::Events::Rule",
+      "Properties": {
+        "Name": "informatics-astra-staging-dispatch",
+        "ScheduleExpression": "rate(1 minute)",
+        "State": {
+          "Ref": "ScheduleState"
+        },
+        "Targets": [
+          {
+            "Arn": {
+              "Fn::GetAtt": [
+                "Dispatcher",
+                "Arn"
+              ]
+            },
+            "Id": "dispatcher",
+            "RetryPolicy": {
+              "MaximumRetryAttempts": 0
+            }
+          }
+        ]
+      }
+    },
+    "TickPermission": {
+      "Type": "AWS::Lambda::Permission",
+      "Properties": {
+        "FunctionName": {
+          "Ref": "Dispatcher"
+        },
+        "Action": "lambda:InvokeFunction",
+        "Principal": "events.amazonaws.com",
+        "SourceArn": {
+          "Fn::GetAtt": [
+            "Tick",
+            "Arn"
+          ]
+        }
+      }
+    }
+  }
+}

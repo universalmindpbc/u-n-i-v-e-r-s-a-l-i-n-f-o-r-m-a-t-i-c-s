@@ -1,0 +1,43 @@
+{
+  "url": "https://universalmind.tv/informatics/?about",
+  "checks": [
+    {
+      "width": 1470,
+      "tagline": true,
+      "nestedFocusDialog": true,
+      "keyboardAndBack": true,
+      "focusRestored": true,
+      "libraryLinks": 3,
+      "fullscreen": false
+    },
+    {
+      "width": 1024,
+      "tagline": true,
+      "nestedFocusDialog": true,
+      "keyboardAndBack": true,
+      "focusRestored": true,
+      "libraryLinks": 3,
+      "fullscreen": false
+    },
+    {
+      "width": 390,
+      "tagline": true,
+      "nestedFocusDialog": true,
+      "keyboardAndBack": true,
+      "focusRestored": true,
+      "libraryLinks": 3,
+      "fullscreen": false
+    },
+    {
+      "width": 320,
+      "tagline": true,
+      "nestedFocusDialog": true,
+      "keyboardAndBack": true,
+      "focusRestored": true,
+      "libraryLinks": 3,
+      "fullscreen": false
+    }
+  ],
+  "errors": [],
+  "audioMuted": true
+}

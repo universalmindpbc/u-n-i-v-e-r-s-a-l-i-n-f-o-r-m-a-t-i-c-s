@@ -1,0 +1,27 @@
+# Permission-required source licence notice
+
+Copyright © 2026 Universal Mind TV, Public Benefit Corporation. All rights reserved in the original material owned by that entity.
+
+This project is source available for inspection. It is not offered under MIT, Apache 2.0 or another open-source licence. No general permission to run, copy for deployment, modify, redistribute, sublicense, sell or incorporate the original software into another product is granted by this notice. Those activities require prior, express written permission from Universal Mind TV, Public Benefit Corporation, through Ben Korbel.
+
+Public viewing and forking facilities remain subject to GitHub's applicable terms. This notice does not revoke rights already granted under an applicable licence, restrict statutory rights, or change the normal terms of access to the hosted websites. Website access is not a grant of permission to deploy or modify the source software.
+
+## Current permission policy
+
+- Every person or organisation seeking to run or modify the software must apply for written permission.
+- Academic researchers require individual written permission before running or modifying the software, including for research, teaching, evaluation or reproduction. Normal use of the hosted Informatics website does not require a separate source-software permission request under this policy.
+- Approved organisations with annual revenue below USD 1,000,000 receive a fee-free licence for the scope stated in their written approval.
+- For organisations with annual revenue of USD 1,000,000 or more, a nominal licence fee is negotiated in good faith and recorded in a written agreement before licensed use begins.
+- Revenue assessment, the reporting period, group treatment, scope, duration, redistribution rights and the treatment of a later threshold crossing are recorded in the individual written agreement. Permission is not automatic at either revenue level. An application or fee discussion is not itself a grant of rights.
+
+This is the current interim policy while the commercial roadmap and pricing are developed. Any later policy applies subject to existing agreements and rights; it does not automatically amend an agreement already granted.
+
+## Third-party material
+
+Dependencies, vendor libraries, datasets, publications, media, trademarks and other third-party material retain their respective licences and rights. This notice applies only to material the licensor has authority to license. It does not replace a third-party licence or grant additional rights to third-party content. See THIRD_PARTY_NOTICES.md and the notices accompanying each component.
+
+## Requests and terms
+
+Send a personal request to Ben Korbel at ben@internetofhappiness.org with the applicant's name, organisation, intended use, requested modifications, research or commercial context, and relevant revenue information. Do not include confidential datasets or credentials in a public issue. A written approval or agreement defines the actual permission granted.
+
+The material is supplied as available, without a warranty of fitness for a particular purpose, subject to applicable law and any separate written agreement. Research prototypes and demonstrations do not establish clinical efficacy or validated biological findings. No right to use the licensor's names or branding as an endorsement is granted.

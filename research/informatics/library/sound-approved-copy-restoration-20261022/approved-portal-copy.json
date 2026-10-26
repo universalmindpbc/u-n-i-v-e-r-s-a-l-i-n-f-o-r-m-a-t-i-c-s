@@ -1,0 +1,30 @@
+{
+  "summary": "Recent evidence supports qualified music interventions for anxiety and PTSD symptoms. A 2024 comparative EEG study provides a direct signal for isochronic-derived auditory stimulation, while theta-frequency binaural-beat research supports focused testing within the 5-8 Hz range. A small 528 Hz study reports short-term endocrine and mood changes that warrant replication.",
+  "studies": [
+    {
+      "doi": "10.1016/j.eclinm.2025.103293",
+      "finding": "Fifty-one studies and 3,276 participants produced a medium overall effect on anxiety, including a medium effect for self-reported anxiety.",
+      "limitation": "Physiological outcomes were small and non-significant; 39.2% of included studies were rated weak."
+    },
+    {
+      "doi": "10.1016/j.xjmad.2024.100053",
+      "finding": "Fourteen studies were included; 13 reported decreased PTSD symptoms, and passive-listening studies also showed promise.",
+      "limitation": "Nine studies were feasibility studies; small samples and weak control groups limit certainty."
+    },
+    {
+      "doi": "10.1016/j.neuroscience.2024.07.014",
+      "finding": "In 28 healthy participants, four minutes of isochronic-derived stimulation produced greater gamma-band EEG power changes than gamma binaural beats and white noise, alongside a distinct time-related alpha response.",
+      "limitation": "The stimulus alternated audible frequencies rather than using a conventional fixed-carrier isochronic tone and did not test Universal Mind's exact protocol. It measured short-term EEG responses, not a clinical outcome."
+    },
+    {
+      "doi": "10.4236/health.2018.109088",
+      "finding": "After five minutes of 528 Hz music, mean salivary oxytocin rose from 37.57 to 73.58 and cortisol later fell from 0.43 to 0.25; neither change was significant with 440 Hz music.",
+      "limitation": "Only nine healthy adults participated. The short comparison is intriguing biomarker evidence, not clinical proof, and requires larger independent preregistered replication."
+    },
+    {
+      "doi": "10.1016/j.explore.2026.103471",
+      "finding": "Across 13 RCTs, theta (4-8 Hz) binaural beats reduced pain, showed anxiety benefit mainly in procedural and chronic-pain settings, and improved episodic memory—supporting focused testing in Universal Mind's 5-8 Hz range.",
+      "limitation": "Overall pain evidence was low certainty, outcomes varied, and the review does not establish PTSD efficacy or validate a complete sound layer."
+    }
+  ]
+}

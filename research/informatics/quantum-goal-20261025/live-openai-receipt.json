@@ -1,0 +1,53 @@
+{
+  "version": "quantum-question-v3",
+  "id": "738d978a-9028-427f-92b4-d476b34c7bdd",
+  "createdAt": "2026-10-25T02:59:06.353Z",
+  "question": "Do quantum responses generated from Fibonacci and M9 P24 representations improve our ability to predict transcription factor occupancy around OXTR?",
+  "model": "gpt-6-astra",
+  "provider_response_id": "resp_0bd91d335b7f69b6016add7077d56887d0b0d98e452a9401d6",
+  "route": "oxtr_occupancy",
+  "allowance": {
+    "allowed": true,
+    "unit": "AI questions",
+    "periods": {
+      "day": {
+        "key": "2026-10-25T00:00:00.000Z",
+        "used": 12,
+        "limit": 30,
+        "resetAt": "2026-10-26T00:00:00.000Z",
+        "remaining": 18
+      },
+      "week": {
+        "key": "2026-10-19T00:00:00.000Z",
+        "used": 22,
+        "limit": 120,
+        "resetAt": "2026-10-26T00:00:00.000Z",
+        "remaining": 98
+      },
+      "month": {
+        "key": "2026-10-01T00:00:00.000Z",
+        "used": 22,
+        "limit": 300,
+        "resetAt": "2026-11-01T00:00:00.000Z",
+        "remaining": 278
+      }
+    },
+    "resetAt": null,
+    "hardware": {
+      "available": false,
+      "reason": "The approved Study 01 batch is recorded separately. New hardware submissions are not enabled through this question endpoint."
+    }
+  },
+  "study": {
+    "id": "oxtr-qrc-01",
+    "version": "1.0.0"
+  },
+  "status": "study_linked",
+  "message": "Your question is linked to the OXTR study. The first measurement phase is active; recorded results and processing status appear in the next steps.",
+  "reports": {
+    "classical": null,
+    "simulation": null,
+    "quantum": null,
+    "comparison": null
+  }
+}

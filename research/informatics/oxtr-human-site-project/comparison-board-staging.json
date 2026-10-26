@@ -1,0 +1,226 @@
+{
+  "deployed_source_commit": "7c3d5828be6bb6d13f6b422a2e45a30782bdeeba",
+  "verified_at_utc": "2026-10-19T22:16:59.450503+00:00",
+  "staging_url": "https://staging.universalmind.tv/informatics/?atlas=1&record=fibonacci-m9-p24",
+  "scope": "Explicit transcription-factor priority; Alpha dot legends; viewport-sized desktop comparison board; readable labels; nested transcription infographic.",
+  "http": {
+    "source_commit": "7c3d5828be6bb6d13f6b422a2e45a30782bdeeba",
+    "verified_assets": 7,
+    "files": [
+      {
+        "file": "Informatics/genomics.html",
+        "bytes": 2244,
+        "sha256": "1d698c11bfd039faad228bcddbdb69834fd63fd0366bbdc68b2b5c97b63fcf14"
+      },
+      {
+        "file": "Informatics/index.html",
+        "bytes": 6376,
+        "sha256": "3b1940113e7dbacc995660c0ad7a6551757b9d8a8b67802c4916e6676151e294"
+      },
+      {
+        "file": "Informatics/research.html",
+        "bytes": 14606,
+        "sha256": "58782f691a7dd0a9230da6500d8e95dfe7af9603e4b94e02187c49f033f17f2f"
+      },
+      {
+        "file": "Informatics/science-assets/oxtr-transcription-v1.png",
+        "bytes": 2037701,
+        "sha256": "2e7997608a66ffa892498f20c6401f98fd188bd938c6a68fb0f32c9a0cab9abc"
+      },
+      {
+        "file": "Informatics/science.css",
+        "bytes": 36990,
+        "sha256": "1be18976c61fe3177cc1771ae2b4506b97efc13632760c5102b9abf697efd7aa"
+      },
+      {
+        "file": "Informatics/science.js",
+        "bytes": 56641,
+        "sha256": "48cbbba9eb626a4a5e36571c9aa1aa359db110a909d017cb90660600b0544fe7"
+      },
+      {
+        "file": "Informatics/tfbs-geometry.js",
+        "bytes": 45628,
+        "sha256": "3640f0feaccb9018b701b45cb962150c5e6c21a71bf04c750858de44d7591bf1"
+      }
+    ]
+  },
+  "geometry_browser": {
+    "candidate": false,
+    "results": [
+      {
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "combinations": 36,
+        "blend_states_per_combination": 2,
+        "source_definitions_prominent": true,
+        "binding_outcomes_and_exports": true,
+        "side_by_side": true,
+        "controls_and_complete_graphs_fit": true,
+        "legend_matches_marks": true,
+        "blend_default_off": true,
+        "selection_deliberate": true,
+        "encode_empty_bins": 41,
+        "source_counts": {
+          "studies": 2,
+          "encode": 255,
+          "jaspar": 9164
+        },
+        "retry": true,
+        "exports": [
+          "json",
+          "csv",
+          "svg",
+          "png"
+        ],
+        "keyboard": true,
+        "overflow": false,
+        "media_context_preserved": true,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "combinations": 36,
+        "blend_states_per_combination": 2,
+        "source_definitions_prominent": true,
+        "binding_outcomes_and_exports": true,
+        "side_by_side": true,
+        "controls_and_complete_graphs_fit": true,
+        "legend_matches_marks": true,
+        "blend_default_off": true,
+        "selection_deliberate": true,
+        "encode_empty_bins": 41,
+        "source_counts": {
+          "studies": 2,
+          "encode": 255,
+          "jaspar": 9164
+        },
+        "retry": true,
+        "exports": [
+          "json",
+          "csv",
+          "svg",
+          "png"
+        ],
+        "keyboard": true,
+        "overflow": false,
+        "media_context_preserved": true,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "combinations": 36,
+        "blend_states_per_combination": 2,
+        "source_definitions_prominent": true,
+        "binding_outcomes_and_exports": true,
+        "side_by_side": true,
+        "controls_and_complete_graphs_fit": false,
+        "legend_matches_marks": true,
+        "blend_default_off": true,
+        "selection_deliberate": true,
+        "encode_empty_bins": 41,
+        "source_counts": {
+          "studies": 2,
+          "encode": 255,
+          "jaspar": 9164
+        },
+        "retry": true,
+        "exports": [
+          "json",
+          "csv",
+          "svg",
+          "png"
+        ],
+        "keyboard": true,
+        "overflow": false,
+        "media_context_preserved": true,
+        "errors": []
+      }
+    ]
+  },
+  "catalogue_browser": {
+    "passed": true,
+    "candidate": false,
+    "processMuted": true,
+    "results": [
+      {
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "transcriptionTeachingAndFocus": true,
+        "teachingGraphicLoaded": true,
+        "teachingZoomAndGlossary": true,
+        "nestedTeachingEscapeAndFocus": true,
+        "dataExplorer": true,
+        "originalEvidenceTypesRestored": true,
+        "all33FilterCombinations": true,
+        "selectedExportMatchesFilter": true,
+        "broaderDescriptionsSeparate": true,
+        "filters": true,
+        "retryAfterFailure": true,
+        "keyboardAndOutsideClose": true,
+        "escapeAndFocus": true,
+        "summaryAndSidebar": true,
+        "aboutNestedLightbox": true,
+        "fullscreenStatePreserved": true,
+        "mediaStatePreserved": true,
+        "downloadsMatched": true,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "transcriptionTeachingAndFocus": true,
+        "teachingGraphicLoaded": true,
+        "teachingZoomAndGlossary": true,
+        "nestedTeachingEscapeAndFocus": true,
+        "dataExplorer": true,
+        "originalEvidenceTypesRestored": true,
+        "all33FilterCombinations": true,
+        "selectedExportMatchesFilter": true,
+        "broaderDescriptionsSeparate": true,
+        "filters": true,
+        "retryAfterFailure": true,
+        "keyboardAndOutsideClose": true,
+        "escapeAndFocus": true,
+        "summaryAndSidebar": true,
+        "aboutNestedLightbox": true,
+        "fullscreenStatePreserved": true,
+        "mediaStatePreserved": true,
+        "downloadsMatched": false,
+        "errors": []
+      }
+    ]
+  },
+  "mobile_sticky_controls": {
+    "passed": true,
+    "processMuted": true,
+    "readerBottom": 78,
+    "controlsTop": 78,
+    "controlsBottom": 306.375,
+    "dialogBottom": 719
+  },
+  "visual_review": [
+    "comparison-board-1440.png",
+    "comparison-board-1366.png",
+    "studies-alpha-blend-1440.png",
+    "experiment-1440.png",
+    "transcription-1440.png",
+    "transcription-390.png"
+  ],
+  "layout_limits": "Complete controls and figures fit together on tested desktop and laptop viewports; narrow screens stack figures and retain sticky controls.",
+  "mapping_changed": false,
+  "new_statistical_test_run": false,
+  "preliminary_discussion": "Saved in research Markdown for discussion; no findings call-out published.",
+  "production_modified": false
+}

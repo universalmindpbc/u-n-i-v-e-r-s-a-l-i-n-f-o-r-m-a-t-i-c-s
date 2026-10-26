@@ -1,0 +1,2530 @@
+{
+  "checkedAt": "2026-10-24",
+  "passed": true,
+  "checksRun": 502,
+  "failed": [],
+  "counts": {
+    "records": 30,
+    "journals": 7,
+    "verifiedPMIDs": 24,
+    "citationSnapshots": 30,
+    "citationTotal": 2409,
+    "ccByFullTexts": 19,
+    "resolvedLinks": 84
+  },
+  "baselineLibrary": "/private/tmp/um-informatics-nature-release-20261023/Informatics/library-data/library.json",
+  "baselineRecordCount": 837,
+  "existingDoiMatches": [],
+  "checks": [
+    {
+      "check": "record_count",
+      "passed": true,
+      "details": 30
+    },
+    {
+      "check": "unique_dois",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "unique_ids",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep27347:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep27347:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep27347:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep27347:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep27347:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep27347:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep27347:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep27347:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep27347:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep27347:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep27347:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep27347:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep27347:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep27347:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep15358:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep15358:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep15358:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep15358:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep15358:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep15358:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep15358:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep15358:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep15358:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep15358:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep15358:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep15358:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep15358:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep15358:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-34880-8:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-34880-8:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-34880-8:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-34880-8:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-34880-8:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-34880-8:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-34880-8:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-34880-8:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-34880-8:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-34880-8:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-34880-8:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-34880-8:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-34880-8:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-34880-8:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature02081:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature02081:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature02081:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature02081:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature02081:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature02081:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature02081:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature02081:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature02081:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature02081:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature02081:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature02081:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature02081:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature02081:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature12791:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature12791:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature12791:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature12791:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature12791:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature12791:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature12791:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature12791:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature12791:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature12791:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature12791:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature12791:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature12791:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature12791:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-021-93133-8:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-021-93133-8:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-021-93133-8:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-021-93133-8:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-021-93133-8:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-021-93133-8:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-021-93133-8:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-021-93133-8:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-021-93133-8:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-021-93133-8:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-021-93133-8:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-021-93133-8:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-021-93133-8:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-021-93133-8:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-13767-5:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-13767-5:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-13767-5:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-13767-5:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-13767-5:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-13767-5:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-13767-5:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-13767-5:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-13767-5:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-13767-5:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-13767-5:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-13767-5:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-13767-5:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-13767-5:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep39821:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep39821:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep39821:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep39821:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep39821:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep39821:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep39821:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep39821:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep39821:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep39821:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep39821:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep39821:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep39821:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep39821:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41540-026-00733-z:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41540-026-00733-z:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41540-026-00733-z:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41540-026-00733-z:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41540-026-00733-z:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41540-026-00733-z:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41540-026-00733-z:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41540-026-00733-z:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41540-026-00733-z:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41540-026-00733-z:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41540-026-00733-z:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41540-026-00733-z:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41540-026-00733-z:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41540-026-00733-z:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-025-09570-2:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-025-09570-2:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-025-09570-2:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-025-09570-2:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-025-09570-2:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-025-09570-2:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-025-09570-2:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-025-09570-2:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-025-09570-2:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-025-09570-2:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-025-09570-2:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-025-09570-2:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-025-09570-2:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-025-09570-2:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-024-02529-6:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-024-02529-6:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-024-02529-6:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-024-02529-6:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-024-02529-6:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-024-02529-6:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-024-02529-6:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-024-02529-6:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-024-02529-6:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-024-02529-6:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-024-02529-6:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-024-02529-6:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-024-02529-6:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-025-61493-8:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-025-61493-8:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-025-61493-8:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-025-61493-8:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-025-61493-8:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-025-61493-8:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-025-61493-8:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-025-61493-8:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-025-61493-8:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-025-61493-8:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-025-61493-8:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-025-61493-8:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-025-61493-8:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-025-61493-8:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-022-04853-4:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-022-04853-4:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-022-04853-4:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-022-04853-4:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-022-04853-4:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-022-04853-4:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-022-04853-4:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-022-04853-4:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-022-04853-4:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-022-04853-4:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-022-04853-4:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-022-04853-4:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-022-04853-4:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-022-04853-4:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphys1396:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphys1396:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphys1396:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphys1396:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphys1396:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphys1396:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphys1396:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphys1396:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphys1396:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphys1396:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphys1396:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphys1396:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphys1396:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep31350:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep31350:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep31350:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep31350:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep31350:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep31350:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep31350:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep31350:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep31350:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep31350:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep31350:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep31350:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep31350:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep31350:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep46302:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep46302:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep46302:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep46302:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep46302:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep46302:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep46302:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep46302:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep46302:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep46302:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep46302:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep46302:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep46302:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep46302:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-28367-9:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-28367-9:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-28367-9:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-28367-9:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-28367-9:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-28367-9:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-28367-9:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-28367-9:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-28367-9:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-28367-9:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-28367-9:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-28367-9:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-28367-9:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-28367-9:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-66284-9:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-66284-9:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-66284-9:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-66284-9:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-66284-9:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-66284-9:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-66284-9:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-66284-9:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-66284-9:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-66284-9:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-66284-9:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-66284-9:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-66284-9:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-024-62260-3:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-024-62260-3:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-024-62260-3:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-024-62260-3:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-024-62260-3:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-024-62260-3:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-024-62260-3:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-024-62260-3:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-024-62260-3:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-024-62260-3:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-024-62260-3:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-024-62260-3:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-024-62260-3:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-024-62260-3:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-64065-6:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-64065-6:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-64065-6:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-64065-6:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-64065-6:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-64065-6:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-64065-6:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-64065-6:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-64065-6:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-64065-6:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-64065-6:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-64065-6:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-64065-6:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-64065-6:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-020-0908-7:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-020-0908-7:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-020-0908-7:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-020-0908-7:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-020-0908-7:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-020-0908-7:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-020-0908-7:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-020-0908-7:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-020-0908-7:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-020-0908-7:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-020-0908-7:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-020-0908-7:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-020-0908-7:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-020-15760-5:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-020-15760-5:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-020-15760-5:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-020-15760-5:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-020-15760-5:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-020-15760-5:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-020-15760-5:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-020-15760-5:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-020-15760-5:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-020-15760-5:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-020-15760-5:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-020-15760-5:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-020-15760-5:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-020-15760-5:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep38651:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep38651:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep38651:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep38651:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep38651:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep38651:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep38651:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep38651:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep38651:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep38651:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep38651:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep38651:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep38651:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep38651:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-018-05950-7:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-018-05950-7:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-018-05950-7:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-018-05950-7:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-018-05950-7:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-018-05950-7:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-018-05950-7:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-018-05950-7:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-018-05950-7:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-018-05950-7:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-018-05950-7:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-018-05950-7:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-018-05950-7:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-018-05950-7:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-67567-5:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-67567-5:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-67567-5:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-67567-5:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-67567-5:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-67567-5:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-67567-5:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-67567-5:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-67567-5:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-67567-5:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-67567-5:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-67567-5:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-67567-5:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-67567-5:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-02170-9:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-02170-9:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-02170-9:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-02170-9:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-02170-9:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-02170-9:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-02170-9:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-02170-9:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-02170-9:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-02170-9:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-02170-9:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-02170-9:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-02170-9:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-02170-9:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphoton.2009.285:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphoton.2009.285:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphoton.2009.285:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphoton.2009.285:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphoton.2009.285:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphoton.2009.285:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphoton.2009.285:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphoton.2009.285:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphoton.2009.285:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphoton.2009.285:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphoton.2009.285:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphoton.2009.285:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphoton.2009.285:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s42005-025-02264-1:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s42005-025-02264-1:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s42005-025-02264-1:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s42005-025-02264-1:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s42005-025-02264-1:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s42005-025-02264-1:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s42005-025-02264-1:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s42005-025-02264-1:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s42005-025-02264-1:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s42005-025-02264-1:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s42005-025-02264-1:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s42005-025-02264-1:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s42005-025-02264-1:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-40652-x:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-40652-x:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-40652-x:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-40652-x:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-40652-x:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-40652-x:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-40652-x:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-40652-x:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-40652-x:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-40652-x:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-40652-x:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-40652-x:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-40652-x:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-40652-x:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-72218-w:required_fields",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-72218-w:publisher_crossref_identity",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-72218-w:journal",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-72218-w:primary_article",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-72218-w:scope",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-72218-w:date",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-72218-w:citation_snapshot",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-72218-w:no_update_flag",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-72218-w:pmid_exact_doi",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-72218-w:provenance:Nature Portfolio publisher",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-72218-w:provenance:Crossref",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-72218-w:provenance:Europe PMC DOI lookup",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-72218-w:urls_resolved",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-72218-w:abstract_rights",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "rights_manifest_complete",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep27347:cc_by",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep27347:sha256:.html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep27347:sha256:.txt",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep15358:cc_by",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep15358:sha256:.html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep15358:sha256:.txt",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-34880-8:cc_by",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-34880-8:sha256:.html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-34880-8:sha256:.txt",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature02081:no_restricted_fulltext",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nature12791:no_restricted_fulltext",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-021-93133-8:cc_by",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-021-93133-8:sha256:.html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-021-93133-8:sha256:.txt",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-13767-5:cc_by",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-13767-5:sha256:.html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-13767-5:sha256:.txt",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep39821:cc_by",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep39821:sha256:.html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep39821:sha256:.txt",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41540-026-00733-z:no_restricted_fulltext",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-025-09570-2:no_restricted_fulltext",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-024-02529-6:cc_by",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-024-02529-6:sha256:.html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-024-02529-6:sha256:.txt",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-025-61493-8:cc_by",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-025-61493-8:sha256:.html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-025-61493-8:sha256:.txt",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41586-022-04853-4:no_restricted_fulltext",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphys1396:no_restricted_fulltext",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep31350:cc_by",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep31350:sha256:.html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep31350:sha256:.txt",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep46302:cc_by",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep46302:sha256:.html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep46302:sha256:.txt",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-28367-9:cc_by",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-28367-9:sha256:.html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-023-28367-9:sha256:.txt",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-66284-9:no_restricted_fulltext",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-024-62260-3:cc_by",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-024-62260-3:sha256:.html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-024-62260-3:sha256:.txt",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-64065-6:cc_by",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-64065-6:sha256:.html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-64065-6:sha256:.txt",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41567-020-0908-7:no_restricted_fulltext",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-020-15760-5:cc_by",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-020-15760-5:sha256:.html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-020-15760-5:sha256:.txt",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep38651:cc_by",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep38651:sha256:.html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-srep38651:sha256:.txt",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-018-05950-7:cc_by",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-018-05950-7:sha256:.html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41467-018-05950-7:sha256:.txt",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-67567-5:cc_by",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-67567-5:sha256:.html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-67567-5:sha256:.txt",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-02170-9:cc_by",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-02170-9:sha256:.html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-017-02170-9:sha256:.txt",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-nphoton.2009.285:no_restricted_fulltext",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s42005-025-02264-1:no_restricted_fulltext",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-026-40652-x:no_restricted_fulltext",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-72218-w:cc_by",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-72218-w:sha256:.html",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "nature-fibonacci-s41598-020-72218-w:sha256:.txt",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "fulltext_inventory",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "fulltext_count",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "fibonacci-biological-patterns:topic_threshold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "fibonacci-biological-patterns:references",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "fibonacci-molecular-computation:topic_threshold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "fibonacci-molecular-computation:references",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "fibonacci-quantum-information:topic_threshold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "fibonacci-quantum-information:references",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "fibonacci-algorithms:topic_threshold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "fibonacci-algorithms:references",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "fibonacci-aperiodic-structures:topic_threshold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "fibonacci-aperiodic-structures:references",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "fibonacci-proposed-biological-structures:topic_threshold",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "fibonacci-proposed-biological-structures:references",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "single_primary_placement",
+      "passed": true,
+      "details": null
+    },
+    {
+      "check": "communication_preference",
+      "passed": true,
+      "details": null
+    }
+  ]
+}

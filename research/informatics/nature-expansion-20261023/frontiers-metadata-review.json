@@ -1,0 +1,3321 @@
+{
+  "checkedAt": "2026-10-23T12:28:44.282179+00:00",
+  "records": [
+    {
+      "doi": "10.3389/fmolb.2025.1696704",
+      "publisherURL": null,
+      "existingRecordId": "pmid-41367385",
+      "title": "Decoding the peripheral transcriptomic and meta-genomic response to music in autism spectrum disorder via saliva-based RNA sequencing",
+      "journal": "Frontiers in Molecular Biosciences",
+      "publisher": "Frontiers Media SA",
+      "year": 2025,
+      "authors": "Andrea Cavenaghi; Nour El Zahraa Mallah; Laura Navarro; Federico Martinón-Torres; Alberto Gómez-Carballa; Antonio Salas",
+      "citations": 2,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                11,
+                24
+              ]
+            ],
+            "date-time": "2025-11-24T00:00:00Z",
+            "timestamp": 1763942400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "41367385",
+      "pmcid": "PMC12682756",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fmolb.2025.1696704"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12682756"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12682756?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "12",
+        "journalIssueId": 3893276,
+        "dateOfPublication": "2025 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2025,
+        "journal": {
+          "medlineAbbreviation": "Front Mol Biosci",
+          "title": "Frontiers in molecular biosciences",
+          "essn": "2296-889X",
+          "issn": "2296-889X",
+          "isoabbreviation": "Front Mol Biosci",
+          "nlmid": "101653173"
+        },
+        "printPublicationDate": "2025-01-01"
+      },
+      "originalTitle": "Decoding the peripheral transcriptomic and meta-genomic response to music in autism spectrum disorder via saliva-based RNA sequencing",
+      "originalJournal": "Frontiers in molecular biosciences",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "127707afc03dda0c0e86463b8ae35ea1d52fdd6e4bd8a0edfc0ca476638f5e21"
+    },
+    {
+      "doi": "10.3389/fnagi.2025.1622816",
+      "publisherURL": null,
+      "existingRecordId": "pmid-41064114",
+      "title": "Music elicits different gene expression responses in the buccal cavity of age-related cognitive disorders patients and healthy controls",
+      "journal": "Frontiers in Aging Neuroscience",
+      "publisher": "Frontiers Media SA",
+      "year": 2025,
+      "authors": "Alberto Gómez-Carballa; Laura Navarro; Nour El Zahraa Mallah; Xabier Bello; Sara Pischedda; Sandra Viz-Lasheras; María José Currás; Isabel Ferreirós-Vidal; Narmeen Mallah; Julián Montoto-Louzao; Alba Camino-Mera; Lúa Castelo-Martínez; Sara Rey-Vázquez; Lorenzo Redondo; Ana Dacosta-Urbieta; Irene Rivero-Calle; Carmen Rodríguez-Tenreiro; Federico Martinón-Torres; Antonio Salas",
+      "citations": 5,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                9,
+                23
+              ]
+            ],
+            "date-time": "2025-09-23T00:00:00Z",
+            "timestamp": 1758585600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "41064114",
+      "pmcid": "PMC12501983",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fnagi.2025.1622816"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12501983"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12501983?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "17",
+        "journalIssueId": 3897197,
+        "dateOfPublication": "2025 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2025,
+        "journal": {
+          "medlineAbbreviation": "Front Aging Neurosci",
+          "title": "Frontiers in aging neuroscience",
+          "essn": "1663-4365",
+          "issn": "1663-4365",
+          "isoabbreviation": "Front Aging Neurosci",
+          "nlmid": "101525824"
+        },
+        "printPublicationDate": "2025-01-01"
+      },
+      "originalTitle": "Music elicits different gene expression responses in the buccal cavity of age-related cognitive disorders patients and healthy controls",
+      "originalJournal": "Frontiers in aging neuroscience",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "98e6d6e27f8d8083b9dde85643928c184a5f9bdc398a88878cfac5bdf08e4742"
+    },
+    {
+      "doi": "10.3389/fpsyg.2025.1653242",
+      "publisherURL": null,
+      "existingRecordId": "pmid-41020112",
+      "title": "Psychological assessments, allostatic load and gene expression analyses in a randomized controlled trial comparing meditation, yoga, and stress education",
+      "journal": "Frontiers in Psychology",
+      "publisher": "Frontiers Media SA",
+      "year": 2025,
+      "authors": "John W. Denninger; Diane Joss; Perla M. Romero; Sat Bir Singh Khalsa; Elizabeth A. Hoge; Manoj Bhasin; Sara W. Lazar; Jeffery A. Dusek; Eric Macklin; Towia Libermann; Gregory L. Fricchione; Herbert Benson",
+      "citations": 3,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                9,
+                12
+              ]
+            ],
+            "date-time": "2025-09-12T00:00:00Z",
+            "timestamp": 1757635200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "41020112",
+      "pmcid": "PMC12463968",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyg.2025.1653242"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12463968"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12463968?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "16",
+        "journalIssueId": 3893293,
+        "dateOfPublication": "2025 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2025,
+        "journal": {
+          "medlineAbbreviation": "Front Psychol",
+          "title": "Frontiers in psychology",
+          "essn": "1664-1078",
+          "issn": "1664-1078",
+          "isoabbreviation": "Front Psychol",
+          "nlmid": "101550902"
+        },
+        "printPublicationDate": "2025-01-01"
+      },
+      "originalTitle": "Psychological assessments, allostatic load and gene expression analyses in a randomized controlled trial comparing meditation, yoga, and stress education",
+      "originalJournal": "Frontiers in psychology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "8fc715d18ecc8fa7752e2eaf9dc565569bbd60ba07d676eed8731e8e4b913181"
+    },
+    {
+      "doi": "10.3389/fnagi.2023.1063536",
+      "publisherURL": null,
+      "existingRecordId": "pmid-36819725",
+      "title": "Sensogenomics of music and Alzheimer’s disease: An interdisciplinary view from neuroscience, transcriptomics, and epigenomics",
+      "journal": "Frontiers in Aging Neuroscience",
+      "publisher": "Frontiers Media SA",
+      "year": 2023,
+      "authors": "Laura Navarro; Alberto Gómez-Carballa; Sara Pischedda; Julián Montoto-Louzao; Sandra Viz-Lasheras; Alba Camino-Mera; Thomas Hinault; Federico Martinón-Torres; Antonio Salas",
+      "citations": 30,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                2,
+                3
+              ]
+            ],
+            "date-time": "2023-02-03T00:00:00Z",
+            "timestamp": 1675382400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "36819725",
+      "pmcid": "PMC9935844",
+      "pubTypes": {
+        "pubType": [
+          "Systematic Review",
+          "systematic-review",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.frontiersin.org/articles/10.3389/fnagi.2023.1063536/pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fnagi.2023.1063536"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9935844"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9935844?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "15",
+        "journalIssueId": 3497212,
+        "dateOfPublication": "2023 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2023,
+        "journal": {
+          "medlineAbbreviation": "Front Aging Neurosci",
+          "title": "Frontiers in aging neuroscience",
+          "essn": "1663-4365",
+          "issn": "1663-4365",
+          "nlmid": "101525824",
+          "isoabbreviation": "Front Aging Neurosci"
+        },
+        "printPublicationDate": "2023-01-01"
+      },
+      "originalTitle": "Sensogenomics of music and Alzheimer's disease: An interdisciplinary view from neuroscience, transcriptomics, and epigenomics",
+      "originalJournal": "Frontiers in aging neuroscience",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "20aab406ca7d9c9929769a618ed66d57e1b8bed9e607c0a67707f513f92f125c"
+    },
+    {
+      "doi": "10.3389/fnhum.2022.955005",
+      "publisherURL": null,
+      "existingRecordId": "pmid-36171872",
+      "title": "Potential epigenetic mechanisms in psychotherapy: a pilot study on DNA methylation and mentalization change in borderline personality disorder",
+      "journal": "Frontiers in Human Neuroscience",
+      "publisher": "Frontiers Media SA",
+      "year": 2022,
+      "authors": "Yamil Quevedo; Linda Booij; Luisa Herrera; Cristobal Hernández; Juan Pablo Jiménez",
+      "citations": 25,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                9,
+                12
+              ]
+            ],
+            "date-time": "2022-09-12T00:00:00Z",
+            "timestamp": 1662940800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "36171872",
+      "pmcid": "PMC9510615",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.frontiersin.org/articles/10.3389/fnhum.2022.955005/pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fnhum.2022.955005"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9510615"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9510615?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "16",
+        "journalIssueId": 3306971,
+        "dateOfPublication": "2022 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2022,
+        "journal": {
+          "medlineAbbreviation": "Front Hum Neurosci",
+          "title": "Frontiers in human neuroscience",
+          "essn": "1662-5161",
+          "issn": "1662-5161",
+          "nlmid": "101477954",
+          "isoabbreviation": "Front Hum Neurosci"
+        },
+        "printPublicationDate": "2022-01-01"
+      },
+      "originalTitle": "Potential epigenetic mechanisms in psychotherapy: a pilot study on DNA methylation and mentalization change in borderline personality disorder",
+      "originalJournal": "Frontiers in human neuroscience",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "eb1aa7583c4af9acb2f08bc26d325b176b1c9fbf6d231a74be7196e2fd7f495b"
+    },
+    {
+      "doi": "10.3389/fpsyt.2018.00359",
+      "publisherURL": null,
+      "existingRecordId": "pmid-30135663",
+      "title": "The OXTR Single-Nucleotide Polymorphism rs53576 Moderates the Impact of Childhood Maltreatment on Empathy for Social Pain in Female Participants: Evidence for Differential Susceptibility",
+      "journal": "Frontiers in Psychiatry",
+      "publisher": "Frontiers Media SA",
+      "year": 2018,
+      "authors": "Vera Flasbeck; Dirk Moser; Robert Kumsta; Martin Brüne",
+      "citations": 33,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                8,
+                8
+              ]
+            ],
+            "date-time": "2018-08-08T00:00:00Z",
+            "timestamp": 1533686400000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "30135663",
+      "pmcid": "PMC6092568",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyt.2018.00359"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6092568"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6092568?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "9",
+        "journalIssueId": 2648707,
+        "dateOfPublication": "2018 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2018,
+        "journal": {
+          "medlineAbbreviation": "Front Psychiatry",
+          "title": "Frontiers in psychiatry",
+          "essn": "1664-0640",
+          "issn": "1664-0640",
+          "isoabbreviation": "Front Psychiatry",
+          "nlmid": "101545006"
+        },
+        "printPublicationDate": "2018-01-01"
+      },
+      "originalTitle": "The OXTR Single-Nucleotide Polymorphism rs53576 Moderates the Impact of Childhood Maltreatment on Empathy for Social Pain in Female Participants: Evidence for Differential Susceptibility",
+      "originalJournal": "Frontiers in Psychiatry - Behavioural and Psychiatric Genetics",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "5508aab0e5ae7e5df8074d0bf5577926a27cc6a83263c977907704342202552a"
+    },
+    {
+      "doi": "10.3389/fimmu.2017.00670",
+      "publisherURL": null,
+      "existingRecordId": "pmid-28670311",
+      "title": "What Is the Molecular Signature of Mind–Body Interventions? A Systematic Review of Gene Expression Changes Induced by Meditation and Related Practices",
+      "journal": "Frontiers in Immunology",
+      "publisher": "Frontiers Media SA",
+      "year": 2017,
+      "authors": "Ivana Buric; Miguel Farias; Jonathan Jong; Christopher Mee; Inti A. Brazil",
+      "citations": 174,
+      "licenses": [],
+      "pmid": "28670311",
+      "pmcid": "PMC5472657",
+      "pubTypes": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.frontiersin.org/articles/10.3389/fimmu.2017.00670/pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fimmu.2017.00670"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5472657"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5472657?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "8",
+        "journalIssueId": 2550594,
+        "dateOfPublication": "2017 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2017,
+        "journal": {
+          "medlineAbbreviation": "Front Immunol",
+          "title": "Frontiers in immunology",
+          "essn": "1664-3224",
+          "issn": "1664-3224",
+          "isoabbreviation": "Front Immunol",
+          "nlmid": "101560960"
+        },
+        "printPublicationDate": "2017-01-01"
+      },
+      "originalTitle": "What Is the Molecular Signature of Mind–Body Interventions? A Systematic Review of Gene Expression Changes Induced by Meditation and Related Practices",
+      "originalJournal": "Frontiers in Immunology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "ee6f608190efc5f0a4009990d5c0dae7f665930bff4e863154898f99ed4efa32"
+    },
+    {
+      "doi": "10.3389/fgene.2011.00111",
+      "publisherURL": null,
+      "existingRecordId": "pmid-22303405",
+      "title": "Toward an Epigenetic View of Our Musical Mind",
+      "journal": "Frontiers in Genetics",
+      "publisher": "Frontiers Media SA",
+      "year": 2012,
+      "authors": "Claudio Brigati; Maria Cristina Saccuman; Barbara Banelli; Angela Di Vinci; Ida Casciano; Luana Borzì; Alessandra Forlani; Giorgio Allemanni; Massimo Romani",
+      "citations": 10,
+      "licenses": [],
+      "pmid": "22303405",
+      "pmcid": "PMC3268383",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fgene.2011.00111"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3268383"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3268383?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "2",
+        "journalIssueId": 1848640,
+        "dateOfPublication": "2011 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2011,
+        "journal": {
+          "medlineAbbreviation": "Front Genet",
+          "title": "Frontiers in genetics",
+          "essn": "1664-8021",
+          "issn": "1664-8021",
+          "isoabbreviation": "Front Genet",
+          "nlmid": "101560621"
+        },
+        "printPublicationDate": "2011-01-01"
+      },
+      "originalTitle": "Toward an Epigenetic View of Our Musical Mind",
+      "originalJournal": "Frontiers in Genetics",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "e1021237d5e1add2815f7055a7ba5a63846c4675206f193f3d77375e874bd131"
+    },
+    {
+      "doi": "10.3389/fpsyt.2026.1779057",
+      "publisherURL": null,
+      "existingRecordId": "pmid-42254728",
+      "title": "Remote EMDR versus CBT for PTSD after the Kahramanmaraş earthquakes: a randomized trial",
+      "journal": "Frontiers in Psychiatry",
+      "publisher": "Frontiers Media SA",
+      "year": 2026,
+      "authors": "Metin Çınaroğlu; Eda Yılmazer; Selami Varol Ülker; Gökben Hızlı Sayar",
+      "citations": 0,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                5,
+                22
+              ]
+            ],
+            "date-time": "2026-05-22T00:00:00Z",
+            "timestamp": 1779408000000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "42254728",
+      "pmcid": "PMC13236641",
+      "pubTypes": {
+        "pubType": [
+          "Clinical Trial",
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyt.2026.1779057"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13236641"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC13236641?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "17",
+        "journalIssueId": 4112086,
+        "dateOfPublication": "2026 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2026,
+        "journal": {
+          "medlineAbbreviation": "Front Psychiatry",
+          "title": "Frontiers in psychiatry",
+          "essn": "1664-0640",
+          "issn": "1664-0640",
+          "nlmid": "101545006",
+          "isoabbreviation": "Front Psychiatry"
+        },
+        "printPublicationDate": "2026-01-01"
+      },
+      "originalTitle": "Remote EMDR versus CBT for PTSD after the Kahramanmaraş earthquakes: a randomized trial.",
+      "originalJournal": "Frontiers in psychiatry",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "55d203013bbd3a49a88644fce7b317348ef15f3df39db81cbcf83bbfc434a6c4"
+    },
+    {
+      "doi": "10.3389/fpsyt.2025.1452206",
+      "publisherURL": null,
+      "existingRecordId": "pmid-40417270",
+      "title": "The effectiveness of online Eye Movement Desensitization and Reprocessing 2.0 Group Protocol on post-traumatic stress disorders symptoms, depression, anxiety, and stress in individuals who have experienced a traffic accident: a randomized-controlled study",
+      "journal": "Frontiers in Psychiatry",
+      "publisher": "Frontiers Media SA",
+      "year": 2025,
+      "authors": "Alişan Burak Yasar; İbrahim Gundogmus; Derin Kubilay; Görkem Alban Tunca; Ersin Uygun; Zeynep Zat Çiftçi; Önder Kavakcı",
+      "citations": 4,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                5,
+                9
+              ]
+            ],
+            "date-time": "2025-05-09T00:00:00Z",
+            "timestamp": 1746748800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "40417270",
+      "pmcid": "PMC12101063",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyt.2025.1452206"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12101063"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC12101063?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "16",
+        "journalIssueId": 3895115,
+        "dateOfPublication": "2025 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2025,
+        "journal": {
+          "medlineAbbreviation": "Front Psychiatry",
+          "title": "Frontiers in psychiatry",
+          "essn": "1664-0640",
+          "issn": "1664-0640",
+          "isoabbreviation": "Front Psychiatry",
+          "nlmid": "101545006"
+        },
+        "printPublicationDate": "2025-01-01"
+      },
+      "originalTitle": "The effectiveness of online Eye Movement Desensitization and Reprocessing 2.0 Group Protocol on post-traumatic stress disorders symptoms, depression, anxiety, and stress in individuals who have experienced a traffic accident: a randomized-controlled study.",
+      "originalJournal": "Frontiers in psychiatry",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "55e885cd522a873199c57842cf803d6e26bf6861f99e3ada776549dfce9edbc7"
+    },
+    {
+      "doi": "10.3389/fpsyt.2023.1336569",
+      "publisherURL": null,
+      "existingRecordId": "pmid-38250261",
+      "title": "Addressing mental health need after COVID-19: a systematic review of remote EMDR therapy studies as an emerging option",
+      "journal": "Frontiers in Psychiatry",
+      "publisher": "Frontiers Media SA",
+      "year": 2024,
+      "authors": "Safa Kemal Kaptan; Zehra Merve Kaya; Ayşe Akan",
+      "citations": 18,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                1,
+                4
+              ]
+            ],
+            "date-time": "2024-01-04T00:00:00Z",
+            "timestamp": 1704326400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "38250261",
+      "pmcid": "PMC10799678",
+      "pubTypes": {
+        "pubType": [
+          "Systematic Review",
+          "systematic-review",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyt.2023.1336569"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10799678"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10799678?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "14",
+        "journalIssueId": 3497158,
+        "dateOfPublication": "2023 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2023,
+        "journal": {
+          "medlineAbbreviation": "Front Psychiatry",
+          "title": "Frontiers in psychiatry",
+          "essn": "1664-0640",
+          "issn": "1664-0640",
+          "nlmid": "101545006",
+          "isoabbreviation": "Front Psychiatry"
+        },
+        "printPublicationDate": "2023-01-01"
+      },
+      "originalTitle": "Addressing mental health need after COVID-19: a systematic review of remote EMDR therapy studies as an emerging option.",
+      "originalJournal": "Frontiers in psychiatry",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "19d17a3ce5f40924c860308fe5a24f3fa4f65f9884538643143d48cf2bfc766c"
+    },
+    {
+      "doi": "10.3389/fpsyg.2023.1129912",
+      "publisherURL": null,
+      "existingRecordId": "portal-1542d1de36c9",
+      "title": "Group early intervention eye movement desensitization and reprocessing therapy as a video-conference psychotherapy with frontline/emergency workers in response to the COVID-19 pandemic in the treatment of post-traumatic stress disorder and moral injury—An RCT study",
+      "journal": "Frontiers in Psychology",
+      "publisher": "Frontiers Media SA",
+      "year": 2023,
+      "authors": "Derek Farrell; Johnny Moran; Zeynep Zat; Paul W. Miller; Lorraine Knibbs; Penny Papanikolopoulos; Tessa Prattos; Iain McGowan; Derek McLaughlin; Ian Barron; Cordula Mattheß; Matthew D. Kiernan",
+      "citations": 22,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2023,
+                3,
+                23
+              ]
+            ],
+            "date-time": "2023-03-23T00:00:00Z",
+            "timestamp": 1679529600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "37063579",
+      "pmcid": "PMC10100089",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1129912/pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyg.2023.1129912"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10100089"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10100089?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "14",
+        "journalIssueId": 3499691,
+        "dateOfPublication": "2023 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2023,
+        "journal": {
+          "medlineAbbreviation": "Front Psychol",
+          "title": "Frontiers in psychology",
+          "essn": "1664-1078",
+          "issn": "1664-1078",
+          "isoabbreviation": "Front Psychol",
+          "nlmid": "101550902"
+        },
+        "printPublicationDate": "2023-01-01"
+      },
+      "originalTitle": "Group early intervention eye movement desensitization and reprocessing therapy as a video-conference psychotherapy with frontline/emergency workers in response to the COVID-19 pandemic in the treatment of post-traumatic stress disorder and moral injury-An RCT study.",
+      "originalJournal": "Frontiers in psychology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "e3c83bf7653466afbec2f2832e22a7ce9542206d60925febe32f6f97d1683d78"
+    },
+    {
+      "doi": "10.3389/fpsyg.2023.1219296",
+      "publisherURL": null,
+      "existingRecordId": "pmid-38327501",
+      "title": "Randomized controlled trials of mind–body interventions for posttraumatic stress disorder: a systematic review",
+      "journal": "Frontiers in Psychology",
+      "publisher": "Frontiers Media SA",
+      "year": 2024,
+      "authors": "Josh Kaplan; Vanessa C. Somohano; Belle Zaccari; Maya E. O’Neil",
+      "citations": 23,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                1,
+                24
+              ]
+            ],
+            "date-time": "2024-01-24T00:00:00Z",
+            "timestamp": 1706054400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "38327501",
+      "pmcid": "PMC10847595",
+      "pubTypes": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyg.2023.1219296"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10847595"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10847595?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "14",
+        "journalIssueId": 3499691,
+        "dateOfPublication": "2023 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2023,
+        "journal": {
+          "medlineAbbreviation": "Front Psychol",
+          "title": "Frontiers in psychology",
+          "essn": "1664-1078",
+          "issn": "1664-1078",
+          "nlmid": "101550902",
+          "isoabbreviation": "Front Psychol"
+        },
+        "printPublicationDate": "2023-01-01"
+      },
+      "originalTitle": "Randomized controlled trials of mind-body interventions for posttraumatic stress disorder: a systematic review",
+      "originalJournal": "Frontiers in psychology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "a50afcec6ab373c228db3652903858895a714086d9f40742ea3108fe6332fbc7"
+    },
+    {
+      "doi": "10.3389/fpsyg.2022.935782",
+      "publisherURL": null,
+      "existingRecordId": "pmid-36248508",
+      "title": "The effect of the online eye movement desensitization and reprocessing early intervention protocol (EMDR R-TEP) for the risk groups with post-traumatic stress symptoms during the COVID-19 pandemic",
+      "journal": "Frontiers in Psychology",
+      "publisher": "Frontiers Media SA",
+      "year": 2022,
+      "authors": "Asena Yurtsever; Orkide Bakalim; Şenel Karaman; Sefa Kaya; Emre Konuk",
+      "citations": 20,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                9,
+                29
+              ]
+            ],
+            "date-time": "2022-09-29T00:00:00Z",
+            "timestamp": 1664409600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "36248508",
+      "pmcid": "PMC9559741",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.935782/pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyg.2022.935782"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9559741"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9559741?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "13",
+        "journalIssueId": 3306973,
+        "dateOfPublication": "2022 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2022,
+        "journal": {
+          "medlineAbbreviation": "Front Psychol",
+          "title": "Frontiers in psychology",
+          "essn": "1664-1078",
+          "issn": "1664-1078",
+          "isoabbreviation": "Front Psychol",
+          "nlmid": "101550902"
+        },
+        "printPublicationDate": "2022-01-01"
+      },
+      "originalTitle": "The effect of the online eye movement desensitization and reprocessing early intervention protocol (EMDR R-TEP) for the risk groups with post-traumatic stress symptoms during the COVID-19 pandemic.",
+      "originalJournal": "Frontiers in psychology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "aceeeec0c6c7c14ea559aa7e5e01d52e879a2e335ec5bb86d2421af00e421652"
+    },
+    {
+      "doi": "10.3389/fnmol.2022.1055344",
+      "publisherURL": null,
+      "existingRecordId": "pmid-36618821",
+      "title": "The oxytocin receptor represents a key hub in the GPCR heteroreceptor network: potential relevance for brain and behavior",
+      "journal": "Frontiers in Molecular Neuroscience",
+      "publisher": "Frontiers Media SA",
+      "year": 2022,
+      "authors": "Dasiel O. Borroto-Escuela; Cristina Cuesta-Marti; Alexander Lopez-Salas; Barbara Chruścicka-Smaga; Minerva Crespo-Ramírez; Emiliano Tesoro-Cruz; Daniel A. Palacios-Lagunas; Miguel Perez de la Mora; Harriët Schellekens; Kjell Fuxe",
+      "citations": 42,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                12,
+                8
+              ]
+            ],
+            "date-time": "2022-12-08T00:00:00Z",
+            "timestamp": 1670457600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "36618821",
+      "pmcid": "PMC9812438",
+      "pubTypes": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.frontiersin.org/articles/10.3389/fnmol.2022.1055344/pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fnmol.2022.1055344"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9812438"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC9812438?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "15",
+        "journalIssueId": 3312699,
+        "dateOfPublication": "2022 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2022,
+        "journal": {
+          "medlineAbbreviation": "Front Mol Neurosci",
+          "title": "Frontiers in molecular neuroscience",
+          "essn": "1662-5099",
+          "issn": "1662-5099",
+          "nlmid": "101477914",
+          "isoabbreviation": "Front Mol Neurosci"
+        },
+        "printPublicationDate": "2022-01-01"
+      },
+      "originalTitle": "The oxytocin receptor represents a key hub in the GPCR heteroreceptor network: potential relevance for brain and behavior",
+      "originalJournal": "Frontiers in molecular neuroscience",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "c90064862efff9eb0c955263ac5910e77132cbb6b46b090d67670662ad051cbb"
+    },
+    {
+      "doi": "10.3389/fpsyg.2021.701381",
+      "publisherURL": null,
+      "existingRecordId": "pmid-34512458",
+      "title": "Coronavirus Disease 2019 Emergency and Remote Eye Movement Desensitization and Reprocessing Group Therapy With Adolescents and Young Adults: Overcoming Lockdown With the Butterfly Hug",
+      "journal": "Frontiers in Psychology",
+      "publisher": "Frontiers Media SA",
+      "year": 2021,
+      "authors": "Elisa Lazzaroni; Roberta Invernizzi; Elisa Fogliato; Marco Pagani; Giada Maslovaric",
+      "citations": 21,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                8,
+                25
+              ]
+            ],
+            "date-time": "2021-08-25T00:00:00Z",
+            "timestamp": 1629849600000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "34512458",
+      "pmcid": "PMC8424043",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2021.701381/pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyg.2021.701381"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC8424043"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC8424043?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "12",
+        "journalIssueId": 3109444,
+        "dateOfPublication": "2021 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2021,
+        "journal": {
+          "medlineAbbreviation": "Front Psychol",
+          "title": "Frontiers in psychology",
+          "essn": "1664-1078",
+          "issn": "1664-1078",
+          "isoabbreviation": "Front Psychol",
+          "nlmid": "101550902"
+        },
+        "printPublicationDate": "2021-01-01"
+      },
+      "originalTitle": "Coronavirus Disease 2019 Emergency and Remote Eye Movement Desensitization and Reprocessing Group Therapy With Adolescents and Young Adults: Overcoming Lockdown With the Butterfly Hug.",
+      "originalJournal": "Frontiers in psychology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "4638b10062d2857d14f4e878abb9e13a4bba02147c90544cb938394c29961307"
+    },
+    {
+      "doi": "10.3389/fphys.2019.00190",
+      "publisherURL": null,
+      "existingRecordId": "pmid-30914965",
+      "title": "Human Heart Rhythms Synchronize While Co-sleeping",
+      "journal": "Frontiers in Physiology",
+      "publisher": "Frontiers Media SA",
+      "year": 2019,
+      "authors": "Heenam Yoon; Sang Ho Choi; Sang Kyong Kim; Hyun Bin Kwon; Seong Min Oh; Jae-Won Choi; Yu Jin Lee; Do-Un Jeong; Kwang Suk Park",
+      "citations": 18,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                3,
+                11
+              ]
+            ],
+            "date-time": "2019-03-11T00:00:00Z",
+            "timestamp": 1552262400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "30914965",
+      "pmcid": "PMC6421336",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "doi",
+            "site": "Unpaywall",
+            "url": "https://doi.org/10.3389/fphys.2019.00190"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fphys.2019.00190"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6421336"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6421336?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "10",
+        "journalIssueId": 2777617,
+        "dateOfPublication": "2019 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2019,
+        "journal": {
+          "medlineAbbreviation": "Front Physiol",
+          "title": "Frontiers in physiology",
+          "essn": "1664-042X",
+          "issn": "1664-042X",
+          "isoabbreviation": "Front Physiol",
+          "nlmid": "101549006"
+        },
+        "printPublicationDate": "2019-01-01"
+      },
+      "originalTitle": "Human Heart Rhythms Synchronize While Co-sleeping",
+      "originalJournal": "Frontiers in Physiology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "2c59312adcae5a06d0daf1d61b2af4bda8bd39c60204a4bdb77d497b82d705b2"
+    },
+    {
+      "doi": "10.3389/fphys.2019.01078",
+      "publisherURL": null,
+      "existingRecordId": "pmid-31507444",
+      "title": "Hypothetical Control of Heart Rate Variability",
+      "journal": "Frontiers in Physiology",
+      "publisher": "Frontiers Media SA",
+      "year": 2019,
+      "authors": "Bruce J. West; Malgorzata Turalska",
+      "citations": 13,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                8,
+                23
+              ]
+            ],
+            "date-time": "2019-08-23T00:00:00Z",
+            "timestamp": 1566518400000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "31507444",
+      "pmcid": "PMC6716055",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fphys.2019.01078"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6716055"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6716055?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "10",
+        "journalIssueId": 2777617,
+        "dateOfPublication": "2019 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2019,
+        "journal": {
+          "medlineAbbreviation": "Front Physiol",
+          "title": "Frontiers in physiology",
+          "essn": "1664-042X",
+          "issn": "1664-042X",
+          "nlmid": "101549006",
+          "isoabbreviation": "Front Physiol"
+        },
+        "printPublicationDate": "2019-01-01"
+      },
+      "originalTitle": "Hypothetical Control of Heart Rate Variability",
+      "originalJournal": "Frontiers in Physiology: Fractal & Network Physiology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "9c27e9dffc4183c82eadbcc1a88fe82a423b7c9641028fc26e00b8ceb381c416"
+    },
+    {
+      "doi": "10.3389/fpsyg.2019.00129",
+      "publisherURL": null,
+      "existingRecordId": "pmid-30858808",
+      "title": "Psychological and Brain Connectivity Changes Following Trauma-Focused CBT and EMDR Treatment in Single-Episode PTSD Patients",
+      "journal": "Frontiers in Psychology",
+      "publisher": "Frontiers Media SA",
+      "year": 2019,
+      "authors": "Emiliano Santarnecchi; Letizia Bossini; Giampaolo Vatti; Andrea Fagiolini; Patrizia La Porta; Giorgio Di Lorenzo; Alberto Siracusano; Simone Rossi; Alessandro Rossi",
+      "citations": 51,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                2,
+                25
+              ]
+            ],
+            "date-time": "2019-02-25T00:00:00Z",
+            "timestamp": 1551052800000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "30858808",
+      "pmcid": "PMC6397860",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyg.2019.00129"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6397860"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6397860?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "10",
+        "journalIssueId": 2775397,
+        "dateOfPublication": "2019 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2019,
+        "journal": {
+          "medlineAbbreviation": "Front Psychol",
+          "title": "Frontiers in psychology",
+          "essn": "1664-1078",
+          "issn": "1664-1078",
+          "isoabbreviation": "Front Psychol",
+          "nlmid": "101550902"
+        },
+        "printPublicationDate": "2019-01-01"
+      },
+      "originalTitle": "Psychological and Brain Connectivity Changes Following Trauma-Focused CBT and EMDR Treatment in Single-Episode PTSD Patients.",
+      "originalJournal": "Frontiers in psychology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "d797a03591e0ece2d4847c5fe9335c9416cdd3d0ec89c176cef03be6ef1aed8c"
+    },
+    {
+      "doi": "10.3389/fpsyg.2019.00263",
+      "publisherURL": null,
+      "existingRecordId": "pmid-30804863",
+      "title": "Psychotherapy and Artificial Intelligence: A Proposal for Alignment",
+      "journal": "Frontiers in Psychology",
+      "publisher": "Frontiers Media SA",
+      "year": 2019,
+      "authors": "Flávio Luis de Mello; Sebastião Alves de Souza",
+      "citations": 36,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2019,
+                2,
+                11
+              ]
+            ],
+            "date-time": "2019-02-11T00:00:00Z",
+            "timestamp": 1549843200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "30804863",
+      "pmcid": "PMC6378280",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyg.2019.00263"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6378280"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6378280?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "10",
+        "journalIssueId": 2775397,
+        "dateOfPublication": "2019 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2019,
+        "journal": {
+          "medlineAbbreviation": "Front Psychol",
+          "title": "Frontiers in psychology",
+          "essn": "1664-1078",
+          "issn": "1664-1078",
+          "isoabbreviation": "Front Psychol",
+          "nlmid": "101550902"
+        },
+        "printPublicationDate": "2019-01-01"
+      },
+      "originalTitle": "Psychotherapy and Artificial Intelligence: A Proposal for Alignment",
+      "originalJournal": "Frontiers in Psychology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "57e89026c4e465897eb745f3157995bc3d90bb1c0bec8f380542ec241c7baf28"
+    },
+    {
+      "doi": "10.3389/fpsyg.2018.00493",
+      "publisherURL": null,
+      "existingRecordId": "pmid-29946275",
+      "title": "An Eye Movement Desensitization and Reprocessing (EMDR) Group Intervention for Syrian Refugees With Post-traumatic Stress Symptoms: Results of a Randomized Controlled Trial",
+      "journal": "Frontiers in Psychology",
+      "publisher": "Frontiers Media SA",
+      "year": 2018,
+      "authors": "Asena Yurtsever; Emre Konuk; Tuba Akyüz; Zeynep Zat; Feryal Tükel; Mustafa Çetinkaya; Canan Savran; Elan Shapiro",
+      "citations": 81,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                6,
+                12
+              ]
+            ],
+            "date-time": "2018-06-12T00:00:00Z",
+            "timestamp": 1528761600000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "29946275",
+      "pmcid": "PMC6005903",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyg.2018.00493"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6005903"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6005903?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "9",
+        "journalIssueId": 2645273,
+        "dateOfPublication": "2018 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2018,
+        "journal": {
+          "medlineAbbreviation": "Front Psychol",
+          "title": "Frontiers in psychology",
+          "essn": "1664-1078",
+          "issn": "1664-1078",
+          "nlmid": "101550902",
+          "isoabbreviation": "Front Psychol"
+        },
+        "printPublicationDate": "2018-01-01"
+      },
+      "originalTitle": "An Eye Movement Desensitization and Reprocessing (EMDR) Group Intervention for Syrian Refugees With Post-traumatic Stress Symptoms: Results of a Randomized Controlled Trial.",
+      "originalJournal": "Frontiers in psychology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "5067c4ce0839fababae212030770e4b9dfea2d1a57bd373c125410851a9ed7e3"
+    },
+    {
+      "doi": "10.3389/fpsyg.2018.01458",
+      "publisherURL": null,
+      "existingRecordId": "pmid-30197612",
+      "title": "Effective Treatment of Veterans With PTSD: Comparison Between Intensive Daily and Weekly EMDR Approaches",
+      "journal": "Frontiers in Psychology",
+      "publisher": "Frontiers Media SA",
+      "year": 2018,
+      "authors": "E. C. Hurley",
+      "citations": 31,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                8,
+                24
+              ]
+            ],
+            "date-time": "2018-08-24T00:00:00Z",
+            "timestamp": 1535068800000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "30197612",
+      "pmcid": "PMC6117416",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "doi",
+            "site": "Unpaywall",
+            "url": "https://doi.org/10.3389/fpsyg.2018.01458"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyg.2018.01458"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6117416"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6117416?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "9",
+        "journalIssueId": 2645273,
+        "dateOfPublication": "2018 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2018,
+        "journal": {
+          "medlineAbbreviation": "Front Psychol",
+          "title": "Frontiers in psychology",
+          "essn": "1664-1078",
+          "issn": "1664-1078",
+          "nlmid": "101550902",
+          "isoabbreviation": "Front Psychol"
+        },
+        "printPublicationDate": "2018-01-01"
+      },
+      "originalTitle": "Effective Treatment of Veterans With PTSD: Comparison Between Intensive Daily and Weekly EMDR Approaches.",
+      "originalJournal": "Frontiers in psychology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "f128ce36c56cd3dec9f79e9b4d7b135ec8547ba27012f022acf7fb3b7bd175af"
+    },
+    {
+      "doi": "10.3389/fpsyg.2018.01384",
+      "publisherURL": null,
+      "existingRecordId": "pmid-30186192",
+      "title": "Eye Movement Desensitization and Reprocessing Versus Treatment as Usual in the Treatment of Depression: A Randomized-Controlled Trial",
+      "journal": "Frontiers in Psychology",
+      "publisher": "Frontiers Media SA",
+      "year": 2018,
+      "authors": "Michael Hase; Jens Plagge; Adrian Hase; Roger Braas; Luca Ostacoli; Arne Hofmann; Christian Huchzermeier",
+      "citations": 35,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                8,
+                14
+              ]
+            ],
+            "date-time": "2018-08-14T00:00:00Z",
+            "timestamp": 1534204800000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "30186192",
+      "pmcid": "PMC6113947",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01384/pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyg.2018.01384"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6113947"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6113947?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "9",
+        "journalIssueId": 2645273,
+        "dateOfPublication": "2018 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2018,
+        "journal": {
+          "medlineAbbreviation": "Front Psychol",
+          "title": "Frontiers in psychology",
+          "essn": "1664-1078",
+          "issn": "1664-1078",
+          "isoabbreviation": "Front Psychol",
+          "nlmid": "101550902"
+        },
+        "printPublicationDate": "2018-01-01"
+      },
+      "originalTitle": "Eye Movement Desensitization and Reprocessing Versus Treatment as Usual in the Treatment of Depression: A Randomized-Controlled Trial.",
+      "originalJournal": "Frontiers in psychology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "a194922b8045554e707031a8c13cc6ea74b6bdd9cbf1fb68b5da3d13876b995f"
+    },
+    {
+      "doi": "10.3389/fpsyg.2018.01395",
+      "publisherURL": null,
+      "existingRecordId": "pmid-30166975",
+      "title": "How Does Eye Movement Desensitization and Reprocessing Therapy Work? A Systematic Review on Suggested Mechanisms of Action",
+      "journal": "Frontiers in Psychology",
+      "publisher": "Frontiers Media SA",
+      "year": 2018,
+      "authors": "Ramon Landin-Romero; Ana Moreno-Alcazar; Marco Pagani; Benedikt L. Amann",
+      "citations": 173,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                8,
+                13
+              ]
+            ],
+            "date-time": "2018-08-13T00:00:00Z",
+            "timestamp": 1534118400000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "30166975",
+      "pmcid": "PMC6106867",
+      "pubTypes": {
+        "pubType": [
+          "systematic-review",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyg.2018.01395"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6106867"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6106867?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "9",
+        "journalIssueId": 2645273,
+        "dateOfPublication": "2018 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2018,
+        "journal": {
+          "medlineAbbreviation": "Front Psychol",
+          "title": "Frontiers in psychology",
+          "essn": "1664-1078",
+          "issn": "1664-1078",
+          "isoabbreviation": "Front Psychol",
+          "nlmid": "101550902"
+        },
+        "printPublicationDate": "2018-01-01"
+      },
+      "originalTitle": "How Does Eye Movement Desensitization and Reprocessing Therapy Work? A Systematic Review on Suggested Mechanisms of Action.",
+      "originalJournal": "Frontiers in psychology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "472155b4a020fd1dd199c7be653ce11771acea5b13eaa7fb16e2c97871df9107"
+    },
+    {
+      "doi": "10.3389/fnbeh.2018.00301",
+      "publisherURL": null,
+      "existingRecordId": "pmid-30618659",
+      "title": "Music Affects Rodents: A Systematic Review of Experimental Research",
+      "journal": "Frontiers in Behavioral Neuroscience",
+      "publisher": "Frontiers Media SA",
+      "year": 2018,
+      "authors": "A. Y. Rosalie Kühlmann; Aniek de Rooij; M. G. Myriam Hunink; Chris I. De Zeeuw; Johannes Jeekel",
+      "citations": 50,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                12,
+                14
+              ]
+            ],
+            "date-time": "2018-12-14T00:00:00Z",
+            "timestamp": 1544745600000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "30618659",
+      "pmcid": "PMC6302112",
+      "pubTypes": {
+        "pubType": [
+          "systematic-review",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.frontiersin.org/articles/10.3389/fnbeh.2018.00301/pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fnbeh.2018.00301"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6302112"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6302112?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "12",
+        "journalIssueId": 2647767,
+        "dateOfPublication": "2018 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2018,
+        "journal": {
+          "medlineAbbreviation": "Front Behav Neurosci",
+          "title": "Frontiers in behavioral neuroscience",
+          "essn": "1662-5153",
+          "issn": "1662-5153",
+          "nlmid": "101477952",
+          "isoabbreviation": "Front Behav Neurosci"
+        },
+        "printPublicationDate": "2018-01-01"
+      },
+      "originalTitle": "Music Affects Rodents: A Systematic Review of Experimental Research",
+      "originalJournal": "Frontiers in Behavioral Neuroscience",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "b44186e3408fed4b853a281b3bea2cc000f9b4dc3ee4753a475bd151b8726378"
+    },
+    {
+      "doi": "10.3389/fnins.2018.00512",
+      "publisherURL": null,
+      "existingRecordId": "pmid-30108475",
+      "title": "Oxytocin Enhancement of Emotional Empathy: Generalization Across Cultures and Effects on Amygdala Activity",
+      "journal": "Frontiers in Neuroscience",
+      "publisher": "Frontiers Media SA",
+      "year": 2018,
+      "authors": "Yayuan Geng; Weihua Zhao; Feng Zhou; Xiaole Ma; Shuxia Yao; Rene Hurlemann; Benjamin Becker; Keith M. Kendrick",
+      "citations": 78,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2018,
+                7,
+                31
+              ]
+            ],
+            "date-time": "2018-07-31T00:00:00Z",
+            "timestamp": 1532995200000
+          },
+          "content-version": "unspecified",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "30108475",
+      "pmcid": "PMC6079225",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.frontiersin.org/articles/10.3389/fnins.2018.00512/pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fnins.2018.00512"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6079225"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC6079225?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "12",
+        "journalIssueId": 2647764,
+        "dateOfPublication": "2018 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2018,
+        "journal": {
+          "medlineAbbreviation": "Front Neurosci",
+          "title": "Frontiers in neuroscience",
+          "essn": "1662-453X",
+          "issn": "1662-4548",
+          "nlmid": "101478481",
+          "isoabbreviation": "Front Neurosci"
+        },
+        "printPublicationDate": "2018-01-01"
+      },
+      "originalTitle": "Oxytocin Enhancement of Emotional Empathy: Generalization Across Cultures and Effects on Amygdala Activity",
+      "originalJournal": "Frontiers in Neuroscience",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "91c2b008524e0df7c6b0d1215fb55db780bdcfa10c3299fc5b6c35ad63b30fb2"
+    },
+    {
+      "doi": "10.3389/fpubh.2017.00267",
+      "publisherURL": null,
+      "existingRecordId": "pmid-29075623",
+      "title": "New Frontiers in Heart Rate Variability and Social Coherence Research: Techniques, Technologies, and Implications for Improving Group Dynamics and Outcomes",
+      "journal": "Frontiers in Public Health",
+      "publisher": "Frontiers Media SA",
+      "year": 2017,
+      "authors": "Rollin McCraty",
+      "citations": 92,
+      "licenses": [],
+      "pmid": "29075623",
+      "pmcid": "PMC5643505",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpubh.2017.00267"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5643505"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5643505?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "5",
+        "journalIssueId": 2524938,
+        "dateOfPublication": "2017 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2017,
+        "journal": {
+          "medlineAbbreviation": "Front Public Health",
+          "title": "Frontiers in public health",
+          "essn": "2296-2565",
+          "issn": "2296-2565",
+          "isoabbreviation": "Front Public Health",
+          "nlmid": "101616579"
+        },
+        "printPublicationDate": "2017-01-01"
+      },
+      "originalTitle": "New Frontiers in Heart Rate Variability and Social Coherence Research: Techniques, Technologies, and Implications for Improving Group Dynamics and Outcomes",
+      "originalJournal": "Frontiers in Public Health",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "367caee0bc53a0f7eb8a55daf90dc4b8382f033f2623d06679a8377cd975e4f4"
+    },
+    {
+      "doi": "10.3389/fnhum.2017.00315",
+      "publisherURL": null,
+      "existingRecordId": "pmid-28694775",
+      "title": "Yoga, Meditation and Mind-Body Health: Increased BDNF, Cortisol Awakening Response, and Altered Inflammatory Marker Expression after a 3-Month Yoga and Meditation Retreat",
+      "journal": "Frontiers in Human Neuroscience",
+      "publisher": "Frontiers Media SA",
+      "year": 2017,
+      "authors": "B. Rael Cahn; Matthew S. Goodman; Christine T. Peterson; Raj Maturi; Paul J. Mills",
+      "citations": 209,
+      "licenses": [
+        {
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                6,
+                26
+              ]
+            ],
+            "date-time": "2017-06-26T00:00:00Z",
+            "timestamp": 1498435200000
+          },
+          "content-version": "vor",
+          "delay-in-days": 0,
+          "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ],
+      "pmid": "28694775",
+      "pmcid": "PMC5483482",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fnhum.2017.00315"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5483482"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5483482?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "11",
+        "journalIssueId": 2550584,
+        "dateOfPublication": "2017 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2017,
+        "journal": {
+          "medlineAbbreviation": "Front Hum Neurosci",
+          "title": "Frontiers in human neuroscience",
+          "essn": "1662-5161",
+          "issn": "1662-5161",
+          "isoabbreviation": "Front Hum Neurosci",
+          "nlmid": "101477954"
+        },
+        "printPublicationDate": "2017-01-01"
+      },
+      "originalTitle": "Yoga, Meditation and Mind-Body Health: Increased BDNF, Cortisol Awakening Response, and Altered Inflammatory Marker Expression after a 3-Month Yoga and Meditation Retreat",
+      "originalJournal": "Frontiers in Human Neuroscience",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "4de9b5f615f9afe7431336e2ec961f138d190327f12f31f8df8ad23ef0e52c70"
+    },
+    {
+      "doi": "10.3389/fphys.2016.00461",
+      "publisherURL": null,
+      "existingRecordId": "pmid-27790154",
+      "title": "Ovarian Hormone Deprivation Reduces Oxytocin Expression in Paraventricular Nucleus Preautonomic Neurons and Correlates with Baroreflex Impairment in Rats",
+      "journal": "Frontiers in Physiology",
+      "publisher": "Frontiers Media SA",
+      "year": 2016,
+      "authors": "Vitor U. De Melo; Rayssa R. M. Saldanha; Carla R. Dos Santos; Josiane De Campos Cruz; Vitor A. Lira; Valter J. Santana-Filho; Lisete C. Michelini",
+      "citations": 20,
+      "licenses": [],
+      "pmid": "27790154",
+      "pmcid": "PMC5063006",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fphys.2016.00461"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5063006"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC5063006?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "7",
+        "journalIssueId": 2378597,
+        "dateOfPublication": "2016",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2016,
+        "journal": {
+          "medlineAbbreviation": "Front Physiol",
+          "title": "Frontiers in physiology",
+          "essn": "1664-042X",
+          "issn": "1664-042X",
+          "isoabbreviation": "Front Physiol",
+          "nlmid": "101549006"
+        },
+        "printPublicationDate": "2016-01-01"
+      },
+      "originalTitle": "Ovarian Hormone Deprivation Reduces Oxytocin Expression in Paraventricular Nucleus Preautonomic Neurons and Correlates with Baroreflex Impairment in Rats",
+      "originalJournal": "Frontiers in Integrative Physiology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "750d6560b5ba93ccd4c860c913c7241f24c3739c99560ec55f91e8cb3b5528cc"
+    },
+    {
+      "doi": "10.3389/fnhum.2015.00518",
+      "publisherURL": null,
+      "existingRecordId": "pmid-26441614",
+      "title": "The neurochemistry and social flow of singing: bonding and oxytocin",
+      "journal": "Frontiers in Human Neuroscience",
+      "publisher": "Frontiers Media SA",
+      "year": 2015,
+      "authors": "Jason R. Keeler; Edward A. Roth; Brittany L. Neuser; John M. Spitsbergen; Daniel J. M. Waters; John-Mary Vianney",
+      "citations": 117,
+      "licenses": [],
+      "pmid": "26441614",
+      "pmcid": "PMC4585277",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fnhum.2015.00518"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4585277"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4585277?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "9",
+        "journalIssueId": 2251232,
+        "dateOfPublication": "2015",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2015,
+        "journal": {
+          "medlineAbbreviation": "Front Hum Neurosci",
+          "title": "Frontiers in human neuroscience",
+          "essn": "1662-5161",
+          "issn": "1662-5161",
+          "nlmid": "101477954",
+          "isoabbreviation": "Front Hum Neurosci"
+        },
+        "printPublicationDate": "2015-01-01"
+      },
+      "originalTitle": "The neurochemistry and social flow of singing: bonding and oxytocin",
+      "originalJournal": "Frontiers in Human Neuroscience",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "ba0ec411dde8411ac8831e2c916898b1f9cf9cefeb11c35735bf1b89f053a35c"
+    },
+    {
+      "doi": "10.3389/fpsyg.2014.01040",
+      "publisherURL": null,
+      "existingRecordId": "pmid-25324790",
+      "title": "A healthy heart is not a metronome: an integrative review of the heart's anatomy and heart rate variability",
+      "journal": "Frontiers in Psychology",
+      "publisher": "Frontiers Media SA",
+      "year": 2014,
+      "authors": "Fred Shaffer; Rollin McCraty; Christopher L. Zerr",
+      "citations": 1649,
+      "licenses": [],
+      "pmid": "25324790",
+      "pmcid": "PMC4179748",
+      "pubTypes": {
+        "pubType": [
+          "review-article",
+          "Review",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyg.2014.01040"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4179748"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4179748?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "5",
+        "journalIssueId": 2120176,
+        "dateOfPublication": "2014 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2014,
+        "journal": {
+          "medlineAbbreviation": "Front Psychol",
+          "title": "Frontiers in psychology",
+          "essn": "1664-1078",
+          "issn": "1664-1078",
+          "nlmid": "101550902",
+          "isoabbreviation": "Front Psychol"
+        },
+        "printPublicationDate": "2014-01-01"
+      },
+      "originalTitle": "A healthy heart is not a metronome: an integrative review of the heart's anatomy and heart rate variability",
+      "originalJournal": "Frontiers in Psychology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "7b3c5e87ee029790dcf1b2168644de20a27e8f1ed5851667198c5091bd9837a2"
+    },
+    {
+      "doi": "10.3389/fpsyt.2014.00080",
+      "publisherURL": null,
+      "existingRecordId": "pmid-25071612",
+      "title": "Anxiety Disorders are Associated with Reduced Heart Rate Variability: A Meta-Analysis",
+      "journal": "Frontiers in Psychiatry",
+      "publisher": "Frontiers Media SA",
+      "year": 2014,
+      "authors": "John A. Chalmers; Daniel S. Quintana; Maree J.-Anne Abbott; Andrew H. Kemp",
+      "citations": 881,
+      "licenses": [],
+      "pmid": "25071612",
+      "pmcid": "PMC4092363",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyt.2014.00080"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4092363"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4092363?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "5",
+        "journalIssueId": 2120435,
+        "dateOfPublication": "2014 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2014,
+        "journal": {
+          "medlineAbbreviation": "Front Psychiatry",
+          "title": "Frontiers in psychiatry",
+          "essn": "1664-0640",
+          "issn": "1664-0640",
+          "nlmid": "101545006",
+          "isoabbreviation": "Front Psychiatry"
+        },
+        "printPublicationDate": "2014-01-01"
+      },
+      "originalTitle": "Anxiety disorders are associated with reduced heart rate variability: a meta-analysis",
+      "originalJournal": "Frontiers in Psychiatry",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "36c315c258ef1a0e89876330e43c94c429b5983ee2e6ca89bdb49a82d9af8dbb"
+    },
+    {
+      "doi": "10.3389/fpsyg.2014.01248",
+      "publisherURL": null,
+      "existingRecordId": "pmid-25452734",
+      "title": "Auditory driving of the autonomic nervous system: Listening to theta-frequency binaural beats post-exercise increases parasympathetic activation and sympathetic withdrawal",
+      "journal": "Frontiers in Psychology",
+      "publisher": "Frontiers Media SA",
+      "year": 2014,
+      "authors": "Patrick A. McConnell; Brett Froeliger; Eric L. Garland; Jeffrey C. Ives; Gary A. Sforzo",
+      "citations": 79,
+      "licenses": [],
+      "pmid": "25452734",
+      "pmcid": "PMC4231835",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyg.2014.01248"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4231835"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4231835?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "5",
+        "journalIssueId": 2120176,
+        "dateOfPublication": "2014 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2014,
+        "journal": {
+          "medlineAbbreviation": "Front Psychol",
+          "title": "Frontiers in psychology",
+          "essn": "1664-1078",
+          "issn": "1664-1078",
+          "isoabbreviation": "Front Psychol",
+          "nlmid": "101550902"
+        },
+        "printPublicationDate": "2014-01-01"
+      },
+      "originalTitle": "Auditory driving of the autonomic nervous system: Listening to theta-frequency binaural beats post-exercise increases parasympathetic activation and sympathetic withdrawal",
+      "originalJournal": "Frontiers in Psychology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "62cc7e5ddd8433ec7825d770f6df3252ee1ac65fd4ab76b4ac4851199a6f311c"
+    },
+    {
+      "doi": "10.3389/fpsyg.2014.01096",
+      "publisherURL": null,
+      "existingRecordId": "pmid-25324805",
+      "title": "Music and social bonding: â€œself-otherâ€ merging and neurohormonal mechanisms",
+      "journal": "Frontiers in Psychology",
+      "publisher": "Frontiers Media SA",
+      "year": 2014,
+      "authors": "Bronwyn Tarr; Jacques Launay; Robin I. M. Dunbar",
+      "citations": 419,
+      "licenses": [],
+      "pmid": "25324805",
+      "pmcid": "PMC4179700",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyg.2014.01096"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4179700"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC4179700?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "5",
+        "journalIssueId": 2120176,
+        "dateOfPublication": "2014 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2014,
+        "journal": {
+          "medlineAbbreviation": "Front Psychol",
+          "title": "Frontiers in psychology",
+          "essn": "1664-1078",
+          "issn": "1664-1078",
+          "isoabbreviation": "Front Psychol",
+          "nlmid": "101550902"
+        },
+        "printPublicationDate": "2014-01-01"
+      },
+      "originalTitle": "Music and social bonding: “self-other” merging and neurohormonal mechanisms",
+      "originalJournal": "Frontiers in Psychology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "f52cb765fe39bb264842b073b4b792c48c6553a4322f83c4946b5fc7e28fdda2"
+    },
+    {
+      "doi": "10.3389/fpsyg.2013.00713",
+      "publisherURL": null,
+      "existingRecordId": "pmid-24137142",
+      "title": "Art and science: how musical training shapes the brain",
+      "journal": "Frontiers in Psychology",
+      "publisher": "Frontiers Media SA",
+      "year": 2013,
+      "authors": "Karen Chan Barrett; Richard Ashley; Dana L. Strait; Nina Kraus",
+      "citations": 81,
+      "licenses": [],
+      "pmid": "24137142",
+      "pmcid": "PMC3797461",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyg.2013.00713"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3797461"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3797461?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "4",
+        "journalIssueId": 2003512,
+        "dateOfPublication": "2013 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2013,
+        "journal": {
+          "medlineAbbreviation": "Front Psychol",
+          "title": "Frontiers in psychology",
+          "essn": "1664-1078",
+          "issn": "1664-1078",
+          "isoabbreviation": "Front Psychol",
+          "nlmid": "101550902"
+        },
+        "printPublicationDate": "2013-01-01"
+      },
+      "originalTitle": "Art and science: how musical training shapes the brain",
+      "originalJournal": "Frontiers in Psychology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "9eadace885f5ce6580c8f85ede64d801b064003f425ae98c67b9f1a601671726"
+    },
+    {
+      "doi": "10.3389/fnhum.2013.00414",
+      "publisherURL": null,
+      "existingRecordId": "pmid-23914165",
+      "title": "Dynamic correlations between heart and brain rhythm during Autogenic meditation",
+      "journal": "Frontiers in Human Neuroscience",
+      "publisher": "Frontiers Media SA",
+      "year": 2013,
+      "authors": "Dae-Keun Kim; Kyung-Mi Lee; Jongwha Kim; Min-Cheol Whang; Seung Wan Kang",
+      "citations": 54,
+      "licenses": [],
+      "pmid": "23914165",
+      "pmcid": "PMC3728977",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fnhum.2013.00414"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3728977"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3728977?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "7",
+        "journalIssueId": 2004142,
+        "dateOfPublication": "2013 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2013,
+        "journal": {
+          "medlineAbbreviation": "Front Hum Neurosci",
+          "title": "Frontiers in human neuroscience",
+          "essn": "1662-5161",
+          "issn": "1662-5161",
+          "isoabbreviation": "Front Hum Neurosci",
+          "nlmid": "101477954"
+        },
+        "printPublicationDate": "2013-01-01"
+      },
+      "originalTitle": "Dynamic correlations between heart and brain rhythm during Autogenic meditation",
+      "originalJournal": "Fontiers in Human Neuroscience",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "b03d3efa5e3b4d782a522192023c51eca8489cc957195b8d99f3606fd196436d"
+    },
+    {
+      "doi": "10.3389/fpsyg.2013.00334",
+      "publisherURL": null,
+      "existingRecordId": "pmid-23847555",
+      "title": "Music structure determines heart rate variability of singers",
+      "journal": "Frontiers in Psychology",
+      "publisher": "Frontiers Media SA",
+      "year": 2013,
+      "authors": "Björn Vickhoff; Helge Malmgren; Rickard Åström; Gunnar Nyberg; Seth-Reino Ekström; Mathias Engwall; Johan Snygg; Michael Nilsson; Rebecka Jörnsten",
+      "citations": 78,
+      "licenses": [],
+      "pmid": "23847555",
+      "pmcid": "PMC3705176",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Unpaywall",
+            "url": "http://hdl.handle.net/1959.13/1340831"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyg.2013.00334"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3705176"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3705176?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "4",
+        "journalIssueId": 2003512,
+        "dateOfPublication": "2013 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2013,
+        "journal": {
+          "medlineAbbreviation": "Front Psychol",
+          "title": "Frontiers in psychology",
+          "essn": "1664-1078",
+          "issn": "1664-1078",
+          "nlmid": "101550902",
+          "isoabbreviation": "Front Psychol"
+        },
+        "printPublicationDate": "2013-01-01"
+      },
+      "originalTitle": "Music structure determines heart rate variability of singers",
+      "originalJournal": "Frontiers in Psychology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "4133ec61b3503e306aa33a269b38ad857797ba765151cdc1c01fe1d2c77e82e9"
+    },
+    {
+      "doi": "10.3389/fnhum.2012.00034",
+      "publisherURL": null,
+      "existingRecordId": "pmid-22393318",
+      "title": "The Unique Brain Anatomy of Meditation Practitioners: Alterations in Cortical Gyrification",
+      "journal": "Frontiers in Human Neuroscience",
+      "publisher": "Frontiers Media SA",
+      "year": 2012,
+      "authors": "Eileen Luders; Florian Kurth; Emeran A. Mayer; Arthur W. Toga; Katherine L. Narr; Christian Gaser",
+      "citations": 154,
+      "licenses": [],
+      "pmid": "22393318",
+      "pmcid": "PMC3289949",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://escholarship.org/uc/item/5sp2n1h5"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fnhum.2012.00034"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3289949"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3289949?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "6",
+        "journalIssueId": 1907410,
+        "dateOfPublication": "2012 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2012,
+        "journal": {
+          "medlineAbbreviation": "Front Hum Neurosci",
+          "title": "Frontiers in human neuroscience",
+          "essn": "1662-5161",
+          "issn": "1662-5161",
+          "nlmid": "101477954",
+          "isoabbreviation": "Front Hum Neurosci"
+        },
+        "printPublicationDate": "2012-01-01"
+      },
+      "originalTitle": "The unique brain anatomy of meditation practitioners: alterations in cortical gyrification",
+      "originalJournal": "Frontiers in Human Neuroscience",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "c295b60598510c9f2c64cf9de70400cd6f039b97860fa33bc52d4ec5bdd9e7e8"
+    },
+    {
+      "doi": "10.3389/fpsyg.2011.00058",
+      "publisherURL": null,
+      "existingRecordId": "pmid-21716581",
+      "title": "Effects of Music Listening on Cortisol Levels and Propofol Consumption during Spinal Anesthesia",
+      "journal": "Frontiers in Psychology",
+      "publisher": "Frontiers Media SA",
+      "year": 2011,
+      "authors": "Stefan Koelsch; Julian Fuermetz; Ulrich Sack; Katrin Bauer; Maximilian Hohenadel; Martin Wiegel; Udo X. Kaisers; Wolfgang Heinke",
+      "citations": 102,
+      "licenses": [],
+      "pmid": "21716581",
+      "pmcid": "PMC3110826",
+      "pubTypes": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fpsyg.2011.00058"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3110826"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3110826?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "2",
+        "journalIssueId": 1854407,
+        "dateOfPublication": "2011 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2011,
+        "journal": {
+          "medlineAbbreviation": "Front Psychol",
+          "title": "Frontiers in psychology",
+          "essn": "1664-1078",
+          "issn": "1664-1078",
+          "isoabbreviation": "Front Psychol",
+          "nlmid": "101550902"
+        },
+        "printPublicationDate": "2011-01-01"
+      },
+      "originalTitle": "Effects of music listening on cortisol levels and propofol consumption during spinal anesthesia",
+      "originalJournal": "Frontiers in Psychology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "f1ba909a84218c4ba7576fe3eb4e94fb4ef279891ca0c405acf740a7890cf295"
+    },
+    {
+      "doi": "10.3389/fphys.2011.00086",
+      "publisherURL": null,
+      "existingRecordId": "pmid-22144961",
+      "title": "Heart Rate Variability ? A Historical Perspective",
+      "journal": "Frontiers in Physiology",
+      "publisher": "Frontiers Media SA",
+      "year": 2011,
+      "authors": "George E. Billman",
+      "citations": 633,
+      "licenses": [],
+      "pmid": "22144961",
+      "pmcid": "PMC3225923",
+      "pubTypes": {
+        "pubType": [
+          "review-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.frontiersin.org/articles/10.3389/fphys.2011.00086/pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fphys.2011.00086"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3225923"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3225923?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "2",
+        "journalIssueId": 1823619,
+        "dateOfPublication": "2011 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2011,
+        "journal": {
+          "medlineAbbreviation": "Front Physiol",
+          "title": "Frontiers in physiology",
+          "essn": "1664-042X",
+          "issn": "1664-042X",
+          "nlmid": "101549006",
+          "isoabbreviation": "Front Physiol"
+        },
+        "printPublicationDate": "2011-01-01"
+      },
+      "originalTitle": "Heart rate variability – a historical perspective",
+      "originalJournal": "Frontiers in Physiology: Clinical & Translational Physiology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "8150c2928fa05444fa8fefa9ad7316c988fecc8e405091d29b5607a76ea67934"
+    },
+    {
+      "doi": "10.3389/fphys.2010.00012",
+      "publisherURL": null,
+      "existingRecordId": "pmid-21423355",
+      "title": "Fractal physiology and the fractional calculus: a perspective",
+      "journal": "Frontiers in Physiology",
+      "publisher": "Frontiers Media SA",
+      "year": 2010,
+      "authors": "Bruce J. West",
+      "citations": 156,
+      "licenses": [],
+      "pmid": "21423355",
+      "pmcid": "PMC3059975",
+      "pubTypes": {
+        "pubType": [
+          "review-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fphys.2010.00012"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3059975"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3059975?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "1",
+        "journalIssueId": 1826883,
+        "dateOfPublication": "2010 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2010,
+        "journal": {
+          "medlineAbbreviation": "Front Physiol",
+          "title": "Frontiers in physiology",
+          "essn": "1664-042X",
+          "issn": "1664-042X",
+          "isoabbreviation": "Front Physiol",
+          "nlmid": "101549006"
+        },
+        "printPublicationDate": "2010-01-01"
+      },
+      "originalTitle": "Fractal physiology and the fractional calculus: a perspective",
+      "originalJournal": "Frontiers in Physiology: Fractal & Network Physiology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "54f29615e97ec3f4e9eeabe3cc90a2f73b2fea678e86cf93bf4612309a984b7f"
+    },
+    {
+      "doi": "10.3389/fphys.2010.00015",
+      "publisherURL": null,
+      "existingRecordId": "pmid-21423358",
+      "title": "Fractals in the nervous system: conceptual implications for theoretical neuroscience",
+      "journal": "Frontiers in Physiology",
+      "publisher": "Frontiers Media SA",
+      "year": 2010,
+      "authors": "Gerhard Werner",
+      "citations": 94,
+      "licenses": [],
+      "pmid": "21423358",
+      "pmcid": "PMC3059969",
+      "pubTypes": {
+        "pubType": [
+          "review-article",
+          "Journal Article"
+        ]
+      },
+      "fullTextLocations": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.frontiersin.org/articles/10.3389/fphys.2010.00015/pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.3389/fphys.2010.00015"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3059969"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC3059969?pdf=render"
+          }
+        ]
+      },
+      "updates": null,
+      "journalInfo": {
+        "volume": "1",
+        "journalIssueId": 1826883,
+        "dateOfPublication": "2010 ",
+        "monthOfPublication": 0,
+        "yearOfPublication": 2010,
+        "journal": {
+          "medlineAbbreviation": "Front Physiol",
+          "title": "Frontiers in physiology",
+          "essn": "1664-042X",
+          "issn": "1664-042X",
+          "isoabbreviation": "Front Physiol",
+          "nlmid": "101549006"
+        },
+        "printPublicationDate": "2010-01-01"
+      },
+      "originalTitle": "Fractals in the nervous system: conceptual implications for theoretical neuroscience",
+      "originalJournal": "Frontiers in Physiology: Fractal & Network Physiology",
+      "similarity": 1.0,
+      "abstractReviewedSHA256": "52021ce6cafab7d5de9718ade34940731b7cfeb89c0a1d218d521523c494c002"
+    }
+  ]
+}

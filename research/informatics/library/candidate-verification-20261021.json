@@ -1,0 +1,102 @@
+{
+  "passed": true,
+  "candidate": true,
+  "checkedAt": "2026-10-21T06:43:20.773Z",
+  "base": "https://staging.universalmind.tv/informatics/",
+  "processMuted": true,
+  "records": 833,
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "searchAndFilters": true,
+      "threeCollections": true,
+      "sourceReaderPages": 236,
+      "recordPermalink": true,
+      "jsonExport": true,
+      "focusRestored": true,
+      "networkTargets": 13,
+      "activeExperiencePreserved": true,
+      "media": {
+        "same": true,
+        "advanced": true,
+        "paused": false,
+        "events": []
+      },
+      "nativeFullscreen": false,
+      "errors": []
+    },
+    {
+      "unavailableStateAndRetry": true,
+      "noFallbackData": true
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "searchAndFilters": true,
+      "threeCollections": true,
+      "sourceReaderPages": 236,
+      "recordPermalink": true,
+      "jsonExport": true,
+      "focusRestored": true,
+      "networkTargets": 13,
+      "activeExperiencePreserved": true,
+      "media": {
+        "same": true,
+        "advanced": true,
+        "paused": false,
+        "events": []
+      },
+      "nativeFullscreen": false,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "searchAndFilters": true,
+      "threeCollections": true,
+      "sourceReaderPages": 236,
+      "recordPermalink": true,
+      "jsonExport": true,
+      "focusRestored": true,
+      "networkTargets": 13,
+      "activeExperiencePreserved": true,
+      "media": {
+        "same": true,
+        "advanced": true,
+        "paused": false,
+        "events": []
+      },
+      "nativeFullscreen": false,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "searchAndFilters": true,
+      "threeCollections": true,
+      "sourceReaderPages": 236,
+      "recordPermalink": true,
+      "jsonExport": true,
+      "focusRestored": true,
+      "networkTargets": 13,
+      "activeExperiencePreserved": true,
+      "media": {
+        "same": true,
+        "advanced": true,
+        "paused": false,
+        "events": []
+      },
+      "nativeFullscreen": false,
+      "errors": []
+    }
+  ]
+}

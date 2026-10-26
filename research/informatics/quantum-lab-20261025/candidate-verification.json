@@ -1,0 +1,60 @@
+{
+  "live": false,
+  "processMuted": true,
+  "embeddedNavigation": true,
+  "keyboardMenu": true,
+  "records": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "freeSimulation": true,
+      "distinctReruns": true,
+      "reproducibleImport": true,
+      "persistentLocalHistory": true,
+      "reviewDownloadOnly": true,
+      "noOverflow": true,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "freeSimulation": true,
+      "distinctReruns": true,
+      "reproducibleImport": true,
+      "persistentLocalHistory": true,
+      "reviewDownloadOnly": true,
+      "noOverflow": true,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "freeSimulation": true,
+      "distinctReruns": true,
+      "reproducibleImport": true,
+      "persistentLocalHistory": true,
+      "reviewDownloadOnly": true,
+      "noOverflow": true,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "freeSimulation": true,
+      "distinctReruns": true,
+      "reproducibleImport": true,
+      "persistentLocalHistory": true,
+      "reviewDownloadOnly": true,
+      "noOverflow": true,
+      "errors": []
+    }
+  ]
+}

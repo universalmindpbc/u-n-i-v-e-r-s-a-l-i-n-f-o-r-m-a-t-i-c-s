@@ -1,0 +1,80 @@
+[
+  {
+    "name": "sound-molecular",
+    "database": "Europe PMC / MED",
+    "query": "((TITLE_ABS:music OR TITLE_ABS:\"auditory stimulation\" OR TITLE_ABS:binaural) AND (TITLE_ABS:\"gene expression\" OR TITLE_ABS:transcriptom* OR TITLE_ABS:epigen* OR TITLE_ABS:interleukin OR TITLE_ABS:\"IL-6\")) AND FIRST_PDATE:[2022-01-01 TO 2026-10-21] AND SRC:MED",
+    "searchedAt": "2026-10-21",
+    "hitCount": 68,
+    "retrieved": 68,
+    "note": "Ranked discovery sample; inclusion requires editorial review. This is not an exhaustive systematic search."
+  },
+  {
+    "name": "vision-molecular",
+    "database": "Europe PMC / MED",
+    "query": "((TITLE_ABS:EMDR OR TITLE_ABS:\"eye movement desensitization\" OR TITLE_ABS:\"visual stimulation\" OR TITLE_ABS:\"sensory stimulation\") AND (TITLE_ABS:methylation OR TITLE_ABS:\"gene expression\" OR TITLE_ABS:transcriptom* OR TITLE_ABS:epigen*)) AND FIRST_PDATE:[2022-01-01 TO 2026-10-21] AND SRC:MED",
+    "searchedAt": "2026-10-21",
+    "hitCount": 23,
+    "retrieved": 23,
+    "note": "Ranked discovery sample; inclusion requires editorial review. This is not an exhaustive systematic search."
+  },
+  {
+    "name": "language-molecular",
+    "database": "Europe PMC / MED",
+    "query": "((TITLE_ABS:meditation OR TITLE_ABS:mindfulness OR TITLE_ABS:mantra* OR TITLE_ABS:psychotherapy OR TITLE_ABS:\"cognitive behavioral therapy\" OR TITLE_ABS:\"narrative exposure\") AND (TITLE_ABS:methylation OR TITLE_ABS:\"gene expression\" OR TITLE_ABS:transcriptom* OR TITLE_ABS:epigen*)) AND FIRST_PDATE:[2022-01-01 TO 2026-10-21] AND SRC:MED",
+    "searchedAt": "2026-10-21",
+    "hitCount": 145,
+    "retrieved": 100,
+    "note": "Ranked discovery sample; inclusion requires editorial review. This is not an exhaustive systematic search."
+  },
+  {
+    "name": "vision-clinical",
+    "database": "Europe PMC / MED",
+    "query": "((TITLE:EMDR OR TITLE:\"eye movement desensitization\") AND (TITLE:random* OR TITLE:\"meta-analysis\")) AND FIRST_PDATE:[2022-01-01 TO 2026-10-21] AND SRC:MED",
+    "searchedAt": "2026-10-21",
+    "hitCount": 80,
+    "retrieved": 80,
+    "note": "Ranked discovery sample; inclusion requires editorial review. This is not an exhaustive systematic search."
+  },
+  {
+    "name": "language-mantra",
+    "database": "Europe PMC / MED",
+    "query": "((TITLE:mantra* OR TITLE:\"transcendental meditation\") AND (TITLE:random* OR TITLE:\"meta-analysis\")) AND FIRST_PDATE:[2022-01-01 TO 2026-10-21] AND SRC:MED",
+    "searchedAt": "2026-10-21",
+    "hitCount": 21,
+    "retrieved": 21,
+    "note": "Ranked discovery sample; inclusion requires editorial review. This is not an exhaustive systematic search."
+  },
+  {
+    "name": "sound-clinical",
+    "database": "Europe PMC / MED",
+    "query": "((TITLE:\"music therapy\" OR TITLE:\"binaural beats\") AND (TITLE:random* OR TITLE:\"meta-analysis\")) AND FIRST_PDATE:[2022-01-01 TO 2026-10-21] AND SRC:MED",
+    "searchedAt": "2026-10-21",
+    "hitCount": 247,
+    "retrieved": 100,
+    "note": "Ranked discovery sample; inclusion requires editorial review. This is not an exhaustive systematic search."
+  },
+  {
+    "name": "vision-targets",
+    "database": "Europe PMC / MED",
+    "query": "(TITLE_ABS:retina* OR TITLE_ABS:ocular OR TITLE_ABS:\"visual stimulation\" OR TITLE_ABS:\"light exposure\" OR TITLE_ABS:photobiomodulation) AND (TITLE_ABS:OXTR OR TITLE_ABS:oxytocin OR TITLE_ABS:DRD2 OR TITLE_ABS:SLC6A4 OR TITLE_ABS:NR3C1 OR TITLE_ABS:DOCK2 OR TITLE_ABS:IL6 OR TITLE_ABS:\"IL-6\" OR TITLE_ABS:NOS1 OR TITLE_ABS:NOS3 OR TITLE_ABS:CD38 OR TITLE_ABS:COL1A1 OR TITLE_ABS:telomerase OR TITLE_ABS:TERRA OR TITLE_ABS:NMDA OR TITLE_ABS:\"NAD+\") AND (TITLE_ABS:expression OR TITLE_ABS:transcript* OR TITLE_ABS:methylation) AND FIRST_PDATE:[2022-01-01 TO 2026-10-21] AND SRC:MED",
+    "searchedAt": "2026-10-21",
+    "hitCount": 755,
+    "retrieved": 755
+  },
+  {
+    "name": "vision-light-transcriptomics",
+    "database": "Europe PMC / MED",
+    "query": "(TITLE_ABS:\"visual experience\" OR TITLE_ABS:\"light exposure\" OR TITLE_ABS:photobiomodulation OR TITLE_ABS:\"visual stimulation\") AND (TITLE_ABS:transcriptom* OR TITLE_ABS:\"gene expression\") AND FIRST_PDATE:[2022-01-01 TO 2026-10-21] AND SRC:MED",
+    "searchedAt": "2026-10-21",
+    "hitCount": 351,
+    "retrieved": 351
+  },
+  {
+    "name": "vision-foundations",
+    "database": "Europe PMC / MED",
+    "query": "(PMCID:PMC4554231 OR PMCID:PMC9490981 OR PMCID:PMC5554455 OR PMCID:PMC10561173 OR PMCID:PMC7846278 OR DOI:\"10.1038/s41586-024-07132-6\" OR DOI:\"10.1038/s41421-024-00701-z\" OR DOI:\"10.1007/s40123-022-00640-6\" OR EXT_ID:38227442 OR EXT_ID:38359658 OR EXT_ID:37882058 OR EXT_ID:38835548) AND SRC:MED",
+    "searchedAt": "2026-10-21",
+    "hitCount": 12,
+    "retrieved": 12
+  }
+]

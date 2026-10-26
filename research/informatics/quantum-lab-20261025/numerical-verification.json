@@ -1,0 +1,283 @@
+{
+  "independent": "SciPy DOP853, rtol=1e-11, atol=1e-13",
+  "cases": 25,
+  "tolerance": 1e-7,
+  "maxDifference": 2.588711467410576e-9,
+  "results": [
+    {
+      "spec": {
+        "distance_um": 5.7,
+        "duration_us": 4,
+        "omega_rad_us": 6.3,
+        "detuning_rad_us": 31.5
+      },
+      "difference": 2.788810848919354e-13,
+      "convergence": 4.471638337388839e-12,
+      "normError": 2.1882495815361835e-13
+    },
+    {
+      "spec": {
+        "distance_um": 4.5,
+        "duration_us": 2,
+        "omega_rad_us": 1,
+        "detuning_rad_us": 10
+      },
+      "difference": 1.0824674490095276e-15,
+      "convergence": 4.440892098500626e-15,
+      "normError": 2.1094237467877974e-15
+    },
+    {
+      "spec": {
+        "distance_um": 4.5,
+        "duration_us": 2,
+        "omega_rad_us": 1,
+        "detuning_rad_us": 50
+      },
+      "difference": 9.769962616701378e-15,
+      "convergence": 1.1812772982011666e-13,
+      "normError": 6.8833827526759706e-15
+    },
+    {
+      "spec": {
+        "distance_um": 4.5,
+        "duration_us": 2,
+        "omega_rad_us": 10,
+        "detuning_rad_us": 10
+      },
+      "difference": 1.3435799529517671e-13,
+      "convergence": 2.18245612800383e-12,
+      "normError": 1.6653345369377348e-14
+    },
+    {
+      "spec": {
+        "distance_um": 4.5,
+        "duration_us": 2,
+        "omega_rad_us": 10,
+        "detuning_rad_us": 50
+      },
+      "difference": 2.786659791809143e-14,
+      "convergence": 4.292635441580904e-13,
+      "normError": 1.3766765505351941e-14
+    },
+    {
+      "spec": {
+        "distance_um": 4.5,
+        "duration_us": 6,
+        "omega_rad_us": 1,
+        "detuning_rad_us": 10
+      },
+      "difference": 1.3433698597964394e-14,
+      "convergence": 1.149080830487037e-14,
+      "normError": 2.6645352591003757e-14
+    },
+    {
+      "spec": {
+        "distance_um": 4.5,
+        "duration_us": 6,
+        "omega_rad_us": 1,
+        "detuning_rad_us": 50
+      },
+      "difference": 4.3576253716537394e-15,
+      "convergence": 4.618527782440651e-14,
+      "normError": 4.6629367034256575e-15
+    },
+    {
+      "spec": {
+        "distance_um": 4.5,
+        "duration_us": 6,
+        "omega_rad_us": 10,
+        "detuning_rad_us": 10
+      },
+      "difference": 7.865930129469234e-14,
+      "convergence": 1.241758315578484e-12,
+      "normError": 1.1324274851176597e-14
+    },
+    {
+      "spec": {
+        "distance_um": 4.5,
+        "duration_us": 6,
+        "omega_rad_us": 10,
+        "detuning_rad_us": 50
+      },
+      "difference": 2.5986875795253164e-14,
+      "convergence": 9.594224554040325e-13,
+      "normError": 3.552713678800501e-15
+    },
+    {
+      "spec": {
+        "distance_um": 6.8,
+        "duration_us": 2,
+        "omega_rad_us": 1,
+        "detuning_rad_us": 10
+      },
+      "difference": 3.5138558729386205e-13,
+      "convergence": 5.24602583595879e-12,
+      "normError": 7.771561172376096e-15
+    },
+    {
+      "spec": {
+        "distance_um": 6.8,
+        "duration_us": 2,
+        "omega_rad_us": 1,
+        "detuning_rad_us": 50
+      },
+      "difference": 3.742783860616328e-12,
+      "convergence": 5.5627613626541006e-11,
+      "normError": 5.478950626525148e-13
+    },
+    {
+      "spec": {
+        "distance_um": 6.8,
+        "duration_us": 2,
+        "omega_rad_us": 10,
+        "detuning_rad_us": 10
+      },
+      "difference": 2.135925342844347e-10,
+      "convergence": 3.237947195089408e-9,
+      "normError": 4.2743586448068527e-13
+    },
+    {
+      "spec": {
+        "distance_um": 6.8,
+        "duration_us": 2,
+        "omega_rad_us": 10,
+        "detuning_rad_us": 50
+      },
+      "difference": 8.298717268928613e-11,
+      "convergence": 1.2131923243785536e-9,
+      "normError": 9.903744491168709e-12
+    },
+    {
+      "spec": {
+        "distance_um": 6.8,
+        "duration_us": 6,
+        "omega_rad_us": 1,
+        "detuning_rad_us": 10
+      },
+      "difference": 5.166422845093166e-13,
+      "convergence": 7.75191022484023e-12,
+      "normError": 4.951594689828198e-14
+    },
+    {
+      "spec": {
+        "distance_um": 6.8,
+        "duration_us": 6,
+        "omega_rad_us": 1,
+        "detuning_rad_us": 50
+      },
+      "difference": 1.8923751454735793e-12,
+      "convergence": 6.60543425512472e-11,
+      "normError": 5.086930876530005e-12
+    },
+    {
+      "spec": {
+        "distance_um": 6.8,
+        "duration_us": 6,
+        "omega_rad_us": 10,
+        "detuning_rad_us": 10
+      },
+      "difference": 4.924284564096146e-11,
+      "convergence": 7.621461441012327e-10,
+      "normError": 5.477840403500522e-13
+    },
+    {
+      "spec": {
+        "distance_um": 6.8,
+        "duration_us": 6,
+        "omega_rad_us": 10,
+        "detuning_rad_us": 50
+      },
+      "difference": 6.218581205530427e-12,
+      "convergence": 2.98679248000866e-10,
+      "normError": 2.9688251856896386e-11
+    },
+    {
+      "spec": {
+        "distance_um": 9,
+        "duration_us": 2,
+        "omega_rad_us": 1,
+        "detuning_rad_us": 10
+      },
+      "difference": 1.465327859051513e-11,
+      "convergence": 2.2374979646855309e-10,
+      "normError": 4.585221091701897e-13
+    },
+    {
+      "spec": {
+        "distance_um": 9,
+        "duration_us": 2,
+        "omega_rad_us": 1,
+        "detuning_rad_us": 50
+      },
+      "difference": 1.3572313412035797e-11,
+      "convergence": 2.2500885876741705e-10,
+      "normError": 6.679212738447404e-12
+    },
+    {
+      "spec": {
+        "distance_um": 9,
+        "duration_us": 2,
+        "omega_rad_us": 10,
+        "detuning_rad_us": 10
+      },
+      "difference": 3.785287083779565e-10,
+      "convergence": 5.842175576642461e-9,
+      "normError": 9.302114634124337e-12
+    },
+    {
+      "spec": {
+        "distance_um": 9,
+        "duration_us": 2,
+        "omega_rad_us": 10,
+        "detuning_rad_us": 50
+      },
+      "difference": 1.0633377511837239e-9,
+      "convergence": 2.966009338134512e-8,
+      "normError": 8.594638334358251e-10
+    },
+    {
+      "spec": {
+        "distance_um": 9,
+        "duration_us": 6,
+        "omega_rad_us": 1,
+        "detuning_rad_us": 10
+      },
+      "difference": 2.360611706109239e-11,
+      "convergence": 3.5515884677650433e-10,
+      "normError": 4.1313619192351325e-12
+    },
+    {
+      "spec": {
+        "distance_um": 9,
+        "duration_us": 6,
+        "omega_rad_us": 1,
+        "detuning_rad_us": 50
+      },
+      "difference": 1.6224403071030125e-10,
+      "convergence": 5.150399939868322e-9,
+      "normError": 1.906942381779686e-10
+    },
+    {
+      "spec": {
+        "distance_um": 9,
+        "duration_us": 6,
+        "omega_rad_us": 10,
+        "detuning_rad_us": 10
+      },
+      "difference": 1.2469126287051324e-9,
+      "convergence": 1.9184867638966097e-8,
+      "normError": 2.5660584768161243e-11
+    },
+    {
+      "spec": {
+        "distance_um": 9,
+        "duration_us": 6,
+        "omega_rad_us": 10,
+        "detuning_rad_us": 50
+      },
+      "difference": 2.588711467410576e-9,
+      "convergence": 8.190387190687431e-8,
+      "normError": 2.6531336017043827e-9
+    }
+  ]
+}

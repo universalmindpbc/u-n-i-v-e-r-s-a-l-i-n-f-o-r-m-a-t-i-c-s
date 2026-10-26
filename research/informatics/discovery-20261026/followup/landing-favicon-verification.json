@@ -1,0 +1,92 @@
+{
+  "checkedAt": "2026-10-26T00:08:25.003Z",
+  "processAudioDisabled": true,
+  "layouts": [
+    {
+      "width": 1470,
+      "height": 1000,
+      "bottomLeft": true,
+      "uncovered": true,
+      "box": {
+        "x": 14,
+        "y": 964,
+        "width": 96.046875,
+        "height": 26
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "bottomLeft": true,
+      "uncovered": true,
+      "box": {
+        "x": 14,
+        "y": 808,
+        "width": 96.046875,
+        "height": 26
+      }
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "bottomLeft": true,
+      "uncovered": true,
+      "box": {
+        "x": 14,
+        "y": 808,
+        "width": 96.046875,
+        "height": 26
+      }
+    }
+  ],
+  "favicons": [
+    {
+      "path": "read/",
+      "href": "/vogue/iam/favicon.png",
+      "verifiedImageSHA256": "d7b0c8c14b00152e1be5a74c0d51dd9e31ea33fb6c0b0dbc5febc6f903aaa89d"
+    },
+    {
+      "path": "read/provenance.html",
+      "href": "/vogue/iam/favicon.png",
+      "verifiedImageSHA256": "d7b0c8c14b00152e1be5a74c0d51dd9e31ea33fb6c0b0dbc5febc6f903aaa89d"
+    },
+    {
+      "path": "read/publications/index.html",
+      "href": "/vogue/iam/favicon.png",
+      "verifiedImageSHA256": "d7b0c8c14b00152e1be5a74c0d51dd9e31ea33fb6c0b0dbc5febc6f903aaa89d"
+    },
+    {
+      "path": "read/atlas/m9.html",
+      "href": "/vogue/iam/favicon.png",
+      "verifiedImageSHA256": "d7b0c8c14b00152e1be5a74c0d51dd9e31ea33fb6c0b0dbc5febc6f903aaa89d"
+    },
+    {
+      "path": "read/experiments/index.html",
+      "href": "/vogue/iam/favicon.png",
+      "verifiedImageSHA256": "d7b0c8c14b00152e1be5a74c0d51dd9e31ea33fb6c0b0dbc5febc6f903aaa89d"
+    }
+  ],
+  "assets": [
+    {
+      "path": "index.html",
+      "matches": true
+    },
+    {
+      "path": "style.css",
+      "matches": true
+    },
+    {
+      "path": "read/index.html",
+      "matches": true
+    },
+    {
+      "path": "read/provenance.html",
+      "matches": true
+    }
+  ],
+  "wikiLinkWorks": true,
+  "linkPresentWithoutJavaScript": true,
+  "sitemapIncludesReadingPages": true,
+  "llmsGuideLinksReadingRoom": true,
+  "passed": true
+}

@@ -1,0 +1,237 @@
+{
+  "verifiedAt": "2026-10-23T20:30:36.368803+00:00",
+  "environment": "staging",
+  "url": "https://staging.universalmind.tv/informatics/",
+  "sourceCommit": "d0f6dfb53292cf134efea1ef95d4d690f0f0c6b4",
+  "frontendSourceCommit": "c4de482b00208fbdfb14f30c8e74afc8f30607c0",
+  "productionBase": "d82c7ae080a5236cd1029bd9605d7b4e3988feb4",
+  "productionModified": false,
+  "workerVersion": "eff8c354-737c-419a-89e3-1e70b7cb77c9",
+  "checks": {
+    "syntaxAndDiff": "passed",
+    "panthurPreflights": "passed",
+    "audioMixLifecycle": "passed",
+    "liveLifecycle": "passed",
+    "visibilityAndPermissionLifecycle": "passed",
+    "initialLiveFlow": [
+      {
+        "generalText": "UNIVERSAL ONE\nMolecular docking is a computational method that predicts how a molecule, such as a drug candidate, fits into and interacts with a target, usually a protein. It explores possible binding positions and orientations and scores them to estimate favorable interactions, helping guide experiments rather than proving that binding occurs.\nRead aloud"
+      },
+      {
+        "textAstra": true,
+        "answer": "UNIVERSAL ONE\nThe index contains 811 unique publications and 149 permitted full-text articles. Collection counts overlap, so adding them does not give the unique publication total.\nRead aloud"
+      },
+      {
+        "dictation": "How many publications are in the research library?",
+        "microphoneWaveform": true
+      },
+      {
+        "liveSpeechAutomatic": true,
+        "transcript": "YouHow many unique publications and permitted full-text articles are indexed?Universal OneThe index contains 811 unique publications and 149 permitted full-text articles. Collection counts overlap, so adding them does not give the unique publication total.Read aloudUniversal OneNamaste. What research question can I help you with?YouHow many publications are in the research library?Universal OneLet me check the library\u2019s current index so I can give you the exact count.Universal OneThere are 811 unique publications in the current research library index. There are also 149 permitted full-text articles, but those don\u2019t all overlap with the full set, so you can\u2019t add them together to get a bigger total.",
+        "realRemoteAudioDecoded": true,
+        "duckedVolume": 0.12
+      },
+      {
+        "liveCitedAnswer": "UNIVERSAL ONE\nThe Atlas record Fibonacci M9P24 reports the Pisano period for modulus 9 as 24. It notes the residue cycle repeats with that length, and it also mentions a display convention where residue zero may appear as 9 in the interface.\n2 sources",
+        "optionalTranscript": true
+      },
+      {
+        "directVoiceKnowledge": "UNIVERSAL ONE\nMolecular docking is a computational method that predicts how two molecules, often a small ligand and a protein, fit together in three-dimensional space. It estimates the preferred binding pose and how strong the interaction might be, helping guide experiments and early-stage design.",
+        "noResearchRoundTrip": true,
+        "noPreviousCitationsAttached": true
+      },
+      {
+        "visibilityReturnWithoutReconnect": true,
+        "explicitMutePreserved": true
+      },
+      {
+        "textReturn": true,
+        "restoredVolume": 0.8,
+        "microphoneClosed": true
+      }
+    ],
+    "finalVoiceRouting": [
+      {
+        "exactInventory": "Universal OneThere are 811 unique publications indexed, and 149 of those have permitted full-text articles. The full-text set is a subset of the publications, not an additional set."
+      },
+      {
+        "generalKnowledge": "Universal OneMolecular docking is a computational method that predicts how two molecules, often a small ligand and a protein, might fit together. It estimates the binding pose and relative affinity to help screen candidates and generate hypotheses for experiments.",
+        "noRetrieval": true
+      }
+    ],
+    "navigationAndLayout": [
+      {
+        "width": 1470,
+        "themes": 3,
+        "textPanelFits": true
+      },
+      {
+        "width": 1024,
+        "themes": 3,
+        "textPanelFits": true
+      },
+      {
+        "width": 390,
+        "themes": 3,
+        "textPanelFits": true
+      },
+      {
+        "width": 320,
+        "themes": 3,
+        "textPanelFits": true
+      },
+      {
+        "voiceAcrossResearchLightbox": true,
+        "singlePlanet": true,
+        "sharedSession": true,
+        "fullscreenSubtree": true
+      },
+      {
+        "width": 1470,
+        "voiceDockFits": true,
+        "iconMenuKeyboard": true
+      },
+      {
+        "width": 1024,
+        "voiceDockFits": true,
+        "iconMenuKeyboard": true
+      },
+      {
+        "width": 390,
+        "voiceDockFits": true,
+        "iconMenuKeyboard": true
+      },
+      {
+        "width": 320,
+        "voiceDockFits": true,
+        "iconMenuKeyboard": true
+      },
+      {
+        "latePermissionCancelled": true
+      }
+    ],
+    "processAudioDisabled": true,
+    "nativeFullscreenInvoked": false,
+    "automatedMediaClosed": true,
+    "visualReview": "Desktop compact planet and 320px placement inspected; no character, responsive icon controls and single-line rollover.",
+    "errors": []
+  },
+  "apiResponses": [
+    {
+      "url": "https://informatics-universal-one-staging.universalmind.workers.dev/research",
+      "status": 200
+    },
+    {
+      "url": "https://informatics-universal-one-staging.universalmind.workers.dev/research",
+      "status": 200
+    },
+    {
+      "url": "https://informatics-universal-one-staging.universalmind.workers.dev/transcribe",
+      "status": 200
+    },
+    {
+      "url": "https://informatics-universal-one-staging.universalmind.workers.dev/voice-session",
+      "status": 200
+    },
+    {
+      "url": "https://api.openai.com/v1/realtime/calls",
+      "status": 201
+    },
+    {
+      "url": "https://informatics-universal-one-staging.universalmind.workers.dev/research",
+      "status": 200
+    },
+    {
+      "url": "https://informatics-universal-one-staging.universalmind.workers.dev/research",
+      "status": 200
+    },
+    {
+      "url": "https://informatics-universal-one-staging.universalmind.workers.dev/voice-session",
+      "status": 200
+    },
+    {
+      "url": "https://api.openai.com/v1/realtime/calls",
+      "status": 201
+    },
+    {
+      "url": "https://informatics-universal-one-staging.universalmind.workers.dev/research",
+      "status": 200
+    }
+  ],
+  "realtimeEvents": {
+    "session.created": 1,
+    "conversation.item.added": 15,
+    "conversation.item.done": 15,
+    "response.created": 6,
+    "response.output_item.added": 8,
+    "response.content_part.added": 6,
+    "response.output_audio_transcript.delta": 194,
+    "output_audio_buffer.started": 6,
+    "response.output_audio.done": 6,
+    "response.output_audio_transcript.done": 6,
+    "response.content_part.done": 6,
+    "response.output_item.done": 8,
+    "response.done": 6,
+    "rate_limits.updated": 6,
+    "output_audio_buffer.stopped": 6,
+    "input_audio_buffer.speech_started": 1,
+    "input_audio_buffer.speech_stopped": 1,
+    "input_audio_buffer.committed": 1,
+    "conversation.item.input_audio_transcription.delta": 9,
+    "conversation.item.input_audio_transcription.completed": 1,
+    "response.function_call_arguments.delta": 77,
+    "response.function_call_arguments.done": 2
+  },
+  "assetHashes": {
+    "staging": [
+      {
+        "file": "Informatics/index.html",
+        "sha256": "188d0fa3ff79c1d62e2a8711c53e20f17626fbc0439d92a5bc72a5852bb1e427"
+      },
+      {
+        "file": "Informatics/library.html",
+        "sha256": "60cf860479a5ef3d9e4fc4ce3ea76df378fb7bf4f2527121ad41b9027f9f4e15"
+      },
+      {
+        "file": "Informatics/universal-one.js",
+        "sha256": "f787c1760520d18236c5ad4b95e3224de2c710916acf5d75408f7ea600531d1a"
+      },
+      {
+        "file": "Informatics/universal-one.css",
+        "sha256": "ccb55ac36dec3dc000b8658eec7f1ce0635e895beaf9aa83f1ecf019fd8e1728"
+      },
+      {
+        "file": "Informatics/universal-one-live.js",
+        "sha256": "b88c650efc36e875f172748e9836852dba8391607ce700067adbaa5390c894bd"
+      },
+      {
+        "file": "Informatics/universal-one-audio.js",
+        "sha256": "38bae647336cc4d8543d2cf37802ef237238bc2ebadf64c96622cec519b6ca79"
+      },
+      {
+        "file": "Informatics/universal-one-waveform.js",
+        "sha256": "60d7ffcb8b649e8aa78112e4c29b8f9d2597eaf4ee8be9190e0dc9d3a8c8f57f"
+      }
+    ],
+    "production": [
+      {
+        "file": "Informatics/index.html",
+        "sha256": "66b2b09f0d92277b6f8e83b5330a34f7d9f8ecd7a08b378a59c415bd011addb7"
+      },
+      {
+        "file": "Informatics/library.html",
+        "sha256": "ab0f579a019181a619d41e71267b560c8b7bc1cb1d398c87fb619bafb7bdd858"
+      }
+    ]
+  },
+  "limitations": [
+    "Native Safari fullscreen and its permission prompt were not exercised. The tests simulate page visibility and fullscreen subtree containment without invoking native fullscreen.",
+    "The initial spoken count reply added an inaccurate overlap qualification. The final API prompt and tool metadata explicitly identify full-text articles as a subset; the focused final voice check returned the correct relationship.",
+    "Silent QA verifies decoding, input, routing and mix values; it does not assess subjective voice quality."
+  ],
+  "notes": [
+    "Five frontend files uploaded through Panthur; final source reconciliation required zero additional frontend uploads.",
+    "Seven staging asset hashes matched local committed files. Two production pages matched origin/main.",
+    "No Atlas geometry source files were edited."
+  ]
+}

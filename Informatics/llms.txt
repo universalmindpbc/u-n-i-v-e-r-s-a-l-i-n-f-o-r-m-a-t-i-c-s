@@ -1,0 +1,30 @@
+# Universal Informatics
+
+Bioinformatics platform for mental health. Investigating potential relationships between the Fibonacci sequence and OXTR gene expression.
+
+OXTR encodes the oxytocin receptor. [Gene reference](https://www.ncbi.nlm.nih.gov/gene/5021).
+
+Research hypotheses remain distinct from mathematical verification and biological evidence.
+
+## Initial focus · Computer vision for genomics
+
+Inspired by research into how geometric architectures and Fibonacci-ordered dynamics can protect quantum information, we are investigating whether geometry derived from Fibonacci Pisano periods can improve the computational efficiency of hyperspectral image analysis for genomics.
+
+Our proposed approach explores equilateral triangular meshes and tetrahedral models, comparing computational cost, processing speed and accuracy against established methods.
+
+## Research library
+
+An extensive, clinically searchable research index spanning sound and auditory entrainment, EMDR, mindfulness-based stress reduction and mantra. Explore more than 800 publications by intervention, clinical condition, gene expression, molecular target, study design and journal, with transparent topic-level trust ratings.
+
+## Read without a connector
+
+- [Research and evidence](https://universalmind.tv/informatics/read/): Plain HTML overview.
+- [Publications](https://universalmind.tv/informatics/read/publications/index.html): 891 approved records, citations, summaries, limitations and topic assessment context.
+- [Geometry Atlas](https://universalmind.tv/informatics/read/atlas/index.html): 1,001 records with complete JSON and CSV links.
+- [Experiments](https://universalmind.tv/informatics/read/experiments/index.html): Versioned measurements, methods and limitations.
+- [Data and methods](https://universalmind.tv/informatics/read/data.html): Full source inventory and checksums.
+- [Archive record](https://universalmind.tv/informatics/read/provenance.html): Verified storage and timestamp status.
+- [AI access and reuse](https://universalmind.tv/informatics/read/access.html): All LLM providers may read and train on Universal Mind-owned public Informatics material. Third-party rights remain attached to original material.
+- [Connect and download](https://universalmind.tv/informatics/connect.html): Optional API, MCP, A2A and complete JSON/CSV exports.
+
+Staging is excluded. No public GitHub repository is asserted until a public source release exists.

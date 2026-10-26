@@ -1,0 +1,100 @@
+{
+  "passed": true,
+  "verifiedAt": "2026-10-25T00:23:55.586Z",
+  "source_commit": "93e41ecd",
+  "worker_version": "598ef686-d25c-46e7-9f94-159e5313d306",
+  "changed_assets": 9,
+  "approved_assets_preserved": 6,
+  "assets": [
+    {
+      "path": "Informatics/index.html",
+      "sha256": "d81e47fa92a80a3f9bce558e5a0b7551ebb35f3f24e73fe3786608c7f5465fb9",
+      "http": 200,
+      "signed_off": false
+    },
+    {
+      "path": "Informatics/quantum/biology.css",
+      "sha256": "a0a09ad5b28e042785eb05f3edc1ea76dc0668c7e5dc8c687ade154475c0223f",
+      "http": 200,
+      "signed_off": false
+    },
+    {
+      "path": "Informatics/quantum/biology.js",
+      "sha256": "08c32b9905a3ce561e3ccfab183b392f411e32221f44410975732ebd273f5716",
+      "http": 200,
+      "signed_off": false
+    },
+    {
+      "path": "Informatics/quantum/data/oxtr-qrc-protocol.md",
+      "sha256": "b1e8b93d61d1b7d634cb53d5f230e90791a0cab7c40a186a4795c3738789bd43",
+      "http": 200,
+      "signed_off": false
+    },
+    {
+      "path": "Informatics/quantum/data/oxtr-qrc-state.json",
+      "sha256": "6b18ca5f4b31d6b6f3e571f6e43a9bd08c8c958c299a7e1155a84cd57ea7855c",
+      "http": 200,
+      "signed_off": false
+    },
+    {
+      "path": "Informatics/quantum/data/oxtr-qrc-study.json",
+      "sha256": "b53a393be9d66ebb9ff03e548b7f82f1fdce248043e14ff14279676b4009494a",
+      "http": 200,
+      "signed_off": false
+    },
+    {
+      "path": "Informatics/quantum/index.html",
+      "sha256": "c52b387b0887eed48b17c07ed6ac849b0089a20b14945e01e1e49ac62ff567c3",
+      "http": 200,
+      "signed_off": false
+    },
+    {
+      "path": "Informatics/quantum/result-contract.js",
+      "sha256": "ee362d68b568205d0f114ca3aaf65b61715ba42a3181073459eb2195ad74f900",
+      "http": 200,
+      "signed_off": false
+    },
+    {
+      "path": "Informatics/quantum/study.js",
+      "sha256": "48e589bdc8f05a3aef672096e21359b928828cdd65f10eff507f216745438eb4",
+      "http": 200,
+      "signed_off": false
+    },
+    {
+      "path": "Informatics/science.css",
+      "sha256": "3b1dc08557873620e70bbce2ad13d4f9526971fcefaeb7e49e3b8216b1f7808f",
+      "http": 200,
+      "signed_off": true
+    },
+    {
+      "path": "Informatics/science.js",
+      "sha256": "3844b867a860e26cb0bc3113470759d4c49eee886f2d6591376dbf78516b3945",
+      "http": 200,
+      "signed_off": true
+    },
+    {
+      "path": "Informatics/tfbs-geometry.js",
+      "sha256": "8ee3b7eb0dc5f7c60c44c5b01bed9f7b49371b1f34b5a512eae7dda082161e5d",
+      "http": 200,
+      "signed_off": true
+    },
+    {
+      "path": "Informatics/shared-experience.css",
+      "sha256": "c01069c6af3910971cf562666e86c6c2f7eb31074410656ef337808c20070b3c",
+      "http": 200,
+      "signed_off": true
+    },
+    {
+      "path": "Informatics/global-navigation.js",
+      "sha256": "a08ff7aea8557d4eef355941e5d4735107a828fbaeb272b2ba1c5e9b66d81b27",
+      "http": 200,
+      "signed_off": true
+    },
+    {
+      "path": "Informatics/app.js",
+      "sha256": "43220af01742e7fc1c3efa76a29201908754d8b2bb813bdacc244c82592a0526",
+      "http": 200,
+      "signed_off": true
+    }
+  ]
+}

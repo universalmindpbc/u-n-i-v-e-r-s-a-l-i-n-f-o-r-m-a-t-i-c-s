@@ -1,0 +1,14 @@
+{
+  "status": "verified_on_production",
+  "verified_at_utc": "2026-10-18T06:32:49.265415+00:00",
+  "approved_staging_commit": "53971ce9253220cb3b2a51cd369f80027c49e4b0",
+  "production_url": "https://universalmind.tv/informatics/?atlas=1&record=m-summary",
+  "production_tag": "production-2026-10-18-1732",
+  "records": 1001,
+  "m9_family": 111,
+  "record_and_download_files_hash_matched": 1013,
+  "image_urls_verified": 8938,
+  "export_sample_images_recreated_exactly": 40,
+  "desktop_and_mobile_passed": true,
+  "additional_complete_csv_export": "Separate staging change; not included in this approved production release."
+}

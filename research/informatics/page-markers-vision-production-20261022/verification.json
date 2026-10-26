@@ -1,0 +1,112 @@
+{
+  "verifiedAt": "2026-10-21T22:55:40.641991+00:00",
+  "approvedStagingCommit": "9e696eabc90eabf3315ae0dae9b15adfa015a235",
+  "websiteSourceCommit": "2a5320499a2a12d4bc28d68a0832d768899a77ad",
+  "productionParentBeforeRelease": "f23882900a9c1ca440dde32eb344089b964b5817",
+  "releaseTag": "production-2026-10-22-0955",
+  "explicitProductionAuthorization": "Okay, that's good to push to production. Thanks and namaste.",
+  "deployment": {
+    "command": "./deploy-panthurlive.sh informatics",
+    "uploads": 8,
+    "successfulExit": true
+  },
+  "sourceMatchesApprovedStaging": true,
+  "proofUrls": [
+    "https://universalmind.tv/informatics/?area=vision",
+    "https://universalmind.tv/informatics/?area=geometry"
+  ],
+  "browser": {
+    "passed": true,
+    "live": true,
+    "processMuted": true,
+    "nativeFullscreen": false,
+    "results": [
+      {
+        "viewport": {
+          "width": 1470,
+          "height": 956
+        },
+        "allNineGlobalDestinationsLabelled": true,
+        "geometryMarkerAboveSequence": true,
+        "transcriptionMarkerAboveRegulation": true,
+        "comparisonSideBySide": true,
+        "comparisonBottom": 792.15625,
+        "aboveFold": true,
+        "bilateralGreenDot": true,
+        "animatedHorizontalMovement": true,
+        "pauseAndReducedMotion": true,
+        "noAnimationInHiddenSection": true,
+        "noPageErrors": true
+      },
+      {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "allNineGlobalDestinationsLabelled": true,
+        "geometryMarkerAboveSequence": true,
+        "transcriptionMarkerAboveRegulation": true,
+        "comparisonSideBySide": true,
+        "comparisonBottom": 724.46875,
+        "aboveFold": true,
+        "bilateralGreenDot": true,
+        "animatedHorizontalMovement": true,
+        "pauseAndReducedMotion": true,
+        "noAnimationInHiddenSection": true,
+        "noPageErrors": true
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "allNineGlobalDestinationsLabelled": true,
+        "geometryMarkerAboveSequence": true,
+        "transcriptionMarkerAboveRegulation": true,
+        "comparisonSideBySide": true,
+        "comparisonBottom": 692.625,
+        "aboveFold": true,
+        "bilateralGreenDot": true,
+        "animatedHorizontalMovement": true,
+        "pauseAndReducedMotion": true,
+        "noAnimationInHiddenSection": true,
+        "noPageErrors": true
+      },
+      {
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "allNineGlobalDestinationsLabelled": true,
+        "geometryMarkerAboveSequence": true,
+        "transcriptionMarkerAboveRegulation": true,
+        "comparisonSideBySide": true,
+        "comparisonBottom": 729.015625,
+        "aboveFold": true,
+        "bilateralGreenDot": true,
+        "animatedHorizontalMovement": true,
+        "pauseAndReducedMotion": true,
+        "noAnimationInHiddenSection": true,
+        "noPageErrors": true
+      }
+    ]
+  },
+  "httpChecks": "All eight changed files on production and staging match approved source SHA-256 hashes.",
+  "manifestChecks": {
+    ".panthur-deploy-manifest.tsv": {
+      "sha256": "d9dce30e20423187a74bce522d170864b18ee6964d65bc5348121294636c7d82",
+      "informaticsEntries": 11234
+    },
+    ".panthur-staging-deploy-manifest.tsv": {
+      "sha256": "d9dce30e20423187a74bce522d170864b18ee6964d65bc5348121294636c7d82",
+      "informaticsEntries": 11234
+    }
+  },
+  "informaticsManifestEntriesMatch": true,
+  "visualReview": [
+    "Production Vision at 1470x956",
+    "Production Vision at 320x844"
+  ],
+  "browserCleanup": "All automated media paused; browser contexts and muted Chromium process closed.",
+  "websiteSourceChangesAfterApproval": false
+}

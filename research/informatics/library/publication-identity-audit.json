@@ -1,0 +1,2674 @@
+{
+  "summary": {
+    "records": 833,
+    "sourceEntries": 802,
+    "sourcePages": 236,
+    "updatedRecords": 41,
+    "portalNotes": 13,
+    "indexedRecords": 395,
+    "retractedRecords": 0,
+    "collections": {
+      "sound": 465,
+      "vision": 65,
+      "language": 315
+    },
+    "ratings": {
+      "1": 356,
+      "None": 444,
+      "2": 8,
+      "3": 25
+    }
+  },
+  "matched": [
+    {
+      "record": "pmid-28544507",
+      "source": "The Effect of Binaural Beat Technology on the Cardiovascular Stress Response in Military Service Members With Postdeployment Stress",
+      "matchedTitle": "The Effect of Binaural Beat Technology on the Cardiovascular Stress Response in Military Service Members With Postdeployment Stress",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25452734",
+      "source": "Auditory driving of the autonomic nervous system: Listening to theta-frequency binaural beats post-exercise increases parasympathetic activation and sympathetic withdrawal",
+      "matchedTitle": "Auditory driving of the autonomic nervous system: Listening to theta-frequency binaural beats post-exercise increases parasympathetic activation and sympathetic withdrawal",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-29297265",
+      "source": "Short-Term Effects of Binaural Beats on EEG Power, Functional Connectivity, Cognition, Gait and Anxiety in Parkinson’s Disease",
+      "matchedTitle": "Short-Term Effects of Binaural Beats on EEG Power, Functional Connectivity, Cognition, Gait and Anxiety in Parkinson's Disease",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20117669",
+      "source": "Pilot Feasibility Study of Binaural Auditory Beats for Reducing Symptoms of Inattention in Children and Adolescents with Attention-Deficit/Hyperactivity Disorder",
+      "matchedTitle": "Pilot feasibility study of binaural auditory beats for reducing symptoms of inattention in children and adolescents with attention-deficit/hyperactivity disorder",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-16115248",
+      "source": "A prospective, randomised, controlled study examining binaural beat audio and pre‐operative anxiety in patients undergoing general anaesthesia for day case surgery",
+      "matchedTitle": "A prospective, randomised, controlled study examining binaural beat audio and pre-operative anxiety in patients undergoing general anaesthesia for day case surgery",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22171868",
+      "source": "Original sound compositions reduce anxiety in emergency department patients: a randomised controlled trial",
+      "matchedTitle": "Original sound compositions reduce anxiety in emergency department patients: a randomised controlled trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25635925",
+      "source": "Effects of music in combination with vibration in acupuncture points on the treatment of fibromyalgia",
+      "matchedTitle": "Effects of music in combination with vibration in acupuncture points on the treatment of fibromyalgia",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30073406",
+      "source": "Efficacy of binaural auditory beats in cognition, anxiety, and pain perception: a meta-analysis",
+      "matchedTitle": "Efficacy of binaural auditory beats in cognition, anxiety, and pain perception: a meta-analysis",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-98d676644dd46a51",
+      "source": "Cumulative effects of theta binaural beats on brain power and functional connectivity",
+      "matchedTitle": "Cumulative effects of theta binaural beats on brain power and functional connectivity",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-26541421",
+      "source": "Binaural beats increase interhemispheric alpha-band coherence between auditory cortices",
+      "matchedTitle": "Binaural beats increase interhemispheric alpha-band coherence between auditory cortices",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25345689",
+      "source": "Intracranial electroencephalography power and phase synchronization changes during monaural and binaural beat stimulation",
+      "matchedTitle": "Intracranial electroencephalography power and phase synchronization changes during monaural and binaural beat stimulation",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-26612201",
+      "source": "More attentional focusing through binaural beats: evidence from the global–local task",
+      "matchedTitle": "More attentional focusing through binaural beats: evidence from the global-local task",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20453018",
+      "source": "Efficacy of Guided Imagery With Theta Music for Advanced Cancer Patients With Dyspnea: A Pilot Study",
+      "matchedTitle": "Efficacy of guided imagery with theta music for advanced cancer patients with dyspnea: a pilot study",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-17309374",
+      "source": "Binaural Beat Technology in Humans: A Pilot Study To Assess Psychologic and Physiologic Effects",
+      "matchedTitle": "Binaural beat technology in humans: a pilot study to assess psychologic and physiologic effects",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-9423966",
+      "source": "Binaural Auditory Beats Affect Vigilance Performance and Mood",
+      "matchedTitle": "Binaural auditory beats affect vigilance performance and mood",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-11191043",
+      "source": "Use of binaural beat tapes for treatment of anxiety: a pilot study of tape preference and outcomes",
+      "matchedTitle": "Use of binaural beat tapes for treatment of anxiety: a pilot study of tape preference and outcomes",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-17827173",
+      "source": "Cortical Steady-State Responses to Central and Peripheral Auditory Beats",
+      "matchedTitle": "Cortical steady-state responses to central and peripheral auditory beats",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30414050",
+      "source": "Influence of various intensities of 528 Hz sound-wave in production of testosterone in rat’s brain and analysis of behavioral changes",
+      "matchedTitle": "Influence of various intensities of 528 Hz sound-wave in production of testosterone in rat's brain and analysis of behavioral changes",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-33111597",
+      "source": "Inhibition of B16F10 Cancer Cell Growth by Exposure to the Square Wave with 7.83+/-0.3Hz Involves L- and T-Type Calcium Channels",
+      "matchedTitle": "Inhibition of B16F10 Cancer Cell Growth by Exposure to the Square Wave with 7.83+/-0.3Hz Involves L- and T-Type Calcium Channels",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30889982",
+      "source": "Effects of extremely low-frequency electromagnetic fields on B16F10 cancer cells",
+      "matchedTitle": "Effects of extremely low-frequency electromagnetic fields on B16F10 cancer cells",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20640802",
+      "source": "Electromagnetic detection of HIV DNA in the blood of AIDS patients treated by antiretroviral therapy",
+      "matchedTitle": "Electromagnetic detection of HIV DNA in the blood of AIDS patients treated by antiretroviral therapy",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-19696930",
+      "source": "rTMS of the Left Dorsolateral Prefrontal Cortex Modulates Dopamine Release in the Ipsilateral",
+      "matchedTitle": "rTMS of the left dorsolateral prefrontal cortex modulates dopamine release in the ipsilateral anterior cingulate cortex and orbitofrontal cortex",
+      "similarity": 0.783
+    },
+    {
+      "record": "pmid-29170944",
+      "source": "Deep TMS of the insula using the H-coil modulates dopamine release: a crossover [11C] PHNO-PET pilot trial in healthy humans",
+      "matchedTitle": "Deep TMS of the insula using the H-coil modulates dopamine release: a crossover [11C] PHNO-PET pilot trial in healthy humans",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-17478041",
+      "source": "The effects of 10 Hz repetitive transcranial magnetic stimulation on resting EEG power spectrum in healthy subjects",
+      "matchedTitle": "The effects of 10 Hz repetitive transcranial magnetic stimulation on resting EEG power spectrum in healthy subjects",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-31518601",
+      "source": "Simultaneous quantification of dopamine, serotonin, their metabolites and amino acids by LC-MS/MS in mouse brain following repetitive transcranial magnetic stimulation",
+      "matchedTitle": "Simultaneous quantification of dopamine, serotonin, their metabolites and amino acids by LC-MS/MS in mouse brain following repetitive transcranial magnetic stimulation",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20378181",
+      "source": "Effects of 10 Hz repetitive transcranial magnetic stimulation (rTMS) on clinical global impression in chronic schizophrenia",
+      "matchedTitle": "Effects of 10 Hz repetitive transcranial magnetic stimulation (rTMS) on clinical global impression in chronic schizophrenia",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-34050123",
+      "source": "Theta burst stimulation for the acute treatment of major depressive disorder: A systematic review and meta-analysis",
+      "matchedTitle": "Theta burst stimulation for the acute treatment of major depressive disorder: A systematic review and meta-analysis",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-31794974",
+      "source": "One-year clinical outcomes following theta burst stimulation for post-traumatic stress disorder",
+      "matchedTitle": "One-year clinical outcomes following theta burst stimulation for post-traumatic stress disorder",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-f90933f8104c4473",
+      "source": "Fibonacci Harmonics: A New Mathematical Model of Synchronicity",
+      "matchedTitle": "Fibonacci Harmonics: A New Mathematical Model of Synchronicity",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-27000695",
+      "source": "The Fibonacci Life‐Chart Method (FLCM) as a foundation for Carl Jung's theory of synchronicity",
+      "matchedTitle": "The Fibonacci Life-Chart Method (FLCM) as a foundation for Carl Jung's theory of synchronicity",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-21703707",
+      "source": "The human heart: Application of the golden ratio and angle",
+      "matchedTitle": "The human heart: application of the golden ratio and angle",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-27537743",
+      "source": "Golden ratio: A subtle regulator in our body and cardiovascular system?",
+      "matchedTitle": "Golden ratio: A subtle regulator in our body and cardiovascular system?",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-d58d35c3da02db0d",
+      "source": "ECG response to submaximal exercise from the perspective of Golden Ratio harmonic rhythm",
+      "matchedTitle": "ECG response to submaximal exercise from the perspective of Golden Ratio harmonic rhythm",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-6960724",
+      "source": "The biologic significance of the divine proportion and Fibonacci series",
+      "matchedTitle": "The biologic significance of the divine proportion and Fibonacci series",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-15527951",
+      "source": "A new theory of the origin of cancer: quantum coherent entanglement, centrioles, mitosis, and differentiation",
+      "matchedTitle": "A new theory of the origin of cancer: quantum coherent entanglement, centrioles, mitosis, and differentiation",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-eacc70c7fad9d483",
+      "source": "Crystal structure of the human oxytocin receptor",
+      "matchedTitle": "Crystal structure of the human oxytocin receptor",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-8564543",
+      "source": "Crystal structure of the neurophysin—oxytocin complex",
+      "matchedTitle": "Crystal structure of the neurophysin-oxytocin complex",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-33071746",
+      "source": "Oxytocin Receptor Signaling in Vascular Function and Stroke",
+      "matchedTitle": "Oxytocin Receptor Signaling in Vascular Function and Stroke",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-3b972ec7a7bcdcf5",
+      "source": "Occurrence of Fibonacci numbers in development and structure of animal forms: Phylogenetic observations and epigenetic significance",
+      "matchedTitle": "Occurrence of Fibonacci numbers in development and structure of animal forms: Phylogenetic  observations and epigenetic significance",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-7bf02e5844d61a52",
+      "source": "Epigenetics of Self-Organization of Biomolecules",
+      "matchedTitle": "Epigenetics of Self-Organization of Biomolecules",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-19028598",
+      "source": "Two ‘Golden Ratio’ indices in fragment-based drug discovery",
+      "matchedTitle": "Two 'Golden Ratio' indices in fragment-based drug discovery",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20658335",
+      "source": "Codon populations in single-stranded whole human genome DNA Are fractal and fine-tuned by the Golden Ratio 1.618",
+      "matchedTitle": "Codon populations in single-stranded whole human genome DNA Are fractal and fine-tuned by the Golden Ratio 1.618",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20522256",
+      "source": "3D Protein structure prediction with genetic tabu search algorithm",
+      "matchedTitle": "3D protein structure prediction with genetic tabu search algorithm",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-16090010",
+      "source": "Structure optimization by conformational space annealing in an off-lattice protein model",
+      "matchedTitle": "Structure optimization by conformational space annealing in an off-lattice protein model",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-17994268",
+      "source": "Nucleotide Frequencies in Human Genome and Fibonacci Numbers",
+      "matchedTitle": "Nucleotide frequencies in human genome and fibonacci numbers",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-3c3e8910a2e028a3",
+      "source": "Fibonacci-Cayley Numbers and Repetition Patterns in Genomic DNA",
+      "matchedTitle": "Fibonacci-Cayley Numbers and Repetition Patterns in Genomic DNA",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-30011316",
+      "source": "Is the golden ratio a universal constant for self-replication?",
+      "matchedTitle": "Is the golden ratio a universal constant for self-replication?",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-16090010",
+      "source": "Structure optimization by conformational space annealing in an off-lattice protein model",
+      "matchedTitle": "Structure optimization by conformational space annealing in an off-lattice protein model",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-da37f099a9c9d610",
+      "source": "Protein Folding Structure Prediction with Artificial Plant Optimization Algorithm Based Golden Section and Limited Memory Broyden–Fletcher–Goldfarb–Shanno",
+      "matchedTitle": "Protein Folding Structure Prediction with Artificial Plant Optimization Algorithm Based Golden Section and Limited Memory Broyden–Fletcher–Goldfarb–Shanno",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-65da7d68d2d66637",
+      "source": "The Application of Artificial Bee Colony Algorithm in Protein Structure Prediction",
+      "matchedTitle": "The Application of Artificial Bee Colony Algorithm in Protein Structure Prediction",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-a11adba5b1212b6e",
+      "source": "The golden ratio in Schwarzschild–Kottler black holes",
+      "matchedTitle": "The golden ratio in Schwarzschild–Kottler black holes",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-92406f16ff75e99f",
+      "source": "Testing general relativity using golden black-hole binaries",
+      "matchedTitle": "Testing general relativity using golden black-hole binaries",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-30072813",
+      "source": "Golden Ratio Gain Enhancement in Coherently Coupled Parametric Processes",
+      "matchedTitle": "Golden Ratio Gain Enhancement in Coherently Coupled Parametric Processes",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30168311",
+      "source": "Tetrahedral DNA Nanomaterial Regulates the Biological Behaviors of Adipose-Derived Stem Cells via DNA Methylation on Dlg3",
+      "matchedTitle": "Tetrahedral DNA Nanomaterial Regulates the Biological Behaviors of Adipose-Derived Stem Cells via DNA Methylation on Dlg3",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-32613824",
+      "source": "Multifunctional Double-Bundle DNA Tetrahedron for Efficient Regulation of Gene Expression",
+      "matchedTitle": "Multifunctional Double-Bundle DNA Tetrahedron for Efficient Regulation of Gene Expression",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-31050888",
+      "source": "DNA Tetrahedron Based Biosensor for Argonaute2 Assay in Single Cells and Human Immunodeficiency Virus Type-1 Related Ribonuclease H Detection in Vitro",
+      "matchedTitle": "DNA Tetrahedron Based Biosensor for Argonaute2 Assay in Single Cells and Human Immunodeficiency Virus Type-1 Related Ribonuclease H Detection in Vitro",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30896698",
+      "source": "DNA tetrahedron-based nanogels for siRNA delivery and gene silencing",
+      "matchedTitle": "DNA tetrahedron-based nanogels for siRNA delivery and gene silencing",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-85954550b0592771",
+      "source": "Fluorescence Resonance Energy Transfer-Based DNA Tetrahedron Nanotweezer for Highly Reliable Detection of Tumor-Related mRNA in Living Cells",
+      "matchedTitle": "Fluorescence Resonance Energy Transfer-Based DNA Tetrahedron Nanotweezer for Highly Reliable Detection of Tumor-Related mRNA in Living Cells",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-28891335",
+      "source": "Development of DNA tetrahedron-based drug delivery system",
+      "matchedTitle": "Development of DNA tetrahedron-based drug delivery system",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-32110359",
+      "source": "Accurate cancer cell identification and microRNA silencing induced therapy using tailored DNA tetrahedron nanostructures",
+      "matchedTitle": "Accurate cancer cell identification and microRNA silencing induced therapy using tailored DNA tetrahedron nanostructures",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-11472279",
+      "source": "Improved recovery after music and therapeutic suggestions during general anaesthesia: a double‐blind randomised controlled trial",
+      "matchedTitle": "Improved recovery after music and therapeutic suggestions during general anaesthesia: a double-blind randomised controlled trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-18979928",
+      "source": "Intraoperative Music Reduces Perceived Pain After Total Knee Arthroplasty–A Blinded, Prospective, Randomized, Placebo-Controlled Clinical Trial",
+      "matchedTitle": "Intraoperative music reduces perceived pain after total knee arthroplasty: a blinded, prospective, randomized, placebo-controlled clinical trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-11319676",
+      "source": "Treating hypertension with a device that slows and regularises breathing: a randomised, double-blind controlled study",
+      "matchedTitle": "Treating hypertension with a device that slows and regularises breathing: a randomised, double-blind controlled study",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-19673817",
+      "source": "Music Programs Designed to Remedy Burnout Symptoms Show Significant Effects after Five Weeks",
+      "matchedTitle": "Music programs designed to remedy burnout symptoms show significant effects after five weeks",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20492042",
+      "source": "Effects of music intervention on physiological stress response and anxiety level of mechanically ventilated patients in China: a randomised controlled trial",
+      "matchedTitle": "Effects of music intervention on physiological stress response and anxiety level of mechanically ventilated patients in China: a randomised controlled trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-24876768",
+      "source": "Effectiveness of music therapy: a summary of systematic reviews based on randomized controlled trials of music interventions",
+      "matchedTitle": "Effectiveness of music therapy: a summary of systematic reviews based on randomized controlled trials of music interventions",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-1ee8c9dc33b350fa",
+      "source": "Effects of music relaxation video on pain and anxiety for women with gynaecological cancer receiving intracavitary brachytherapy: a randomised controlled trial",
+      "matchedTitle": "Effects of music relaxation video on pain and anxiety for women with gynaecological cancer receiving intracavitary brachytherapy: a randomised controlled trial",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-21716581",
+      "source": "Effects of music listening on cortisol levels and propofol consumption during spinal anesthesia",
+      "matchedTitle": "Effects of Music Listening on Cortisol Levels and Propofol Consumption during Spinal Anesthesia",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-19583647",
+      "source": "Soothing music can increase oxytocin levels during bed rest after open-heart surgery: a randomised control trial",
+      "matchedTitle": "Soothing music can increase oxytocin levels during bed rest after open-heart surgery: a randomised control trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20685168",
+      "source": "Music interventions in patients during coronary angiographic procedures: a randomized controlled study of the effect on patients' anxiety and well-being",
+      "matchedTitle": "Music interventions in patients during coronary angiographic procedures: a randomized controlled study of the effect on patients' anxiety and well-being",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-18005804",
+      "source": "Effects of music on patients undergoing a C-clamp procedure after percutaneous coronary interventions: a randomized controlled trial",
+      "matchedTitle": "Effects of music on patients undergoing a C-clamp procedure after percutaneous coronary interventions: a randomized controlled trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-19673808",
+      "source": "Emotion‐related Changes in Heart Rate and Its Variability during Performance and Perception of Music",
+      "matchedTitle": "Emotion-related changes in heart rate and its variability during performance and perception of music",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-70f1db616203b86f",
+      "source": "Using heart rate variability analysis to assess the effect of music therapy on anxiety reduction of patients",
+      "matchedTitle": "Using heart rate variability analysis to assess the effect of music therapy on anxiety reduction of patients",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-24883104",
+      "source": "Auditory stimulation with music influences the geometric indices of heart rate variability in men",
+      "matchedTitle": "Auditory stimulation with music influences the geometric indices of heart rate variability in men",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-24137142",
+      "source": "Art and science: how musical training shapes the brain",
+      "matchedTitle": "Art and science: how musical training shapes the brain",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-21062776",
+      "source": "The effects of music on the cardiovascular system and cardiovascular health",
+      "matchedTitle": "The effects of music on the cardiovascular system and cardiovascular health",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25324805",
+      "source": "Music and social bonding: “self-other” merging and neurohormonal mechanisms",
+      "matchedTitle": "Music and social bonding: \"self-other\" merging and neurohormonal mechanisms",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-29211795",
+      "source": "Increase in salivary oxytocin and decrease in salivary cortisol after listening to relaxing slow-tempo and exciting fast-tempo music",
+      "matchedTitle": "Increase in salivary oxytocin and decrease in salivary cortisol after listening to relaxing slow-tempo and exciting fast-tempo music",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-14681168",
+      "source": "Music and Learning‐Induced Cortical Plasticity",
+      "matchedTitle": "Music and learning-induced cortical plasticity",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23847555",
+      "source": "Music structure determines heart rate variability of singers",
+      "matchedTitle": "Music structure determines heart rate variability of singers",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-26441614",
+      "source": "The neurochemistry and social flow of singing: bonding and oxytocin",
+      "matchedTitle": "The neurochemistry and social flow of singing: bonding and oxytocin",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-15669447",
+      "source": "Effects of choir singing or listening on secretory immunoglobulin A, cortisol, and emotional state",
+      "matchedTitle": "Effects of choir singing or listening on secretory immunoglobulin A, cortisol, and emotional state",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-21397659",
+      "source": "Tapping polyrhythms in music activates language areas",
+      "matchedTitle": "Tapping polyrhythms in music activates language areas",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25324805",
+      "source": "Music and social bonding: “self-other” merging and neurohormonal mechanisms",
+      "matchedTitle": "Music and social bonding: \"self-other\" merging and neurohormonal mechanisms",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-12455680",
+      "source": "Listening to polyphonic music recruits domain-general attention and working memory circuits",
+      "matchedTitle": "Listening to polyphonic music recruits domain-general attention and working memory circuits",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-e7641c6e0eb6fd54",
+      "source": "Music-dependent memory: The roles of tempo change and mood mediation",
+      "matchedTitle": "Music-dependent memory: The roles of tempo change and mood mediation",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-18710596",
+      "source": "Music, memory and emotion",
+      "matchedTitle": "Music, memory and emotion",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-11472279",
+      "source": "Improved recovery after music and therapeutic suggestions during general anaesthesia: a double‐blind randomised controlled trial",
+      "matchedTitle": "Improved recovery after music and therapeutic suggestions during general anaesthesia: a double-blind randomised controlled trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-11792664",
+      "source": "Baroreflex control of heart rate by oxytocin in the solitary-vagal complex",
+      "matchedTitle": "Baroreflex control of heart rate by oxytocin in the solitary-vagal complex",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-8955924",
+      "source": "Effect of aortic baroreceptor deafferentation on plasma vasopressin and oxytocin in the conscious rat",
+      "matchedTitle": "Effect of aortic baroreceptor deafferentation on plasma vasopressin and oxytocin in the conscious rat",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-27790154",
+      "source": "Ovarian Hormone Deprivation Reduces Oxytocin Expression in Paraventricular Nucleus Preautonomic Neurons and Correlates with Baroreflex Impairment in Rats",
+      "matchedTitle": "Ovarian Hormone Deprivation Reduces Oxytocin Expression in Paraventricular Nucleus Preautonomic Neurons and Correlates with Baroreflex Impairment in Rats",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-2914733",
+      "source": "Baroreceptor influences on oxytocin and vasopressin secretion.",
+      "matchedTitle": "Baroreceptor influences on oxytocin and vasopressin secretion",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-12531722",
+      "source": "Oxytocinergic regulation of cardiovascular function: studies in oxytocin-deficient mice",
+      "matchedTitle": "Oxytocinergic regulation of cardiovascular function: studies in oxytocin-deficient mice",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-6532580",
+      "source": "Differential effects of vasopressin (AVP) and oxytocin (OXT) on the baroreceptor reflex in conscious rats",
+      "matchedTitle": "Differential effects of vasopressin (AVP) and oxytocin (OXT) on the baroreceptor reflex in conscious rats",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-4029259",
+      "source": "The cardiovascular effects of oxytocin in conscious male rats",
+      "matchedTitle": "The cardiovascular effects of oxytocin in conscious male rats",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-3938842",
+      "source": "Dorsal medullary oxytocin, vasopressin, oxytocin antagonist, and TRH effects on gastric acid secretion and heart rate",
+      "matchedTitle": "Dorsal medullary oxytocin, vasopressin, oxytocin antagonist, and TRH effects on gastric acid secretion and heart rate",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-12001882",
+      "source": "Heart Rate Variability Biofeedback as a Method for Assessing Baroreflex Function: A Preliminary Study of Resonance in the Cardiovascular System",
+      "matchedTitle": "Heart rate variability biofeedback as a method for assessing baroreflex function: a preliminary study of resonance in the cardiovascular system",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-11179406",
+      "source": "Baroreflex and oscillation of heart period at 0.1 Hz studied by α ‐blockade and cross‐spectral analysis in healthy humans",
+      "matchedTitle": "Baroreflex and oscillation of heart period at 0.1 Hz studied by alpha-blockade and cross-spectral analysis in healthy humans",
+      "similarity": 0.975
+    },
+    {
+      "record": "pmid-24092689",
+      "source": "Effects of respiratory time ratio on heart rate variability and spontaneous baroreflex sensitivity",
+      "matchedTitle": "Effects of respiratory time ratio on heart rate variability and spontaneous baroreflex sensitivity",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-10829412",
+      "source": "Arterial baroreflex influence on heart rate variability: A mathematical model-based analysis",
+      "matchedTitle": "Arterial baroreflex influence on heart rate variability: a mathematical model-based analysis",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-15951338",
+      "source": "Frequency-dependent baroreflex modulation of blood pressure and heart rate variability in conscious mice",
+      "matchedTitle": "Frequency-dependent baroreflex modulation of blood pressure and heart rate variability in conscious mice",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25324790",
+      "source": "A healthy heart is not a metronome: an integrative review of the heart's anatomy and heart rate variability",
+      "matchedTitle": "A healthy heart is not a metronome: an integrative review of the heart's anatomy and heart rate variability",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22144961",
+      "source": "Heart rate variability – a historical perspective",
+      "matchedTitle": "Heart rate variability - a historical perspective",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-31507444",
+      "source": "Hypothetical Control of Heart Rate Variability",
+      "matchedTitle": "Hypothetical Control of Heart Rate Variability",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-21423358",
+      "source": "Fractals in the nervous system: conceptual implications for theoretical neuroscience",
+      "matchedTitle": "Fractals in the nervous system: conceptual implications for theoretical neuroscience",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-21423355",
+      "source": "Fractal physiology and the fractional calculus: a perspective",
+      "matchedTitle": "Fractal physiology and the fractional calculus: a perspective",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22937145",
+      "source": "Oxytocin Increases Heart Rate Variability in Humans at Rest: Implications for Social Approach-Related Motivation and Capacity for Social Engagement",
+      "matchedTitle": "Oxytocin increases heart rate variability in humans at rest: implications for social approach-related motivation and capacity for social engagement",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-32655132",
+      "source": "Intranasal oxytocin increases heart-rate variability in men at clinical high risk for psychosis: a proof-of-concept study",
+      "matchedTitle": "Intranasal oxytocin increases heart-rate variability in men at clinical high risk for psychosis: a proof-of-concept study",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28798255",
+      "source": "Benefits of oxytocin administration in obstructive sleep apnea",
+      "matchedTitle": "Benefits of oxytocin administration in obstructive sleep apnea",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23435350",
+      "source": "Recreational Music-Making alters gene expression pathways in patients with coronary heart disease",
+      "matchedTitle": "Recreational Music-Making alters gene expression pathways in patients with coronary heart disease",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-17261984",
+      "source": "Recreational music-making modulates natural killer cell activity, cytokines, and mood states in corporate employees",
+      "matchedTitle": "Recreational music-making modulates natural killer cell activity, cytokines, and mood states in corporate employees",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-17543993",
+      "source": "Early music exposure modifies GluR2 protein expression in rat auditory cortex and anterior cingulate cortex",
+      "matchedTitle": "Early music exposure modifies GluR2 protein expression in rat auditory cortex and anterior cingulate cortex",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20099470",
+      "source": "Recreational music-making modulates immunological responses and mood states in older adults",
+      "matchedTitle": "Recreational music-making modulates immunological responses and mood states in older adults",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22303405",
+      "source": "Toward an Epigenetic View of Our Musical Mind",
+      "matchedTitle": "Toward an epigenetic view of our musical mind",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-24137142",
+      "source": "Art and science: how musical training shapes the brain",
+      "matchedTitle": "Art and science: how musical training shapes the brain",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-18706452",
+      "source": "Early auditory enrichment with music enhances auditory discrimination learning and alters NR2B protein expression in rat auditory cortex",
+      "matchedTitle": "Early auditory enrichment with music enhances auditory discrimination learning and alters NR2B protein expression in rat auditory cortex",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30618659",
+      "source": "Music Affects Rodents: A Systematic Review of Experimental Research",
+      "matchedTitle": "Music Affects Rodents: A Systematic Review of Experimental Research",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-15668624",
+      "source": "Recreational music-making modulates the human stress response: a preliminary individualized gene expression strategy",
+      "matchedTitle": "Recreational music-making modulates the human stress response: a preliminary individualized gene expression strategy",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-27126737",
+      "source": "Neuropharmacology of N,N-Dimethyltryptamine",
+      "matchedTitle": "Neuropharmacology of N,N-dimethyltryptamine",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-17573044",
+      "source": "Efficacy and Safety of Transcranial Magnetic Stimulation in the Acute Treatment of Major Depression: A Multisite Randomized Controlled Trial",
+      "matchedTitle": "Efficacy and safety of transcranial magnetic stimulation in the acute treatment of major depression: a multisite randomized controlled trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-16314076",
+      "source": "Low frequency repetitive transcranial magnetic stimulation improves source monitoring deficit in hallucinating patients with schizophrenia",
+      "matchedTitle": "Low frequency repetitive transcranial magnetic stimulation improves source monitoring deficit in hallucinating patients with schizophrenia",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-11955466",
+      "source": "Repetitive transcranial magnetic stimulation versus electroconvulsive therapy for major depression: preliminary results of a randomized trial",
+      "matchedTitle": "Repetitive transcranial magnetic stimulation versus electroconvulsive therapy for major depression: preliminary results of a randomized trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-16254067",
+      "source": "Therapeutic Effects of Individualized Alpha Frequency Transcranial Magnetic Stimulation ( α TMS) on the Negative Symptoms of Schizophrenia",
+      "matchedTitle": "Therapeutic effects of individualized alpha frequency transcranial magnetic stimulation (alphaTMS) on the negative symptoms of schizophrenia",
+      "similarity": 0.979
+    },
+    {
+      "record": "pmid-9614593",
+      "source": "Preliminary evidence for a beneficial effect of low‐frequency, repetitive transcranial magnetic stimulation in patients with major depression and schizophrenia",
+      "matchedTitle": "Preliminary evidence for a beneficial effect of low-frequency, repetitive transcranial magnetic stimulation in patients with major depression and schizophrenia",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-10686266",
+      "source": "Repetitive transcranial magnetic stimulation is as effective as electroconvulsive therapy in the treatment of nondelusional major depressive disorder: an open study",
+      "matchedTitle": "Repetitive transcranial magnetic stimulation is as effective as electroconvulsive therapy in the treatment of nondelusional major depressive disorder: an open study",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-19995444",
+      "source": "Psychological benefits 2 and 4 weeks after a single treatment with near infrared light to the forehead: a pilot study of 10 patients with major depression and anxiety",
+      "matchedTitle": "Psychological benefits 2 and 4 weeks after a single treatment with near infrared light to the forehead: a pilot study of 10 patients with major depression and anxiety",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-24568233",
+      "source": "Significant Improvements in Cognitive Performance Post-Transcranial, red/near infrared Light Emitting Diode Treatments in Chronic, Mild Traumatic Brain Injury: Open Protocol Study",
+      "matchedTitle": "Significant improvements in cognitive performance post-transcranial, red/near-infrared light-emitting diode treatments in chronic, mild traumatic brain injury: open-protocol study",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-16120414",
+      "source": "Mitochondrial signal transduction in accelerated wound and retinal healing by near-infrared light therapy",
+      "matchedTitle": "Mitochondrial signal transduction in accelerated wound and retinal healing by near-infrared light therapy",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25054749",
+      "source": "Effects of low-power light therapy on wound healing: LASER x LED*",
+      "matchedTitle": "Effects of low-power light therapy on wound healing: LASER x LED",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23626925",
+      "source": "Low-level laser (light) therapy (LLLT) on muscle tissue: performance, fatigue and repair benefited by the power of light",
+      "matchedTitle": "Low-level laser (light) therapy (LLLT) on muscle tissue: performance, fatigue and repair benefited by the power of light",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20011653",
+      "source": "Biphasic Dose Response in Low Level Light Therapy",
+      "matchedTitle": "Biphasic dose response in low level light therapy",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-12811920",
+      "source": "Etiopathogenetic basis for using magnetolaser therapy in the complex treatment of male infertility",
+      "matchedTitle": "[Etiopathogenetic basis for using magnetolaser therapy in the complex treatment of male infertility]",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-15507470",
+      "source": "Turning on stem cell cardiogenesis with extremely low frequency magnetic fields",
+      "matchedTitle": "Turning on stem cell cardiogenesis with extremely low frequency magnetic fields",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-10728432",
+      "source": "Elf-pulsed magnetic fields modulate opioid peptide gene expression in myocardial cells",
+      "matchedTitle": "Elf-pulsed magnetic fields modulate opioid peptide gene expression in myocardial cells",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23653328",
+      "source": "Anti-senescence efficacy of radio-electric asymmetric conveyer technology",
+      "matchedTitle": "Anti-senescence efficacy of radio-electric asymmetric conveyer technology",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23230735",
+      "source": "Expression of ACTN2, alpha-actin and TNNT2 in rat bone marrow-derived mesenchymal stem cells induced by low frequency pulsed electromagnetic fields",
+      "matchedTitle": "[Expression of ACTN2, alpha-actin and TNNT2 in rat bone marrow-derived mesenchymal stem cells induced by low frequency pulsed electromagnetic fields]",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-14706519",
+      "source": "Non-thermal effects of power-line magnetic fields (50 Hz) on gene expression levels of pluripotent embryonic stem cells-the role of tumour suppressor p53",
+      "matchedTitle": "Non-thermal effects of power-line magnetic fields (50 Hz) on gene expression levels of pluripotent embryonic stem cells-the role of tumour suppressor p53",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-16116041",
+      "source": "Electromagnetic fields affect transcript levels of apoptosis-related genes in embryonic stem cell-derived neural progenitor cells",
+      "matchedTitle": "Electromagnetic fields affect transcript levels of apoptosis-related genes in embryonic stem cell-derived neural progenitor cells",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-18480985",
+      "source": "Electromagnetic field change the expression of osteogenesis genes in murine bone marrow mesenchymal stem cells",
+      "matchedTitle": "Electromagnetic field change the expression of osteogenesis genes in murine bone marrow mesenchymal stem cells",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-19866474",
+      "source": "Pulsed electromagnetic fields accelerate proliferation and osteogenic gene expression in human bone marrow mesenchymal stem cells during osteogenic differentiation",
+      "matchedTitle": "Pulsed electromagnetic fields accelerate proliferation and osteogenic gene expression in human bone marrow mesenchymal stem cells during osteogenic differentiation",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-17951015",
+      "source": "The light of life: evidence that the sun modulates human lifespan",
+      "matchedTitle": "The light of life: evidence that the sun modulates human lifespan",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-24808981",
+      "source": "Life Rhythm as a Symphony of Oscillatory Patterns: Electromagnetic Energy and Sound Vibration Modulates Gene Expression for Biological Signaling and Healing",
+      "matchedTitle": "Life rhythm as a symphony of oscillatory patterns: electromagnetic energy and sound vibration modulates gene expression for biological signaling and healing",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22841613",
+      "source": "Targeted microbubbles for ultrasound mediated gene transfection and apoptosis induction in ovarian cancer cells",
+      "matchedTitle": "Targeted microbubbles for ultrasound mediated gene transfection and apoptosis induction in ovarian cancer cells",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-27786169",
+      "source": "Therapeutic Potential of Transcranial Focused Ultrasound for Rett Syndrome",
+      "matchedTitle": "Therapeutic Potential of Transcranial Focused Ultrasound for Rett Syndrome",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-17890732",
+      "source": "Ultrasound-mediated DNA transfer for bacteria",
+      "matchedTitle": "Ultrasound-mediated DNA transfer for bacteria",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28703754",
+      "source": "Synchronization of Human Autonomic Nervous System Rhythms with Geomagnetic Activity in Human Subjects",
+      "matchedTitle": "Synchronization of Human Autonomic Nervous System Rhythms with Geomagnetic Activity in Human Subjects",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-16275477",
+      "source": "Does Schumann resonance affect our blood pressure?",
+      "matchedTitle": "Does Schumann resonance affect our blood pressure?",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-26785376",
+      "source": "Similar Spectral Power Densities Within the Schumann Resonance and a Large Population of Quantitative Electroencephalographic Profiles: Supportive Evidence for Koenig and Pobachenko",
+      "matchedTitle": "Similar Spectral Power Densities Within the Schumann Resonance and a Large Population of Quantitative Electroencephalographic Profiles: Supportive Evidence for Koenig and Pobachenko",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-bbac53b23500d8b1",
+      "source": "Human Quantitative Electroencephalographic and Schumann Resonance Exhibit Real-Time Coherence of Spectral Power Densities: Implications for Interactive Information Processing",
+      "matchedTitle": "Human Quantitative Electroencephalographic and Schumann Resonance Exhibit Real-Time Coherence of Spectral Power Densities: Implications for Interactive Information Processing",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-10485122",
+      "source": "Wars and increased solar-geomagnetic activity: aggression or change in intraspecies dominance?",
+      "matchedTitle": "Wars and increased solar-geomagnetic activity: aggression or change in intraspecies dominance?",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-d40c8b9c8ed571ad",
+      "source": "Effects of Geomagnetic Activity and Atmospheric Power Variations on Quantitative Measures of Brain Activity Replication of Azerbaijani Studies",
+      "matchedTitle": "Effects of geomagnetic activity and atmospheric power variations on quantitative measures of brain activity: Replication of the Azerbaijani studies",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-4177d8a1b6597791",
+      "source": "ELF Electromagnetic Waves from Lightning: The Schumann Resonances",
+      "matchedTitle": "ELF Electromagnetic Waves from Lightning: The Schumann Resonances",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-28544507",
+      "source": "The Effect of Binaural Beat Technology on the Cardiovascular Stress Response in Military Service Members With Post Deployment Stress",
+      "matchedTitle": "The Effect of Binaural Beat Technology on the Cardiovascular Stress Response in Military Service Members With Postdeployment Stress",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-15913391",
+      "source": "Effect of Music Therapy on the Anxiety Levels and Sleep Patterns of Abused Women in Shelters",
+      "matchedTitle": "Effect of music therapy on the anxiety levels and sleep patterns of abused women in shelters",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-bfab13a657ed2d81",
+      "source": "Needs of Children Experiencing Homelessness who are Living in Shelters: A Qualitative Investigation of Perceptions of Care Workers to Inform Music Therapy Clinical Practice",
+      "matchedTitle": "Needs of Children Experiencing Homelessness who are Living in Shelters: A Qualitative Investigation of Perceptions of Care Workers to Inform Music Therapy Clinical Practice",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-dd7b3c097a436b46",
+      "source": "A Music/Nonmusic Intervention with Homeless Children",
+      "matchedTitle": "A Music/Nonmusic Intervention with Homeless Children",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-07f639404ec1fc0d",
+      "source": "Singing for Healing and Hope: Music Therapy Methods that Use the Voice with Individuals Who Are Homeless and Mentally Ill",
+      "matchedTitle": "Singing for Healing and Hope: Music Therapy Methods that Use the Voice with Individuals Who Are Homeless and Mentally Ill",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-61628ddd002899ff",
+      "source": "Evaluation of a school-based creative arts therapy program for adolescents from refugee backgrounds",
+      "matchedTitle": "Evaluation of a school-based creative arts therapy program for adolescents from refugee backgrounds",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-a5e4ecfa6a07bf01",
+      "source": "“The beat will make you be courage”: The role of a secondary school music program in supporting young refugees and newly arrived immigrants in Australia",
+      "matchedTitle": "“The beat will make you be courage”: The role of a secondary school music program in supporting young refugees and newly arrived immigrants in Australia",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-21488604",
+      "source": "A Pilot Analysis of the Psychological Themes Found During the CARING at Columbia—Music Therapy Program with Refugee Adolescents from North Korea",
+      "matchedTitle": "A pilot analysis of the psychological themes found during the CARING at Columbia--Music Therapy program with refugee adolescents from North Korea",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-ee4dbad2ce729f10",
+      "source": "Music Therapy with Traumatized Refugees in a Clinical Setting",
+      "matchedTitle": "Music Therapy with Traumatized Refugees in a Clinical Setting",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-e5864f2618900cc4",
+      "source": "The effect of music therapy services on classroom behaviours of newly arrived refugee students in Australia—a pilot study",
+      "matchedTitle": "The effect of music therapy services on classroom behaviours of newly arrived refugee students in Australia—a pilot study",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-733bb2dac57b6cc9",
+      "source": "Action Research and Music Therapy: Group Music Therapy with Young Refugees in a School Community",
+      "matchedTitle": "Action Research and Music Therapy: Group Music Therapy with Young Refugees in a School Community",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-29b8d72b63cf67cb",
+      "source": "Sounds of Trauma: An Introduction to Methodology in Music Therapy With Traumatized Refugees in Clinical and Outpatient Settings",
+      "matchedTitle": "Sounds of Trauma: An Introduction to Methodology in Music Therapy With Traumatized Refugees in Clinical and Outpatient Settings",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-a11edc2c0d807446",
+      "source": "Reporting on Music Therapy in Kenya",
+      "matchedTitle": "Reporting on Music Therapy in Kenya",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-fb45fb2373911e26",
+      "source": "Hope and Recognition. A Music Project among Youth in a Palestinian Refugee Camp",
+      "matchedTitle": "Hope and recognition: A Music Project among Youth in a Palestinian Refugee Camp",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-82aafc04d055ceed",
+      "source": "Attitudes towards Cross-Cultural Empathy in Music Therapy",
+      "matchedTitle": "Attitudes towards Cross-Cultural Empathy in Music Therapy",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-53aa4106dfd35960",
+      "source": "Indigenous music therapy theory building through grounded theory research: The developing indigenous theory framework",
+      "matchedTitle": "Indigenous music therapy theory building through grounded theory research: The developing indigenous theory framework",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-7bca5becd0049aeb",
+      "source": "Reflections on Music Therapy with Indigenous Families: Cultural Learning put into Practice",
+      "matchedTitle": "Reflections on Music Therapy with Indigenous Families: Cultural Learning put into Practice",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-24828126",
+      "source": "A Virtual Hope Box Smartphone App as an Accessory to Therapy: Proof‐of‐Concept in a Clinical Sample of Veterans",
+      "matchedTitle": "A Virtual Hope Box smartphone app as an accessory to therapy: proof-of-concept in a clinical sample of veterans",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-18991533",
+      "source": "Soldier Attitudes about Technology-Based Approaches to Mental Health Care",
+      "matchedTitle": "Soldier attitudes about technology-based approaches to mental health care",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-2f7b8dd67e1c8bbb",
+      "source": "Drumming through trauma: Music therapy with post-traumatic soldiers",
+      "matchedTitle": "Drumming through trauma: Music therapy with post-traumatic soldiers",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-0017e1c8036baaa5",
+      "source": "A pendulum between trauma and life: Group music therapy with post-traumatized soldiers",
+      "matchedTitle": "A pendulum between trauma and life: Group music therapy with post-traumatized soldiers",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-890fefc8f3be30c0",
+      "source": "Music Therapy, War Trauma, and Peace: A Singaporean Perspective",
+      "matchedTitle": "Music Therapy, War Trauma, and Peace: A Singaporean Perspective",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-206bca1736dab071",
+      "source": "Distant Thunder: Drumming with Vietnam Veterans",
+      "matchedTitle": "Distant Thunder: Drumming with Vietnam Veterans",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-b1734615d2614781",
+      "source": "Participatory choral music as a means of engagement in a veterans' mental health and addiction treatment setting",
+      "matchedTitle": "Participatory choral music as a means of engagement in a veterans' mental health and addiction treatment setting",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-26491332",
+      "source": "Virtual reality exposure-based therapy for the treatment of post-traumatic stress disorder: a review of its efficacy, the adequacy of the treatment protocol, and its acceptability",
+      "matchedTitle": "Virtual reality exposure-based therapy for the treatment of post-traumatic stress disorder: a review of its efficacy, the adequacy of the treatment protocol, and its acceptability",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-26347062",
+      "source": "Treatments for traumatic brain injury with emphasis on transcranial near-infrared laser phototherapy",
+      "matchedTitle": "Treatments for traumatic brain injury with emphasis on transcranial near-infrared laser phototherapy",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-2f565d066e4e774b",
+      "source": "Art therapy for PTSD and TBI: A senior active duty military service member’s therapeutic journey",
+      "matchedTitle": "Art therapy for PTSD and TBI: A senior active duty military service member’s therapeutic journey",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-b2b4a7cf6604ec4e",
+      "source": "The art of wellness: A 14-week art therapy program for at-risk youth",
+      "matchedTitle": "The art of wellness: A 14-week art therapy program for at-risk youth",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-befa7b53c55cb589",
+      "source": "Ethical implications of cross-cultural international art therapy",
+      "matchedTitle": "Ethical implications of cross-cultural international art therapy",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-22891157",
+      "source": "Finding low-energy conformations of lattice protein models by quantum annealing",
+      "matchedTitle": "Finding low-energy conformations of lattice protein models by quantum annealing",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28890000",
+      "source": "Maternal DRD2, SLC6A3, and OXTR genotypes as potential moderators of the relation between maternal history of care and maternal cortisol secretion in the context of mother-infant separation",
+      "matchedTitle": "Maternal DRD2, SLC6A3, and OXTR genotypes as potential moderators of the relation between maternal history of care and maternal cortisol secretion in the context of mother-infant separation",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25001970",
+      "source": "Oxytocin receptor gene rs53576 polymorphism modulates oxytocin–dopamine interaction and neuroticism traits—A SPECT study",
+      "matchedTitle": "Oxytocin receptor gene rs53576 polymorphism modulates oxytocin-dopamine interaction and neuroticism traits--a SPECT study",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28669546",
+      "source": "Biased Oxytocinergic Modulation of Midbrain Dopamine Systems",
+      "matchedTitle": "Biased Oxytocinergic Modulation of Midbrain Dopamine Systems",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20557568",
+      "source": "Dopamine and Oxytocin Interactions Underlying Behaviors: Potential Contributions to Behavioral Disorders",
+      "matchedTitle": "Dopamine and oxytocin interactions underlying behaviors: potential contributions to behavioral disorders",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-9924746",
+      "source": "Oxytocin and Addiction - A Review",
+      "matchedTitle": "Oxytocin and addiction: a review",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-27425032",
+      "source": "Signaling in dopamine D2 receptor-oxytocin receptor heterocomplexes and its relevance for the anxiolytic effects of dopamine and oxytocin interactions in the amygdala of the rat",
+      "matchedTitle": "Signaling in dopamine D2 receptor-oxytocin receptor heterocomplexes and its relevance for the anxiolytic effects of dopamine and oxytocin interactions in the amygdala of the rat",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28728017",
+      "source": "Oxytocin Mobilizes Midbrain Dopamine toward Sociality",
+      "matchedTitle": "Oxytocin Mobilizes Midbrain Dopamine toward Sociality",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30737392",
+      "source": "Oxytocin pathway gene networks in the human brain",
+      "matchedTitle": "Oxytocin pathway gene networks in the human brain",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20493150",
+      "source": "Peripheral oxytocin treatment modulates central dopamine transmission in the mouse limbic structures",
+      "matchedTitle": "Peripheral oxytocin treatment modulates central dopamine transmission in the mouse limbic structures",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-21896752",
+      "source": "Oxytocin receptor gene (OXTR) is related to psychological resources",
+      "matchedTitle": "Oxytocin receptor gene (OXTR) is related to psychological resources",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-17994268",
+      "source": "Nucleotide Frequencies in Human Genome and Fibonacci Numbers",
+      "matchedTitle": "Nucleotide frequencies in human genome and fibonacci numbers",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25935637",
+      "source": "The association between 2D:4D ratio and cognitive empathy is contingent on a common polymorphism in the oxytocin receptor gene (OXTR rs53576)",
+      "matchedTitle": "The association between 2D:4D ratio and cognitive empathy is contingent on a common polymorphism in the oxytocin receptor gene (OXTR rs53576)",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-26903384",
+      "source": "Oxytocin receptor gene polymorphism modulates the effects of social support on heart rate variability",
+      "matchedTitle": "Oxytocin receptor gene polymorphism modulates the effects of social support on heart rate variability",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30135663",
+      "source": "The OXTR Single-Nucleotide Polymorphism rs53576 Moderates the Impact of Childhood Maltreatment on Empathy for Social Pain in Female Participants: Evidence for Differential Susceptibility",
+      "matchedTitle": "The OXTR Single-Nucleotide Polymorphism rs53576 Moderates the Impact of Childhood Maltreatment on Empathy for Social Pain in Female Participants: Evidence for Differential Susceptibility",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28526450",
+      "source": "The association of single-nucleotide polymorphisms in the oxytocin receptor and G protein–coupled receptor kinase 6 (GRK6) genes with oxytocin dosing requirements and labor outcomes",
+      "matchedTitle": "The association of single-nucleotide polymorphisms in the oxytocin receptor and G protein-coupled receptor kinase 6 (GRK6) genes with oxytocin dosing requirements and labor outcomes",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-32795360",
+      "source": "Oxytocin receptor gene polymorphism (rs53576) and digit ratio associates with aggression: comparison in seven ethnic groups",
+      "matchedTitle": "Oxytocin receptor gene polymorphism (rs53576) and digit ratio associates with aggression: comparison in seven ethnic groups",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22123970",
+      "source": "Common oxytocin receptor gene (OXTR) polymorphism and social support interact to reduce stress in humans",
+      "matchedTitle": "Common oxytocin receptor gene (OXTR) polymorphism and social support interact to reduce stress in humans",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28912494",
+      "source": "Oxytocin Receptor Polymorphisms are Differentially Associated with Social Abilities across Neurodevelopmental Disorders",
+      "matchedTitle": "Oxytocin Receptor Polymorphisms are Differentially Associated with Social Abilities across Neurodevelopmental Disorders",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-31587084",
+      "source": "A common variant in OXTR rs53576 impacts topological patterns of brain functional networks",
+      "matchedTitle": "A common variant in OXTR rs53576 impacts topological patterns of brain functional networks",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-26178189",
+      "source": "A common oxytocin receptor gene (OXTR)polymorphism modulates intranasal oxytocin effects on the neural response to social cooperation in humans",
+      "matchedTitle": "A common oxytocin receptor gene (OXTR) polymorphism modulates intranasal oxytocin effects on the neural response to social cooperation in humans",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-26738630",
+      "source": "Polymorphisms of two loci at the oxytocin receptor gene in populations of Africa, Asia and South Europe",
+      "matchedTitle": "Polymorphisms of two loci at the oxytocin receptor gene in populations of Africa, Asia and South Europe",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-26121678",
+      "source": "Association of Oxytocin Receptor Gene (OXTR) rs53576 Polymorphism with Sociality: A Meta-Analysis",
+      "matchedTitle": "Association of Oxytocin Receptor Gene (OXTR) rs53576 Polymorphism with Sociality: A Meta-Analysis",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30605805",
+      "source": "OXTR rs53576 polymorphism impacts interpersonal adaptability: Dispositional forgiveness as a mediator",
+      "matchedTitle": "OXTR rs53576 polymorphism impacts interpersonal adaptability: Dispositional forgiveness as a mediator",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-31521905",
+      "source": "Examining the link between emotional childhood abuse and social relationships in midlife: The moderating role of the oxytocin receptor gene",
+      "matchedTitle": "Examining the link between emotional childhood abuse and social relationships in midlife: The moderating role of the oxytocin receptor gene",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23352229",
+      "source": "Does intranasal oxytocin promote prosocial behavior to an excluded fellow player? A randomized-controlled trial with Cyberball",
+      "matchedTitle": "Does intranasal oxytocin promote prosocial behavior to an excluded fellow player? A randomized-controlled trial with Cyberball",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-24099859",
+      "source": "Giving peace a chance: Oxytocin increases empathy to pain in the context of the Israeli–Palestinian conflict",
+      "matchedTitle": "Giving peace a chance: oxytocin increases empathy to pain in the context of the Israeli-Palestinian conflict",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28087128",
+      "source": "Intranasal Oxytocin to Prevent Posttraumatic Stress Disorder Symptoms: A Randomized Controlled Trial in Emergency Department Patients",
+      "matchedTitle": "Intranasal Oxytocin to Prevent Posttraumatic Stress Disorder Symptoms: A Randomized Controlled Trial in Emergency Department Patients",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-24799299",
+      "source": "A pilot six-week randomized controlled trial of oxytocin on social cognition and social skills in schizophrenia",
+      "matchedTitle": "A pilot six-week randomized controlled trial of oxytocin on social cognition and social skills in schizophrenia",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30108475",
+      "source": "Oxytocin Enhancement of Emotional Empathy: Generalization Across Cultures and Effects on Amygdala Activity",
+      "matchedTitle": "Oxytocin Enhancement of Emotional Empathy: Generalization Across Cultures and Effects on Amygdala Activity",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-29055680",
+      "source": "Oxytocin increases attention to the eyes and selectively enhances self-reported affective empathy for fear",
+      "matchedTitle": "Oxytocin increases attention to the eyes and selectively enhances self-reported affective empathy for fear",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-17987115",
+      "source": "Oxytocin Increases Generosity in Humans",
+      "matchedTitle": "Oxytocin increases generosity in humans",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-16fea1e714a7ade6",
+      "source": "Perceived CSR and Corporate Reputation: The Mediating Role of Employee Trust",
+      "matchedTitle": "Perceived CSR and Corporate Reputation: The Mediating Role of Employee Trust",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-06a35c77903dbedd",
+      "source": "Do Stock Market Investors Reward Companies with Reputations for Social Performance?",
+      "matchedTitle": "Do Stock Market Investors Reward Companies with Reputations for Social Performance?",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-16f513abd981c573",
+      "source": "Corporate Social Performance and Stock Returns: UK Evidence from Disaggregate Measures",
+      "matchedTitle": "Corporate Social Performance and Stock Returns: UK Evidence from Disaggregate Measures",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-18356530",
+      "source": "Spending Money on Others Promotes Happiness",
+      "matchedTitle": "Spending money on others promotes happiness",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-b76baa5fd9acdf58",
+      "source": "Income and Happiness: Towards a Unified Theory",
+      "matchedTitle": "Income and Happiness: Towards a Unified Theory",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-1a368149449ab40a",
+      "source": "Happiness, Economy and Institutions",
+      "matchedTitle": "Happiness, Economy and Institutions",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-ed68cfcb4dcfc73a",
+      "source": "Development as Happiness: The Subjective Perception of Happiness and UNDP’s Analysis of Poverty, Wealth and Development",
+      "matchedTitle": "Development as Happiness: The Subjective Perception of Happiness and UNDP’s Analysis of Poverty, Wealth and Development",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-30049225",
+      "source": "Gamification Use and Design in Popular Health and Fitness Mobile Applications",
+      "matchedTitle": "Gamification Use and Design in Popular Health and Fitness Mobile Applications",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28281353",
+      "source": "A Randomized Controlled Trial of Opt-In Versus Opt-Out Enrollment Into a Diabetes Behavioral Intervention",
+      "matchedTitle": "A Randomized Controlled Trial of Opt-In Versus Opt-Out Enrollment Into a Diabetes Behavioral Intervention",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-27603755",
+      "source": "Participation Rates With Opt-out Enrollment in a Remote Monitoring Intervention for Patients With Myocardial Infarction",
+      "matchedTitle": "Participation Rates With Opt-out Enrollment in a Remote Monitoring Intervention for Patients With Myocardial Infarction",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-29899015",
+      "source": "Loss‐Framed Financial Incentives and Personalized Goal‐Setting to Increase Physical Activity Among Ischemic Heart Disease Patients Using Wearable Devices: The ACTIVE REWARD Randomized Trial",
+      "matchedTitle": "Loss-Framed Financial Incentives and Personalized Goal-Setting to Increase Physical Activity Among Ischemic Heart Disease Patients Using Wearable Devices: The ACTIVE REWARD Randomized Trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30003481",
+      "source": "Social Incentives and Gamification to Promote Weight Loss: The LOSE IT Randomized, Controlled Trial",
+      "matchedTitle": "Social Incentives and Gamification to Promote Weight Loss: The LOSE IT Randomized, Controlled Trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23702050",
+      "source": "A multi-site single blind clinical study to compare the effects of prolonged exposure, eye movement desensitization and reprocessing and waiting list on patients with a current diagnosis of psychosis and co morbid post traumatic stress disorder: study protocol for the randomized controlled trial",
+      "matchedTitle": "A multi-site single blind clinical study to compare the effects of prolonged exposure, eye movement desensitization and reprocessing and waiting list on patients with a current diagnosis of psychosis and co morbid post traumatic stress disorder: study protocol for the randomized controlled trial Treating Trauma in Psychosis",
+      "similarity": 0.953
+    },
+    {
+      "record": "pmid-17284128",
+      "source": "A randomized clinical trial of eye movement desensitization and reprocessing (EMDR), fluoxetine, and pill placebo in the treatment of posttraumatic stress disorder: treatment effects and long-term maintenance",
+      "matchedTitle": "A randomized clinical trial of eye movement desensitization and reprocessing (EMDR), fluoxetine, and pill placebo in the treatment of posttraumatic stress disorder: treatment effects and long-term maintenance",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28660669",
+      "source": "Comparison of eye movement desensitization and reprocessing therapy, cognitive behavioral writing therapy, and wait-list in pediatric posttraumatic stress disorder following single-incident trauma: a multicenter randomized clinical trial",
+      "matchedTitle": "Comparison of eye movement desensitization and reprocessing therapy, cognitive behavioral writing therapy, and wait-list in pediatric posttraumatic stress disorder following single-incident trauma: a multicenter randomized clinical trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-24965797",
+      "source": "Trauma-focused cognitive behavioral therapy or eye movement desensitization and reprocessing: what works in children with posttraumatic stress symptoms? A randomized controlled trial",
+      "matchedTitle": "Trauma-focused cognitive behavioral therapy or eye movement desensitization and reprocessing: what works in children with posttraumatic stress symptoms? A randomized controlled trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-24626074",
+      "source": "The Role of Eye Movement Desensitization and Reprocessing (EMDR) Therapy in Medicine: Addressing the Psychological and Physical Symptoms Stemming from Adverse Life Experiences",
+      "matchedTitle": "The role of eye movement desensitization and reprocessing (EMDR) therapy in medicine: addressing the psychological and physical symptoms stemming from adverse life experiences",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30858808",
+      "source": "Psychological and Brain Connectivity Changes Following Trauma-Focused CBT and EMDR Treatment in Single-Episode PTSD Patients",
+      "matchedTitle": "Psychological and Brain Connectivity Changes Following Trauma-Focused CBT and EMDR Treatment in Single-Episode PTSD Patients",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30186192",
+      "source": "Eye Movement Desensitization and Reprocessing Versus Treatment as Usual in the Treatment of Depression: A Randomized-Controlled Trial",
+      "matchedTitle": "Eye Movement Desensitization and Reprocessing Versus Treatment as Usual in the Treatment of Depression: A Randomized-Controlled Trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30166975",
+      "source": "How Does Eye Movement Desensitization and Reprocessing Therapy Work? A Systematic Review on Suggested Mechanisms of Action",
+      "matchedTitle": "How Does Eye Movement Desensitization and Reprocessing Therapy Work? A Systematic Review on Suggested Mechanisms of Action",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25101684",
+      "source": "Efficacy of Eye-Movement Desensitization and Reprocessing for Patients with Posttraumatic-Stress Disorder: A Meta-Analysis of Randomized Controlled Trials",
+      "matchedTitle": "Efficacy of eye-movement desensitization and reprocessing for patients with posttraumatic-stress disorder: a meta-analysis of randomized controlled trials",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-16899965",
+      "source": "Eye Movement Desensitization and Reprocessing for Posttraumatic Stress Disorder: A Pilot Blinded, Randomized Study of Stimulation Type",
+      "matchedTitle": "Eye movement desensitization and reprocessing for posttraumatic stress disorder: a pilot blinded, randomized study of stimulation type",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30186192",
+      "source": "Eye Movement Desensitization and Reprocessing Versus Treatment as Usual in the Treatment of Depression: A Randomized-Controlled Trial",
+      "matchedTitle": "Eye Movement Desensitization and Reprocessing Versus Treatment as Usual in the Treatment of Depression: A Randomized-Controlled Trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30197612",
+      "source": "Effective Treatment of Veterans With PTSD: Comparison Between Intensive Daily and Weekly EMDR Approaches",
+      "matchedTitle": "Effective Treatment of Veterans With PTSD: Comparison Between Intensive Daily and Weekly EMDR Approaches",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-9479673",
+      "source": "Eye movement desensitization and reprocessing (EMDR) treatment for combat-related posttraumatic stress disorder",
+      "matchedTitle": "Eye movement desensitization and reprocessing (EDMR) treatment for combat-related posttraumatic stress disorder",
+      "similarity": 0.99
+    },
+    {
+      "record": "pmid-25101684",
+      "source": "Efficacy of Eye-Movement Desensitization and Reprocessing for Patients with Posttraumatic-Stress Disorder: A Meta-Analysis of Randomized Controlled Trials",
+      "matchedTitle": "Efficacy of eye-movement desensitization and reprocessing for patients with posttraumatic-stress disorder: a meta-analysis of randomized controlled trials",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-26963955",
+      "source": "Outcomes from eye movement desensitization and reprocessing in active-duty service members with posttraumatic stress disorder",
+      "matchedTitle": "Outcomes from eye movement desensitization and reprocessing in active-duty service members with posttraumatic stress disorder",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30858808",
+      "source": "Psychological and Brain Connectivity Changes Following Trauma-Focused CBT and EMDR Treatment in Single-Episode PTSD Patients",
+      "matchedTitle": "Psychological and Brain Connectivity Changes Following Trauma-Focused CBT and EMDR Treatment in Single-Episode PTSD Patients",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-24626074",
+      "source": "The Role of Eye Movement Desensitization and Reprocessing (EMDR) Therapy in Medicine: Addressing the Psychological and Physical Symptoms Stemming from Adverse Life Experiences",
+      "matchedTitle": "The role of eye movement desensitization and reprocessing (EMDR) therapy in medicine: addressing the psychological and physical symptoms stemming from adverse life experiences",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-18612994",
+      "source": "Eye movement desensitization and reprocessing (EMDR) in the treatment of war veterans Journal of Clinical Psychology",
+      "matchedTitle": "Eye movement desensitization and reprocessing (EMDR) in the treatment of war veterans",
+      "similarity": 0.842
+    },
+    {
+      "record": "pmid-27353367",
+      "source": "The efficacy of eye movement desensitization and reprocessing for post-traumatic stress disorder and depression among Syrian refugees: results of a randomized controlled trial",
+      "matchedTitle": "The efficacy of eye movement desensitization and reprocessing for post-traumatic stress disorder and depression among Syrian refugees: results of a randomized controlled trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-29946275",
+      "source": "An Eye Movement Desensitization and Reprocessing (EMDR) Group Intervention for Syrian Refugees With Post-traumatic Stress Symptoms: Results of a Randomized Controlled Trial",
+      "matchedTitle": "An Eye Movement Desensitization and Reprocessing (EMDR) Group Intervention for Syrian Refugees With Post-traumatic Stress Symptoms: Results of a Randomized Controlled Trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25989952",
+      "source": "EMDR for Syrian refugees with posttraumatic stress disorder symptoms: results of a pilot randomized controlled trial",
+      "matchedTitle": "EMDR for Syrian refugees with posttraumatic stress disorder symptoms: results of a pilot randomized controlled trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22893808",
+      "source": "EMDR versus stabilisation in traumatised asylum seekers and refugees: results of a pilot study",
+      "matchedTitle": "EMDR versus stabilisation in traumatised asylum seekers and refugees: results of a pilot study",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-648f6da34833f786",
+      "source": "Evaluating the EMDR Group Traumatic Episode Protocol With Refugees: A Field Study",
+      "matchedTitle": "Evaluating the EMDR Group Traumatic Episode Protocol With Refugees: A Field Study",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-4e5b48cad9b6436d",
+      "source": "EMDR With Traumatized Refugees: From Experience-Based to Evidence-Based Practice",
+      "matchedTitle": "EMDR With Traumatized Refugees: From Experience-Based to Evidence-Based Practice",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-29946275",
+      "source": "An Eye Movement Desensitization and Reprocessing (EMDR) Group Intervention for Syrian Refugees With Post-traumatic Stress Symptoms: Results of a Randomized Controlled Trial",
+      "matchedTitle": "An Eye Movement Desensitization and Reprocessing (EMDR) Group Intervention for Syrian Refugees With Post-traumatic Stress Symptoms: Results of a Randomized Controlled Trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-37bd65a31f48ce93",
+      "source": "Randomized Controlled Trial: Self-Care Traumatic Episode Protocol (STEP), Computerized EMDR Treatment of COVID-19 Related Stress",
+      "matchedTitle": "Randomized Controlled Trial: Self-Care Traumatic Episode Protocol, Computerized EMDR Treatment of COVID-19-Related Stress",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-36248508",
+      "source": "The effect of the online eye movement desensitization and reprocessing early intervention protocol (EMDR R-TEP) for the risk groups with post-traumatic stress symptoms during the COVID-19 pandemic",
+      "matchedTitle": "The effect of the online eye movement desensitization and reprocessing early intervention protocol (EMDR R-TEP) for the risk groups with post-traumatic stress symptoms during the COVID-19 pandemic",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-34763697",
+      "source": "An evaluation of eye movement desensitization and reprocessing therapy delivered remotely during the Covid–19 pandemic",
+      "matchedTitle": "An evaluation of eye movement desensitization and reprocessing therapy delivered remotely during the Covid-19 pandemic",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-34025912",
+      "source": "Safety and effectiveness of intensive treatment for complex PTSD delivered via home-based telehealth",
+      "matchedTitle": "Safety and effectiveness of intensive treatment for complex PTSD delivered via home-based telehealth",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-b4b0af603557eafe",
+      "source": "Low-Intensity Interventions and EMDR Therapy",
+      "matchedTitle": "Low-Intensity Interventions and EMDR Therapy",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-648f6da34833f786",
+      "source": "Evaluating the EMDR Group Traumatic Episode Protocol With Refugees: A Field Study",
+      "matchedTitle": "Evaluating the EMDR Group Traumatic Episode Protocol With Refugees: A Field Study",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-2a203fb071ddfe54",
+      "source": "“Online delivery gave me privacy and distance from others”: feasibility trial and qualitative evaluation of an online intervention for refugees and asylum seekers; LTP + EMDR G-TEP",
+      "matchedTitle": "“Online delivery gave me privacy and distance from others”: feasibility trial and qualitative evaluation of an online intervention for refugees and asylum seekers; LTP + EMDR G‐TEP",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-67fa7275f4f4ba77",
+      "source": "Effects of EMDR Group Traumatic Episode Protocol on Burnout Within IAPT HealthCare Professionals: A Feasibility and Acceptability Study",
+      "matchedTitle": "Effects of EMDR Group Traumatic Episode Protocol on Burnout Within IAPT Healthcare Professionals: A Feasibility and Acceptability Study",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-16772250",
+      "source": "Effects of a Randomized Controlled Trial of Transcendental Meditation on Components of the Metabolic Syndrome in Subjects With Coronary Heart Disease",
+      "matchedTitle": "Effects of a randomized controlled trial of transcendental meditation on components of the metabolic syndrome in subjects with coronary heart disease",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23149426",
+      "source": "Stress Reduction in the Secondary Prevention of Cardiovascular Disease: Randomized, Controlled Trial of Transcendental Meditation and Health Education in Blacks",
+      "matchedTitle": "Stress reduction in the secondary prevention of cardiovascular disease: randomized, controlled trial of transcendental meditation and health education in Blacks",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-17274213",
+      "source": "Effectiveness of Transcendental Meditation on Functional Capacity and Quality of Life of African Americans with Congestive Heart Failure: A Randomized Control Study",
+      "matchedTitle": "Effectiveness of transcendental meditation on functional capacity and quality of life of African Americans with congestive heart failure: a randomized control study",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-24107199",
+      "source": "Effects of the Transcendental Meditation Technique on Trait Anxiety: A Meta-Analysis of Randomized Controlled Trials",
+      "matchedTitle": "Effects of the transcendental meditation technique on trait anxiety: a meta-analysis of randomized controlled trials",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-19815592",
+      "source": "A Randomized Controlled Trial of the Effects of Transcendental Meditation on Quality of Life in Older Breast Cancer Patients",
+      "matchedTitle": "A randomized controlled trial of the effects of transcendental meditation on quality of life in older breast cancer patients",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-24626068",
+      "source": "Effect of Transcendental Meditation on Employee Stress, Depression, and Burnout: A Randomized Controlled Study",
+      "matchedTitle": "Effect of transcendental meditation on employee stress, depression, and burnout: a randomized controlled study",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-14743579",
+      "source": "The cumulative effects of Transcendental Meditation on cognitive function — a systematic review of randomised controlled trials",
+      "matchedTitle": "The cumulative effects of Transcendental Meditation on cognitive function--a systematic review of randomised controlled trials",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25367403",
+      "source": "Mindfulness‐based cancer recovery and supportive‐expressive therapy maintain telomere length relative to controls in distressed breast cancer survivors Cancer, Wiley Periodicals",
+      "matchedTitle": "Mindfulness-based cancer recovery and supportive-expressive therapy maintain telomere length relative to controls in distressed breast cancer survivors",
+      "similarity": 0.924
+    },
+    {
+      "record": "pmid-26181573",
+      "source": "Regular Yoga Practice Improves Antioxidant Status, Immune Function, and Stress Hormone Releases in Young Healthy People: A Randomized, Double Blind, Controlled Pilot Study",
+      "matchedTitle": "Regular Yoga Practice Improves Antioxidant Status, Immune Function, and Stress Hormone Releases in Young Healthy People: A Randomized, Double-Blind, Controlled Pilot Study",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22820409",
+      "source": "Mindfulness-Based Stress Reduction training reduces loneliness and pro-inflammatory gene expression in older adults: a small randomized controlled trial",
+      "matchedTitle": "Mindfulness-Based Stress Reduction training reduces loneliness and pro-inflammatory gene expression in older adults: a small randomized controlled trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28670311",
+      "source": "What Is the Molecular Signature of Mind–Body Interventions? A Systematic Review of Gene Expression Changes Induced by Meditation and Related Practices",
+      "matchedTitle": "What Is the Molecular Signature of Mind-Body Interventions? A Systematic Review of Gene Expression Changes Induced by Meditation and Related Practices",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-24703167",
+      "source": "Yoga reduces inflammatory signaling in fatigued breast cancer survivors: A randomized controlled trial",
+      "matchedTitle": "Yoga reduces inflammatory signaling in fatigued breast cancer survivors: a randomized controlled trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-0bf0e1873d286226",
+      "source": "Impact of mindfulness based stress reduction on sperm DNA damage",
+      "matchedTitle": "Impact of mindfulness based stress reduction on sperm DNA damage",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-15750361",
+      "source": "Genomic profiling of neutrophil transcripts in Asian Qigong practitioners: a pilot study in gene regulation by mind-body interaction",
+      "matchedTitle": "Genomic profiling of neutrophil transcripts in Asian Qigong practitioners: a pilot study in gene regulation by mind-body interaction",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-29306937",
+      "source": "The Effects of Stress and Meditation on the Immune System, Human Microbiota, & Epigenetics",
+      "matchedTitle": "The Effects of Stress and Meditation on the Immune System, Human Microbiota, and Epigenetics",
+      "similarity": 0.98
+    },
+    {
+      "record": "pmid-12853721",
+      "source": "The bioinformatics of psychosocial genomics in alternative and complementary medicine",
+      "matchedTitle": "The bioinformatics of psychosocial genomics in alternative and complementary medicine",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23613970",
+      "source": "Rapid gene expression changes in peripheral blood lymphocytes upon practice of a comprehensive yoga program",
+      "matchedTitle": "Rapid gene expression changes in peripheral blood lymphocytes upon practice of a comprehensive yoga program",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23380323",
+      "source": "Regulation of gene expression by yoga, meditation & related practices: a review of recent studies",
+      "matchedTitle": "Regulation of gene expression by yoga, meditation and related practices: a review of recent studies",
+      "similarity": 0.982
+    },
+    {
+      "record": "pmid-24485481",
+      "source": "Rapid changes in histone deacetylases and inflammatory gene expression in expert meditators",
+      "matchedTitle": "Rapid changes in histone deacetylases and inflammatory gene expression in expert meditators",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22742996",
+      "source": "Genome-wide expression changes in a higher state of consciousness",
+      "matchedTitle": "Genome-wide expression changes in a higher state of consciousness",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-17854483",
+      "source": "Social regulation of gene expression in human leukocytes",
+      "matchedTitle": "Social regulation of gene expression in human leukocytes",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-12629875",
+      "source": "Psychosocial genomics: gene expression, neurogenesis, and human experience in mind-body medicine",
+      "matchedTitle": "Psychosocial genomics: gene expression, neurogenesis, and human experience in mind-body medicine",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22719790",
+      "source": "Epigenetic changes in response to tai chi practice: a pilot investigation of DNA methylation marks",
+      "matchedTitle": "Epigenetic changes in response to tai chi practice: a pilot investigation of DNA methylation marks",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25386727",
+      "source": "Mind-controlled transgene expression by a wireless-powered optogenetic designer cell implant",
+      "matchedTitle": "Mind-controlled transgene expression by a wireless-powered optogenetic designer cell implant",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-27317929",
+      "source": "Effects of oxytocin administration on spirituality and emotional responses to meditation",
+      "matchedTitle": "Effects of oxytocin administration on spirituality and emotional responses to meditation",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-27543885",
+      "source": "Common variant in OXTR predicts growth in positive emotions from loving-kindness training",
+      "matchedTitle": "Common variant in OXTR predicts growth in positive emotions from loving-kindness training",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-21896752",
+      "source": "Oxytocin receptor gene (OXTR) is related to psychological resources",
+      "matchedTitle": "Oxytocin receptor gene (OXTR) is related to psychological resources",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20593431",
+      "source": "Depression following open‐heart surgery: A path model involving interleukin‐6, spiritual struggle, and hope under preoperative distress",
+      "matchedTitle": "Depression following open-heart surgery: a path model involving interleukin-6, spiritual struggle, and hope under preoperative distress",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25749595",
+      "source": "Tai chi, cellular inflammation, and transcriptome dynamics in breast cancer survivors with insomnia: a randomized controlled trial",
+      "matchedTitle": "Tai chi, cellular inflammation, and transcriptome dynamics in breast cancer survivors with insomnia: a randomized controlled trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-21241793",
+      "source": "Openness and conscientiousness predict 34-SSweek patterns of Interleukin-6 in older persons",
+      "matchedTitle": "Openness and conscientiousness predict 34-week patterns of Interleukin-6 in older persons",
+      "similarity": 0.987
+    },
+    {
+      "record": "pmid-24888477",
+      "source": "Trait mindfulness is associated with blood pressure and interleukin-6: exploring interactions among subscales of the Five Facet Mindfulness Questionnaire to better understand relationships between mindfulness and health",
+      "matchedTitle": "Trait mindfulness is associated with blood pressure and interleukin-6: exploring interactions among subscales of the Five Facet Mindfulness Questionnaire to better understand relationships between mindfulness and health",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22442202",
+      "source": "A Pilot Study Evaluating the Effect of Mindfulness-Based Stress Reduction on Psychological Status, Physical Status, Salivary Cortisol, and Interleukin-6 Among Advanced-Stage Cancer Patients and Their Caregivers",
+      "matchedTitle": "A pilot study evaluating the effect of mindfulness-based stress reduction on psychological status, physical status, salivary cortisol, and interleukin-6 among advanced-stage cancer patients and their caregivers",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-26799456",
+      "source": "Mindfulness meditation and the immune system: a systematic review of randomized controlled trials",
+      "matchedTitle": "Mindfulness meditation and the immune system: a systematic review of randomized controlled trials",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28694775",
+      "source": "Yoga, Meditation and Mind-Body Health: Increased BDNF, Cortisol Awakening Response, and Altered Inflammatory Marker Expression after a 3-Month Yoga and Meditation Retreat",
+      "matchedTitle": "Yoga, Meditation and Mind-Body Health: Increased BDNF, Cortisol Awakening Response, and Altered Inflammatory Marker Expression after a 3-Month Yoga and Meditation Retreat",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25537522",
+      "source": "Mindfulness meditation for younger breast cancer survivors: A randomized controlled trial",
+      "matchedTitle": "Mindfulness meditation for younger breast cancer survivors: a randomized controlled trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-27021514",
+      "source": "Alterations in Resting-State Functional Connectivity Link Mindfulness Meditation With Reduced Interleukin-6: A Randomized Controlled Trial",
+      "matchedTitle": "Alterations in Resting-State Functional Connectivity Link Mindfulness Meditation With Reduced Interleukin-6: A Randomized Controlled Trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-21768988",
+      "source": "Mindfulness Meditation for Alcohol Relapse Prevention: A Feasibility Pilot Study",
+      "matchedTitle": "Mindfulness meditation for alcohol relapse prevention: a feasibility pilot study",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-24372522",
+      "source": "Effects of Buddhism Walking Meditation on Depression, Functional Fitness, and Endothelium-Dependent Vasodilation in Depressed Elderly",
+      "matchedTitle": "Effects of Buddhism walking meditation on depression, functional fitness, and endothelium-dependent vasodilation in depressed elderly",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22169588",
+      "source": "Changes in stress, eating, and metabolic factors are related to changes in telomerase activity in a randomized mindfulness intervention pilot study",
+      "matchedTitle": "Changes in stress, eating, and metabolic factors are related to changes in telomerase activity in a randomized mindfulness intervention pilot study",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28889075",
+      "source": "Epigenetic clock analysis in long-term meditators",
+      "matchedTitle": "Epigenetic clock analysis in long-term meditators",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23602876",
+      "source": "Loving-Kindness Meditation practice associated with longer telomeres in women",
+      "matchedTitle": "Loving-Kindness Meditation practice associated with longer telomeres in women",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25964984",
+      "source": "Telomerase Activity and Cellular Aging Might Be Positively Modified by a Yoga-Based Lifestyle Intervention",
+      "matchedTitle": "Telomerase activity and cellular aging might be positively modified by a yoga-based lifestyle intervention",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-27217844",
+      "source": "Zen meditation, Length of Telomeres, and the Role of Experiential Avoidance and Compassion",
+      "matchedTitle": "Zen meditation, Length of Telomeres, and the Role of Experiential Avoidance and Compassion",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-21035949",
+      "source": "Intensive meditation training, immune cell telomerase activity, and psychological mediators",
+      "matchedTitle": "Intensive meditation training, immune cell telomerase activity, and psychological mediators",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-24929023",
+      "source": "Therapeutic efficacy of infused molecular hydrogen in saline on rheumatoid arthritis: A randomized, double-blind, placebo-controlled pilot study",
+      "matchedTitle": "Therapeutic efficacy of infused molecular hydrogen in saline on rheumatoid arthritis: a randomized, double-blind, placebo-controlled pilot study",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23400965",
+      "source": "Pilot study of H2 therapy in Parkinson's disease: A randomized double‐blind placebo‐controlled trial",
+      "matchedTitle": "Pilot study of H₂ therapy in Parkinson's disease: a randomized double-blind placebo-controlled trial",
+      "similarity": 0.994
+    },
+    {
+      "record": "pmid-24929023",
+      "source": "Therapeutic efficacy of infused molecular hydrogen in saline on rheumatoid arthritis: a randomized, double-blind, placebo-controlled pilot study",
+      "matchedTitle": "Therapeutic efficacy of infused molecular hydrogen in saline on rheumatoid arthritis: a randomized, double-blind, placebo-controlled pilot study",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22146674",
+      "source": "Open-label trial and randomized, double-blind, placebo-controlled, crossover trial of hydrogen-enriched water for mitochondrial and inflammatory myopathies",
+      "matchedTitle": "Open-label trial and randomized, double-blind, placebo-controlled, crossover trial of hydrogen-enriched water for mitochondrial and inflammatory myopathies",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25978109",
+      "source": "Hydrogen Activates ATP-Binding Cassette Transporter A1-Dependent Efflux Ex Vivo and Improves High-Density Lipoprotein Function in Patients With Hypercholesterolemia: A Double-Blinded, Randomized, and Placebo-Controlled Trial",
+      "matchedTitle": "Hydrogen Activates ATP-Binding Cassette Transporter A1-Dependent Efflux Ex Vivo and Improves High-Density Lipoprotein Function in Patients With Hypercholesterolemia: A Double-Blinded, Randomized, and Placebo-Controlled Trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-29110615",
+      "source": "Effects of Molecular Hydrogen Assessed by an Animal Model and a Randomized Clinical Study on Mild Cognitive Impairment",
+      "matchedTitle": "Effects of Molecular Hydrogen Assessed by an Animal Model and a Randomized Clinical Study on Mild Cognitive Impairment",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28669654",
+      "source": "Hydrogen Gas Inhalation Treatment in Acute Cerebral Infarction: A Randomized Controlled Clinical Study on Safety and Neuroprotection",
+      "matchedTitle": "Hydrogen Gas Inhalation Treatment in Acute Cerebral Infarction: A Randomized Controlled Clinical Study on Safety and Neuroprotection",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23742229",
+      "source": "Molecular hydrogen: an overview of its neurobiological effects and therapeutic potential for bipolar disorder and schizophrenia",
+      "matchedTitle": "Molecular hydrogen: an overview of its neurobiological effects and therapeutic potential for bipolar disorder and schizophrenia",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-5bb0d2cb9d5aa958",
+      "source": "Suppression of Oxidative Stress-Induced Apoptosis of Neuronal Cells by Electrolyzed-Reduced Water",
+      "matchedTitle": "Suppression of Oxidative Stress-Induced Apoptosis of Neuronal Cells by Electrolyzed-Reduced Water",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-28359771",
+      "source": "Hydrogen-rich saline attenuates anxiety-like behaviors in morphine-withdrawn mice",
+      "matchedTitle": "Hydrogen-rich saline attenuates anxiety-like behaviors in morphine-withdrawn mice",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-29497485",
+      "source": "Hydrogen-rich water for improvements of mood, anxiety, and autonomic nerve function in daily life",
+      "matchedTitle": "Hydrogen-rich water for improvements of mood, anxiety, and autonomic nerve function in daily life",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30053086",
+      "source": "Molecular Hydrogen Prevents Social Deficits and Depression-Like Behaviors Induced by Low-Intensity Blast in Mice",
+      "matchedTitle": "Molecular Hydrogen Prevents Social Deficits and Depression-Like Behaviors Induced by Low-Intensity Blast in Mice",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-29683360",
+      "source": "Hydrogen-rich water improves cognitive impairment gender-dependently in APP/PS1 mice without affecting A β clearance",
+      "matchedTitle": "Hydrogen-rich water improves cognitive impairment gender-dependently in APP/PS1 mice without affecting Aβ clearance",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28386342",
+      "source": "Hydrogen-rich saline attenuates isoflurane-induced caspase-3 activation and cognitive impairment via inhibition of isoflurane-induced oxidative stress, mitochondrial dysfunction, and reduction in ATP levels",
+      "matchedTitle": "Hydrogen-rich saline attenuates isoflurane-induced caspase-3 activation and cognitive impairment via inhibition of isoflurane-induced oxidative stress, mitochondrial dysfunction, and reduction in ATP levels",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22482765",
+      "source": "Hydrogen-rich saline reverses oxidative stress, cognitive impairment, and mortality in rats submitted to sepsis by cecal ligation and puncture",
+      "matchedTitle": "Hydrogen-rich saline reverses oxidative stress, cognitive impairment, and mortality in rats submitted to sepsis by cecal ligation and puncture",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22742936",
+      "source": "Hydrogen-rich saline protects against oxidative damage and cognitive deficits after mild traumatic brain injury",
+      "matchedTitle": "Hydrogen-rich saline protects against oxidative damage and cognitive deficits after mild traumatic brain injury",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20490324",
+      "source": "Drinking Hydrogen Water Ameliorated Cognitive Impairment in Senescence-Accelerated Mice",
+      "matchedTitle": "Drinking hydrogen water ameliorated cognitive impairment in senescence-accelerated mice",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28721265",
+      "source": "Molecular hydrogen stimulates the gene expression of transcriptional coactivator PGC-1 α to enhance fatty acid metabolism",
+      "matchedTitle": "Molecular hydrogen stimulates the gene expression of transcriptional coactivator PGC-1α to enhance fatty acid metabolism",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28890349",
+      "source": "Molecular hydrogen modulates gene expression via histone modification and induces the mitochondrial unfolded protein response",
+      "matchedTitle": "Molecular hydrogen modulates gene expression via histone modification and induces the mitochondrial unfolded protein response",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-11828038",
+      "source": "Sahaja yoga in the management of moderate to severe asthma: a randomised controlled trial Thorax",
+      "matchedTitle": "Sahaja yoga in the management of moderate to severe asthma: a randomised controlled trial",
+      "similarity": 0.962
+    },
+    {
+      "record": "pmid-17917468",
+      "source": "Promoting mindfulness in psychotherapists in training influences the treatment results of their patients: a randomized, double-blind, controlled study",
+      "matchedTitle": "Promoting mindfulness in psychotherapists in training influences the treatment results of their patients: a randomized, double-blind, controlled study",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-21372745",
+      "source": "Mindfulness Training for Coping with Hot Flashes: Results of a Randomized Trial",
+      "matchedTitle": "Mindfulness training for coping with hot flashes: results of a randomized trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-21401686",
+      "source": "A randomised controlled trial of the effects of mindfulness practice on medical student stress levels",
+      "matchedTitle": "A randomised controlled trial of the effects of mindfulness practice on medical student stress levels",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-18311106",
+      "source": "Randomized Controlled Trial of Yogic Meditation Techniques for Patients With Obsessive-Compulsive Disorder",
+      "matchedTitle": "Randomized controlled trial of yogic meditation techniques for patients with obsessive-compulsive disorder",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-26799456",
+      "source": "Mindfulness meditation and the immune system: a systematic review of randomized controlled trials",
+      "matchedTitle": "Mindfulness meditation and the immune system: a systematic review of randomized controlled trials",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-49737",
+      "source": "Randomised Controlled Trial of Yoga and Bio-feedback in management of hypertension",
+      "matchedTitle": "Randomised controlled trial of yoga and bio-feedback in management of hypertension",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23872699",
+      "source": "A randomised controlled trial of a brief online mindfulness-based intervention",
+      "matchedTitle": "A randomised controlled trial of a brief online mindfulness-based intervention",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-b02eca96b6ce2f96",
+      "source": "Meditation Awareness Training (MAT) for Work-related Wellbeing and Job Performance: A Randomised Controlled Trial",
+      "matchedTitle": "Meditation Awareness Training (MAT) for Work-related Wellbeing and Job Performance: A Randomised Controlled Trial",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-21146930",
+      "source": "Treating fibromyalgia with mindfulness-based stress reduction: Results from a 3-armed randomized controlled trial",
+      "matchedTitle": "Treating fibromyalgia with mindfulness-based stress reduction: results from a 3-armed randomized controlled trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25818837",
+      "source": "Mindfulness-based stress reduction for healthy individuals: A meta-analysis",
+      "matchedTitle": "Mindfulness-based stress reduction for healthy individuals: A meta-analysis",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23796855",
+      "source": "Mindfulness-based therapy: A comprehensive meta-analysis",
+      "matchedTitle": "Mindfulness-based therapy: a comprehensive meta-analysis",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22393318",
+      "source": "The unique brain anatomy of meditation practitioners: alterations in cortical gyrification",
+      "matchedTitle": "The unique brain anatomy of meditation practitioners: alterations in cortical gyrification",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22374478",
+      "source": "Bridging the Hemispheres in Meditation: thicker callosal regions and enhanced fractional anisotropy (FA) in long-term practitioners",
+      "matchedTitle": "Bridging the hemispheres in meditation: thicker callosal regions and enhanced fractional anisotropy (FA) in long-term practitioners",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-19267396",
+      "source": "Loving‐kindness meditation to enhance recovery from negative symptoms of schizophrenia",
+      "matchedTitle": "Loving-kindness meditation to enhance recovery from negative symptoms of schizophrenia",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20871742",
+      "source": "Buddha's Brain: Neuroplasticity and Meditation",
+      "matchedTitle": "Buddha's Brain: Neuroplasticity and Meditation",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20013298",
+      "source": "Occipital gamma activation during Vipassana meditation",
+      "matchedTitle": "Occipital gamma activation during Vipassana meditation",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30914965",
+      "source": "Human Heart Rhythms Synchronize While Co-sleeping",
+      "matchedTitle": "Human Heart Rhythms Synchronize While Co-sleeping",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-29075623",
+      "source": "New Frontiers in Heart Rate Variability and Social Coherence Research: Techniques, Technologies, and Implications for Improving Group Dynamics and Outcomes",
+      "matchedTitle": "New Frontiers in Heart Rate Variability and Social Coherence Research: Techniques, Technologies, and Implications for Improving Group Dynamics and Outcomes",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-27512317",
+      "source": "Yoga and heart rate variability: A comprehensive review of the literature",
+      "matchedTitle": "Yoga and heart rate variability: A comprehensive review of the literature",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23574691",
+      "source": "Effect of an office worksite-based yoga program on heart rate variability: outcomes of a randomized controlled trial",
+      "matchedTitle": "Effect of an office worksite-based yoga program on heart rate variability: outcomes of a randomized controlled trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20193089",
+      "source": "Post traumatic stress symptoms and heart rate variability in Bihar flood survivors following yoga: a randomized controlled study",
+      "matchedTitle": "Post traumatic stress symptoms and heart rate variability in Bihar flood survivors following yoga: a randomized controlled study",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22352291",
+      "source": "Effective and viable mind-body stress reduction in the workplace: a randomized controlled trial",
+      "matchedTitle": "Effective and viable mind-body stress reduction in the workplace: a randomized controlled trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-26170587",
+      "source": "Resting heart rate variability after yogic training and swimming: A prospective randomized comparative trial",
+      "matchedTitle": "Resting heart rate variability after yogic training and swimming: A prospective randomized comparative trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22021757",
+      "source": "Yoga respiratory training improves respiratory function and cardiac sympathovagal balance in elderly subjects: a randomised controlled trial",
+      "matchedTitle": "Yoga respiratory training improves respiratory function and cardiac sympathovagal balance in elderly subjects: a randomised controlled trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-26059998",
+      "source": "Yoga for Heart Rate Variability: A Systematic Review and Meta-analysis of Randomized Clinical Trials",
+      "matchedTitle": "Yoga for Heart Rate Variability: A Systematic Review and Meta-analysis of Randomized Clinical Trials",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25694852",
+      "source": "Heart Rate Variability: New Perspectives on Physiological Mechanisms, Assessment of Self-regulatory Capacity, and Health risk",
+      "matchedTitle": "Heart Rate Variability: New Perspectives on Physiological Mechanisms, Assessment of Self-regulatory Capacity, and Health risk",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23914165",
+      "source": "Dynamic correlations between heart and brain rhythm during Autogenic meditation",
+      "matchedTitle": "Dynamic correlations between heart and brain rhythm during Autogenic meditation",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22144961",
+      "source": "Heart rate variability – a historical perspective",
+      "matchedTitle": "Heart rate variability - a historical perspective",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25071612",
+      "source": "Anxiety disorders are associated with reduced heart rate variability: a meta-analysis",
+      "matchedTitle": "Anxiety Disorders are Associated with Reduced Heart Rate Variability: A Meta-Analysis",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20121706",
+      "source": "Heart rate variability (HRV) in adolescent females with anxiety disorders and major depressive disorder",
+      "matchedTitle": "Heart rate variability (HRV) in adolescent females with anxiety disorders and major depressive disorder",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22402913",
+      "source": "The Effect of Heart Rate Variability Biofeedback on Performance Psychology of Basketball Players",
+      "matchedTitle": "The effect of heart rate variability biofeedback on performance psychology of basketball players",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-06a7895977c054af",
+      "source": "Psychophysiological Correlates of Flow-Experience",
+      "matchedTitle": "Psychophysiological Correlates of Flow-Experience",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-23797149",
+      "source": "The relationship between mental and physical health: Insights from the study of heart rate variability",
+      "matchedTitle": "The relationship between mental and physical health: insights from the study of heart rate variability",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-11065312",
+      "source": "Effects of short-term psychological stress on the time and frequency domains of heart-rate variability",
+      "matchedTitle": "Effects of short-term psychological stress on the time and frequency domains of heart-rate variability",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-11673340",
+      "source": "Depression, Heart Rate Variability, and Acute Myocardial Infarction Circulation",
+      "matchedTitle": "Depression, heart rate variability, and acute myocardial infarction",
+      "similarity": 0.913
+    },
+    {
+      "record": "pmid-9483470",
+      "source": "Autonomic balance revisited: panic anxiety and heart rate variability",
+      "matchedTitle": "Autonomic balance revisited: panic anxiety and heart rate variability",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-14991326",
+      "source": "The effect of mental stress on heart rate variability and blood pressure during computer work",
+      "matchedTitle": "The effect of mental stress on heart rate variability and blood pressure during computer work",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-12467953",
+      "source": "Relationship between major depression and heart rate variability. Clinical consequences and implications for antidepressive treatment",
+      "matchedTitle": "Relationship between major depression and heart rate variability. Clinical consequences and implications for antidepressive treatment",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-27647521",
+      "source": "Desynchronization of autonomic response and central autonomic network connectivity in posttraumatic stress disorder",
+      "matchedTitle": "Desynchronization of autonomic response and central autonomic network connectivity in posttraumatic stress disorder",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28588005",
+      "source": "Delivering Cognitive Behavior Therapy to Young Adults With Symptoms of Depression and Anxiety Using a Fully Automated Conversational Agent (Woebot): A Randomized Controlled Trial",
+      "matchedTitle": "Delivering Cognitive Behavior Therapy to Young Adults With Symptoms of Depression and Anxiety Using a Fully Automated Conversational Agent (Woebot): A Randomized Controlled Trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-26679295",
+      "source": "The Feasibility, Acceptability, and Efficacy of Delivering Internet-Based Self-Help and Guided Self-Help Interventions for Generalized Anxiety Disorder to Indian University Students: Design of a Randomized Controlled Trial",
+      "matchedTitle": "The Feasibility, Acceptability, and Efficacy of Delivering Internet-Based Self-Help and Guided Self-Help Interventions for Generalized Anxiety Disorder to Indian University Students: Design of a Randomized Controlled Trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30545815",
+      "source": "Using Psychological Artificial Intelligence (Tess) to Relieve Symptoms of Depression and Anxiety: Randomized Controlled Trial",
+      "matchedTitle": "Using Psychological Artificial Intelligence (Tess) to Relieve Symptoms of Depression and Anxiety: Randomized Controlled Trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25333470",
+      "source": "Naturally Occurring Peer Support through Social Media: The Experiences of Individuals with Severe Mental Illness Using YouTube",
+      "matchedTitle": "Naturally occurring peer support through social media: the experiences of individuals with severe mental illness using YouTube",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25881089",
+      "source": "Using social media for support and feedback by mental health service users: thematic analysis of a twitter conversation",
+      "matchedTitle": "Using social media for support and feedback by mental health service users: thematic analysis of a twitter conversation",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-26647109",
+      "source": "Young adults' experiences of seeking online information about diabetes and mental health in the age of social media",
+      "matchedTitle": "Young adults' experiences of seeking online information about diabetes and mental health in the age of social media",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-26744309",
+      "source": "The future of mental health care: peer-to-peer support and social media",
+      "matchedTitle": "The future of mental health care: peer-to-peer support and social media",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23615206",
+      "source": "A New Dimension of Health Care: Systematic Review of the Uses, Benefits, and Limitations of Social Media for Health Communication",
+      "matchedTitle": "A new dimension of health care: systematic review of the uses, benefits, and limitations of social media for health communication",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-19275991",
+      "source": "Take Two Aspirin And Tweet Me In The Morning: How Twitter, Facebook, And Other Social Media Are Reshaping Health Care",
+      "matchedTitle": "Take two aspirin and tweet me in the morning: how Twitter, Facebook, and other social media are reshaping health care",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-27707822",
+      "source": "Using social media to monitor mental health discussions − evidence from Twitter",
+      "matchedTitle": "Using social media to monitor mental health discussions - evidence from Twitter",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30804863",
+      "source": "Psychotherapy and Artificial Intelligence: A Proposal for Alignment",
+      "matchedTitle": "Psychotherapy and Artificial Intelligence: A Proposal for Alignment",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30858710",
+      "source": "Can Your Phone Be Your Therapist? Young People's Ethical Perspectives on the Use of Fully Automated Conversational Agents (Chatbots) in Mental Health Support",
+      "matchedTitle": "Can Your Phone Be Your Therapist? Young People's Ethical Perspectives on the Use of Fully Automated Conversational Agents (Chatbots) in Mental Health Support",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30949846",
+      "source": "Using Health Chatbots for Behavior Change: A Mapping Study",
+      "matchedTitle": "Using Health Chatbots for Behavior Change: A Mapping Study",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-30552076",
+      "source": "Supported Internet-Delivered Cognitive Behavioral Therapy Programs for Depression, Anxiety, and Stress in University Students: Open, Non-Randomised Trial of Acceptability, Effectiveness, and Satisfaction",
+      "matchedTitle": "Supported Internet-Delivered Cognitive Behavioral Therapy Programs for Depression, Anxiety, and Stress in University Students: Open, Non-Randomised Trial of Acceptability, Effectiveness, and Satisfaction",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-24515537",
+      "source": "Significant Reductions in Posttraumatic Stress Symptoms in Congolese Refugees Within 10 days of Transcendental Meditation Practice",
+      "matchedTitle": "Significant reductions in posttraumatic stress symptoms in Congolese refugees within 10 days of Transcendental Meditation practice",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23568415",
+      "source": "Reduction in Posttraumatic Stress Symptoms in Congolese Refugees Practicing Transcendental Meditation",
+      "matchedTitle": "Reduction in posttraumatic stress symptoms in Congolese refugees practicing transcendental meditation",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-1e1e2bd1138b8cfd",
+      "source": "Inhabited studio: Art therapy and mindfulness, resilience, adversity and refugees",
+      "matchedTitle": "Inhabited studio: Art therapy and mindfulness, resilience, adversity and refugees",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-21630119",
+      "source": "Anger Regulation in Traumatized Cambodian Refugees: The Perspectives of Buddhist Monks",
+      "matchedTitle": "Anger regulation in traumatized Cambodian refugees: the perspectives of Buddhist monks",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-16382423",
+      "source": "A randomized controlled trial of cognitive‐behavior therapy for Cambodian refugees with treatment‐resistant PTSD and panic attacks: A cross‐over design",
+      "matchedTitle": "A randomized controlled trial of cognitive-behavior therapy for Cambodian refugees with treatment-resistant PTSD and panic attacks: a cross-over design",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20072706",
+      "source": "Modifying Exposure-Based CBT for Cambodian Refugees with Posttraumatic Stress Disorder",
+      "matchedTitle": "Modifying Exposure-Based CBT for Cambodian Refugees with Posttraumatic Stress Disorder",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-23784718",
+      "source": "Loving‐Kindness in the Treatment of Traumatized Refugees and Minority Groups: A Typology of Mindfulness and the Nodal Network Model of Affect and Affect Regulation",
+      "matchedTitle": "Loving-kindness in the treatment of traumatized refugees and minority groups: a typology of mindfulness and the nodal network model of affect and affect regulation",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-afe44de7f462e56e",
+      "source": "A Stress Reduction and Self-Care Group for Homeless and Addicted Women: Meditation, Relaxation and Cognitive Methods",
+      "matchedTitle": "A Stress Reduction and Self-Care Group for Homeless and Addicted Women: Meditation, Relaxation and Cognitive Methods",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-29228794",
+      "source": "Learning to BREATHE: A Pilot Study of a Mindfulness-Based Intervention to Support Marginalized Youth",
+      "matchedTitle": "Learning to BREATHE: A Pilot Study of a Mindfulness-Based Intervention to Support Marginalized Youth",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25862338",
+      "source": "Inner Resources for Survival: Integrating Interpersonal Psychotherapy with Spiritual Visualization with Homeless Youth",
+      "matchedTitle": "Inner resources for survival: integrating interpersonal psychotherapy with spiritual visualization with homeless youth",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-12801395",
+      "source": "Ethical issues in qualitative health research with homeless youths",
+      "matchedTitle": "Ethical issues in qualitative health research with homeless youths",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-2cc6078ca91d89ea",
+      "source": "Studies of resilience among youth experiencing homelessness: A systematic review",
+      "matchedTitle": "Studies of resilience among youth experiencing homelessness: A systematic review",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-1e4b5bdcc2212351",
+      "source": "Does Mindfulness Meditation Increase Effectiveness of Substance Abuse Treatment with Incarcerated Youth? A Pilot Randomized Controlled Trial",
+      "matchedTitle": "Does Mindfulness Meditation Increase Effectiveness of Substance Abuse Treatment with Incarcerated Youth? A Pilot Randomized Controlled Trial",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-bcda25fdeb002c46",
+      "source": "Translating and Implementing a Mindfulness-Based Youth Suicide Prevention Intervention in a Native American Community",
+      "matchedTitle": "Translating and Implementing a Mindfulness-Based Youth Suicide Prevention Intervention in a Native American Community",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-25234347",
+      "source": "Self-Compassion in Recovery Following Potentially Traumatic Stress: Longitudinal Study of At-Risk Youth",
+      "matchedTitle": "Self-compassion in recovery following potentially traumatic stress: longitudinal study of at-risk youth",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-26256140",
+      "source": "A pilot randomized trial teaching mindfulness-based stress reduction to traumatized youth in foster care",
+      "matchedTitle": "A pilot randomized trial teaching mindfulness-based stress reduction to traumatized youth in foster care",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25582800",
+      "source": "Mindfulness‐based cognitive therapy for youth with anxiety disorders at risk for bipolar disorder: a pilot trial",
+      "matchedTitle": "Mindfulness-based cognitive therapy for youth with anxiety disorders at risk for bipolar disorder: a pilot trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-b8c111dd4c4a9cd1",
+      "source": "Nurturing Mindfulness in Children and Youth: Current State of Research",
+      "matchedTitle": "Nurturing Mindfulness in Children and Youth: Current State of Research",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-20440550",
+      "source": "Feasibility and Preliminary Outcomes of a School-Based Mindfulness Intervention for Urban Youth",
+      "matchedTitle": "Feasibility and preliminary outcomes of a school-based mindfulness intervention for urban youth",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-efaa5ab4cab4e9ec",
+      "source": "Spirituality Development for Homeless Youth: A Mindfulness Meditation Feasibility Pilot",
+      "matchedTitle": "Spirituality Development for Homeless Youth: A Mindfulness Meditation Feasibility Pilot",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-2d7461017405ab6b",
+      "source": "Teaching Mindfulness to Middle School Students and Homeless Youth in School Classrooms",
+      "matchedTitle": "Teaching Mindfulness to Middle School Students and Homeless Youth in School Classrooms",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-24257410",
+      "source": "The effectiveness of a suicide prevention app for indigenous Australian youths: study protocol for a randomized controlled trial",
+      "matchedTitle": "The effectiveness of a suicide prevention app for indigenous Australian youths: study protocol for a randomized controlled trial",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-3033fb68b3cc2d76",
+      "source": "Digital Communications Among Homeless People: Anomaly or Necessity?",
+      "matchedTitle": "Digital communications among homeless people: Anomaly or necessity?",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-0e7b54c332697f06",
+      "source": "Hack for the homeless: A humanitarian technology hackathon",
+      "matchedTitle": "Hack for the homeless: A humanitarian technology hackathon",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-24609454",
+      "source": "Feasibility, Acceptability, and Preliminary Efficacy of a Smartphone Intervention for Schizophrenia",
+      "matchedTitle": "Feasibility, acceptability, and preliminary efficacy of a smartphone intervention for schizophrenia",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-31097900",
+      "source": "No digital divide? Technology use among homeless adults",
+      "matchedTitle": "No Digital Divide? Technology Use among Homeless Adults",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25046280",
+      "source": "The Potential for Health Related Use of Mobile Phones and Internet with Homeless Veterans: results from Multi-site Survey",
+      "matchedTitle": "The potential for health-related uses of mobile phones and internet with homeless veterans: results from a multisite survey",
+      "similarity": 0.99
+    },
+    {
+      "record": "pmid-24001876",
+      "source": "New Media Use by Patients Who Are Homeless: The Potential of mHealth to Build Connectivity",
+      "matchedTitle": "New media use by patients who are homeless: the potential of mHealth to build connectivity",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-27417882",
+      "source": "YTH StreetConnect: Development and Usability of a Mobile App for Homeless and Unstably Housed Youth",
+      "matchedTitle": "YTH StreetConnect: Development and Usability of a Mobile App for Homeless and Unstably Housed Youth",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28481610",
+      "source": "Exploring the Potential of Technology-Based Mental Health Services for Homeless Youth: A Qualitative Study",
+      "matchedTitle": "Exploring the potential of technology-based mental health services for homeless youth: A qualitative study",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-25653222",
+      "source": "A smartphone dongle for diagnosis of infectious diseases at the point of care",
+      "matchedTitle": "A smartphone dongle for diagnosis of infectious diseases at the point of care",
+      "similarity": 1.0
+    },
+    {
+      "record": "doi-66e3650652d792e2",
+      "source": "Now you see them: Self-representation and the refugee selfie",
+      "matchedTitle": "Now you see them: Self-representation and the refugee selfie",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-335fd4c429caa4ae",
+      "source": "Exploring Media Platforms to Serve the Needs of the South Sudanese Former Refugee Community in Southeast Queensland",
+      "matchedTitle": "Exploring Media Platforms to Serve the Needs of the South Sudanese Former Refugee Community in Southeast Queensland",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "doi-94ef326e2e9a602d",
+      "source": "Syrian Refugees and the Digital Passage to Europe: Smartphone Infrastructures and Affordances",
+      "matchedTitle": "Syrian Refugees and the Digital Passage to Europe: Smartphone Infrastructures and Affordances",
+      "sourceDatabase": "Crossref"
+    },
+    {
+      "record": "pmid-27225519",
+      "source": "Social media and digital technology use among Indigenous young people in Australia: a literature review",
+      "matchedTitle": "Social media and digital technology use among Indigenous young people in Australia: a literature review",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-11437809",
+      "source": "Prevalence of psychological distress and psychiatric disorders among homeless youth in Australia: a comparative review",
+      "matchedTitle": "Prevalence of psychological distress and psychiatric disorders among homeless youth in Australia: a comparative review",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-11127626",
+      "source": "Lifetime Prevalence of Trauma among Homeless People in Sydney",
+      "matchedTitle": "Lifetime prevalence of trauma among homeless people in Sydney",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-14961935",
+      "source": "Psychiatric Disorders in Homeless Men and Women in Inner Sydney",
+      "matchedTitle": "Psychiatric disorders in homeless men and women in inner Sydney",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28222713",
+      "source": "The mental health status of refugees and asylum seekers attending a refugee health clinic including comparisons with a matched sample of Australian-born residents",
+      "matchedTitle": "The mental health status of refugees and asylum seekers attending a refugee health clinic including comparisons with a matched sample of Australian-born residents",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-17938152",
+      "source": "No Refuge from Terror: The Impact of Detention on the Mental Health of Trauma-affected Refugees Seeking Asylum in Australia",
+      "matchedTitle": "No refuge from terror: the impact of detention on the mental health of trauma-affected refugees seeking asylum in Australia",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-19875131",
+      "source": "The impact of fear for family on mental health in a resettled Iraqi refugee community",
+      "matchedTitle": "The impact of fear for family on mental health in a resettled Iraqi refugee community",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-19654388",
+      "source": "Association of Torture and Other Potentially Traumatic Events With Mental Health Outcomes Among Populations Exposed to Mass Conflict and Displacement: A Systematic Review and Meta-analysis",
+      "matchedTitle": "Association of torture and other potentially traumatic events with mental health outcomes among populations exposed to mass conflict and displacement: a systematic review and meta-analysis",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-17450451",
+      "source": "Trauma, PTSD and the longer-term mental health burden amongst Vietnamese refugees. A comparison with the Australian-born population",
+      "matchedTitle": "Trauma, PTSD and the longer-term mental health burden amongst Vietnamese refugees : a comparison with the Australian-born population",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-17938152",
+      "source": "No Refuge from Terror: The Impact of Detention on the Mental Health of Trauma-affected Refugees Seeking Asylum in Australia",
+      "matchedTitle": "No refuge from terror: the impact of detention on the mental health of trauma-affected refugees seeking asylum in Australia",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-16476137",
+      "source": "Trauma, Post-Migration Living Difficulties, and Social Support as Predictors of Psychological Adjustment in Resettled Sudanese Refugees",
+      "matchedTitle": "Trauma, post-migration living difficulties, and social support as predictors of psychological adjustment in resettled Sudanese refugees",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-16388071",
+      "source": "Impact of immigration detention and temporary protection on the mental health of refugees Cambridge Core",
+      "matchedTitle": "Impact of immigration detention and temporary protection on the mental health of refugees",
+      "similarity": 0.922
+    },
+    {
+      "record": "pmid-17441816",
+      "source": "Disadvantage and discontent: A review of issues relevant to the mental health of rural and remote Indigenous Australians",
+      "matchedTitle": "Disadvantage and discontent: a review of issues relevant to the mental health of rural and remote Indigenous Australians",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-17508316",
+      "source": "Indigenous Australians’ understandings regarding mental health and disorders",
+      "matchedTitle": "Indigenous Australians' understandings regarding mental health and disorders",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-22304605",
+      "source": "Mental health of Indigenous Australians: a review of findings from community surveys",
+      "matchedTitle": "Mental health of Indigenous Australians: a review of findings from community surveys",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-11421971",
+      "source": "Australian Indigenous mental health",
+      "matchedTitle": "Australian Indigenous mental health",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-19646284",
+      "source": "Mental health first aid for Indigenous Australians: using Delphi consensus studies to develop guidelines for culturally appropriate responses to mental health problems",
+      "matchedTitle": "Mental health first aid for Indigenous Australians: using Delphi consensus studies to develop guidelines for culturally appropriate responses to mental health problems",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-20367644",
+      "source": "Barriers and facilitators to the utilization of adult mental health services by Australia's Indigenous people: Seeking a way forward",
+      "matchedTitle": "Barriers and facilitators to the utilization of adult mental health services by Australia's Indigenous people: seeking a way forward",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28795405",
+      "source": "Genomewide DNA methylation analysis in combat veterans reveals a novel locus for PTSD",
+      "matchedTitle": "Genomewide DNA methylation analysis in combat veterans reveals a novel locus for PTSD",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-26074123",
+      "source": "Time-course of PTSD symptoms in the Australian Defence Force: a retrospective cohort study",
+      "matchedTitle": "Time-course of PTSD symptoms in the Australian Defence Force: a retrospective cohort study",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-29769367",
+      "source": "Similarities between military and medical service: stigma of seeking mental health assistance",
+      "matchedTitle": "Similarities between military and medical service: stigma of seeking mental health assistance",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-28103407",
+      "source": "The Course and Correlates of Combat‐Related PTSD in Australian Vietnam Veterans in the Three Decades After the War",
+      "matchedTitle": "The Course and Correlates of Combat-Related PTSD in Australian Vietnam Veterans in the Three Decades After the War",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-9119558",
+      "source": "The Australian Vietnam Veterans Health Study: III. Psychological Health of Australian Vietnam Veterans and its Relationship to Combat",
+      "matchedTitle": "The Australian Vietnam Veterans Health Study: III. psychological health of Australian Vietnam veterans and its relationship to combat",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-18833581",
+      "source": "The DRD2 gene 957C>T polymorphism is associated with Posttraumatic Stress Disorder in war veterans",
+      "matchedTitle": "The DRD2 gene 957C>T polymorphism is associated with posttraumatic stress disorder in war veterans",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-15310251",
+      "source": "Randomised controlled trial of health assessments for older Australian veterans and war widows",
+      "matchedTitle": "Randomised controlled trial of health assessments for older Australian veterans and war widows",
+      "similarity": 1.0
+    },
+    {
+      "record": "pmid-21967386",
+      "source": "Partnering With Communities to Address the Mental Health Needs of Rural Veterans",
+      "matchedTitle": "Partnering with communities to address the mental health needs of rural veterans",
+      "similarity": 1.0
+    }
+  ],
+  "unresolvedTitleMismatches": [
+    {
+      "source": "“ Fifty veterans with PTSD received 10 days of sham-controlled iTBS (1,800 pulses/day), followed by",
+      "metadata": "Intermittent Theta Burst Stimulation of the Prefrontal Cortex in Cocaine Use Disorder: A Pilot Study.",
+      "pmid": "31402851",
+      "similarity": 0.319
+    },
+    {
+      "source": "“ Fifty veterans with PTSD received 10 days of sham-controlled iTBS (1,800 pulses/day), followed by",
+      "metadata": "Intermittent Theta Burst Stimulation of the Prefrontal Cortex in Cocaine Use Disorder: A Pilot Study.",
+      "pmid": "31402851",
+      "similarity": 0.319
+    },
+    {
+      "source": "The prospects of quantum computing in computational molecular biology",
+      "metadata": "The Effect of Binaural Beat Technology on the Cardiovascular Stress Response in Military Service Members With Postdeployment Stress.",
+      "pmid": "28544507",
+      "similarity": 0.32
+    },
+    {
+      "source": "Use of EMDR-Derived Self-Help Intervention in Children in the Period of COVID-19: A Randomized-Controlled Study",
+      "metadata": "Group eye movement desensitization and reprocessing interventions in adults and children: A systematic review of randomized and nonrandomized trials.",
+      "pmid": "33415797",
+      "similarity": 0.471
+    }
+  ],
+  "excludedRecentPapers": [
+    {
+      "pmid": "39240701",
+      "reason": "Retracted publication; excluded from the curated update."
+    }
+  ],
+  "excludedLegacyArtwork": [
+    "1f9604e02ab4.jpg",
+    "409af82cb9f0.jpg",
+    "5eb58a7464bc.png",
+    "6c457a16b50d.jpg",
+    "c620c80d131e.jpg",
+    "e9be14c3a2a1.jpg"
+  ]
+}

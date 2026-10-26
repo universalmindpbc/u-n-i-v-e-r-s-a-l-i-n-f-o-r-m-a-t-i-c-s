@@ -1,0 +1,51 @@
+{
+  "base": "https://staging.universalmind.tv/informatics/library.html",
+  "checks": [
+    {
+      "width": 1470,
+      "publisherGroups": true,
+      "nature": 49,
+      "frontiers": 42,
+      "uniqueRecords": 781,
+      "multipleSelections": true,
+      "themes": 3,
+      "newChaptersAndTrustScores": true
+    },
+    {
+      "width": 1024,
+      "publisherGroups": true,
+      "nature": 49,
+      "frontiers": 42,
+      "uniqueRecords": 781,
+      "multipleSelections": true,
+      "themes": 3,
+      "newChaptersAndTrustScores": true
+    },
+    {
+      "width": 390,
+      "publisherGroups": true,
+      "nature": 49,
+      "frontiers": 42,
+      "uniqueRecords": 781,
+      "multipleSelections": true,
+      "themes": 3,
+      "newChaptersAndTrustScores": true
+    },
+    {
+      "width": 320,
+      "publisherGroups": true,
+      "nature": 49,
+      "frontiers": 42,
+      "uniqueRecords": 781,
+      "multipleSelections": true,
+      "themes": 3,
+      "newChaptersAndTrustScores": true
+    }
+  ],
+  "errors": [],
+  "audioMuted": true,
+  "sourceCommit": "90ab8712",
+  "visualReview": "Desktop video and mobile white publisher selection screenshots inspected. Labels, checkbox selections and new chapter content are readable; no horizontal clipping.",
+  "deployment": "Existing deploy-panthur-staging.sh informatics; nine changed assets uploaded; standard preflights passed.",
+  "productionNewResearchPublished": false
+}

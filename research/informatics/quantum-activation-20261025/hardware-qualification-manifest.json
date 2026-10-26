@@ -1,0 +1,144 @@
+{
+  "passed": true,
+  "tasks": 16,
+  "shots_per_task": 100,
+  "total_shots": 1600,
+  "provider_price_usd_per_task": 0.3,
+  "provider_price_usd_per_shot": 0.01,
+  "quantum_fee_usd": 20.8,
+  "existing_total_spend_usd": 1.3,
+  "required_cumulative_cap_usd": 22.1,
+  "price_source": "https://aws.amazon.com/braket/pricing/",
+  "records": [
+    {
+      "id": "chr3-8752896-8753152-ordinary",
+      "action_sha256": "fe22d1b2dcaaa39a14938d463cdb134acf9cdd4eba68667005bf4416eeaa40b2",
+      "file": "chr3-8752896-8753152-ordinary.ahs.discretized.json",
+      "qasm_sha256": "b597a10ff984f6348fae46a0ffeb6a7cbbe30d533d3a1bc35014894980a001b4",
+      "maximum_serialization_field_difference_rad_s": 1.1641532182693481e-10,
+      "device_constraints_passed": true
+    },
+    {
+      "id": "chr3-8752896-8753152-fibonacci",
+      "action_sha256": "ac4271a98cd6b78da32841645e18650e344b4c81b1ee0505e61213e430ac0e49",
+      "file": "chr3-8752896-8753152-fibonacci.ahs.discretized.json",
+      "qasm_sha256": "1354db7cf7b7b738fd5859f6a8a9b572a442e5010dd2f7c184d7abf5c4f60c6f",
+      "maximum_serialization_field_difference_rad_s": 1.1641532182693481e-10,
+      "device_constraints_passed": true
+    },
+    {
+      "id": "chr3-8752896-8753152-phi",
+      "action_sha256": "202264a53207c08628a76295313348fb2174fb04d51d81127cf9f343d1bf04e9",
+      "file": "chr3-8752896-8753152-phi.ahs.discretized.json",
+      "qasm_sha256": "589a0e83e9f42f0e914e009f4b30759da1383159a1463a379f444a5bff86523c",
+      "maximum_serialization_field_difference_rad_s": 4.656612873077393e-10,
+      "device_constraints_passed": true
+    },
+    {
+      "id": "chr3-8752896-8753152-alpha",
+      "action_sha256": "0a2a713e7f9f3705343a561cf2fbffe7be81bde0a33788f5758b155e4ce861cc",
+      "file": "chr3-8752896-8753152-alpha.ahs.discretized.json",
+      "qasm_sha256": "3433b97e8503a79a8d5a1b610b8be56605031544d611c554a95dcb3add3efa10",
+      "maximum_serialization_field_difference_rad_s": 2.3283064365386963e-10,
+      "device_constraints_passed": true
+    },
+    {
+      "id": "chr3-8752896-8753152-beta",
+      "action_sha256": "fcaff9dd5e9f30e60ebb8fa5a6ab6aafeebf8761be1fa4724dc64ed734188f24",
+      "file": "chr3-8752896-8753152-beta.ahs.discretized.json",
+      "qasm_sha256": "c4d2a8466638c7df1bbb9a97ae40ced849e3ac824a57172678845f303db9a621",
+      "maximum_serialization_field_difference_rad_s": 4.656612873077393e-10,
+      "device_constraints_passed": true
+    },
+    {
+      "id": "chr3-8752896-8753152-gamma",
+      "action_sha256": "0bd0ba88f2e4040225a06f20f72181d3c60015d5a175822f7c7cdc34743605a3",
+      "file": "chr3-8752896-8753152-gamma.ahs.discretized.json",
+      "qasm_sha256": "61a63256cc00c4ae655d58e48ecf7ea4e98eb0da2d08b73dcd24cede6cd258be",
+      "maximum_serialization_field_difference_rad_s": 4.656612873077393e-10,
+      "device_constraints_passed": true
+    },
+    {
+      "id": "chr3-8752896-8753152-epsilon",
+      "action_sha256": "6a143c97e58ba08304c50ef53ff29ec3a6d5fd2f25c199b9539fa6a3594806d3",
+      "file": "chr3-8752896-8753152-epsilon.ahs.discretized.json",
+      "qasm_sha256": "49739bc9d9517b6851122ef012deb2bc1c64b64c6b6ab3fdf64ba3811c9823aa",
+      "maximum_serialization_field_difference_rad_s": 4.656612873077393e-10,
+      "device_constraints_passed": true
+    },
+    {
+      "id": "chr3-8752896-8753152-shuffled",
+      "action_sha256": "8332f3821634a325af432af210cfa33129b38b9e3fa8e7fcf4e6e8d6893c3194",
+      "file": "chr3-8752896-8753152-shuffled.ahs.discretized.json",
+      "qasm_sha256": "686769fdd962a6e97014db9ce2fabe94e91c5a20e9588b012099512fe7d629dc",
+      "maximum_serialization_field_difference_rad_s": 1.1641532182693481e-10,
+      "device_constraints_passed": true
+    },
+    {
+      "id": "chr3-8745472-8745728-ordinary",
+      "action_sha256": "d869049208f106dd977eecf276963741da50ab88d64f1cd34b7a0e33033faee2",
+      "file": "chr3-8745472-8745728-ordinary.ahs.discretized.json",
+      "qasm_sha256": "2be4cd926ff711dd4eb3bab20c706e41d4867f0e1e6830ff72bca64de4388984",
+      "maximum_serialization_field_difference_rad_s": 2.3283064365386963e-10,
+      "device_constraints_passed": true
+    },
+    {
+      "id": "chr3-8745472-8745728-fibonacci",
+      "action_sha256": "79496c4189eb26b8db0253832ef179633aac5082504295a3e22cd1b20c3999ae",
+      "file": "chr3-8745472-8745728-fibonacci.ahs.discretized.json",
+      "qasm_sha256": "537805df821e34e1249353a770ab32e98816ac11212e92d0ccd024ce1c4d0a46",
+      "maximum_serialization_field_difference_rad_s": 2.3283064365386963e-10,
+      "device_constraints_passed": true
+    },
+    {
+      "id": "chr3-8745472-8745728-phi",
+      "action_sha256": "8ac7cb7ceb0cdeac9ab2f44f08d099b54526d2a4684464c975f6232e1e8035ab",
+      "file": "chr3-8745472-8745728-phi.ahs.discretized.json",
+      "qasm_sha256": "f457f7b1ef24730aa3b877a60f9527e335c2d2d774d76fa258b3f5eb5ddf6edd",
+      "maximum_serialization_field_difference_rad_s": 4.656612873077393e-10,
+      "device_constraints_passed": true
+    },
+    {
+      "id": "chr3-8745472-8745728-alpha",
+      "action_sha256": "6834f5a024655fb91c03c891a292386ec374c9014f3bab0fa342611a42fda4a7",
+      "file": "chr3-8745472-8745728-alpha.ahs.discretized.json",
+      "qasm_sha256": "0bec4043aee3c5ebeb073f5876ead4d5777cfbb547cd56ad017f15fb21812e7a",
+      "maximum_serialization_field_difference_rad_s": 4.656612873077393e-10,
+      "device_constraints_passed": true
+    },
+    {
+      "id": "chr3-8745472-8745728-beta",
+      "action_sha256": "af3bf81aa92219471572d38eb644faeb6df399e5345c27cc2265016eabe6a60e",
+      "file": "chr3-8745472-8745728-beta.ahs.discretized.json",
+      "qasm_sha256": "c52b3575b85e99a7424a71da0ed1dd8cdc39fda1381db2e2f38912c10405bd22",
+      "maximum_serialization_field_difference_rad_s": 4.656612873077393e-10,
+      "device_constraints_passed": true
+    },
+    {
+      "id": "chr3-8745472-8745728-gamma",
+      "action_sha256": "fac33ef88eb742d13fda67fb53d364c2b1f18d9c3c347bbac7d68adc10af8d48",
+      "file": "chr3-8745472-8745728-gamma.ahs.discretized.json",
+      "qasm_sha256": "cd4ec3981f512eb7e7bbd31df8a59322529654c9d104c2e7cf5befcfcb3060eb",
+      "maximum_serialization_field_difference_rad_s": 2.3283064365386963e-10,
+      "device_constraints_passed": true
+    },
+    {
+      "id": "chr3-8745472-8745728-epsilon",
+      "action_sha256": "72a9eff5d3a82e5f096c3ad20dfcaa742ec38832f14518a006d14f82e561028d",
+      "file": "chr3-8745472-8745728-epsilon.ahs.discretized.json",
+      "qasm_sha256": "39efb2093b77b7c0e05274881e6bc21e085217c9f11ff7b73e4222e9a0e23710",
+      "maximum_serialization_field_difference_rad_s": 2.3283064365386963e-10,
+      "device_constraints_passed": true
+    },
+    {
+      "id": "chr3-8745472-8745728-shuffled",
+      "action_sha256": "8fcc648c1601cd0b65d5a1076e0ec9aa957a5ad8ff742760d45bcc0f9095bac4",
+      "file": "chr3-8745472-8745728-shuffled.ahs.discretized.json",
+      "qasm_sha256": "761e848b6ea24a7135b06bb116123604aa691ad0f079399a298e37267e2f0dcb",
+      "maximum_serialization_field_difference_rad_s": 2.3283064365386963e-10,
+      "device_constraints_passed": true
+    }
+  ],
+  "purpose": "Qualification batch; biological prediction evaluation remains a later phase",
+  "hardware_submitted": false
+}

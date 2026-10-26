@@ -1,0 +1,155 @@
+{
+  "baseCommit": "47bf7553",
+  "vision": {
+    "candidate": true,
+    "checks": [
+      {
+        "width": 1470,
+        "themes": 3,
+        "chapters": 4,
+        "topics": 15,
+        "molecularPapers": 10,
+        "exported": 93,
+        "stats": "Papers & references\n93\nJournals\n50\nRecorded citations\n3,040"
+      },
+      {
+        "width": 1024,
+        "themes": 3,
+        "chapters": 4,
+        "topics": 15,
+        "molecularPapers": 10,
+        "exported": 93,
+        "stats": "Papers & references\n93\nJournals\n50\nRecorded citations\n3,040"
+      },
+      {
+        "width": 390,
+        "themes": 3,
+        "chapters": 4,
+        "topics": 15,
+        "molecularPapers": 10,
+        "exported": 93,
+        "stats": "Papers & references\n93\nJournals\n50\nRecorded citations\n3,040"
+      },
+      {
+        "width": 320,
+        "themes": 3,
+        "chapters": 4,
+        "topics": 15,
+        "molecularPapers": 10,
+        "exported": 93,
+        "stats": "Papers & references\n93\nJournals\n50\nRecorded citations\n3,040"
+      }
+    ],
+    "errors": [],
+    "audio": "Chromium process launched with --mute-audio; all pages paused and closed"
+  },
+  "languageRegression": {
+    "url": "https://staging.universalmind.tv/informatics/library.html?collection=language",
+    "candidate": true,
+    "checkedAt": "2026-10-23T10:18:40.404Z",
+    "processAudioMuted": true,
+    "checks": [
+      {
+        "width": 1470,
+        "languagePapers": 327,
+        "generalPapers": 293,
+        "allPapers": 758,
+        "originalQuotesRetained": 299,
+        "verbatimHeroStudies": true,
+        "languageAssessmentScope": true,
+        "topicTrustScores": [
+          2,
+          null,
+          2
+        ],
+        "studyDesignsRetained": 19,
+        "datedCitationSnapshots": 19,
+        "trustScoreFilters": true,
+        "jadadStates": true,
+        "crossListing": true,
+        "keyboard": true,
+        "themes": 3,
+        "overflow": false
+      },
+      {
+        "width": 1024,
+        "languagePapers": 327,
+        "generalPapers": 293,
+        "allPapers": 758,
+        "originalQuotesRetained": 299,
+        "verbatimHeroStudies": true,
+        "languageAssessmentScope": true,
+        "topicTrustScores": [
+          2,
+          null,
+          2
+        ],
+        "studyDesignsRetained": 19,
+        "datedCitationSnapshots": 19,
+        "trustScoreFilters": true,
+        "jadadStates": true,
+        "crossListing": true,
+        "keyboard": true,
+        "themes": 3,
+        "overflow": false
+      },
+      {
+        "width": 390,
+        "languagePapers": 327,
+        "generalPapers": 293,
+        "allPapers": 758,
+        "originalQuotesRetained": 299,
+        "verbatimHeroStudies": true,
+        "languageAssessmentScope": true,
+        "topicTrustScores": [
+          2,
+          null,
+          2
+        ],
+        "studyDesignsRetained": 19,
+        "datedCitationSnapshots": 19,
+        "trustScoreFilters": true,
+        "jadadStates": true,
+        "crossListing": true,
+        "keyboard": true,
+        "themes": 3,
+        "overflow": false
+      },
+      {
+        "width": 320,
+        "languagePapers": 327,
+        "generalPapers": 293,
+        "allPapers": 758,
+        "originalQuotesRetained": 299,
+        "verbatimHeroStudies": true,
+        "languageAssessmentScope": true,
+        "topicTrustScores": [
+          2,
+          null,
+          2
+        ],
+        "studyDesignsRetained": 19,
+        "datedCitationSnapshots": 19,
+        "trustScoreFilters": true,
+        "jadadStates": true,
+        "crossListing": true,
+        "keyboard": true,
+        "themes": 3,
+        "overflow": false
+      }
+    ],
+    "errors": []
+  },
+  "staticChecks": {
+    "javascriptSyntax": "passed",
+    "topicTrustTests": 5,
+    "gitDiffCheck": "passed"
+  },
+  "visualReview": [
+    "assessment desktop black",
+    "assessment mobile video",
+    "assessment desktop white",
+    "contents desktop",
+    "molecular mobile"
+  ]
+}

@@ -1,0 +1,29 @@
+Subject: API-created draft documents return Document not found
+
+Hello DeSci Support,
+
+Please restore the editable document for this existing Universal Informatics archive and investigate the same failure on newly created drafts.
+
+Existing draft: n-_wkF_5LYvm_uoZ_hdFE7wEybmRoXFi2J1Qa4F0USA
+Recorded document ID: 43oxboqgNaSWgHDZVsM3vQ3ECuqi
+Recovered archive manifest CID: bafkreicldcdkxjvsdqwbntljqhfacjsmhbsutaz7qtfcbvvgusuw5j4s7m
+Verified directory CID: bafybeiegycaritcwqqx6rfeoazvv3cdlh7klfaw5gqftdtik6pdxz5egbe
+
+The 33 archive files and recovered manifest are intact. Please preserve these files, CIDs and private access.
+
+Observed on 26 October 2026:
+1. The node API returns a valid recovered manifest and its original document ID.
+2. GET /v1/nodes/documents/{uuid} returns HTTP 200 with document:null.
+3. POST /v1/nodes/documents/{uuid}/actions with the existing title returns HTTP 400 and Document not found.
+4. POST /v1/nodes/prepublish fails while reading components from a null manifest.
+
+A fresh empty diagnostic draft reproduced the same action failure immediately after createDraft returned a populated document. The diagnostic draft was then removed; no archive files were deleted.
+Diagnostic draft: 25ml2hc2yomwLsxbT6UetGUaYM5fgLszZmvNUaqv2pU
+Diagnostic document ID: 49mvo5QpFH2YgMRkPQ4F342Xj4M6
+Test time: 2026-10-26 00:01:11 UTC / 11:01:11 am Sydney time.
+
+Please confirm restoration by successfully retrieving and editing the existing draft document and preparing its manifest. The archive remains private; no public publication is requested.
+
+No API keys, credentials or research payloads are included in this report.
+
+Ben Korbel / Universal Mind

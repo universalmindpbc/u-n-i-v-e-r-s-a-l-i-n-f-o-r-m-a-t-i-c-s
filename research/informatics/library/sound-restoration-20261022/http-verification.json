@@ -1,0 +1,72 @@
+{
+  "checkedAt": "2026-10-21T19:00:38.434449+00:00",
+  "sourceCommit": "fec4e701",
+  "integratedBaseline": "031c1c3d",
+  "assets": [
+    {
+      "asset": "Informatics/index.html",
+      "sha256": "4afb10818829daf3fd31b9de7b88f378bba6769c93e17dd923e7f24fc07c9ef9",
+      "matches": true
+    },
+    {
+      "asset": "Informatics/library-data/sound-edition.json",
+      "sha256": "72b21f12aa82d6f2e0fd4033dc3b047322db8fd9945994e3d1225093966592bc",
+      "matches": true
+    },
+    {
+      "asset": "Informatics/library-launcher.css",
+      "sha256": "2d230e7215cc10c868765d9050a5173d405d9ba343300116e512339bc682bdf9",
+      "matches": true
+    },
+    {
+      "asset": "Informatics/library-launcher.js",
+      "sha256": "e658635d4c81bae246d42eddb00a11aeac02897d85a240df569bcce773b2cf26",
+      "matches": true
+    },
+    {
+      "asset": "Informatics/library.css",
+      "sha256": "73e2ffa21648750b53998f82c47fd70bb4a2f6c8ece2f964a74e8b1e6e376d09",
+      "matches": true
+    },
+    {
+      "asset": "Informatics/library.html",
+      "sha256": "8c6193017f0e4f1b3d173f54dbf0418938d252223d36c4e14f9d7c1bc0a6d201",
+      "matches": true
+    },
+    {
+      "asset": "Informatics/library.js",
+      "sha256": "fdc5bb595317e9442815f8bfad5eea452f8c8451238e90cc8d077da341b7eddb",
+      "matches": true
+    },
+    {
+      "asset": "Informatics/molecular/atlas.css",
+      "sha256": "f7bcf4fa8876eade4e81f15547081e01edeab43355e55b666b382ef95a9232d8",
+      "matches": true
+    },
+    {
+      "asset": "Informatics/molecular/atlas.js",
+      "sha256": "b370b34dd14917336a39d0a6191099ffde41dc1b3f6b58ace1bc09b7be8e4c9d",
+      "matches": true
+    },
+    {
+      "asset": "Informatics/molecular/index.html",
+      "sha256": "e2c469a2b98c6b7ccbd6841bf94dca053c6531d4ec1490542ed481b06b49409e",
+      "matches": true
+    },
+    {
+      "asset": "Informatics/molecular/vendor/BIOEXCEL-LICENSE.txt",
+      "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+      "matches": true
+    },
+    {
+      "asset": "Informatics/molecular/vendor/dna-model-notice.txt",
+      "sha256": "537f6757036e08886c87e9e3be4879f4b208f492d1c076fa318955bf1ac4527d",
+      "matches": true
+    },
+    {
+      "asset": "Informatics/molecular/vendor/engine.js",
+      "sha256": "c9b21fb5c2eb0c0fae64bd865699ec16e44df7b6d754bfaf3240190c3f3673f8",
+      "matches": true
+    }
+  ]
+}

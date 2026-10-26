@@ -1,0 +1,121 @@
+[
+  {
+    "name": "OCE1",
+    "reported_coordinates_hg38": "chr3:9216878-9216942",
+    "overlaps_current_atlas": false,
+    "primer_matches": [],
+    "positive_reporter_assay": true,
+    "mouse_olfactory_bulb_reporter": false
+  },
+  {
+    "name": "OCE2",
+    "reported_coordinates_hg38": "chr3:8767848-8768429",
+    "overlaps_current_atlas": true,
+    "primer_matches": [
+      {
+        "primer": "forward",
+        "matched_suffix_length": 22,
+        "matches_0based": [
+          8767369
+        ],
+        "match_end_exclusive": [
+          8767391
+        ]
+      },
+      {
+        "primer": "reverse",
+        "matched_suffix_length": 21,
+        "matches_0based": [
+          8768505
+        ],
+        "match_end_exclusive": [
+          8768526
+        ]
+      }
+    ],
+    "positive_reporter_assay": false,
+    "mouse_olfactory_bulb_reporter": false
+  },
+  {
+    "name": "OCE3",
+    "reported_coordinates_hg38": "chr3:9681951-9682518",
+    "overlaps_current_atlas": false,
+    "primer_matches": [],
+    "positive_reporter_assay": false,
+    "mouse_olfactory_bulb_reporter": false
+  },
+  {
+    "name": "OCE4",
+    "reported_coordinates_hg38": "chr3:8266807-8267046",
+    "overlaps_current_atlas": false,
+    "primer_matches": [],
+    "positive_reporter_assay": false,
+    "mouse_olfactory_bulb_reporter": false
+  },
+  {
+    "name": "OCE5",
+    "reported_coordinates_hg38": "chr3:8784846-8785435",
+    "overlaps_current_atlas": false,
+    "primer_matches": [],
+    "positive_reporter_assay": true,
+    "mouse_olfactory_bulb_reporter": false
+  },
+  {
+    "name": "OCE6",
+    "reported_coordinates_hg38": "chr3:8754836-8756640",
+    "overlaps_current_atlas": true,
+    "primer_matches": [
+      {
+        "primer": "forward",
+        "matched_suffix_length": 20,
+        "matches_0based": [
+          8754835
+        ],
+        "match_end_exclusive": [
+          8754855
+        ]
+      },
+      {
+        "primer": "reverse",
+        "matched_suffix_length": 20,
+        "matches_0based": [
+          8756620
+        ],
+        "match_end_exclusive": [
+          8756640
+        ]
+      }
+    ],
+    "positive_reporter_assay": false,
+    "mouse_olfactory_bulb_reporter": false
+  },
+  {
+    "name": "OCE7",
+    "reported_coordinates_hg38": "chr3:8757366-8759184",
+    "overlaps_current_atlas": true,
+    "primer_matches": [
+      {
+        "primer": "forward",
+        "matched_suffix_length": 20,
+        "matches_0based": [
+          8757365
+        ],
+        "match_end_exclusive": [
+          8757385
+        ]
+      },
+      {
+        "primer": "reverse",
+        "matched_suffix_length": 20,
+        "matches_0based": [
+          8758811
+        ],
+        "match_end_exclusive": [
+          8758831
+        ]
+      }
+    ],
+    "positive_reporter_assay": true,
+    "mouse_olfactory_bulb_reporter": true
+  }
+]

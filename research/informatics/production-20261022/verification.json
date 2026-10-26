@@ -1,0 +1,125 @@
+{
+  "verifiedAt": "2026-10-22T07:00:07.346688+11:00",
+  "environment": "production",
+  "productionURL": "https://universalmind.tv/informatics/",
+  "researchURL": "https://universalmind.tv/informatics/library.html",
+  "stagingURL": "https://staging.universalmind.tv/informatics/",
+  "approvedSourceCommit": "e9ea2d6a22d7211afef47d9b121178c8b38f3d41",
+  "previousProductionCommit": "636bfa9ae41efe036b2cccac0827c724edfde92b",
+  "authorization": "Ben explicitly approved Sound and requested all Informatics staging work be pushed to production before the EMDR and Mantra reviews.",
+  "deployment": {
+    "command": "./deploy-panthurlive.sh informatics",
+    "exitCode": 0,
+    "changedFilesUploaded": 83,
+    "trackedAssets": 11233,
+    "websiteSourceChangedDuringPromotion": false,
+    "otherSiteAreasDeployed": false
+  },
+  "manifestParity": {
+    "productionEntries": 11233,
+    "stagingEntries": 11233,
+    "mismatches": 0,
+    "sortedInformaticsManifestSHA256": "60ce7a54e94f38e544d971e0b676ecb15ca1f1b83310e87b71b9d60fe1d1fd0c"
+  },
+  "preflights": [
+    {
+      "command": "node tools/check-research-counts.mjs",
+      "result": "passed",
+      "coverage": "Counts, deduplication, missing versus zero citations and blinded-trial filters."
+    },
+    {
+      "command": "python3 tools/check-sound-scope.py",
+      "result": "passed",
+      "coverage": "All 36 original subchapters accounted for; 19 retained, 8 awaiting placement, 9 excluded or separate. Original quotations and topic trust scores match."
+    },
+    {
+      "command": "python3 tools/check-informatics-library.py",
+      "result": "passed",
+      "coverage": "236 source pages, 802 source entries, 833 records, no unassigned source links."
+    },
+    {
+      "command": "node tools/check-molecular-atlas.mjs",
+      "result": "passed",
+      "coverage": "Eight structure checksums, sequences, geometry dimensions and transformations."
+    },
+    {
+      "command": "node tools/check-molecular-genes.mjs",
+      "result": "passed",
+      "coverage": "Nine genes: independent sequence agreement, hashes, strand orientation, exons and 48-base windows."
+    },
+    {
+      "command": "node tools/check-molecular-dna-model.mjs",
+      "result": "passed",
+      "coverage": "18 DNA model sequences; atom pairing, antiparallel strands, coordinate roundtrips and bond continuity."
+    },
+    {
+      "command": "git diff --check",
+      "result": "passed",
+      "coverage": "No whitespace errors."
+    }
+  ],
+  "httpVerification": {
+    "stagingChangedAssetsMatch": 83,
+    "productionChangedAssetsMatch": 83,
+    "method": "HTTP 200 and exact SHA-256 agreement with the approved source, using the approved release commit in the cache query."
+  },
+  "browserVerification": {
+    "result": "passed",
+    "widths": [
+      1470,
+      1024,
+      390,
+      320
+    ],
+    "environment": "production",
+    "sourceRouting": false,
+    "hostOverride": "The archived Node loader switches existing test base URLs from staging to production at runtime. Reports labelled staging in temporary folder names are live production checks.",
+    "processAudioDisabled": true,
+    "muteFlagAssertedBeforeNavigation": true,
+    "nativeFullscreenUsed": false,
+    "automatedBrowserProcessesClosed": true,
+    "reports": [
+      "research-search.json",
+      "sound-narrative.json",
+      "sound-contents.json",
+      "navigation.json",
+      "molecular-entry.json",
+      "molecular-genes.json",
+      "molecular-proteins.json"
+    ]
+  },
+  "visualInspection": {
+    "reviewed": [
+      "sound-contents-desktop.png",
+      "sound-contents-mobile.png",
+      "roadmap-desktop.png",
+      "gene-atoms-mobile.png"
+    ],
+    "result": "The approved contents count/cross alignment, spacing, nested network and gene rendering are present; no clipping observed in these views."
+  },
+  "scopeNotes": [
+    "The exact approved staging website was promoted.",
+    "Sound is the approved model for later Vision/EMDR and Language/Mantra review and formatting. Those new editorial reviews have not begun.",
+    "Publication link repairs and historical citation counts are inherited unchanged from the approved release. This release verifies the repaired link destinations in the interface; it does not repeat the entire external publisher audit or claim universal full-text access.",
+    "Modelled DNA geometry and proposed biological relationships retain their existing evidence distinctions."
+  ],
+  "evidenceSHA256": {
+    "staging-assets.json": "c4d40a7a69bb464f910152eeaba32cfba465fe1ce45bbf719e3872a89ef8ca3c",
+    "production-assets.json": "eb7ce1ad624d7a5825a7b244b9686f6b56cef244bb5afd6f273b47a5317b50db",
+    "upload-plan.json": "5e9d9f0ac1da13022592943f85660c15fdd3b7fe8c10d4d748df683e49daa3dc",
+    "research-search.json": "7d80ee3dae4e821b902916667907542a2e1e32ada6abdc9e1c9c27936c859f7a",
+    "sound-narrative.json": "5fad2c96dbccd265872ed5bb0226ce9a152038f1cc963467de6fd98f8779b23d",
+    "sound-contents.json": "7e78130c02a10ebfc4d248617f096bafdd357952cad43adcb7941c725f424594",
+    "navigation.json": "b5321d8b2fffe039270c7eafc772cdabf9ec3520377e8109d6e02a85347d8454",
+    "molecular-entry.json": "ee000225cd16d63a35a7d0bfcb6ba087cdaca3d6c6101efe5fe1c1d2f06f2e72",
+    "molecular-genes.json": "ccf66f64ec4efd63d7dea25c4ecb57019634c3307d956cfe37b82a041febfab1",
+    "molecular-proteins.json": "de1f00c858ba750b33f4ac4faaa3d417fa3c7756163e452004f61821a08bbe5c",
+    "production-test-host.mjs": "e7d76edd600fe4506740a2e07145bed4a17ca3e030ff483b8d93f5e5a4191b38",
+    "proof-sound-contents.mjs": "b378ecc20eccb68a9b76bc9444abde7bf3bf534532b872a6330bb8aece756c8f",
+    "check-assets.mjs": "fdb2f640c66f3b65674523d02771e1880e41091178e29dfc39c2ee4d87d1cea6",
+    "sound-contents-desktop.png": "7ec2b64686cfd917faf3b2bf52d9976a2bb1ba563bf3807e74229048924323f8",
+    "sound-contents-mobile.png": "c1567bb42aca4645ef7ef64bc6ccaee48917d01846d85f01ac3e68528c9b002b",
+    "roadmap-desktop.png": "80b0c062ae62617a8db6d4e55815aa5b508856e620b9fc66e2dbcfcb49c444b7",
+    "gene-atoms-mobile.png": "871af9099bca0401c8524e491092161f1fbc46d59bf3cd038ce5654bd7630c7b"
+  }
+}

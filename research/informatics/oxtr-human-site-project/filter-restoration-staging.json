@@ -1,0 +1,96 @@
+{
+  "completed_at_utc": "2026-10-18T22:32:43.902318+00:00",
+  "source_commit": "81a2ed7afebadf95ae3146acab4aa9f73d0175c2",
+  "environment": "https://staging.universalmind.tv",
+  "proof_url": "https://staging.universalmind.tv/informatics/?atlas=1&record=fibonacci-m9-p24",
+  "integrity": [
+    {
+      "file": "Informatics/science.js",
+      "bytes": 47759,
+      "sha256": "16312f8ef448b3c646e435db04577d3e28d271cc0b62ae258b2ced3457a3a31a",
+      "matched": true
+    },
+    {
+      "file": "Informatics/index.html",
+      "bytes": 6379,
+      "sha256": "739c9535ebaf3a1daf834c164a4fb861dab16a8b44ead82db4aaff916f164a33",
+      "matched": true
+    },
+    {
+      "file": "Informatics/research.html",
+      "bytes": 14565,
+      "sha256": "24a11f143f7147fe9bdad2212de8b6720cda5e56bb1f6e57a3f4c516981b58cf",
+      "matched": true
+    },
+    {
+      "file": "Informatics/genomics.html",
+      "bytes": 2243,
+      "sha256": "8567301bf9745e49234a0d509b19ece0da14c28ffeaa83293ba1e8d03b96e1ea",
+      "matched": true
+    }
+  ],
+  "browser": {
+    "passed": true,
+    "candidate": false,
+    "processMuted": true,
+    "results": [
+      {
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "teachingGraphicLoaded": true,
+        "teachingZoomAndGlossary": true,
+        "nestedTeachingEscapeAndFocus": true,
+        "originalEvidenceTypesRestored": true,
+        "all33FilterCombinations": true,
+        "selectedExportMatchesFilter": true,
+        "broaderDescriptionsSeparate": true,
+        "filters": true,
+        "retryAfterFailure": true,
+        "keyboardAndOutsideClose": true,
+        "escapeAndFocus": true,
+        "summaryAndSidebar": true,
+        "aboutNestedLightbox": true,
+        "fullscreenStatePreserved": true,
+        "mediaStatePreserved": true,
+        "downloadsMatched": true,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "teachingGraphicLoaded": true,
+        "teachingZoomAndGlossary": true,
+        "nestedTeachingEscapeAndFocus": true,
+        "originalEvidenceTypesRestored": true,
+        "all33FilterCombinations": true,
+        "selectedExportMatchesFilter": true,
+        "broaderDescriptionsSeparate": true,
+        "filters": true,
+        "retryAfterFailure": true,
+        "keyboardAndOutsideClose": true,
+        "escapeAndFocus": true,
+        "summaryAndSidebar": true,
+        "aboutNestedLightbox": true,
+        "fullscreenStatePreserved": true,
+        "mediaStatePreserved": true,
+        "downloadsMatched": false,
+        "errors": []
+      }
+    ]
+  },
+  "notion": {
+    "view_id": "3fd7b9c9-9c56-81ee-8049-000c61656332",
+    "quick_filters": [
+      "Species",
+      "Evidence type"
+    ],
+    "broader_descriptions_retained": true,
+    "readback_verified": true
+  },
+  "data": "No source records or complete archives changed. Original evidence_kind drives the table and selected exports; evidence_categories remains a separate description.",
+  "production_modified": false
+}

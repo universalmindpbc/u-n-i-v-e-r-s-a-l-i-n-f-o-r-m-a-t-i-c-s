@@ -1,0 +1,133 @@
+{
+  "source": "Recorded Amazon Braket task metadata",
+  "definition": "Elapsed wall time from submission to completion, including queue and execution; not QPU processing duration.",
+  "study_01": {
+    "submitted_at": "2026-10-25T01:05:00.993000+00:00",
+    "completed_at": "2026-10-25T01:21:52.327000+00:00",
+    "elapsed_seconds": 1011.334,
+    "first_result_seconds": 196.056,
+    "task_count": 16,
+    "tasks": [
+      {
+        "case": "chr3-8745472-8745728-alpha",
+        "task_id": "941daa0a-4939-411e-a7f1-88fcb16baaca",
+        "state": "COMPLETED",
+        "submitted_at": "2026-10-25T01:06:19.236000+00:00",
+        "completed_at": "2026-10-25T01:18:15.050000+00:00"
+      },
+      {
+        "case": "chr3-8745472-8745728-beta",
+        "task_id": "ea4bb9a4-c91a-492a-80a7-c59fd051a807",
+        "state": "COMPLETED",
+        "submitted_at": "2026-10-25T01:06:20.037000+00:00",
+        "completed_at": "2026-10-25T01:19:09.159000+00:00"
+      },
+      {
+        "case": "chr3-8745472-8745728-epsilon",
+        "task_id": "1cbb29aa-c1b8-49bb-af31-dd18a7cbd480",
+        "state": "COMPLETED",
+        "submitted_at": "2026-10-25T01:06:21.697000+00:00",
+        "completed_at": "2026-10-25T01:20:58.123000+00:00"
+      },
+      {
+        "case": "chr3-8745472-8745728-fibonacci",
+        "task_id": "aff105ae-441b-49d7-a5b0-9797edc60b05",
+        "state": "COMPLETED",
+        "submitted_at": "2026-10-25T01:06:17.596000+00:00",
+        "completed_at": "2026-10-25T01:16:26.685000+00:00"
+      },
+      {
+        "case": "chr3-8745472-8745728-gamma",
+        "task_id": "f30cda70-0079-41e9-aa40-72e24b51f15d",
+        "state": "COMPLETED",
+        "submitted_at": "2026-10-25T01:06:20.873000+00:00",
+        "completed_at": "2026-10-25T01:20:03.424000+00:00"
+      },
+      {
+        "case": "chr3-8745472-8745728-ordinary",
+        "task_id": "393fd233-18b4-47f4-ba5e-af2d142e8512",
+        "state": "COMPLETED",
+        "submitted_at": "2026-10-25T01:06:16.433000+00:00",
+        "completed_at": "2026-10-25T01:15:32.365000+00:00"
+      },
+      {
+        "case": "chr3-8745472-8745728-phi",
+        "task_id": "17ffbfd0-8304-4b30-a749-8d0c91eab2d9",
+        "state": "COMPLETED",
+        "submitted_at": "2026-10-25T01:06:18.417000+00:00",
+        "completed_at": "2026-10-25T01:17:20.787000+00:00"
+      },
+      {
+        "case": "chr3-8745472-8745728-shuffled",
+        "task_id": "8408039a-06e1-4782-910f-44a9313c8e12",
+        "state": "COMPLETED",
+        "submitted_at": "2026-10-25T01:06:22.576000+00:00",
+        "completed_at": "2026-10-25T01:21:52.327000+00:00"
+      },
+      {
+        "case": "chr3-8752896-8753152-alpha",
+        "task_id": "1408321b-3bbf-42d0-98d8-b2a3f6a2282d",
+        "state": "COMPLETED",
+        "submitted_at": "2026-10-25T01:05:04.678000+00:00",
+        "completed_at": "2026-10-25T01:10:59.347000+00:00"
+      },
+      {
+        "case": "chr3-8752896-8753152-beta",
+        "task_id": "21a80a56-064a-4940-8ed9-9d77122436c7",
+        "state": "COMPLETED",
+        "submitted_at": "2026-10-25T01:05:05.470000+00:00",
+        "completed_at": "2026-10-25T01:11:53.494000+00:00"
+      },
+      {
+        "case": "chr3-8752896-8753152-epsilon",
+        "task_id": "46eac414-f077-4214-81ef-e21635955bb9",
+        "state": "COMPLETED",
+        "submitted_at": "2026-10-25T01:05:07.583000+00:00",
+        "completed_at": "2026-10-25T01:13:42.064000+00:00"
+      },
+      {
+        "case": "chr3-8752896-8753152-fibonacci",
+        "task_id": "4d690682-bbcd-471f-84fe-d7d29ab4f0f3",
+        "state": "COMPLETED",
+        "submitted_at": "2026-10-25T01:05:02.535000+00:00",
+        "completed_at": "2026-10-25T01:09:11.173000+00:00"
+      },
+      {
+        "case": "chr3-8752896-8753152-gamma",
+        "task_id": "056c9488-bd07-469c-93e2-edf24e8fff9c",
+        "state": "COMPLETED",
+        "submitted_at": "2026-10-25T01:05:06.755000+00:00",
+        "completed_at": "2026-10-25T01:12:47.788000+00:00"
+      },
+      {
+        "case": "chr3-8752896-8753152-ordinary",
+        "task_id": "92a97488-675a-4126-838a-75ff29e0c539",
+        "state": "COMPLETED",
+        "submitted_at": "2026-10-25T01:05:00.993000+00:00",
+        "completed_at": "2026-10-25T01:08:17.049000+00:00"
+      },
+      {
+        "case": "chr3-8752896-8753152-phi",
+        "task_id": "fd03b07f-1c48-40a1-8510-05bcfa38987b",
+        "state": "COMPLETED",
+        "submitted_at": "2026-10-25T01:05:03.835000+00:00",
+        "completed_at": "2026-10-25T01:10:05.401000+00:00"
+      },
+      {
+        "case": "chr3-8752896-8753152-shuffled",
+        "task_id": "f4bc57c5-2ab1-463e-8e3b-88c7c61e4eb0",
+        "state": "COMPLETED",
+        "submitted_at": "2026-10-25T01:05:08.657000+00:00",
+        "completed_at": "2026-10-25T01:14:38.144000+00:00"
+      }
+    ]
+  },
+  "earlier_connection_test": {
+    "task_id": "3ae0ec02-160e-45a0-8f37-c88c1bbccda7",
+    "state": "COMPLETED",
+    "submitted_at": "2026-10-24T04:07:26.498000+00:00",
+    "completed_at": "2026-10-24T22:59:41.681000+00:00",
+    "elapsed_seconds": 67935.183
+  },
+  "interpretation": "Both experiments completed. Timings depend on device availability and queue, and are not delivery guarantees."
+}

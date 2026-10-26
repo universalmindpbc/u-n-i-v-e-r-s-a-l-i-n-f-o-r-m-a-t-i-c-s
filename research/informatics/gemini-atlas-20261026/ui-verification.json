@@ -1,0 +1,26 @@
+{
+  "origin": "https://staging.universalmind.tv",
+  "errors": [],
+  "assets": [
+    {
+      "url": "https://staging.universalmind.tv/informatics/quantum/scientific-review.css?v=1",
+      "status": 200
+    },
+    {
+      "url": "https://staging.universalmind.tv/informatics/quantum/scientific-review.js?v=1",
+      "status": 200
+    }
+  ],
+  "muted": true,
+  "passed": true,
+  "checks": [
+    "desktop and mobile layout",
+    "design and findings review",
+    "correct timestamp",
+    "close Escape and focus return",
+    "four existing results dialogs",
+    "new agent task cannot inherit saved approval",
+    "changed evidence fails closed",
+    "JSON and CSV download equality"
+  ]
+}

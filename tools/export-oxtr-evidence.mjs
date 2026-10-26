@@ -1,0 +1,30 @@
+// Author the human-readable evidence table through the spreadsheet runtime.
+// The runtime has no documented CSV exporter; serialize its verified cell values.
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import assert from 'node:assert/strict';
+import {Workbook} from '/Users/benkorbel/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/@oai/artifact-tool/dist/artifact_tool.mjs';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const dir=path.join(root,'Informatics/pilot-v1/oxtr-tfbs-v1');
+const records=JSON.parse(await fs.readFile(path.join(dir,'literature-evidence.json'),'utf8'));
+const fields=Object.keys(records[0]);
+const matrix=[fields,...records.map(r=>fields.map(k=>r[k]))];
+const wb=Workbook.create(),sheet=wb.worksheets.add('Evidence');
+const range=sheet.getRangeByIndexes(0,0,matrix.length,fields.length);
+range.values=matrix;
+wb.recalculate();
+const actual=range.values;
+assert.deepEqual(actual,matrix);
+const cell=v=>v===null?'':/[",\r\n]/.test(String(v))?'"'+String(v).replaceAll('"','""')+'"':String(v);
+await fs.writeFile(path.join(dir,'literature-evidence.csv'),'\uFEFF'+actual.map(row=>row.map(cell).join(',')).join('\r\n')+'\r\n');
+const preview=wb.worksheets.add('Review');
+preview.getRange('A1:E9').values=[['Record','Species','Factor','Evidence','Source'],...records.slice(0,8).map(r=>[r.id,r.species,r.factor,r.evidence_kind,'PMID '+r.pmid])];
+preview.getRange('A1:E9').format.columnWidth=26;
+preview.getRange('A1:E9').format.rowHeight=42;
+preview.getRange('A1:E9').format.wrapText=true;
+preview.getRange('A1:E1').format={fill:'#172936',font:{bold:true,color:'#FFFFFF'}};
+wb.recalculate();
+const image=await wb.render({sheetName:'Review',range:'A1:E9',scale:1,format:'png'});
+await fs.writeFile('/private/tmp/oxtr-evidence-preview.png',new Uint8Array(await image.arrayBuffer()));
+console.log(JSON.stringify({evidenceRows:records.length,fields:fields.length,valuesRoundtripped:true,csv:'literature-evidence.csv'}));

@@ -1,0 +1,266 @@
+{
+  "originalSubchapters": 36,
+  "retainedSubchapters": 19,
+  "awaitingPlacementSubchapters": 8,
+  "excludedOrSeparateCollectionSubchapters": 9,
+  "retainedOriginalEntries": 278,
+  "deferredOriginalEntries": 73,
+  "portalAddedEntries": 4,
+  "selectedQuotationsMatchExactly": true,
+  "originalTopicTrustScoresMatch": true,
+  "unaccountedOriginalEntries": 0,
+  "topics": [
+    {
+      "originalSubchapter": "i",
+      "sourcePage": 6,
+      "status": "Retained",
+      "entryCount": 30,
+      "heading": "Brain entrainment, pain, anxiety and heart-rate variability"
+    },
+    {
+      "originalSubchapter": "ii",
+      "sourcePage": 15,
+      "status": "Retained",
+      "entryCount": 4,
+      "heading": "528 Hz sound: gene expression, hormonal responses and cell studies"
+    },
+    {
+      "originalSubchapter": "iii",
+      "sourcePage": 17,
+      "status": "Retained",
+      "entryCount": 17,
+      "heading": "7.83 Hz and low-frequency electromagnetic research"
+    },
+    {
+      "originalSubchapter": "iv",
+      "sourcePage": 22,
+      "status": "Excluded: Fibonacci, black-hole and DNA-tetrahedron chapter, explicitly requested.",
+      "entryCount": 0,
+      "heading": null
+    },
+    {
+      "originalSubchapter": "v",
+      "sourcePage": 44,
+      "status": "Excluded: Fibonacci, black-hole and DNA-tetrahedron chapter, explicitly requested.",
+      "entryCount": 0,
+      "heading": null
+    },
+    {
+      "originalSubchapter": "vi",
+      "sourcePage": 48,
+      "status": "Excluded: Fibonacci, black-hole and DNA-tetrahedron chapter, explicitly requested.",
+      "entryCount": 0,
+      "heading": null
+    },
+    {
+      "originalSubchapter": "vii",
+      "sourcePage": 51,
+      "status": "Retained",
+      "entryCount": 46,
+      "heading": "Music, heart-rate variability, cognition, emotional regulation, pain and mental health"
+    },
+    {
+      "originalSubchapter": "viii",
+      "sourcePage": 61,
+      "status": "Retained",
+      "entryCount": 3,
+      "heading": "Music and therapeutic suggestions during surgery and recovery"
+    },
+    {
+      "originalSubchapter": "ix",
+      "sourcePage": 62,
+      "status": "Retained",
+      "entryCount": 31,
+      "heading": "Baroreflex, heart-rate variability and Mayer waves around 0.1 Hz"
+    },
+    {
+      "originalSubchapter": "x",
+      "sourcePage": 70,
+      "status": "Retained",
+      "entryCount": 4,
+      "heading": "Music-making, gene expression and stress"
+    },
+    {
+      "originalSubchapter": "xi",
+      "sourcePage": 72,
+      "status": "Retained",
+      "entryCount": 9,
+      "heading": "Music, NMDA receptors and learning"
+    },
+    {
+      "originalSubchapter": "xii",
+      "sourcePage": 75,
+      "status": "Retained",
+      "entryCount": 1,
+      "heading": "Music-making, IL6 expression and the stress response"
+    },
+    {
+      "originalSubchapter": "xiii",
+      "sourcePage": 76,
+      "status": "Excluded: DMT hypothesis recommendation accepted with the heading review.",
+      "entryCount": 0,
+      "heading": null
+    },
+    {
+      "originalSubchapter": "xiv",
+      "sourcePage": 77,
+      "status": "Retained",
+      "entryCount": 8,
+      "heading": "Transcranial magnetic stimulation: stimulation frequencies and depression"
+    },
+    {
+      "originalSubchapter": "xv",
+      "sourcePage": 79,
+      "status": "Excluded: non-TMS electromagnetism sections; later correction restores iii, xviii and xix.",
+      "entryCount": 0,
+      "heading": null
+    },
+    {
+      "originalSubchapter": "xvi",
+      "sourcePage": 81,
+      "status": "Excluded: non-TMS electromagnetism sections; later correction restores iii, xviii and xix.",
+      "entryCount": 0,
+      "heading": null
+    },
+    {
+      "originalSubchapter": "xvii",
+      "sourcePage": 83,
+      "status": "Excluded: non-TMS electromagnetism sections; later correction restores iii, xviii and xix.",
+      "entryCount": 0,
+      "heading": null
+    },
+    {
+      "originalSubchapter": "xviii",
+      "sourcePage": 84,
+      "status": "Retained",
+      "entryCount": 14,
+      "heading": "Schumann resonance, geomagnetic activity and physiological responses"
+    },
+    {
+      "originalSubchapter": "xix",
+      "sourcePage": 89,
+      "status": "Retained",
+      "entryCount": 2,
+      "heading": "Schumann resonances in the Earth–ionosphere cavity"
+    },
+    {
+      "originalSubchapter": "xx",
+      "sourcePage": 90,
+      "status": "Retained",
+      "entryCount": 4,
+      "heading": "Brain entrainment, pain, anxiety and heart-rate variability in at-risk communities"
+    },
+    {
+      "originalSubchapter": "xxi",
+      "sourcePage": 92,
+      "status": "Retained",
+      "entryCount": 49,
+      "heading": "Music and mental health among people experiencing homelessness and refugees"
+    },
+    {
+      "originalSubchapter": "xxii",
+      "sourcePage": 106,
+      "status": "Retained",
+      "entryCount": 5,
+      "heading": "Music and mental health among Indigenous youth"
+    },
+    {
+      "originalSubchapter": "xxiii",
+      "sourcePage": 107,
+      "status": "Retained",
+      "entryCount": 10,
+      "heading": "Music and mental health among military personnel and veterans"
+    },
+    {
+      "originalSubchapter": "xxiv",
+      "sourcePage": 109,
+      "status": "Recorded outside Sound pending placement, as explicitly clarified by Ben on 22 October 2026.",
+      "entryCount": 0,
+      "heading": null
+    },
+    {
+      "originalSubchapter": "xxv",
+      "sourcePage": 110,
+      "status": "Recorded outside Sound pending placement, as explicitly clarified by Ben on 22 October 2026.",
+      "entryCount": 0,
+      "heading": null
+    },
+    {
+      "originalSubchapter": "xxvi",
+      "sourcePage": 111,
+      "status": "Recorded outside Sound pending placement, as explicitly clarified by Ben on 22 October 2026.",
+      "entryCount": 0,
+      "heading": null
+    },
+    {
+      "originalSubchapter": "xxvii",
+      "sourcePage": 112,
+      "status": "Recorded outside Sound pending placement, as explicitly clarified by Ben on 22 October 2026.",
+      "entryCount": 0,
+      "heading": null
+    },
+    {
+      "originalSubchapter": "xxviii",
+      "sourcePage": 113,
+      "status": "Recorded outside Sound pending placement, as explicitly clarified by Ben on 22 October 2026.",
+      "entryCount": 0,
+      "heading": null
+    },
+    {
+      "originalSubchapter": "xxix",
+      "sourcePage": 116,
+      "status": "Retained",
+      "entryCount": 12,
+      "heading": "Oxytocin pathways, dopamine and serotonin"
+    },
+    {
+      "originalSubchapter": "xxx",
+      "sourcePage": 120,
+      "status": "Retained",
+      "entryCount": 22,
+      "heading": "OXTR variation and psychological resources"
+    },
+    {
+      "originalSubchapter": "xxxi",
+      "sourcePage": 126,
+      "status": "Retained",
+      "entryCount": 11,
+      "heading": "Oxytocin, empathy and intergroup relationships"
+    },
+    {
+      "originalSubchapter": "xxxii",
+      "sourcePage": 130,
+      "status": "Recorded outside Sound pending placement, as explicitly clarified by Ben on 22 October 2026.",
+      "entryCount": 0,
+      "heading": null
+    },
+    {
+      "originalSubchapter": "xxxiii",
+      "sourcePage": 138,
+      "status": "Recorded outside Sound pending placement, as explicitly clarified by Ben on 22 October 2026.",
+      "entryCount": 0,
+      "heading": null
+    },
+    {
+      "originalSubchapter": "xxxiv",
+      "sourcePage": 142,
+      "status": "Recorded outside Sound pending placement, as explicitly clarified by Ben on 22 October 2026.",
+      "entryCount": 0,
+      "heading": null
+    },
+    {
+      "originalSubchapter": "xxxv",
+      "sourcePage": null,
+      "status": "Separate collection; Sound cross-link explicitly declined.",
+      "entryCount": 0,
+      "heading": null
+    },
+    {
+      "originalSubchapter": "xxxvi",
+      "sourcePage": null,
+      "status": "Separate collection; Sound cross-link explicitly declined.",
+      "entryCount": 0,
+      "heading": null
+    }
+  ]
+}

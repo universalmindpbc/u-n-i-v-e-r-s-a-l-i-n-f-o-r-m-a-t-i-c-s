@@ -1,0 +1,1319 @@
+{
+  "schema": "universal-informatics/gene-reference/v1",
+  "genes": [
+    {
+      "symbol": "OXTR",
+      "ensembl": "ENSG00000180914",
+      "version": 12,
+      "assembly": "GRCh38",
+      "chromosome": "3",
+      "start": 8750381,
+      "end": 8769628,
+      "strand": -1,
+      "length": 19248,
+      "canonicalTranscript": "ENST00000316793.8",
+      "transcriptStart": 8750381,
+      "transcriptEnd": 8769613,
+      "tss": 8769613,
+      "exons": [
+        {
+          "number": 1,
+          "id": "ENSE00001915371",
+          "start": 8769231,
+          "end": 8769613,
+          "offset": 15,
+          "length": 383
+        },
+        {
+          "number": 2,
+          "id": "ENSE00001337891",
+          "start": 8768496,
+          "end": 8768591,
+          "offset": 1037,
+          "length": 96
+        },
+        {
+          "number": 3,
+          "id": "ENSE00001323116",
+          "start": 8767266,
+          "end": 8768329,
+          "offset": 1299,
+          "length": 1064
+        },
+        {
+          "number": 4,
+          "id": "ENSE00001217148",
+          "start": 8750381,
+          "end": 8753224,
+          "offset": 16404,
+          "length": 2844
+        }
+      ],
+      "sha256": "86391073ef999546ef726dd7edb7972ca200fbe5be412a49fbe12ef441b37b16",
+      "retrieved": "2026-10-21T18:15:36.172076+00:00",
+      "annotationSource": "https://rest.ensembl.org/lookup/symbol/homo_sapiens/OXTR?expand=1&content-type=application/json",
+      "sequenceSource": "https://api.genome.ucsc.edu/getData/sequence?genome=hg38;chrom=chr3;start=8750380;end=8769628",
+      "crossCheckSource": "https://rest.ensembl.org/sequence/id/ENSG00000180914?type=genomic&content-type=application/json",
+      "sequenceCrossCheck": "Exact agreement between UCSC hg38 and Ensembl GRCh38 genomic sequence",
+      "geneSource": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000180914",
+      "sequenceOrientation": "Gene strand, 5-prime to 3-prime; reverse complement of reference plus strand for minus-strand genes",
+      "coordinateConvention": "1-based, inclusive genomic coordinates"
+    },
+    {
+      "symbol": "SLC6A4",
+      "ensembl": "ENSG00000108576",
+      "version": 12,
+      "assembly": "GRCh38",
+      "chromosome": "17",
+      "start": 30194258,
+      "end": 30238482,
+      "strand": -1,
+      "length": 44225,
+      "canonicalTranscript": "ENST00000650711.1",
+      "transcriptStart": 30194319,
+      "transcriptEnd": 30235697,
+      "tss": 30235697,
+      "exons": [
+        {
+          "number": 1,
+          "id": "ENSE00003850203",
+          "start": 30235613,
+          "end": 30235697,
+          "offset": 2785,
+          "length": 85
+        },
+        {
+          "number": 2,
+          "id": "ENSE00002728713",
+          "start": 30222819,
+          "end": 30222915,
+          "offset": 15567,
+          "length": 97
+        },
+        {
+          "number": 3,
+          "id": "ENSE00003894242",
+          "start": 30221616,
+          "end": 30222081,
+          "offset": 16401,
+          "length": 466
+        },
+        {
+          "number": 4,
+          "id": "ENSE00003891628",
+          "start": 30218797,
+          "end": 30218931,
+          "offset": 19551,
+          "length": 135
+        },
+        {
+          "number": 5,
+          "id": "ENSE00003893977",
+          "start": 30218118,
+          "end": 30218337,
+          "offset": 20145,
+          "length": 220
+        },
+        {
+          "number": 6,
+          "id": "ENSE00003889021",
+          "start": 30217166,
+          "end": 30217304,
+          "offset": 21178,
+          "length": 139
+        },
+        {
+          "number": 7,
+          "id": "ENSE00003892023",
+          "start": 30216082,
+          "end": 30216216,
+          "offset": 22266,
+          "length": 135
+        },
+        {
+          "number": 8,
+          "id": "ENSE00003891402",
+          "start": 30215611,
+          "end": 30215714,
+          "offset": 22768,
+          "length": 104
+        },
+        {
+          "number": 9,
+          "id": "ENSE00003892410",
+          "start": 30212740,
+          "end": 30212867,
+          "offset": 25615,
+          "length": 128
+        },
+        {
+          "number": 10,
+          "id": "ENSE00003893866",
+          "start": 30211312,
+          "end": 30211424,
+          "offset": 27058,
+          "length": 113
+        },
+        {
+          "number": 11,
+          "id": "ENSE00003890473",
+          "start": 30210515,
+          "end": 30210646,
+          "offset": 27836,
+          "length": 132
+        },
+        {
+          "number": 12,
+          "id": "ENSE00003890165",
+          "start": 30209143,
+          "end": 30209242,
+          "offset": 29240,
+          "length": 100
+        },
+        {
+          "number": 13,
+          "id": "ENSE00003894359",
+          "start": 30207732,
+          "end": 30207832,
+          "offset": 30650,
+          "length": 101
+        },
+        {
+          "number": 14,
+          "id": "ENSE00003553925",
+          "start": 30203172,
+          "end": 30203339,
+          "offset": 35143,
+          "length": 168
+        },
+        {
+          "number": 15,
+          "id": "ENSE00003895678",
+          "start": 30194319,
+          "end": 30198530,
+          "offset": 39952,
+          "length": 4212
+        }
+      ],
+      "sha256": "4eb1d475939ea3834eb70c2f039f4150aacc37476131791dc4af19651b368223",
+      "retrieved": "2026-10-21T18:16:03.035507+00:00",
+      "annotationSource": "https://rest.ensembl.org/lookup/symbol/homo_sapiens/SLC6A4?expand=1&content-type=application/json",
+      "sequenceSource": "https://api.genome.ucsc.edu/getData/sequence?genome=hg38;chrom=chr17;start=30194257;end=30238482",
+      "crossCheckSource": "https://rest.ensembl.org/sequence/id/ENSG00000108576?type=genomic&content-type=application/json",
+      "sequenceCrossCheck": "Exact agreement between UCSC hg38 and Ensembl GRCh38 genomic sequence",
+      "geneSource": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000108576",
+      "sequenceOrientation": "Gene strand, 5-prime to 3-prime; reverse complement of reference plus strand for minus-strand genes",
+      "coordinateConvention": "1-based, inclusive genomic coordinates"
+    },
+    {
+      "symbol": "DRD2",
+      "ensembl": "ENSG00000149295",
+      "version": 16,
+      "assembly": "GRCh38",
+      "chromosome": "11",
+      "start": 113409021,
+      "end": 113476402,
+      "strand": -1,
+      "length": 67382,
+      "canonicalTranscript": "ENST00000362072.8",
+      "transcriptStart": 113409605,
+      "transcriptEnd": 113475398,
+      "tss": 113475398,
+      "exons": [
+        {
+          "number": 1,
+          "id": "ENSE00002282098",
+          "start": 113475076,
+          "end": 113475398,
+          "offset": 1004,
+          "length": 323
+        },
+        {
+          "number": 2,
+          "id": "ENSE00003665261",
+          "start": 113424367,
+          "end": 113424682,
+          "offset": 51720,
+          "length": 316
+        },
+        {
+          "number": 3,
+          "id": "ENSE00003641994",
+          "start": 113418027,
+          "end": 113418136,
+          "offset": 58266,
+          "length": 110
+        },
+        {
+          "number": 4,
+          "id": "ENSE00003790357",
+          "start": 113416863,
+          "end": 113416999,
+          "offset": 59403,
+          "length": 137
+        },
+        {
+          "number": 5,
+          "id": "ENSE00003518665",
+          "start": 113415421,
+          "end": 113415611,
+          "offset": 60791,
+          "length": 191
+        },
+        {
+          "number": 6,
+          "id": "ENSE00003475700",
+          "start": 113414375,
+          "end": 113414461,
+          "offset": 61941,
+          "length": 87
+        },
+        {
+          "number": 7,
+          "id": "ENSE00001247012",
+          "start": 113412556,
+          "end": 113412883,
+          "offset": 63519,
+          "length": 328
+        },
+        {
+          "number": 8,
+          "id": "ENSE00003850884",
+          "start": 113409605,
+          "end": 113410920,
+          "offset": 65482,
+          "length": 1316
+        }
+      ],
+      "sha256": "376007114431adbc54a33184a64560017dd46ab57b1694f154a1250ef09ad443",
+      "retrieved": "2026-10-21T18:15:28.593496+00:00",
+      "annotationSource": "https://rest.ensembl.org/lookup/symbol/homo_sapiens/DRD2?expand=1&content-type=application/json",
+      "sequenceSource": "https://api.genome.ucsc.edu/getData/sequence?genome=hg38;chrom=chr11;start=113409020;end=113476402",
+      "crossCheckSource": "https://rest.ensembl.org/sequence/id/ENSG00000149295?type=genomic&content-type=application/json",
+      "sequenceCrossCheck": "Exact agreement between UCSC hg38 and Ensembl GRCh38 genomic sequence",
+      "geneSource": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000149295",
+      "sequenceOrientation": "Gene strand, 5-prime to 3-prime; reverse complement of reference plus strand for minus-strand genes",
+      "coordinateConvention": "1-based, inclusive genomic coordinates"
+    },
+    {
+      "symbol": "GRIN1",
+      "ensembl": "ENSG00000176884",
+      "version": 18,
+      "assembly": "GRCh38",
+      "chromosome": "9",
+      "start": 137138346,
+      "end": 137168765,
+      "strand": 1,
+      "length": 30420,
+      "canonicalTranscript": "ENST00000371561.8",
+      "transcriptStart": 137139154,
+      "transcriptEnd": 137168756,
+      "tss": 137139154,
+      "exons": [
+        {
+          "number": 1,
+          "id": "ENSE00003995993",
+          "start": 137139154,
+          "end": 137139744,
+          "offset": 808,
+          "length": 591
+        },
+        {
+          "number": 2,
+          "id": "ENSE00003488923",
+          "start": 137142013,
+          "end": 137142147,
+          "offset": 3667,
+          "length": 135
+        },
+        {
+          "number": 3,
+          "id": "ENSE00003649829",
+          "start": 137145726,
+          "end": 137145902,
+          "offset": 7380,
+          "length": 177
+        },
+        {
+          "number": 4,
+          "id": "ENSE00003548246",
+          "start": 137149009,
+          "end": 137149109,
+          "offset": 10663,
+          "length": 101
+        },
+        {
+          "number": 5,
+          "id": "ENSE00003642805",
+          "start": 137156669,
+          "end": 137156790,
+          "offset": 18323,
+          "length": 122
+        },
+        {
+          "number": 6,
+          "id": "ENSE00001273419",
+          "start": 137156863,
+          "end": 137157037,
+          "offset": 18517,
+          "length": 175
+        },
+        {
+          "number": 7,
+          "id": "ENSE00003718745",
+          "start": 137158379,
+          "end": 137158523,
+          "offset": 20033,
+          "length": 145
+        },
+        {
+          "number": 8,
+          "id": "ENSE00003547479",
+          "start": 137158621,
+          "end": 137158704,
+          "offset": 20275,
+          "length": 84
+        },
+        {
+          "number": 9,
+          "id": "ENSE00003659319",
+          "start": 137161056,
+          "end": 137161197,
+          "offset": 22710,
+          "length": 142
+        },
+        {
+          "number": 10,
+          "id": "ENSE00003572985",
+          "start": 137161289,
+          "end": 137161416,
+          "offset": 22943,
+          "length": 128
+        },
+        {
+          "number": 11,
+          "id": "ENSE00003648634",
+          "start": 137161924,
+          "end": 137162088,
+          "offset": 23578,
+          "length": 165
+        },
+        {
+          "number": 12,
+          "id": "ENSE00003609791",
+          "start": 137162172,
+          "end": 137162290,
+          "offset": 23826,
+          "length": 119
+        },
+        {
+          "number": 13,
+          "id": "ENSE00003622678",
+          "start": 137162404,
+          "end": 137162516,
+          "offset": 24058,
+          "length": 113
+        },
+        {
+          "number": 14,
+          "id": "ENSE00003540068",
+          "start": 137162591,
+          "end": 137162739,
+          "offset": 24245,
+          "length": 149
+        },
+        {
+          "number": 15,
+          "id": "ENSE00003511594",
+          "start": 137162846,
+          "end": 137163003,
+          "offset": 24500,
+          "length": 158
+        },
+        {
+          "number": 16,
+          "id": "ENSE00003576691",
+          "start": 137163169,
+          "end": 137163330,
+          "offset": 24823,
+          "length": 162
+        },
+        {
+          "number": 17,
+          "id": "ENSE00003572647",
+          "start": 137163559,
+          "end": 137163668,
+          "offset": 25213,
+          "length": 110
+        },
+        {
+          "number": 18,
+          "id": "ENSE00001273335",
+          "start": 137163759,
+          "end": 137163904,
+          "offset": 25413,
+          "length": 146
+        },
+        {
+          "number": 19,
+          "id": "ENSE00001273328",
+          "start": 137165186,
+          "end": 137165296,
+          "offset": 26840,
+          "length": 111
+        },
+        {
+          "number": 20,
+          "id": "ENSE00003750775",
+          "start": 137167411,
+          "end": 137168756,
+          "offset": 29065,
+          "length": 1346
+        }
+      ],
+      "sha256": "7934887d204383651b03809eddaa79d232a92104760594849b4f538f9805ec7c",
+      "retrieved": "2026-10-21T18:15:38.346044+00:00",
+      "annotationSource": "https://rest.ensembl.org/lookup/symbol/homo_sapiens/GRIN1?expand=1&content-type=application/json",
+      "sequenceSource": "https://api.genome.ucsc.edu/getData/sequence?genome=hg38;chrom=chr9;start=137138345;end=137168765",
+      "crossCheckSource": "https://rest.ensembl.org/sequence/id/ENSG00000176884?type=genomic&content-type=application/json",
+      "sequenceCrossCheck": "Exact agreement between UCSC hg38 and Ensembl GRCh38 genomic sequence",
+      "geneSource": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000176884",
+      "sequenceOrientation": "Gene strand, 5-prime to 3-prime; reverse complement of reference plus strand for minus-strand genes",
+      "coordinateConvention": "1-based, inclusive genomic coordinates"
+    },
+    {
+      "symbol": "GRIN2B",
+      "ensembl": "ENSG00000273079",
+      "version": 8,
+      "assembly": "GRCh38",
+      "chromosome": "12",
+      "start": 13437942,
+      "end": 13982138,
+      "strand": -1,
+      "length": 544197,
+      "canonicalTranscript": "ENST00000609686.4",
+      "transcriptStart": 13537337,
+      "transcriptEnd": 13981602,
+      "tss": 13981602,
+      "exons": [
+        {
+          "number": 1,
+          "id": "ENSE00003903818",
+          "start": 13981342,
+          "end": 13981602,
+          "offset": 536,
+          "length": 261
+        },
+        {
+          "number": 2,
+          "id": "ENSE00003770327",
+          "start": 13979928,
+          "end": 13980356,
+          "offset": 1782,
+          "length": 429
+        },
+        {
+          "number": 3,
+          "id": "ENSE00000993733",
+          "start": 13865798,
+          "end": 13866226,
+          "offset": 115912,
+          "length": 429
+        },
+        {
+          "number": 4,
+          "id": "ENSE00000993731",
+          "start": 13753317,
+          "end": 13753915,
+          "offset": 228223,
+          "length": 599
+        },
+        {
+          "number": 5,
+          "id": "ENSE00000993725",
+          "start": 13675745,
+          "end": 13675859,
+          "offset": 306279,
+          "length": 115
+        },
+        {
+          "number": 6,
+          "id": "ENSE00000993720",
+          "start": 13616455,
+          "end": 13616657,
+          "offset": 365481,
+          "length": 203
+        },
+        {
+          "number": 7,
+          "id": "ENSE00000993722",
+          "start": 13615493,
+          "end": 13615664,
+          "offset": 366474,
+          "length": 172
+        },
+        {
+          "number": 8,
+          "id": "ENSE00001667846",
+          "start": 13615114,
+          "end": 13615267,
+          "offset": 366871,
+          "length": 154
+        },
+        {
+          "number": 9,
+          "id": "ENSE00000993729",
+          "start": 13611725,
+          "end": 13611850,
+          "offset": 370288,
+          "length": 126
+        },
+        {
+          "number": 10,
+          "id": "ENSE00000993719",
+          "start": 13608603,
+          "end": 13608832,
+          "offset": 373306,
+          "length": 230
+        },
+        {
+          "number": 11,
+          "id": "ENSE00000993723",
+          "start": 13571804,
+          "end": 13571964,
+          "offset": 410174,
+          "length": 161
+        },
+        {
+          "number": 12,
+          "id": "ENSE00004022628",
+          "start": 13569830,
+          "end": 13570017,
+          "offset": 412121,
+          "length": 188
+        },
+        {
+          "number": 13,
+          "id": "ENSE00000993715",
+          "start": 13567025,
+          "end": 13567263,
+          "offset": 414875,
+          "length": 239
+        },
+        {
+          "number": 14,
+          "id": "ENSE00004022629",
+          "start": 13537337,
+          "end": 13564639,
+          "offset": 417499,
+          "length": 27303
+        }
+      ],
+      "sha256": "1ddadf9ee61a1f9d56c917dbee811eabbbfdebbe91c46cddbd77b196372dad58",
+      "retrieved": "2026-10-21T18:16:00.688674+00:00",
+      "annotationSource": "https://rest.ensembl.org/lookup/symbol/homo_sapiens/GRIN2B?expand=1&content-type=application/json",
+      "sequenceSource": "https://api.genome.ucsc.edu/getData/sequence?genome=hg38;chrom=chr12;start=13437941;end=13982138",
+      "crossCheckSource": "https://rest.ensembl.org/sequence/id/ENSG00000273079?type=genomic&content-type=application/json",
+      "sequenceCrossCheck": "Exact agreement between UCSC hg38 and Ensembl GRCh38 genomic sequence",
+      "geneSource": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000273079",
+      "sequenceOrientation": "Gene strand, 5-prime to 3-prime; reverse complement of reference plus strand for minus-strand genes",
+      "coordinateConvention": "1-based, inclusive genomic coordinates"
+    },
+    {
+      "symbol": "IL6",
+      "ensembl": "ENSG00000136244",
+      "version": 14,
+      "assembly": "GRCh38",
+      "chromosome": "7",
+      "start": 22725884,
+      "end": 22732002,
+      "strand": 1,
+      "length": 6119,
+      "canonicalTranscript": "ENST00000258743.10",
+      "transcriptStart": 22727200,
+      "transcriptEnd": 22731998,
+      "tss": 22727200,
+      "exons": [
+        {
+          "number": 1,
+          "id": "ENSE00003846286",
+          "start": 22727200,
+          "end": 22727281,
+          "offset": 1316,
+          "length": 82
+        },
+        {
+          "number": 2,
+          "id": "ENSE00003892968",
+          "start": 22727444,
+          "end": 22727634,
+          "offset": 1560,
+          "length": 191
+        },
+        {
+          "number": 3,
+          "id": "ENSE00003681793",
+          "start": 22728693,
+          "end": 22728806,
+          "offset": 2809,
+          "length": 114
+        },
+        {
+          "number": 4,
+          "id": "ENSE00003614837",
+          "start": 22729514,
+          "end": 22729660,
+          "offset": 3630,
+          "length": 147
+        },
+        {
+          "number": 5,
+          "id": "ENSE00001128385",
+          "start": 22731406,
+          "end": 22731998,
+          "offset": 5522,
+          "length": 593
+        }
+      ],
+      "sha256": "569959c4600eba5058e5f04395e95824edc5a611436984bb45e25450e6f20d6d",
+      "retrieved": "2026-10-21T18:16:06.409171+00:00",
+      "annotationSource": "https://rest.ensembl.org/lookup/symbol/homo_sapiens/IL6?expand=1&content-type=application/json",
+      "sequenceSource": "https://api.genome.ucsc.edu/getData/sequence?genome=hg38;chrom=chr7;start=22725883;end=22732002",
+      "crossCheckSource": "https://rest.ensembl.org/sequence/id/ENSG00000136244?type=genomic&content-type=application/json",
+      "sequenceCrossCheck": "Exact agreement between UCSC hg38 and Ensembl GRCh38 genomic sequence",
+      "geneSource": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136244",
+      "sequenceOrientation": "Gene strand, 5-prime to 3-prime; reverse complement of reference plus strand for minus-strand genes",
+      "coordinateConvention": "1-based, inclusive genomic coordinates"
+    },
+    {
+      "symbol": "NR3C1",
+      "ensembl": "ENSG00000113580",
+      "version": 17,
+      "assembly": "GRCh38",
+      "chromosome": "5",
+      "start": 143277931,
+      "end": 143435512,
+      "strand": -1,
+      "length": 157582,
+      "canonicalTranscript": "ENST00000394464.7",
+      "transcriptStart": 143277934,
+      "transcriptEnd": 143403686,
+      "tss": 143403686,
+      "exons": [
+        {
+          "number": 1,
+          "id": "ENSE00001816085",
+          "start": 143403211,
+          "end": 143403686,
+          "offset": 31826,
+          "length": 476
+        },
+        {
+          "number": 2,
+          "id": "ENSE00001171430",
+          "start": 143399656,
+          "end": 143400852,
+          "offset": 34660,
+          "length": 1197
+        },
+        {
+          "number": 3,
+          "id": "ENSE00003587825",
+          "start": 143314002,
+          "end": 143314168,
+          "offset": 121344,
+          "length": 167
+        },
+        {
+          "number": 4,
+          "id": "ENSE00003577193",
+          "start": 143310097,
+          "end": 143310213,
+          "offset": 125299,
+          "length": 117
+        },
+        {
+          "number": 5,
+          "id": "ENSE00001082914",
+          "start": 143300485,
+          "end": 143300763,
+          "offset": 134749,
+          "length": 279
+        },
+        {
+          "number": 6,
+          "id": "ENSE00001082913",
+          "start": 143298668,
+          "end": 143298812,
+          "offset": 136700,
+          "length": 145
+        },
+        {
+          "number": 7,
+          "id": "ENSE00001082912",
+          "start": 143295460,
+          "end": 143295590,
+          "offset": 139922,
+          "length": 131
+        },
+        {
+          "number": 8,
+          "id": "ENSE00001082911",
+          "start": 143282568,
+          "end": 143282725,
+          "offset": 152787,
+          "length": 158
+        },
+        {
+          "number": 9,
+          "id": "ENSE00003846106",
+          "start": 143277934,
+          "end": 143282041,
+          "offset": 153471,
+          "length": 4108
+        }
+      ],
+      "sha256": "df84a68dc2a6421eddbd016542c24d2d7d6a4f8df6033d43a0fd3d9378997fa0",
+      "retrieved": "2026-10-21T18:16:31.110072+00:00",
+      "annotationSource": "https://rest.ensembl.org/lookup/symbol/homo_sapiens/NR3C1?expand=1&content-type=application/json",
+      "sequenceSource": "https://api.genome.ucsc.edu/getData/sequence?genome=hg38;chrom=chr5;start=143277930;end=143435512",
+      "crossCheckSource": "https://rest.ensembl.org/sequence/id/ENSG00000113580?type=genomic&content-type=application/json",
+      "sequenceCrossCheck": "Exact agreement between UCSC hg38 and Ensembl GRCh38 genomic sequence",
+      "geneSource": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000113580",
+      "sequenceOrientation": "Gene strand, 5-prime to 3-prime; reverse complement of reference plus strand for minus-strand genes",
+      "coordinateConvention": "1-based, inclusive genomic coordinates"
+    },
+    {
+      "symbol": "DOCK2",
+      "ensembl": "ENSG00000134516",
+      "version": 22,
+      "assembly": "GRCh38",
+      "chromosome": "5",
+      "start": 169637224,
+      "end": 170083382,
+      "strand": 1,
+      "length": 446159,
+      "canonicalTranscript": "ENST00000520908.7",
+      "transcriptStart": 169637275,
+      "transcriptEnd": 170083382,
+      "tss": 169637275,
+      "exons": [
+        {
+          "number": 1,
+          "id": "ENSE00003839404",
+          "start": 169637275,
+          "end": 169637369,
+          "offset": 51,
+          "length": 95
+        },
+        {
+          "number": 2,
+          "id": "ENSE00003522864",
+          "start": 169654403,
+          "end": 169654486,
+          "offset": 17179,
+          "length": 84
+        },
+        {
+          "number": 3,
+          "id": "ENSE00003508740",
+          "start": 169669288,
+          "end": 169669328,
+          "offset": 32064,
+          "length": 41
+        },
+        {
+          "number": 4,
+          "id": "ENSE00003613846",
+          "start": 169670542,
+          "end": 169670597,
+          "offset": 33318,
+          "length": 56
+        },
+        {
+          "number": 5,
+          "id": "ENSE00003624292",
+          "start": 169671078,
+          "end": 169671174,
+          "offset": 33854,
+          "length": 97
+        },
+        {
+          "number": 6,
+          "id": "ENSE00003617304",
+          "start": 169674297,
+          "end": 169674445,
+          "offset": 37073,
+          "length": 149
+        },
+        {
+          "number": 7,
+          "id": "ENSE00002519936",
+          "start": 169681744,
+          "end": 169681879,
+          "offset": 44520,
+          "length": 136
+        },
+        {
+          "number": 8,
+          "id": "ENSE00002451054",
+          "start": 169684196,
+          "end": 169684350,
+          "offset": 46972,
+          "length": 155
+        },
+        {
+          "number": 9,
+          "id": "ENSE00002524482",
+          "start": 169689252,
+          "end": 169689333,
+          "offset": 52028,
+          "length": 82
+        },
+        {
+          "number": 10,
+          "id": "ENSE00003579330",
+          "start": 169695803,
+          "end": 169695938,
+          "offset": 58579,
+          "length": 136
+        },
+        {
+          "number": 11,
+          "id": "ENSE00003624725",
+          "start": 169698374,
+          "end": 169698449,
+          "offset": 61150,
+          "length": 76
+        },
+        {
+          "number": 12,
+          "id": "ENSE00003614819",
+          "start": 169699382,
+          "end": 169699458,
+          "offset": 62158,
+          "length": 77
+        },
+        {
+          "number": 13,
+          "id": "ENSE00003649846",
+          "start": 169700014,
+          "end": 169700139,
+          "offset": 62790,
+          "length": 126
+        },
+        {
+          "number": 14,
+          "id": "ENSE00003533330",
+          "start": 169702303,
+          "end": 169702427,
+          "offset": 65079,
+          "length": 125
+        },
+        {
+          "number": 15,
+          "id": "ENSE00003609473",
+          "start": 169708169,
+          "end": 169708267,
+          "offset": 70945,
+          "length": 99
+        },
+        {
+          "number": 16,
+          "id": "ENSE00003727051",
+          "start": 169711935,
+          "end": 169712007,
+          "offset": 74711,
+          "length": 73
+        },
+        {
+          "number": 17,
+          "id": "ENSE00000973113",
+          "start": 169712120,
+          "end": 169712223,
+          "offset": 74896,
+          "length": 104
+        },
+        {
+          "number": 18,
+          "id": "ENSE00003753052",
+          "start": 169714028,
+          "end": 169714211,
+          "offset": 76804,
+          "length": 184
+        },
+        {
+          "number": 19,
+          "id": "ENSE00003677913",
+          "start": 169714360,
+          "end": 169714457,
+          "offset": 77136,
+          "length": 98
+        },
+        {
+          "number": 20,
+          "id": "ENSE00003469737",
+          "start": 169716213,
+          "end": 169716302,
+          "offset": 78989,
+          "length": 90
+        },
+        {
+          "number": 21,
+          "id": "ENSE00003504009",
+          "start": 169717384,
+          "end": 169717484,
+          "offset": 80160,
+          "length": 101
+        },
+        {
+          "number": 22,
+          "id": "ENSE00003668988",
+          "start": 169718657,
+          "end": 169718791,
+          "offset": 81433,
+          "length": 135
+        },
+        {
+          "number": 23,
+          "id": "ENSE00003599596",
+          "start": 169747396,
+          "end": 169747504,
+          "offset": 110172,
+          "length": 109
+        },
+        {
+          "number": 24,
+          "id": "ENSE00003581737",
+          "start": 169759705,
+          "end": 169759775,
+          "offset": 122481,
+          "length": 71
+        },
+        {
+          "number": 25,
+          "id": "ENSE00003523214",
+          "start": 169761519,
+          "end": 169761625,
+          "offset": 124295,
+          "length": 107
+        },
+        {
+          "number": 26,
+          "id": "ENSE00003628721",
+          "start": 169803058,
+          "end": 169803206,
+          "offset": 165834,
+          "length": 149
+        },
+        {
+          "number": 27,
+          "id": "ENSE00003463097",
+          "start": 169840757,
+          "end": 169840852,
+          "offset": 203533,
+          "length": 96
+        },
+        {
+          "number": 28,
+          "id": "ENSE00003540017",
+          "start": 169983068,
+          "end": 169983166,
+          "offset": 345844,
+          "length": 99
+        },
+        {
+          "number": 29,
+          "id": "ENSE00003558332",
+          "start": 169985828,
+          "end": 169985922,
+          "offset": 348604,
+          "length": 95
+        },
+        {
+          "number": 30,
+          "id": "ENSE00003659124",
+          "start": 169996086,
+          "end": 169996164,
+          "offset": 358862,
+          "length": 79
+        },
+        {
+          "number": 31,
+          "id": "ENSE00003572346",
+          "start": 170008497,
+          "end": 170008597,
+          "offset": 371273,
+          "length": 101
+        },
+        {
+          "number": 32,
+          "id": "ENSE00003535594",
+          "start": 170008688,
+          "end": 170008746,
+          "offset": 371464,
+          "length": 59
+        },
+        {
+          "number": 33,
+          "id": "ENSE00003473908",
+          "start": 170018960,
+          "end": 170019108,
+          "offset": 381736,
+          "length": 149
+        },
+        {
+          "number": 34,
+          "id": "ENSE00003575679",
+          "start": 170027863,
+          "end": 170027948,
+          "offset": 390639,
+          "length": 86
+        },
+        {
+          "number": 35,
+          "id": "ENSE00003676461",
+          "start": 170034399,
+          "end": 170034555,
+          "offset": 397175,
+          "length": 157
+        },
+        {
+          "number": 36,
+          "id": "ENSE00003600684",
+          "start": 170036515,
+          "end": 170036555,
+          "offset": 399291,
+          "length": 41
+        },
+        {
+          "number": 37,
+          "id": "ENSE00003606647",
+          "start": 170041055,
+          "end": 170041145,
+          "offset": 403831,
+          "length": 91
+        },
+        {
+          "number": 38,
+          "id": "ENSE00003543247",
+          "start": 170042013,
+          "end": 170042132,
+          "offset": 404789,
+          "length": 120
+        },
+        {
+          "number": 39,
+          "id": "ENSE00003650131",
+          "start": 170045816,
+          "end": 170045905,
+          "offset": 408592,
+          "length": 90
+        },
+        {
+          "number": 40,
+          "id": "ENSE00003497689",
+          "start": 170047510,
+          "end": 170047614,
+          "offset": 410286,
+          "length": 105
+        },
+        {
+          "number": 41,
+          "id": "ENSE00003653737",
+          "start": 170050256,
+          "end": 170050397,
+          "offset": 413032,
+          "length": 142
+        },
+        {
+          "number": 42,
+          "id": "ENSE00003491954",
+          "start": 170055305,
+          "end": 170055386,
+          "offset": 418081,
+          "length": 82
+        },
+        {
+          "number": 43,
+          "id": "ENSE00003491841",
+          "start": 170056684,
+          "end": 170056768,
+          "offset": 419460,
+          "length": 85
+        },
+        {
+          "number": 44,
+          "id": "ENSE00003668719",
+          "start": 170057580,
+          "end": 170057666,
+          "offset": 420356,
+          "length": 87
+        },
+        {
+          "number": 45,
+          "id": "ENSE00003553166",
+          "start": 170067510,
+          "end": 170067686,
+          "offset": 430286,
+          "length": 177
+        },
+        {
+          "number": 46,
+          "id": "ENSE00003553188",
+          "start": 170069137,
+          "end": 170069220,
+          "offset": 431913,
+          "length": 84
+        },
+        {
+          "number": 47,
+          "id": "ENSE00003467991",
+          "start": 170075947,
+          "end": 170076084,
+          "offset": 438723,
+          "length": 138
+        },
+        {
+          "number": 48,
+          "id": "ENSE00003666882",
+          "start": 170077710,
+          "end": 170077837,
+          "offset": 440486,
+          "length": 128
+        },
+        {
+          "number": 49,
+          "id": "ENSE00003581275",
+          "start": 170078975,
+          "end": 170079146,
+          "offset": 441751,
+          "length": 172
+        },
+        {
+          "number": 50,
+          "id": "ENSE00003670407",
+          "start": 170080163,
+          "end": 170080283,
+          "offset": 442939,
+          "length": 121
+        },
+        {
+          "number": 51,
+          "id": "ENSE00003541588",
+          "start": 170081842,
+          "end": 170081984,
+          "offset": 444618,
+          "length": 143
+        },
+        {
+          "number": 52,
+          "id": "ENSE00001026210",
+          "start": 170082796,
+          "end": 170083382,
+          "offset": 445572,
+          "length": 587
+        }
+      ],
+      "sha256": "ba1214f6a726720b1124a9094d653785513908a5defb512c5235c7a5eaab2cdc",
+      "retrieved": "2026-10-21T18:16:26.769369+00:00",
+      "annotationSource": "https://rest.ensembl.org/lookup/symbol/homo_sapiens/DOCK2?expand=1&content-type=application/json",
+      "sequenceSource": "https://api.genome.ucsc.edu/getData/sequence?genome=hg38;chrom=chr5;start=169637223;end=170083382",
+      "crossCheckSource": "https://rest.ensembl.org/sequence/id/ENSG00000134516?type=genomic&content-type=application/json",
+      "sequenceCrossCheck": "Exact agreement between UCSC hg38 and Ensembl GRCh38 genomic sequence",
+      "geneSource": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000134516",
+      "sequenceOrientation": "Gene strand, 5-prime to 3-prime; reverse complement of reference plus strand for minus-strand genes",
+      "coordinateConvention": "1-based, inclusive genomic coordinates"
+    },
+    {
+      "symbol": "CD38",
+      "ensembl": "ENSG00000004468",
+      "version": 15,
+      "assembly": "GRCh38",
+      "chromosome": "4",
+      "start": 15778275,
+      "end": 15853232,
+      "strand": 1,
+      "length": 74958,
+      "canonicalTranscript": "ENST00000226279.8",
+      "transcriptStart": 15778328,
+      "transcriptEnd": 15853232,
+      "tss": 15778328,
+      "exons": [
+        {
+          "number": 1,
+          "id": "ENSE00001131145",
+          "start": 15778328,
+          "end": 15778647,
+          "offset": 53,
+          "length": 320
+        },
+        {
+          "number": 2,
+          "id": "ENSE00003599703",
+          "start": 15816511,
+          "end": 15816640,
+          "offset": 38236,
+          "length": 130
+        },
+        {
+          "number": 3,
+          "id": "ENSE00000705352",
+          "start": 15824881,
+          "end": 15825016,
+          "offset": 46606,
+          "length": 136
+        },
+        {
+          "number": 4,
+          "id": "ENSE00003661451",
+          "start": 15834217,
+          "end": 15834302,
+          "offset": 55942,
+          "length": 86
+        },
+        {
+          "number": 5,
+          "id": "ENSE00003607810",
+          "start": 15838092,
+          "end": 15838165,
+          "offset": 59817,
+          "length": 74
+        },
+        {
+          "number": 6,
+          "id": "ENSE00003548154",
+          "start": 15840026,
+          "end": 15840118,
+          "offset": 61751,
+          "length": 93
+        },
+        {
+          "number": 7,
+          "id": "ENSE00003522071",
+          "start": 15840452,
+          "end": 15840538,
+          "offset": 62177,
+          "length": 87
+        },
+        {
+          "number": 8,
+          "id": "ENSE00001131136",
+          "start": 15848539,
+          "end": 15853232,
+          "offset": 70264,
+          "length": 4694
+        }
+      ],
+      "sha256": "9fda9be9eb9097d70d20437f4ea2ebdd2b86d6caa2bef616e762f690bdb812b6",
+      "retrieved": "2026-10-21T18:16:51.671375+00:00",
+      "annotationSource": "https://rest.ensembl.org/lookup/symbol/homo_sapiens/CD38?expand=1&content-type=application/json",
+      "sequenceSource": "https://api.genome.ucsc.edu/getData/sequence?genome=hg38;chrom=chr4;start=15778274;end=15853232",
+      "crossCheckSource": "https://rest.ensembl.org/sequence/id/ENSG00000004468?type=genomic&content-type=application/json",
+      "sequenceCrossCheck": "Exact agreement between UCSC hg38 and Ensembl GRCh38 genomic sequence",
+      "geneSource": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000004468",
+      "sequenceOrientation": "Gene strand, 5-prime to 3-prime; reverse complement of reference plus strand for minus-strand genes",
+      "coordinateConvention": "1-based, inclusive genomic coordinates"
+    }
+  ]
+}

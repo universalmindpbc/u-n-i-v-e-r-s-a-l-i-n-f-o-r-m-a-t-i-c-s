@@ -1,0 +1,2783 @@
+[
+  {
+    "source_row": 10,
+    "factor": "ARID3A",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0319893,
+    "FRiP_rep2": 0.0263261
+  },
+  {
+    "source_row": 12,
+    "factor": "ARNT",
+    "tissue": "CB",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0607874,
+    "FRiP_rep2": 0.0988198
+  },
+  {
+    "source_row": 15,
+    "factor": "ARNT",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0300845,
+    "FRiP_rep2": 0.0553922
+  },
+  {
+    "source_row": 49,
+    "factor": "BMI1",
+    "tissue": "CB",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0139404,
+    "FRiP_rep2": 0.0247491
+  },
+  {
+    "source_row": 50,
+    "factor": "BMI1",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0277529,
+    "FRiP_rep2": 0.030973
+  },
+  {
+    "source_row": 51,
+    "factor": "BMI1",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0138805,
+    "FRiP_rep2": 0.0212995
+  },
+  {
+    "source_row": 52,
+    "factor": "BMI1",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0251475,
+    "FRiP_rep2": 0.0401363
+  },
+  {
+    "source_row": 65,
+    "factor": "CHD4",
+    "tissue": "CB",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0809251,
+    "FRiP_rep2": 0.0846909
+  },
+  {
+    "source_row": 66,
+    "factor": "CHD4",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0664247,
+    "FRiP_rep2": 0.0522252
+  },
+  {
+    "source_row": 67,
+    "factor": "CHD4",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0179097,
+    "FRiP_rep2": 0.011983
+  },
+  {
+    "source_row": 68,
+    "factor": "CHD4",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0314189,
+    "FRiP_rep2": 0.0546399
+  },
+  {
+    "source_row": 86,
+    "factor": "CTCF",
+    "tissue": "AMY",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.171707,
+    "FRiP_rep2": 0.179675
+  },
+  {
+    "source_row": 87,
+    "factor": "CTCF",
+    "tissue": "ANCG",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.177402,
+    "FRiP_rep2": 0.214692
+  },
+  {
+    "source_row": 88,
+    "factor": "CTCF",
+    "tissue": "CB",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0823765,
+    "FRiP_rep2": 0.123069
+  },
+  {
+    "source_row": 89,
+    "factor": "CTCF",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.151573,
+    "FRiP_rep2": 0.166011
+  },
+  {
+    "source_row": 90,
+    "factor": "CTCF",
+    "tissue": "DMPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.168509,
+    "FRiP_rep2": 0.212942
+  },
+  {
+    "source_row": 91,
+    "factor": "CTCF",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.124979,
+    "FRiP_rep2": 0.142668
+  },
+  {
+    "source_row": 92,
+    "factor": "CTCF",
+    "tissue": "HC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.09725,
+    "FRiP_rep2": 0.191734
+  },
+  {
+    "source_row": 93,
+    "factor": "CTCF",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0959483,
+    "FRiP_rep2": 0.135182
+  },
+  {
+    "source_row": 94,
+    "factor": "CTCF",
+    "tissue": "SCG",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.158929,
+    "FRiP_rep2": 0.200086
+  },
+  {
+    "source_row": 103,
+    "factor": "DEAF1",
+    "tissue": "SCG",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0210958,
+    "FRiP_rep2": 0.0220613
+  },
+  {
+    "source_row": 105,
+    "factor": "DPF2",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0453413,
+    "FRiP_rep2": 0.0173684
+  },
+  {
+    "source_row": 107,
+    "factor": "DPF2",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0150618,
+    "FRiP_rep2": 0.0202388
+  },
+  {
+    "source_row": 120,
+    "factor": "EGR1",
+    "tissue": "DMPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0132896,
+    "FRiP_rep2": 0.0175675
+  },
+  {
+    "source_row": 130,
+    "factor": "EWSR1",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0560976,
+    "FRiP_rep2": 0
+  },
+  {
+    "source_row": 131,
+    "factor": "EWSR1",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0458039,
+    "FRiP_rep2": 0.0416477
+  },
+  {
+    "source_row": 132,
+    "factor": "EWSR1",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0399869,
+    "FRiP_rep2": 0.0502026
+  },
+  {
+    "source_row": 157,
+    "factor": "GMEB1",
+    "tissue": "CB",
+    "type": "bulk",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0499968,
+    "FRiP_rep2": 0.0849994
+  },
+  {
+    "source_row": 158,
+    "factor": "GMEB1",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.092454,
+    "FRiP_rep2": 0.0906973
+  },
+  {
+    "source_row": 159,
+    "factor": "GMEB1",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0421303,
+    "FRiP_rep2": 0.0604752
+  },
+  {
+    "source_row": 160,
+    "factor": "GMEB1",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0824888,
+    "FRiP_rep2": 0.0703682
+  },
+  {
+    "source_row": 167,
+    "factor": "H3K27ac",
+    "tissue": "HC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.338859,
+    "FRiP_rep2": 0.296765
+  },
+  {
+    "source_row": 170,
+    "factor": "H3K27me3",
+    "tissue": "AMY",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0,
+    "FRiP_rep2": 0
+  },
+  {
+    "source_row": 171,
+    "factor": "H3K27me3",
+    "tissue": "ANCG",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0,
+    "FRiP_rep2": 0
+  },
+  {
+    "source_row": 172,
+    "factor": "H3K27me3",
+    "tissue": "CB",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0,
+    "FRiP_rep2": 0
+  },
+  {
+    "source_row": 173,
+    "factor": "H3K27me3",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0,
+    "FRiP_rep2": 0
+  },
+  {
+    "source_row": 174,
+    "factor": "H3K27me3",
+    "tissue": "DMPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0,
+    "FRiP_rep2": 0
+  },
+  {
+    "source_row": 175,
+    "factor": "H3K27me3",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0,
+    "FRiP_rep2": 0
+  },
+  {
+    "source_row": 176,
+    "factor": "H3K27me3",
+    "tissue": "HC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0,
+    "FRiP_rep2": 0
+  },
+  {
+    "source_row": 177,
+    "factor": "H3K27me3",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0,
+    "FRiP_rep2": 0
+  },
+  {
+    "source_row": 180,
+    "factor": "H3K4me1",
+    "tissue": "ANCG",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0856315,
+    "FRiP_rep2": 0.057865
+  },
+  {
+    "source_row": 182,
+    "factor": "H3K4me1",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0373402,
+    "FRiP_rep2": 0.0336044
+  },
+  {
+    "source_row": 185,
+    "factor": "H3K4me1",
+    "tissue": "HC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0344213,
+    "FRiP_rep2": 0.0437457
+  },
+  {
+    "source_row": 186,
+    "factor": "H3K4me1",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0198733,
+    "FRiP_rep2": 0.0300108
+  },
+  {
+    "source_row": 187,
+    "factor": "H3K4me1",
+    "tissue": "SCG",
+    "type": "bulk",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0257498,
+    "FRiP_rep2": 0.042238
+  },
+  {
+    "source_row": 188,
+    "factor": "H3K4me3",
+    "tissue": "AMY",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.229017,
+    "FRiP_rep2": 0.277062
+  },
+  {
+    "source_row": 189,
+    "factor": "H3K4me3",
+    "tissue": "ANCG",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.215082,
+    "FRiP_rep2": 0.130871
+  },
+  {
+    "source_row": 190,
+    "factor": "H3K4me3",
+    "tissue": "CB",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.169245,
+    "FRiP_rep2": 0.148946
+  },
+  {
+    "source_row": 191,
+    "factor": "H3K4me3",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.143309,
+    "FRiP_rep2": 0.220372
+  },
+  {
+    "source_row": 192,
+    "factor": "H3K4me3",
+    "tissue": "DMPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.241097,
+    "FRiP_rep2": 0.271066
+  },
+  {
+    "source_row": 193,
+    "factor": "H3K4me3",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.292867,
+    "FRiP_rep2": 0.340755
+  },
+  {
+    "source_row": 194,
+    "factor": "H3K4me3",
+    "tissue": "HC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.217573,
+    "FRiP_rep2": 0.207759
+  },
+  {
+    "source_row": 195,
+    "factor": "H3K4me3",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.189579,
+    "FRiP_rep2": 0.223866
+  },
+  {
+    "source_row": 196,
+    "factor": "H3K4me3",
+    "tissue": "SCG",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.160221,
+    "FRiP_rep2": 0.234629
+  },
+  {
+    "source_row": 198,
+    "factor": "H3K9ac",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0477604,
+    "FRiP_rep2": 0.0860235
+  },
+  {
+    "source_row": 199,
+    "factor": "H3K9ac",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0443463,
+    "FRiP_rep2": 0.080175
+  },
+  {
+    "source_row": 200,
+    "factor": "H3K9ac",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0523598,
+    "FRiP_rep2": 0.0599588
+  },
+  {
+    "source_row": 209,
+    "factor": "KAT2B",
+    "tissue": "CB",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.034929,
+    "FRiP_rep2": 0.0310863
+  },
+  {
+    "source_row": 229,
+    "factor": "MEF2A",
+    "tissue": "CB",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0260405,
+    "FRiP_rep2": 0.054429
+  },
+  {
+    "source_row": 230,
+    "factor": "MEF2A",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0256991,
+    "FRiP_rep2": 0.0251003
+  },
+  {
+    "source_row": 254,
+    "factor": "NEUROD1",
+    "tissue": "AMY",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0397422,
+    "FRiP_rep2": 0.044784
+  },
+  {
+    "source_row": 258,
+    "factor": "NEUROD1",
+    "tissue": "DMPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0285947,
+    "FRiP_rep2": 0.0347837
+  },
+  {
+    "source_row": 259,
+    "factor": "NEUROD1",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0154398,
+    "FRiP_rep2": 0.019484
+  },
+  {
+    "source_row": 260,
+    "factor": "NEUROD1",
+    "tissue": "HC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0267819,
+    "FRiP_rep2": 0.0399689
+  },
+  {
+    "source_row": 261,
+    "factor": "NEUROD1",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0149061,
+    "FRiP_rep2": 0.0219313
+  },
+  {
+    "source_row": 262,
+    "factor": "NEUROD1",
+    "tissue": "SCG",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0354557,
+    "FRiP_rep2": 0.0466295
+  },
+  {
+    "source_row": 263,
+    "factor": "NFIB",
+    "tissue": "CB",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0120498,
+    "FRiP_rep2": 0.0227518
+  },
+  {
+    "source_row": 266,
+    "factor": "NFIB",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00628642,
+    "FRiP_rep2": 0.0055145
+  },
+  {
+    "source_row": 269,
+    "factor": "NFIC",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0276942,
+    "FRiP_rep2": 0.0144618
+  },
+  {
+    "source_row": 271,
+    "factor": "NONO",
+    "tissue": "CB",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0497293,
+    "FRiP_rep2": 0.10319
+  },
+  {
+    "source_row": 272,
+    "factor": "NONO",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0629275,
+    "FRiP_rep2": 0.0145174
+  },
+  {
+    "source_row": 274,
+    "factor": "NONO",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0391982,
+    "FRiP_rep2": 0.0356867
+  },
+  {
+    "source_row": 279,
+    "factor": "NR2F2",
+    "tissue": "AMY",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0357913,
+    "FRiP_rep2": 0.0415823
+  },
+  {
+    "source_row": 285,
+    "factor": "NR2F2",
+    "tissue": "HC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0265386,
+    "FRiP_rep2": 0.0331602
+  },
+  {
+    "source_row": 286,
+    "factor": "NR2F2",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0208053,
+    "FRiP_rep2": 0.016547
+  },
+  {
+    "source_row": 287,
+    "factor": "NR2F2",
+    "tissue": "SCG",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.036762,
+    "FRiP_rep2": 0.0233089
+  },
+  {
+    "source_row": 307,
+    "factor": "OLIG2",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0861349,
+    "FRiP_rep2": 0.102827
+  },
+  {
+    "source_row": 308,
+    "factor": "OLIG2",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.038164,
+    "FRiP_rep2": 0.0216023
+  },
+  {
+    "source_row": 314,
+    "factor": "Pol2",
+    "tissue": "CB",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0393611,
+    "FRiP_rep2": 0.0547217
+  },
+  {
+    "source_row": 315,
+    "factor": "Pol2",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0429798,
+    "FRiP_rep2": 0.0610311
+  },
+  {
+    "source_row": 316,
+    "factor": "Pol2",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0212544,
+    "FRiP_rep2": 0.0612794
+  },
+  {
+    "source_row": 317,
+    "factor": "Pol2",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0204854,
+    "FRiP_rep2": 0.0462376
+  },
+  {
+    "source_row": 318,
+    "factor": "RAD21",
+    "tissue": "AMY",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.10518,
+    "FRiP_rep2": 0.0963954
+  },
+  {
+    "source_row": 319,
+    "factor": "RAD21",
+    "tissue": "ANCG",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0803876,
+    "FRiP_rep2": 0.0719445
+  },
+  {
+    "source_row": 320,
+    "factor": "RAD21",
+    "tissue": "CB",
+    "type": "bulk",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0395968,
+    "FRiP_rep2": 0.0984888
+  },
+  {
+    "source_row": 321,
+    "factor": "RAD21",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0691873,
+    "FRiP_rep2": 0.0735369
+  },
+  {
+    "source_row": 322,
+    "factor": "RAD21",
+    "tissue": "DMPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0980991,
+    "FRiP_rep2": 0.105962
+  },
+  {
+    "source_row": 323,
+    "factor": "RAD21",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0386399,
+    "FRiP_rep2": 0.038198
+  },
+  {
+    "source_row": 324,
+    "factor": "RAD21",
+    "tissue": "HC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0842817,
+    "FRiP_rep2": 0.0924639
+  },
+  {
+    "source_row": 325,
+    "factor": "RAD21",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0597853,
+    "FRiP_rep2": 0.0467394
+  },
+  {
+    "source_row": 326,
+    "factor": "RAD21",
+    "tissue": "SCG",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0845584,
+    "FRiP_rep2": 0.129991
+  },
+  {
+    "source_row": 345,
+    "factor": "SIN3A",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00846047,
+    "FRiP_rep2": 0.00792626
+  },
+  {
+    "source_row": 346,
+    "factor": "SIN3A",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0176291,
+    "FRiP_rep2": 0.0154554
+  },
+  {
+    "source_row": 359,
+    "factor": "SKIL",
+    "tissue": "CB",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0447639,
+    "FRiP_rep2": 0.060228
+  },
+  {
+    "source_row": 360,
+    "factor": "SKIL",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0243492,
+    "FRiP_rep2": 0.0307129
+  },
+  {
+    "source_row": 361,
+    "factor": "SKIL",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0152389,
+    "FRiP_rep2": 0.0190264
+  },
+  {
+    "source_row": 363,
+    "factor": "SMARCA5",
+    "tissue": "CB",
+    "type": "bulk",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0148441,
+    "FRiP_rep2": 0.0690099
+  },
+  {
+    "source_row": 364,
+    "factor": "SMARCA5",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0775635,
+    "FRiP_rep2": 0.0435522
+  },
+  {
+    "source_row": 365,
+    "factor": "SMARCA5",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0201989,
+    "FRiP_rep2": 0.0356083
+  },
+  {
+    "source_row": 366,
+    "factor": "SMARCA5",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.04752,
+    "FRiP_rep2": 0.0609962
+  },
+  {
+    "source_row": 367,
+    "factor": "SMC3",
+    "tissue": "CB",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.267435,
+    "FRiP_rep2": 0.234693
+  },
+  {
+    "source_row": 368,
+    "factor": "SMC3",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.261969,
+    "FRiP_rep2": 0.271424
+  },
+  {
+    "source_row": 369,
+    "factor": "SMC3",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.192527,
+    "FRiP_rep2": 0.207958
+  },
+  {
+    "source_row": 370,
+    "factor": "SMC3",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.223485,
+    "FRiP_rep2": 0.212017
+  },
+  {
+    "source_row": 376,
+    "factor": "SOX8",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0180143,
+    "FRiP_rep2": 0.0171167
+  },
+  {
+    "source_row": 378,
+    "factor": "SOX8",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0129837,
+    "FRiP_rep2": 0.0208638
+  },
+  {
+    "source_row": 380,
+    "factor": "SP1",
+    "tissue": "AMY",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.10903,
+    "FRiP_rep2": 0.0570093
+  },
+  {
+    "source_row": 381,
+    "factor": "SP1",
+    "tissue": "ANCG",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0542816,
+    "FRiP_rep2": 0
+  },
+  {
+    "source_row": 383,
+    "factor": "SP1",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0,
+    "FRiP_rep2": 0.0531689
+  },
+  {
+    "source_row": 384,
+    "factor": "SP1",
+    "tissue": "DMPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0777377,
+    "FRiP_rep2": 0.0615178
+  },
+  {
+    "source_row": 387,
+    "factor": "SP1",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.076756,
+    "FRiP_rep2": 0.0733207
+  },
+  {
+    "source_row": 393,
+    "factor": "SREBF2",
+    "tissue": "CB",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0202077,
+    "FRiP_rep2": 0.0223117
+  },
+  {
+    "source_row": 411,
+    "factor": "TARDBP",
+    "tissue": "HC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0154341,
+    "FRiP_rep2": 0.0216219
+  },
+  {
+    "source_row": 413,
+    "factor": "TARDBP",
+    "tissue": "SCG",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0414861,
+    "FRiP_rep2": 0.0346798
+  },
+  {
+    "source_row": 426,
+    "factor": "TRIM28",
+    "tissue": "CB",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0698179,
+    "FRiP_rep2": 0.0870574
+  },
+  {
+    "source_row": 427,
+    "factor": "TRIM28",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.049547,
+    "FRiP_rep2": 0.0479338
+  },
+  {
+    "source_row": 429,
+    "factor": "TRIM28",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0437304,
+    "FRiP_rep2": 0.0600051
+  },
+  {
+    "source_row": 441,
+    "factor": "YY1",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0287488,
+    "FRiP_rep2": 0.0573075
+  },
+  {
+    "source_row": 459,
+    "factor": "ZEB2",
+    "tissue": "DMPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0179964,
+    "FRiP_rep2": 0.0130962
+  },
+  {
+    "source_row": 465,
+    "factor": "ZFP91",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0306411,
+    "FRiP_rep2": 0.0397054
+  },
+  {
+    "source_row": 466,
+    "factor": "ZFP91",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00786235,
+    "FRiP_rep2": 0.0171599
+  },
+  {
+    "source_row": 467,
+    "factor": "ZFP91",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0271169,
+    "FRiP_rep2": 0.015605
+  },
+  {
+    "source_row": 470,
+    "factor": "ZHX1",
+    "tissue": "FP",
+    "type": "bulk",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.00965738,
+    "FRiP_rep2": 0.00344714
+  },
+  {
+    "source_row": 471,
+    "factor": "ZHX1",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.019493,
+    "FRiP_rep2": 0.0223492
+  },
+  {
+    "source_row": 487,
+    "factor": "ZNF24",
+    "tissue": "OL",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0238168,
+    "FRiP_rep2": 0.018687
+  },
+  {
+    "source_row": 501,
+    "factor": "ZNF592",
+    "tissue": "DLPFC",
+    "type": "bulk",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00181813,
+    "FRiP_rep2": 0.00369347
+  },
+  {
+    "source_row": 514,
+    "factor": "ASH2L",
+    "tissue": "OL",
+    "type": "Neg",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0143471258201784,
+    "FRiP_rep2": 0.00627587522702861
+  },
+  {
+    "source_row": 520,
+    "factor": "BRD4",
+    "tissue": "DLPFC",
+    "type": "NEG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.132043307356393,
+    "FRiP_rep2": 0.0186625379304858
+  },
+  {
+    "source_row": 521,
+    "factor": "BRD4",
+    "tissue": "FP",
+    "type": "NEG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0455701669279504,
+    "FRiP_rep2": 0.0661641383835321
+  },
+  {
+    "source_row": 522,
+    "factor": "BRD4",
+    "tissue": "OL",
+    "type": "Neg",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.164013957056738,
+    "FRiP_rep2": 0.0485494336906362
+  },
+  {
+    "source_row": 523,
+    "factor": "CHD4",
+    "tissue": "DLPFC",
+    "type": "NEG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0533710092787958,
+    "FRiP_rep2": 0.0260339800876716
+  },
+  {
+    "source_row": 524,
+    "factor": "CHD4",
+    "tissue": "FP",
+    "type": "NEG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0332313534759713,
+    "FRiP_rep2": 0.0170971229254282
+  },
+  {
+    "source_row": 525,
+    "factor": "CHD4",
+    "tissue": "OL",
+    "type": "Neg",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0552824325339182,
+    "FRiP_rep2": 0.0272891723824035
+  },
+  {
+    "source_row": 527,
+    "factor": "CTCF",
+    "tissue": "CB",
+    "type": "NEG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0540277145040395,
+    "FRiP_rep2": 0.0936306858737198
+  },
+  {
+    "source_row": 528,
+    "factor": "CTCF",
+    "tissue": "DLPFC",
+    "type": "NEG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0576290065829591,
+    "FRiP_rep2": 0.0858477415413108
+  },
+  {
+    "source_row": 529,
+    "factor": "CTCF",
+    "tissue": "FP",
+    "type": "NEG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0267267166138864,
+    "FRiP_rep2": 0.0518833508712855
+  },
+  {
+    "source_row": 530,
+    "factor": "CTCF",
+    "tissue": "HC",
+    "type": "NEG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0270466490243003,
+    "FRiP_rep2": 0.0178460247929622
+  },
+  {
+    "source_row": 531,
+    "factor": "CTCF",
+    "tissue": "OL",
+    "type": "NEG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0274141546670471,
+    "FRiP_rep2": 0.0396777663177629
+  },
+  {
+    "source_row": 532,
+    "factor": "DEAF1",
+    "tissue": "OL",
+    "type": "NEG",
+    "Rep_test": "fail",
+    "FRiP_rep1": 0.00857080875511554,
+    "FRiP_rep2": 0.0785512451489356
+  },
+  {
+    "source_row": 535,
+    "factor": "FOS",
+    "tissue": "OL",
+    "type": "Neg",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0695083284290711,
+    "FRiP_rep2": 0.0427164954365217
+  },
+  {
+    "source_row": 537,
+    "factor": "H3K27ac",
+    "tissue": "DLPFC",
+    "type": "NEG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0520692504818563,
+    "FRiP_rep2": 0.12394682329587
+  },
+  {
+    "source_row": 542,
+    "factor": "H3K27me3",
+    "tissue": "DLPFC",
+    "type": "Neg",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0151514637170589,
+    "FRiP_rep2": 0.0103777443760441
+  },
+  {
+    "source_row": 544,
+    "factor": "H3K27me3",
+    "tissue": "OL",
+    "type": "Neg",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00776085554781161,
+    "FRiP_rep2": 0.0111763452575026
+  },
+  {
+    "source_row": 548,
+    "factor": "H3K4me3",
+    "tissue": "CB",
+    "type": "NEG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.122870298941646,
+    "FRiP_rep2": 0.136847760508798
+  },
+  {
+    "source_row": 549,
+    "factor": "H3K4me3",
+    "tissue": "DLPFC",
+    "type": "NEG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.145769241932847,
+    "FRiP_rep2": 0.172433041655727
+  },
+  {
+    "source_row": 550,
+    "factor": "H3K4me3",
+    "tissue": "FP",
+    "type": "NEG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.202192942921674,
+    "FRiP_rep2": 0.142495647241794
+  },
+  {
+    "source_row": 551,
+    "factor": "H3K4me3",
+    "tissue": "HC",
+    "type": "NEG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0302589253304451,
+    "FRiP_rep2": 0.016724616746761
+  },
+  {
+    "source_row": 552,
+    "factor": "H3K4me3",
+    "tissue": "OL",
+    "type": "NEG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.235782656902131,
+    "FRiP_rep2": 0.131425002096352
+  },
+  {
+    "source_row": 555,
+    "factor": "MEIS2",
+    "tissue": "OL",
+    "type": "Neg",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0614069941359531,
+    "FRiP_rep2": 0.0172354711680596
+  },
+  {
+    "source_row": 560,
+    "factor": "NRF1",
+    "tissue": "FP",
+    "type": "NEG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0208791556921195,
+    "FRiP_rep2": 0.0259754278652956
+  },
+  {
+    "source_row": 561,
+    "factor": "PKNOX1",
+    "tissue": "FP",
+    "type": "NEG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0379771571651384,
+    "FRiP_rep2": 0.0537931078207237
+  },
+  {
+    "source_row": 566,
+    "factor": "PRDM15",
+    "tissue": "FP",
+    "type": "NEG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0517241524263865,
+    "FRiP_rep2": 0.0314541965091756
+  },
+  {
+    "source_row": 567,
+    "factor": "PRDM15",
+    "tissue": "OL",
+    "type": "NEG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0366556528117369,
+    "FRiP_rep2": 0.00619861693715111
+  },
+  {
+    "source_row": 568,
+    "factor": "RELB",
+    "tissue": "DLPFC",
+    "type": "NEG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.018714971977582,
+    "FRiP_rep2": 0.0485519634420574
+  },
+  {
+    "source_row": 570,
+    "factor": "RELB",
+    "tissue": "OL",
+    "type": "NEG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0350845924893118,
+    "FRiP_rep2": 0.0460167043505912
+  },
+  {
+    "source_row": 571,
+    "factor": "REST",
+    "tissue": "DLPFC",
+    "type": "Neg",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.125949184153345,
+    "FRiP_rep2": 0.152107220653919
+  },
+  {
+    "source_row": 572,
+    "factor": "REST",
+    "tissue": "FP",
+    "type": "Neg",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0230789883628581,
+    "FRiP_rep2": 0.0487722757612958
+  },
+  {
+    "source_row": 573,
+    "factor": "REST",
+    "tissue": "OL",
+    "type": "Neg",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.128449623538056,
+    "FRiP_rep2": 0.0616482484007193
+  },
+  {
+    "source_row": 575,
+    "factor": "SIN3A",
+    "tissue": "OL",
+    "type": "NEG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0308516410678209,
+    "FRiP_rep2": 0.0525142693640003
+  },
+  {
+    "source_row": 579,
+    "factor": "SP1",
+    "tissue": "DLPFC",
+    "type": "NEG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.124114828214048,
+    "FRiP_rep2": 0.146059539378994
+  },
+  {
+    "source_row": 583,
+    "factor": "SRF",
+    "tissue": "OL",
+    "type": "NEG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0159938249144546,
+    "FRiP_rep2": 0.00839005968807328
+  },
+  {
+    "source_row": 609,
+    "factor": "ASH2L",
+    "tissue": "FP",
+    "type": "Neun",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.00234819373911391,
+    "FRiP_rep2": 0.00606234800352696
+  },
+  {
+    "source_row": 610,
+    "factor": "ASH2L",
+    "tissue": "OL",
+    "type": "Neun",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00267516505803252,
+    "FRiP_rep2": 0.00393243098113819
+  },
+  {
+    "source_row": 612,
+    "factor": "BCL11A",
+    "tissue": "FP",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00959107650205278,
+    "FRiP_rep2": 0.0261418811817708
+  },
+  {
+    "source_row": 621,
+    "factor": "BHLHE41",
+    "tissue": "DLPFC",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00490963392193352,
+    "FRiP_rep2": 0.00318766474571035
+  },
+  {
+    "source_row": 624,
+    "factor": "BMI1",
+    "tissue": "DLPFC",
+    "type": "NeuN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0180825634740553,
+    "FRiP_rep2": 0.0151499694852947
+  },
+  {
+    "source_row": 625,
+    "factor": "BMI1",
+    "tissue": "FP",
+    "type": "NeuN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0187875954509691,
+    "FRiP_rep2": 0.0105134251852076
+  },
+  {
+    "source_row": 626,
+    "factor": "BMI1",
+    "tissue": "OL",
+    "type": "NeuN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00855494111584304,
+    "FRiP_rep2": 0.0138588536855104
+  },
+  {
+    "source_row": 628,
+    "factor": "BRD4",
+    "tissue": "DLPFC",
+    "type": "NeuN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0859312969931179,
+    "FRiP_rep2": 0.0523931704701943
+  },
+  {
+    "source_row": 630,
+    "factor": "BRD4",
+    "tissue": "OL",
+    "type": "NeuN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0601846507801805,
+    "FRiP_rep2": 0.0662420042200187
+  },
+  {
+    "source_row": 632,
+    "factor": "CHD4",
+    "tissue": "DLPFC",
+    "type": "NeuN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.012918105319108,
+    "FRiP_rep2": 0.0151792693472434
+  },
+  {
+    "source_row": 634,
+    "factor": "CHD4",
+    "tissue": "OL",
+    "type": "NeuN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0201774557489391,
+    "FRiP_rep2": 0.0316226773554265
+  },
+  {
+    "source_row": 644,
+    "factor": "CREM",
+    "tissue": "DLPFC",
+    "type": "NEUN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0223607351191382,
+    "FRiP_rep2": 0.0031144096458345
+  },
+  {
+    "source_row": 646,
+    "factor": "CREM",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0114042167957377,
+    "FRiP_rep2": 0.0180458655298109
+  },
+  {
+    "source_row": 647,
+    "factor": "CTCF",
+    "tissue": "AMY",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0339875286576023,
+    "FRiP_rep2": 0.0835166479723903
+  },
+  {
+    "source_row": 648,
+    "factor": "CTCF",
+    "tissue": "CB",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0509139154670047,
+    "FRiP_rep2": 0.0554736066764968
+  },
+  {
+    "source_row": 649,
+    "factor": "CTCF",
+    "tissue": "DLPFC",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.10532853112517,
+    "FRiP_rep2": 0.109585186068176
+  },
+  {
+    "source_row": 650,
+    "factor": "CTCF",
+    "tissue": "FP",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0436236952957993,
+    "FRiP_rep2": 0.0356626382706663
+  },
+  {
+    "source_row": 651,
+    "factor": "CTCF",
+    "tissue": "HC",
+    "type": "NEUN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0602787528955247,
+    "FRiP_rep2": 0.011124335275017
+  },
+  {
+    "source_row": 652,
+    "factor": "CTCF",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0581861551098973,
+    "FRiP_rep2": 0.061869128925054
+  },
+  {
+    "source_row": 654,
+    "factor": "DEAF1",
+    "tissue": "DLPFC",
+    "type": "NEUN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.00518233572519967,
+    "FRiP_rep2": 0.0193047389506866
+  },
+  {
+    "source_row": 656,
+    "factor": "DEAF1",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00877184942478133,
+    "FRiP_rep2": 0.0096793424817398
+  },
+  {
+    "source_row": 657,
+    "factor": "E2F1",
+    "tissue": "DLPFC",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00167917909162689,
+    "FRiP_rep2": 0.000847688868433164
+  },
+  {
+    "source_row": 660,
+    "factor": "EGR1",
+    "tissue": "CB",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0391158493173769,
+    "FRiP_rep2": 0.0856939740477603
+  },
+  {
+    "source_row": 664,
+    "factor": "EWSR1",
+    "tissue": "DLPFC",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00323743514855619,
+    "FRiP_rep2": 0.00374194447048138
+  },
+  {
+    "source_row": 671,
+    "factor": "GATAD2A",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.016099529039619,
+    "FRiP_rep2": 0.00661293675936024
+  },
+  {
+    "source_row": 681,
+    "factor": "H3K27me3",
+    "tissue": "CB",
+    "type": "NeuN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0283595390215536,
+    "FRiP_rep2": 0.0108162587901222
+  },
+  {
+    "source_row": 682,
+    "factor": "H3K27me3",
+    "tissue": "DLPFC",
+    "type": "NeuN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.034902237235342,
+    "FRiP_rep2": 0.0198150091440448
+  },
+  {
+    "source_row": 683,
+    "factor": "H3K27me3",
+    "tissue": "FP",
+    "type": "NeuN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0242359456461341,
+    "FRiP_rep2": 0.0349231783246713
+  },
+  {
+    "source_row": 687,
+    "factor": "H3K4me1",
+    "tissue": "FP",
+    "type": "NeuN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0408018042641651,
+    "FRiP_rep2": 0.05608299218506
+  },
+  {
+    "source_row": 689,
+    "factor": "H3K4me3",
+    "tissue": "AMY",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.239239409490124,
+    "FRiP_rep2": 0.152218022512265
+  },
+  {
+    "source_row": 690,
+    "factor": "H3K4me3",
+    "tissue": "CB",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.356790341038773,
+    "FRiP_rep2": 0.25299113102615
+  },
+  {
+    "source_row": 691,
+    "factor": "H3K4me3",
+    "tissue": "DLPFC",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.233820794116387,
+    "FRiP_rep2": 0.188413533378616
+  },
+  {
+    "source_row": 692,
+    "factor": "H3K4me3",
+    "tissue": "FP",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.331437642055185,
+    "FRiP_rep2": 0.276315571412236
+  },
+  {
+    "source_row": 693,
+    "factor": "H3K4me3",
+    "tissue": "HC",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0423181958852579,
+    "FRiP_rep2": 0.117549775708929
+  },
+  {
+    "source_row": 694,
+    "factor": "H3K4me3",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.273704236952283,
+    "FRiP_rep2": 0.181944047757641
+  },
+  {
+    "source_row": 695,
+    "factor": "H3K9AC",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0378956341264546,
+    "FRiP_rep2": 0.00711429441879534
+  },
+  {
+    "source_row": 697,
+    "factor": "HCFC1",
+    "tissue": "FP",
+    "type": "NEUN",
+    "Rep_test": "fail",
+    "FRiP_rep1": 0.0440516184161043,
+    "FRiP_rep2": 0.00584705262518037
+  },
+  {
+    "source_row": 698,
+    "factor": "HCFC1",
+    "tissue": "OL",
+    "type": "NeuN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0157195288399395,
+    "FRiP_rep2": 0.00243735163163812
+  },
+  {
+    "source_row": 701,
+    "factor": "KAT2B",
+    "tissue": "FP",
+    "type": "NEUN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0216919417117943,
+    "FRiP_rep2": 0.00489194700774586
+  },
+  {
+    "source_row": 702,
+    "factor": "KAT2B",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0384035291488291,
+    "FRiP_rep2": 0.00502770138862514
+  },
+  {
+    "source_row": 708,
+    "factor": "KLF5",
+    "tissue": "FP",
+    "type": "Neun",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.010154466721262,
+    "FRiP_rep2": 0.016583786259959
+  },
+  {
+    "source_row": 714,
+    "factor": "MEF2A",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.00295582940377495,
+    "FRiP_rep2": 0.0106076420861002
+  },
+  {
+    "source_row": 715,
+    "factor": "MEF2C",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0740090734254508,
+    "FRiP_rep2": 0.0724102247189691
+  },
+  {
+    "source_row": 716,
+    "factor": "MEIS2",
+    "tissue": "DLPFC",
+    "type": "NeuN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.00528808683984284,
+    "FRiP_rep2": 0.0182378948888142
+  },
+  {
+    "source_row": 726,
+    "factor": "NEUROD1",
+    "tissue": "DLPFC",
+    "type": "NeuN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0493478977312232,
+    "FRiP_rep2": 0.0750713602710721
+  },
+  {
+    "source_row": 727,
+    "factor": "NEUROD1",
+    "tissue": "FP",
+    "type": "NeuN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0194027042319844,
+    "FRiP_rep2": 0.0907402757667027
+  },
+  {
+    "source_row": 728,
+    "factor": "NEUROD1",
+    "tissue": "OL",
+    "type": "NeuN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0345829242241888,
+    "FRiP_rep2": 0.0891170720970314
+  },
+  {
+    "source_row": 734,
+    "factor": "NFIC",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.023303681633805,
+    "FRiP_rep2": 0.00429166631121437
+  },
+  {
+    "source_row": 740,
+    "factor": "NR2F2",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.00135776226474632,
+    "FRiP_rep2": 0.00690117631463264
+  },
+  {
+    "source_row": 752,
+    "factor": "PKNOX1",
+    "tissue": "AMY",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0130459115900116,
+    "FRiP_rep2": 0.0124370661304705
+  },
+  {
+    "source_row": 753,
+    "factor": "PKNOX1",
+    "tissue": "CB",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0103894926442963,
+    "FRiP_rep2": 0.0115405373118888
+  },
+  {
+    "source_row": 754,
+    "factor": "PKNOX1",
+    "tissue": "DLPFC",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.075739728114703,
+    "FRiP_rep2": 0.0581188443729147
+  },
+  {
+    "source_row": 757,
+    "factor": "PKNOX1",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0199294393838972,
+    "FRiP_rep2": 0.0438243703869401
+  },
+  {
+    "source_row": 760,
+    "factor": "Pol2",
+    "tissue": "FP",
+    "type": "NeuN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0427106602880744,
+    "FRiP_rep2": 0.030773558325558
+  },
+  {
+    "source_row": 761,
+    "factor": "Pol2",
+    "tissue": "OL",
+    "type": "NeuN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0541347448949066,
+    "FRiP_rep2": 0.0334822176423604
+  },
+  {
+    "source_row": 767,
+    "factor": "PRDM15",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0259547941188287,
+    "FRiP_rep2": 0.00402563494273224
+  },
+  {
+    "source_row": 770,
+    "factor": "RELB",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0169687924363306,
+    "FRiP_rep2": 0.0231739824683448
+  },
+  {
+    "source_row": 775,
+    "factor": "SIN3A",
+    "tissue": "DLPFC",
+    "type": "NeuN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0243374090574787,
+    "FRiP_rep2": 0.00958097009591089
+  },
+  {
+    "source_row": 776,
+    "factor": "SIN3A",
+    "tissue": "FP",
+    "type": "NeuN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0186000170490298,
+    "FRiP_rep2": 0.00936859223644205
+  },
+  {
+    "source_row": 779,
+    "factor": "SKIL",
+    "tissue": "DLPFC",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00549208762465613,
+    "FRiP_rep2": 0.00317097551000112
+  },
+  {
+    "source_row": 781,
+    "factor": "SKIL",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0297466187129228,
+    "FRiP_rep2": 0.00424716443244183
+  },
+  {
+    "source_row": 784,
+    "factor": "SMARCA5",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0140550090715549,
+    "FRiP_rep2": 0.00334331318556632
+  },
+  {
+    "source_row": 785,
+    "factor": "SMC3",
+    "tissue": "CB",
+    "type": "Neun",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0167092044927416,
+    "FRiP_rep2": 0.0268554174145136
+  },
+  {
+    "source_row": 786,
+    "factor": "SMC3",
+    "tissue": "DLPFC",
+    "type": "NeuN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.00520156102416662,
+    "FRiP_rep2": 0.0307593516874008
+  },
+  {
+    "source_row": 787,
+    "factor": "SMC3",
+    "tissue": "FP",
+    "type": "NeuN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0348577165795636,
+    "FRiP_rep2": 0.0118197174661911
+  },
+  {
+    "source_row": 788,
+    "factor": "SMC3",
+    "tissue": "OL",
+    "type": "NeuN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0690878485425944,
+    "FRiP_rep2": 0.0125832357633193
+  },
+  {
+    "source_row": 803,
+    "factor": "SRF",
+    "tissue": "DLPFC",
+    "type": "NEUN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.000669557744694277,
+    "FRiP_rep2": 0.00368262842907873
+  },
+  {
+    "source_row": 805,
+    "factor": "SRF",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00143310908146946,
+    "FRiP_rep2": 0.00135052337657807
+  },
+  {
+    "source_row": 814,
+    "factor": "TBR1",
+    "tissue": "FP",
+    "type": "NeuN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0322261084062886,
+    "FRiP_rep2": 0.0181398639164808
+  },
+  {
+    "source_row": 815,
+    "factor": "TBR1",
+    "tissue": "OL",
+    "type": "Neun",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0477674850247767,
+    "FRiP_rep2": 0.0107934552845132
+  },
+  {
+    "source_row": 822,
+    "factor": "TRIM28",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0233590449800001,
+    "FRiP_rep2": 0.0210965346258218
+  },
+  {
+    "source_row": 823,
+    "factor": "YBX1",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00931694225683711,
+    "FRiP_rep2": 0.00774718620345068
+  },
+  {
+    "source_row": 827,
+    "factor": "YY1",
+    "tissue": "HC",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00797294913680289,
+    "FRiP_rep2": 0.013015075582983
+  },
+  {
+    "source_row": 828,
+    "factor": "YY1",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0319500903544933,
+    "FRiP_rep2": 0.0580716382283272
+  },
+  {
+    "source_row": 830,
+    "factor": "ZEB1",
+    "tissue": "FP",
+    "type": "Neun",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0230404229367618,
+    "FRiP_rep2": 0.0299886350075319
+  },
+  {
+    "source_row": 831,
+    "factor": "ZEB1",
+    "tissue": "OL",
+    "type": "Neun",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0484541458954057,
+    "FRiP_rep2": 0.0392516697739168
+  },
+  {
+    "source_row": 837,
+    "factor": "ZFP91",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.00174503517059395,
+    "FRiP_rep2": 0.00766385542342161
+  },
+  {
+    "source_row": 838,
+    "factor": "ZHX1",
+    "tissue": "DLPFC",
+    "type": "NEUN",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00295543939508635,
+    "FRiP_rep2": 0.00481207572693526
+  },
+  {
+    "source_row": 840,
+    "factor": "ZHX1",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0169149996214881,
+    "FRiP_rep2": 0.00281386406771931
+  },
+  {
+    "source_row": 844,
+    "factor": "ZNF143",
+    "tissue": "OL",
+    "type": "NEUN",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0183440468449621,
+    "FRiP_rep2": 0.0104936949604988
+  },
+  {
+    "source_row": 862,
+    "factor": "BCL11A",
+    "tissue": "OL",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.000309316790518411,
+    "FRiP_rep2": 0.000473561922569291
+  },
+  {
+    "source_row": 866,
+    "factor": "BHLHE40",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0103402801805538,
+    "FRiP_rep2": 0.00282500153805377
+  },
+  {
+    "source_row": 872,
+    "factor": "BMI1",
+    "tissue": "DLPFC",
+    "type": "Olig",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0457439778334624,
+    "FRiP_rep2": 0.00840758087689144
+  },
+  {
+    "source_row": 873,
+    "factor": "BMI1",
+    "tissue": "FP",
+    "type": "Olig",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0308105318412195,
+    "FRiP_rep2": 0.023302314700069
+  },
+  {
+    "source_row": 874,
+    "factor": "BMI1",
+    "tissue": "OL",
+    "type": "Olig",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0234780507530417,
+    "FRiP_rep2": 0.00458511237232007
+  },
+  {
+    "source_row": 875,
+    "factor": "BRD4",
+    "tissue": "DLPFC",
+    "type": "Olig",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0463347020953154,
+    "FRiP_rep2": 0.0209363716235222
+  },
+  {
+    "source_row": 876,
+    "factor": "BRD4",
+    "tissue": "FP",
+    "type": "Olig",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0524281288412599,
+    "FRiP_rep2": 0.0636723428548752
+  },
+  {
+    "source_row": 877,
+    "factor": "BRD4",
+    "tissue": "OL",
+    "type": "Olig",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0683210025753909,
+    "FRiP_rep2": 0.0108161055866943
+  },
+  {
+    "source_row": 878,
+    "factor": "CHD4",
+    "tissue": "DLPFC",
+    "type": "Olig",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0524723531016144,
+    "FRiP_rep2": 0.0144605152801826
+  },
+  {
+    "source_row": 880,
+    "factor": "CHD4",
+    "tissue": "OL",
+    "type": "Olig",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0151950596070521,
+    "FRiP_rep2": 0.0096041133695891
+  },
+  {
+    "source_row": 887,
+    "factor": "CTCF",
+    "tissue": "AMY",
+    "type": "OLIG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.00100741200037993,
+    "FRiP_rep2": 0.0106000641413002
+  },
+  {
+    "source_row": 888,
+    "factor": "CTCF",
+    "tissue": "CB",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0854229350738,
+    "FRiP_rep2": 0.180202623698398
+  },
+  {
+    "source_row": 889,
+    "factor": "CTCF",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0842262488869093,
+    "FRiP_rep2": 0.0276031379590644
+  },
+  {
+    "source_row": 890,
+    "factor": "CTCF",
+    "tissue": "FP",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0340866916482099,
+    "FRiP_rep2": 0.115554159715736
+  },
+  {
+    "source_row": 891,
+    "factor": "CTCF",
+    "tissue": "HC",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0215803788699369,
+    "FRiP_rep2": 0.0195047363736156
+  },
+  {
+    "source_row": 892,
+    "factor": "CTCF",
+    "tissue": "OL",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0437226884433187,
+    "FRiP_rep2": 0.0287537172778969
+  },
+  {
+    "source_row": 896,
+    "factor": "E2F1",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.00247639273211053,
+    "FRiP_rep2": 0.00124530845313785
+  },
+  {
+    "source_row": 899,
+    "factor": "EGR1",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0125792421601991,
+    "FRiP_rep2": 0.00729389430315977
+  },
+  {
+    "source_row": 902,
+    "factor": "EWSR1",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00859052771275905,
+    "FRiP_rep2": 0.00524234592049331
+  },
+  {
+    "source_row": 904,
+    "factor": "EWSR1",
+    "tissue": "OL",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.028158587381629,
+    "FRiP_rep2": 0.0338755212583619
+  },
+  {
+    "source_row": 905,
+    "factor": "GABPB1",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00270685355584777,
+    "FRiP_rep2": 0.00374394920816295
+  },
+  {
+    "source_row": 906,
+    "factor": "GABPB1",
+    "tissue": "FP",
+    "type": "OLIG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.000256222939447066,
+    "FRiP_rep2": 0.000797254212554157
+  },
+  {
+    "source_row": 908,
+    "factor": "GMEB1",
+    "tissue": "DLPFC",
+    "type": "Olig",
+    "Rep_test": "fail",
+    "FRiP_rep1": 0.0701008312013547,
+    "FRiP_rep2": 0.0039767906866096
+  },
+  {
+    "source_row": 909,
+    "factor": "GMEB1",
+    "tissue": "FP",
+    "type": "Olig",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0596420190857624,
+    "FRiP_rep2": 0.0526890682918781
+  },
+  {
+    "source_row": 910,
+    "factor": "GMEB1",
+    "tissue": "OL",
+    "type": "Olig",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0486284694328592,
+    "FRiP_rep2": 0.00260334077343633
+  },
+  {
+    "source_row": 923,
+    "factor": "H3K4me3",
+    "tissue": "AMY",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0441833782361102,
+    "FRiP_rep2": 0.0905808329318256
+  },
+  {
+    "source_row": 924,
+    "factor": "H3K4me3",
+    "tissue": "CB",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.104374869772574,
+    "FRiP_rep2": 0.116754598938324
+  },
+  {
+    "source_row": 925,
+    "factor": "H3K4me3",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0563719247094055,
+    "FRiP_rep2": 0.0572992378580699
+  },
+  {
+    "source_row": 926,
+    "factor": "H3K4me3",
+    "tissue": "FP",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.371399009315918,
+    "FRiP_rep2": 0.186262188843201
+  },
+  {
+    "source_row": 927,
+    "factor": "H3K4me3",
+    "tissue": "HC",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.168135925851122,
+    "FRiP_rep2": 0.150691536520197
+  },
+  {
+    "source_row": 928,
+    "factor": "H3K4me3",
+    "tissue": "OL",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0793692661354938,
+    "FRiP_rep2": 0.0619483076887642
+  },
+  {
+    "source_row": 929,
+    "factor": "HCFC1",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "fail",
+    "FRiP_rep1": 0.109213548228704,
+    "FRiP_rep2": 0.00970116481327869
+  },
+  {
+    "source_row": 932,
+    "factor": "MAZ",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00696844401122603,
+    "FRiP_rep2": 0.00682594052743567
+  },
+  {
+    "source_row": 938,
+    "factor": "NFIB",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0121196361547572,
+    "FRiP_rep2": 0.00766791712779691
+  },
+  {
+    "source_row": 939,
+    "factor": "NFIB",
+    "tissue": "FP",
+    "type": "OLIG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.00349326665627842,
+    "FRiP_rep2": 0.024634799338193
+  },
+  {
+    "source_row": 941,
+    "factor": "NFIC",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0088836331724049,
+    "FRiP_rep2": 0.00566372507506567
+  },
+  {
+    "source_row": 944,
+    "factor": "NR2F1",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.00581777624274615,
+    "FRiP_rep2": 0.000613876602674821
+  },
+  {
+    "source_row": 949,
+    "factor": "NR3C1",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0268385726545904,
+    "FRiP_rep2": 0.00597073776119364
+  },
+  {
+    "source_row": 960,
+    "factor": "PKNOX1",
+    "tissue": "OL",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00851023518075314,
+    "FRiP_rep2": 0.00645850495925782
+  },
+  {
+    "source_row": 961,
+    "factor": "Pol2",
+    "tissue": "DLPFC",
+    "type": "Olig",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0476281334565861,
+    "FRiP_rep2": 0.0265604759333188
+  },
+  {
+    "source_row": 963,
+    "factor": "Pol2",
+    "tissue": "OL",
+    "type": "Olig",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0628150701939095,
+    "FRiP_rep2": 0.0221737054881578
+  },
+  {
+    "source_row": 965,
+    "factor": "PRDM15",
+    "tissue": "FP",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0269095139322132,
+    "FRiP_rep2": 0.0333969468464903
+  },
+  {
+    "source_row": 967,
+    "factor": "RELB",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0086873947074844,
+    "FRiP_rep2": 0.0238790094717098
+  },
+  {
+    "source_row": 970,
+    "factor": "REST",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.113550430059523,
+    "FRiP_rep2": 0.0236570841951141
+  },
+  {
+    "source_row": 971,
+    "factor": "REST",
+    "tissue": "FP",
+    "type": "Olig",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0133449846202636,
+    "FRiP_rep2": 0.0842558372839124
+  },
+  {
+    "source_row": 972,
+    "factor": "REST",
+    "tissue": "OL",
+    "type": "Olig",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.070250057088684,
+    "FRiP_rep2": 0.0161526405544433
+  },
+  {
+    "source_row": 973,
+    "factor": "SIN3A",
+    "tissue": "DLPFC",
+    "type": "Olig",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0596558915124391,
+    "FRiP_rep2": 0.00961946800575288
+  },
+  {
+    "source_row": 975,
+    "factor": "SIN3A",
+    "tissue": "OL",
+    "type": "Olig",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0323230254963394,
+    "FRiP_rep2": 0.0051190561218239
+  },
+  {
+    "source_row": 976,
+    "factor": "SMARCA5",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00216354222154647,
+    "FRiP_rep2": 0.00335691802562592
+  },
+  {
+    "source_row": 980,
+    "factor": "SMC3",
+    "tissue": "FP",
+    "type": "Olig",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0186642069166245,
+    "FRiP_rep2": 0.0106397855696439
+  },
+  {
+    "source_row": 981,
+    "factor": "SMC3",
+    "tissue": "OL",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0596466219155871,
+    "FRiP_rep2": 0.0623770572529627
+  },
+  {
+    "source_row": 984,
+    "factor": "SOX10",
+    "tissue": "OL",
+    "type": "Olig",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0417438648304142,
+    "FRiP_rep2": 0.00702057421917154
+  },
+  {
+    "source_row": 985,
+    "factor": "SOX8",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0709656252931547,
+    "FRiP_rep2": 0.0193173205937486
+  },
+  {
+    "source_row": 987,
+    "factor": "SOX8",
+    "tissue": "OL",
+    "type": "OLIG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0428149449318309,
+    "FRiP_rep2": 0.00945612829761885
+  },
+  {
+    "source_row": 988,
+    "factor": "SP1",
+    "tissue": "AMY",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0172280507523266,
+    "FRiP_rep2": 0.0108031168008427
+  },
+  {
+    "source_row": 996,
+    "factor": "SREBF2",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0513650561462524,
+    "FRiP_rep2": 0.00428387613283668
+  },
+  {
+    "source_row": 997,
+    "factor": "SREBF2",
+    "tissue": "FP",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0403817092011947,
+    "FRiP_rep2": 0.0228563839641153
+  },
+  {
+    "source_row": 998,
+    "factor": "SREBF2",
+    "tissue": "OL",
+    "type": "Olig",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00291447427242302,
+    "FRiP_rep2": 0.00405215144081481
+  },
+  {
+    "source_row": 1014,
+    "factor": "YY1",
+    "tissue": "OL",
+    "type": "OLIG",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0576080868437928,
+    "FRiP_rep2": 0.0133005558481699
+  },
+  {
+    "source_row": 1016,
+    "factor": "ZEB1",
+    "tissue": "FP",
+    "type": "Olig",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0376606708063878,
+    "FRiP_rep2": 0.0595256959807808
+  },
+  {
+    "source_row": 1017,
+    "factor": "ZEB1",
+    "tissue": "OL",
+    "type": "Olig",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0563371923413034,
+    "FRiP_rep2": 0.0599059823495725
+  },
+  {
+    "source_row": 1018,
+    "factor": "ZEB2",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0656449118140647,
+    "FRiP_rep2": 0.10003957068252
+  },
+  {
+    "source_row": 1020,
+    "factor": "ZEB2",
+    "tissue": "OL",
+    "type": "Olig",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.033165899018392,
+    "FRiP_rep2": 0.00453930173450358
+  },
+  {
+    "source_row": 1021,
+    "factor": "ZFP91",
+    "tissue": "DLPFC",
+    "type": "Olig",
+    "Rep_test": "borderline",
+    "FRiP_rep1": 0.0727974173464667,
+    "FRiP_rep2": 0.0124454978447407
+  },
+  {
+    "source_row": 1022,
+    "factor": "ZFP91",
+    "tissue": "FP",
+    "type": "Olig",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0417495553356575,
+    "FRiP_rep2": 0.0220211593280512
+  },
+  {
+    "source_row": 1023,
+    "factor": "ZFP91",
+    "tissue": "OL",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.0141264603148719,
+    "FRiP_rep2": 0.0174890039529193
+  },
+  {
+    "source_row": 1024,
+    "factor": "ZHX1",
+    "tissue": "DLPFC",
+    "type": "OLIG",
+    "Rep_test": "pass",
+    "FRiP_rep1": 0.00720592964579099,
+    "FRiP_rep2": 0.00527524242319952
+  },
+  {
+    "source_row": 1030,
+    "factor": "ZNF24",
+    "tissue": "DLPFC",
+    "type": "Olig",
+    "Rep_test": "fail",
+    "FRiP_rep1": 0.0624299946095489,
+    "FRiP_rep2": 0.00555810276976048
+  }
+]

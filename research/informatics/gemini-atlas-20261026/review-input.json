@@ -1,0 +1,241 @@
+{
+  "scope": "Review the interpretation of this exact published OXTR report against the supplied method, metrics and recorded program checks. This is retrospective model review, not independent reproduction. Use two or three concise checks. Return fewer than 350 words.",
+  "archive_sha256": "adc1914cac349c28afc5f4d8c72dbddf80f38063ab1bef3e93e21cea8d415876",
+  "question": "Do regular Fibonacci sequences, M9 P24 including Alpha, Beta, Gamma and Epsilon, and Phi Ratio help predict transcription factor binding around OXTR?",
+  "cohort": {
+    "version": "oxtr-follow-through-v1",
+    "analysis_code_sha256": "9a40f5fd28523e40421217534b71e8ddc7ef8bdaf17fd83d0f288376723c7818",
+    "assay": "ENCSR932ZMX",
+    "factor": "CTCF",
+    "cell": "GM23338 iPSCs",
+    "assembly": "GRCh38",
+    "sampling": "32 peak-centred and 32 nearby non-peak windows per development chromosome; all 152 fixed OXTR windows for evaluation. Non-peak means no peak reported in this assay, not proven absence.",
+    "qc": [
+      "Antibody characterization exemption",
+      "Low read depth",
+      "Bottlenecking and library complexity warnings"
+    ],
+    "sources": [
+      {
+        "kind": "GRCh38 DNA",
+        "sha256": "7394b02ddb3664b93adb468a1c75f56c41adda0de9394c30f318ae17f59fd2d2",
+        "source": "https://api.genome.ucsc.edu/getData/sequence"
+      },
+      {
+        "kind": "ENCODE peaks",
+        "sha256": "ee5624447f4852f48ddf34c03a7d41c5ec7ebf9e86e7c0b93888eb6ad483ec68",
+        "source": "https://www.encodeproject.org/files/ENCFF651DQL/"
+      },
+      {
+        "kind": "JASPAR motif library",
+        "sha256": "4005b5449ba07d9b58495f51143186e7e3959efd0ad670770fbddf57bf941e8f",
+        "source": "https://jaspar.elixir.no/matrix/MA0139.2/"
+      },
+      {
+        "kind": "GRCh38 DNA chr1",
+        "sha256": "75d5ec59de19ef4832475f26d18060e722371b3adf6f846f7df988c9e324f4ad",
+        "source": "https://api.genome.ucsc.edu/getData/sequence?genome=hg38;chrom=chr1;start=10032536;end=10708035"
+      },
+      {
+        "kind": "GRCh38 DNA chr2",
+        "sha256": "e2e8c1ba5faa8cda35dd35ff8efde4cbf4399660f7ab049662430d328e914670",
+        "source": "https://api.genome.ucsc.edu/getData/sequence?genome=hg38;chrom=chr2;start=10020094;end=10310877"
+      }
+    ],
+    "selection_frozen_before_scores": true,
+    "model_selection": "Use chr1 for learning, chr2 to choose a fixed candidate, then evaluate chr3/OXTR once. No OXTR labels enter fitting or candidate selection.",
+    "primary_measure": "Average precision: how often regions ranked as likely binding regions match the laboratory peak map.",
+    "limits": [
+      "Small pilot with five OXTR peak regions; descriptive results, not an independent confirmation.",
+      "Local background selection and one cell context limit generalisation.",
+      "No accessibility-matched negative set or ENCODE blacklist filtering in this pilot.",
+      "Additional hardware and population-wide inference are outside this task."
+    ]
+  },
+  "analysis": {
+    "version": "oxtr-follow-through-v1",
+    "counts": {
+      "development": {
+        "windows": 64,
+        "peak_windows": 32
+      },
+      "validation": {
+        "windows": 64,
+        "peak_windows": 32
+      },
+      "OXTR test": {
+        "windows": 152,
+        "peak_windows": 8
+      }
+    },
+    "difference_average_precision": 0.0019879267780844173,
+    "block_bootstrap_95_interval": [
+      -0.026260195602900528,
+      0.008181524055569506
+    ],
+    "bootstrap_valid_replicates": 999,
+    "verdict": "inconclusive",
+    "positive_result_rule": "The added features improve average precision and the block-resampled interval remains above zero. This small pilot still needs a fresh independent dataset.",
+    "negative_result_rule": "An interval below zero is discouraging for this recipe; an interval spanning zero leaves benefit unresolved.",
+    "test_prevalence": 0.05263157894736842,
+    "limits": [
+      "Small pilot with five OXTR peak regions; descriptive results, not an independent confirmation.",
+      "Local background selection and one cell context limit generalisation.",
+      "No accessibility-matched negative set or ENCODE blacklist filtering in this pilot.",
+      "Additional hardware and population-wide inference are outside this task."
+    ],
+    "quantum_prediction_status": "Not evaluated: the two DNA samples with saved Aquila measurements do not overlap the five CTCF peak regions. They cannot train or test a binding predictor."
+  },
+  "models": {
+    "ordinary motif and spacing": {
+      "selected_model": "random forest",
+      "validation_average_precision": 0.9296159815133493,
+      "OXTR_average_precision": 0.0719144453117206,
+      "OXTR_roc_auc": 0.5963541666666667
+    },
+    "with Fibonacci and Phi Ratio": {
+      "selected_model": "random forest",
+      "validation_average_precision": 0.9291072679012629,
+      "OXTR_average_precision": 0.07390237208980502,
+      "OXTR_roc_auc": 0.6145833333333334
+    }
+  },
+  "quantum": {
+    "prior": "Fraction of atoms excited under the programmed pulse; not binding probabilities. All provider measurements here are reused from 25 October 2026.",
+    "local_scope": "One reported CTCF peak window and one nearby non-peak window, each prepared eight ways. Local numerical preparation only; two samples cannot establish binding-prediction accuracy.",
+    "cases": [
+      {
+        "sample": "chr3-8742912-8743168",
+        "representation": "ordinary",
+        "reported_CTCF_peak": 1,
+        "max_export_observable_error": 1.814456321209773e-05,
+        "max_implementation_probability_error": 1.5931700403370996e-14
+      },
+      {
+        "sample": "chr3-8742912-8743168",
+        "representation": "fibonacci",
+        "reported_CTCF_peak": 1,
+        "max_export_observable_error": 3.1857500037775824e-05,
+        "max_implementation_probability_error": 1.3572476476042539e-14
+      },
+      {
+        "sample": "chr3-8742912-8743168",
+        "representation": "phi",
+        "reported_CTCF_peak": 1,
+        "max_export_observable_error": 3.660459427669349e-05,
+        "max_implementation_probability_error": 1.099120794378905e-14
+      },
+      {
+        "sample": "chr3-8742912-8743168",
+        "representation": "alpha",
+        "reported_CTCF_peak": 1,
+        "max_export_observable_error": 2.205868983792095e-05,
+        "max_implementation_probability_error": 1.4932499681208355e-14
+      },
+      {
+        "sample": "chr3-8742912-8743168",
+        "representation": "beta",
+        "reported_CTCF_peak": 1,
+        "max_export_observable_error": 8.092851107135886e-06,
+        "max_implementation_probability_error": 1.582067810090848e-14
+      },
+      {
+        "sample": "chr3-8742912-8743168",
+        "representation": "gamma",
+        "reported_CTCF_peak": 1,
+        "max_export_observable_error": 1.902762714107814e-05,
+        "max_implementation_probability_error": 9.908740494779522e-15
+      },
+      {
+        "sample": "chr3-8742912-8743168",
+        "representation": "epsilon",
+        "reported_CTCF_peak": 1,
+        "max_export_observable_error": 2.3081191080757938e-05,
+        "max_implementation_probability_error": 1.509903313490213e-14
+      },
+      {
+        "sample": "chr3-8742912-8743168",
+        "representation": "shuffled",
+        "reported_CTCF_peak": 1,
+        "max_export_observable_error": 1.849196454243218e-05,
+        "max_implementation_probability_error": 1.5765166949677223e-14
+      },
+      {
+        "sample": "chr3-8743680-8743936",
+        "representation": "ordinary",
+        "reported_CTCF_peak": 0,
+        "max_export_observable_error": 5.0087001073455354e-05,
+        "max_implementation_probability_error": 5.842548667089886e-15
+      },
+      {
+        "sample": "chr3-8743680-8743936",
+        "representation": "fibonacci",
+        "reported_CTCF_peak": 0,
+        "max_export_observable_error": 7.747152541493026e-05,
+        "max_implementation_probability_error": 7.854827899222983e-15
+      },
+      {
+        "sample": "chr3-8743680-8743936",
+        "representation": "phi",
+        "reported_CTCF_peak": 0,
+        "max_export_observable_error": 7.747152541493026e-05,
+        "max_implementation_probability_error": 7.854827899222983e-15
+      },
+      {
+        "sample": "chr3-8743680-8743936",
+        "representation": "alpha",
+        "reported_CTCF_peak": 0,
+        "max_export_observable_error": 7.548924967765984e-05,
+        "max_implementation_probability_error": 4.3576253716537394e-15
+      },
+      {
+        "sample": "chr3-8743680-8743936",
+        "representation": "beta",
+        "reported_CTCF_peak": 0,
+        "max_export_observable_error": 4.215526694346201e-05,
+        "max_implementation_probability_error": 5.4817261840867104e-15
+      },
+      {
+        "sample": "chr3-8743680-8743936",
+        "representation": "gamma",
+        "reported_CTCF_peak": 0,
+        "max_export_observable_error": 5.5082683285539794e-05,
+        "max_implementation_probability_error": 7.646661082105766e-15
+      },
+      {
+        "sample": "chr3-8743680-8743936",
+        "representation": "epsilon",
+        "reported_CTCF_peak": 0,
+        "max_export_observable_error": 5.1080145989497535e-05,
+        "max_implementation_probability_error": 4.7878367936959876e-15
+      },
+      {
+        "sample": "chr3-8743680-8743936",
+        "representation": "shuffled",
+        "reported_CTCF_peak": 0,
+        "max_export_observable_error": 4.6625229655591915e-05,
+        "max_implementation_probability_error": 4.6629367034256575e-15
+      }
+    ],
+    "compiled_artifact_hash": "50a7c401263cb7f93acb5f6299f7f1cdde50c3d9cf877b8f8eee98c74152d518",
+    "template_hash": "2e69559c1b034cf206626490a3a278ef1d8e1d9b3a727d0a57aa0c4d977c140e"
+  },
+  "report": {
+    "answer": "There is no demonstrated benefit yet for predicting binding around OXTR. Adding Fibonacci and Phi Ratio features gave an inconclusive result. The new classical test did not evaluate biological prediction by M9 P24 Alpha, Beta, Gamma or Epsilon. This pilot concerns CTCF, one DNA-binding protein measured in one stem-cell context, not transcription factors generally.",
+    "what_we_did": "The agent completed a comparison of ordinary DNA binding-pattern and spacing features, with and without Fibonacci/Phi Ratio features. It learned on chromosome 1, chose the method on chromosome 2 and tested OXTR on chromosome 3, without seeing OXTR laboratory answers during learning or selection. The agent also prepared a new matched pair of DNA windows: one overlapping a reported CTCF peak and one comparison window. For each, it compiled the same DNA eight ways\u2014ordinary, Fibonacci, Phi Ratio, Alpha, Beta, Gamma, Epsilon and shuffled controls\u2014and completed 16 local CUDA-Q CPU checks.",
+    "meaning": "At OXTR, average precision rose from 0.0719 to 0.0739. This is a ranking score, not percent accuracy. The uncertainty range for the change extended from \u22120.0263 to +0.0082, leaving benefit unresolved; the noisy increase establishes no advantage. The pilot covered only five OXTR peak regions and used laboratory data with quality warnings. Saved CUDA-Q/Aquila readings describe programmed atom excitation, not binding probabilities; the two saved samples overlap none of those peaks, so they do not validate binding prediction. The new matched pair checks programs, not predictive performance.",
+    "next_dependency": "A larger quantum prediction test still needs more matched quantum measurements linked to laboratory binding results, and a larger independent biological test remains necessary. Today\u2019s instruction prohibits new Aquila submissions; none were made, and no new quantum jobs were submitted. Fresh device validation and explicit allowance are required before Aquila submission; new paid qBraid work also lacks a credit allowance. This is an automated preliminary report, with Gemini oversight deferred. The inconclusive result usefully separates completed program checks from evidence of predictive benefit."
+  },
+  "execution": {
+    "task_id": "d9dcc3f7-4091-4ce8-97f8-905102574f1d",
+    "model": "gpt-6-astra",
+    "model_response_id": "resp_0146319c05283545016add8c1849d887d087c2402026b351c9",
+    "model_tokens": 4252,
+    "completed_at": "2026-10-25T04:57:05.713254+00:00",
+    "spend": {
+      "new_Aquila_USD": 0,
+      "new_qBraid_credits": 0
+    }
+  },
+  "historical_note": "The report records Gemini as deferred at original completion. This new review is a separate later record and leaves the historical text intact. Eight labelled windows overlap five peak regions."
+}

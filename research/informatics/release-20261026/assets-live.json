@@ -1,0 +1,262 @@
+{
+  "passed": true,
+  "sourceCommit": "f3a119913efa09b77443c9d1e7e007a363347453",
+  "files": [
+    {
+      "path": "Informatics/complete-downloads.js",
+      "url": "https://universalmind.tv/informatics/complete-downloads.js?v=release-20261026",
+      "sha256": "79f416d3f8cb51be19b3b654351011df20921367a138c1a2c978069771f18416",
+      "rawSHA256": "79f416d3f8cb51be19b3b654351011df20921367a138c1a2c978069771f18416",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/connect.html",
+      "url": "https://universalmind.tv/informatics/connect.html?v=release-20261026",
+      "sha256": "e831e7298d52b90fba9953263bedefb6001e41e90daa1854227594dbe6754a83",
+      "rawSHA256": "0668fc5e9a3505e52fdbab7030477842571aada901651ccee2c19bb0f83810a7",
+      "matches": true,
+      "normalization": "Existing analytics script only"
+    },
+    {
+      "path": "Informatics/exports/README.md",
+      "url": "https://universalmind.tv/informatics/exports/README.md?v=release-20261026",
+      "sha256": "4dd8718622192ddffb27d6b252bb5142fa47fa3a35b38ad1b30a7db8aa30b547",
+      "rawSHA256": "4dd8718622192ddffb27d6b252bb5142fa47fa3a35b38ad1b30a7db8aa30b547",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/exports/manifest.json",
+      "url": "https://universalmind.tv/informatics/exports/manifest.json?v=release-20261026",
+      "sha256": "5b782d0b5c59d2a4b1288a4be35ba6aca6aaad3408684afa0f7170add6d10ffd",
+      "rawSHA256": "5b782d0b5c59d2a4b1288a4be35ba6aca6aaad3408684afa0f7170add6d10ffd",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/exports/read_complete.py",
+      "url": "https://universalmind.tv/informatics/exports/read_complete.py?v=release-20261026",
+      "sha256": "2d4096871fb07bd808104970efea6bd93902d39236f3f844728c3c89e599f990",
+      "rawSHA256": "2d4096871fb07bd808104970efea6bd93902d39236f3f844728c3c89e599f990",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/genomics.html",
+      "url": "https://universalmind.tv/informatics/genomics.html?v=release-20261026",
+      "sha256": "2bdf4e17c62f6bf16c2156e99ec12ab218558f2759550515856407839dae64cf",
+      "rawSHA256": "1c2c077633ac0b7302c9274b5b7a2250f2d988b1aae5404b1ac89a5ec2ac4aa6",
+      "matches": true,
+      "normalization": "Existing analytics script only"
+    },
+    {
+      "path": "Informatics/index.html",
+      "url": "https://universalmind.tv/informatics/index.html?v=release-20261026",
+      "sha256": "b4feefac97f3c1cdd848b3bfd80c67697e45b1995508bb6cc461ad535b2fe49e",
+      "rawSHA256": "5b32a7baf56ccf217ef18dc1b6b0c084b891f85a54c2dacbe7d05200ffdcd4ce",
+      "matches": true,
+      "normalization": "Existing analytics script only"
+    },
+    {
+      "path": "Informatics/library-data/fibonacci-expansion.json",
+      "url": "https://universalmind.tv/informatics/library-data/fibonacci-expansion.json?v=release-20261026",
+      "sha256": "3c0926d690776962d2525e0f4e30b2349aeb14a8d70a2027b2ce2cefc3a20599",
+      "rawSHA256": "3c0926d690776962d2525e0f4e30b2349aeb14a8d70a2027b2ce2cefc3a20599",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/library-data/fulltext-availability.json",
+      "url": "https://universalmind.tv/informatics/library-data/fulltext-availability.json?v=release-20261026",
+      "sha256": "faa1f05a9ea305479c135857000799b727001dd09f41183a4a25a01f1660dfe2",
+      "rawSHA256": "faa1f05a9ea305479c135857000799b727001dd09f41183a4a25a01f1660dfe2",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/library-data/general-edition.json",
+      "url": "https://universalmind.tv/informatics/library-data/general-edition.json?v=release-20261026",
+      "sha256": "3c2672d0d4c865d2f97b1fe55bed99be85b829f317f07249411a2af3bf7a0e06",
+      "rawSHA256": "3c2672d0d4c865d2f97b1fe55bed99be85b829f317f07249411a2af3bf7a0e06",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/library-data/publication-access.json",
+      "url": "https://universalmind.tv/informatics/library-data/publication-access.json?v=release-20261026",
+      "sha256": "cbcb66fc428878fa15bf5b23e70ef22cdebf6d38e738be0957e601855edbf42d",
+      "rawSHA256": "cbcb66fc428878fa15bf5b23e70ef22cdebf6d38e738be0957e601855edbf42d",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/library-data/vision-edition.json",
+      "url": "https://universalmind.tv/informatics/library-data/vision-edition.json?v=release-20261026",
+      "sha256": "6d76cc04b9318f1da452bdb33d983d04edacef9c3b45912265f366dfcbe1e3bb",
+      "rawSHA256": "6d76cc04b9318f1da452bdb33d983d04edacef9c3b45912265f366dfcbe1e3bb",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/library-data/vision-expansion.json",
+      "url": "https://universalmind.tv/informatics/library-data/vision-expansion.json?v=release-20261026",
+      "sha256": "667923535bb06a96d7a217f992e98f1f47475859b70e497bfca50a76fd270c4b",
+      "rawSHA256": "667923535bb06a96d7a217f992e98f1f47475859b70e497bfca50a76fd270c4b",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/library.html",
+      "url": "https://universalmind.tv/informatics/library.html?v=release-20261026",
+      "sha256": "f212d444c54422d61af65f6c7e62121f7f4af66122d2ef1f7ca61265a205bb36",
+      "rawSHA256": "6a43a7ade38ddd09ebccdda5e95dc464a87a8dc7848e3468f6e3f1c38060d701",
+      "matches": true,
+      "normalization": "Existing analytics script only"
+    },
+    {
+      "path": "Informatics/library.js",
+      "url": "https://universalmind.tv/informatics/library.js?v=18",
+      "sha256": "346517a15b258323496d3c272dee39e405cf9ec4d6315097665b82aed87b6a1b",
+      "rawSHA256": "346517a15b258323496d3c272dee39e405cf9ec4d6315097665b82aed87b6a1b",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/llms.txt",
+      "url": "https://universalmind.tv/informatics/llms.txt?v=release-20261026",
+      "sha256": "9084410ec95b4abaeadedf7953d9d49e671e0de8384a693a54174b2abcc62e75",
+      "rawSHA256": "9084410ec95b4abaeadedf7953d9d49e671e0de8384a693a54174b2abcc62e75",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/molecular/index.html",
+      "url": "https://universalmind.tv/informatics/molecular/index.html?v=release-20261026",
+      "sha256": "3530cc1283c982f47eedad95d2f81456d381b176fdef1533b67396bfe4a9e548",
+      "rawSHA256": "bf90dfd2b6f753f5cedcb52168575f31ef5d168521abebb04dda616b36ff7380",
+      "matches": true,
+      "normalization": "Existing analytics script only"
+    },
+    {
+      "path": "Informatics/quantum/agent.js",
+      "url": "https://universalmind.tv/informatics/quantum/agent.js?v=release-20261026",
+      "sha256": "5245701fa161c0257f1dd558974eec533dc77cbb8855fc2be6dcf6e318bff726",
+      "rawSHA256": "5245701fa161c0257f1dd558974eec533dc77cbb8855fc2be6dcf6e318bff726",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/quantum/biology.css",
+      "url": "https://universalmind.tv/informatics/quantum/biology.css?v=unified-2",
+      "sha256": "0ecf02c14a8ae759f8445921c1bb225b9288b335cbee4e0bd5e3f1fef8f96f19",
+      "rawSHA256": "0ecf02c14a8ae759f8445921c1bb225b9288b335cbee4e0bd5e3f1fef8f96f19",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/quantum/biology.js",
+      "url": "https://universalmind.tv/informatics/quantum/biology.js?v=clean-3",
+      "sha256": "c0ca86c162bd936f0c48bb6456257ae3e5247fff1890f3336848bebcd40b6e84",
+      "rawSHA256": "c0ca86c162bd936f0c48bb6456257ae3e5247fff1890f3336848bebcd40b6e84",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/quantum/experiments/index.json",
+      "url": "https://universalmind.tv/informatics/quantum/experiments/index.json?v=release-20261026",
+      "sha256": "1d6f1cfe66fcd27c97f1a41b5e5ccb53a24d3096151fd832d1c241a803f0e4db",
+      "rawSHA256": "1d6f1cfe66fcd27c97f1a41b5e5ccb53a24d3096151fd832d1c241a803f0e4db",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/quantum/experiments/oxtr-agent-follow-through-pilot/r1/experiment.csv",
+      "url": "https://universalmind.tv/informatics/quantum/experiments/oxtr-agent-follow-through-pilot/r1/experiment.csv?v=release-20261026",
+      "sha256": "15ff7773bc65652c10e3598e75c4da01415cc61c58adacdaa8b5b55c6da7bd84",
+      "rawSHA256": "15ff7773bc65652c10e3598e75c4da01415cc61c58adacdaa8b5b55c6da7bd84",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/quantum/experiments/oxtr-agent-follow-through-pilot/r1/experiment.json",
+      "url": "https://universalmind.tv/informatics/quantum/experiments/oxtr-agent-follow-through-pilot/r1/experiment.json?v=release-20261026",
+      "sha256": "adc1914cac349c28afc5f4d8c72dbddf80f38063ab1bef3e93e21cea8d415876",
+      "rawSHA256": "adc1914cac349c28afc5f4d8c72dbddf80f38063ab1bef3e93e21cea8d415876",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/quantum/experiments/oxtr-qrc-01-qualification/r1/experiment.csv",
+      "url": "https://universalmind.tv/informatics/quantum/experiments/oxtr-qrc-01-qualification/r1/experiment.csv?v=release-20261026",
+      "sha256": "bd1ddb14d8e01190072efa8fe56af42bf7af175940e6abcf919574b4d8598ead",
+      "rawSHA256": "bd1ddb14d8e01190072efa8fe56af42bf7af175940e6abcf919574b4d8598ead",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/quantum/experiments/oxtr-qrc-01-qualification/r1/experiment.json",
+      "url": "https://universalmind.tv/informatics/quantum/experiments/oxtr-qrc-01-qualification/r1/experiment.json?v=release-20261026",
+      "sha256": "ea623488ca7bbd06b79a83cbace4b6f50260d820ea8e2ea6bb667a4753e1afd0",
+      "rawSHA256": "ea623488ca7bbd06b79a83cbace4b6f50260d820ea8e2ea6bb667a4753e1afd0",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/quantum/index.html",
+      "url": "https://universalmind.tv/informatics/quantum/index.html?v=release-20261026",
+      "sha256": "fea29d88d1608c4c351226f2350c0c681baa0bbd693d3c033c86da13a5f0bfe6",
+      "rawSHA256": "679efdfc93f4839803462db8839fc98514c1b200fe116f02eb0379f462f63066",
+      "matches": true,
+      "normalization": "Existing analytics script only"
+    },
+    {
+      "path": "Informatics/quantum/insights.js",
+      "url": "https://universalmind.tv/informatics/quantum/insights.js?v=release-20261026",
+      "sha256": "35942ed539ef9aadd0bdab3b5a9daed64de3fc18e97557a1745f6f0404e6d6a9",
+      "rawSHA256": "35942ed539ef9aadd0bdab3b5a9daed64de3fc18e97557a1745f6f0404e6d6a9",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/quantum/study-progress.js",
+      "url": "https://universalmind.tv/informatics/quantum/study-progress.js?v=release-20261026",
+      "sha256": "6139399ec101e98e5a47fe67da12cc7fa53320089ca09f3eb09b8c430de4b93a",
+      "rawSHA256": "6139399ec101e98e5a47fe67da12cc7fa53320089ca09f3eb09b8c430de4b93a",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/quantum/study.js",
+      "url": "https://universalmind.tv/informatics/quantum/study.js?v=clean-3",
+      "sha256": "f62676857a01f653323d910532a689814b5f998d1f06b307e0f8a3935eb95971",
+      "rawSHA256": "f62676857a01f653323d910532a689814b5f998d1f06b307e0f8a3935eb95971",
+      "matches": true,
+      "normalization": null
+    },
+    {
+      "path": "Informatics/quantum/verification.html",
+      "url": "https://universalmind.tv/informatics/quantum/verification.html?v=release-20261026",
+      "sha256": "bd56a38853a3e8a2604b01d102c48fb51e44cbab76dd44f6e599acaed5279859",
+      "rawSHA256": "c1631a31d27da9abdf1804d2a9e37472e35ba9b05ce9daab0e3453daac7fe6ab",
+      "matches": true,
+      "normalization": "Existing analytics script only"
+    },
+    {
+      "path": "Informatics/research.html",
+      "url": "https://universalmind.tv/informatics/research.html?v=release-20261026",
+      "sha256": "07a2e24d72b0eecca9db9588f955d1de14174931233de63232d26027401fd5a5",
+      "rawSHA256": "7ddfd15f4ce4a7ed87594e8ecb6d5ed14c03c2601292cfad992762b233ba90b5",
+      "matches": true,
+      "normalization": "Existing analytics script only"
+    },
+    {
+      "path": "Informatics/style.css",
+      "url": "https://universalmind.tv/informatics/style.css?v=release-20261026",
+      "sha256": "8c6293e7444175be20962ceb0ed6167081300a1b6a4fcd5b4ca4ad09f89c37af",
+      "rawSHA256": "8c6293e7444175be20962ceb0ed6167081300a1b6a4fcd5b4ca4ad09f89c37af",
+      "matches": true,
+      "normalization": null
+    }
+  ]
+}

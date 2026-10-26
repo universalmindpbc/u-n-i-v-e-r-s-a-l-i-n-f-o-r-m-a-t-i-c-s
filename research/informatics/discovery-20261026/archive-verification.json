@@ -1,0 +1,89 @@
+{
+  "manifestSHA256": "df177d308cf36853b5c23e5d47356bc0d7976a1bb12792a0771020477adcbd5a",
+  "synapseFiles": 15,
+  "desciFiles": 33,
+  "timestampVerified": true,
+  "bitcoinConfirmed": false,
+  "files": [
+    {
+      "path": "archive/20261026/VERIFY-TIMESTAMP.txt",
+      "sha256": "acc9f3d94f01276fdb82387b863d7b97626e1008b319424f9806c3e1a9fef0a0",
+      "bytes": 976
+    },
+    {
+      "path": "archive/20261026/desci-directory-metadata.json.txt",
+      "sha256": "dd8af4d5399b0b951df05f3a4fbb919b9f6169132715e6c6afd58969b260a168",
+      "bytes": 199
+    },
+    {
+      "path": "archive/20261026/desci-recovered-manifest.json.txt",
+      "sha256": "4b1886aba6b21c2c16cd6981ca01264c386549833f84ca20d6a6a4a96ea792fb",
+      "bytes": 819
+    },
+    {
+      "path": "archive/20261026/desci-recovery.txt",
+      "sha256": "a3b09ae510b5dc26074c75e606a26c0c9d3342b82815d424a007035b3d5441f0",
+      "bytes": 3912
+    },
+    {
+      "path": "archive/20261026/desci-storage-map.json.txt",
+      "sha256": "18c69d13278168282d761d8500eb81c57501d89d0e1a9170ee9ef56674d17867",
+      "bytes": 8969
+    },
+    {
+      "path": "archive/20261026/desci-verification.json.txt",
+      "sha256": "ec9c6052df728c4f720e8af2d08534339e76eaaaac0a3905de146effac1ec03d",
+      "bytes": 18453
+    },
+    {
+      "path": "archive/20261026/integrity.json.txt",
+      "sha256": "61b6a91e8ddc3608e35ff669dbeba5be887db5079cf5bd4f51b3813a47cb0689",
+      "bytes": 140
+    },
+    {
+      "path": "archive/20261026/manifest.json.ots",
+      "sha256": "0ac732fb55da997e423fbf598c554659902ea25e3aa0c66c9b542a5699d7370b",
+      "bytes": 667
+    },
+    {
+      "path": "archive/20261026/manifest.json.txt",
+      "sha256": "df177d308cf36853b5c23e5d47356bc0d7976a1bb12792a0771020477adcbd5a",
+      "bytes": 2218
+    },
+    {
+      "path": "archive/20261026/manifest.tsq",
+      "sha256": "20cd0acb09d69f1336188ab7e751a8cccd13412a05eb2400fac044b0a46c75b0",
+      "bytes": 69
+    },
+    {
+      "path": "archive/20261026/manifest.tsr",
+      "sha256": "d2eb843cc8043851160b863e29ec91fec4c5bb198fa0822dc0dd354c2ce88ed9",
+      "bytes": 6007
+    },
+    {
+      "path": "archive/20261026/production-robots.txt",
+      "sha256": "9f9cb1206d02cc5b14f0dbf538a26c48a8918b3f20c6c3a611060b7bcbad82c7",
+      "bytes": 3863
+    },
+    {
+      "path": "archive/20261026/source-files.json.txt",
+      "sha256": "f972f011754a491d255aa1906f8ddb2c6d870c849697451bdff48545e4c5bc16",
+      "bytes": 17877
+    },
+    {
+      "path": "archive/20261026/synapse-verification.json.txt",
+      "sha256": "08ff7a9b0beb6d97d7d33e744d3c8a82e4631f0dba166b965c832402a6abc5b3",
+      "bytes": 5210
+    },
+    {
+      "path": "archive/20261026/timestamp-chain.pem.txt",
+      "sha256": "450dee95aecff125ad43035a92dc8e63beb93f2064af4e064586627b309855f5",
+      "bytes": 7335
+    },
+    {
+      "path": "archive/20261026/timestamp-verification.json.txt",
+      "sha256": "d56cff5f64a72e9ee49278d1fffbc6ff6aef3510e7fba3a02fb90114dd0185b3",
+      "bytes": 1059
+    }
+  ]
+}

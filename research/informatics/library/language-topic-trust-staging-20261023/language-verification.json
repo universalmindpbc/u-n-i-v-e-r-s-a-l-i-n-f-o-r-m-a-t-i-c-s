@@ -1,0 +1,97 @@
+{
+  "url": "https://staging.universalmind.tv/informatics/library.html?collection=language",
+  "candidate": false,
+  "checkedAt": "2026-10-23T09:21:54.550Z",
+  "processAudioMuted": true,
+  "checks": [
+    {
+      "width": 1470,
+      "languagePapers": 327,
+      "generalPapers": 293,
+      "allPapers": 730,
+      "originalQuotesRetained": 299,
+      "verbatimHeroStudies": true,
+      "languageAssessmentScope": true,
+      "topicTrustScores": [
+        2,
+        null,
+        2
+      ],
+      "studyDesignsRetained": 19,
+      "datedCitationSnapshots": 19,
+      "trustScoreFilters": true,
+      "jadadStates": true,
+      "crossListing": true,
+      "keyboard": true,
+      "themes": 3,
+      "overflow": false
+    },
+    {
+      "width": 1024,
+      "languagePapers": 327,
+      "generalPapers": 293,
+      "allPapers": 730,
+      "originalQuotesRetained": 299,
+      "verbatimHeroStudies": true,
+      "languageAssessmentScope": true,
+      "topicTrustScores": [
+        2,
+        null,
+        2
+      ],
+      "studyDesignsRetained": 19,
+      "datedCitationSnapshots": 19,
+      "trustScoreFilters": true,
+      "jadadStates": true,
+      "crossListing": true,
+      "keyboard": true,
+      "themes": 3,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "languagePapers": 327,
+      "generalPapers": 293,
+      "allPapers": 730,
+      "originalQuotesRetained": 299,
+      "verbatimHeroStudies": true,
+      "languageAssessmentScope": true,
+      "topicTrustScores": [
+        2,
+        null,
+        2
+      ],
+      "studyDesignsRetained": 19,
+      "datedCitationSnapshots": 19,
+      "trustScoreFilters": true,
+      "jadadStates": true,
+      "crossListing": true,
+      "keyboard": true,
+      "themes": 3,
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "languagePapers": 327,
+      "generalPapers": 293,
+      "allPapers": 730,
+      "originalQuotesRetained": 299,
+      "verbatimHeroStudies": true,
+      "languageAssessmentScope": true,
+      "topicTrustScores": [
+        2,
+        null,
+        2
+      ],
+      "studyDesignsRetained": 19,
+      "datedCitationSnapshots": 19,
+      "trustScoreFilters": true,
+      "jadadStates": true,
+      "crossListing": true,
+      "keyboard": true,
+      "themes": 3,
+      "overflow": false
+    }
+  ],
+  "errors": []
+}

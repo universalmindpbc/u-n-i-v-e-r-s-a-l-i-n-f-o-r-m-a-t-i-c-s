@@ -1,0 +1,116 @@
+{
+  "verifiedAt": "2026-10-21T22:40:04.768133+00:00",
+  "sourceCommit": "2a5320499a2a12d4bc28d68a0832d768899a77ad",
+  "integratedBaseline": "f23882900a9c1ca440dde32eb344089b964b5817",
+  "productionRefVerifiedUnchanged": "f23882900a9c1ca440dde32eb344089b964b5817",
+  "productionModified": false,
+  "deployment": {
+    "command": "./deploy-panthur-staging.sh informatics",
+    "changedUploads": 8,
+    "completed": true
+  },
+  "proofUrls": [
+    "https://staging.universalmind.tv/informatics/?area=vision",
+    "https://staging.universalmind.tv/informatics/?area=geometry"
+  ],
+  "scope": [
+    "Shared page-marker style on all nine global navigation destinations",
+    "Vision side-by-side hexagonal and bilateral movement comparison above the fold",
+    "Green bilateral dot, pause control, and reduced-motion support"
+  ],
+  "browser": {
+    "passed": true,
+    "live": true,
+    "processMuted": true,
+    "nativeFullscreen": false,
+    "results": [
+      {
+        "viewport": {
+          "width": 1470,
+          "height": 956
+        },
+        "allNineGlobalDestinationsLabelled": true,
+        "geometryMarkerAboveSequence": true,
+        "transcriptionMarkerAboveRegulation": true,
+        "comparisonSideBySide": true,
+        "comparisonBottom": 792.15625,
+        "aboveFold": true,
+        "bilateralGreenDot": true,
+        "animatedHorizontalMovement": true,
+        "pauseAndReducedMotion": true,
+        "noAnimationInHiddenSection": true,
+        "noPageErrors": true
+      },
+      {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "allNineGlobalDestinationsLabelled": true,
+        "geometryMarkerAboveSequence": true,
+        "transcriptionMarkerAboveRegulation": true,
+        "comparisonSideBySide": true,
+        "comparisonBottom": 724.46875,
+        "aboveFold": true,
+        "bilateralGreenDot": true,
+        "animatedHorizontalMovement": true,
+        "pauseAndReducedMotion": true,
+        "noAnimationInHiddenSection": true,
+        "noPageErrors": true
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "allNineGlobalDestinationsLabelled": true,
+        "geometryMarkerAboveSequence": true,
+        "transcriptionMarkerAboveRegulation": true,
+        "comparisonSideBySide": true,
+        "comparisonBottom": 692.625,
+        "aboveFold": true,
+        "bilateralGreenDot": true,
+        "animatedHorizontalMovement": true,
+        "pauseAndReducedMotion": true,
+        "noAnimationInHiddenSection": true,
+        "noPageErrors": true
+      },
+      {
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "allNineGlobalDestinationsLabelled": true,
+        "geometryMarkerAboveSequence": true,
+        "transcriptionMarkerAboveRegulation": true,
+        "comparisonSideBySide": true,
+        "comparisonBottom": 729.015625,
+        "aboveFold": true,
+        "bilateralGreenDot": true,
+        "animatedHorizontalMovement": true,
+        "pauseAndReducedMotion": true,
+        "noAnimationInHiddenSection": true,
+        "noPageErrors": true
+      }
+    ]
+  },
+  "staticChecks": [
+    "JavaScript syntax passed",
+    "git diff --check passed",
+    "Existing deployment preflights passed",
+    "All eight changed assets match committed source SHA-256 hashes"
+  ],
+  "visualReview": [
+    "Desktop Vision comparison and labels",
+    "Narrow mobile Vision comparison and labels",
+    "Geometry marker above Fibonacci Sequence",
+    "Loaded Transcription Atlas marker above OXTR regulation"
+  ],
+  "preserved": [
+    "Existing global navigation order",
+    "Background video",
+    "Existing research copy and studies",
+    "Other chat completed Universal Research changes from integrated baseline"
+  ],
+  "browserCleanup": "Automated media paused and all browser contexts and Chromium process closed"
+}

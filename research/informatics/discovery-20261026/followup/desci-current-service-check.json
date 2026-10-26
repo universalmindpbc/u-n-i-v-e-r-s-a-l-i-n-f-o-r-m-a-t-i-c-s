@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-10-25T23:58:55.382Z",
+  "draftId": "n-_wkF_5LYvm_uoZ_hdFE7wEybmRoXFi2J1Qa4F0USA",
+  "archiveManifestCID": "bafkreicldcdkxjvsdqwbntljqhfacjsmhbsutaz7qtfcbvvgusuw5j4s7m",
+  "documentRead": {
+    "status": 200,
+    "present": false
+  },
+  "documentAction": {
+    "status": 400,
+    "present": false,
+    "message": {
+      "ok": false,
+      "message": "Document not found"
+    }
+  }
+}

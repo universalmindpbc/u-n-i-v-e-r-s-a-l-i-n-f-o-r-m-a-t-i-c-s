@@ -1,0 +1,31 @@
+{
+  "candidate": false,
+  "checks": [
+    {
+      "width": 1470,
+      "headerBlock": true,
+      "modesBelowTitle": true,
+      "insideFullscreenSubtree": true
+    },
+    {
+      "width": 1024,
+      "headerBlock": true,
+      "modesBelowTitle": true,
+      "insideFullscreenSubtree": true
+    },
+    {
+      "width": 390,
+      "headerBlock": true,
+      "modesBelowTitle": true,
+      "insideFullscreenSubtree": true
+    },
+    {
+      "width": 320,
+      "headerBlock": true,
+      "modesBelowTitle": true,
+      "insideFullscreenSubtree": true
+    }
+  ],
+  "errors": [],
+  "nativeFullscreenInvoked": false
+}

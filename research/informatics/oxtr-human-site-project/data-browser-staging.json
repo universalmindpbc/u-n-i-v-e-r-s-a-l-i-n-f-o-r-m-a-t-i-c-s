@@ -1,0 +1,116 @@
+{
+  "completed_at_utc": "2026-10-18T22:51:54.014188+00:00",
+  "source_commit": "810e4547e9aa88800c5cbf38eff6a6e7d842436a",
+  "proof_url": "https://staging.universalmind.tv/informatics/?atlas=1&record=fibonacci-m9-p24",
+  "integrity": [
+    {
+      "file": "Informatics/index.html",
+      "bytes": 6379,
+      "sha256": "f783b5eadb4012907969a4748345d345ebce7d6f92620b1fa81a1861901f2bb9",
+      "matched": true
+    },
+    {
+      "file": "Informatics/research.html",
+      "bytes": 14565,
+      "sha256": "40f278c69acd22c06938aba81b716a3e640227fd1d159b972b9028adf9396640",
+      "matched": true
+    },
+    {
+      "file": "Informatics/genomics.html",
+      "bytes": 2243,
+      "sha256": "b91afd1a8fcc58278b9a1e44a92806d433d98fbbd5491e4839883a8410a30b23",
+      "matched": true
+    },
+    {
+      "file": "Informatics/science.js",
+      "bytes": 48364,
+      "sha256": "6eabad147134eafec9da125c095e464c96ecfa136a196dd2219916951d97ebf9",
+      "matched": true
+    },
+    {
+      "file": "Informatics/science.css",
+      "bytes": 21147,
+      "sha256": "0311ae252eacb9484ab5d21ae60cd771e70391326ed5a3ebafc2b2124c84d47b",
+      "matched": true
+    },
+    {
+      "file": "Informatics/tfbs-explorer.js",
+      "bytes": 16377,
+      "sha256": "fcd5723bdae30e31ca0cc4d46dd65354da970b0fc65900c369c82982b8cd0c50",
+      "matched": true
+    }
+  ],
+  "browser": {
+    "passed": true,
+    "candidate": false,
+    "processMuted": true,
+    "results": [
+      {
+        "viewport": {
+          "width": 1440,
+          "height": 1000
+        },
+        "teachingGraphicLoaded": true,
+        "teachingZoomAndGlossary": true,
+        "nestedTeachingEscapeAndFocus": true,
+        "dataExplorer": true,
+        "originalEvidenceTypesRestored": true,
+        "all33FilterCombinations": true,
+        "selectedExportMatchesFilter": true,
+        "broaderDescriptionsSeparate": true,
+        "filters": true,
+        "retryAfterFailure": true,
+        "keyboardAndOutsideClose": true,
+        "escapeAndFocus": true,
+        "summaryAndSidebar": true,
+        "aboutNestedLightbox": true,
+        "fullscreenStatePreserved": true,
+        "mediaStatePreserved": true,
+        "downloadsMatched": true,
+        "errors": []
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "teachingGraphicLoaded": true,
+        "teachingZoomAndGlossary": true,
+        "nestedTeachingEscapeAndFocus": true,
+        "dataExplorer": true,
+        "originalEvidenceTypesRestored": true,
+        "all33FilterCombinations": true,
+        "selectedExportMatchesFilter": true,
+        "broaderDescriptionsSeparate": true,
+        "filters": true,
+        "retryAfterFailure": true,
+        "keyboardAndOutsideClose": true,
+        "escapeAndFocus": true,
+        "summaryAndSidebar": true,
+        "aboutNestedLightbox": true,
+        "fullscreenStatePreserved": true,
+        "mediaStatePreserved": true,
+        "downloadsMatched": false,
+        "errors": []
+      }
+    ]
+  },
+  "dataset_checks": {
+    "published_elements": 2,
+    "encode_regions": 255,
+    "jaspar_score_400_matches": 9164,
+    "jaspar_all_matches": 217857,
+    "oreganno_regions": 37,
+    "searches": [
+      "factor",
+      "cell type",
+      "sequence",
+      "record ID",
+      "GRCh38 overlap interval"
+    ],
+    "exports": "JSON and CSV match filtered IDs for every collection; desktop export of all 9,164 JASPAR filtered matches verified beyond the visible 50-row page",
+    "error_states": "Collection failure/retry, invalid interval, absent chromosome and empty search results verified",
+    "raw_data": "All archived source data unchanged; literature retains original classifications and distinct count units"
+  },
+  "production_modified": false
+}

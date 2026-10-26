@@ -1,0 +1,38 @@
+{
+  "passed": true,
+  "candidate": false,
+  "results": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "recordsChecked": [
+        999,
+        1001
+      ],
+      "recordContentsMatch": true,
+      "recordCheckMethod": "download click",
+      "completeCsvDownloadVisible": true,
+      "fullBundleDownloadedAndMatched": true,
+      "noHorizontalOverflow": true,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "recordsChecked": [
+        999,
+        1001
+      ],
+      "recordContentsMatch": true,
+      "recordCheckMethod": "download click",
+      "completeCsvDownloadVisible": true,
+      "fullBundleDownloadedAndMatched": false,
+      "noHorizontalOverflow": true,
+      "errors": []
+    }
+  ]
+}

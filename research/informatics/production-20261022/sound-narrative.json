@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-10-21T19:58:18.007Z",
+  "candidate": false,
+  "processAudioDisabled": true,
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "status": "passed"
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "status": "passed"
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "status": "passed"
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "status": "passed"
+    },
+    {
+      "navigation": "direct and embedded menu routes, About, focus, media preservation",
+      "status": "passed"
+    }
+  ],
+  "errors": [],
+  "verifiedEnvironment": "production",
+  "verifiedBaseURL": "https://universalmind.tv/informatics/"
+}

@@ -1,0 +1,674 @@
+[
+  {
+    "recordId": "nature-fibonacci-srep27347",
+    "url": "https://doi.org/10.1038/srep27347",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/srep27347?error=cookies_not_supported&code=25bbd784-93cb-462a-a1d7-880488f9d80b",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-srep27347",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27273762/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/27273762/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-srep15358",
+    "url": "https://doi.org/10.1038/srep15358",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/srep15358?error=cookies_not_supported&code=5c9f75da-020e-46f7-ab22-d79891657d86",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-srep15358",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26471765/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/26471765/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-023-34880-8",
+    "url": "https://doi.org/10.1038/s41598-023-34880-8",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s41598-023-34880-8?error=cookies_not_supported&code=39d7df97-2e21-4158-bf6d-5b8e69d3f49f",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-023-34880-8",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37188747/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/37188747/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-nature02081",
+    "url": "https://doi.org/10.1038/nature02081",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/nature02081?error=cookies_not_supported&code=4e0623a0-8a4f-4fc8-a4a9-5ec693c5b7f4",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-nature02081",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/14628043/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/14628043/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-nature12791",
+    "url": "https://doi.org/10.1038/nature12791",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/nature12791?error=cookies_not_supported&code=db4b4dbb-2a3e-4de2-9340-a60d6784ceb9",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-nature12791",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24336201/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/24336201/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-021-93133-8",
+    "url": "https://doi.org/10.1038/s41598-021-93133-8",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s41598-021-93133-8?error=cookies_not_supported&code=f4976ac3-ec0e-4bb8-9755-4ce4f88b384f",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-021-93133-8",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34226577/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/34226577/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-017-13767-5",
+    "url": "https://doi.org/10.1038/s41598-017-13767-5",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s41598-017-13767-5?error=cookies_not_supported&code=61cb4eef-faa3-4673-b7c4-708b7ef92f14",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-017-13767-5",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29066850/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/29066850/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-srep39821",
+    "url": "https://doi.org/10.1038/srep39821",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/srep39821?error=cookies_not_supported&code=512c69df-1ae7-4b57-aa70-c98bb1e3d61e",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-srep39821",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28071669/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/28071669/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41540-026-00733-z",
+    "url": "https://doi.org/10.1038/s41540-026-00733-z",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s41540-026-00733-z?error=cookies_not_supported&code=8263e397-934a-453a-a079-92411438cd0e",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41540-026-00733-z",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42120901/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/42120901/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41586-025-09570-2",
+    "url": "https://doi.org/10.1038/s41586-025-09570-2",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s41586-025-09570-2?error=cookies_not_supported&code=47edeaeb-1846-47b0-a4aa-daff01941c30",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41586-025-09570-2",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41034583/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/41034583/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41567-024-02529-6",
+    "url": "https://doi.org/10.1038/s41567-024-02529-6",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s41567-024-02529-6?error=cookies_not_supported&code=73ef295d-8af0-410d-a330-bf274abd26cd",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41467-025-61493-8",
+    "url": "https://doi.org/10.1038/s41467-025-61493-8",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s41467-025-61493-8?error=cookies_not_supported&code=4010bc78-2b9c-4d82-ab1b-ac44c34b0269",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41467-025-61493-8",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/40617827/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/40617827/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41586-022-04853-4",
+    "url": "https://doi.org/10.1038/s41586-022-04853-4",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s41586-022-04853-4?error=cookies_not_supported&code=6669da98-7d93-4363-8505-2e5353327a2a",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41586-022-04853-4",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35859195/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/35859195/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-nphys1396",
+    "url": "https://doi.org/10.1038/nphys1396",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/nphys1396?error=cookies_not_supported&code=20b2684b-7017-4418-8f63-2221b777c7ff",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-srep31350",
+    "url": "https://doi.org/10.1038/srep31350",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/srep31350?error=cookies_not_supported&code=b737ed95-d70d-4773-9c75-66b07c8cdde9",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-srep31350",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27515908/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/27515908/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-srep46302",
+    "url": "https://doi.org/10.1038/srep46302",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/srep46302?error=cookies_not_supported&code=cf4b9bab-91d9-45c1-a590-5e2be3edf33c",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-srep46302",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28406240/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/28406240/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-023-28367-9",
+    "url": "https://doi.org/10.1038/s41598-023-28367-9",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s41598-023-28367-9?error=cookies_not_supported&code=e8af297b-0370-4d4a-9155-b887b0219542",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-023-28367-9",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36854757/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/36854757/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-026-66284-9",
+    "url": "https://doi.org/10.1038/s41598-026-66284-9",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s41598-026-66284-9?error=cookies_not_supported&code=05c07623-f359-411e-a69e-b12eb9850a61",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-024-62260-3",
+    "url": "https://doi.org/10.1038/s41598-024-62260-3",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s41598-024-62260-3?error=cookies_not_supported&code=592a4feb-dcb6-4398-919b-0d8e61813387",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-024-62260-3",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38806546/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/38806546/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-020-64065-6",
+    "url": "https://doi.org/10.1038/s41598-020-64065-6",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s41598-020-64065-6?error=cookies_not_supported&code=03372ecd-cae7-4c77-875f-bd4a87288060",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-020-64065-6",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32346020/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/32346020/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41567-020-0908-7",
+    "url": "https://doi.org/10.1038/s41567-020-0908-7",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s41567-020-0908-7?error=cookies_not_supported&code=e877af4d-af4d-4dca-8d96-b81c13019ca9",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41467-020-15760-5",
+    "url": "https://doi.org/10.1038/s41467-020-15760-5",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s41467-020-15760-5?error=cookies_not_supported&code=0213d5f0-3bc9-4c91-9fd0-d55a720a30f9",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41467-020-15760-5",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32376859/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/32376859/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-srep38651",
+    "url": "https://doi.org/10.1038/srep38651",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/srep38651?error=cookies_not_supported&code=30912acd-0bb4-46ed-9cd6-87aaaf5a13b5",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-srep38651",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27934906/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/27934906/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41467-018-05950-7",
+    "url": "https://doi.org/10.1038/s41467-018-05950-7",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s41467-018-05950-7?error=cookies_not_supported&code=8f5a77fe-91c6-4fca-9319-348b33e638fd",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41467-018-05950-7",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30143631/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/30143631/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-020-67567-5",
+    "url": "https://doi.org/10.1038/s41598-020-67567-5",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s41598-020-67567-5?error=cookies_not_supported&code=668ea31d-e01b-4226-8a3a-5d89cb2cc032",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-020-67567-5",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32616728/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/32616728/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-017-02170-9",
+    "url": "https://doi.org/10.1038/s41598-017-02170-9",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s41598-017-02170-9?error=cookies_not_supported&code=703708a4-c3c5-4038-8dcc-3e6fa08c7415",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-017-02170-9",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28536441/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/28536441/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-nphoton.2009.285",
+    "url": "https://doi.org/10.1038/nphoton.2009.285",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/nphoton.2009.285?error=cookies_not_supported&code=e00ab9a2-abaf-4427-9f5d-5ab04c118971",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s42005-025-02264-1",
+    "url": "https://doi.org/10.1038/s42005-025-02264-1",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s42005-025-02264-1?error=cookies_not_supported&code=3f63beaf-97aa-4000-abb3-300e8899f6c9",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-026-40652-x",
+    "url": "https://doi.org/10.1038/s41598-026-40652-x",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s41598-026-40652-x?error=cookies_not_supported&code=1e3fa9de-ebb6-4b15-8679-9c7be4c11ca5",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-026-40652-x",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41741524/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/41741524/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-020-72218-w",
+    "url": "https://doi.org/10.1038/s41598-020-72218-w",
+    "method": "HEAD",
+    "status": 200,
+    "resolvedURL": "https://www.nature.com/articles/s41598-020-72218-w?error=cookies_not_supported&code=a54d9b13-fc02-47a8-8c1a-f58501c06e67",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-020-72218-w",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33208760/",
+    "method": "HEAD",
+    "status": 203,
+    "resolvedURL": "https://pubmed.ncbi.nlm.nih.gov/33208760/",
+    "checkedAt": "2026-10-24"
+  },
+  {
+    "recordId": "nature-fibonacci-srep27347",
+    "url": "https://www.nature.com/articles/srep27347",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/srep27347.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-srep15358",
+    "url": "https://www.nature.com/articles/srep15358",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/srep15358.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-023-34880-8",
+    "url": "https://www.nature.com/articles/s41598-023-34880-8",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s41598-023-34880-8.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-nature02081",
+    "url": "https://www.nature.com/articles/nature02081",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/nature02081.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-nature12791",
+    "url": "https://www.nature.com/articles/nature12791",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/nature12791.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-021-93133-8",
+    "url": "https://www.nature.com/articles/s41598-021-93133-8",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s41598-021-93133-8.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-017-13767-5",
+    "url": "https://www.nature.com/articles/s41598-017-13767-5",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s41598-017-13767-5.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-srep39821",
+    "url": "https://www.nature.com/articles/srep39821",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/srep39821.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s41540-026-00733-z",
+    "url": "https://www.nature.com/articles/s41540-026-00733-z",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s41540-026-00733-z.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s41586-025-09570-2",
+    "url": "https://www.nature.com/articles/s41586-025-09570-2",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s41586-025-09570-2.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s41567-024-02529-6",
+    "url": "https://www.nature.com/articles/s41567-024-02529-6",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s41567-024-02529-6.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s41467-025-61493-8",
+    "url": "https://www.nature.com/articles/s41467-025-61493-8",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s41467-025-61493-8.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s41586-022-04853-4",
+    "url": "https://www.nature.com/articles/s41586-022-04853-4",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s41586-022-04853-4.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-nphys1396",
+    "url": "https://www.nature.com/articles/nphys1396",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/nphys1396.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-srep31350",
+    "url": "https://www.nature.com/articles/srep31350",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/srep31350.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-srep46302",
+    "url": "https://www.nature.com/articles/srep46302",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/srep46302.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-023-28367-9",
+    "url": "https://www.nature.com/articles/s41598-023-28367-9",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s41598-023-28367-9.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-026-66284-9",
+    "url": "https://www.nature.com/articles/s41598-026-66284-9",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s41598-026-66284-9.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-024-62260-3",
+    "url": "https://www.nature.com/articles/s41598-024-62260-3",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s41598-024-62260-3.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-020-64065-6",
+    "url": "https://www.nature.com/articles/s41598-020-64065-6",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s41598-020-64065-6.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s41567-020-0908-7",
+    "url": "https://www.nature.com/articles/s41567-020-0908-7",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s41567-020-0908-7.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s41467-020-15760-5",
+    "url": "https://www.nature.com/articles/s41467-020-15760-5",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s41467-020-15760-5.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-srep38651",
+    "url": "https://www.nature.com/articles/srep38651",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/srep38651.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s41467-018-05950-7",
+    "url": "https://www.nature.com/articles/s41467-018-05950-7",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s41467-018-05950-7.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-020-67567-5",
+    "url": "https://www.nature.com/articles/s41598-020-67567-5",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s41598-020-67567-5.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-017-02170-9",
+    "url": "https://www.nature.com/articles/s41598-017-02170-9",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s41598-017-02170-9.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-nphoton.2009.285",
+    "url": "https://www.nature.com/articles/nphoton.2009.285",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/nphoton.2009.285.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s42005-025-02264-1",
+    "url": "https://www.nature.com/articles/s42005-025-02264-1",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s42005-025-02264-1.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-026-40652-x",
+    "url": "https://www.nature.com/articles/s41598-026-40652-x",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s41598-026-40652-x.publisher.json"
+  },
+  {
+    "recordId": "nature-fibonacci-s41598-020-72218-w",
+    "url": "https://www.nature.com/articles/s41598-020-72218-w",
+    "method": "GET",
+    "status": 200,
+    "checkedAt": "2026-10-24",
+    "evidence": "source-cache/s41598-020-72218-w.publisher.json"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "transport": "Browser same-origin HTTP fetch; generic command-line clients rejected by hosting firewall",
+  "processAudioMuted": true,
+  "results": [
+    {
+      "path": "library.html",
+      "status": 200,
+      "sha256": "c03f0814e5bf68b61e648055aa206b0ad0576ac6f5599e0d7d81da0b8ee9222d",
+      "matched": true
+    },
+    {
+      "path": "library.js",
+      "status": 200,
+      "sha256": "123c3ccd3a19c1b3461ca788c6ed837404dc670438c9848e7c3449e915a3fa4d",
+      "matched": true
+    },
+    {
+      "path": "library-model.js",
+      "status": 200,
+      "sha256": "b52ba3460fa160b67a120d9e9e2e3022dcb68a03aacda5e1c641869336772041",
+      "matched": true
+    },
+    {
+      "path": "library.css",
+      "status": 200,
+      "sha256": "8cf84598d181519abb7ffbdc2948f659200c0c517c32df394c7ae7b0357ca5ac",
+      "matched": true
+    },
+    {
+      "path": "library-data/library.json",
+      "status": 200,
+      "sha256": "4a87b4f7fe0e8451514249b30d87ddadcb2e61b2ccdc9be3e529886623872ac9",
+      "matched": true
+    },
+    {
+      "path": "library-data/language-edition.json",
+      "status": 200,
+      "sha256": "d61f43b44dcd77b900b321cd986f96cef3e41b2a252e792ea5a308fc377741dd",
+      "matched": true
+    },
+    {
+      "path": "library-data/general-edition.json",
+      "status": 200,
+      "sha256": "da20c4b1322c89d08dabb90bfdde2982b319924d88be31bea53605ca709a74ac",
+      "matched": true
+    },
+    {
+      "path": "library-data/mindfulness-expansion.json",
+      "status": 200,
+      "sha256": "1647326a767a21ecb44227f587c8b1afe374499187a6835e590d20fd2d70e77a",
+      "matched": true
+    },
+    {
+      "path": "library-data/publication-access.json",
+      "status": 200,
+      "sha256": "d2cfdbbbee277f60bcbe6f4f1b83fe79fc226d3bffdbc4feb2987af0d375c6d3",
+      "matched": true
+    }
+  ]
+}

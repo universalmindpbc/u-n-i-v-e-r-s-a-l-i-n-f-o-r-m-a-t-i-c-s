@@ -1,0 +1,99 @@
+{
+  "results": [
+    {
+      "width": 1470,
+      "stats": {
+        "sound": {
+          "papers": 284,
+          "journals": 145,
+          "citations": 24691
+        },
+        "vision": {
+          "papers": 65,
+          "journals": 36,
+          "citations": 2290
+        },
+        "language": {
+          "papers": 323,
+          "journals": 174,
+          "citations": 9874
+        },
+        "general": {
+          "papers": 292,
+          "journals": 130,
+          "citations": 44495
+        },
+        "all": {
+          "papers": 726,
+          "journals": 326,
+          "citations": 74408
+        }
+      },
+      "status": "passed"
+    },
+    {
+      "width": 390,
+      "stats": {
+        "sound": {
+          "papers": 284,
+          "journals": 145,
+          "citations": 24691
+        },
+        "vision": {
+          "papers": 65,
+          "journals": 36,
+          "citations": 2290
+        },
+        "language": {
+          "papers": 323,
+          "journals": 174,
+          "citations": 9874
+        },
+        "general": {
+          "papers": 292,
+          "journals": 130,
+          "citations": 44495
+        },
+        "all": {
+          "papers": 726,
+          "journals": 326,
+          "citations": 74408
+        }
+      },
+      "status": "passed"
+    },
+    {
+      "width": 320,
+      "stats": {
+        "sound": {
+          "papers": 284,
+          "journals": 145,
+          "citations": 24691
+        },
+        "vision": {
+          "papers": 65,
+          "journals": 36,
+          "citations": 2290
+        },
+        "language": {
+          "papers": 323,
+          "journals": 174,
+          "citations": 9874
+        },
+        "general": {
+          "papers": 292,
+          "journals": 130,
+          "citations": 44495
+        },
+        "all": {
+          "papers": 726,
+          "journals": 326,
+          "citations": 74408
+        }
+      },
+      "status": "passed"
+    }
+  ],
+  "errors": [],
+  "muted": true
+}

@@ -1,0 +1,160 @@
+{
+  "project": "syn78366147",
+  "folder": "syn78380796",
+  "permissions": "owner-only",
+  "manifestSHA256": "df177d308cf36853b5c23e5d47356bc0d7976a1bb12792a0771020477adcbd5a",
+  "status": "uploaded-and-download-verified",
+  "checkedAt": "2026-10-25T23:35:17.819045+00:00",
+  "files": [
+    {
+      "name": "informatics-complete.json.gz",
+      "id": "syn78380798",
+      "version": 1,
+      "bytes": 75558215,
+      "sha256": "9e23e50ddf18f866f694b22db0eb58a303260bd32b3bb7a3f547ebd9ada055ae",
+      "downloadVerified": true,
+      "createdOn": "2026-10-25T23:18:50.295Z",
+      "modifiedOn": "2026-10-25T23:18:50.897Z"
+    },
+    {
+      "name": "informatics-complete.csv.gz",
+      "id": "syn78380809",
+      "version": 1,
+      "bytes": 144093134,
+      "sha256": "0995feb6849942b44101924ec6587ad561f5ad7b59c836db5bc497a002ccbb20",
+      "downloadVerified": true,
+      "createdOn": "2026-10-25T23:20:13.655Z",
+      "modifiedOn": "2026-10-25T23:20:14.801Z"
+    },
+    {
+      "name": "dataset-manifest.json",
+      "id": "syn78380810",
+      "version": 1,
+      "bytes": 2391728,
+      "sha256": "5b782d0b5c59d2a4b1288a4be35ba6aca6aaad3408684afa0f7170add6d10ffd",
+      "downloadVerified": true,
+      "createdOn": "2026-10-25T23:20:22.490Z",
+      "modifiedOn": "2026-10-25T23:20:23.070Z"
+    },
+    {
+      "name": "DATA-GUIDE.txt",
+      "id": "syn78380811",
+      "version": 1,
+      "bytes": 2379,
+      "sha256": "4dd8718622192ddffb27d6b252bb5142fa47fa3a35b38ad1b30a7db8aa30b547",
+      "downloadVerified": true,
+      "createdOn": "2026-10-25T23:20:28.074Z",
+      "modifiedOn": "2026-10-25T23:20:28.669Z"
+    },
+    {
+      "name": "public-source.tar.gz",
+      "id": "syn78380812",
+      "version": 1,
+      "bytes": 1256032,
+      "sha256": "9aa3a6c1e0bea9211daccc6f75242c976e2337ec7ed583d367649d65faefc3c1",
+      "downloadVerified": true,
+      "createdOn": "2026-10-25T23:20:33.875Z",
+      "modifiedOn": "2026-10-25T23:20:35.133Z"
+    },
+    {
+      "name": "source-files.json",
+      "id": "syn78380813",
+      "version": 1,
+      "bytes": 17877,
+      "sha256": "f972f011754a491d255aa1906f8ddb2c6d870c849697451bdff48545e4c5bc16",
+      "downloadVerified": true,
+      "createdOn": "2026-10-25T23:20:40.938Z",
+      "modifiedOn": "2026-10-25T23:20:41.549Z"
+    },
+    {
+      "name": "SNAPSHOT.txt",
+      "id": "syn78380816",
+      "version": 1,
+      "bytes": 1221,
+      "sha256": "17f543d90c337b70d1e035b6c846b33f115a080dc8e2973a5dc568cb9bd48ef0",
+      "downloadVerified": true,
+      "createdOn": "2026-10-25T23:20:45.169Z",
+      "modifiedOn": "2026-10-25T23:20:45.766Z"
+    },
+    {
+      "name": "manifest.json",
+      "id": "syn78380817",
+      "version": 1,
+      "bytes": 2218,
+      "sha256": "df177d308cf36853b5c23e5d47356bc0d7976a1bb12792a0771020477adcbd5a",
+      "downloadVerified": true,
+      "createdOn": "2026-10-25T23:20:49.317Z",
+      "modifiedOn": "2026-10-25T23:20:49.936Z"
+    },
+    {
+      "name": "integrity.json",
+      "id": "syn78380818",
+      "version": 1,
+      "bytes": 140,
+      "sha256": "61b6a91e8ddc3608e35ff669dbeba5be887db5079cf5bd4f51b3813a47cb0689",
+      "downloadVerified": true,
+      "createdOn": "2026-10-25T23:20:53.523Z",
+      "modifiedOn": "2026-10-25T23:20:54.099Z"
+    },
+    {
+      "name": "manifest.tsq",
+      "id": "syn78380865",
+      "version": 1,
+      "bytes": 69,
+      "sha256": "20cd0acb09d69f1336188ab7e751a8cccd13412a05eb2400fac044b0a46c75b0",
+      "downloadVerified": true,
+      "createdOn": "2026-10-25T23:30:59.013Z",
+      "modifiedOn": "2026-10-25T23:30:59.639Z"
+    },
+    {
+      "name": "manifest.tsr",
+      "id": "syn78380866",
+      "version": 1,
+      "bytes": 6007,
+      "sha256": "d2eb843cc8043851160b863e29ec91fec4c5bb198fa0822dc0dd354c2ce88ed9",
+      "downloadVerified": true,
+      "createdOn": "2026-10-25T23:31:05.688Z",
+      "modifiedOn": "2026-10-25T23:31:06.312Z"
+    },
+    {
+      "name": "timestamp-chain.pem",
+      "id": "syn78380867",
+      "version": 1,
+      "bytes": 7335,
+      "sha256": "450dee95aecff125ad43035a92dc8e63beb93f2064af4e064586627b309855f5",
+      "downloadVerified": true,
+      "createdOn": "2026-10-25T23:31:10.582Z",
+      "modifiedOn": "2026-10-25T23:31:11.153Z"
+    },
+    {
+      "name": "timestamp-verification.json",
+      "id": "syn78380868",
+      "version": 1,
+      "bytes": 1059,
+      "sha256": "d56cff5f64a72e9ee49278d1fffbc6ff6aef3510e7fba3a02fb90114dd0185b3",
+      "downloadVerified": true,
+      "createdOn": "2026-10-25T23:31:18.505Z",
+      "modifiedOn": "2026-10-25T23:31:19.111Z"
+    },
+    {
+      "name": "VERIFY-TIMESTAMP.txt",
+      "id": "syn78380869",
+      "version": 1,
+      "bytes": 976,
+      "sha256": "acc9f3d94f01276fdb82387b863d7b97626e1008b319424f9806c3e1a9fef0a0",
+      "downloadVerified": true,
+      "createdOn": "2026-10-25T23:31:24.764Z",
+      "modifiedOn": "2026-10-25T23:31:25.365Z"
+    },
+    {
+      "name": "manifest.json.ots",
+      "id": "syn78380826",
+      "version": 1,
+      "bytes": 667,
+      "sha256": "0ac732fb55da997e423fbf598c554659902ea25e3aa0c66c9b542a5699d7370b",
+      "downloadVerified": true,
+      "createdOn": "2026-10-25T23:21:31.023Z",
+      "modifiedOn": "2026-10-25T23:21:31.605Z"
+    }
+  ]
+}

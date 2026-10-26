@@ -1,0 +1,79 @@
+{
+  "live": false,
+  "baseline": false,
+  "processMuted": true,
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "start": {
+        "pixels": 1413,
+        "x": 799.0261854210898,
+        "y": 262.7685774946921,
+        "width": 1220,
+        "height": 684
+      },
+      "middle": {
+        "pixels": 1344,
+        "x": 704.9084821428571,
+        "y": 301.62276785714283,
+        "width": 1220,
+        "height": 684
+      },
+      "end": {
+        "pixels": 1263,
+        "x": 610.680126682502,
+        "y": 340.4394299287411,
+        "width": 1220,
+        "height": 684
+      },
+      "displacement": 203.73266591342542,
+      "halfDisplacement": 101.82234616768079,
+      "actualPlaybackPixelsMoved": true,
+      "pausePixelsStable": true,
+      "boundPosePixelsRestored": true,
+      "playbackCompletesAtDepositedPose": true,
+      "geometryControlsAndPixels": true,
+      "geometryExport": true,
+      "errors": []
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "start": {
+        "pixels": 830,
+        "x": 334.23855421686744,
+        "y": 196.66265060240963,
+        "width": 390,
+        "height": 515
+      },
+      "middle": {
+        "pixels": 834,
+        "x": 266.8549160671463,
+        "y": 226.9640287769784,
+        "width": 390,
+        "height": 515
+      },
+      "end": {
+        "pixels": 783,
+        "x": 195.0727969348659,
+        "y": 256.27075351213284,
+        "width": 390,
+        "height": 515
+      },
+      "displacement": 151.394299537232,
+      "halfDisplacement": 73.88320654635118,
+      "actualPlaybackPixelsMoved": true,
+      "pausePixelsStable": true,
+      "boundPosePixelsRestored": true,
+      "playbackCompletesAtDepositedPose": true,
+      "geometryControlsAndPixels": true,
+      "geometryExport": true,
+      "errors": []
+    }
+  ]
+}

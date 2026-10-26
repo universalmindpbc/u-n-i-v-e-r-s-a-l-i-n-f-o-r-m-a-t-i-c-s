@@ -1,0 +1,100 @@
+{
+  "assessedAt": "2026-10-23",
+  "scope": "Three new mindfulness subchapters",
+  "rule": "One score per subchapter: 3 for at least three double-blind RCTs; 2 for at least three single-blind RCTs; 1 for at least three peer-reviewed journal articles. Award the highest qualifying score. No score below the three-publication minimum.",
+  "authority": "Ben’s explicit correction on 23 October 2026",
+  "supersedes": "Paper-level trust scoring in mindfulness-trust-assessment-20261023.json",
+  "deduplication": "Count each DOI/PMID once; repeated reports of the same registered trial count once toward an RCT threshold.",
+  "topics": [
+    {
+      "id": "mindfulness-rna",
+      "title": "Mindfulness interventions and gene expression",
+      "score": 2,
+      "scope": "Subchapter",
+      "minimumQualifyingStudies": 3,
+      "status": "assessed",
+      "qualifyingRecords": {
+        "double-blind-rct": [
+          "pmid-41020112",
+          "pmid-36278141"
+        ],
+        "single-blind-rct": [
+          "pmid-41534731",
+          "pmid-37982547",
+          "pmid-36267832",
+          "pmid-35427760",
+          "pmid-22820409"
+        ],
+        "peer-reviewed": [
+          "pmid-41534731",
+          "pmid-41020112",
+          "pmid-39680432",
+          "pmid-37982547",
+          "pmid-37560036",
+          "pmid-36267832",
+          "pmid-35427760",
+          "pmid-36278141",
+          "pmid-25537522",
+          "pmid-24485481",
+          "pmid-22820409"
+        ]
+      },
+      "counts": {
+        "double-blind-rct": 2,
+        "single-blind-rct": 5,
+        "peer-reviewed": 11
+      }
+    },
+    {
+      "id": "mindfulness-epigenetics",
+      "title": "Mindfulness, DNA methylation and genetic variation",
+      "score": null,
+      "scope": "Subchapter",
+      "minimumQualifyingStudies": 3,
+      "status": "below-minimum",
+      "qualifyingRecords": {
+        "double-blind-rct": [],
+        "single-blind-rct": [],
+        "peer-reviewed": [
+          "pmid-38671329",
+          "doi-10.1007-s12671-026-02877-9"
+        ]
+      },
+      "counts": {
+        "double-blind-rct": 0,
+        "single-blind-rct": 0,
+        "peer-reviewed": 2
+      }
+    },
+    {
+      "id": "mindfulness-clinical",
+      "title": "Mindfulness-based interventions: controlled clinical trials",
+      "score": 2,
+      "scope": "Subchapter",
+      "minimumQualifyingStudies": 3,
+      "status": "assessed",
+      "qualifyingRecords": {
+        "double-blind-rct": [],
+        "single-blind-rct": [
+          "pmid-36350591",
+          "pmid-27002445",
+          "pmid-26241597",
+          "pmid-25907157"
+        ],
+        "peer-reviewed": [
+          "pmid-36350591",
+          "pmid-35820992",
+          "pmid-27002445",
+          "pmid-26241597",
+          "pmid-25907157",
+          "pmid-40379363"
+        ]
+      },
+      "counts": {
+        "double-blind-rct": 0,
+        "single-blind-rct": 4,
+        "peer-reviewed": 6
+      }
+    }
+  ]
+}

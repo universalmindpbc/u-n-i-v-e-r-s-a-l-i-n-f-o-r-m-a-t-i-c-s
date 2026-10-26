@@ -1,0 +1,51 @@
+{
+  "passed": true,
+  "live": false,
+  "process_audio_muted": true,
+  "records": [
+    {
+      "width": 1470,
+      "noOverflow": true,
+      "sharedControls": true,
+      "assistantUncovered": true,
+      "diagramSelectable": true,
+      "allFourGeometries": true,
+      "transcriptionAllViews": true,
+      "deliveryPreference": true,
+      "errors": []
+    },
+    {
+      "width": 1024,
+      "noOverflow": true,
+      "sharedControls": true,
+      "assistantUncovered": true,
+      "diagramSelectable": true,
+      "allFourGeometries": true,
+      "transcriptionAllViews": true,
+      "deliveryPreference": true,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "noOverflow": true,
+      "sharedControls": true,
+      "assistantUncovered": true,
+      "diagramSelectable": true,
+      "allFourGeometries": true,
+      "transcriptionAllViews": true,
+      "deliveryPreference": true,
+      "errors": []
+    },
+    {
+      "width": 320,
+      "noOverflow": true,
+      "sharedControls": true,
+      "assistantUncovered": true,
+      "diagramSelectable": true,
+      "allFourGeometries": true,
+      "transcriptionAllViews": true,
+      "deliveryPreference": true,
+      "errors": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "path": "api/astra-session.php",
+      "http": 403,
+      "bytes": 46
+    },
+    {
+      "path": "quantum/agent.js",
+      "http": 200,
+      "bytes": 9190
+    },
+    {
+      "path": "quantum/biology.js",
+      "http": 200,
+      "bytes": 21111
+    },
+    {
+      "path": "quantum/study.js",
+      "http": 200,
+      "bytes": 9452
+    },
+    {
+      "path": "quantum/index.html",
+      "http": 200,
+      "bytes": 27598
+    },
+    {
+      "path": "quantum/experiments/oxtr-agent-follow-through-pilot/r1/experiment.json",
+      "http": 200,
+      "bytes": 843753
+    },
+    {
+      "path": "quantum/experiments/oxtr-agent-follow-through-pilot/r1/experiment.csv",
+      "http": 200,
+      "bytes": 1283763
+    },
+    {
+      "path": "exports/manifest.json",
+      "http": 200,
+      "bytes": 2391728
+    }
+  ]
+}

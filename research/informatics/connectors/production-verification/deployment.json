@@ -1,0 +1,14 @@
+{
+  "releasedAt": "2026-10-24T14:03:33.900498+11:00",
+  "approvedStagingCommit": "bd7fce6a69f7210b45c69f045bae7e13f5c7e346",
+  "releaseSourceCommit": "1422493ca9b28c71bb171b08c64f162ab83400ed",
+  "workerVersion": "d006dfff-5b04-453b-b74d-f953a23efd9d",
+  "previousWorkerVersion": "6c14d473-4f77-4280-a999-61a4e8153116",
+  "productionOrigin": "https://universalmind.tv",
+  "productionEndpoint": "https://informatics-universal-one.universalmind.workers.dev",
+  "productionConnectorRateLimit": "120 requests per minute per IP",
+  "websiteSourceMatchesApproved": true,
+  "credentialsTransferred": false,
+  "privateResearchPublished": false,
+  "releaseTag": "production-2026-10-24-1406"
+}

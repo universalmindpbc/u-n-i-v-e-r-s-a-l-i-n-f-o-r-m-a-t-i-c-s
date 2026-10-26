@@ -1,0 +1,13 @@
+{
+  "status": 200,
+  "unauthorised": 401,
+  "memory_ids": [
+    "universal-mind-intent",
+    "research-directions",
+    "oxtr-agent-follow-through-pilot",
+    "oxtr-qrc-01-qualification"
+  ],
+  "stimulus": [
+    "nature-fibonacci-s41586-022-04853-4"
+  ]
+}

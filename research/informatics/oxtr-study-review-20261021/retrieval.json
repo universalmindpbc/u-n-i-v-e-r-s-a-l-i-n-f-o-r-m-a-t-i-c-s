@@ -1,0 +1,288 @@
+[
+  {
+    "file": "LICENSE",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/LICENSE",
+    "bytes": 1068,
+    "sha256": "9252b2ac7c103bedb175a07ecc71baf6e75933784dcab8f223d6a52667f971dc",
+    "git_blob_sha": "a90526af159e4f193767e07eeb6dae909661820e",
+    "status": "retrieved"
+  },
+  {
+    "file": "QC__README.md",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/QC/README.md",
+    "bytes": 165694,
+    "sha256": "858432c794a09462f1108507011fc36b844ea4026757c2baa9c6e7166a1fdfae",
+    "git_blob_sha": "99d06ec0047f086b9c2306a17936c211f0a77203",
+    "status": "retrieved"
+  },
+  {
+    "file": "README.md",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/README.md",
+    "bytes": 5178,
+    "sha256": "26dccd72123bfea18bf9b9f91267a142785e2a40dcb8db11773676f820403b13",
+    "git_blob_sha": "7c5d964aadfccb1d9e897ecb9920fc39c5d14c55",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__CB_NeuN_idr.optimal_peak.narrowPeak.gz",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/CB_NeuN_idr.optimal_peak.narrowPeak.gz",
+    "bytes": 4389958,
+    "sha256": "7b819249834d659daf7f367863301310578a33b9b3fd6f463374a1e06c78734c",
+    "git_blob_sha": "68661d94ca74830cd95b088052fe3e467dfc5ca4",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__DLPFC_NegNeg_idr.optimal_peak.narrowPeak.gz",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/DLPFC_NegNeg_idr.optimal_peak.narrowPeak.gz",
+    "bytes": 3984880,
+    "sha256": "34f32493e246329a0ed8ada878b0712932daf1ee9ee35a60945135ebaa8599a0",
+    "git_blob_sha": "4e9ec34a334a8438a403f00cec3494c1e1d02200",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__DLPFC_NeuN_idr.optimal_peak.narrowPeak.gz",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/DLPFC_NeuN_idr.optimal_peak.narrowPeak.gz",
+    "bytes": 5020250,
+    "sha256": "77989db72766b4dabe23b2504e37366bbffa5d9282d59e8623f71425547d95fa",
+    "git_blob_sha": "d2c3c62783bd0097b0507306441f3a6fe5afad62",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__DLPFC_Olig2_idr.optimal_peak.narrowPeak.gz",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/DLPFC_Olig2_idr.optimal_peak.narrowPeak.gz",
+    "bytes": 4583711,
+    "sha256": "7dcc9195531721a79fd15c7097b79392a8152af676521e775487967fa118099c",
+    "git_blob_sha": "09a4c7e46b851eae7a99a9b0735bd468d9ef38ca",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__FP_NegNeg_idr.optimal_peak.narrowPeak.gz",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/FP_NegNeg_idr.optimal_peak.narrowPeak.gz",
+    "bytes": 3244602,
+    "sha256": "5f1bb7245475022e444948fd586bd89e6efdb25e5019cc5fdcf58b19cbbfa78f",
+    "git_blob_sha": "f3bc2c098eb0f988fea812314bac24005be3f168",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__FP_NeuN_idr.optimal_peak.narrowPeak.gz",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/FP_NeuN_idr.optimal_peak.narrowPeak.gz",
+    "bytes": 4635027,
+    "sha256": "f805d7faf2a1afc0fc1a4b84e6c90575b2b51fa111514fc76b41f6c62be9ce43",
+    "git_blob_sha": "1450524f2fddbb2c7b9e5fe0502115c400308546",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__FP_Olig2_idr.optimal_peak.narrowPeak.gz",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/FP_Olig2_idr.optimal_peak.narrowPeak.gz",
+    "bytes": 4042197,
+    "sha256": "4efb61a9e6602d8b3a5351b2a63a810002f632bb7a18fac7c153875e44143f85",
+    "git_blob_sha": "a614242eaa04287703bb4a7e16ad4955bdd9b785",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__OL_NegNeg_idr.optimal_peak.narrowPeak.gz",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/OL_NegNeg_idr.optimal_peak.narrowPeak.gz",
+    "bytes": 3231268,
+    "sha256": "3636d8661316dc57af2c23162f23fd11b89194c491bf2d64f2adbc43caa31dea",
+    "git_blob_sha": "7c6f49edce7e64fc79e530bf14a4faeb06572100",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__OL_NeuN_idr.optimal_peak.narrowPeak.gz",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/OL_NeuN_idr.optimal_peak.narrowPeak.gz",
+    "bytes": 4506380,
+    "sha256": "77832840c7800cd8401c953969f4ea1afeb133a70560d2da8a27165cc823628f",
+    "git_blob_sha": "9961ba1a487efb2ecf3232a6ee0f970db4f50811",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__OL_Olig2_idr.optimal_peak.narrowPeak.gz",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/OL_Olig2_idr.optimal_peak.narrowPeak.gz",
+    "bytes": 4580400,
+    "sha256": "1a107d7acf9cd4b574542bac03ad1947f1a467cd61c1dcd925e7205867a4781f",
+    "git_blob_sha": "1e3a22a469c85da8a2d12f5759b8e79eee1b85cf",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__unlist_CB.rds",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/unlist_CB.rds",
+    "bytes": 22849805,
+    "sha256": "aac505120db5c6bcc6a2845347cc06c0b23431d4d554b4ce7d5b1f3bec45546b",
+    "git_blob_sha": "f6186b984e4ab9d9797ff13aa8d3afcabc778633",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__unlist_DLPFC.rds",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/unlist_DLPFC.rds",
+    "bytes": 20508504,
+    "sha256": "99170deece06289d3042ee715a8c4df291ed13f5a0206a37fb32260fcd0cb854",
+    "git_blob_sha": "0804bb4fc7f7ab9223d2318434950031ccefba4f",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__unlist_DLPFC_NEG.rds",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/unlist_DLPFC_NEG.rds",
+    "bytes": 4091521,
+    "sha256": "df887c56a42973af863bc3a55a8345d2282bf1de13144ffd8af7f38225954f9c",
+    "git_blob_sha": "6ce1cb8807efeab266d002b505761b5efc458de4",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__unlist_DLPFC_NEUN.rds",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/unlist_DLPFC_NEUN.rds",
+    "bytes": 13581750,
+    "sha256": "2e21066f9a7320675ad1c132ca4127aec563dbae8d0c5ba66ce7a4f159a84378",
+    "git_blob_sha": "f82fd37f177a4f7f37306833b47c3bee0d0aaae0",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__unlist_DLPFC_OLIG.rds",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/unlist_DLPFC_OLIG.rds",
+    "bytes": 11478644,
+    "sha256": "38b443e58a2bb5a67b73e7d61bfde0988a0f2b76358cdc870f95b4f7d5a81eab",
+    "git_blob_sha": "8c3cc173ad27d3772e31cb5e6286ecdbf35cc703",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__unlist_FP.rds",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/unlist_FP.rds",
+    "bytes": 13701527,
+    "sha256": "4952d0200bc231e2eeab746432a9f4946a9afd18d3f0b3bc669591db6fb1caf1",
+    "git_blob_sha": "8a0fbf508ebcece33351f959507823275509bf4d",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__unlist_FP_NEG.rds",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/unlist_FP_NEG.rds",
+    "bytes": 3858652,
+    "sha256": "857a5d10fc6428928dc5f7ff0d46b35add65a99f0a699453d2c54ae96d69f42b",
+    "git_blob_sha": "543e4892b2f94ea309e30c71e8890b5dda3f5788",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__unlist_FP_NEUN.rds",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/unlist_FP_NEUN.rds",
+    "bytes": 11231032,
+    "sha256": "3fbacead1ef01c6cc070851eb66ba032d5fcef2469f7ed85473b101e02c90136",
+    "git_blob_sha": "345ba5b509d4b2a5edb313819860a7a609c56e85",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__unlist_FP_OLIG.rds",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/unlist_FP_OLIG.rds",
+    "bytes": 7541582,
+    "sha256": "46907ec5ecd2447c97d776829714e13aedcb7f4c4c009bade6a45e68b1af458f",
+    "git_blob_sha": "84ab5714f58099e9c1a103f2b204f4f2db5fff74",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__unlist_OL.rds",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/unlist_OL.rds",
+    "bytes": 17677004,
+    "sha256": "317c614e8bdb1776c95fc72bf8c6790c9c68d66e7c21e29243abcb8c742cc36a",
+    "git_blob_sha": "49230f42327f54609b2b48549b2f523b6a6b4bf2",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__unlist_OL_NEG.rds",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/unlist_OL_NEG.rds",
+    "bytes": 6335020,
+    "sha256": "6f184d606d2e445201f1ed05e1b10ef4a4b2ca6913c6e6339666481e3a0c029e",
+    "git_blob_sha": "81ef23b1b91f2e5c06e2fab2723969a645168c52",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__unlist_OL_NEUN.rds",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/unlist_OL_NEUN.rds",
+    "bytes": 14399086,
+    "sha256": "f144adf92ec54938cf2160c04dc9879132da73d6b5f14cf02bb961f05da8e2b5",
+    "git_blob_sha": "400e500142c6f0fd00bb85796048e5b1aa851233",
+    "status": "retrieved"
+  },
+  {
+    "file": "data__unlist_OL_OLIG.rds",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/data/unlist_OL_OLIG.rds",
+    "bytes": 8420536,
+    "sha256": "73e1a02b52ac9ded6cc241c6523e7bd84ba064c6835aadad28b6f1eaafc320c7",
+    "git_blob_sha": "4eca68e17321cf6a906a5bbbc8a8b797a14e85c9",
+    "status": "retrieved"
+  },
+  {
+    "file": "braintf-paper.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12991031/fullTextXML",
+    "status": "unavailable",
+    "error": "HTTP Error 500: "
+  },
+  {
+    "file": "psychscreen-paper.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11114231/fullTextXML",
+    "bytes": 276133,
+    "sha256": "37bd5a4a241e75d29bad4bc9fdd254d55fc79fedd5e4e6db56f5d8da5b3dd23f",
+    "git_blob_sha": null,
+    "status": "retrieved"
+  },
+  {
+    "file": "psychscreen-tree.json",
+    "url": "https://api.github.com/repos/weng-lab/psychscreen/git/trees/main?recursive=1",
+    "bytes": 54459,
+    "sha256": "e282ea24cc254c2f2e66d69b0370674da75ccb7509c2f2e389d861fdd565cbf9",
+    "git_blob_sha": null,
+    "status": "retrieved"
+  },
+  {
+    "file": "psychscreen-downloads.tsx",
+    "url": "https://raw.githubusercontent.com/weng-lab/psychscreen/main/src/web/DownloadsPage/DownloadsPage.tsx",
+    "bytes": 26529,
+    "sha256": "68c087ac47f94911391f4a14373a7b1f7693883629bf34d902acfe20131f9691",
+    "status": "retrieved"
+  },
+  {
+    "file": "psychscreen-bcre-table.tsx",
+    "url": "https://raw.githubusercontent.com/weng-lab/psychscreen/main/src/web/DownloadsPage/BCRETable.tsx",
+    "bytes": 4029,
+    "sha256": "fd6b6b071631e388a05838793f28da9342c1473f12b7e74a24c470a2ae46d7e8",
+    "status": "retrieved"
+  },
+  {
+    "file": "braintf-qc-example.html",
+    "url": "https://raw.githubusercontent.com/aanderson54/Loupe_BrainTF/main/QC/files/ARID1B_DLPFC_Output_report.html",
+    "bytes": 72444,
+    "sha256": "474bca8addffb3765ddf219b3d730d9c1f8fe175de73ad3dd89f40b13636e193",
+    "status": "retrieved"
+  },
+  {
+    "file": "braintf-supplement-3.xlsx",
+    "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41593-024-01658-8/MediaObjects/41593_2024_1658_MOESM3_ESM.xlsx",
+    "bytes": 14155,
+    "sha256": "996f79ae26fbcda913cb29851f6360f9f5978f3b4a1e8ccd3030d4bb207ccdb4",
+    "status": "retrieved"
+  },
+  {
+    "file": "braintf-supplement-4.xlsx",
+    "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41593-024-01658-8/MediaObjects/41593_2024_1658_MOESM4_ESM.xlsx",
+    "bytes": 304012,
+    "sha256": "6e885147813a586acac1270e1910db4a21892ffb61a3827d654cd17355f2a6c7",
+    "status": "retrieved"
+  },
+  {
+    "file": "braintf-supplement-5.xlsx",
+    "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41593-024-01658-8/MediaObjects/41593_2024_1658_MOESM5_ESM.xlsx",
+    "bytes": 45507,
+    "sha256": "91c822e4292b62c51d300622062ae00ed816ab85c205fcb3d41744f76b983b34",
+    "status": "retrieved"
+  },
+  {
+    "file": "braintf-supplement-6.xlsx",
+    "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41593-024-01658-8/MediaObjects/41593_2024_1658_MOESM6_ESM.xlsx",
+    "bytes": 53374936,
+    "sha256": "7b6f3a6af1690265153732997bb9fb0a66da29aee14676d9896684be83ce2dfb",
+    "status": "retrieved"
+  },
+  {
+    "file": "braintf-supplement-8.xlsx",
+    "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41593-024-01658-8/MediaObjects/41593_2024_1658_MOESM8_ESM.xlsx",
+    "bytes": 22588,
+    "sha256": "786572f6b70c0592d1577628904f7a5ca8b8e66d12b441db56b6799345ec8b0a",
+    "status": "retrieved"
+  }
+]

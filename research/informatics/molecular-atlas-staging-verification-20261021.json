@@ -1,0 +1,562 @@
+{
+  "verifiedAt": "2026-10-21T07:04:58.827837+00:00",
+  "sourceCommit": "0b482a1461f58079bca18e133be2ff0779eecf7f",
+  "integratedStagingBaseline": "a6b697ea3d820922bff7dc75998a86d3b3ddbebc",
+  "productionRefUnchanged": "636bfa9ae41efe036b2cccac0827c724edfde92b",
+  "proofURL": "https://staging.universalmind.tv/informatics/molecular/",
+  "deployment": {
+    "command": "SHOPFRONT_MUGLER_FIXTURE=/private/tmp/um-study-mugler-fixture.mp4 ./deploy-panthur-staging.sh informatics",
+    "trackedAssets": 11214,
+    "changedUploads": 26,
+    "result": "completed",
+    "allExistingPreflightsPassed": true,
+    "logSHA256": "987969d29b08f9c08b7cac1443ca4e851b4b6eace6922fd71440cf395c372b8f"
+  },
+  "staticVerification": {
+    "coordinateChecksums": 8,
+    "solidEdgeLengthsAndCounts": true,
+    "rigidTransformInvariance": true,
+    "odomPhiRatio": true,
+    "phiSpherePoints": 89,
+    "diffCheck": true
+  },
+  "browser": {
+    "passed": true,
+    "live": true,
+    "processMuted": true,
+    "nativeFullscreen": false,
+    "results": [
+      {
+        "viewport": {
+          "width": 1470,
+          "height": 956
+        },
+        "structures": [
+          {
+            "target": "OXTR",
+            "pdb": "7QVM",
+            "observed": 250,
+            "visiblePixels": 894
+          },
+          {
+            "target": "SLC6A4",
+            "pdb": "5I6X",
+            "observed": 544,
+            "visiblePixels": 819
+          },
+          {
+            "target": "DRD2",
+            "pdb": "6CM4",
+            "observed": 423,
+            "visiblePixels": 749
+          },
+          {
+            "target": "NMDA",
+            "pdb": "9IYQ",
+            "observed": 781,
+            "visiblePixels": 1040
+          },
+          {
+            "target": "IL6",
+            "pdb": "1ALU",
+            "observed": 157,
+            "visiblePixels": 798
+          },
+          {
+            "target": "NR3C1",
+            "pdb": "1M2Z",
+            "observed": 255,
+            "visiblePixels": 858
+          },
+          {
+            "target": "DOCK2",
+            "pdb": "6TGB",
+            "observed": 1450,
+            "visiblePixels": 586
+          },
+          {
+            "target": "CD38",
+            "pdb": "1YH3",
+            "observed": 252,
+            "visiblePixels": 587
+          }
+        ],
+        "representations": 3,
+        "geometryModes": [
+          "tetrahedron",
+          "cube",
+          "octahedron",
+          "dodecahedron",
+          "icosahedron",
+          "stellated",
+          "odom",
+          "phi"
+        ],
+        "odomRatio": 1.618033989,
+        "cameraDrag": true,
+        "cameraKeyboard": true,
+        "sequenceSelection": true,
+        "downloads": true,
+        "rapidTargetChanges": true
+      },
+      {
+        "viewport": {
+          "width": 1024,
+          "height": 768
+        },
+        "noOverflow": true,
+        "targetSwitch": true,
+        "evidencePanel": true
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "noOverflow": true,
+        "targetSwitch": true,
+        "evidencePanel": true
+      },
+      {
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "noOverflow": true,
+        "targetSwitch": true,
+        "evidencePanel": true
+      },
+      {
+        "failedRequestShowsError": true,
+        "retryRecovers": true
+      }
+    ]
+  },
+  "entryPaths": {
+    "passed": true,
+    "live": true,
+    "processMuted": true,
+    "nativeFullscreen": false,
+    "results": [
+      {
+        "viewport": {
+          "width": 1470,
+          "height": 956
+        },
+        "landingLink": true,
+        "headerEntry": true,
+        "menuEntry": true,
+        "dnaEvidenceLink": true,
+        "closeAndEscape": true,
+        "focusRestored": true,
+        "underlyingMediaElementPreserved": true
+      },
+      {
+        "viewport": {
+          "width": 390,
+          "height": 844
+        },
+        "landingLink": true,
+        "headerEntry": false,
+        "menuEntry": true,
+        "dnaEvidenceLink": true,
+        "closeAndEscape": true,
+        "focusRestored": true,
+        "underlyingMediaElementPreserved": true
+      },
+      {
+        "viewport": {
+          "width": 320,
+          "height": 844
+        },
+        "landingLink": true,
+        "headerEntry": false,
+        "menuEntry": true,
+        "dnaEvidenceLink": true,
+        "closeAndEscape": true,
+        "focusRestored": true,
+        "underlyingMediaElementPreserved": true
+      }
+    ]
+  },
+  "httpIntegrity": {
+    "verifiedAt": "2026-10-21T07:04:23Z",
+    "sourceCommit": "0b482a1461f58079bca18e133be2ff0779eecf7f",
+    "passed": true,
+    "assets": [
+      {
+        "path": "Informatics/index.html",
+        "url": "https://staging.universalmind.tv/informatics/index.html",
+        "status": 200,
+        "bytes": 23968,
+        "rawSHA256": "7465bd876943cd20efe04a4f9802fdab27b7c03cec73f06f0f033ce7e3375049",
+        "sourceSHA256": "8b07387d6792a0df8b8afa58e6399f9b3bb544d8200243c56a8fcf8aa9b609e6",
+        "hostInjectedAnalyticsScripts": 1,
+        "contentType": "text/html",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular-entry.css",
+        "url": "https://staging.universalmind.tv/informatics/molecular-entry.css",
+        "status": 200,
+        "bytes": 731,
+        "rawSHA256": "ee6dcc633ece507ba3ae51fa4ed826d316e4183f3d760230d4180c2dce81da7f",
+        "sourceSHA256": "ee6dcc633ece507ba3ae51fa4ed826d316e4183f3d760230d4180c2dce81da7f",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/css",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular-entry.js",
+        "url": "https://staging.universalmind.tv/informatics/molecular-entry.js",
+        "status": 200,
+        "bytes": 1520,
+        "rawSHA256": "45065fa1ee89319cf85ef4e30597524df7fda79f815100e1993c3239ef2ca1e3",
+        "sourceSHA256": "45065fa1ee89319cf85ef4e30597524df7fda79f815100e1993c3239ef2ca1e3",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/javascript",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/atlas.css",
+        "url": "https://staging.universalmind.tv/informatics/molecular/atlas.css",
+        "status": 200,
+        "bytes": 15971,
+        "rawSHA256": "d64e5d45e0d1b75ce53561e812f9d8e9aa56dedd463eaa22074c23817ce05baf",
+        "sourceSHA256": "d64e5d45e0d1b75ce53561e812f9d8e9aa56dedd463eaa22074c23817ce05baf",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/css",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/atlas.js",
+        "url": "https://staging.universalmind.tv/informatics/molecular/atlas.js",
+        "status": 200,
+        "bytes": 15532,
+        "rawSHA256": "eb542202c78c0bc6d2bc8421aa8935522ff9554895433d11429166e67828b56c",
+        "sourceSHA256": "eb542202c78c0bc6d2bc8421aa8935522ff9554895433d11429166e67828b56c",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/javascript",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/data/1alu.bcif",
+        "url": "https://staging.universalmind.tv/informatics/molecular/data/1alu.bcif",
+        "status": 200,
+        "bytes": 237652,
+        "rawSHA256": "2b3f9bf4c873316e8d6300941dd0f741cda37b9104f6e4e7acb47255e824c03e",
+        "sourceSHA256": "2b3f9bf4c873316e8d6300941dd0f741cda37b9104f6e4e7acb47255e824c03e",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/data/1m2z.bcif",
+        "url": "https://staging.universalmind.tv/informatics/molecular/data/1m2z.bcif",
+        "status": 200,
+        "bytes": 393526,
+        "rawSHA256": "b85290f126ed2220beb5907b59d9311239a8a9e79d4ad28ff6da7328b445bd10",
+        "sourceSHA256": "b85290f126ed2220beb5907b59d9311239a8a9e79d4ad28ff6da7328b445bd10",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/data/1yh3.bcif",
+        "url": "https://staging.universalmind.tv/informatics/molecular/data/1yh3.bcif",
+        "status": 200,
+        "bytes": 395771,
+        "rawSHA256": "067d78c80288a67a7437ccdb7422e67e0a8fbc11288993c09079198b21633632",
+        "sourceSHA256": "067d78c80288a67a7437ccdb7422e67e0a8fbc11288993c09079198b21633632",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/data/5i6x.bcif",
+        "url": "https://staging.universalmind.tv/informatics/molecular/data/5i6x.bcif",
+        "status": 200,
+        "bytes": 992649,
+        "rawSHA256": "29b8d278efa9ed9a9c5a64ea72718e84a6563dda26a7b978d71c7520cadecf61",
+        "sourceSHA256": "29b8d278efa9ed9a9c5a64ea72718e84a6563dda26a7b978d71c7520cadecf61",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/data/6cm4.bcif",
+        "url": "https://staging.universalmind.tv/informatics/molecular/data/6cm4.bcif",
+        "status": 200,
+        "bytes": 530239,
+        "rawSHA256": "4ef8156b7a0ce71b4c012b8979b6f1ec051173456c4322c329a338393e534daa",
+        "sourceSHA256": "4ef8156b7a0ce71b4c012b8979b6f1ec051173456c4322c329a338393e534daa",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/data/6tgb.bcif",
+        "url": "https://staging.universalmind.tv/informatics/molecular/data/6tgb.bcif",
+        "status": 200,
+        "bytes": 1146986,
+        "rawSHA256": "6a42f297e03f533faa40bc6f5bbec85024395b3391c37634e38067deaec0d367",
+        "sourceSHA256": "6a42f297e03f533faa40bc6f5bbec85024395b3391c37634e38067deaec0d367",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/data/7qvm.bcif",
+        "url": "https://staging.universalmind.tv/informatics/molecular/data/7qvm.bcif",
+        "status": 200,
+        "bytes": 604673,
+        "rawSHA256": "9df96fcec74a5008a318b50311b95a9faa814126517460c9732414c3190f4242",
+        "sourceSHA256": "9df96fcec74a5008a318b50311b95a9faa814126517460c9732414c3190f4242",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/data/9iyq.bcif",
+        "url": "https://staging.universalmind.tv/informatics/molecular/data/9iyq.bcif",
+        "status": 200,
+        "bytes": 1321787,
+        "rawSHA256": "ed7a363d615476ca41fb7158e55de9e59775fd9488bcce42eaf3be87485f59ca",
+        "sourceSHA256": "ed7a363d615476ca41fb7158e55de9e59775fd9488bcce42eaf3be87485f59ca",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/data/catalogue.json",
+        "url": "https://staging.universalmind.tv/informatics/molecular/data/catalogue.json",
+        "status": 200,
+        "bytes": 28827,
+        "rawSHA256": "52fe47c82c28997bd15ba7ed59e8643125546fa38242d80f6c7d7c8da597c04c",
+        "sourceSHA256": "52fe47c82c28997bd15ba7ed59e8643125546fa38242d80f6c7d7c8da597c04c",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "application/json",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/index.html",
+        "url": "https://staging.universalmind.tv/informatics/molecular/index.html",
+        "status": 200,
+        "bytes": 7432,
+        "rawSHA256": "96629bb67f639a8ff07f189d256d8e3eac5b18739a8e75d9614c893c117dc125",
+        "sourceSHA256": "27efcd11baea568948d8983e71fa1791a1f6c3dc40c46578c63778043b28caac",
+        "hostInjectedAnalyticsScripts": 1,
+        "contentType": "text/html",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/thumbnails/cd38.png",
+        "url": "https://staging.universalmind.tv/informatics/molecular/thumbnails/cd38.png",
+        "status": 200,
+        "bytes": 49765,
+        "rawSHA256": "773cff65b575e4c034c1ee40bee59bd7025187367fb1220a56d5599e971111e4",
+        "sourceSHA256": "773cff65b575e4c034c1ee40bee59bd7025187367fb1220a56d5599e971111e4",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "image/png",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/thumbnails/dock2.png",
+        "url": "https://staging.universalmind.tv/informatics/molecular/thumbnails/dock2.png",
+        "status": 200,
+        "bytes": 69187,
+        "rawSHA256": "a03c836fb059f9f7fa39bc7031f52fc44bead17a658bb08e39f649176d3b942d",
+        "sourceSHA256": "a03c836fb059f9f7fa39bc7031f52fc44bead17a658bb08e39f649176d3b942d",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "image/png",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/thumbnails/drd2.png",
+        "url": "https://staging.universalmind.tv/informatics/molecular/thumbnails/drd2.png",
+        "status": 200,
+        "bytes": 60602,
+        "rawSHA256": "ef293bbeb9d6d13c21ace84a5041b531c718884e70d922c350266ec558fc81b2",
+        "sourceSHA256": "ef293bbeb9d6d13c21ace84a5041b531c718884e70d922c350266ec558fc81b2",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "image/png",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/thumbnails/il6.png",
+        "url": "https://staging.universalmind.tv/informatics/molecular/thumbnails/il6.png",
+        "status": 200,
+        "bytes": 55694,
+        "rawSHA256": "9d62e459ce1d355f29f3998b80861ec65e82d08d9f98bfd8a6aa60f96ff39eea",
+        "sourceSHA256": "9d62e459ce1d355f29f3998b80861ec65e82d08d9f98bfd8a6aa60f96ff39eea",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "image/png",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/thumbnails/nmda.png",
+        "url": "https://staging.universalmind.tv/informatics/molecular/thumbnails/nmda.png",
+        "status": 200,
+        "bytes": 98396,
+        "rawSHA256": "dca09e09aed799b6cf74cdf5bdda787316e1e4c2ce4b30fa5597b36d271d25cb",
+        "sourceSHA256": "dca09e09aed799b6cf74cdf5bdda787316e1e4c2ce4b30fa5597b36d271d25cb",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "image/png",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/thumbnails/nr3c1.png",
+        "url": "https://staging.universalmind.tv/informatics/molecular/thumbnails/nr3c1.png",
+        "status": 200,
+        "bytes": 69772,
+        "rawSHA256": "8c33114bc1b4004e81360af6cc45d13933b03976e4870e623d5a93a2e7810e41",
+        "sourceSHA256": "8c33114bc1b4004e81360af6cc45d13933b03976e4870e623d5a93a2e7810e41",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "image/png",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/thumbnails/oxtr.png",
+        "url": "https://staging.universalmind.tv/informatics/molecular/thumbnails/oxtr.png",
+        "status": 200,
+        "bytes": 59165,
+        "rawSHA256": "d2a352e382944d7cf1ef18cb883eeb5ee9873a79a2412de7ddeea23ca52e7d94",
+        "sourceSHA256": "d2a352e382944d7cf1ef18cb883eeb5ee9873a79a2412de7ddeea23ca52e7d94",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "image/png",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/thumbnails/slc6a4.png",
+        "url": "https://staging.universalmind.tv/informatics/molecular/thumbnails/slc6a4.png",
+        "status": 200,
+        "bytes": 67076,
+        "rawSHA256": "929f419f36dfa90c301c6a705bf93d55d1be21f2ce60813d07c6d0a0ad48d8c4",
+        "sourceSHA256": "929f419f36dfa90c301c6a705bf93d55d1be21f2ce60813d07c6d0a0ad48d8c4",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "image/png",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/vendor/LICENSE-Molstar.txt",
+        "url": "https://staging.universalmind.tv/informatics/molecular/vendor/LICENSE-Molstar.txt",
+        "status": 200,
+        "bytes": 1088,
+        "rawSHA256": "aa42900c6ea7bfcf22d25a4c369025e01a526c66501fd9193f9a8aecee7a0753",
+        "sourceSHA256": "aa42900c6ea7bfcf22d25a4c369025e01a526c66501fd9193f9a8aecee7a0753",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/plain",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/vendor/NOTICE.txt",
+        "url": "https://staging.universalmind.tv/informatics/molecular/vendor/NOTICE.txt",
+        "status": 200,
+        "bytes": 419,
+        "rawSHA256": "2fb16a763647a50bef87176cf1ac1390b1c55b99a2cccceb09bb9d1bf5774a89",
+        "sourceSHA256": "2fb16a763647a50bef87176cf1ac1390b1c55b99a2cccceb09bb9d1bf5774a89",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/plain",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/molecular/vendor/engine.js",
+        "url": "https://staging.universalmind.tv/informatics/molecular/vendor/engine.js",
+        "status": 200,
+        "bytes": 3138219,
+        "rawSHA256": "33b67eafa2cc5abf41a4ccf200a6b01b01ccca1bcae7615cb72a6531b9992f6b",
+        "sourceSHA256": "33b67eafa2cc5abf41a4ccf200a6b01b01ccca1bcae7615cb72a6531b9992f6b",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/javascript",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/app.js",
+        "url": "https://staging.universalmind.tv/informatics/app.js",
+        "status": 200,
+        "bytes": 14802,
+        "rawSHA256": "98116dff0ed4d8a71509284c423fa4507b0ccc3e1f87b7f9414f8421facd6865",
+        "sourceSHA256": "98116dff0ed4d8a71509284c423fa4507b0ccc3e1f87b7f9414f8421facd6865",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/javascript",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/library-launcher.js",
+        "url": "https://staging.universalmind.tv/informatics/library-launcher.js",
+        "status": 200,
+        "bytes": 7775,
+        "rawSHA256": "e30972a1288175cffd2e179bb730d4f2d0b808959bbf601766d5face9599fa1a",
+        "sourceSHA256": "e30972a1288175cffd2e179bb730d4f2d0b808959bbf601766d5face9599fa1a",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/javascript",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/library.html",
+        "url": "https://staging.universalmind.tv/informatics/library.html",
+        "status": 200,
+        "bytes": 7650,
+        "rawSHA256": "4790c07c42e4952f780f62f954d12dd683f3c90ef97507deebe7b4ef46774bba",
+        "sourceSHA256": "dc24e43a42e2d89d8f12c05bb216e4d3683fe4877ee77a39022329f1ca43c34b",
+        "hostInjectedAnalyticsScripts": 1,
+        "contentType": "text/html",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/library.js",
+        "url": "https://staging.universalmind.tv/informatics/library.js",
+        "status": 200,
+        "bytes": 18310,
+        "rawSHA256": "3da737a1f1c7820d0e8cd78194b19950ca3ca185cba609befed52f423648b321",
+        "sourceSHA256": "3da737a1f1c7820d0e8cd78194b19950ca3ca185cba609befed52f423648b321",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "text/javascript",
+        "matchesCommittedSource": true
+      },
+      {
+        "path": "Informatics/library-data/library.json",
+        "url": "https://staging.universalmind.tv/informatics/library-data/library.json",
+        "status": 200,
+        "bytes": 2943828,
+        "rawSHA256": "07455efb6272395f4861410c5a6ff4e3278bd0b213afb0efeee25faf32a086a1",
+        "sourceSHA256": "07455efb6272395f4861410c5a6ff4e3278bd0b213afb0efeee25faf32a086a1",
+        "hostInjectedAnalyticsScripts": 0,
+        "contentType": "application/json",
+        "matchesCommittedSource": true
+      }
+    ]
+  },
+  "screenshots": [
+    {
+      "path": "research/informatics/molecular-atlas-proof-20261021/structure-1470.png",
+      "sha256": "bd2f023cef904fbc44c56422f31780f837f5c5f6dcd487186c7ca392317d202c",
+      "visuallyReviewed": true
+    },
+    {
+      "path": "research/informatics/molecular-atlas-proof-20261021/structure-390.png",
+      "sha256": "8280963f4d1215574eab878f0924735706350386cbffd2c93048ee11a4eb2a11",
+      "visuallyReviewed": true
+    },
+    {
+      "path": "research/informatics/molecular-atlas-proof-20261021/odom-1470.png",
+      "sha256": "c7255c9d312c738dd2bfe916116eb9bfa258f3dfc7b6dfe414a38261fd452150",
+      "visuallyReviewed": true
+    },
+    {
+      "path": "research/informatics/molecular-atlas-proof-20261021/collection-1470.png",
+      "sha256": "18492ddf8e29adf4b763fada2ccf40724031f4f40102af4c3830248304723f28",
+      "visuallyReviewed": false
+    }
+  ],
+  "scientificScope": [
+    "Deposited experimental structures and explicit source accessions; engineered constructs, partial domains and missing coordinates are disclosed.",
+    "NMDA view uses a human GRIN1/GRIN2B structure, one receptor composition.",
+    "Geometry is exploratory; Odom uses four exact planar copies on tetrahedron faces. No biological fit is asserted."
+  ],
+  "verificationLimits": [
+    "Viewport sizing replaces native fullscreen during automated tests.",
+    "Media continuity checks preserve the existing element and source; no subjective audio assessment.",
+    "Host-injected analytics scripts and their added newline are removed only for HTML source checksum comparison; raw response hashes are retained."
+  ]
+}

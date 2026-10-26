@@ -1,0 +1,32 @@
+{
+  "status": "verified_on_staging",
+  "verified_at_utc": "2026-10-18T06:03:15.707447+00:00",
+  "source_commit": "548141861f2a60e1f6fb6b5c89cfcf16213bd81f",
+  "staging_url": "https://staging.universalmind.tv/informatics/?atlas=1&record=m-summary",
+  "records": 1001,
+  "m9_family_records": 111,
+  "new_records": 953,
+  "notion_records": 1001,
+  "notion_assessment_rows": 3003,
+  "research_register_publications": 14,
+  "hero_references": 4,
+  "checks": {
+    "python": "python-validation.json",
+    "wolfram": "../../../../Informatics/pilot-v1/m1001-verification.json",
+    "notion": "notion-validation.json",
+    "live_http": "http-staging.json",
+    "live_browser": "browser-staging.json",
+    "about_lightboxes": "about-staging.json"
+  },
+  "native_m9_views": [
+    "Alpha",
+    "Beta",
+    "Gamma",
+    "Epsilon"
+  ],
+  "dropdown_first": "M family",
+  "subsequent_records": "M1 to M1001 in numeric order",
+  "staging_transport": "Existing Panthur FTP scripts, reused control connection",
+  "production_modified": false,
+  "production_main_commit": "de3b34f0ed9abdd5ac2e7c1778b16320e2876b7b"
+}

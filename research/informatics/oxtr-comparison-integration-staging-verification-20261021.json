@@ -1,0 +1,482 @@
+{
+  "verified_at": "2026-10-20T18:49:35.381580+00:00",
+  "url": "https://staging.universalmind.tv/informatics/?atlas=1&record=fibonacci-m9-p24",
+  "source_commit": "51b2e0f781bd50b3d1decfc0be819ceeadfffd23",
+  "full_journey_source_commit": "25ad50c1",
+  "final_patch": "One scroll-margin setting and matching asset version tokens; direct links and header clearance retested after the final deployment.",
+  "base_staging_commit": "54acd7e75c6fb91e490edd5ca10308139ad3813d",
+  "change": "All 128 Studies observations participate in DNA line, full-circle and M9 comparison. Literature filters use overlapping evidence categories and explicitly identify DNA species.",
+  "study_observations": {
+    "total": 128,
+    "sequence_elements": 2,
+    "braintf_regions": 126,
+    "source_intervals_unchanged": true,
+    "protein_targets_in_braintf": 43,
+    "brain_contexts": 13
+  },
+  "literature": {
+    "total_records": 45,
+    "publications": 26,
+    "human_dna_records": 28,
+    "animal_dna_records": 17,
+    "human_binding_evidence_records": 12,
+    "human_laboratory_tested_records": 20,
+    "animal_binding_evidence_records": 7,
+    "animal_laboratory_tested_records": 17,
+    "filter_categories_overlap": true,
+    "animal_coordinates_projected_to_human_reference": false,
+    "unresolved_legacy_coordinates_remain_unresolved": true
+  },
+  "scientific_boundary": "Regional occupancy is distinct from a resolved sequence element. Region centres are plotting representatives. Coordinate verification does not establish geometric prediction of binding.",
+  "verification": {
+    "geometry": {
+      "candidate": false,
+      "results": [
+        {
+          "viewport": {
+            "width": 1440,
+            "height": 1000
+          },
+          "combinations": 36,
+          "blend_states_per_combination": 2,
+          "source_definitions_prominent": true,
+          "binding_outcomes_and_exports": true,
+          "side_by_side": true,
+          "controls_and_complete_graphs_fit": true,
+          "legend_matches_marks": true,
+          "blend_default_off": true,
+          "selection_deliberate": true,
+          "encode_empty_bins": 41,
+          "source_counts": {
+            "studies": 128,
+            "encode": 255,
+            "jaspar": 9164
+          },
+          "retry": true,
+          "exports": [
+            "json",
+            "csv",
+            "svg",
+            "png"
+          ],
+          "keyboard": true,
+          "overflow": false,
+          "media_context_preserved": true,
+          "errors": []
+        },
+        {
+          "viewport": {
+            "width": 1366,
+            "height": 768
+          },
+          "combinations": 36,
+          "blend_states_per_combination": 2,
+          "source_definitions_prominent": true,
+          "binding_outcomes_and_exports": true,
+          "side_by_side": true,
+          "controls_and_complete_graphs_fit": true,
+          "legend_matches_marks": true,
+          "blend_default_off": true,
+          "selection_deliberate": true,
+          "encode_empty_bins": 41,
+          "source_counts": {
+            "studies": 128,
+            "encode": 255,
+            "jaspar": 9164
+          },
+          "retry": true,
+          "exports": [
+            "json",
+            "csv",
+            "svg",
+            "png"
+          ],
+          "keyboard": true,
+          "overflow": false,
+          "media_context_preserved": true,
+          "errors": []
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "combinations": 36,
+          "blend_states_per_combination": 2,
+          "source_definitions_prominent": true,
+          "binding_outcomes_and_exports": true,
+          "side_by_side": true,
+          "controls_and_complete_graphs_fit": false,
+          "legend_matches_marks": true,
+          "blend_default_off": true,
+          "selection_deliberate": true,
+          "encode_empty_bins": 41,
+          "source_counts": {
+            "studies": 128,
+            "encode": 255,
+            "jaspar": 9164
+          },
+          "retry": true,
+          "exports": [
+            "json",
+            "csv",
+            "svg",
+            "png"
+          ],
+          "keyboard": true,
+          "overflow": false,
+          "media_context_preserved": true,
+          "errors": []
+        }
+      ]
+    },
+    "catalogue": {
+      "passed": true,
+      "candidate": false,
+      "processMuted": true,
+      "results": [
+        {
+          "viewport": {
+            "width": 1440,
+            "height": 1000
+          },
+          "transcriptionTeachingAndFocus": true,
+          "teachingGraphicLoaded": true,
+          "teachingZoomAndGlossary": true,
+          "nestedTeachingEscapeAndFocus": true,
+          "dataExplorer": true,
+          "overlappingEvidenceFilters": true,
+          "all18FilterCombinations": true,
+          "selectedExportMatchesFilter": true,
+          "originalLabelsPreserved": true,
+          "filters": true,
+          "retryAfterFailure": true,
+          "keyboardAndOutsideClose": true,
+          "escapeAndFocus": true,
+          "summaryAndSidebar": true,
+          "aboutNestedLightbox": true,
+          "fullscreenStatePreserved": true,
+          "mediaStatePreserved": true,
+          "downloadsMatched": true,
+          "errors": []
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "transcriptionTeachingAndFocus": true,
+          "teachingGraphicLoaded": true,
+          "teachingZoomAndGlossary": true,
+          "nestedTeachingEscapeAndFocus": true,
+          "dataExplorer": true,
+          "overlappingEvidenceFilters": true,
+          "all18FilterCombinations": true,
+          "selectedExportMatchesFilter": true,
+          "originalLabelsPreserved": true,
+          "filters": true,
+          "retryAfterFailure": true,
+          "keyboardAndOutsideClose": true,
+          "escapeAndFocus": true,
+          "summaryAndSidebar": true,
+          "aboutNestedLightbox": true,
+          "fullscreenStatePreserved": true,
+          "mediaStatePreserved": true,
+          "downloadsMatched": false,
+          "errors": []
+        }
+      ]
+    },
+    "partners": [
+      {
+        "width": 1440,
+        "passed": true
+      },
+      {
+        "width": 1024,
+        "passed": true
+      },
+      {
+        "width": 390,
+        "passed": true
+      },
+      {
+        "width": 320,
+        "passed": true
+      }
+    ],
+    "direct_literature_links": [
+      {
+        "width": 1440,
+        "heading_clear_of_fixed_header": true,
+        "literature_binding_records": 12,
+        "direct_link_occupancy_records": 126,
+        "all_studies_restored": 128
+      },
+      {
+        "width": 390,
+        "heading_clear_of_fixed_header": true,
+        "literature_binding_records": 12,
+        "direct_link_occupancy_records": 126,
+        "all_studies_restored": 128
+      }
+    ],
+    "assets": [
+      {
+        "file": "Informatics/index.html",
+        "status": 200,
+        "bytes": 20783,
+        "sha256": "5a37c0f2bb34105594d87a6eafa0cb44751c84b08009213887c5424415139689",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/M1-M1001-CSV-README.txt",
+        "status": 200,
+        "bytes": 3799,
+        "sha256": "7574bda186fbe075bfa13ecc6ccbff5f27ed0d82f17054cd04b125e8942b2a70",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/M1-M1001-README.txt",
+        "status": 200,
+        "bytes": 2472,
+        "sha256": "79cc1b745df76abc6d7597d7a2205d2f1e3c33cf6e23f54e90581ce4c1d95636",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/csv-shared/dataset.csv",
+        "status": 200,
+        "bytes": 557111,
+        "sha256": "f9651c98fdbc4375428fe06fa5d70ddf0b3b85c4d56ef0b7643e8776a7b1e08d",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/csv-shared/index.csv",
+        "status": 200,
+        "bytes": 423279,
+        "sha256": "e1f823d8fa8f3cc34d78d8f6aaa6ec0f91673ca3ce473dae9e2d3ee6d916cb8a",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/csv-shared/m1-m1001.csv",
+        "status": 200,
+        "bytes": 557111,
+        "sha256": "f9651c98fdbc4375428fe06fa5d70ddf0b3b85c4d56ef0b7643e8776a7b1e08d",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/dataset.json",
+        "status": 200,
+        "bytes": 267564,
+        "sha256": "6b6f35f88ed053a169fb5aca80376df9ad57ba39e9fbcf49e19394da6aa6362c",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/index.json",
+        "status": 200,
+        "bytes": 215476,
+        "sha256": "5f4f02bbb0158239771a777d3b47320ff99bb6557a38ef5e08a9b4eecb0edecb",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/m1-m1001-csv.zip",
+        "status": 200,
+        "bytes": 86918550,
+        "sha256": "c7eae0620a7630eaaf02c988e65bfd9c7dda0b0e38569425f473d956c26e4a04",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/m1-m1001-data.zip",
+        "status": 200,
+        "bytes": 59614735,
+        "sha256": "20bf493aed3824f2896fc0e05583f42bbeed0836403dbc77b441b39801224ebd",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/m1-m1001.json",
+        "status": 200,
+        "bytes": 267564,
+        "sha256": "6b6f35f88ed053a169fb5aca80376df9ad57ba39e9fbcf49e19394da6aa6362c",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/catalogue-fields.csv",
+        "status": 200,
+        "bytes": 148500,
+        "sha256": "53777639f69958daac35d6317e5db3787b2d8461c80ed6f21bf68fdd41ab5773",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/catalogue.json",
+        "status": 200,
+        "bytes": 98607,
+        "sha256": "b6ce77e87264fd47d4ef4767bf0a8acf4c79b78a92d8396de11997c004c95056",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/build_experiment.py",
+        "status": 200,
+        "bytes": 12875,
+        "sha256": "c4ae017479d67d3636fd369e859a8f797329e88780f4d2186c807f6c26d3d488",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/display-audit-fields.csv",
+        "status": 200,
+        "bytes": 4175,
+        "sha256": "9e02ca94c173cf5d197c799be1e00196cf817c59724084511d5aa661a65e0d5e",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/display-audit.json",
+        "status": 200,
+        "bytes": 5271,
+        "sha256": "8f8c010693d31d1a591b609b04c31f6a38189be32620dbabe52ff13da8b75f0c",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/manifest-fields.csv",
+        "status": 200,
+        "bytes": 5716,
+        "sha256": "a8bf116add5c60c1bb3a05473ef2473942eb2c7e79678f6a13092feac70e3cf6",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/manifest.json",
+        "status": 200,
+        "bytes": 5324,
+        "sha256": "ec75fa1660b02439ec85ba2a43a57fd34b050a295ef77a94adddbe5e26621dd9",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/methods.md",
+        "status": 200,
+        "bytes": 9218,
+        "sha256": "cc988472f22a1d800b679bfa3fce7267a9be5dc7a3c24e8a75de03777576e48e",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/python-validation-fields.csv",
+        "status": 200,
+        "bytes": 1229,
+        "sha256": "3b03c84e528cd18db12ab7fbafe6205adc89eeef0867bfecce294cd1c92f3cce",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/python-validation.json",
+        "status": 200,
+        "bytes": 1143,
+        "sha256": "3f00182063f5fd4d3c2f582acaf3237593e9c67d99ec57a0f8b6cabf4c002069",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/studies.csv",
+        "status": 200,
+        "bytes": 265372,
+        "sha256": "ce4c7e9f8cffc926e3db85b09a2934e238c3f9eb29ff95fc0dda19a1ed6deffc",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/studies.json",
+        "status": 200,
+        "bytes": 301847,
+        "sha256": "73b83ada4f22caf94c4d039490594d1bd8a84b4c2c41e9801df76261943490d3",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/file-manifest.csv",
+        "status": 200,
+        "bytes": 9829,
+        "sha256": "13acfe8ad75b7e4ab83cd307c0d173b4de4582dc7b00c9ec3a32b5ad98f958ef",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/mapped-binding-outcomes.csv",
+        "status": 200,
+        "bytes": 4476976,
+        "sha256": "ee09ec0b498707e6f09d5a5475d9d793aacaa3fbdc9ca2e36e94e4d5f5709b88",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/mapped-binding-outcomes.json",
+        "status": 200,
+        "bytes": 6242781,
+        "sha256": "bbb3499a6e566464a7e54c7981df4a0859e4807d8c68e5b227f378324f74653f",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/oxtr-tfbs-csv.zip",
+        "status": 200,
+        "bytes": 13160753,
+        "sha256": "027058a0d75ab5b04c6ad8d5ae6db47d6a211cd78188af02b087939991eceac2",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/oxtr-tfbs-json.zip",
+        "status": 200,
+        "bytes": 15802905,
+        "sha256": "a7771b23bccd652fceaa63dc62df2c56062a81cda299f4a4ead01ba68768fc0f",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/README.txt",
+        "status": 200,
+        "bytes": 1123,
+        "sha256": "c7041015ae7024df19300b2d6e9254852151c55d0dd6b6e76bb64daa56959795",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/review-fields.csv",
+        "status": 200,
+        "bytes": 3921,
+        "sha256": "3d357764a4b2f79a92ecc278d4b432b6ccafab7ce64d955efb70ad4f0ce88f1c",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/review.json",
+        "status": 200,
+        "bytes": 3430,
+        "sha256": "45b455800d994b3925d8d2116ac5f18cfab625ab799e140c7b87d545ebadcb9a",
+        "match": true
+      },
+      {
+        "file": "Informatics/research.html",
+        "status": 200,
+        "bytes": 14606,
+        "sha256": "ff3e23ad2510cc2910ffe50e2ed40f0230cf13c406beb6b7e469fa93dd33a986",
+        "match": true
+      },
+      {
+        "file": "Informatics/science.js",
+        "status": 200,
+        "bytes": 59966,
+        "sha256": "eaf738de9f96d5eb5dadbd56a421b6fe9524dc62f5dd0b49a132869418b99809",
+        "match": true
+      },
+      {
+        "file": "Informatics/tfbs-geometry.js",
+        "status": 200,
+        "bytes": 47930,
+        "sha256": "4f45777d940dd515dd7decc3f314310996125ce952fe946edcbb22f981de443d",
+        "match": true
+      }
+    ],
+    "asset_count": 34,
+    "muted_chromium_process": true,
+    "native_fullscreen_invoked": false,
+    "visual_review": "Desktop source controls, mixed binding outcomes, BrainTF inspector and M9 plots reviewed. Mobile controls and comparison remain scrollable. Header clearance verified at 1440 and 390 pixels.",
+    "computational_checks": "All 9547 interval mappings, all 39248 offset positions, source hashes, Python/Biopython checks and archived Wolfram parity passed. JSON/CSV/archive consistency and BrainTF inclusion criteria passed."
+  },
+  "deployment": {
+    "method": "./deploy-panthur-staging.sh informatics",
+    "first_changed_uploads": 34,
+    "final_scroll_uploads": 4,
+    "both_exit_codes": 0,
+    "staging_manifest_sha256": "c2943d76f546bd1c118b39ee24aa01e170cc9816774b3cdd461b2ce0bc370d2b"
+  },
+  "production": {
+    "modified": false,
+    "publication_automation": "PAUSED",
+    "approval_requirement": "Ben reviews the corrected Studies build here and the finished Sound/Vision build in the other chat before combined publication."
+  }
+}

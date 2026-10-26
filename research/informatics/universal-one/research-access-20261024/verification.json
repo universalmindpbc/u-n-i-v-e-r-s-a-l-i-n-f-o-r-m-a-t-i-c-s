@@ -1,0 +1,757 @@
+{
+  "verifiedAt": "2026-10-24T01:09:53.638Z",
+  "sourceCommit": "6cd83fad",
+  "baseStagingCommit": "640859ac",
+  "productionUnchanged": "d82c7ae080a5236cd1029bd9605d7b4e3988feb4",
+  "safety": {
+    "processAudioDisabled": true,
+    "syntheticMicrophoneOnly": true,
+    "nativeFullscreenInvoked": false,
+    "browsersClosed": true
+  },
+  "greeting": "Hi. What research question can I help you with?",
+  "textWorkflowVerified": true,
+  "remoteAudioDecoded": true,
+  "sharedConversationAndVoiceRetained": true,
+  "microphoneReleased": true,
+  "topmostResearchHostVerified": true,
+  "layouts": [
+    {
+      "label": "research-desktop",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 115,
+        "y": 40,
+        "width": 1240,
+        "height": 920,
+        "top": 40,
+        "right": 1355,
+        "bottom": 960,
+        "left": 115
+      },
+      "planet": {
+        "x": 1258,
+        "y": 865,
+        "width": 72,
+        "height": 72,
+        "top": 865,
+        "right": 1330,
+        "bottom": 937,
+        "left": 1258
+      },
+      "panel": null,
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-text-desktop",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 115,
+        "y": 40,
+        "width": 1240,
+        "height": 920,
+        "top": 40,
+        "right": 1355,
+        "bottom": 960,
+        "left": 115
+      },
+      "planet": {
+        "x": 1258,
+        "y": 865,
+        "width": 72,
+        "height": 72,
+        "top": 865,
+        "right": 1330,
+        "bottom": 937,
+        "left": 1258
+      },
+      "panel": {
+        "x": 810,
+        "y": 207,
+        "width": 520,
+        "height": 620,
+        "top": 207,
+        "right": 1330,
+        "bottom": 827,
+        "left": 810
+      },
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-black",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 115,
+        "y": 40,
+        "width": 1240,
+        "height": 920,
+        "top": 40,
+        "right": 1355,
+        "bottom": 960,
+        "left": 115
+      },
+      "planet": {
+        "x": 1258,
+        "y": 865,
+        "width": 72,
+        "height": 72,
+        "top": 865,
+        "right": 1330,
+        "bottom": 937,
+        "left": 1258
+      },
+      "panel": {
+        "x": 810,
+        "y": 207,
+        "width": 520,
+        "height": 620,
+        "top": 207,
+        "right": 1330,
+        "bottom": 827,
+        "left": 810
+      },
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-white",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 115,
+        "y": 40,
+        "width": 1240,
+        "height": 920,
+        "top": 40,
+        "right": 1355,
+        "bottom": 960,
+        "left": 115
+      },
+      "planet": {
+        "x": 1258,
+        "y": 865,
+        "width": 72,
+        "height": 72,
+        "top": 865,
+        "right": 1330,
+        "bottom": 937,
+        "left": 1258
+      },
+      "panel": {
+        "x": 810,
+        "y": 207,
+        "width": 520,
+        "height": 620,
+        "top": 207,
+        "right": 1330,
+        "bottom": 827,
+        "left": 810
+      },
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(250, 251, 249)"
+    },
+    {
+      "label": "research-video",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 115,
+        "y": 40,
+        "width": 1240,
+        "height": 920,
+        "top": 40,
+        "right": 1355,
+        "bottom": 960,
+        "left": 115
+      },
+      "planet": {
+        "x": 1258,
+        "y": 865,
+        "width": 72,
+        "height": 72,
+        "top": 865,
+        "right": 1330,
+        "bottom": 937,
+        "left": 1258
+      },
+      "panel": {
+        "x": 810,
+        "y": 207,
+        "width": 520,
+        "height": 620,
+        "top": 207,
+        "right": 1330,
+        "bottom": 827,
+        "left": 810
+      },
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-text-1024",
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 20.484375,
+        "y": 23.046875,
+        "width": 983.03125,
+        "height": 721.90625,
+        "top": 23.046875,
+        "right": 1003.515625,
+        "bottom": 744.953125,
+        "left": 20.484375
+      },
+      "planet": {
+        "x": 906.515625,
+        "y": 649.953125,
+        "width": 72,
+        "height": 72,
+        "top": 649.953125,
+        "right": 978.515625,
+        "bottom": 721.953125,
+        "left": 906.515625
+      },
+      "panel": {
+        "x": 458.515625,
+        "y": 100.953125,
+        "width": 520,
+        "height": 511,
+        "top": 100.953125,
+        "right": 978.515625,
+        "bottom": 611.953125,
+        "left": 458.515625
+      },
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-text-390",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 7.796875,
+        "y": 21.09375,
+        "width": 374.390625,
+        "height": 801.796875,
+        "top": 21.09375,
+        "right": 382.1875,
+        "bottom": 822.890625,
+        "left": 7.796875
+      },
+      "planet": {
+        "x": 305.1875,
+        "y": 745.890625,
+        "width": 62,
+        "height": 62,
+        "top": 745.890625,
+        "right": 367.1875,
+        "bottom": 807.890625,
+        "left": 305.1875
+      },
+      "panel": {
+        "x": 23.1875,
+        "y": 90.890625,
+        "width": 344,
+        "height": 609,
+        "top": 90.890625,
+        "right": 367.1875,
+        "bottom": 699.890625,
+        "left": 23.1875
+      },
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-text-320",
+      "viewport": {
+        "width": 320,
+        "height": 700
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 6.40625,
+        "y": 17.5,
+        "width": 307.1875,
+        "height": 665,
+        "top": 17.5,
+        "right": 313.59375,
+        "bottom": 682.5,
+        "left": 6.40625
+      },
+      "planet": {
+        "x": 236.59375,
+        "y": 605.5,
+        "width": 62,
+        "height": 62,
+        "top": 605.5,
+        "right": 298.59375,
+        "bottom": 667.5,
+        "left": 236.59375
+      },
+      "panel": {
+        "x": 21.59375,
+        "y": 87.5,
+        "width": 277,
+        "height": 472,
+        "top": 87.5,
+        "right": 298.59375,
+        "bottom": 559.5,
+        "left": 21.59375
+      },
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-voice-desktop",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 115,
+        "y": 40,
+        "width": 1240,
+        "height": 920,
+        "top": 40,
+        "right": 1355,
+        "bottom": 960,
+        "left": 115
+      },
+      "planet": {
+        "x": 1258,
+        "y": 865,
+        "width": 72,
+        "height": 72,
+        "top": 865,
+        "right": 1330,
+        "bottom": 937,
+        "left": 1258
+      },
+      "panel": null,
+      "dock": {
+        "x": 1070,
+        "y": 835.203125,
+        "width": 176,
+        "height": 101.796875,
+        "top": 835.203125,
+        "right": 1246,
+        "bottom": 937,
+        "left": 1070
+      },
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-voice-390",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 7.796875,
+        "y": 21.09375,
+        "width": 374.390625,
+        "height": 801.796875,
+        "top": 21.09375,
+        "right": 382.1875,
+        "bottom": 822.890625,
+        "left": 7.796875
+      },
+      "planet": {
+        "x": 305.1875,
+        "y": 745.890625,
+        "width": 62,
+        "height": 62,
+        "top": 745.890625,
+        "right": 367.1875,
+        "bottom": 807.890625,
+        "left": 305.1875
+      },
+      "panel": null,
+      "dock": {
+        "x": 127.1875,
+        "y": 700.09375,
+        "width": 166,
+        "height": 107.796875,
+        "top": 700.09375,
+        "right": 293.1875,
+        "bottom": 807.890625,
+        "left": 127.1875
+      },
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-voice-320",
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 6.40625,
+        "y": 21.09375,
+        "width": 307.1875,
+        "height": 801.796875,
+        "top": 21.09375,
+        "right": 313.59375,
+        "bottom": 822.890625,
+        "left": 6.40625
+      },
+      "planet": {
+        "x": 236.59375,
+        "y": 745.890625,
+        "width": 62,
+        "height": 62,
+        "top": 745.890625,
+        "right": 298.59375,
+        "bottom": 807.890625,
+        "left": 236.59375
+      },
+      "panel": null,
+      "dock": {
+        "x": 58.59375,
+        "y": 700.09375,
+        "width": 166,
+        "height": 107.796875,
+        "top": 700.09375,
+        "right": 224.59375,
+        "bottom": 807.890625,
+        "left": 58.59375
+      },
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "atlas-after-research",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "",
+      "planet": {
+        "x": 1374,
+        "y": 906,
+        "width": 72,
+        "height": 72,
+        "top": 906,
+        "right": 1446,
+        "bottom": 978,
+        "left": 1374
+      },
+      "panel": null,
+      "dock": {
+        "x": 1186,
+        "y": 876.203125,
+        "width": 176,
+        "height": 101.796875,
+        "top": 876.203125,
+        "right": 1362,
+        "bottom": 978,
+        "left": 1186
+      },
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-reopened-during-voice",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 115,
+        "y": 40,
+        "width": 1240,
+        "height": 920,
+        "top": 40,
+        "right": 1355,
+        "bottom": 960,
+        "left": 115
+      },
+      "planet": {
+        "x": 1258,
+        "y": 865,
+        "width": 72,
+        "height": 72,
+        "top": 865,
+        "right": 1330,
+        "bottom": 937,
+        "left": 1258
+      },
+      "panel": null,
+      "dock": {
+        "x": 1070,
+        "y": 835.203125,
+        "width": 176,
+        "height": 101.796875,
+        "top": 835.203125,
+        "right": 1246,
+        "bottom": 937,
+        "left": 1070
+      },
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    },
+    {
+      "label": "research-from-network",
+      "viewport": {
+        "width": 1470,
+        "height": 1000
+      },
+      "parent": "library-overlay",
+      "host": {
+        "x": 115,
+        "y": 40,
+        "width": 1240,
+        "height": 920,
+        "top": 40,
+        "right": 1355,
+        "bottom": 960,
+        "left": 115
+      },
+      "planet": {
+        "x": 1258,
+        "y": 865,
+        "width": 72,
+        "height": 72,
+        "top": 865,
+        "right": 1330,
+        "bottom": 937,
+        "left": 1258
+      },
+      "panel": null,
+      "dock": null,
+      "hit": true,
+      "count": 1,
+      "panelBackground": "rgb(9, 17, 22)"
+    }
+  ],
+  "nestedChecks": [
+    {
+      "name": "research-from-network",
+      "parent": "library-overlay",
+      "hit": true,
+      "count": 1
+    },
+    {
+      "name": "research-paper-open",
+      "parent": "library-overlay",
+      "hit": true,
+      "count": 1
+    },
+    {
+      "name": "conversation-over-paper",
+      "parent": "library-overlay",
+      "hit": true,
+      "count": 1
+    },
+    {
+      "name": "returns-to-network",
+      "passed": true
+    },
+    {
+      "name": "standalone-library",
+      "parent": "",
+      "hit": true,
+      "count": 1
+    },
+    {
+      "name": "standalone-mobile",
+      "parent": "",
+      "hit": true,
+      "count": 1
+    }
+  ],
+  "requests": [
+    {
+      "path": "/research",
+      "status": 200,
+      "question": "Which studies in our Sound collection report gene-expression changes after recreational music making? Give a brief answer with sources.",
+      "context": {
+        "page": "/informatics/",
+        "area": "sound",
+        "atlas": {
+          "record": "fibonacci-m9-p24",
+          "view": ""
+        },
+        "library": {
+          "collection": "sound",
+          "chapter": "0",
+          "query": ""
+        }
+      }
+    },
+    {
+      "path": "/voice-session",
+      "status": 200
+    },
+    {
+      "path": "/v1/realtime/calls",
+      "status": 201
+    }
+  ],
+  "answer": {
+    "content": "The Sound collection includes these directly relevant studies:\n\n- **2005 — “Recreational music-making modulates the human stress response: a preliminary individualized gene expression strategy.”** Reported reversal of stress-induced gene-expression signatures. **IL6** changes occurred in both the music-making and resting-control groups, so that finding was not unique to music-making. [S1]\n\n- **2007 — “Recreational music-making modulates natural killer cell activity, cytokines, and mood states in corporate employees.”** Reported gene-expression changes involving **interferon-gamma and interleukin-10**, alongside improved mood. The retrieved record does not specify the direction or magnitude of those expression changes. [S2]\n\n- **2013 — “Recreational Music-Making alters gene expression pathways in patients with coronary heart disease.”** Reported gene-expression pathway changes; the authors suggested active music-making may alter expression more effectively than quiet reading. The approved record does not identify individual genes or effect sizes. [S3]\n\nAll appeared in *Medical Science Monitor*. These are specifically recreational music-making studies, rather than listening-only or professional-performance studies.",
+    "sources": [
+      {
+        "id": "pmid-15668624",
+        "title": "Recreational music-making modulates the human stress response: a preliminary individualized gene expression strategy",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15668624/"
+      },
+      {
+        "id": "pmid-17261984",
+        "title": "Recreational music-making modulates natural killer cell activity, cytokines, and mood states in corporate employees",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17261984/"
+      },
+      {
+        "id": "pmid-23435350",
+        "title": "Recreational Music-Making alters gene expression pathways in patients with coronary heart disease",
+        "url": "https://doi.org/10.12659/msm.883807"
+      }
+    ]
+  },
+  "budgetBefore": {
+    "visitors": {
+      "date": "2026-10-24",
+      "counts": {
+        "voice": 1
+      },
+      "limits": {
+        "research_question": 120,
+        "transcription": 60,
+        "speech": 60,
+        "voice": 20
+      },
+      "resetAt": "2026-10-25T00:00:00.000Z"
+    },
+    "verification": {
+      "date": "2026-10-24",
+      "counts": {},
+      "limits": {
+        "research_question": 120,
+        "transcription": 60,
+        "speech": 60,
+        "voice": 20
+      },
+      "resetAt": "2026-10-25T00:00:00.000Z"
+    }
+  },
+  "budgetAfter": {
+    "visitors": {
+      "date": "2026-10-24",
+      "counts": {
+        "voice": 1
+      },
+      "limits": {
+        "research_question": 120,
+        "transcription": 60,
+        "speech": 60,
+        "voice": 20
+      },
+      "resetAt": "2026-10-25T00:00:00.000Z"
+    },
+    "verification": {
+      "date": "2026-10-24",
+      "counts": {
+        "research_question": 1,
+        "voice": 1
+      },
+      "limits": {
+        "research_question": 120,
+        "transcription": 60,
+        "speech": 60,
+        "voice": 20
+      },
+      "resetAt": "2026-10-25T00:00:00.000Z"
+    }
+  },
+  "errors": [],
+  "assets": [
+    {
+      "file": "index.html",
+      "status": 200,
+      "matched": true,
+      "sha256": "0763366f76f76394072b0c00fa06e3bbabc4aa9032a3d52063ffc49abf7f3310"
+    },
+    {
+      "file": "library.html",
+      "status": 200,
+      "matched": true,
+      "sha256": "ad089ba90dd8e2525b1feaca56addfba5ccf6a92e3f7c122cefa0bfe31cf0086"
+    },
+    {
+      "file": "universal-one.js",
+      "status": 200,
+      "matched": true,
+      "sha256": "6de54e3d420cf79d4bfd58d6f1fb1134fdb45b1400efd2eb99833299e89e69bb"
+    },
+    {
+      "file": "universal-one-live.js",
+      "status": 200,
+      "matched": true,
+      "sha256": "e7230e117c0499253863b623ed30127abfeb244a501afffa98a13b4b3687fdd9"
+    },
+    {
+      "file": "universal-one.css",
+      "status": 200,
+      "matched": true,
+      "sha256": "89afff1e41f8505b9d8db9f6e7ebd5a3d7f33c78d80c0d430f1d394a15446eb1"
+    }
+  ],
+  "qaNotes": [
+    "The initial release used a data-library attribute that collided with the delegated launcher. It was removed in 6cd83fad before the successful real text and voice checks.",
+    "The main QA harness then halted at a hidden Search papers control in All research, which already opens in search mode. The harness selector was corrected; a separate continuation verified nested paper access, return to the network, and standalone desktop/mobile access without repeating the paid AI calls."
+  ],
+  "success": true
+}

@@ -1,0 +1,18 @@
+{
+  "datasetVersion": "d6f1ff781e6c37c30d6ee25e6079ca13cd7e8c81efd665a3ce0801ec3b9dc58c",
+  "files": [
+    {
+      "bytes": 32337,
+      "path": "d6f1ff781e6c37c30d6ee25e6079ca13cd7e8c81efd665a3ce0801ec3b9dc58c-study.csv",
+      "sha256": "45999ac5da67032010f3c043f9ee49b50d1a3d32f4c73b7087abee59bf3958dd"
+    },
+    {
+      "bytes": 23780,
+      "path": "d6f1ff781e6c37c30d6ee25e6079ca13cd7e8c81efd665a3ce0801ec3b9dc58c-study.json",
+      "sha256": "be204150e1fc3f9e0838f503415079ecbf9076594e2d5e9e172e8a16e36d8d0a"
+    }
+  ],
+  "reviewStatus": "retrospective_model_review_complete",
+  "schema": "universal-informatics/research-snapshot/v1",
+  "source": "https://universalmind.tv/informatics"
+}

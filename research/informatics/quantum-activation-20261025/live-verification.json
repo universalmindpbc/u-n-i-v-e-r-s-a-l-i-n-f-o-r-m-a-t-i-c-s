@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "at": "2026-10-25T01:36:36.860Z",
+  "process_audio_muted": true,
+  "real_openai_response": true,
+  "routing_status": "study_linked",
+  "all_eight_representations_selectable": true,
+  "both_windows_selectable": true,
+  "recorded_results_only": true,
+  "qualification_boundary_visible": true,
+  "hardware_status_from_receipts": true,
+  "quantum_comparison_complete": true,
+  "named_sequence_insights": true,
+  "nature_lightbox_keyboard_close": true,
+  "geometry_hypothesis_interactive": true,
+  "saved_study_restored": true,
+  "layouts": [
+    {
+      "width": 390,
+      "scroll": 390
+    },
+    {
+      "width": 320,
+      "scroll": 320
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,1280 @@
+{
+  "doi": "10.1038/s41467-024-45584-6",
+  "crossref": {
+    "indexed": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          10
+        ]
+      ],
+      "date-time": "2026-10-10T00:17:58Z",
+      "timestamp": 1791591478910,
+      "version": "4.3.4"
+    },
+    "reference-count": 63,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              2,
+              20
+            ]
+          ],
+          "date-time": "2024-02-20T00:00:00Z",
+          "timestamp": 1708387200000
+        },
+        "content-version": "tdm",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      },
+      {
+        "start": {
+          "date-parts": [
+            [
+              2024,
+              2,
+              20
+            ]
+          ],
+          "date-time": "2024-02-20T00:00:00Z",
+          "timestamp": 1708387200000
+        },
+        "content-version": "vor",
+        "delay-in-days": 0,
+        "URL": "https://creativecommons.org/licenses/by/4.0"
+      }
+    ],
+    "content-domain": {
+      "domain": [
+        "link.springer.com"
+      ],
+      "crossmark-restriction": false
+    },
+    "short-container-title": [
+      "Nat Commun"
+    ],
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The exploration of topologically-ordered states of matter is a long-standing goal at the interface of several subfields of the physical sciences. Such states feature intriguing physical properties such as long-range entanglement, emergent gauge fields and non-local correlations, and can aid in realization of scalable fault-tolerant quantum computation. However, these same features also make creation, detection, and characterization of topologically-ordered states particularly challenging. Motivated by recent experimental demonstrations, we introduce a paradigm for quantifying topological states\u2014locally error-corrected decoration (LED)\u2014by combining methods of error correction with ideas of renormalization-group flow. Our approach allows for efficient and robust identification of topological order, and is applicable in the presence of incoherent noise sources, making it particularly suitable for realistic experiments. We demonstrate the power of LED using numerical simulations of the toric code under a variety of perturbations. We subsequently apply it to an experimental realization, providing new insights into a quantum spin liquid created on a Rydberg-atom simulator. Finally, we extend LED to generic topological phases, including those with non-abelian order.</jats:p>",
+    "DOI": "10.1038/s41467-024-45584-6",
+    "type": "journal-article",
+    "created": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          20
+        ]
+      ],
+      "date-time": "2024-02-20T04:02:50Z",
+      "timestamp": 1708401770000
+    },
+    "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 25,
+    "title": [
+      "Enhancing detection of topological order by local error correction"
+    ],
+    "prefix": "10.1038",
+    "volume": "15",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-7706-5927",
+        "authenticated-orcid": false,
+        "given": "Iris",
+        "family": "Cong",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5775-9542",
+        "authenticated-orcid": false,
+        "given": "Nishad",
+        "family": "Maskara",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7599-9160",
+        "authenticated-orcid": false,
+        "given": "Minh C.",
+        "family": "Tran",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2144-536X",
+        "authenticated-orcid": false,
+        "given": "Hannes",
+        "family": "Pichler",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Giulia",
+        "family": "Semeghini",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1655-9151",
+        "authenticated-orcid": false,
+        "given": "Susanne F.",
+        "family": "Yelin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1247-062X",
+        "authenticated-orcid": false,
+        "given": "Soonwon",
+        "family": "Choi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8658-1007",
+        "authenticated-orcid": false,
+        "given": "Mikhail D.",
+        "family": "Lukin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "member": "297",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          20
+        ]
+      ]
+    },
+    "reference": [
+      {
+        "key": "45584_CR1",
+        "doi-asserted-by": "publisher",
+        "first-page": "041004",
+        "DOI": "10.1103/RevModPhys.89.041004",
+        "volume": "89",
+        "author": "X-G Wen",
+        "year": "2017",
+        "unstructured": "Wen, X.-G. Colloquium: Zoo of quantum-topological phases of matter. Rev. Mod. Phys. 89, 041004 (2017).",
+        "journal-title": "Rev. Mod. Phys."
+      },
+      {
+        "key": "45584_CR2",
+        "doi-asserted-by": "publisher",
+        "first-page": "1083",
+        "DOI": "10.1103/RevModPhys.80.1083",
+        "volume": "80",
+        "author": "C Nayak",
+        "year": "2008",
+        "unstructured": "Nayak, C., Simon, S. H., Stern, A., Freedman, M. & Das Sarma, S. Non-abelian anyons and topological quantum computation. Rev. Mod. Phys. 80, 1083\u20131159 (2008).",
+        "journal-title": "Rev. Mod. Phys."
+      },
+      {
+        "key": "45584_CR3",
+        "doi-asserted-by": "publisher",
+        "first-page": "307",
+        "DOI": "10.1103/RevModPhys.87.307",
+        "volume": "87",
+        "author": "BM Terhal",
+        "year": "2015",
+        "unstructured": "Terhal, B. M. Quantum error correction for quantum memories. Rev. Mod. Phys. 87, 307\u2013346 (2015).",
+        "journal-title": "Rev. Mod. Phys."
+      },
+      {
+        "key": "45584_CR4",
+        "doi-asserted-by": "publisher",
+        "first-page": "12377",
+        "DOI": "10.1103/PhysRevB.45.12377",
+        "volume": "45",
+        "author": "S Sachdev",
+        "year": "1992",
+        "unstructured": "Sachdev, S. Kagome- and triangular-lattice Heisenberg antiferromagnets: Ordering from quantum fluctuations and quantum-disordered ground states with unconfined bosonic spinons. Phys. Rev. B 45, 12377\u201312396 (1992).",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "45584_CR5",
+        "doi-asserted-by": "publisher",
+        "first-page": "045141",
+        "DOI": "10.1103/PhysRevB.72.045141",
+        "volume": "72",
+        "author": "MB Hastings",
+        "year": "2005",
+        "unstructured": "Hastings, M. B. & Wen, X.-G. Quasiadiabatic continuation of quantum states: the stability of topological ground-state degeneracy and emergent gauge invariance. Phys. Rev. B 72, 045141 (2005).",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "45584_CR6",
+        "doi-asserted-by": "publisher",
+        "first-page": "2445",
+        "DOI": "10.1103/PhysRevD.10.2445",
+        "volume": "10",
+        "author": "KG Wilson",
+        "year": "1974",
+        "unstructured": "Wilson, K. G. Confinement of quarks. Phys. Rev. D 10, 2445\u20132459 (1974).",
+        "journal-title": "Phys. Rev. D"
+      },
+      {
+        "key": "45584_CR7",
+        "doi-asserted-by": "publisher",
+        "first-page": "771",
+        "DOI": "10.1007/s00220-016-2594-y",
+        "volume": "342",
+        "author": "J Haah",
+        "year": "2016",
+        "unstructured": "Haah, J. An invariant of topologically ordered states under local unitary transformations. Commun. Math. Phys. 342, 771\u2013801 (2016).",
+        "journal-title": "Commun. Math. Phys."
+      },
+      {
+        "key": "45584_CR8",
+        "doi-asserted-by": "publisher",
+        "first-page": "205123",
+        "DOI": "10.1103/PhysRevB.94.205123",
+        "volume": "94",
+        "author": "JC Bridgeman",
+        "year": "2016",
+        "unstructured": "Bridgeman, J. C., Flammia, S. T. & Poulin, D. Detecting topological order with ribbon operators. Phys. Rev. B 94, 205123 (2016).",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "45584_CR9",
+        "first-page": "041014",
+        "volume": "11",
+        "author": "M Iqbal",
+        "year": "2021",
+        "unstructured": "Iqbal, M. & Schuch, N. Entanglement order parameters and critical behavior for topological phase transitions and beyond. Phys. Rev. X 11, 041014 (2021).",
+        "journal-title": "Phys. Rev. X"
+      },
+      {
+        "key": "45584_CR10",
+        "doi-asserted-by": "publisher",
+        "first-page": "235119",
+        "DOI": "10.1103/PhysRevB.95.235119",
+        "volume": "95",
+        "author": "K Duivenvoorden",
+        "year": "2017",
+        "unstructured": "Duivenvoorden, K., Iqbal, M., Haegeman, J., Verstraete, F. & Schuch, N. Entanglement phases as holographic duals of anyon condensates. Phys. Rev. B 95, 235119 (2017).",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "45584_CR11",
+        "unstructured": "Jamadagni, A., Kazemi, J. & Weimer, H. Learning of error statistics for the detection of quantum phases https://arxiv.org/abs/2205.12966 (2022)."
+      },
+      {
+        "key": "45584_CR12",
+        "doi-asserted-by": "publisher",
+        "first-page": "110404",
+        "DOI": "10.1103/PhysRevLett.96.110404",
+        "volume": "96",
+        "author": "A Kitaev",
+        "year": "2006",
+        "unstructured": "Kitaev, A. & Preskill, J. Topological entanglement entropy. Phys. Rev. Lett. 96, 110404 (2006).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "45584_CR13",
+        "doi-asserted-by": "publisher",
+        "first-page": "110405",
+        "DOI": "10.1103/PhysRevLett.96.110405",
+        "volume": "96",
+        "author": "M Levin",
+        "year": "2006",
+        "unstructured": "Levin, M. & Wen, X.-G. Detecting topological order in a ground state wave function. Phys. Rev. Lett. 96, 110405 (2006).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "45584_CR14",
+        "doi-asserted-by": "publisher",
+        "first-page": "165139",
+        "DOI": "10.1103/PhysRevB.84.165139",
+        "volume": "84",
+        "author": "N Schuch",
+        "year": "2011",
+        "unstructured": "Schuch, N., P\u00e9rez-Garc\u00eda, D. & Cirac, I. Classifying quantum phases using matrix product states and projected entangled pair states. Phys. Rev. B 84, 165139 (2011).",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "45584_CR15",
+        "doi-asserted-by": "publisher",
+        "first-page": "035107",
+        "DOI": "10.1103/PhysRevB.83.035107",
+        "volume": "83",
+        "author": "X Chen",
+        "year": "2011",
+        "unstructured": "Chen, X., Gu, Z.-C. & Wen, X.-G. Classification of gapped symmetric phases in one-dimensional spin systems. Phys. Rev. B 83, 035107 (2011).",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "45584_CR16",
+        "doi-asserted-by": "publisher",
+        "first-page": "2",
+        "DOI": "10.1016/S0003-4916(02)00018-0",
+        "volume": "303",
+        "author": "A Kitaev",
+        "year": "2003",
+        "unstructured": "Kitaev, A. Fault-tolerant quantum computation by anyons. Ann. Phys. 303, 2\u201330 (2003).",
+        "journal-title": "Ann. Phys."
+      },
+      {
+        "key": "45584_CR17",
+        "doi-asserted-by": "publisher",
+        "first-page": "1273",
+        "DOI": "10.1038/s41567-019-0648-8",
+        "volume": "15",
+        "author": "I Cong",
+        "year": "2019",
+        "unstructured": "Cong, I., Choi, S. & Lukin, M. D. Quantum convolutional neural networks. Nat. Phys. 15, 1273\u20131278 (2019).",
+        "journal-title": "Nat. Phys."
+      },
+      {
+        "key": "45584_CR18",
+        "doi-asserted-by": "publisher",
+        "first-page": "155138",
+        "DOI": "10.1103/PhysRevB.82.155138",
+        "volume": "82",
+        "author": "X Chen",
+        "year": "2010",
+        "unstructured": "Chen, X., Gu, Z.-C. & Wen, X.-G. Local unitary transformation, long-range quantum entanglement, wave function renormalization, and topological order. Phys. Rev. B 82, 155138 (2010).",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "45584_CR19",
+        "first-page": "011024",
+        "volume": "5",
+        "author": "J Haegeman",
+        "year": "2015",
+        "unstructured": "Haegeman, J., Van Acoleyen, K., Schuch, N., Cirac, J. I. & Verstraete, F. Gauging quantum states: from global to local symmetries in many-body systems. Phys. Rev. X 5, 011024 (2015).",
+        "journal-title": "Phys. Rev. X"
+      },
+      {
+        "key": "45584_CR20",
+        "doi-asserted-by": "publisher",
+        "first-page": "176401",
+        "DOI": "10.1103/PhysRevLett.122.176401",
+        "volume": "122",
+        "author": "G-Y Zhu",
+        "year": "2019",
+        "unstructured": "Zhu, G.-Y. & Zhang, G.-M. Gapless coulomb state emerging from a self-dual topological tensor-network state. Phys. Rev. Lett. 122, 176401 (2019).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "45584_CR21",
+        "doi-asserted-by": "publisher",
+        "first-page": "054433",
+        "DOI": "10.1103/PhysRevB.77.054433",
+        "volume": "77",
+        "author": "C Castelnovo",
+        "year": "2008",
+        "unstructured": "Castelnovo, C. & Chamon, C. Quantum topological phase transition at the microscopic level. Phys. Rev. B 77, 054433 (2008).",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "45584_CR22",
+        "first-page": "5628",
+        "volume": "63",
+        "author": "J Haah",
+        "year": "2017",
+        "unstructured": "Haah, J., Harrow, A. W., Ji, Z., Wu, X. & Yu, N. Sample-optimal tomography of quantum states. IEEE Trans. Inf. Theory 63, 5628\u20135641 (2017).",
+        "journal-title": "IEEE Trans. Inf. Theory"
+      },
+      {
+        "key": "45584_CR23",
+        "doi-asserted-by": "publisher",
+        "first-page": "4452",
+        "DOI": "10.1063/1.1499754",
+        "volume": "43",
+        "author": "E Dennis",
+        "year": "2002",
+        "unstructured": "Dennis, E., Kitaev, A., Landahl, A. & Preskill, J. Topological quantum memory. J. Math. Phys. 43, 4452\u20134505 (2002).",
+        "journal-title": "J. Math. Phys."
+      },
+      {
+        "key": "45584_CR24",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fredenhagen, K. & Marcu, M. Charged states in $${{\\mathbb{Z}}}_{2}$$ gauge theories. Commun. Math. Phys. 92, 81\u2013119 (1983).",
+        "DOI": "10.1007/BF01206315"
+      },
+      {
+        "key": "45584_CR25",
+        "doi-asserted-by": "publisher",
+        "first-page": "1413",
+        "DOI": "10.1103/PhysRevLett.77.1413",
+        "volume": "77",
+        "author": "A Peres",
+        "year": "1996",
+        "unstructured": "Peres, A. Separability criterion for density matrices. Phys. Rev. Lett. 77, 1413\u20131415 (1996).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "45584_CR26",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1016/S0375-9601(96)00706-2",
+        "volume": "223",
+        "author": "M Horodecki",
+        "year": "1996",
+        "unstructured": "Horodecki, M., Horodecki, P. & Horodecki, R. Separability of mixed states: necessary and sufficient conditions. Phys. Lett. A 223, 1\u20138 (1996).",
+        "journal-title": "Phys. Lett. A"
+      },
+      {
+        "key": "45584_CR27",
+        "doi-asserted-by": "publisher",
+        "first-page": "042318",
+        "DOI": "10.1103/PhysRevA.88.042318",
+        "volume": "88",
+        "author": "YA Lee",
+        "year": "2013",
+        "unstructured": "Lee, Y. A. & Vidal, G. Entanglement negativity and topological order. Phys. Rev. A 88, 042318 (2013).",
+        "journal-title": "Phys. Rev. A"
+      },
+      {
+        "key": "45584_CR28",
+        "doi-asserted-by": "publisher",
+        "first-page": "1242",
+        "DOI": "10.1126/science.abi8794",
+        "volume": "374",
+        "author": "G Semeghini",
+        "year": "2021",
+        "unstructured": "Semeghini, G. et al. Probing topological spin liquids on a programmable quantum simulator. Science 374, 1242\u20131247 (2021).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "45584_CR29",
+        "first-page": "031005",
+        "volume": "11",
+        "author": "R Verresen",
+        "year": "2021",
+        "unstructured": "Verresen, R., Lukin, M. D. & Vishwanath, A. Prediction of toric code topological order from Rydberg blockade. Phys. Rev. X 11, 031005 (2021).",
+        "journal-title": "Phys. Rev. X"
+      },
+      {
+        "key": "45584_CR30",
+        "doi-asserted-by": "publisher",
+        "first-page": "2313",
+        "DOI": "10.1103/RevModPhys.82.2313",
+        "volume": "82",
+        "author": "M Saffman",
+        "year": "2010",
+        "unstructured": "Saffman, M., Walker, T. G. & M\u00f8lmer, K. Quantum information with rydberg atoms. Rev. Mod. Phys. 82, 2313\u20132363 (2010).",
+        "journal-title": "Rev. Mod. Phys."
+      },
+      {
+        "key": "45584_CR31",
+        "doi-asserted-by": "publisher",
+        "first-page": "137202",
+        "DOI": "10.1103/PhysRevLett.89.137202",
+        "volume": "89",
+        "author": "G Misguich",
+        "year": "2002",
+        "unstructured": "Misguich, G., Serban, D. & Pasquier, V. Quantum Dimer Model on the Kagome Lattice: Solvable Dimer-Liquid and Ising Gauge Theory. Phys. Rev. Lett. 89, 137202 (2002).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "45584_CR32",
+        "doi-asserted-by": "publisher",
+        "first-page": "014404",
+        "DOI": "10.1103/PhysRevB.86.014404",
+        "volume": "86",
+        "author": "D Poilblanc",
+        "year": "2012",
+        "unstructured": "Poilblanc, D., Schuch, N., P\u00e9rez-Garc\u00eda, D. & Cirac, J. I. Topological and entanglement properties of resonating valence bond wave functions. Phys. Rev. B 86, 014404 (2012).",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "45584_CR33",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Samajdar, R., Joshi, D. G., Teng, Y. & Sachdev, S. Emergent $${{\\mathbb{Z}}}_{2}$$ gauge theories and topological excitations in Rydberg atom arrays https://arxiv.org/abs/2204.00632 (2022).",
+        "DOI": "10.26226/m.6275705d66d5dcf63a3115de"
+      },
+      {
+        "key": "45584_CR34",
+        "doi-asserted-by": "publisher",
+        "first-page": "195301",
+        "DOI": "10.1103/PhysRevLett.129.195301",
+        "volume": "129",
+        "author": "PS Tarabunga",
+        "year": "2022",
+        "unstructured": "Tarabunga, P. S., Surace, F. M., Andreoni, R., Angelone, A. & Dalmonte, M. Gauge-theoretic origin of rydberg quantum spin liquids. Phys. Rev. Lett. 129, 195301 (2022).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "45584_CR35",
+        "first-page": "041029",
+        "volume": "12",
+        "author": "R Verresen",
+        "year": "2022",
+        "unstructured": "Verresen, R. & Vishwanath, A. Unifying Kitaev magnets, kagome dimer models and ruby Rydberg spin liquids. Phys. Rev. X 12, 041029 (2022).",
+        "journal-title": "Phys. Rev. X"
+      },
+      {
+        "key": "45584_CR36",
+        "doi-asserted-by": "publisher",
+        "first-page": "73",
+        "DOI": "10.1016/0370-2693(83)91171-1",
+        "volume": "122",
+        "author": "J Bricmont",
+        "year": "1983",
+        "unstructured": "Bricmont, J. & Fr\u00f6lich, J. An order parameter distinguishing between different phases of lattice gauge theories with matter fields. Phys. Lett. B 122, 73\u201377 (1983).",
+        "journal-title": "Phys. Lett. B"
+      },
+      {
+        "key": "45584_CR37",
+        "doi-asserted-by": "publisher",
+        "first-page": "025009",
+        "DOI": "10.1088/1367-2630/13/2/025009",
+        "volume": "13",
+        "author": "K Gregor",
+        "year": "2011",
+        "unstructured": "Gregor, K., Huse, D. A., Moessner, R. & Sondhi, S. L. Diagnosing deconfinement and topological order. N. J. Phys. 13, 025009 (2011).",
+        "journal-title": "N. J. Phys."
+      },
+      {
+        "key": "45584_CR38",
+        "doi-asserted-by": "publisher",
+        "first-page": "090401",
+        "DOI": "10.1103/PhysRevLett.129.090401",
+        "volume": "129",
+        "author": "G Giudici",
+        "year": "2022",
+        "unstructured": "Giudici, G., Lukin, M. D. & Pichler, H. Dynamical preparation of quantum spin liquids in Rydberg atom arrays. Phys. Rev. Lett. 129, 090401 (2022).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "45584_CR39",
+        "unstructured": "Cheng, Y., Li, C. & Zhai, H. Variational approach to quantum spin liquid in a Rydberg atom simulator https://arxiv.org/abs/2112.13688 (2021)."
+      },
+      {
+        "key": "45584_CR40",
+        "doi-asserted-by": "publisher",
+        "first-page": "045110",
+        "DOI": "10.1103/PhysRevB.71.045110",
+        "volume": "71",
+        "author": "MA Levin",
+        "year": "2005",
+        "unstructured": "Levin, M. A. & Wen, X.-G. String-net condensation: A physical mechanism for topological phases. Phys. Rev. B 71, 045110 (2005).",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "45584_CR41",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Wang, Z.Topological Quantum Computation. 112 (American Mathematical Soc., 2010).",
+        "DOI": "10.1090/cbms/112"
+      },
+      {
+        "key": "45584_CR42",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Bakalov, B. & Kirillov, A. A. Lectures on Tensor Categories and Modular Functors, vol. 21 (American Mathematical Soc., 2001).",
+        "DOI": "10.1090/ulect/021"
+      },
+      {
+        "key": "45584_CR43",
+        "doi-asserted-by": "publisher",
+        "first-page": "195123",
+        "DOI": "10.1103/PhysRevB.79.195123",
+        "volume": "79",
+        "author": "R K\u00f6nig",
+        "year": "2009",
+        "unstructured": "K\u00f6nig, R., Reichardt, B. W. & Vidal, G. Exact entanglement renormalization for string-net models. Phys. Rev. B 79, 195123 (2009).",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "45584_CR44",
+        "doi-asserted-by": "publisher",
+        "first-page": "eabk3333",
+        "DOI": "10.1126/science.abk3333",
+        "volume": "377",
+        "author": "H-Y Huang",
+        "year": "2022",
+        "unstructured": "Huang, H.-Y., Kueng, R., Torlai, G., Albert, V. V. & Preskill, J. Provably efficient machine learning for quantum many-body problems. Science 377, eabk3333 (2022).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "45584_CR45",
+        "doi-asserted-by": "publisher",
+        "first-page": "31",
+        "DOI": "10.1016/S0003-4916(02)00019-2",
+        "volume": "303",
+        "author": "C Wang",
+        "year": "2003",
+        "unstructured": "Wang, C., Harrington, J. & Preskill, J. Confinement-higgs transition in a disordered gauge theory and the accuracy threshold for quantum memory. Ann. Phys. 303, 31\u201358 (2003).",
+        "journal-title": "Ann. Phys."
+      },
+      {
+        "key": "45584_CR46",
+        "doi-asserted-by": "publisher",
+        "first-page": "1237",
+        "DOI": "10.1126/science.abi8378",
+        "volume": "374",
+        "author": "K Satzinger",
+        "year": "2021",
+        "unstructured": "Satzinger, K. et al. Realizing topologically ordered states on a quantum processor. Science 374, 1237\u20131241 (2021).",
+        "journal-title": "Science"
+      },
+      {
+        "key": "45584_CR47",
+        "doi-asserted-by": "publisher",
+        "first-page": "207",
+        "DOI": "10.1038/s41586-020-2667-0",
+        "volume": "585",
+        "author": "R Stricker",
+        "year": "2020",
+        "unstructured": "Stricker, R. et al. Experimental deterministic correction of qubit loss. Nature 585, 207\u2013210 (2020).",
+        "journal-title": "Nature"
+      },
+      {
+        "key": "45584_CR48",
+        "doi-asserted-by": "publisher",
+        "first-page": "085143",
+        "DOI": "10.1103/PhysRevB.106.085143",
+        "volume": "106",
+        "author": "A Jamadagni",
+        "year": "2022",
+        "unstructured": "Jamadagni, A. & Weimer, H. Operational definition of topological order. Phys. Rev. B 106, 085143 (2022).",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "45584_CR49",
+        "unstructured": "Bao, Y., Fan, R., Vishwanath, A. & Altman, E. Mixed-state topological order and the errorfield double formulation of decoherence-induced transitions 2301.05687 (2023)."
+      },
+      {
+        "key": "45584_CR50",
+        "doi-asserted-by": "publisher",
+        "first-page": "210501",
+        "DOI": "10.1103/PhysRevLett.107.210501",
+        "volume": "107",
+        "author": "MB Hastings",
+        "year": "2011",
+        "unstructured": "Hastings, M. B. Topological order at nonzero temperature. Phys. Rev. Lett. 107, 210501 (2011).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "45584_CR51",
+        "unstructured": "Verresen, R., Tantivasadakarn, N. & Vishwanath, A. Efficiently preparing Schr\u00f6dinger\u2019s cat, fractons and non-abelian topological order in quantum devices https://arxiv.org/abs/2112.03061 (2021)."
+      },
+      {
+        "key": "45584_CR52",
+        "doi-asserted-by": "publisher",
+        "first-page": "115108",
+        "DOI": "10.1103/PhysRevB.86.115108",
+        "volume": "86",
+        "author": "N Schuch",
+        "year": "2012",
+        "unstructured": "Schuch, N., Poilblanc, D., Cirac, J. I. & P\u00e9rez-Garc\u00eda, D. Resonating valence bond states in the PEPS formalism. Phys. Rev. B 86, 115108 (2012).",
+        "journal-title": "Phys. Rev. B"
+      },
+      {
+        "key": "45584_CR53",
+        "doi-asserted-by": "publisher",
+        "first-page": "140506",
+        "DOI": "10.1103/PhysRevLett.98.140506",
+        "volume": "98",
+        "author": "N Schuch",
+        "year": "2007",
+        "unstructured": "Schuch, N., Wolf, M. M., Verstraete, F. & Cirac, J. I. Computational complexity of projected entangled pair states. Phys. Rev. Lett. 98, 140506 (2007).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "45584_CR54",
+        "doi-asserted-by": "publisher",
+        "first-page": "045003",
+        "DOI": "10.1103/RevModPhys.93.045003",
+        "volume": "93",
+        "author": "JI Cirac",
+        "year": "2021",
+        "unstructured": "Cirac, J. I., P\u00e9rez-Garc\u00eda, D., Schuch, N. & Verstraete, F. Matrix product states and projected entangled pair states: concepts, symmetries, theorems. Rev. Mod. Phys. 93, 045003 (2021).",
+        "journal-title": "Rev. Mod. Phys."
+      },
+      {
+        "key": "45584_CR55",
+        "first-page": "021021",
+        "volume": "12",
+        "author": "JC Napp",
+        "year": "2022",
+        "unstructured": "Napp, J. C., La Placa, R. L., Dalzell, A. M., Brand\u00e3o, F. G. S. L. & Harrow, A. W. Efficient classical simulation of random shallow 2d quantum circuits. Phys. Rev. X 12, 021021 (2022).",
+        "journal-title": "Phys. Rev. X"
+      },
+      {
+        "key": "45584_CR56",
+        "doi-asserted-by": "publisher",
+        "first-page": "110501",
+        "DOI": "10.1103/PhysRevLett.101.110501",
+        "volume": "101",
+        "author": "G Vidal",
+        "year": "2008",
+        "unstructured": "Vidal, G. Class of quantum many-body states that can be efficiently simulated. Phys. Rev. Lett. 101, 110501 (2008).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "45584_CR57",
+        "unstructured": "Duclos-Cianci, G. & Poulin, D. Fault-tolerant renormalization group decoder for abelian topological codes https://arxiv.org/abs/1304.6100 (2013)."
+      },
+      {
+        "key": "45584_CR58",
+        "doi-asserted-by": "publisher",
+        "first-page": "032324",
+        "DOI": "10.1103/PhysRevA.86.032324",
+        "volume": "86",
+        "author": "AG Fowler",
+        "year": "2012",
+        "unstructured": "Fowler, A. G., Mariantoni, M., Martinis, J. M. & Cleland, A. N. Surface codes: towards practical large-scale quantum computation. Phys. Rev. A 86, 032324 (2012).",
+        "journal-title": "Phys. Rev. A"
+      },
+      {
+        "key": "45584_CR59",
+        "doi-asserted-by": "publisher",
+        "first-page": "050502",
+        "DOI": "10.1103/PhysRevLett.125.050502",
+        "volume": "125",
+        "author": "G Zhu",
+        "year": "2020",
+        "unstructured": "Zhu, G., Lavasani, A. & Barkeshli, M. Universal logical gates on topologically encoded qubits via constant-depth unitary circuits. Phys. Rev. Lett. 125, 050502 (2020).",
+        "journal-title": "Phys. Rev. Lett."
+      },
+      {
+        "key": "45584_CR60",
+        "doi-asserted-by": "publisher",
+        "first-page": "1",
+        "DOI": "10.1038/s41467-018-07090-4",
+        "volume": "9",
+        "author": "JR McClean",
+        "year": "2018",
+        "unstructured": "McClean, J. R., Boixo, S., Smelyanskiy, V. N., Babbush, R. & Neven, H. Barren plateaus in quantum neural network training landscapes. Nat. Commun. 9, 1\u20136 (2018).",
+        "journal-title": "Nat. Commun."
+      },
+      {
+        "key": "45584_CR61",
+        "first-page": "041011",
+        "volume": "11",
+        "author": "A Pesah",
+        "year": "2021",
+        "unstructured": "Pesah, A. et al. Absence of barren plateaus in quantum convolutional neural networks. Phys. Rev. X 11, 041011 (2021).",
+        "journal-title": "Phys. Rev. X"
+      },
+      {
+        "key": "45584_CR62",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Lu, T.-C. & Vijay, S. Characterizing long-range entanglement in a mixed state through an emergent order on the entangling surface https://arxiv.org/abs/2201.07792 (2022).",
+        "DOI": "10.1103/PhysRevResearch.5.033031"
+      },
+      {
+        "key": "45584_CR63",
+        "doi-asserted-by": "crossref",
+        "unstructured": "Fan, R., Bao, Y., Altman, E. & Vishwanath, A. Diagnostics of mixed-state topological order and breakdown of quantum memory 2301.05689 (2023).",
+        "DOI": "10.1103/PRXQuantum.5.020343"
+      }
+    ],
+    "container-title": [
+      "Nature Communications"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+      {
+        "URL": "https://www.nature.com/articles/s41467-024-45584-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41467-024-45584-6",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41467-024-45584-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "deposited": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          11
+        ]
+      ],
+      "date-time": "2024-11-11T17:48:16Z",
+      "timestamp": 1731347296000
+    },
+    "score": 1,
+    "resource": {
+      "primary": {
+        "URL": "https://www.nature.com/articles/s41467-024-45584-6"
+      }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          20
+        ]
+      ]
+    },
+    "references-count": 63,
+    "journal-issue": {
+      "issue": "1",
+      "published-online": {
+        "date-parts": [
+          [
+            2024,
+            12
+          ]
+        ]
+      }
+    },
+    "alternative-id": [
+      "45584"
+    ],
+    "URL": "https://doi.org/10.1038/s41467-024-45584-6",
+    "relation": {},
+    "ISSN": [
+      "2041-1723"
+    ],
+    "issn-type": [
+      {
+        "value": "2041-1723",
+        "type": "electronic"
+      }
+    ],
+    "subject": [],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          20
+        ]
+      ]
+    },
+    "assertion": [
+      {
+        "value": "5 November 2023",
+        "order": 1,
+        "name": "received",
+        "label": "Received",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "25 January 2024",
+        "order": 2,
+        "name": "accepted",
+        "label": "Accepted",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "20 February 2024",
+        "order": 3,
+        "name": "first_online",
+        "label": "First Online",
+        "group": {
+          "name": "ArticleHistory",
+          "label": "Article History"
+        }
+      },
+      {
+        "value": "M.D.L. is a co-founder and shareholder of QuEra Computing. The remaining authors declare no competing interests.",
+        "order": 1,
+        "name": "Ethics",
+        "group": {
+          "name": "EthicsHeading",
+          "label": "Competing interests"
+        }
+      }
+    ],
+    "article-number": "1527"
+  },
+  "europepmc": [
+    {
+      "id": "38378727",
+      "source": "MED",
+      "pmid": "38378727",
+      "pmcid": "PMC10879205",
+      "fullTextIdList": {
+        "fullTextId": [
+          "PMC10879205"
+        ]
+      },
+      "doi": "10.1038/s41467-024-45584-6",
+      "title": "Enhancing detection of topological order by local error correction.",
+      "authorString": "Cong I, Maskara N, Tran MC, Pichler H, Semeghini G, Yelin SF, Choi S, Lukin MD.",
+      "authorList": {
+        "author": [
+          {
+            "fullName": "Cong I",
+            "lastName": "Cong",
+            "firstName": "Iris",
+            "initials": "I",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7706-5927"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Physics, Harvard University, Cambridge, MA, 02138, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Maskara N",
+            "lastName": "Maskara",
+            "firstName": "Nishad",
+            "initials": "N",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-5775-9542"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Physics, Harvard University, Cambridge, MA, 02138, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Tran MC",
+            "lastName": "Tran",
+            "firstName": "Minh C",
+            "initials": "MC",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0001-7599-9160"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Physics, Harvard University, Cambridge, MA, 02138, USA."
+                },
+                {
+                  "affiliation": "Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge, MA, 02139, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Pichler H",
+            "lastName": "Pichler",
+            "firstName": "Hannes",
+            "initials": "H",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-2144-536X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Institute for Theoretical Physics, University of Innsbruck, 6020, Innsbruck, Austria."
+                },
+                {
+                  "affiliation": "Institute for Quantum Optics and Quantum Information of the Austrian Academy of Sciences, 6020, Innsbruck, Austria."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Semeghini G",
+            "lastName": "Semeghini",
+            "firstName": "Giulia",
+            "initials": "G",
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Physics, Harvard University, Cambridge, MA, 02138, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Yelin SF",
+            "lastName": "Yelin",
+            "firstName": "Susanne F",
+            "initials": "SF",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0003-1655-9151"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Physics, Harvard University, Cambridge, MA, 02138, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Choi S",
+            "lastName": "Choi",
+            "firstName": "Soonwon",
+            "initials": "S",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-1247-062X"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge, MA, 02139, USA."
+                }
+              ]
+            }
+          },
+          {
+            "fullName": "Lukin MD",
+            "lastName": "Lukin",
+            "firstName": "Mikhail D",
+            "initials": "MD",
+            "authorId": {
+              "type": "ORCID",
+              "value": "0000-0002-8658-1007"
+            },
+            "authorAffiliationDetailsList": {
+              "authorAffiliation": [
+                {
+                  "affiliation": "Department of Physics, Harvard University, Cambridge, MA, 02138, USA. lukin@physics.harvard.edu."
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "authorIdList": {
+        "authorId": [
+          {
+            "type": "ORCID",
+            "value": "0000-0001-5775-9542"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7599-9160"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0001-7706-5927"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-1247-062X"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0002-8658-1007"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-1655-9151"
+          },
+          {
+            "type": "ORCID",
+            "value": "0000-0003-2144-536X"
+          }
+        ]
+      },
+      "dataLinksTagsList": {
+        "dataLinkstag": [
+          "altmetrics",
+          "supporting_data"
+        ]
+      },
+      "journalInfo": {
+        "issue": "1",
+        "volume": "15",
+        "journalIssueId": 3704656,
+        "dateOfPublication": "2024 Feb",
+        "monthOfPublication": 2,
+        "yearOfPublication": 2024,
+        "journal": {
+          "medlineAbbreviation": "Nat Commun",
+          "title": "Nature communications",
+          "essn": "2041-1723",
+          "issn": "2041-1723",
+          "isoabbreviation": "Nat Commun",
+          "nlmid": "101528555"
+        },
+        "printPublicationDate": "2024-02-01"
+      },
+      "pubYear": "2024",
+      "pageInfo": "1527",
+      "abstractText": "The exploration of topologically-ordered states of matter is a long-standing goal at the interface of several subfields of the physical sciences. Such states feature intriguing physical properties such as long-range entanglement, emergent gauge fields and non-local correlations, and can aid in realization of scalable fault-tolerant quantum computation. However, these same features also make creation, detection, and characterization of topologically-ordered states particularly challenging. Motivated by recent experimental demonstrations, we introduce a paradigm for quantifying topological states-locally error-corrected decoration (LED)-by combining methods of error correction with ideas of renormalization-group flow. Our approach allows for efficient and robust identification of topological order, and is applicable in the presence of incoherent noise sources, making it particularly suitable for realistic experiments. We demonstrate the power of LED using numerical simulations of the toric code under a variety of perturbations. We subsequently apply it to an experimental realization, providing new insights into a quantum spin liquid created on a Rydberg-atom simulator. Finally, we extend LED to generic topological phases, including those with non-abelian order.",
+      "affiliation": "Department of Physics, Harvard University, Cambridge, MA, 02138, USA.",
+      "publicationStatus": "epublish",
+      "language": "eng",
+      "pubModel": "Electronic",
+      "pubTypeList": {
+        "pubType": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "grantsList": {
+        "grant": [
+          {
+            "agency": "United States Department of Defense | Defense Advanced Research Projects Agency (DARPA)",
+            "grantId": "W911NF2010021",
+            "orderIn": 0
+          },
+          {
+            "agency": "European Research Council",
+            "grantId": "101041435",
+            "orderIn": 0
+          }
+        ]
+      },
+      "subsetList": {
+        "subset": [
+          {
+            "code": "IM",
+            "name": "Index Medicus"
+          }
+        ]
+      },
+      "fullTextUrlList": {
+        "fullTextUrl": [
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.nature.com/articles/s41467-024-45584-6.pdf"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.nature.com/articles/s41467-024-45584-6.pdf"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.nature.com/articles/s41467-024-45584-6.pdf"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Unpaywall",
+            "url": "https://www.nature.com/articles/s41467-024-45584-6.pdf"
+          },
+          {
+            "availability": "Subscription required",
+            "availabilityCode": "S",
+            "documentStyle": "doi",
+            "site": "DOI",
+            "url": "https://doi.org/10.1038/s41467-024-45584-6"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "html",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10879205"
+          },
+          {
+            "availability": "Open access",
+            "availabilityCode": "OA",
+            "documentStyle": "pdf",
+            "site": "Europe_PMC",
+            "url": "https://europepmc.org/articles/PMC10879205?pdf=render"
+          }
+        ]
+      },
+      "isOpenAccess": "Y",
+      "inEPMC": "Y",
+      "inPMC": "Y",
+      "citedByCount": 6,
+      "hasReferences": "Y",
+      "hasTextMinedTerms": "Y",
+      "hasDbCrossReferences": "N",
+      "hasPDF": "Y",
+      "hasBook": "N",
+      "hasSuppl": "Y",
+      "hasLabsLinks": "Y",
+      "hasData": "Y",
+      "license": "cc by",
+      "authMan": "N",
+      "epmcAuthMan": "N",
+      "nihAuthMan": "N",
+      "hasTMAccessionNumbers": "N",
+      "dateOfCreation": "2024-02-20",
+      "dateOfRevision": "2026-09-22",
+      "electronicPublicationDate": "2024-02-20",
+      "firstPublicationDate": "2024-02-20",
+      "firstIndexDate": "2024-02-21",
+      "fullTextReceivedDate": "2025-02-04",
+      "hasEvaluations": "N"
+    }
+  ],
+  "retrievedAt": "2026-10-26"
+}

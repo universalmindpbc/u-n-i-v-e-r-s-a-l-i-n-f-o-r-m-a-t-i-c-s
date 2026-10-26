@@ -1,0 +1,305 @@
+{
+  "verifiedAt": "2026-10-21T19:02:29.604414+00:00",
+  "sourceCommit": "231f0b5d7b365168c0c24293d8fff2d42a3a9233",
+  "atlasSourceCommits": [
+    "e670e8c",
+    "031c1c3dbc15ad5c6f0f230b424744ff9766065d"
+  ],
+  "integratedResearchRelease": "231f0b5d7b365168c0c24293d8fff2d42a3a9233",
+  "productionMainUnchanged": "636bfa9ae41efe036b2cccac0827c724edfde92b",
+  "proofURLs": [
+    "https://staging.universalmind.tv/informatics/",
+    "https://staging.universalmind.tv/informatics/molecular/"
+  ],
+  "changes": [
+    "Gene toggle label simplified.",
+    "Helix, Atoms and Surface render the same sequence-based B-DNA heavy-atom model; selectable atoms and modelled PDB export.",
+    "About first; Geometry Atlas, Molecular Atlas, Sound Atlas, Vision Atlas, Language Atlas, Universal Research, Partners in both global menus.",
+    "Phase Zulu uses full-viewport video with transparent surfaces; reuses the active film or a muted landing fallback; background UI is concealed."
+  ],
+  "deployment": {
+    "method": "./deploy-panthur-staging.sh informatics",
+    "initialCommittedSource": "031c1c3dbc15ad5c6f0f230b424744ff9766065d",
+    "trackedAssets": 11230,
+    "changedUploads": 10,
+    "successful": true,
+    "combinedResearchRelease": "231f0b5d7b365168c0c24293d8fff2d42a3a9233",
+    "combinedLiveAssetsVerified": 17
+  },
+  "atomicModelValidation": {
+    "passed": true,
+    "modelSequences": 18,
+    "referenceRoundTripMaxErrorAngstrom": 0.0008195455956208895,
+    "checks": [
+      "Reference SHA256",
+      "NAB model coordinate round trip",
+      "All 16 adjacent base combinations",
+      "Antiparallel complementary strands",
+      "Watson-Crick donor/acceptor distances",
+      "Phosphodiester continuity",
+      "Glycosidic distances",
+      "Terminal chemistry",
+      "PDB export atom counts",
+      "Explicit unresolved-base failure"
+    ],
+    "interpretation": "Constructed ideal B-DNA from the reference sequence; hydrogens omitted. Not an experimental structure of the gene, a relaxed simulation or a cellular fold.",
+    "commands": [
+      "node tools/check-molecular-dna-model.mjs",
+      "node tools/check-molecular-genes.mjs",
+      "node tools/check-molecular-atlas.mjs"
+    ]
+  },
+  "browserVerification": {
+    "geneViews": "live-gene-results.json",
+    "proteinRegression": "live-protein-results.json",
+    "navigationAndRoadmap": "live-entry-results.json",
+    "processMuteConfirmedBeforeNavigation": true,
+    "nativeFullscreenInvoked": false,
+    "contextsClosed": true,
+    "viewports": [
+      "1470x956",
+      "1024x768",
+      "390x844",
+      "320x844"
+    ]
+  },
+  "httpVerification": "http-results.json",
+  "concurrentWorkPreservation": {
+    "atlasAssetsRetained": [
+      {
+        "path": "Informatics/index.html",
+        "sha256": "4afb10818829daf3fd31b9de7b88f378bba6769c93e17dd923e7f24fc07c9ef9",
+        "unchangedByConcurrentIntegration": true
+      },
+      {
+        "path": "Informatics/library-launcher.css",
+        "sha256": "2d230e7215cc10c868765d9050a5173d405d9ba343300116e512339bc682bdf9",
+        "unchangedByConcurrentIntegration": true
+      },
+      {
+        "path": "Informatics/library-launcher.js",
+        "sha256": "e658635d4c81bae246d42eddb00a11aeac02897d85a240df569bcce773b2cf26",
+        "unchangedByConcurrentIntegration": true
+      },
+      {
+        "path": "Informatics/molecular/atlas.css",
+        "sha256": "f7bcf4fa8876eade4e81f15547081e01edeab43355e55b666b382ef95a9232d8",
+        "unchangedByConcurrentIntegration": true
+      },
+      {
+        "path": "Informatics/molecular/atlas.js",
+        "sha256": "b370b34dd14917336a39d0a6191099ffde41dc1b3f6b58ace1bc09b7be8e4c9d",
+        "unchangedByConcurrentIntegration": true
+      },
+      {
+        "path": "Informatics/molecular/index.html",
+        "sha256": "e2c469a2b98c6b7ccbd6841bf94dca053c6531d4ec1490542ed481b06b49409e",
+        "unchangedByConcurrentIntegration": true
+      },
+      {
+        "path": "Informatics/molecular/vendor/BIOEXCEL-LICENSE.txt",
+        "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+        "unchangedByConcurrentIntegration": true
+      },
+      {
+        "path": "Informatics/molecular/vendor/dna-model-notice.txt",
+        "sha256": "537f6757036e08886c87e9e3be4879f4b208f492d1c076fa318955bf1ac4527d",
+        "unchangedByConcurrentIntegration": true
+      },
+      {
+        "path": "Informatics/molecular/vendor/engine.js",
+        "sha256": "c9b21fb5c2eb0c0fae64bd865699ec16e44df7b6d754bfaf3240190c3f3673f8",
+        "unchangedByConcurrentIntegration": true
+      }
+    ],
+    "latestResearchAssets": [
+      {
+        "path": "Informatics/library-data/archive-records.json",
+        "sha256": "a6c81a17ba16d3f02b3688ed19e9b4fdb71d305770f121ed9b7af00cc7460ace"
+      },
+      {
+        "path": "Informatics/library-data/figures/2d1e97a69066.jpg",
+        "sha256": "2d1e97a690668da58e82b93a9061c40db076bcabc7a2f3f418549102e2046268"
+      },
+      {
+        "path": "Informatics/library-data/figures/2e23485c20ee.jpg",
+        "sha256": "2e23485c20ee21fdaad48f1be24271e942bb563202f404c05328e38da110ae93"
+      },
+      {
+        "path": "Informatics/library-data/figures/36cc491c43ce.jpg",
+        "sha256": "36cc491c43ce7741034c7a664ab13e7066ffb1f01db632c8fb63444ff3ebbaf0"
+      },
+      {
+        "path": "Informatics/library-data/figures/46f7634e8459.jpg",
+        "sha256": "46f7634e84594b3ae127e048edb6e67276dd346c1b8a2802803d48c9c7ccf0c2"
+      },
+      {
+        "path": "Informatics/library-data/figures/47ffc4c3abbf.jpg",
+        "sha256": "47ffc4c3abbf42736c511d7997641c8cfbe950ec65b2ec45b2145fc4b551617b"
+      },
+      {
+        "path": "Informatics/library-data/figures/51aace12beda.jpg",
+        "sha256": "51aace12bedaf0f2c31ea37ec833248b31a395d7398bfa5ea99ada6948501467"
+      },
+      {
+        "path": "Informatics/library-data/figures/66691cb200fe.png",
+        "sha256": "66691cb200fe73689ba88c9b9835bf15a2528dac15460967dd4a6c243c5ec640"
+      },
+      {
+        "path": "Informatics/library-data/figures/7854eca9c827.png",
+        "sha256": "7854eca9c827126096603ae0795928d5a52e5162f7bf56d21025b0ed1a8c2996"
+      },
+      {
+        "path": "Informatics/library-data/figures/94076ff1f6d0.jpg",
+        "sha256": "94076ff1f6d05b37e8fd96db1bd05240736af4bc501292342df3b72d336af0d4"
+      },
+      {
+        "path": "Informatics/library-data/figures/986d2fc1169d.jpg",
+        "sha256": "986d2fc1169dca760c40395fc075a076964c1d6d74f4a54ede1de6491d2a3aa1"
+      },
+      {
+        "path": "Informatics/library-data/figures/9dbd228d8d75.jpg",
+        "sha256": "9dbd228d8d751906c4933d6dd623af2d13c3a9af26db381a40661d352b907ac4"
+      },
+      {
+        "path": "Informatics/library-data/figures/a1e01b1dc2f0.jpg",
+        "sha256": "a1e01b1dc2f0964add29156d10b14c3a2445faf6171f13509ae141be9fac7a1d"
+      },
+      {
+        "path": "Informatics/library-data/figures/a3e7168642e3.jpg",
+        "sha256": "a3e7168642e30bff8ecb5d14962bc5014c690c9dc46fdebf75c4ef2aa687c9ea"
+      },
+      {
+        "path": "Informatics/library-data/figures/a5c985eed9b6.png",
+        "sha256": "a5c985eed9b6eef9d9591f0d209377ed9f79d6abc1093adf1af01b931ce9b84a"
+      },
+      {
+        "path": "Informatics/library-data/figures/abb4e82f5fa6.jpg",
+        "sha256": "abb4e82f5fa6468d29c212f9560589b2f9d88f86fc7c27f5c57277e06225c8ec"
+      },
+      {
+        "path": "Informatics/library-data/figures/b7e458d34b3b.jpg",
+        "sha256": "b7e458d34b3b80c7823d80484edb5784b0da881443c227360bf3ed155bbe2240"
+      },
+      {
+        "path": "Informatics/library-data/figures/bc7cc70c465e.jpg",
+        "sha256": "bc7cc70c465ebe1a557bebe26b0e6f013df11a51f4ac918d2f9563fb9268d7c9"
+      },
+      {
+        "path": "Informatics/library-data/figures/c1bea99e1d89.jpg",
+        "sha256": "c1bea99e1d89233a5dc1de0581adec194eae0184f0b75cddd70c44ac4bfc4d3e"
+      },
+      {
+        "path": "Informatics/library-data/figures/cdec699932b9.jpg",
+        "sha256": "cdec699932b93270f7fc1f84007b7cdcae5f47e5c06ac6d9a518e54195467b72"
+      },
+      {
+        "path": "Informatics/library-data/figures/cf5c37e03ed4.jpg",
+        "sha256": "cf5c37e03ed406fa8d6cf247b77191411823ef104641ab1d4078a8cd0a106ed1"
+      },
+      {
+        "path": "Informatics/library-data/figures/d04185bab997.jpg",
+        "sha256": "d04185bab997209ba0d57f3a3477a99a0e88eea2518582dd0f8d6f93094adc2a"
+      },
+      {
+        "path": "Informatics/library-data/figures/d279ce2c826d.jpg",
+        "sha256": "d279ce2c826decd250fc5aff080e5d798d70cdfda8fc8a3ea2933d95d628c275"
+      },
+      {
+        "path": "Informatics/library-data/figures/ee107fa4e066.png",
+        "sha256": "ee107fa4e06670685a71b2b4c74704d4ecd4fd29a09cf6216d736016c991bd8e"
+      },
+      {
+        "path": "Informatics/library-data/figures/f2aa73aa96f1.jpg",
+        "sha256": "f2aa73aa96f1d3c559b354e4043cb43cd25f05986554dd6802d0db84ac231f8d"
+      },
+      {
+        "path": "Informatics/library-data/figures/fb9a8d9373aa.png",
+        "sha256": "fb9a8d9373aa1d2aa6776072aac78d4a1ab6ed58a2396847947f17d6e1719778"
+      },
+      {
+        "path": "Informatics/library-data/language-source.json",
+        "sha256": "39bdf14824ed7f41ffba818494d3cdee89aac17145fb394a2465d18b4cc37021"
+      },
+      {
+        "path": "Informatics/library-data/library.json",
+        "sha256": "07455efb6272395f4861410c5a6ff4e3278bd0b213afb0efeee25faf32a086a1"
+      },
+      {
+        "path": "Informatics/library-data/search-log.json",
+        "sha256": "a17a6d5becabd009f4dae37addc335667a2273172306792407646c36fae734ec"
+      },
+      {
+        "path": "Informatics/library-data/sound-edition.json",
+        "sha256": "72b21f12aa82d6f2e0fd4033dc3b047322db8fd9945994e3d1225093966592bc"
+      },
+      {
+        "path": "Informatics/library-data/sound-source.json",
+        "sha256": "e7adb2ee44d4758656ca3c74d0a150bf3b81e75d159874cc7257aa096cdd75fe"
+      },
+      {
+        "path": "Informatics/library-data/vision-source.json",
+        "sha256": "4e587a23ac97ae7b76307dfaf117c9ab026b7d022e2d7f158d4b4f710c3308cd"
+      },
+      {
+        "path": "Informatics/library-launcher.css",
+        "sha256": "2d230e7215cc10c868765d9050a5173d405d9ba343300116e512339bc682bdf9"
+      },
+      {
+        "path": "Informatics/library-launcher.js",
+        "sha256": "e658635d4c81bae246d42eddb00a11aeac02897d85a240df569bcce773b2cf26"
+      },
+      {
+        "path": "Informatics/library-navigation.js",
+        "sha256": "8901b3e870e48664b1a7db9e667c9ca387ed1afc2d5c41591893e0d7a4abf10e"
+      },
+      {
+        "path": "Informatics/library-theme.js",
+        "sha256": "29419131491b488d2837d3de05117356e46caa0bd404be31657a32b5c91fd187"
+      },
+      {
+        "path": "Informatics/library.css",
+        "sha256": "73e2ffa21648750b53998f82c47fd70bb4a2f6c8ece2f964a74e8b1e6e376d09"
+      },
+      {
+        "path": "Informatics/library.html",
+        "sha256": "8c6193017f0e4f1b3d173f54dbf0418938d252223d36c4e14f9d7c1bc0a6d201"
+      },
+      {
+        "path": "Informatics/library.js",
+        "sha256": "fdc5bb595317e9442815f8bfad5eea452f8c8451238e90cc8d077da341b7eddb"
+      }
+    ],
+    "initialLiveResearchMismatch": "Detected an in-progress research release, retained its completed Git commits, and repeated integrated menu and HTTP checks. No research data was overwritten by this task."
+  },
+  "screenshots": [
+    {
+      "path": "gene-atoms-desktop.png",
+      "sha256": "72e30e0a99746d998c535876b242bd3fd98287e4e114f4293b0991146bb2d486"
+    },
+    {
+      "path": "gene-atoms-mobile.png",
+      "sha256": "2b93c29719749accae7ccb45bc319262b5cb225f42dc76a4e8317203783e3dcd"
+    },
+    {
+      "path": "gene-surface-desktop.png",
+      "sha256": "dd1adbef54b6713cf642ff52f2347418a1be61edf80c8310e9a706361b67b35f"
+    },
+    {
+      "path": "navigation-desktop.png",
+      "sha256": "34edc3c9796e02200755a799227a767c58a8a461bf2e7b808595c9b62feec2ab"
+    },
+    {
+      "path": "roadmap-desktop.png",
+      "sha256": "3e376ed8838ee18962decb5b3e5b341caba3e0c448590d95551d3b35fe039c74"
+    },
+    {
+      "path": "roadmap-landing.png",
+      "sha256": "f5a9fbb976b72ef8d95e500d27a0faa23328d1234797335ad95471ef725dd858"
+    },
+    {
+      "path": "roadmap-mobile.png",
+      "sha256": "c217d46477f9198401563f6b2f25920cc8ef5e7e0d96cbde3da872dccc63c0b8"
+    }
+  ]
+}

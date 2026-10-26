@@ -1,0 +1,31 @@
+{
+  "records": 48,
+  "papers": 14,
+  "heroes": 4,
+  "shared_references_per_record": 14,
+  "unchanged_wss_assessments": 144,
+  "existing_atlas_views_preserved": 5,
+  "new_register_views": 2,
+  "version": "2026-10-17.1",
+  "source_commit": "5731a454b09e10275083c24ca06c1a07c03f3594",
+  "verified_at": "2026-10-17 01:42:28 UTC",
+  "staging_url": "https://staging.universalmind.tv/informatics/",
+  "live_files_matching_candidate": 60,
+  "desktop_viewport": [
+    1440,
+    1000
+  ],
+  "mobile_viewport": [
+    390,
+    844
+  ],
+  "all_available_sequence_views": true,
+  "register_and_genomics_lightboxes": true,
+  "music_continuity": true,
+  "fullscreen_container_preserved": true,
+  "native_fullscreen_invoked": false,
+  "process_audio_disabled": true,
+  "python_data_integrity_passed": true,
+  "geometry_unchanged_from": "97d7d8e92489f5d95d2a09a6e6293fcb997363f8",
+  "production_modified": false
+}

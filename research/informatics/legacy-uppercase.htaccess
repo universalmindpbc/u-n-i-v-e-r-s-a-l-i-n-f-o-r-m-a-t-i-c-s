@@ -1,0 +1,3 @@
+# Preserve existing bookmarks while using the lowercase public URL.
+RewriteEngine On
+RewriteRule ^(.*)$ /informatics/$1 [R=301,L]

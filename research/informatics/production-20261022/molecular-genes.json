@@ -1,0 +1,213 @@
+{
+  "passed": true,
+  "live": true,
+  "processMuted": true,
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "geneRepresentations": [
+        {
+          "type": "ball-and-stick",
+          "atomCount": 1962,
+          "visiblePixels": 626
+        },
+        {
+          "type": "molecular-surface",
+          "atomCount": 1962,
+          "visiblePixels": 1380
+        },
+        {
+          "type": "cartoon",
+          "atomCount": 1962,
+          "visiblePixels": 870
+        }
+      ]
+    },
+    {
+      "allGenes": [
+        {
+          "symbol": "OXTR",
+          "length": 19248,
+          "window": 15
+        },
+        {
+          "symbol": "SLC6A4",
+          "length": 44225,
+          "window": 2785
+        },
+        {
+          "symbol": "DRD2",
+          "length": 67382,
+          "window": 1004
+        },
+        {
+          "symbol": "GRIN1",
+          "length": 30420,
+          "window": 808
+        },
+        {
+          "symbol": "GRIN2B",
+          "length": 544197
+        },
+        {
+          "symbol": "IL6",
+          "length": 6119,
+          "window": 1316
+        },
+        {
+          "symbol": "NR3C1",
+          "length": 157582,
+          "window": 31826
+        },
+        {
+          "symbol": "DOCK2",
+          "length": 446159,
+          "window": 51
+        },
+        {
+          "symbol": "CD38",
+          "length": 74958,
+          "window": 53
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "geneProteinToggle": true,
+      "sourceLabels": true,
+      "sequenceWindow": true,
+      "exonJump": true,
+      "endBoundary": true,
+      "collectionLegibility": true,
+      "geometryPreserved": true,
+      "videoContinued": true,
+      "noOverflow": true
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "geneRepresentations": [
+        {
+          "type": "ball-and-stick",
+          "atomCount": 1962,
+          "visiblePixels": 700
+        },
+        {
+          "type": "molecular-surface",
+          "atomCount": 1962,
+          "visiblePixels": 1519
+        },
+        {
+          "type": "cartoon",
+          "atomCount": 1962,
+          "visiblePixels": 986
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "geneProteinToggle": true,
+      "sourceLabels": true,
+      "sequenceWindow": true,
+      "exonJump": true,
+      "endBoundary": true,
+      "collectionLegibility": true,
+      "geometryPreserved": true,
+      "videoContinued": true,
+      "noOverflow": true
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "geneRepresentations": [
+        {
+          "type": "ball-and-stick",
+          "atomCount": 1962,
+          "visiblePixels": 295
+        },
+        {
+          "type": "molecular-surface",
+          "atomCount": 1962,
+          "visiblePixels": 641
+        },
+        {
+          "type": "cartoon",
+          "atomCount": 1962,
+          "visiblePixels": 411
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "geneProteinToggle": true,
+      "sourceLabels": true,
+      "sequenceWindow": true,
+      "exonJump": true,
+      "endBoundary": true,
+      "collectionLegibility": true,
+      "geometryPreserved": true,
+      "videoContinued": true,
+      "noOverflow": true
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "geneRepresentations": [
+        {
+          "type": "ball-and-stick",
+          "atomCount": 1962,
+          "visiblePixels": 236
+        },
+        {
+          "type": "molecular-surface",
+          "atomCount": 1962,
+          "visiblePixels": 533
+        },
+        {
+          "type": "cartoon",
+          "atomCount": 1962,
+          "visiblePixels": 337
+        }
+      ]
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 844
+      },
+      "geneProteinToggle": true,
+      "sourceLabels": true,
+      "sequenceWindow": true,
+      "exonJump": true,
+      "endBoundary": true,
+      "collectionLegibility": true,
+      "geometryPreserved": true,
+      "videoContinued": true,
+      "noOverflow": true
+    },
+    {
+      "geneRequestFailureVisible": true,
+      "retryRecovers": true
+    }
+  ],
+  "verifiedEnvironment": "production",
+  "verifiedBaseURL": "https://universalmind.tv/informatics/"
+}

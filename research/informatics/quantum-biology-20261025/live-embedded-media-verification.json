@@ -1,0 +1,50 @@
+{
+  "verifiedAt": "2026-10-24T19:04:47.514Z",
+  "source": "7cfd44b0",
+  "passed": true,
+  "process_audio_muted": true,
+  "checks": [
+    {
+      "route": "library.html",
+      "shared_media_controls": true,
+      "duplicate_controls_hidden": true
+    },
+    {
+      "route": "connect.html",
+      "shared_media_controls": true,
+      "duplicate_controls_hidden": true
+    }
+  ],
+  "public_capacity": {
+    "allowed": true,
+    "unit": "AI questions",
+    "periods": {
+      "day": {
+        "key": "2026-10-24T00:00:00.000Z",
+        "used": 0,
+        "limit": 30,
+        "resetAt": "2026-10-25T00:00:00.000Z",
+        "remaining": 30
+      },
+      "week": {
+        "key": "2026-10-19T00:00:00.000Z",
+        "used": 0,
+        "limit": 120,
+        "resetAt": "2026-10-26T00:00:00.000Z",
+        "remaining": 120
+      },
+      "month": {
+        "key": "2026-10-01T00:00:00.000Z",
+        "used": 0,
+        "limit": 300,
+        "resetAt": "2026-11-01T00:00:00.000Z",
+        "remaining": 300
+      }
+    },
+    "resetAt": null,
+    "hardware": {
+      "available": false,
+      "reason": "Public hardware funding and dispatch are not active."
+    }
+  }
+}

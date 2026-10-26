@@ -1,0 +1,58 @@
+[
+  {
+    "file": "Informatics/index.html",
+    "url": "https://staging.universalmind.tv/informatics/index.html",
+    "source_sha256": "38e1fdd4780437d2eef5b2091f9a837e4ee2f8d2636826c0a6149d5f329023ce",
+    "staging_sha256": "38e1fdd4780437d2eef5b2091f9a837e4ee2f8d2636826c0a6149d5f329023ce",
+    "match": true
+  },
+  {
+    "file": "Informatics/vision-science.css",
+    "url": "https://staging.universalmind.tv/informatics/vision-science.css",
+    "source_sha256": "8e241c43ae881a9c238ceeacead33064180f29d58669fef485d28c61409d9d14",
+    "staging_sha256": "8e241c43ae881a9c238ceeacead33064180f29d58669fef485d28c61409d9d14",
+    "match": true
+  },
+  {
+    "file": "Informatics/vision-science.js",
+    "url": "https://staging.universalmind.tv/informatics/vision-science.js",
+    "source_sha256": "f8bba6c94b4d81dec6088eeab1cdae5a113247653b1e675ccd36d9ecfe6aae17",
+    "staging_sha256": "f8bba6c94b4d81dec6088eeab1cdae5a113247653b1e675ccd36d9ecfe6aae17",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/index.html",
+    "url": "https://staging.universalmind.tv/informatics/quantum/index.html",
+    "source_sha256": "117f67b113c2719f85a452ba91bcc91a0ab50468a710ce7ba96c821930a059a6",
+    "staging_sha256": "117f67b113c2719f85a452ba91bcc91a0ab50468a710ce7ba96c821930a059a6",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/biology.css",
+    "url": "https://staging.universalmind.tv/informatics/quantum/biology.css",
+    "source_sha256": "256c6438743264e9faaa8964e65cdb6855178efa4c00d6f4054fd390aaeb03f9",
+    "staging_sha256": "256c6438743264e9faaa8964e65cdb6855178efa4c00d6f4054fd390aaeb03f9",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/biology.js",
+    "url": "https://staging.universalmind.tv/informatics/quantum/biology.js",
+    "source_sha256": "4e1af666bddee6e75d3b1d7881661c00fe5b43b17582ef6063dcc3bb4526578a",
+    "staging_sha256": "4e1af666bddee6e75d3b1d7881661c00fe5b43b17582ef6063dcc3bb4526578a",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/response-view.js",
+    "url": "https://staging.universalmind.tv/informatics/quantum/response-view.js",
+    "source_sha256": "035abbd1ada8ec698f2082cd79d7428829ffc3575b3cc895ea04cefdd47a2c54",
+    "staging_sha256": "035abbd1ada8ec698f2082cd79d7428829ffc3575b3cc895ea04cefdd47a2c54",
+    "match": true
+  },
+  {
+    "file": "Informatics/quantum/insights.js",
+    "url": "https://staging.universalmind.tv/informatics/quantum/insights.js",
+    "source_sha256": "a0e21b9bf88aeff8dfe8c1e000838446d1bbaff1aa09f1d6b8ba34e27deaa847",
+    "staging_sha256": "a0e21b9bf88aeff8dfe8c1e000838446d1bbaff1aa09f1d6b8ba34e27deaa847",
+    "match": true
+  }
+]

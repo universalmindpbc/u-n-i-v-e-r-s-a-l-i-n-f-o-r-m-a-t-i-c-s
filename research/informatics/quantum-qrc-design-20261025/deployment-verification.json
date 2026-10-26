@@ -1,0 +1,74 @@
+{
+  "verifiedAt": "2026-10-24T23:57:54.439Z",
+  "source_commit": "35e5918c",
+  "worker_version": "f1210797-2c95-40e1-a06e-bd56ff5820ed",
+  "staging": "https://staging.universalmind.tv/informatics/?entry=research&area=quantum",
+  "production_ref_unchanged": "6d58d23e36fa2942e260a4eacd808c7eb68c3623",
+  "assets": [
+    {
+      "path": "Informatics/index.html",
+      "http": 200,
+      "sha256": "443f1a8c0fc7f715c03c8fed410c3e72c34523042c768be35a07c9557f9548b3"
+    },
+    {
+      "path": "Informatics/quantum/biology.css",
+      "http": 200,
+      "sha256": "fe057ca1d17a5cb32ab49ef489c83baa33ed23a22abaa166334a33ba1faa0d3c"
+    },
+    {
+      "path": "Informatics/quantum/biology.js",
+      "http": 200,
+      "sha256": "29787746b94bd5cd41d73f867cd2a99f2d036342bd3bc761a3a181ae315432fe"
+    },
+    {
+      "path": "Informatics/quantum/data/oxtr-qrc-protocol.md",
+      "http": 200,
+      "sha256": "e1c2d9bbdc30cd0ea1e34e1194fee9c31372e1efc50c85c5723252c87327fbc3"
+    },
+    {
+      "path": "Informatics/quantum/data/oxtr-qrc-state.json",
+      "http": 200,
+      "sha256": "6b48196ce8e66f58f5c9de3d534917a16db7b43295ae8c88c82683d7b6d53651"
+    },
+    {
+      "path": "Informatics/quantum/data/oxtr-qrc-study.json",
+      "http": 200,
+      "sha256": "efa0b701122aab3cbacd573ee1ed8f0476394e26817794c178a84bd675d20eca"
+    },
+    {
+      "path": "Informatics/quantum/data/papers.json",
+      "http": 200,
+      "sha256": "2aa626c97b2e14898cebb38d2f8149740b12559da17039fea9491a4c625aa0a1"
+    },
+    {
+      "path": "Informatics/quantum/index.html",
+      "http": 200,
+      "sha256": "ea8efe253dec9920e8aff74916636658735715ae4f8777a90254af9d9fdcb1b6"
+    },
+    {
+      "path": "Informatics/quantum/study.js",
+      "http": 200,
+      "sha256": "8223cdb5aeeeb4482f874d1155d05a057771b9ee038acc9879593c0dbc5c3675"
+    },
+    {
+      "path": "Informatics/research.html",
+      "http": 200,
+      "sha256": "f4510acad31ccded3c5a404c43a59d3af0f0fcdf1d98a8bc930bce03ec44191a"
+    },
+    {
+      "path": "Informatics/science.css",
+      "http": 200,
+      "sha256": "3b1dc08557873620e70bbce2ad13d4f9526971fcefaeb7e49e3b8216b1f7808f"
+    },
+    {
+      "path": "Informatics/science.js",
+      "http": 200,
+      "sha256": "3844b867a860e26cb0bc3113470759d4c49eee886f2d6591376dbf78516b3945"
+    },
+    {
+      "path": "Informatics/tfbs-geometry.js",
+      "http": 200,
+      "sha256": "8ee3b7eb0dc5f7c60c44c5b01bed9f7b49371b1f34b5a512eae7dda082161e5d"
+    }
+  ]
+}

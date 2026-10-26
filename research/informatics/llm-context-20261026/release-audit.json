@@ -1,0 +1,14 @@
+{
+  "recordedAt": "2026-10-26T00:38:55.310962+00:00",
+  "sourceCommit": "9931dfeaf8fbc314cdd97ad081b2b28863ddfd3c",
+  "correction": "Restore the shared Fibonacci and OXTR research introduction; identify OXTR as the oxytocin receptor gene; derive shared introductory wording from approved About copy.",
+  "scope": [
+    "Informatics LLM guide",
+    "root LLM guide",
+    "reading generator",
+    "LLM text encoding"
+  ],
+  "verified": "verification.json",
+  "approvedAboutAndWikiUnchanged": true,
+  "productionModified": false
+}

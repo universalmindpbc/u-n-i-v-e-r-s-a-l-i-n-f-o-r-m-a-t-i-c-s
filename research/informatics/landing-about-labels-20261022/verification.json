@@ -1,0 +1,96 @@
+{
+  "passed": true,
+  "verifiedAt": "2026-10-21T19:19:16.156Z",
+  "sourceCommit": "7a0af4449858105922336ba6a9a064327006e5a3",
+  "stagingUrl": "https://staging.universalmind.tv/informatics/",
+  "processMuted": true,
+  "nativeFullscreen": false,
+  "scope": "Landing link removal and three About labels",
+  "http": {
+    "status": 200,
+    "sourceSha256": "ce92160608194b0dd302dfe29a43f83216f977be4d35e6b5df5df592d88a5c78",
+    "rawResponseSha256": "ce92160608194b0dd302dfe29a43f83216f977be4d35e6b5df5df592d88a5c78",
+    "normalizedResponseMatchesSource": true
+  },
+  "results": [
+    {
+      "viewport": {
+        "width": 1470,
+        "height": 956
+      },
+      "landingLinkRemoved": true,
+      "landingLogoTitleLaunchPreserved": true,
+      "labels": [
+        "Sound Research \u2197",
+        "Vision Research \u2197",
+        "Language Research \u2197"
+      ],
+      "researchCollections": [
+        {
+          "collection": "sound",
+          "url": "https://staging.universalmind.tv/informatics/library.html?embedded=1&collection=sound",
+          "chapters": 6
+        },
+        {
+          "collection": "vision",
+          "url": "https://staging.universalmind.tv/informatics/library.html?embedded=1&collection=vision",
+          "resultCount": "65 papers in Vision"
+        },
+        {
+          "collection": "language",
+          "url": "https://staging.universalmind.tv/informatics/library.html?embedded=1&collection=language",
+          "resultCount": "315 papers in Language"
+        }
+      ],
+      "closeAndFocusRestored": true,
+      "noPageErrors": true
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "landingLinkRemoved": true,
+      "landingLogoTitleLaunchPreserved": true,
+      "labels": [
+        "Sound Research \u2197",
+        "Vision Research \u2197",
+        "Language Research \u2197"
+      ],
+      "researchCollections": [
+        {
+          "collection": "sound",
+          "url": "https://staging.universalmind.tv/informatics/library.html?embedded=1&collection=sound",
+          "chapters": 6
+        },
+        {
+          "collection": "vision",
+          "url": "https://staging.universalmind.tv/informatics/library.html?embedded=1&collection=vision",
+          "resultCount": "65 papers in Vision"
+        },
+        {
+          "collection": "language",
+          "url": "https://staging.universalmind.tv/informatics/library.html?embedded=1&collection=language",
+          "resultCount": "315 papers in Language"
+        }
+      ],
+      "closeAndFocusRestored": true,
+      "noPageErrors": true
+    }
+  ],
+  "deployment": {
+    "method": "./deploy-panthur-staging.sh informatics",
+    "changedUploads": 1,
+    "uploadedFiles": [
+      "Informatics/index.html"
+    ],
+    "preflightsPassed": true,
+    "productionModified": false,
+    "mainBefore": "636bfa9ae41efe036b2cccac0827c724edfde92b"
+  },
+  "visualReview": {
+    "desktopLanding": true,
+    "desktopAbout": true,
+    "mobileAbout": true
+  }
+}

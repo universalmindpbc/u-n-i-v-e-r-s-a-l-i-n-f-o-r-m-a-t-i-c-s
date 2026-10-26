@@ -1,0 +1,980 @@
+{
+  "verified_at": "2026-10-21T17:10:57.263230+11:00",
+  "timezone": "Australia/Sydney",
+  "authorization": "Ben approved the corrected staging build and explicitly requested: we can push everything to production now.",
+  "approved_staging_commit": "e166db4b0f7d84731ec1c5a17a1df5ea07b2dc9b",
+  "previous_production_commit": "a0ced3b0adc553d3786441dc293fb3f700f22734",
+  "release_tag": "production-2026-10-21-1710",
+  "scope": [
+    "Partners including NVIDIA",
+    "Shared Atlas and record navigation",
+    "Sound and Vision refinements",
+    "Complete OXTR Studies integration and exact-position counts"
+  ],
+  "urls": {
+    "production": "https://universalmind.tv/informatics/",
+    "staging": "https://staging.universalmind.tv/informatics/"
+  },
+  "website_source_changed_after_approval": false,
+  "deployment": {
+    "command": "./deploy-panthurlive.sh informatics",
+    "exit_code": 0,
+    "tracked_scope_assets": 11153,
+    "uploaded_assets": 86,
+    "outside_informatics_manifest_entries_unchanged": true,
+    "production_manifest_sha256": "5296ae4415cb21d340c85181404725f68a97d4f0904f5c88ebb5c03712da4203",
+    "staging_manifest_sha256": "5296ae4415cb21d340c85181404725f68a97d4f0904f5c88ebb5c03712da4203"
+  },
+  "verification": {
+    "checks": [
+      {
+        "check": "check-partners.mjs",
+        "exit_code": 0,
+        "seconds": 6.0
+      },
+      {
+        "check": "check-informatics-areas-browser.mjs",
+        "exit_code": 0,
+        "seconds": 24.6
+      },
+      {
+        "check": "check-informatics-sound-browser.mjs",
+        "exit_code": 0,
+        "seconds": 97.9
+      },
+      {
+        "check": "check-oxtr-geometry-browser.mjs",
+        "exit_code": 0,
+        "seconds": 40.2
+      },
+      {
+        "check": "check-oxtr-catalogue-browser.mjs",
+        "exit_code": 0,
+        "seconds": 16.6
+      },
+      {
+        "check": "check-assets.mjs",
+        "exit_code": 0,
+        "seconds": 18.3
+      }
+    ],
+    "partners": [
+      {
+        "width": 1440,
+        "passed": true
+      },
+      {
+        "width": 1024,
+        "passed": true
+      },
+      {
+        "width": 390,
+        "passed": true
+      },
+      {
+        "width": 320,
+        "passed": true
+      }
+    ],
+    "navigation": {
+      "candidate": false,
+      "processMuted": true,
+      "report": [
+        {
+          "viewport": {
+            "width": 1470,
+            "height": 956
+          },
+          "touch": false,
+          "passed": true
+        },
+        {
+          "viewport": {
+            "width": 1024,
+            "height": 768
+          },
+          "touch": false,
+          "passed": true
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "touch": true,
+          "passed": true
+        },
+        {
+          "viewport": {
+            "width": 320,
+            "height": 844
+          },
+          "touch": true,
+          "passed": true
+        }
+      ]
+    },
+    "sound_vision": {
+      "candidate": false,
+      "processMuted": true,
+      "report": [
+        {
+          "viewport": {
+            "width": 1470,
+            "height": 956
+          },
+          "passed": true
+        },
+        {
+          "viewport": {
+            "width": 1024,
+            "height": 768
+          },
+          "passed": true
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "passed": true
+        },
+        {
+          "viewport": {
+            "width": 320,
+            "height": 844
+          },
+          "passed": true
+        }
+      ]
+    },
+    "oxtr_geometry": {
+      "candidate": false,
+      "results": [
+        {
+          "viewport": {
+            "width": 1440,
+            "height": 1000
+          },
+          "combinations": 36,
+          "blend_states_per_combination": 2,
+          "source_definitions_prominent": true,
+          "binding_outcomes_and_exports": true,
+          "side_by_side": true,
+          "controls_and_complete_graphs_fit": true,
+          "legend_matches_marks": true,
+          "blend_default_off": true,
+          "selection_deliberate": true,
+          "exact_position_counts": true,
+          "studies_distinct_centres": 81,
+          "studies_maximum_same_centre": 6,
+          "zoom_region_centres": 66,
+          "zoom_region_observations": 113,
+          "source_counts": {
+            "studies": 128,
+            "encode": 255,
+            "jaspar": 9164
+          },
+          "retry": true,
+          "exports": [
+            "json",
+            "csv",
+            "svg",
+            "png"
+          ],
+          "keyboard": true,
+          "overflow": false,
+          "media_context_preserved": true,
+          "errors": []
+        },
+        {
+          "viewport": {
+            "width": 1366,
+            "height": 768
+          },
+          "combinations": 36,
+          "blend_states_per_combination": 2,
+          "source_definitions_prominent": true,
+          "binding_outcomes_and_exports": true,
+          "side_by_side": true,
+          "controls_and_complete_graphs_fit": true,
+          "legend_matches_marks": true,
+          "blend_default_off": true,
+          "selection_deliberate": true,
+          "exact_position_counts": true,
+          "studies_distinct_centres": 81,
+          "studies_maximum_same_centre": 6,
+          "zoom_region_centres": 66,
+          "zoom_region_observations": 113,
+          "source_counts": {
+            "studies": 128,
+            "encode": 255,
+            "jaspar": 9164
+          },
+          "retry": true,
+          "exports": [
+            "json",
+            "csv",
+            "svg",
+            "png"
+          ],
+          "keyboard": true,
+          "overflow": false,
+          "media_context_preserved": true,
+          "errors": []
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "combinations": 36,
+          "blend_states_per_combination": 2,
+          "source_definitions_prominent": true,
+          "binding_outcomes_and_exports": true,
+          "side_by_side": true,
+          "controls_and_complete_graphs_fit": false,
+          "legend_matches_marks": true,
+          "blend_default_off": true,
+          "selection_deliberate": true,
+          "exact_position_counts": true,
+          "studies_distinct_centres": 81,
+          "studies_maximum_same_centre": 6,
+          "zoom_region_centres": 66,
+          "zoom_region_observations": 113,
+          "source_counts": {
+            "studies": 128,
+            "encode": 255,
+            "jaspar": 9164
+          },
+          "retry": true,
+          "exports": [
+            "json",
+            "csv",
+            "svg",
+            "png"
+          ],
+          "keyboard": true,
+          "overflow": false,
+          "media_context_preserved": true,
+          "errors": []
+        }
+      ]
+    },
+    "oxtr_catalogue": {
+      "passed": true,
+      "candidate": false,
+      "processMuted": true,
+      "results": [
+        {
+          "viewport": {
+            "width": 1440,
+            "height": 1000
+          },
+          "transcriptionTeachingAndFocus": true,
+          "teachingGraphicLoaded": true,
+          "teachingZoomAndGlossary": true,
+          "nestedTeachingEscapeAndFocus": true,
+          "dataExplorer": true,
+          "overlappingEvidenceFilters": true,
+          "all18FilterCombinations": true,
+          "selectedExportMatchesFilter": true,
+          "originalLabelsPreserved": true,
+          "filters": true,
+          "retryAfterFailure": true,
+          "keyboardAndOutsideClose": true,
+          "escapeAndFocus": true,
+          "summaryAndSidebar": true,
+          "aboutNestedLightbox": true,
+          "fullscreenStatePreserved": true,
+          "mediaStatePreserved": true,
+          "downloadsMatched": true,
+          "errors": []
+        },
+        {
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "transcriptionTeachingAndFocus": true,
+          "teachingGraphicLoaded": true,
+          "teachingZoomAndGlossary": true,
+          "nestedTeachingEscapeAndFocus": true,
+          "dataExplorer": true,
+          "overlappingEvidenceFilters": true,
+          "all18FilterCombinations": true,
+          "selectedExportMatchesFilter": true,
+          "originalLabelsPreserved": true,
+          "filters": true,
+          "retryAfterFailure": true,
+          "keyboardAndOutsideClose": true,
+          "escapeAndFocus": true,
+          "summaryAndSidebar": true,
+          "aboutNestedLightbox": true,
+          "fullscreenStatePreserved": true,
+          "mediaStatePreserved": true,
+          "downloadsMatched": false,
+          "errors": []
+        }
+      ]
+    },
+    "http_assets": [
+      {
+        "file": "Informatics/app.js",
+        "status": 200,
+        "bytes": 14780,
+        "sha256": "a5f1e7bc2a21f36f57fc3e2e6524e40647f05f3129688e50ca0f98adcf2db52b",
+        "match": true
+      },
+      {
+        "file": "Informatics/atlas-visuals.js",
+        "status": 200,
+        "bytes": 28592,
+        "sha256": "1658eda32d629d5b5e68f7929df89afbc570df75e165a44b29384cf6fa50f64b",
+        "match": true
+      },
+      {
+        "file": "Informatics/atlas.css",
+        "status": 200,
+        "bytes": 16892,
+        "sha256": "cfc65cc38e3fcf0c0b71f5c4252fe56c43ee844dc9ac444ebd41734e700e6caf",
+        "match": true
+      },
+      {
+        "file": "Informatics/genomics.html",
+        "status": 200,
+        "bytes": 2244,
+        "sha256": "1d698c11bfd039faad228bcddbdb69834fd63fd0366bbdc68b2b5c97b63fcf14",
+        "match": true
+      },
+      {
+        "file": "Informatics/index.html",
+        "status": 200,
+        "bytes": 20783,
+        "sha256": "5f7a8dd07645016b365c84cc6153c1c7f8bfa798fad7c1647304e5141f1e838a",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/M1-M1001-CSV-README.txt",
+        "status": 200,
+        "bytes": 3799,
+        "sha256": "7574bda186fbe075bfa13ecc6ccbff5f27ed0d82f17054cd04b125e8942b2a70",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/M1-M1001-README.txt",
+        "status": 200,
+        "bytes": 2472,
+        "sha256": "79cc1b745df76abc6d7597d7a2205d2f1e3c33cf6e23f54e90581ce4c1d95636",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/csv-shared/dataset.csv",
+        "status": 200,
+        "bytes": 557111,
+        "sha256": "7b8613f7cee0e03118762e2d5be06572ebbabb21adf5fbfc1b023cc9c49d7349",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/csv-shared/index.csv",
+        "status": 200,
+        "bytes": 423279,
+        "sha256": "161b13e589f6c286b626b83ed959b212fee0e1051e762486e88c3714f1bd3659",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/csv-shared/m1-m1001.csv",
+        "status": 200,
+        "bytes": 557111,
+        "sha256": "7b8613f7cee0e03118762e2d5be06572ebbabb21adf5fbfc1b023cc9c49d7349",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/dataset.json",
+        "status": 200,
+        "bytes": 267564,
+        "sha256": "5a00d888ac75317f305ebec7a0ff3553928de39424d5b366c82e5dc6045cfc74",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/index.json",
+        "status": 200,
+        "bytes": 215476,
+        "sha256": "a4db55764d8505f49b5249a87e423e7e97a242cdf13502030269d4207a49b447",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/m1-m1001-csv.zip",
+        "status": 200,
+        "bytes": 86919510,
+        "sha256": "99e2fa51f946f88e74312e04428edb2c9fecf5a712a282fac9c06b7f815cb7e5",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/m1-m1001-data.zip",
+        "status": 200,
+        "bytes": 59615694,
+        "sha256": "0cbc092dcd2345c7a8c7a1f1c2d6a636f3eb5881104ab2f32ba8d40889e26e0e",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/m1-m1001.json",
+        "status": 200,
+        "bytes": 267564,
+        "sha256": "5a00d888ac75317f305ebec7a0ff3553928de39424d5b366c82e5dc6045cfc74",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/README.txt",
+        "status": 200,
+        "bytes": 8323,
+        "sha256": "8c809fdb8bcee30ae2813dc527742846a9a145adf39add1babd5008c4995d09e",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/binding-outcomes-fields.csv",
+        "status": 200,
+        "bytes": 9767,
+        "sha256": "029b35100296c2d2b9999d86b643cc1d062a5797948d2be864de0725a2870798",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/binding-outcomes.json",
+        "status": 200,
+        "bytes": 7567,
+        "sha256": "bb07aeece5b24982e06796ce83a174d6a6069d55d550d0fee12fd05011495e72",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/catalogue-fields.csv",
+        "status": 200,
+        "bytes": 148500,
+        "sha256": "4d7fb4758a9b23cf67f2027eadd71931c5a6bb5e8e0f6da7834294dfa862b006",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/catalogue.json",
+        "status": 200,
+        "bytes": 98607,
+        "sha256": "60f66a0be6bcf3b94891aa6d71ac9c5012c6040bfa39e4cf48fb85127c1cf400",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/build_experiment.py",
+        "status": 200,
+        "bytes": 12875,
+        "sha256": "c4ae017479d67d3636fd369e859a8f797329e88780f4d2186c807f6c26d3d488",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/display-audit-fields.csv",
+        "status": 200,
+        "bytes": 4694,
+        "sha256": "2b26ecb1d696654001a822da8d8e934b680c9b72360c238e34ab38a77292fc26",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/display-audit.json",
+        "status": 200,
+        "bytes": 5690,
+        "sha256": "4a10cd69f30cf0c5187ee9497e67c9b3f5fe0816f9a757f57448cd04e3e9e902",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/encode.csv",
+        "status": 200,
+        "bytes": 524006,
+        "sha256": "e404d11bf88c8c292c6c28da7d4ef9b84d3b073ffa83ca6377385475ff7d241f",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/encode.json",
+        "status": 200,
+        "bytes": 468379,
+        "sha256": "1fdae9dae759f3a7f9045a3332d5998fb8b9034b5cab040a4ac5dbbe03376c5d",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/jaspar.csv",
+        "status": 200,
+        "bytes": 8638044,
+        "sha256": "d65f01a50f55c61d646a95556eae9de6b5def727cf074cdba506dd59d313b0ff",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/jaspar.json.gz",
+        "status": 200,
+        "bytes": 617948,
+        "sha256": "a00bef58682099f3f6b0ca1a7cdb834354cc30d8fa14baef89572195fd6b20c9",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/manifest-fields.csv",
+        "status": 200,
+        "bytes": 5716,
+        "sha256": "81695be2daff280696847f5607395e5196a2d1a566a1732c1698e4c163b9f945",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/manifest.json",
+        "status": 200,
+        "bytes": 5324,
+        "sha256": "48671fb3fb93f99da4d9551f94d2625b00a6f68660542c335153b4d8e7c16c3b",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/methods.md",
+        "status": 200,
+        "bytes": 10748,
+        "sha256": "8c6ba6b7e9409e3aeca954144798feca7177d5916ccb0fc04fcaaf73413bd8cf",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/overlay-v1-fields.csv",
+        "status": 200,
+        "bytes": 3471,
+        "sha256": "11ac799ee9be39734a967a3c047539530194e7fe1f019be754a3e74c92edb0ef",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/overlay-v1.json",
+        "status": 200,
+        "bytes": 3192,
+        "sha256": "41916dfc46119d2c54921930f4e513272a319de936d3540d298c4e62dfac8c5f",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/python-validation-fields.csv",
+        "status": 200,
+        "bytes": 1229,
+        "sha256": "3b03c84e528cd18db12ab7fbafe6205adc89eeef0867bfecce294cd1c92f3cce",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/python-validation.json",
+        "status": 200,
+        "bytes": 1143,
+        "sha256": "3f00182063f5fd4d3c2f582acaf3237593e9c67d99ec57a0f8b6cabf4c002069",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/requirements.txt",
+        "status": 200,
+        "bytes": 29,
+        "sha256": "b519d87b8a293239d34c9e2db71ba2628df999be716d753575ae6bc0e485b424",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/studies.csv",
+        "status": 200,
+        "bytes": 265372,
+        "sha256": "ce4c7e9f8cffc926e3db85b09a2934e238c3f9eb29ff95fc0dda19a1ed6deffc",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/studies.json",
+        "status": 200,
+        "bytes": 301847,
+        "sha256": "73b83ada4f22caf94c4d039490594d1bd8a84b4c2c41e9801df76261943490d3",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/verify.wl",
+        "status": 200,
+        "bytes": 1583,
+        "sha256": "6bea21f9ea43691b683d05522c5354eb1636e655a1d1b4b3dfb31536abe6bafa",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/wolfram-validation-fields.csv",
+        "status": 200,
+        "bytes": 1231,
+        "sha256": "ebb3cab8520c6dd46ffb7f4458a20047e6c0e045673049c614c9bf38418c793e",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/wolfram-validation.json",
+        "status": 200,
+        "bytes": 2062,
+        "sha256": "708410c04d6cbeaee84b9551dda3d8211678acae07acadfecd4e8700089d0d49",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/file-manifest.csv",
+        "status": 200,
+        "bytes": 9830,
+        "sha256": "bdd9af717303992f6c88d5c287ae72f10d9cec2a3efd02da20434f54809a7140",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/human-evidence-summary.csv",
+        "status": 200,
+        "bytes": 382,
+        "sha256": "b78fbbf4192e404b2d6df3b80171f6d3a6641eb48e86d7d3156577814eb0bd78",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/human-site-project-fields.csv",
+        "status": 200,
+        "bytes": 6761,
+        "sha256": "f878e05d381c0d3cb5070a6a6a3c8ff4386576a690b28bcb64ab41ee6148f640",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/human-site-project.json",
+        "status": 200,
+        "bytes": 5243,
+        "sha256": "b2fdcf4b4543e4a1b26cc3f3bc60605fafde5371d75b3d511ac7529aaf98e6b7",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/literature-evidence.csv",
+        "status": 200,
+        "bytes": 21276,
+        "sha256": "db27a1f2aec0ac99fc1bf809f6ea388d8722d7aab60522bf1b59fe2f321f3780",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/literature-evidence.json",
+        "status": 200,
+        "bytes": 37765,
+        "sha256": "952570dbf5dc5de4b65a0ab7b7843d437943449debd3df4aa8856f78d73fdd5e",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/literature-overlaps.csv",
+        "status": 200,
+        "bytes": 809351,
+        "sha256": "7ae32baf7ada79e56cbcbd646c30dfc30e95b6f2d8d8cd9ccb8addfda33fb1ea",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/literature-overlaps.json",
+        "status": 200,
+        "bytes": 1602705,
+        "sha256": "a96f162784a06f2c9e49bd6297a001d2825b7cd26e34117c285692a8854d36b1",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/mapped-binding-outcomes.csv",
+        "status": 200,
+        "bytes": 4476976,
+        "sha256": "ee09ec0b498707e6f09d5a5475d9d793aacaa3fbdc9ca2e36e94e4d5f5709b88",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/mapped-binding-outcomes.json",
+        "status": 200,
+        "bytes": 6242781,
+        "sha256": "bbb3499a6e566464a7e54c7981df4a0859e4807d8c68e5b227f378324f74653f",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/normalized-literature.csv",
+        "status": 200,
+        "bytes": 23925,
+        "sha256": "415f013c46ea18c22abb05809b2561aa1c69cd90331171fce363847a5b51a082",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/normalized-literature.json",
+        "status": 200,
+        "bytes": 46082,
+        "sha256": "97ff71d8663ae4509f8eb73de923d12517b6aef785182d7384c9c96c2da9b9e4",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/normalized-observations.csv",
+        "status": 200,
+        "bytes": 90176017,
+        "sha256": "34250393e1483b02dffacc547674d0ee9f64f0bb358c3c4c65c510bc50a35fb6",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/normalized-observations.json.gz",
+        "status": 200,
+        "bytes": 7408968,
+        "sha256": "0759b4da8459cacf53d8af3a24149796523c4d6a4a787ca5fa9f0560eb979090",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/oxtr-tfbs-csv.zip",
+        "status": 200,
+        "bytes": 13161581,
+        "sha256": "847fd445053a1104915a5d46362e2d04474d4d14adbd64f9c14a91e27576bc9e",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/oxtr-tfbs-json.zip",
+        "status": 200,
+        "bytes": 15803730,
+        "sha256": "5c0f74e8e7c7dfbf03fd57cde1aaaa686b3d00b3a6f579b40774e75ab9175f49",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/publications.csv",
+        "status": 200,
+        "bytes": 13545,
+        "sha256": "6d9a37a29eb655535f539c2f682f6c58c0db4f8e790cac1c03238c806570fcee",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/publications.json",
+        "status": 200,
+        "bytes": 18883,
+        "sha256": "71f687f5031133c9af9da7ac3239a2f2d80e3b43700f3a0396b3cde69e9fdbf0",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/reference-intervals.csv",
+        "status": 200,
+        "bytes": 7028468,
+        "sha256": "a3b7a773adcd478d5fb7884d98b24de8d3ff21cfc4023cadcc3934c57a841898",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/reference-intervals.json.gz",
+        "status": 200,
+        "bytes": 1368638,
+        "sha256": "db8318db3ee0c52c1296344a5534e90b361922f7e5f87dcd4fd8a88458f4644b",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/BrainTF-LICENSE.txt",
+        "status": 200,
+        "bytes": 1068,
+        "sha256": "9252b2ac7c103bedb175a07ecc71baf6e75933784dcab8f223d6a52667f971dc",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/README.txt",
+        "status": 200,
+        "bytes": 1123,
+        "sha256": "c7041015ae7024df19300b2d6e9254852151c55d0dd6b6e76bb64daa56959795",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/braintf-locus-review.csv",
+        "status": 200,
+        "bytes": 114267,
+        "sha256": "e4869cc606a18593e0b0155e9163fbf4fc95789263edd54072cbbfd917e858ba",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/braintf-locus-review.json",
+        "status": 200,
+        "bytes": 303896,
+        "sha256": "5bd1cae8201d0e99f5a245a61133a8acb4180afaa45f696cb0f68bbe3533d4a1",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/braintf-peaks.csv",
+        "status": 200,
+        "bytes": 162519,
+        "sha256": "80761be33476f9fd76f42e781de142d8f96a52cf2738a5146e6dcbdb70f7365f",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/braintf-peaks.json",
+        "status": 200,
+        "bytes": 235226,
+        "sha256": "2135e0f2198bba5b0a2d2a3c60ba425d52e212dae6978f3d613b638b585777a9",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/braintf-qc-rows.csv",
+        "status": 200,
+        "bytes": 17479,
+        "sha256": "3dc5d7e6fd2fbfdfd83069e99ea9ff0bcb197dbeba1ebc1030ef92310d14d24e",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/braintf-qc-rows.json",
+        "status": 200,
+        "bytes": 42756,
+        "sha256": "495d2072ef5fe9aa8c4040f78ef71d6518d1796f2a9cf05a09c54740da108f56",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/enhancer-regions.csv",
+        "status": 200,
+        "bytes": 2928,
+        "sha256": "851d9f845db30fb490765adea78795f264a638aff53425b17d06b51ad433fe07",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/enhancer-regions.json",
+        "status": 200,
+        "bytes": 3988,
+        "sha256": "b13ad5184015df76c4570a12ef851b55638991b10ed45eaaa4f5b95bfd0f2c62",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/review-fields.csv",
+        "status": 200,
+        "bytes": 3921,
+        "sha256": "3d357764a4b2f79a92ecc278d4b432b6ccafab7ce64d955efb70ad4f0ce88f1c",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/review.json",
+        "status": 200,
+        "bytes": 3430,
+        "sha256": "45b455800d994b3925d8d2116ac5f18cfab625ab799e140c7b87d545ebadcb9a",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/source-file-hashes.csv",
+        "status": 200,
+        "bytes": 62925,
+        "sha256": "b22fba7d3576414c035ca05534769b9c01d24b2345a2c2a7f3378ce1125cc8e5",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/source-file-hashes.json",
+        "status": 200,
+        "bytes": 78768,
+        "sha256": "58347b27c2b86b833997a7d66ce387365223d3f38a3a306ad83d38c407e08c80",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/sources.csv",
+        "status": 200,
+        "bytes": 77697,
+        "sha256": "e2c08c9e2c59823b4a21103f0ccfa08ade2c00ac926af50aa40c5281a9d774a5",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/study-additions-v1/sources.json",
+        "status": 200,
+        "bytes": 91564,
+        "sha256": "fe4acac1c295db9b20e3d3f62aae98b87ca90edde5a1c8470e3685330655b0d2",
+        "match": true
+      },
+      {
+        "file": "Informatics/record-navigation.js",
+        "status": 200,
+        "bytes": 6107,
+        "sha256": "07058c2083567bd181e1adafcd6ead3d3782f519825b783ff634e268e51bd856",
+        "match": true
+      },
+      {
+        "file": "Informatics/research.css",
+        "status": 200,
+        "bytes": 16684,
+        "sha256": "62d34fbc42967c29ae4267de8a57b4e627f72e044302c18325c2fb664decc8bd",
+        "match": true
+      },
+      {
+        "file": "Informatics/research.html",
+        "status": 200,
+        "bytes": 14606,
+        "sha256": "857d66bad95b9658de05bacc34b7082198a7d4603da6e61e8a0bd6596f3c0e35",
+        "match": true
+      },
+      {
+        "file": "Informatics/research.js",
+        "status": 200,
+        "bytes": 21230,
+        "sha256": "0a3a15fe61cf34e357541b677ec1d79585ecb3a2539ab65c34e0ef4a4319f97e",
+        "match": true
+      },
+      {
+        "file": "Informatics/science-assets/oxtr-transcription-v1.png",
+        "status": 200,
+        "bytes": 2037701,
+        "sha256": "2e7997608a66ffa892498f20c6401f98fd188bd938c6a68fb0f32c9a0cab9abc",
+        "match": true
+      },
+      {
+        "file": "Informatics/science.css",
+        "status": 200,
+        "bytes": 37317,
+        "sha256": "9dcf74060413d245fb96a3cdf2937e989614a248a51708533af6b66e708179a3",
+        "match": true
+      },
+      {
+        "file": "Informatics/science.js",
+        "status": 200,
+        "bytes": 59967,
+        "sha256": "29b1d571fd2b055785ef37e442c4c084de544ee3e96726a6462d576b74862b4c",
+        "match": true
+      },
+      {
+        "file": "Informatics/tfbs-evidence.js",
+        "status": 200,
+        "bytes": 679,
+        "sha256": "21f5b9da1947a1ac8e3956b24c88820e9a29252be7e43bc1d7e59ed789df6c21",
+        "match": true
+      },
+      {
+        "file": "Informatics/tfbs-explorer.js",
+        "status": 200,
+        "bytes": 17272,
+        "sha256": "7d5271021644d7fc543cafd5513a2bcdd46f8d63436f56728d32e7ed21c911ce",
+        "match": true
+      },
+      {
+        "file": "Informatics/tfbs-geometry.js",
+        "status": 200,
+        "bytes": 49769,
+        "sha256": "da91b6a7f3c09df15b30f0bce096449b8d0c1772470d73068863c9114d016bd6",
+        "match": true
+      }
+    ],
+    "staging_preserved": [
+      {
+        "file": "Informatics/app.js",
+        "status": 200,
+        "sha256": "a5f1e7bc2a21f36f57fc3e2e6524e40647f05f3129688e50ca0f98adcf2db52b",
+        "match": true
+      },
+      {
+        "file": "Informatics/atlas-visuals.js",
+        "status": 200,
+        "sha256": "1658eda32d629d5b5e68f7929df89afbc570df75e165a44b29384cf6fa50f64b",
+        "match": true
+      },
+      {
+        "file": "Informatics/atlas.css",
+        "status": 200,
+        "sha256": "cfc65cc38e3fcf0c0b71f5c4252fe56c43ee844dc9ac444ebd41734e700e6caf",
+        "match": true
+      },
+      {
+        "file": "Informatics/index.html",
+        "status": 200,
+        "sha256": "5f7a8dd07645016b365c84cc6153c1c7f8bfa798fad7c1647304e5141f1e838a",
+        "match": true
+      },
+      {
+        "file": "Informatics/pilot-v1/oxtr-tfbs-v1/experiment-v1/studies.json",
+        "status": 200,
+        "sha256": "73b83ada4f22caf94c4d039490594d1bd8a84b4c2c41e9801df76261943490d3",
+        "match": true
+      },
+      {
+        "file": "Informatics/tfbs-geometry.js",
+        "status": 200,
+        "sha256": "da91b6a7f3c09df15b30f0bce096449b8d0c1772470d73068863c9114d016bd6",
+        "match": true
+      }
+    ],
+    "visual_review": "Production Partners grid and NVIDIA placement, Vision page and OXTR zoomed graph reviewed. Desktop, laptop and mobile interactions passed.",
+    "process_level_audio_disabled": true,
+    "native_fullscreen_invoked": false,
+    "browser_errors": []
+  },
+  "data": {
+    "studies_observations": 128,
+    "distinct_studies_centres": 81,
+    "maximum_studies_observations_at_one_centre": 6,
+    "evidence_bundles": [
+      "Studies",
+      "ENCODE",
+      "JASPAR"
+    ],
+    "biology_claim": "Counts describe source observations; broad region centres remain distinct from exact binding sites."
+  },
+  "parallel_work": "The other chat is doing preparation, strategy and research. Only the approved committed staging source is included."
+}

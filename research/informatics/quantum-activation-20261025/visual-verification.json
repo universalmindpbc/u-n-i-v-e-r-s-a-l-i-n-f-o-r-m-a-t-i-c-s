@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "process_audio_muted": true,
+  "no_new_question_or_compute": true,
+  "desktop_capture_height": 1900,
+  "mobile_individual_atom_table_no_overflow": [
+    {
+      "width": 390,
+      "scroll": 390
+    },
+    {
+      "width": 320,
+      "scroll": 320
+    }
+  ],
+  "at": "2026-10-25T01:39:22.727Z"
+}

@@ -1,0 +1,13 @@
+{
+  "checkedAt": "2026-10-26T00:01:11.861Z",
+  "diagnosticDraft": "25ml2hc2yomwLsxbT6UetGUaYM5fgLszZmvNUaqv2pU",
+  "documentId": "49mvo5QpFH2YgMRkPQ4F342Xj4M6",
+  "creationHadDocument": true,
+  "actionStatus": 400,
+  "actionHasDocument": false,
+  "message": {
+    "ok": false,
+    "message": "Document not found"
+  },
+  "emptyDiagnosticDraftRemoved": true
+}
