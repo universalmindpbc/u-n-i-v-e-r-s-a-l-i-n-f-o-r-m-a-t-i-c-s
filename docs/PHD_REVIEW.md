@@ -2,7 +2,7 @@
 
 ## Purpose of this guide
 
-This guide connects three related software projects maintained by Ben Korbel for Universal Mind TV, Public Benefit Corporation. It provides a route through the existing implementation and research foundations for doctoral review. It does not assert university affiliation, doctoral admission, ethics approval, clinical efficacy, patent status or independent validation.
+This guide connects three related software projects maintained by Ben Korbel. Universal Mind I AM and Universal Informatics are licensed by Universal Mind TV, Public Benefit Corporation. Re-Model Intelligence is licensed by Universal Mind TV, Public Benefit Corporation and Re-Model Universe, Public Benefit Corporation. It provides a route through the existing implementation and research foundations for doctoral review. It does not assert university affiliation, doctoral admission, ethics approval, clinical efficacy, patent status or independent validation.
 
 The existing software and associated background intellectual property are distinct from proposed doctoral investigations and any future findings. Ownership, institutional access and research permissions are matters for the relevant written agreements.
 
