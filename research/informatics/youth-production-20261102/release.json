@@ -1,0 +1,60 @@
+{
+  "status": "production deployed and verified",
+  "verifiedAt": "2026-11-02T18:31:46.807517+11:00",
+  "productionURL": "https://universalmind.tv/informatics/research/",
+  "connectURL": "https://universalmind.tv/informatics/connect/",
+  "tag": "production-2026-11-02-1831",
+  "approvedStaging": "fc218a2f82982f7ddf66e32fba3acf2ed7178ef7",
+  "dedicatedSourceCommit": "e2757298191e98cfcbf0cab47e3c1eadea1c9f1d",
+  "productionSourceCommit": "30dff90bdedb5dd851ece594af3d9b3c253cd09f",
+  "productionBase": "57747030461016e4fc2c29bd4534df483118857d",
+  "worker": {
+    "name": "informatics-universal-one",
+    "version": "7d8815a8-001f-403b-9987-0bc145fffe50",
+    "deployment": "ec97ca1d-c820-4072-8347-29e4e5dfda5a",
+    "traffic": 100
+  },
+  "scope": {
+    "sourceFiles": 270,
+    "websiteChangedAssets": 125,
+    "rootDiscoveryChangedAssets": 4,
+    "additions": 100,
+    "existingUpdates": 5,
+    "approvedPublications": 105,
+    "visibleLibrary": 1323,
+    "publicAPI": 991,
+    "exportSources": 1195,
+    "databaseWrites": 0,
+    "unrelatedLabPromoted": false,
+    "historicalReviewBatchProductionAccess": 403
+  },
+  "verificationFiles": [
+    "production-background.json",
+    "production-browser.json",
+    "production-public-api.json",
+    "production-complete-downloads.json",
+    "production-http.json"
+  ],
+  "sourceParity": "All 270 approved source files remain byte-identical to approved staging. All 128 public changed website/discovery assets match source; the historical review batch is correctly restricted to staging.",
+  "paidTests": {
+    "cumulativeCalls": 3,
+    "productionCalls": 0,
+    "conservativeUSD": 0.434525,
+    "conservativeAUD": 0.86905,
+    "totalBudgetAUD": 2,
+    "remainingConservativeUSD": 0.515475,
+    "caveat": "The exact approved production Worker does not enable the staging per-test cost cap. Its possible output alone can exceed the remaining cap, so no new production generated-answer call was made. The identical answer path completed end-to-end on staging. Production health, version, source lookup, retrieval, citations and exports passed free checks."
+  },
+  "knowledge": "Read-only approved-summary overlay and retrieval context; no model fine-tuning, new full texts, embeddings, credential changes or database writes. Public API coverage remains narrower than the complete browser library.",
+  "rollback": {
+    "productionCommit": "57747030461016e4fc2c29bd4534df483118857d",
+    "productionTag": "production-2026-11-02-1509",
+    "workerName": "informatics-universal-one",
+    "workerVersion": "58404974-72da-4721-aa9d-9f1371cae6c7",
+    "productionManifestSHA256": "96bf88576c41657c09c04fb8ddabb933753d16973f770957210ee9328fc36c2c",
+    "websiteRollback": "Restore the scoped files from the production commit and redeploy via deploy-panthurlive.sh informatics and ai-wiki; Git branch changes alone do not change Panthur.",
+    "workerRollback": "Use the recorded production Worker version with the established Wrangler rollback command if a rollback is required. No rollback has been executed."
+  },
+  "approval": "Ben: Okay, that's all approved. So we can, um, we can push all of these informatics builds to production now. Thanks and namaste.",
+  "gitRecord": "The Git commit containing this release record and its annotated production tag record the verified release; remote references are checked after push."
+}

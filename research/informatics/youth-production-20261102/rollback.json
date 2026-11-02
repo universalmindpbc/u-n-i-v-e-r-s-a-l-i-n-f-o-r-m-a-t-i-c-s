@@ -1,0 +1,9 @@
+{
+  "productionCommit": "57747030461016e4fc2c29bd4534df483118857d",
+  "productionTag": "production-2026-11-02-1509",
+  "workerName": "informatics-universal-one",
+  "workerVersion": "58404974-72da-4721-aa9d-9f1371cae6c7",
+  "productionManifestSHA256": "96bf88576c41657c09c04fb8ddabb933753d16973f770957210ee9328fc36c2c",
+  "websiteRollback": "Restore the scoped files from the production commit and redeploy via deploy-panthurlive.sh informatics and ai-wiki; Git branch changes alone do not change Panthur.",
+  "workerRollback": "Use the recorded production Worker version with the established Wrangler rollback command if a rollback is required. No rollback has been executed."
+}

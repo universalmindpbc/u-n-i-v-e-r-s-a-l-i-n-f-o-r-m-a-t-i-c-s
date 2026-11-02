@@ -1,0 +1,1363 @@
+{
+  "passed": true,
+  "files": [
+    {
+      "path": "Informatics/chapters/research.html",
+      "sha256": "467e9ed5aab48a8fe50b0beda28e7a9ed00d0ffbb053f604985ddfc48b2d2514",
+      "bytes": 68127
+    },
+    {
+      "path": "Informatics/exports/manifest-4236ba3449732c396c297767fd618c7b5c8f2245b828b5b7b4238b21ad48509c.json",
+      "sha256": "96daa1a6df0744871dc70089e7621676faf7220d46c405e0c2a749df20694182",
+      "bytes": 2398520
+    },
+    {
+      "path": "Informatics/exports/manifest.json",
+      "sha256": "96daa1a6df0744871dc70089e7621676faf7220d46c405e0c2a749df20694182",
+      "bytes": 2398520
+    },
+    {
+      "path": "Informatics/exports/part-0c1e32a7548ca99ac0476ddaac2b36601f5fa87ce0652a3d1e5729e03b60e4b2.bin",
+      "sha256": "0c1e32a7548ca99ac0476ddaac2b36601f5fa87ce0652a3d1e5729e03b60e4b2",
+      "bytes": 50331648
+    },
+    {
+      "path": "Informatics/exports/part-1532c18bac72721caf5ea094a966e006d580eb3b586e5984b16dc4bfaf76bcc8.bin",
+      "sha256": "1532c18bac72721caf5ea094a966e006d580eb3b586e5984b16dc4bfaf76bcc8",
+      "bytes": 50331648
+    },
+    {
+      "path": "Informatics/exports/part-1e867c119a4037018f97809bfc3587e88d7d7a5187c5fd33b62130dafcfea924.bin",
+      "sha256": "1e867c119a4037018f97809bfc3587e88d7d7a5187c5fd33b62130dafcfea924",
+      "bytes": 50331648
+    },
+    {
+      "path": "Informatics/exports/part-cb73f2a163612cb49a9f72a33ff074443285d749c3151e508b4d0aeb71cc6d69.bin",
+      "sha256": "cb73f2a163612cb49a9f72a33ff074443285d749c3151e508b4d0aeb71cc6d69",
+      "bytes": 30929466
+    },
+    {
+      "path": "Informatics/exports/part-e51a2bfce535b3df0d84b5759f23aae4e598a7e52fd98fd14ecb9438ba2efe68.bin",
+      "sha256": "e51a2bfce535b3df0d84b5759f23aae4e598a7e52fd98fd14ecb9438ba2efe68",
+      "bytes": 299859
+    },
+    {
+      "path": "Informatics/exports/part-fea556eba63978189541ceedf4b239a95c1a0cde3e39961aba9de957f217eb0c.bin",
+      "sha256": "fea556eba63978189541ceedf4b239a95c1a0cde3e39961aba9de957f217eb0c",
+      "bytes": 50331648
+    },
+    {
+      "path": "Informatics/library-data/age-index.json",
+      "sha256": "2757cd5918c305cb200fa4884a5bffc83a941fcec09c188db1c60f9cd1c54022",
+      "bytes": 474774
+    },
+    {
+      "path": "Informatics/library-data/community-index.json",
+      "sha256": "72c340e2f23ac3e85f87a13d645cd4daa6f556b2eaaffb931b687cd4627fec9a",
+      "bytes": 154657
+    },
+    {
+      "path": "Informatics/library-data/youth-expansion.json",
+      "sha256": "e7fb31adfa8b99fbcc97008e0607f3f7dceda8aad8be3ee35a21bcb0155133cc",
+      "bytes": 5700150
+    },
+    {
+      "path": "Informatics/library.css",
+      "sha256": "d0185b2ab174eec9abb8ed128b7137922094568d6c1cdc5aabf776c14068c4ab",
+      "bytes": 30042
+    },
+    {
+      "path": "Informatics/library.html",
+      "sha256": "14904541a98f992fc83aa60e83d91f3840d1682d81ba85319c2b8819a6fca455",
+      "bytes": 35723
+    },
+    {
+      "path": "Informatics/library.js",
+      "sha256": "7b63f94749451df6a8e02cc984f0961990e00a9bddfee223f94ef227bc85e862",
+      "bytes": 52801
+    },
+    {
+      "path": "Informatics/llms.txt",
+      "sha256": "2bcead2a2a3276d2548146442758f8928792e501123899bcdce1040df11f1962",
+      "bytes": 7473
+    },
+    {
+      "path": "Informatics/read/data.html",
+      "sha256": "ebdaa4522db5971b1bf3f2f924c19b3151e433458327aa4b3c304bb6765a151e",
+      "bytes": 183526
+    },
+    {
+      "path": "Informatics/read/index.html",
+      "sha256": "c5c9a57f9c12cefd0b299a3ae7faceac684a234fdf574c4a4aa892ab64940d81",
+      "bytes": 9015
+    },
+    {
+      "path": "Informatics/read/publications/index.html",
+      "sha256": "5c9a7079db6d9f8f2bf0d72fef41c0b20acded5e236623b23dfa25052174a01b",
+      "bytes": 331350
+    },
+    {
+      "path": "Informatics/read/publications/pmid-29422189-4e33115a.html",
+      "sha256": "3a66527514d4c35c08668ad31bf0db14489d41fa44e1c414842297f3d360db10",
+      "bytes": 87485
+    },
+    {
+      "path": "Informatics/read/publications/pmid-40243164-13a606b4.html",
+      "sha256": "95c053ac7884e19fc894474ddce26cf7922473151c4cc80cb14ca3291d7a4e5c",
+      "bytes": 84525
+    },
+    {
+      "path": "Informatics/read/publications/pmid-41340540-2aebfe07.html",
+      "sha256": "04a73670cad38a0daf5bec5ed3192a565d1f78f0e3265338f09bfc1bcb0216f6",
+      "bytes": 84788
+    },
+    {
+      "path": "Informatics/read/publications/pmid-42324567-01929af4.html",
+      "sha256": "77fead35ba9c70152d10274a02032b706f2dea55fb6dead225fee18b57bf7f30",
+      "bytes": 134132
+    },
+    {
+      "path": "Informatics/read/publications/src-56e515aacddb-e418b3c8.html",
+      "sha256": "f7860edb4bacc01a2f2060ec97f7a5f7c2f00efdc51ccfa9fd4422833b6aa19d",
+      "bytes": 90948
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-21192795-129a37f4.html",
+      "sha256": "712e2f694b7feb75bec2286a9bffeb55289d3e112a7f47f96f8eaf6ffda66152",
+      "bytes": 56323
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-21559213-a8b55a33.html",
+      "sha256": "8d954b83da38f923739a84a1e432c5c77c516809461f32ddaf50e5a7ffc1f8bf",
+      "bytes": 57739
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-22799879-4a5a1861.html",
+      "sha256": "2ca0d5d3ea1efe2173b4feeb032db3c952e308aecfe5a2e49d8dc3068ea6baa5",
+      "bytes": 63076
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-22893815-ba0b1e61.html",
+      "sha256": "5deab508d567462941a6c171729d5c25ec4213a048d265e40d46db5916317598",
+      "bytes": 57691
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-24499130-b02ba181.html",
+      "sha256": "c6206a8506aa54651fa986d168c3ae17c4b69f4f57220afbd5a9cd1bdf156ee0",
+      "bytes": 58322
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-24901900-ff07c900.html",
+      "sha256": "bc5bc80422098bf43f0a1a62d7a08e1e927ce3c50fb007fe18513d25b7c3e36e",
+      "bytes": 78128
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-25537785-83a4bf39.html",
+      "sha256": "a36803bfd521fbd8db2a6ee98838ed08bc037286604e3d3971222c3b82d54d1f",
+      "bytes": 80029
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-26220564-d2885258.html",
+      "sha256": "fd4423ff3805a9ef7fd41004f79fa5e968bbe1f9d40a923458f1147a8d21935e",
+      "bytes": 81069
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-28330831-623c1ff1.html",
+      "sha256": "25a3176e941c185d5745c40ae3ed321a0a312a24a84eb14a1af367d1f348d370",
+      "bytes": 56339
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-29066991-f2320d8a.html",
+      "sha256": "7fd82aaaed165c1e52e1b4cae1cc94912f8547ccd027be3da17972ea9e942360",
+      "bytes": 63068
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-29144545-e5528bd9.html",
+      "sha256": "492903e4bed538ebaebd32da4221bb2b38d27d1a5cba591c180428cc03a14472",
+      "bytes": 61021
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-29622047-74c84473.html",
+      "sha256": "6da8723deebadffdf58024b85b0832ab1275073ad259583819992507831b0ff2",
+      "bytes": 76177
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-30345511-5a2de9cc.html",
+      "sha256": "43f6bcd3fc529feef0a749d0a10bbf1612bc04fa00b99d23e9d347d1c094ba90",
+      "bytes": 59989
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-30622094-df06e3d2.html",
+      "sha256": "ea6f730d26d75e505889261fdd17eac76cfbfc97c131b05168b65c5792130d83",
+      "bytes": 75425
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-31068842-d26b2ef3.html",
+      "sha256": "7d55c89dd82b4113c1c063bb30fc4853d8fc5062bff0b2895f1f1bbd973f11fc",
+      "bytes": 83217
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-31237569-503a5706.html",
+      "sha256": "3343c37901706c3b946ea62205089a6856441251c9a8c17d363ab8a175147a3d",
+      "bytes": 78021
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-31333198-54db0c2a.html",
+      "sha256": "e259855c855b08b65c5849100b2bcc527fcb4003835dc693a8f20839ae444116",
+      "bytes": 57837
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32074061-e89e9268.html",
+      "sha256": "4fa76e7e3117621cf7fd8bf968e996de421a34045744a1df4c053c14e8a30de7",
+      "bytes": 58912
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32232017-3904e5b7.html",
+      "sha256": "d8b8b9a50a0181c12cd820d9ce4fadba45d3cb004fb920d3dc8003edfea7d96b",
+      "bytes": 59712
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32442160-6a6f6953.html",
+      "sha256": "1987ee0c9255f54addd48aad5e5d344890033dc9c1d73cd1cf53bd232602011d",
+      "bytes": 56301
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32504808-214018ee.html",
+      "sha256": "e5f607ff63a4d5b2741c102487a137f30ac2cf17301efbd5fe53537ed3d231f8",
+      "bytes": 64979
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32527236-faf66d27.html",
+      "sha256": "dccb37294377a367aac342da4abc360b00e53e2b4126ed2b3a22a3b6d9587b24",
+      "bytes": 57416
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32554380-4a7383ca.html",
+      "sha256": "f64916606d7d2d899fd8c2be3a1b2cf12aa6ed04bc4745d2a0a3bd8e4448c342",
+      "bytes": 67571
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32572961-79283efa.html",
+      "sha256": "21e246578250f7e36f3382e8c70b862607a2703ba6d26b9002573e15742ade5d",
+      "bytes": 97162
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32683737-98ab7056.html",
+      "sha256": "a50df2918212dd8ddcda1d8837ac1ffe92566dcf7b435f94a8ce4fe99e8416f6",
+      "bytes": 79578
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32720904-c672a391.html",
+      "sha256": "a497a4b79b9d5fbafa6af32524978ae5663f7f837964bf65756dc935e8849f93",
+      "bytes": 75315
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-33079071-1283aaad.html",
+      "sha256": "0126ba03910f7dc5fabf919c609732f01ba497c00aaa8cfabd50ed10561d911c",
+      "bytes": 54622
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-33264098-30d5a6f6.html",
+      "sha256": "88ba757278eedc79236d1b94eb12e121c29dd4fd444e9b8d67b2e2dc60a6af65",
+      "bytes": 66627
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-33725578-bdc6aa3a.html",
+      "sha256": "759b1cdcc4f1cc6c030d03c3f6a07221bb78202a8b18ceb325c7800c93dec16b",
+      "bytes": 78687
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34002511-f0ca9f60.html",
+      "sha256": "e5ee3aca9e1f5296d334549d1654319b315ea312218500bae3f68a743e537941",
+      "bytes": 82611
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34021113-5fd90d04.html",
+      "sha256": "2fe816e08c6a4b2b4e2aaebfd5fb4576cef3b4d7c7f82498ffc567a04a5db058",
+      "bytes": 79336
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34040886-51a15518.html",
+      "sha256": "8af9cacbcbbabf858f4c478df8403f12d2c52340acb053ba002d3207922d71da",
+      "bytes": 56075
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34294067-3b018ceb.html",
+      "sha256": "3ebf6228695461d93879af35df87c2c505509896f61d229eb5b4d8b0fede6e58",
+      "bytes": 56382
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34527971-f74b5982.html",
+      "sha256": "a3d456426513d58e5e2e48c1f307e54e6313d61331324423e4cf44014d33456f",
+      "bytes": 77729
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34927592-54e7a6b7.html",
+      "sha256": "32845191b12efcc3f9a8e8cc9ce222d0cb654481b36d913b0416e95f56e71aba",
+      "bytes": 73262
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34983460-0baa04d5.html",
+      "sha256": "e6d3f9e6b003f4b0d73c749cb1d9128a6619b3b6a6e4c65491049fca23b366b3",
+      "bytes": 76623
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-35241174-d0beafd5.html",
+      "sha256": "03cb3caf391235d3250241a82d984294353b3c3648bb4ecdcb9237027d321d0f",
+      "bytes": 80793
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-35544295-3e3eb3a1.html",
+      "sha256": "fd88cf4a00f463b43e1c4a7a5d519c3bfda12f315083d7d5455624ea42dc0ca5",
+      "bytes": 76977
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-35820989-7404abf8.html",
+      "sha256": "642cad7e0ed7a929de911e5d8b9162c388d61692a8e37985fac5351c71069351",
+      "bytes": 58326
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-35914112-8b1d3db6.html",
+      "sha256": "48205b9cf172767491cc2f1ae81f47ef2286db8c1c11e3c81cd8779bac399926",
+      "bytes": 57083
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-35976180-5277d0bc.html",
+      "sha256": "60ec5e1880ba80e2a6ce49ec7b51da1866269311d0463c10fa81d4e7f4836fde",
+      "bytes": 79067
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-35980733-7db668c5.html",
+      "sha256": "5d7ad9d4e984bcc93efd06c346c22790d47477ec533ce2fc62f093750a94d78e",
+      "bytes": 75200
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36186313-6c158baf.html",
+      "sha256": "a530c0111c99aeea3822ff642d1cb043f9f9d06d105699ce3d3e3d9279b543a7",
+      "bytes": 60945
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36342533-f37fdd7f.html",
+      "sha256": "b32febecce6738bf3b936af88dbe26f19dbd8e106e902c90a03566048f22e24c",
+      "bytes": 92351
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36373473-5b004fe5.html",
+      "sha256": "fa94e48f1989156b35ef7cd336f3e7dbe6e98dd42eac88b3c668587b5778470f",
+      "bytes": 82117
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36407676-b9758061.html",
+      "sha256": "7ff6b3f9ac6c7fa4013dacc646f37f8af21da758d20688328fd3b084c747912a",
+      "bytes": 75484
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36424575-73049d6a.html",
+      "sha256": "25e536386f2ac83c9125e19b39f8c4bf5d8caf8fc5b478c8bab68b847c27be41",
+      "bytes": 59757
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36596239-1a7eb279.html",
+      "sha256": "1ff51041842c952ec41bd79763fa05ed50be3bc8dd9986d9d7d709c95255660a",
+      "bytes": 59311
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36620186-5a97b511.html",
+      "sha256": "067f9e6434503cdc1b783b71b8bbe8b0a1cc3ece666545e230892c9812e0922e",
+      "bytes": 75381
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36833903-a60b16f7.html",
+      "sha256": "24258e221eb4572be7343b3f5c7cd8720649f7ed39b1eff699cfaa0d85483de4",
+      "bytes": 58293
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36844353-f2973577.html",
+      "sha256": "a1a1a8e8d91bea9172277d3d75832056d7cc965bafe4810d93d169364d666c7d",
+      "bytes": 59232
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36877740-b902486d.html",
+      "sha256": "77c5db1e82612a8fa46e74c96ba2aade69811cc419ffb9aa2d24bd13219046a7",
+      "bytes": 82845
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36964523-01196eb5.html",
+      "sha256": "eb49da2186e0d7dbe9b0fd0ca0414b17ae64e85537fe9424a35c2fd519cc27f8",
+      "bytes": 81819
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36991537-9bdbda80.html",
+      "sha256": "81f61bbd62d7dac5e34b8527ec68ea13995e599e95e8f081d88aa7ec07be9010",
+      "bytes": 82485
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36995752-79722f64.html",
+      "sha256": "1d3c0c60f268638eed8c5d0f32875f8172801d90575829505496e80d5d359465",
+      "bytes": 75213
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37147732-19331cb1.html",
+      "sha256": "624f76ae60fdc904ba21d79fd73cdd13ee80c79f47723d28f8be21c9174752c9",
+      "bytes": 59723
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37151974-e37aaf0e.html",
+      "sha256": "a3311cdb307b9e72371877c541980fbd6580f171ce466428fc2ac7a7974613d6",
+      "bytes": 80335
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37205669-2acce08c.html",
+      "sha256": "14db795ed3507fc2d770e7420fb2bc85e8df844f01f560799bba07b40344e598",
+      "bytes": 56731
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37213197-a92a3783.html",
+      "sha256": "8ea586987d0212586bf2f2c6231c4847e46136af5c21ee3580dc772afe6faf48",
+      "bytes": 75255
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37261464-cf2e155d.html",
+      "sha256": "be3590eb99f30fb97ec3b1ef24513f97992fc16474c46e37ac7c1f6a2fb48770",
+      "bytes": 80247
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37390108-24661d94.html",
+      "sha256": "ce39a39a2689765ab826f7d340c0e3533bff919496ce438e2d9e62de57465215",
+      "bytes": 78524
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37393283-6f0af29f.html",
+      "sha256": "9f4662aad904fb5c72ec0e454804f467ea3f5b6b373d3cd480680bbbcdcc3421",
+      "bytes": 78589
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38090786-0aae8ab4.html",
+      "sha256": "eb45466bba7b6958b62a6ff61b564391568f13efc1457bd1cc876b243a801049",
+      "bytes": 81648
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38192586-fbbc0e84.html",
+      "sha256": "e877c2b9eade1a5de60ae3b9302047bd9ad3beb55f8938a4d656b8d84c3523d7",
+      "bytes": 101163
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38250521-babadc15.html",
+      "sha256": "afca871982fadc4faba28525c682c7d2469636574bd32fb87074a7f8c84b1bf3",
+      "bytes": 59616
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38362237-3c810039.html",
+      "sha256": "8de4bce5a403ec6c084c4be1bdd9b86b853dea851e7d7970e10f84b328443ff3",
+      "bytes": 96148
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38566202-8b6ea497.html",
+      "sha256": "fdb15a1178e59a041dfa20d507f6d764e2b33ee2dcd6edc8a2a303ee1556cbca",
+      "bytes": 103892
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38584397-2b69b05a.html",
+      "sha256": "da5e2063bdd4e05faa0b22c1828049602fb6a6b014d95215252118aade8c5db2",
+      "bytes": 56482
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38693527-d37ae000.html",
+      "sha256": "d2d5808d949f01b625ddea3bce7f118a1c44b217f5feccb809a471d1ba92a100",
+      "bytes": 57018
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38939220-6fb4f967.html",
+      "sha256": "36fc6279a23ae3ba2ebf6b224bd1ae4f9879dfd365be57316777d723a9cae73b",
+      "bytes": 58776
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39004687-0c8b2f02.html",
+      "sha256": "a204bc5c478daf8f188c264050d1c761170b9e5558e5e83c1b8aea21ee805393",
+      "bytes": 56427
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39150513-960f2561.html",
+      "sha256": "de4ca54977ef5e14509b0aa7f90bb45c3952707fb2844c2d1a2d12266b19c904",
+      "bytes": 58541
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39260824-76b2e322.html",
+      "sha256": "8ca5bc944fab76ca58e5c0048e666d11cd4f0c602c61378c90114a49f75f6af2",
+      "bytes": 81630
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39392547-dab58cc0.html",
+      "sha256": "97a1eb916b859d9c698beaec964e570c9e605a5f36dce8bb243e51cad5ac9c4d",
+      "bytes": 55621
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39438861-6b578f3c.html",
+      "sha256": "f4f466fc2abf27ce59de1ae8fdef1a302831af43c4fcce60fe3eceaf0b5bc9b6",
+      "bytes": 56775
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39665442-49b6a508.html",
+      "sha256": "087b829249e0f6257f238da85eaea22fd57aac42d1e05ef061bea70b451cab5e",
+      "bytes": 76158
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39666705-a32f9200.html",
+      "sha256": "9abea27ad5fd359817ddcb9606ebb0361100d30c9f8a62a31e431e9af0b25f68",
+      "bytes": 54940
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39720610-7f1b2792.html",
+      "sha256": "e0819df74fc811cb203034dd126ea2bd8c8970e5a1ce340c732aeceb9d153421",
+      "bytes": 104464
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39813031-0c3a3743.html",
+      "sha256": "ca8c1bae0120b4d64a872278ac00f56c436f19bc72fe698af3d8165572608eeb",
+      "bytes": 57753
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39813032-02ca4fe5.html",
+      "sha256": "b2f130a29cb6658a4337750b0604dc1154f4e42e0cd34997e0fbbf1ff04a5e58",
+      "bytes": 83792
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39910150-493ba630.html",
+      "sha256": "2aa570d84144cd78e1daefafbcde2c6b571a82aa65d965cc65cae85913242126",
+      "bytes": 59957
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39946428-9dea41c5.html",
+      "sha256": "b418389f79c1dbb7e8248f33a327ef217455fe246d7f52d6f32f9571297f3d10",
+      "bytes": 78550
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40033658-4c5d52c8.html",
+      "sha256": "ddd111df7a8e83febcd8258b5945c5aab17a928b03c5c64074d05cd4e7cc7dd3",
+      "bytes": 58758
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40086808-909c7a45.html",
+      "sha256": "ce3707236b76bec8293e3a01766eabf1e3da1cf4630d9cf01d96ef5c69ea44e2",
+      "bytes": 85957
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40109696-ae9a6768.html",
+      "sha256": "1a0e0ec2f83b6ce32f693a33150da9b28c75777c31cad9fd3711c0050b63bf3c",
+      "bytes": 57423
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40180398-03752172.html",
+      "sha256": "8b2e8bce24217f4f696d092310d93d8479c5275695669e39b16db9ce3ef127cf",
+      "bytes": 77611
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40504611-47fe7227.html",
+      "sha256": "88032297168fcf93bd1e53be258cb4e9f26544380012b04ec72b10ab07e44b76",
+      "bytes": 58256
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40521225-2f0479fb.html",
+      "sha256": "75992223d9e69ecd91ddfecf043db054d6a666ec5a42ae9a36849683ceed1c22",
+      "bytes": 54555
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40761439-15c8cc45.html",
+      "sha256": "ae16b47f810e613016e494b9001c0faef179506c606410130b8b89c14005e030",
+      "bytes": 56032
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40789917-10f70e71.html",
+      "sha256": "a0aefc9c559453c908796585b58be61b0eb4930b2baa5a244d9c0643e445b1a3",
+      "bytes": 57276
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-41171275-aa302220.html",
+      "sha256": "65038802a4feb9edec4590f7812765d02392479a1f1d307fc1c81a1f7b596f20",
+      "bytes": 102667
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-41262946-67acd9d9.html",
+      "sha256": "23661393d5f487f3055463b887d2a5d4fb0f497f74c60b89fe0fa5b77a50f526",
+      "bytes": 55069
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-41313154-620e978c.html",
+      "sha256": "9f818bc1d7927a5a8f237204f89deb7d239f31ff08598d3ce7f4a404446be91f",
+      "bytes": 58362
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-41454356-69275589.html",
+      "sha256": "065fe12cae1369a6a9868b0bc7ddde4079f52518b9fe658218c86fe61b792496",
+      "bytes": 99905
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-41662046-100bba64.html",
+      "sha256": "b7d9d66c5ac93de6721f391d27fbf8a3683d0da729869a002081b5c9bf0d8666",
+      "bytes": 79499
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-41806311-ea4cae54.html",
+      "sha256": "8b433cd9b324db682d159783ceedfb6f2940abb43debbc323f76b08da97a2a3f",
+      "bytes": 76033
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-42057149-aa8c0506.html",
+      "sha256": "2ca02824fb9915c9650eb6758e83488918518f063b271ffd704c415746223bbc",
+      "bytes": 57444
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-42284591-33f06edd.html",
+      "sha256": "f8cef78c32b691be9611033acf2e2e18ff43949e01ca6ab815e3607b2198fc18",
+      "bytes": 78112
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-42337783-bde64ff9.html",
+      "sha256": "ecff90204e8f44384b8585d6c8dd67930b0da7a8e65537a2a206f182e59687ec",
+      "bytes": 58703
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-42389090-66ac2bf0.html",
+      "sha256": "445a4e19f2928981190cfd9171ba7474f54092690f5f3ab03372d618e07d933d",
+      "bytes": 83045
+    },
+    {
+      "path": "Informatics/review/youth-20261102/batch-f164c8325ea5f9c9.json",
+      "sha256": "f164c8325ea5f9c989c29524518b598913508117712826dc408f592b7f99a723",
+      "bytes": 1161923
+    },
+    {
+      "path": "cloudflare/informatics-qa-spend.js",
+      "sha256": "89bab8bd2db05a04296a3546e7a5cc9f731ad517097fef00c54fb931f769c050",
+      "bytes": 3333
+    },
+    {
+      "path": "cloudflare/informatics-repository.js",
+      "sha256": "0e5b5c4d305ab008d4bf03db099ec90355b3bdaad3cc415b1794c91f700076c7",
+      "bytes": 12255
+    },
+    {
+      "path": "cloudflare/informatics-research-navigation.js",
+      "sha256": "82fbaa53ba3c4784bb0f79aea890b075e97c7d4d1e935818d78db30f42c997d0",
+      "bytes": 5159
+    },
+    {
+      "path": "cloudflare/informatics-research-worker.js",
+      "sha256": "b1242b3ed5515bfa6eabf1423bcf288ea1b64306a81e7fbebb34c3f227059e02",
+      "bytes": 43020
+    },
+    {
+      "path": "cloudflare/informatics-youth-knowledge.js",
+      "sha256": "34c0561e10adff0708af6be9c01f688e78b4c7a624665cfbfa0d1f627a84cb78",
+      "bytes": 4513
+    },
+    {
+      "path": "llms.txt",
+      "sha256": "3fd3557411cbb686ee6f37c46c2655df70fa9cc3d45062117d82f727113841d7",
+      "bytes": 18141
+    },
+    {
+      "path": "read/index.html",
+      "sha256": "f16c4c0120b1b03bba674c0ba4612f6fdc3f08896e32dd90f9feaef732e93b23",
+      "bytes": 21023
+    },
+    {
+      "path": "read/resources.json",
+      "sha256": "03bf86be31b0113384c87fdc26581e984e69095f73334bbec22220040c8d942a",
+      "bytes": 29519
+    },
+    {
+      "path": "research/informatics/discovery-20261026/build.json",
+      "sha256": "e0ca04ce860cc8afe07432640a2b59d194e3b47889683f799fa315612c850701",
+      "bytes": 106566
+    },
+    {
+      "path": "research/informatics/research-background-20261102/PREPARATION.md",
+      "sha256": "3b6a69f1bb0489787922f31c44688d92b12d96da991bad868a6f03c7af5bd507",
+      "bytes": 1551
+    },
+    {
+      "path": "research/informatics/research-background-20261102/RELEASE.md",
+      "sha256": "461170615cbf00082fd404a0e1df510d602a4df35c7c82f5d728bb706d8ca988",
+      "bytes": 3763
+    },
+    {
+      "path": "research/informatics/research-background-20261102/api-budget.json",
+      "sha256": "192cd5ee71c80d5dbc00dfc6d7747016c2bdc39bb1601f4818160004b4f65cc1",
+      "bytes": 1330
+    },
+    {
+      "path": "research/informatics/research-background-20261102/before-black.png",
+      "sha256": "270e36aca646722955ba8a0068a93e9911b0142c04702745368d41ff3011c0d9",
+      "bytes": 563231
+    },
+    {
+      "path": "research/informatics/research-background-20261102/before-video.png",
+      "sha256": "b0127a63f9836d97634313e631af9894b7adbc794247ff4d0beab279b50353e8",
+      "bytes": 130162
+    },
+    {
+      "path": "research/informatics/research-background-20261102/before-white.png",
+      "sha256": "ee68e2d0f28736566f12b2e6a06a6a3818c9a93e01a51a4c837481d41feeb074",
+      "bytes": 143756
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-background.json",
+      "sha256": "0d25f591621c2f9fdfd1ef6a57952182088d0e38d050a19622adc091ef0af12e",
+      "bytes": 42974
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-black-1440.png",
+      "sha256": "ab889e300e664d4ed6b05dc0f327c69c1a6f36f425ffaee715f2f643bc31abdf",
+      "bytes": 144185
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-black-320.png",
+      "sha256": "e53f536df644cb262ed70a4569992a67bd30ee087a448ae62c9caf662cebe164",
+      "bytes": 89190
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-black-390.png",
+      "sha256": "2d7650a20d5e486f9820c65b5b0b1e59169ee6b86e18f24a5944bc423481eb8e",
+      "bytes": 92199
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-video-1440.png",
+      "sha256": "2efee3498837c4b048dbf63581a9a7ecf6e5bf731fa0fd2c5de3b79cd94a8a1e",
+      "bytes": 591319
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-video-320.png",
+      "sha256": "94cd3380dd50033e010df2513e4aa30f6bb106eb4e3268ea3fdcc94174505b71",
+      "bytes": 189468
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-video-390.png",
+      "sha256": "cef0a6d97210655cbd4dcfea67653db206dbe1026e13cc4ad6ed1f3f8bf45cb6",
+      "bytes": 255302
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-white-1440.png",
+      "sha256": "6f2b36176e616ff650a85f4d0ad16f8787377086519c875ce06821e18b65c0d6",
+      "bytes": 146963
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-white-320.png",
+      "sha256": "b53056ab0143bf7caf0a8a172f64e7003541e4f0d988d70ef943890a58c4f4d1",
+      "bytes": 84101
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-white-390.png",
+      "sha256": "e7456a558381d64096af19397d039a519dbd7fa7257f1a8780f8c288966db985",
+      "bytes": 92078
+    },
+    {
+      "path": "research/informatics/research-background-20261102/final-source-manifest.json",
+      "sha256": "667b17a51a3e980d0585c73566d5f9bc475983a3ab5d99ef44982230fa75048a",
+      "bytes": 1821
+    },
+    {
+      "path": "research/informatics/research-background-20261102/github-receipt.json",
+      "sha256": "3b415718a994295eb80f6807c59a33fda53cf7905f75185276b30ca2cae298af",
+      "bytes": 942
+    },
+    {
+      "path": "research/informatics/research-background-20261102/guard-stopped-paid-attempt.json",
+      "sha256": "df139d9fbdb5e8aff34f3675b3fba3dea35feecc378f7c5138e4cc3ccd3b56f0",
+      "bytes": 804
+    },
+    {
+      "path": "research/informatics/research-background-20261102/guard-stopped-staging-universal-one.json",
+      "sha256": "5d2ab9f1b823e7b112d7eb000184614d193293df92b422c078434a93e0b8927c",
+      "bytes": 1546
+    },
+    {
+      "path": "research/informatics/research-background-20261102/paid-attempt.json",
+      "sha256": "fcb9cd29678c337de64396a4ee652f150bd99b431b9c2647f915ace6fc8df1f1",
+      "bytes": 814
+    },
+    {
+      "path": "research/informatics/research-background-20261102/paid-ledger.json",
+      "sha256": "49492d360f2c93819c68f67fe5ef49bd93d23d126077ea3218933ef9b092a64e",
+      "bytes": 919
+    },
+    {
+      "path": "research/informatics/research-background-20261102/panthur-deploy.log",
+      "sha256": "1989acd1ade2217aaf124d381c530a014911e1baa0093bb9e1b65cda9af854c8",
+      "bytes": 2428
+    },
+    {
+      "path": "research/informatics/research-background-20261102/preflight-hydration.json",
+      "sha256": "a39539d5a593b4c7c22e29bbd603646a00294f192f53da6bf1d0cf314c09b643",
+      "bytes": 19004
+    },
+    {
+      "path": "research/informatics/research-background-20261102/production-isolation.json",
+      "sha256": "60107df1cd9f098cdd4e7ce43c8c4633b9563163bdfeb90d1780a6827542b385",
+      "bytes": 1884
+    },
+    {
+      "path": "research/informatics/research-background-20261102/public-api-local.json",
+      "sha256": "77268edf087e372799c7a2a46511c80f608982b217d84d9cc0d63b0bc0d5b3d8",
+      "bytes": 422
+    },
+    {
+      "path": "research/informatics/research-background-20261102/release-status.json",
+      "sha256": "eb5ab77885f1a260d3507e943b9b638461f761aeb8b1b9c60f91a64b5b00a56b",
+      "bytes": 2192
+    },
+    {
+      "path": "research/informatics/research-background-20261102/reproduction.json",
+      "sha256": "bbc25fcabfeb39ace94be8ddc63539f05ad6103448bc765d52b3c0df8ea440f6",
+      "bytes": 1036
+    },
+    {
+      "path": "research/informatics/research-background-20261102/roundtrip.json",
+      "sha256": "ae25db6c1d005192109544bcd58246c1e66be7b3ffe8b432b5e8b20ce67b6cc7",
+      "bytes": 228
+    },
+    {
+      "path": "research/informatics/research-background-20261102/source-manifest.json",
+      "sha256": "ce62382c2f72834b0ec6116eee6529dbf8ba45c9c0d6eb8e68bdb917827b2800",
+      "bytes": 2234
+    },
+    {
+      "path": "research/informatics/research-background-20261102/staging-assets.json",
+      "sha256": "6baa9c8502c73557f9d1ec79756c22957ac7303d474143ce6f8e92ecbb36bba2",
+      "bytes": 619
+    },
+    {
+      "path": "research/informatics/research-background-20261102/staging-background.json",
+      "sha256": "f7e3f6d793e61d4808a0567261617feeb266fd4c21fe864a2b2ff9c128cffa9d",
+      "bytes": 42972
+    },
+    {
+      "path": "research/informatics/research-background-20261102/staging-black-1440.png",
+      "sha256": "83e0cb5102fab973e5a558cc99561ebfa69a1541fa59ba1ae9d80a0ceb0fde5b",
+      "bytes": 146210
+    },
+    {
+      "path": "research/informatics/research-background-20261102/staging-black-320.png",
+      "sha256": "b6719ae073bf759ca690faed069f2b574ff3aa3ea419371e3caf6e11075639db",
+      "bytes": 89769
+    },
+    {
+      "path": "research/informatics/research-background-20261102/staging-black-390.png",
+      "sha256": "679e6e4e170268d2e631e393963517c9155978dc25e86941517a81599d148346",
+      "bytes": 91497
+    },
+    {
+      "path": "research/informatics/research-background-20261102/staging-complete-downloads.json",
+      "sha256": "6fdcfe8e541a5a68ed1ec35c725368d914efe0dfa8b207ce7bbd7791e34bc504",
+      "bytes": 983
+    },
+    {
+      "path": "research/informatics/research-background-20261102/staging-health.json",
+      "sha256": "4d375af80bb8a106fffc6145f89e7af0d3b6d907b528e7b0dff782e781fe28c4",
+      "bytes": 324
+    },
+    {
+      "path": "research/informatics/research-background-20261102/staging-public-api.json",
+      "sha256": "ba2dc1833075beac9c7c282c3440a4d3efc87dda399199602f6b9acaa8a8e962",
+      "bytes": 3180
+    },
+    {
+      "path": "research/informatics/research-background-20261102/staging-universal-one.json",
+      "sha256": "7619601de159ea21c8124c948b3ab63452c22121822dba5c179c16ec37a57882",
+      "bytes": 13604
+    },
+    {
+      "path": "research/informatics/research-background-20261102/staging-universal-one.png",
+      "sha256": "9bb6dbb977a9ba47c25d467eb606c33521eb592dd3eea8a002bc477e97d4adf2",
+      "bytes": 153198
+    },
+    {
+      "path": "research/informatics/research-background-20261102/staging-video-1440.png",
+      "sha256": "db1b497d5a3187a808be2d64c5d34e596f7c88bb677412c011ef140d08237650",
+      "bytes": 586005
+    },
+    {
+      "path": "research/informatics/research-background-20261102/staging-video-320.png",
+      "sha256": "0fb74fde345dfef300f7a001975e60f1601f07b6c9a5d95ee8525ef2c3f05e32",
+      "bytes": 230481
+    },
+    {
+      "path": "research/informatics/research-background-20261102/staging-video-390.png",
+      "sha256": "437a3ad16af718e73f746ff8cc06df9e70d717671f3143cdb3616088f91b416c",
+      "bytes": 255560
+    },
+    {
+      "path": "research/informatics/research-background-20261102/staging-white-1440.png",
+      "sha256": "e066d51ec735e8fadd755049fc20dba412b7e74247427dcb1b11b73de761d625",
+      "bytes": 135285
+    },
+    {
+      "path": "research/informatics/research-background-20261102/staging-white-320.png",
+      "sha256": "e15598f73323cdaafbcc0c337934a9d1af20d2ab07470345019756606d6aeed2",
+      "bytes": 91080
+    },
+    {
+      "path": "research/informatics/research-background-20261102/staging-white-390.png",
+      "sha256": "044ae1f8c76df6461a3b56721cc37d6b7e0a9d9834bbbbb3ad5b50b3e4a5dce7",
+      "bytes": 91951
+    },
+    {
+      "path": "research/informatics/research-background-20261102/worker-build.log",
+      "sha256": "4eca8b567bb97d1bdc192a3369029117b3f23de218d74c406330eeb91db3327b",
+      "bytes": 1199
+    },
+    {
+      "path": "research/informatics/research-background-20261102/worker-deploy-final.log",
+      "sha256": "36eb3fda9dbdd97c11f7edea22d1fc25abdfb00fb68b4ff685ef49428aa8a215",
+      "bytes": 1447
+    },
+    {
+      "path": "research/informatics/research-background-20261102/worker-deploy-retrieval.log",
+      "sha256": "0b9dca14ae1decb361e5aac08688e72ee2286ad6be102ebbebf9e2fc540a55b5",
+      "bytes": 1339
+    },
+    {
+      "path": "research/informatics/research-background-20261102/worker-deploy.log",
+      "sha256": "560584375227248f41e96dc360f2ebf5fe9abd5b9fca49d92d4c4b6dcedffddb",
+      "bytes": 1447
+    },
+    {
+      "path": "research/informatics/research-background-20261102/zero-cost-paid-attempt.json",
+      "sha256": "0d5f769d9105fc00b84ea1c2ca8b18fac63ac804fe18ec92166381a1becae5e3",
+      "bytes": 804
+    },
+    {
+      "path": "research/informatics/research-background-20261102/zero-cost-staging-universal-one.json",
+      "sha256": "3ec3a5d22fc5506110647679c37d3737235a5be948581c51bc921612a761c08d",
+      "bytes": 918
+    },
+    {
+      "path": "research/informatics/youth-20261102/CHECKPOINT.md",
+      "sha256": "29a8282053d01c7687749054623b3eaf19ebc773164cea9f24bbc27e61058967",
+      "bytes": 1925
+    },
+    {
+      "path": "research/informatics/youth-20261102/README.md",
+      "sha256": "7c515dab585c3319bb5116a7b37bbc4eaee3f12b554a4b70f4e107e020392f70",
+      "bytes": 2412
+    },
+    {
+      "path": "research/informatics/youth-20261102/baseline-corpus.json",
+      "sha256": "908541cf35827d7d8509aba2094a85810778065e8da43f0c1f5c2371a7668158",
+      "bytes": 459597
+    },
+    {
+      "path": "research/informatics/youth-20261102/brief.md",
+      "sha256": "243892de5a6312dc5b7400864399e8e74e32b1cb99e3288bd7813cb324c4296b",
+      "bytes": 13862
+    },
+    {
+      "path": "research/informatics/youth-20261102/candidate-assessments.json",
+      "sha256": "bd5dc39a9f19650088e0bc0cab1545a5633412f8e3810a7fd1abdc13f6a73001",
+      "bytes": 1135949
+    },
+    {
+      "path": "research/informatics/youth-20261102/counts.json",
+      "sha256": "6ac82af7853754151f00cd74333f5849c03324e51a2bfba8f88043b30bb47aa7",
+      "bytes": 737
+    },
+    {
+      "path": "research/informatics/youth-20261102/coverage.json",
+      "sha256": "9c21853b3e88d5e3d955def8f9226e07056e5965d2ec9e0a70857ead3c3110ca",
+      "bytes": 1019
+    },
+    {
+      "path": "research/informatics/youth-20261102/discovery-inventory.json",
+      "sha256": "188f0dc93cd549dfe03a244c1cebde3cab0ba31d2ec5ac71f51c14f45c92ed68",
+      "bytes": 1456158
+    },
+    {
+      "path": "research/informatics/youth-20261102/methods.md",
+      "sha256": "d3299dd4f7a030787c7eb142d1624a6465dc657134b9cb6f717de67a5d9ab4e4",
+      "bytes": 6626
+    },
+    {
+      "path": "research/informatics/youth-20261102/qa/candidate-1440.png",
+      "sha256": "ba7d832bfba1d84a3f7d358eee7266986607a0218abc5912e029eaf0e8461f2d",
+      "bytes": 141183
+    },
+    {
+      "path": "research/informatics/youth-20261102/qa/candidate-320.png",
+      "sha256": "f215af00e20d4bef3a7f02ad388fc1f9d53275b44c857441f6dc42b4b85af4e1",
+      "bytes": 68330
+    },
+    {
+      "path": "research/informatics/youth-20261102/qa/candidate-390.png",
+      "sha256": "757fd68ba8a85f42566d8ecf660d07c42223641506cc09c4eb4acbb670c0cb3f",
+      "bytes": 81123
+    },
+    {
+      "path": "research/informatics/youth-20261102/qa/candidate-browser.json",
+      "sha256": "e3e5ed018cd9331f32f00c25a3b22e90a75609b5c93070506b69444732b32f09",
+      "bytes": 1329
+    },
+    {
+      "path": "research/informatics/youth-20261102/qa/candidate-evidence-1440.png",
+      "sha256": "f32b74edf92d006978bc259c10ad6ed880a1f2c2582b50cb3065b388948794b6",
+      "bytes": 189012
+    },
+    {
+      "path": "research/informatics/youth-20261102/qa/candidate-evidence-320.png",
+      "sha256": "2c380c88c551de7612297cf64644cca0b91c4c1f95f7a6d0c83223f25122726c",
+      "bytes": 83802
+    },
+    {
+      "path": "research/informatics/youth-20261102/qa/candidate-evidence-390.png",
+      "sha256": "6f21312b3afc020b37587e50647bed852b5895c6a12f3ba0dd98bc382d356bd7",
+      "bytes": 101204
+    },
+    {
+      "path": "research/informatics/youth-20261102/qa/deploy.log",
+      "sha256": "bc367cb81fa62fb6868efce1413d1b6c9ddf890045247133804dedaf03b4f769",
+      "bytes": 2431
+    },
+    {
+      "path": "research/informatics/youth-20261102/qa/manifest-scope.json",
+      "sha256": "c6a6c8be2c5e11aacafe6f90cf3a826edd43fc2b3f0cb5bd3b16bca31ad4ccbc",
+      "bytes": 768
+    },
+    {
+      "path": "research/informatics/youth-20261102/qa/staging-1440.png",
+      "sha256": "ba7d832bfba1d84a3f7d358eee7266986607a0218abc5912e029eaf0e8461f2d",
+      "bytes": 141183
+    },
+    {
+      "path": "research/informatics/youth-20261102/qa/staging-320.png",
+      "sha256": "f215af00e20d4bef3a7f02ad388fc1f9d53275b44c857441f6dc42b4b85af4e1",
+      "bytes": 68330
+    },
+    {
+      "path": "research/informatics/youth-20261102/qa/staging-390.png",
+      "sha256": "757fd68ba8a85f42566d8ecf660d07c42223641506cc09c4eb4acbb670c0cb3f",
+      "bytes": 81123
+    },
+    {
+      "path": "research/informatics/youth-20261102/qa/staging-browser.json",
+      "sha256": "1812a183628a708ee6f98a36d7ef741667d1a7425071e463dabe8fc4f12bf8ba",
+      "bytes": 1796
+    },
+    {
+      "path": "research/informatics/youth-20261102/qa/staging-evidence-1440.png",
+      "sha256": "f32b74edf92d006978bc259c10ad6ed880a1f2c2582b50cb3065b388948794b6",
+      "bytes": 189012
+    },
+    {
+      "path": "research/informatics/youth-20261102/qa/staging-evidence-320.png",
+      "sha256": "2c380c88c551de7612297cf64644cca0b91c4c1f95f7a6d0c83223f25122726c",
+      "bytes": 83802
+    },
+    {
+      "path": "research/informatics/youth-20261102/qa/staging-evidence-390.png",
+      "sha256": "6f21312b3afc020b37587e50647bed852b5895c6a12f3ba0dd98bc382d356bd7",
+      "bytes": 101204
+    },
+    {
+      "path": "research/informatics/youth-20261102/qa/upload-plan.json",
+      "sha256": "1054096a59fa19dd27a035c05434721ee6419ed9f2bd361480167b9c57664334",
+      "bytes": 2142
+    },
+    {
+      "path": "research/informatics/youth-20261102/release-baseline.json",
+      "sha256": "979d87734bfa9239759de1db36d9f1ae085d0b9411a10e9de9b9cc404f25c84e",
+      "bytes": 472
+    },
+    {
+      "path": "research/informatics/youth-20261102/release.json",
+      "sha256": "9e7f2a6deda47cc040b29f377f7ce9f4059af165f411418a941ee00fe34db568",
+      "bytes": 2863
+    },
+    {
+      "path": "research/informatics/youth-20261102/search-log.json",
+      "sha256": "203f1d3b7f94494002eba14dcd34854841eaa19a1acee27e32d4aa45f44e7d6f",
+      "bytes": 23089
+    },
+    {
+      "path": "research/informatics/youth-20261102/source-check.json",
+      "sha256": "183a1fab24e580bbd79b71acdad276e6173666dcd0f57bcc9749790abdeb1448",
+      "bytes": 455
+    },
+    {
+      "path": "research/informatics/youth-20261102/supplemental-sources.json",
+      "sha256": "73408efc3cef7764152e00ff4af6010809dc53710c4503b484b1a7057c4d22f7",
+      "bytes": 3715
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/RELEASE.md",
+      "sha256": "8b6ae0ba4173f9c410250cf4e8b5fb3c4f857db08a502a8690a84c46b38da311",
+      "bytes": 1165
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/baseline.json",
+      "sha256": "4c6a5d255a4f8cab920d842ab0718159bc06a4741cf15ceb1241d6a5e32661f4",
+      "bytes": 1816
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-browser.json",
+      "sha256": "4a3555bbef06ba0c6dd1645f72cd87fd9427dd194308077057340f1c79477906",
+      "bytes": 1270
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-language-1440.png",
+      "sha256": "c5890ca5b7e2045cb8737959205d9f387e8d8c1a6f1ab36dbdfe34ba04a835ca",
+      "bytes": 178267
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-language-320.png",
+      "sha256": "321b3f3d26d5c500f3f11e2b03b9a9b5ec2e488b7e34f8521c480c4de40ae168",
+      "bytes": 68171
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-language-390.png",
+      "sha256": "0c7d3b65c1d43365f1957123ce4abe9f796a998e564a9cef483c226667b12003",
+      "bytes": 77021
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-sound-1440.png",
+      "sha256": "ad53671be6419d0647a9fed88196e25a6d23fdbb6327e09746794671b6261c40",
+      "bytes": 212553
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-sound-320.png",
+      "sha256": "3dc36ec9f2405442d39b9ad2400344fecae128ad0d6baef124eed8a8809ce7b9",
+      "bytes": 80862
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-sound-390.png",
+      "sha256": "2de161b5241158e1c03817ce3af494846b84be1a3326fb1bccfde4bf07fab672",
+      "bytes": 112132
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-vision-1440.png",
+      "sha256": "7f630cee099e2d13e3318ac264fa59d7c6a619c14f7e12719375333ecac21287",
+      "bytes": 200705
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-vision-320.png",
+      "sha256": "9dca1a4e7ea233859708c852313ac2206537b50824d75b8602e5c82dc0289733",
+      "bytes": 80676
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-vision-390.png",
+      "sha256": "4dfc8a7883f3ae1774be76b7f4f8f70c424b03a75d0f55923f8d2167254be041",
+      "bytes": 112084
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/destination-reconciliation.json",
+      "sha256": "4d0d1e6cd17c0a6bfcbb83b4915e58e0df8ae3891c3043fdbd5a68bcdd306d1f",
+      "bytes": 7504
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/export-build.json",
+      "sha256": "a2b3b832abb3a57fe4f7b203723a3310c6240b194969422a7e2903804ee26f19",
+      "bytes": 1699
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/file-manifest-supplement.json",
+      "sha256": "6f6774fa01e21043e86c267b025c5256a7a138236e9e70f7cdf257a489296152",
+      "bytes": 884
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/file-manifest.json",
+      "sha256": "961414cc926224cb65f2aa39906073c1394bc511d38504cb7ac8f5073116b7db",
+      "bytes": 37344
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/github-receipt.json",
+      "sha256": "101e4e709b3daf882f2d8739bab85329ea5554fe2b83421c8f839cb5a62cae1b",
+      "bytes": 478
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/panthur-informatics-deploy.log",
+      "sha256": "6d537f3ac56d114b3676ce31fdeeb9f14dc629b54b198a7679b4101c81787694",
+      "bytes": 2434
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/panthur-navigation-deploy.log",
+      "sha256": "6fdc6d89222a92c9c8258e88f00a8b16d629d4212ebe948c628e24def187751e",
+      "bytes": 608
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/preflight.log",
+      "sha256": "e84ddb13bb8dba2a9b507ff1db4a6b447a189625a1c1c36c1fe6ae72ba291b32",
+      "bytes": 1906
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/production-readonly-check.json",
+      "sha256": "8ee732845f97d86793b69aa29accd092f8c21a37edf4fd0c2c5ac0f32b2ddcd7",
+      "bytes": 945
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/release-status.json",
+      "sha256": "d43e470c4c865c6f499667135baacedb116eb9e0c2bfdb17cdb60e3a7f9233ad",
+      "bytes": 2953
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/release-thread-handoff.md",
+      "sha256": "a2cc61c75d47d4dadbcf7a0d31a86c77020efec1295ef3e4107c50e03765dd19",
+      "bytes": 4977
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/roundtrip.json",
+      "sha256": "ae25db6c1d005192109544bcd58246c1e66be7b3ffe8b432b5e8b20ce67b6cc7",
+      "bytes": 228
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/source-checks.json",
+      "sha256": "0ca826cbcdf114fb2ae8f404fa13d8203f6633ec8082bbbcd0c1e4fa3167e3e0",
+      "bytes": 624
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/staging-assets.json",
+      "sha256": "3406a9390350c73f2a556460830bc1928683d42ae26641d7def7fe96da5f7afd",
+      "bytes": 80864
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/staging-browser.json",
+      "sha256": "7221be9297a95074af9755f5da3a71fec4e38c5ba5002375eaede930a13113a5",
+      "bytes": 1286
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/staging-complete-downloads.json",
+      "sha256": "6fdcfe8e541a5a68ed1ec35c725368d914efe0dfa8b207ce7bbd7791e34bc504",
+      "bytes": 983
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/staging-deep-links.json",
+      "sha256": "ffbf522b24b53640b49c45bb61f514538e90f942bd89a3daf486c3c12b22508b",
+      "bytes": 718
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/staging-language-1440.png",
+      "sha256": "7d18186b3ec611c23b1bc4a9fc86bc2f1259a8ec5c45d7fb25ea460e68ec2405",
+      "bytes": 175624
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/staging-language-320.png",
+      "sha256": "e25f2b92fff3b638e80ecc9378cfa27b96e56c2f4903b0649ebb33105da05c0f",
+      "bytes": 72255
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/staging-language-390.png",
+      "sha256": "7f49b7ffa9a09311cf3f28e1182dd07ca14b55f918bb1e31b78423fc4ea16137",
+      "bytes": 75599
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/staging-sound-1440.png",
+      "sha256": "626ec3a7c4290636bc6f43dacbd890c0a9c251c4eead481ca3970125b98d7ac1",
+      "bytes": 218683
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/staging-sound-320.png",
+      "sha256": "ca1448315029c22eed11564adf1fdd9f8106c15ebd52106448c27d39f2ef8865",
+      "bytes": 86789
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/staging-sound-390.png",
+      "sha256": "e0e8a662e43f23e6117d1d6086379c5f0788838ec9d9c7148046c614c298ab7d",
+      "bytes": 104017
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/staging-vision-1440.png",
+      "sha256": "7a3489acc55f417268ef619c9525ff00bf13f0fda75b1b3b1601000ea0738021",
+      "bytes": 209637
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/staging-vision-320.png",
+      "sha256": "7892384d2196b774d911eb2acf2cc2877eeed42fd1988537b47eb56c846f1623",
+      "bytes": 86981
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/staging-vision-390.png",
+      "sha256": "0824e8839e9a60e498e72a279b292f95aeb7d49cc7cb4692284fbb6ab50e40cd",
+      "bytes": 103688
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/synchronization-receipt.json",
+      "sha256": "870925f4aafbca3cd5bc40f2c534f141667c24007b21d4e6687e945c64dfef1e",
+      "bytes": 101836
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/worker-build.log",
+      "sha256": "e585f144362a97a4f2cc97bf49fcc62db9425f3367fa90068ea5fc1a8b6d7870",
+      "bytes": 2290
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/worker-deploy.log",
+      "sha256": "dc5cfe36206dee822b434ec7411ae927e442b125cb1f40139e23d60b436b4a65",
+      "bytes": 1339
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/worker-tool-checks.json",
+      "sha256": "0dfff1cdcbaeb39dd9732c10c017cf9bb20e94f5220042687f193199de94cbb0",
+      "bytes": 476
+    },
+    {
+      "path": "sitemaps/informatics-publications.xml",
+      "sha256": "cefddb6480bbe00f5dec83d94ea250d2df457aa42764c22fd5efb9d91bb6c8c3",
+      "bytes": 146588
+    },
+    {
+      "path": "tools/build-age-index.py",
+      "sha256": "da22ac66319c055e954bd6ccd0de30da8ae8305a91e8c39c07944d89c18b0a24",
+      "bytes": 1530
+    },
+    {
+      "path": "tools/build-community-index.py",
+      "sha256": "13016ed903dbcb26f9e3f8f8c5dc5cae318dad6596b84e982b8fda68750612a6",
+      "bytes": 2529
+    },
+    {
+      "path": "tools/build-informatics-reading.mjs",
+      "sha256": "ac345cd8a61028d218c63dc09722552d7158e6ff8b3534cfb8371898a3b38055",
+      "bytes": 25210
+    },
+    {
+      "path": "tools/build-youth-library.py",
+      "sha256": "f1e19163ed8421fa4218fd30cdbdb7bb92c6d7719c3b072e3c1681b844a3500d",
+      "bytes": 21390
+    },
+    {
+      "path": "tools/check-research-background.mjs",
+      "sha256": "177c75e7be2b140bab455654a70eecac0d973b7f413021cb1d39d93f26509132",
+      "bytes": 5220
+    },
+    {
+      "path": "tools/check-youth-integration-browser.mjs",
+      "sha256": "36959b4c3099741673838263310d97ffb21d97c186f3e6d819896574af5c6271",
+      "bytes": 11790
+    },
+    {
+      "path": "tools/check-youth-integration.mjs",
+      "sha256": "132347a9bb155cf28e647fecc9c9c9ffad7de0d23044a0f58d39c02b68f65e91",
+      "bytes": 6377
+    },
+    {
+      "path": "tools/check-youth-live-answer.mjs",
+      "sha256": "e840313bf4bd3513294c265ae3e1e601031046f4da02fc8c65d07bf942aea4ac",
+      "bytes": 5589
+    },
+    {
+      "path": "tools/check-youth-live-api.mjs",
+      "sha256": "a41187308061ce25c7fc41f6b68720e62dd3d9f789531669e5a0592e1b0489bd",
+      "bytes": 5710
+    },
+    {
+      "path": "tools/check-youth-publications.mjs",
+      "sha256": "2eb75997cffe7314a8984e566c6a7e97c889258296f341601b2f63d6ee58cac0",
+      "bytes": 5116
+    }
+  ],
+  "approvedStaging": "fc218a2f82982f7ddf66e32fba3acf2ed7178ef7",
+  "productionBase": "57747030461016e4fc2c29bd4534df483118857d",
+  "unchangedUnapprovedBoundaries": [
+    "lab/",
+    "documents/",
+    "deployment scripts",
+    "production deployment manifest baseline"
+  ]
+}

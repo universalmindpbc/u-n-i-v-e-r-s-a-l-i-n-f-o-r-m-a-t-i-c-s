@@ -1,0 +1,51 @@
+{
+  "passed": true,
+  "phase": "live production research route",
+  "origin": "https://universalmind.tv",
+  "processAudioMuted": true,
+  "externalRequestsBlocked": true,
+  "checks": [
+    {
+      "width": 1440,
+      "chapters": true,
+      "allPaperCrosses": true,
+      "chapterCrosses": true,
+      "dropdownCheckboxAndRemoval": true,
+      "pagination": true,
+      "noHorizontalOverflow": true
+    },
+    {
+      "width": 390,
+      "chapters": true,
+      "allPaperCrosses": true,
+      "chapterCrosses": true,
+      "dropdownCheckboxAndRemoval": true,
+      "pagination": true,
+      "noHorizontalOverflow": true
+    },
+    {
+      "width": 320,
+      "chapters": true,
+      "allPaperCrosses": true,
+      "chapterCrosses": true,
+      "dropdownCheckboxAndRemoval": true,
+      "pagination": true,
+      "noHorizontalOverflow": true
+    },
+    {
+      "filteredDownloads": {
+        "records": 105,
+        "allExportedFieldsEquivalent": true
+      },
+      "all105FindingsAndLimits": true,
+      "allFiveExistingMatches": true,
+      "allDropdownFacets": true,
+      "withinFacetORAndAcrossFacetsAND": true,
+      "institutionCounts": true,
+      "emptyMantraHonest": true,
+      "originalDVChapterPreserved": true,
+      "visibleLibrary": 1323
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,81 @@
+{
+  "passed": true,
+  "paidRequests": false,
+  "processAudioMuted": true,
+  "inventory": {
+    "schemaVersion": "1.0",
+    "datasetVersion": "research-20261026-daytab-v1+youth-f164c8325ea5",
+    "sourceVersions": {
+      "publicationDatabase": "research-20261026-daytab-v1",
+      "approvedYouth": {
+        "sourceBatch": "batch-f164c8325ea5f9c9.json",
+        "sourceSHA256": "f164c8325ea5f9c989c29524518b598913508117712826dc408f592b7f99a723",
+        "approvedAt": "2026-11-02",
+        "publications": 105
+      }
+    },
+    "counts": {
+      "publications": 991,
+      "atlas": 1001,
+      "full_texts": 149,
+      "public_full_texts": 146,
+      "m9_family": 111
+    },
+    "coverage": {
+      "databasePublications": 891,
+      "approvedYouthPublications": 105,
+      "replacedDatabaseRows": 5,
+      "note": "Read-only union of the publication database and approved youth summaries. Other browser-only collections can have different coverage. No new full text is indexed."
+    },
+    "access": {
+      "records": "Public publication metadata, approved summaries and quotations; complete Atlas records and commentary.",
+      "passages": "CC BY and CC0 passages only, with source, attribution and licence. Other full texts remain outside public exports.",
+      "writing": false
+    },
+    "links": {
+      "publications": "https://informatics-universal-one.universalmind.workers.dev/api/v1/publications",
+      "atlas": "https://informatics-universal-one.universalmind.workers.dev/api/v1/atlas",
+      "openapi": "https://informatics-universal-one.universalmind.workers.dev/api/v1/openapi.json",
+      "mcp": "https://informatics-universal-one.universalmind.workers.dev/mcp",
+      "agentCard": "https://informatics-universal-one.universalmind.workers.dev/.well-known/agent-card.json",
+      "guide": "https://universalmind.tv/informatics/connect.html",
+      "quantum": "https://informatics-universal-one.universalmind.workers.dev/api/v1/quantum/oxtr-qrc-01",
+      "completeDataset": "https://universalmind.tv/informatics/exports/manifest.json"
+    }
+  },
+  "health": {
+    "status": "ready",
+    "profile": "informatics-research",
+    "model": "gpt-6-astra",
+    "version": "research-20261026-daytab-v1",
+    "knowledgeVersions": {
+      "approvedYouth": {
+        "sourceBatch": "batch-f164c8325ea5f9c9.json",
+        "sourceSHA256": "f164c8325ea5f9c989c29524518b598913508117712826dc408f592b7f99a723",
+        "approvedAt": "2026-11-02",
+        "publications": 105
+      }
+    }
+  },
+  "all105ApprovedRecordsExact": true,
+  "allPublicationPages": true,
+  "RESTCSVEquivalent": true,
+  "connectJSONCSVEquivalent": true,
+  "withheldRetractionAbsent": true,
+  "MCPPublicationLookup": true,
+  "RESTIdentityLookup": true,
+  "downloads": [
+    {
+      "format": "json",
+      "records": 991,
+      "bytes": 4779860,
+      "status": "Downloaded 991 publication records. Approved text and nested fields are retained."
+    },
+    {
+      "format": "csv",
+      "records": 991,
+      "bytes": 3985301,
+      "status": "Downloaded 991 publication records. Approved text and nested fields are retained."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "status": "production deployed, verified and recorded remotely",
+  "verifiedAtUTC": "2026-11-02T07:34:05.570101+00:00",
+  "dedicatedSourceVersion": "e2757298191e98cfcbf0cab47e3c1eadea1c9f1d",
+  "integratedRepository": "https://github.com/universalmindpbc/u-n-i-v-e-r-s-a-l-m-i-n-d",
+  "productionCommit": "d5e3499af7533a3c87cef794aa028f33194656f8",
+  "productionTag": "production-2026-11-02-1831",
+  "stagingAuditReconciliation": "bd46952f2434ee4de6b45666114b71f82688d05f",
+  "productionWorker": "7d8815a8-001f-403b-9987-0bc145fffe50",
+  "sourceChangedByReceipt": false,
+  "dedicatedMainChanged": false,
+  "remoteVerification": "Main and staging references, annotated tag and dereferenced production commit confirmed after successful atomic push.",
+  "productionURL": "https://universalmind.tv/informatics/research/",
+  "rollback": {
+    "productionCommit": "57747030461016e4fc2c29bd4534df483118857d",
+    "productionTag": "production-2026-11-02-1509",
+    "workerName": "informatics-universal-one",
+    "workerVersion": "58404974-72da-4721-aa9d-9f1371cae6c7",
+    "productionManifestSHA256": "96bf88576c41657c09c04fb8ddabb933753d16973f770957210ee9328fc36c2c",
+    "websiteRollback": "Restore the scoped files from the production commit and redeploy via deploy-panthurlive.sh informatics and ai-wiki; Git branch changes alone do not change Panthur.",
+    "workerRollback": "Use the recorded production Worker version with the established Wrangler rollback command if a rollback is required. No rollback has been executed."
+  }
+}

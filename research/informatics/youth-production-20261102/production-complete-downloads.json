@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "origin": "https://universalmind.tv",
+  "processAudioMuted": true,
+  "noPaidRequests": true,
+  "version": "4236ba3449732c396c297767fd618c7b5c8f2245b828b5b7b4238b21ad48509c",
+  "downloads": [
+    {
+      "format": "json",
+      "bytes": 81261114,
+      "sha256": "a0a59bd9ccd8b8a656d4f2b64974806223fd8170436180c95890179740e4f042",
+      "status": "Complete JSON saved · 1,195 data files included. Decompress the .gz file to open one JSON file. Version 4236ba344973.",
+      "passed": true
+    },
+    {
+      "format": "csv",
+      "bytes": 151294803,
+      "sha256": "17493275ff18af10a3e5a9ca9837dbb35915287adc224df9c46d285900f266cc",
+      "status": "Complete CSV saved · 1,195 data files included. Decompress the .gz file to open one CSV file. Version 4236ba344973.",
+      "passed": true
+    }
+  ],
+  "fullRoundtrip": "Live downloaded archive hashes equal the locally fully reconstructed JSON and CSV archives, each containing all 1,195 sources."
+}

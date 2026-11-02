@@ -1,0 +1,8 @@
+{
+  "initialFailure": "Discovery page count assertion; no files transferred by the first attempt.",
+  "cause": "Untracked local numbered copies of source and audit files, including publication HTML.",
+  "resolution": "128 numbered copies preserved by rename outside the repository, with original-path manifest. No tracked source changed.",
+  "preservedCount": 128,
+  "preservationManifest": "../youth-production-preserved-duplicates-20261102/preservation-manifest.json",
+  "retry": "Existing unchanged Panthur workflow; discovery and exports passed; 125 changed assets uploaded."
+}

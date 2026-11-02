@@ -1,0 +1,9 @@
+{
+  "cumulativeConservativeUSD": 0.43452499999999994,
+  "cumulativeConservativeAUD": 0.8690499999999999,
+  "approvedTotalAUD": 2,
+  "remainingConservativeUSDUnderOriginalPlan": 0.515475,
+  "productionPaidCalls": 0,
+  "status": "No production model call scheduled. The approved Worker enables the opt-in test ceiling only on staging; production defaults allow up to seven model rounds and 2600 output tokens per round. Output alone can reserve US$0.91 at the verified US$50/M rate, exceeding the remaining US$0.515475 before input. Exact approved source is being preserved. Free production retrieval, source/citation and interface checks will be completed; the identical model path was verified end-to-end on staging.",
+  "priceSource": "https://developers.openai.com/api/docs/models/gpt-6-astra"
+}
