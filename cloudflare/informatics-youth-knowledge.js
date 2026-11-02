@@ -11,17 +11,17 @@ export const youthMatches=(r,f={})=>[['collections','collections'],['targets','t
 export function youthSearch(query,filters={},limit=5){
  const stop=new Set('the a an and or of for in to on with from study studies research evidence what is are does do this that tell me about'.split(' '));
  const terms=[...new Set(normal(query).match(/[\p{L}\p{N}-]+/gu)||[])].filter(t=>!stop.has(t)&&t.length>2);
- return youthRecords.filter(r=>youthMatches(r,filters)).map(r=>({r,score:terms.reduce((n,t)=>n+(normal([r.title,r.summary,r.limitation,r.design,r.evidence.intervention,...r.researchTopics,...r.institutions,r.labRelevance.implication,r.id,r.pmid].join(' ')).includes(t)?1:0),0)}))
+ return youthRecords.filter(r=>youthMatches(r,filters)).map(r=>({r,score:(r.pmid&&terms.includes(r.pmid)?100:0)+terms.reduce((n,t)=>n+(normal([r.title,r.summary,r.limitation,r.design,r.evidence.intervention,...r.researchTopics,...r.institutions,r.labRelevance.implication,r.id,r.pmid,r.doi].join(' ')).includes(t)?1:0),0)}))
   .filter(x=>x.score>0).sort((a,b)=>b.score-a.score||b.r.year-a.r.year).slice(0,limit).map(x=>x.r);
 }
 export function youthKnowledge(args={},origin='https://staging.universalmind.tv'){
  let rows=args.id?[youthRecord(args.id)].filter(Boolean):youthRecords.filter(r=>(!args.collection||args.collection==='all'||r.collections.includes(args.collection))&&(!args.institution||r.institutions.includes(args.institution))&&(!args.relationship||r.labRelevance.relationship===args.relationship));
- if(args.query&&!args.id){const matches=new Set(youthSearch(args.query,{},105).map(r=>r.id));rows=rows.filter(r=>matches.has(r.id));}
+ if(args.query&&!args.id){const eligible=new Set(rows.map(r=>r.id));const explicit=rows.filter(r=>[r.pmid,r.doi,r.id].filter(Boolean).some(id=>normal(args.query).includes(normal(id))));rows=explicit.length?explicit:youthSearch(args.query,{},105).filter(r=>eligible.has(r.id));}
  const offset=Math.max(0,Number(args.offset)||0),limit=args.id?1:4;
  return {id:'approved-youth-20261102',title:'Youth research and Universal Mind Mobile Lab · Approved summaries',version:bundle.sourceBatch,sourceSHA256:bundle.sourceSHA256,approvedAt:bundle.approvedAt,
   overview:bundle.overview,limitations:bundle.limitations,labFraming:bundle.labFraming,counts:bundle.counts,paperTrustFactorPolicy:bundle.paperTrustFactorPolicy,
   chapterTrustFactorPolicy:{1:'At least three distinct peer-reviewed study families',2:'At least three distinct randomized controlled trial units',3:'At least three distinct verified double-blind randomized controlled trial units'},
-  chapters:Object.fromEntries(Object.entries(bundle.chapters).map(([c,v])=>[c,{url:`${origin}/informatics/library.html?collection=${c}&chapter=${v.number}#topic-universal-mind-mobile-lab`,topics:v.topics.map(t=>({id:t.id,title:t.title,publications:t.papers.length,trustScore:t.trustScore,trustAssessment:t.trustAssessment}))}])),
+  chapters:Object.fromEntries(Object.entries(bundle.chapters).map(([c,v])=>[c,{url:`${origin}/informatics/library.html?collection=${c}&chapter=${v.number}#topic-universal-mind-mobile-lab`,topics:v.topics.map(t=>({id:t.id,title:t.title,publications:t.papers.length,trustScore:t.trustScore,trustAssessment:Object.fromEntries(['score','status','minimumQualifyingStudies','counts','basis'].map(k=>[k,t.trustAssessment[k]]))}))}])),
   matchedRecords:rows.length,offset,nextOffset:offset+limit<rows.length?offset+limit:null,records:rows.slice(offset,offset+limit),
   knowledgeMethod:'Versioned retrieval of human-approved AI-assessed summaries. Source access describes selected appraisal evidence, not indexed full text or independent clinical peer review. No model fine-tuning.'};
 }

@@ -1,0 +1,20 @@
+{
+  "integratedCandidateCommit": "4972655cf6a0aabd83730e930d495fcae7413337",
+  "scope": "Exact PMID/DOI questions retrieve their requested records first; repeated chapter qualifying-ID lists remain in the full source, while model tool context retains counts, policy and basis. Test waits for Connect handlers after async inventory load.",
+  "files": [
+    {
+      "path": "cloudflare/informatics-youth-knowledge.js",
+      "sha256": "34c0561e10adff0708af6be9c01f688e78b4c7a624665cfbfa0d1f627a84cb78"
+    },
+    {
+      "path": "tools/check-youth-publications.mjs",
+      "sha256": "e6e50c83ef379989575d699d306246fdf8fb824110e1489e64a9d117a254dc88"
+    },
+    {
+      "path": "tools/check-youth-live-api.mjs",
+      "sha256": "a41187308061ce25c7fc41f6b68720e62dd3d9f789531669e5a0592e1b0489bd"
+    }
+  ],
+  "providerCallsBeforeRetry": 0,
+  "spentAUD": 0
+}
