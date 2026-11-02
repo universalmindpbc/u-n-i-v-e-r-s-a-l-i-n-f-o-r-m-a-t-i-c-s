@@ -1,0 +1,18 @@
+{
+  "integratedCandidateCommit": "4b247393e0eb36af8e0925f0bcacf4f666b023f5",
+  "scope": "Conservative cumulative staging QA budget; provider-counted exact input prefix plus new-byte and framing bounds. No visitor privilege or production change.",
+  "files": [
+    {
+      "path": "cloudflare/informatics-qa-spend.js",
+      "sha256": "89bab8bd2db05a04296a3546e7a5cc9f731ad517097fef00c54fb931f769c050"
+    },
+    {
+      "path": "tools/check-youth-live-answer.mjs",
+      "sha256": "e840313bf4bd3513294c265ae3e1e601031046f4da02fc8c65d07bf942aea4ac"
+    },
+    {
+      "path": "tools/check-youth-publications.mjs",
+      "sha256": "2eb75997cffe7314a8984e566c6a7e97c889258296f341601b2f63d6ee58cac0"
+    }
+  ]
+}
