@@ -1,0 +1,51 @@
+{
+  "processAudioMuted": true,
+  "live": true,
+  "observations": [
+    {
+      "mode": "video",
+      "body": "rgba(0, 0, 0, 0)",
+      "html": "rgba(0, 0, 0, 0)",
+      "ink": "rgb(231, 237, 241)",
+      "embedded": true,
+      "selected": [
+        "Video"
+      ],
+      "stored": "video"
+    },
+    {
+      "mode": "black",
+      "body": "rgba(0, 0, 0, 0)",
+      "html": "rgba(0, 0, 0, 0)",
+      "ink": "rgb(231, 237, 241)",
+      "embedded": true,
+      "selected": [
+        "Black"
+      ],
+      "stored": "black"
+    },
+    {
+      "mode": "white",
+      "body": "rgba(0, 0, 0, 0)",
+      "html": "rgba(0, 0, 0, 0)",
+      "ink": "rgb(25, 40, 49)",
+      "embedded": true,
+      "selected": [
+        "White"
+      ],
+      "stored": "white"
+    },
+    {
+      "mode": "black",
+      "body": "rgba(0, 0, 0, 0)",
+      "html": "rgba(0, 0, 0, 0)",
+      "ink": "rgb(231, 237, 241)",
+      "embedded": true,
+      "selected": [
+        "Black"
+      ],
+      "stored": "black"
+    }
+  ],
+  "blackIncorrectlyTransparent": true
+}

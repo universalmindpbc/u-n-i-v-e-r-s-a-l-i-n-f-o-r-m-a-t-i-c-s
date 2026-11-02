@@ -1,0 +1,56 @@
+{
+  "baseline": "158468e558bbd79deec879dd81b12918d97ac08b",
+  "integratedRepository": "https://github.com/universalmindpbc/u-n-i-v-e-r-s-a-l-m-i-n-d",
+  "integratedBranch": "staging",
+  "sourceRepository": "https://github.com/universalmindpbc/u-n-i-v-e-r-s-a-l-i-n-f-o-r-m-a-t-i-c-s",
+  "sourceBranch": "research/youth-20261102",
+  "files": [
+    {
+      "path": "Informatics/library.css",
+      "sha256": "d0185b2ab174eec9abb8ed128b7137922094568d6c1cdc5aabf776c14068c4ab"
+    },
+    {
+      "path": "Informatics/library.html",
+      "sha256": "14904541a98f992fc83aa60e83d91f3840d1682d81ba85319c2b8819a6fca455"
+    },
+    {
+      "path": "cloudflare/informatics-repository.js",
+      "sha256": "0e5b5c4d305ab008d4bf03db099ec90355b3bdaad3cc415b1794c91f700076c7"
+    },
+    {
+      "path": "cloudflare/informatics-research-worker.js",
+      "sha256": "b1242b3ed5515bfa6eabf1423bcf288ea1b64306a81e7fbebb34c3f227059e02"
+    },
+    {
+      "path": "cloudflare/informatics-youth-knowledge.js",
+      "sha256": "d5bc03baa031ee84944a4ddd6959541b944e6e99ca65d5665710abbddd1d586c"
+    },
+    {
+      "path": "cloudflare/informatics-qa-spend.js",
+      "sha256": "8b523b3a0e3267367e74e40cc2ab50bd530d21c906f20f2d032ba6710226d3ec"
+    },
+    {
+      "path": "tools/check-research-background.mjs",
+      "sha256": "177c75e7be2b140bab455654a70eecac0d973b7f413021cb1d39d93f26509132"
+    },
+    {
+      "path": "tools/check-youth-publications.mjs",
+      "sha256": "e693ed02532fe6d70116be0819805193e0a88e5835e60bd580a0aa4bab99034c"
+    },
+    {
+      "path": "tools/check-youth-live-api.mjs",
+      "sha256": "88eb43bedee79183f85c8f0ab1e7895b1f5319cfa21509a8d5009af00005b1ba"
+    },
+    {
+      "path": "tools/check-youth-live-answer.mjs",
+      "sha256": "75ad2adc160b323bd7f6a77b158b4ff6a19dbfeba51a1a35a724e6834c817419"
+    }
+  ],
+  "unchangedData": {
+    "qualifiedYouth": 105,
+    "visibleLibrary": 1323,
+    "completeExportsVersion": "4236ba3449732c396c297767fd618c7b5c8f2245b828b5b7b4238b21ad48509c"
+  },
+  "scope": "Embedded research reading background, read-only approved-youth API/export overlay, explicit knowledge provenance and opt-in staging QA spend ceiling. No database writes or credentials changed.",
+  "productionChanged": false
+}

@@ -1,0 +1,132 @@
+{
+  "integratedCandidateCommit": "8093f8fa7983263fd417f7baaba09d97af7a894d",
+  "previousSourceCommit": "80db1f6d175292f041d60c214dffc226441e43bc",
+  "scope": "Embedded research reading background, read-only approved-youth API/export overlay, explicit knowledge provenance and opt-in staging QA spend ceiling. No database writes or credentials changed.",
+  "productionChanged": false,
+  "files": [
+    {
+      "path": "Informatics/library.css",
+      "sha256": "d0185b2ab174eec9abb8ed128b7137922094568d6c1cdc5aabf776c14068c4ab"
+    },
+    {
+      "path": "Informatics/library.html",
+      "sha256": "14904541a98f992fc83aa60e83d91f3840d1682d81ba85319c2b8819a6fca455"
+    },
+    {
+      "path": "cloudflare/informatics-repository.js",
+      "sha256": "0e5b5c4d305ab008d4bf03db099ec90355b3bdaad3cc415b1794c91f700076c7"
+    },
+    {
+      "path": "cloudflare/informatics-research-worker.js",
+      "sha256": "b1242b3ed5515bfa6eabf1423bcf288ea1b64306a81e7fbebb34c3f227059e02"
+    },
+    {
+      "path": "cloudflare/informatics-youth-knowledge.js",
+      "sha256": "d5bc03baa031ee84944a4ddd6959541b944e6e99ca65d5665710abbddd1d586c"
+    },
+    {
+      "path": "cloudflare/informatics-qa-spend.js",
+      "sha256": "8b523b3a0e3267367e74e40cc2ab50bd530d21c906f20f2d032ba6710226d3ec"
+    },
+    {
+      "path": "tools/check-research-background.mjs",
+      "sha256": "177c75e7be2b140bab455654a70eecac0d973b7f413021cb1d39d93f26509132"
+    },
+    {
+      "path": "tools/check-youth-publications.mjs",
+      "sha256": "e693ed02532fe6d70116be0819805193e0a88e5835e60bd580a0aa4bab99034c"
+    },
+    {
+      "path": "tools/check-youth-live-api.mjs",
+      "sha256": "88eb43bedee79183f85c8f0ab1e7895b1f5319cfa21509a8d5009af00005b1ba"
+    },
+    {
+      "path": "tools/check-youth-live-answer.mjs",
+      "sha256": "75ad2adc160b323bd7f6a77b158b4ff6a19dbfeba51a1a35a724e6834c817419"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/before-white.png",
+      "sha256": "ee68e2d0f28736566f12b2e6a06a6a3818c9a93e01a51a4c837481d41feeb074"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/source-manifest.json",
+      "sha256": "ce62382c2f72834b0ec6116eee6529dbf8ba45c9c0d6eb8e68bdb917827b2800"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-white-1440.png",
+      "sha256": "6f2b36176e616ff650a85f4d0ad16f8787377086519c875ce06821e18b65c0d6"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-black-320.png",
+      "sha256": "e53f536df644cb262ed70a4569992a67bd30ee087a448ae62c9caf662cebe164"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/reproduction.json",
+      "sha256": "bbc25fcabfeb39ace94be8ddc63539f05ad6103448bc765d52b3c0df8ea440f6"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/roundtrip.json",
+      "sha256": "ae25db6c1d005192109544bcd58246c1e66be7b3ffe8b432b5e8b20ce67b6cc7"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-video-1440.png",
+      "sha256": "2efee3498837c4b048dbf63581a9a7ecf6e5bf731fa0fd2c5de3b79cd94a8a1e"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-white-320.png",
+      "sha256": "b53056ab0143bf7caf0a8a172f64e7003541e4f0d988d70ef943890a58c4f4d1"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/before-video.png",
+      "sha256": "b0127a63f9836d97634313e631af9894b7adbc794247ff4d0beab279b50353e8"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-white-390.png",
+      "sha256": "e7456a558381d64096af19397d039a519dbd7fa7257f1a8780f8c288966db985"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-background.json",
+      "sha256": "0d25f591621c2f9fdfd1ef6a57952182088d0e38d050a19622adc091ef0af12e"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/PREPARATION.md",
+      "sha256": "3b6a69f1bb0489787922f31c44688d92b12d96da991bad868a6f03c7af5bd507"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-black-390.png",
+      "sha256": "2d7650a20d5e486f9820c65b5b0b1e59169ee6b86e18f24a5944bc423481eb8e"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/worker-build.log",
+      "sha256": "b9d3836f4aba7046a3958b7dfc366d29a2f58836c9185e84bdf26c9d64b8f94d"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/public-api-local.json",
+      "sha256": "b633ea7521e9fe8247f3ad45cd09eb3aa6d16adf80eb6db66276eee8561c1f61"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-video-320.png",
+      "sha256": "94cd3380dd50033e010df2513e4aa30f6bb106eb4e3268ea3fdcc94174505b71"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/before-black.png",
+      "sha256": "270e36aca646722955ba8a0068a93e9911b0142c04702745368d41ff3011c0d9"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-black-1440.png",
+      "sha256": "ab889e300e664d4ed6b05dc0f327c69c1a6f36f425ffaee715f2f643bc31abdf"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/api-budget.json",
+      "sha256": "929ecd4b529abdb8ac08b23e17765694f4969d56496d8c21451d74fe9e7abc40"
+    },
+    {
+      "path": "research/informatics/research-background-20261102/candidate-video-390.png",
+      "sha256": "cef0a6d97210655cbd4dcfea67653db206dbe1026e13cc4ad6ed1f3f8bf45cb6"
+    }
+  ],
+  "unchangedDependencies": [
+    "Informatics/library-data/youth-expansion.json",
+    "Informatics/exports/manifest.json"
+  ]
+}

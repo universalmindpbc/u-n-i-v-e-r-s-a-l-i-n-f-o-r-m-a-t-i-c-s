@@ -1,0 +1,29 @@
+{
+  "authorizedTotalAUD": 2,
+  "maximumTotalUSD": 0.95,
+  "conservativeAUDPerUSD": 2,
+  "maximumConservativeAUD": 1.9,
+  "model": "gpt-6-astra",
+  "pricingUSDPerMillion": {
+    "input": 10,
+    "cacheWrite": 12.5,
+    "output": 50,
+    "inputRateUsedForUpperBound": 12.5
+  },
+  "sources": [
+    "https://developers.openai.com/api/docs/models/gpt-6-astra",
+    "https://www.rba.gov.au/statistics/frequency/exchange-rates.html"
+  ],
+  "pricingVerifiedUTC": "2026-11-02T05:44:20.315622+00:00",
+  "RBA_USDPerAUD": 0.704,
+  "RBA_date": "2026-10-30",
+  "bounds": {
+    "maximumModelCallsPerQuestion": 3,
+    "maximumOutputTokensPerCall": 1400,
+    "inputTokenUpper": "UTF-8 byte length of serialized request plus 8192 framing allowance; reject at 272000",
+    "serviceTier": "default",
+    "unknownUsage": "Retain pre-call reservation; unknown HTTP outcome consumes full remaining allowance without retry"
+  },
+  "method": "Existing staging UI and server credentials. Optional header lowers limits, does not grant QA quota privilege. All requests sequential; each later test receives remaining total USD allowance. No new credentials.",
+  "callsBeforeThisTask": 0
+}

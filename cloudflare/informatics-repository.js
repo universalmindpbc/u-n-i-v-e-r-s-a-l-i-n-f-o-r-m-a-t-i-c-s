@@ -1,4 +1,5 @@
 import {quantumKnowledge,quantumRelevant} from './informatics-quantum-knowledge.js';
+import {youthRecords,youthRecord,youthMatches,youthSearch,youthVersion} from './informatics-youth-knowledge.js';
 // Shared, read-only data service for REST, MCP and export clients.
 // Approved fields remain intact. No model generation or write credentials here.
 export class RepositoryError extends Error {
@@ -33,6 +34,12 @@ const where=`(cardinality($1::text[])=0 OR p.data->'collections' ?| $1::text[])
 const reusable=`(s.rights->>'license' ~* '^https?://creativecommons.org/(licenses/by/[0-9.]+/?|publicdomain/zero/[0-9.]+/?)$'
  OR s.rights->>'license' ~* '^CC BY( [0-9.]+| \\(version not specified in article\\))?$'
  OR s.rights->>'license' ~* '^CC0( [0-9.]+)?$')`;
+const youthIdentities=[
+ [...new Set(youthRecords.flatMap(r=>[r.id,...r.aliases]))],
+ [...new Set(youthRecords.map(r=>String(r.doi||'').toLowerCase()).filter(Boolean))],
+ [...new Set(youthRecords.map(r=>String(r.pmid||'')).filter(Boolean))]
+];
+const youthDuplicate=(first=1)=>`(p.id=ANY($${first}::text[]) OR regexp_replace(lower(coalesce(p.data->>'doi','')),'^https?://(dx\\.)?doi\\.org/','')=ANY($${first+1}::text[]) OR coalesce(p.data->>'pmid','')=ANY($${first+2}::text[]))`;
 export const csvCell=value=>{
  let s=typeof value==='object'&&value!==null?JSON.stringify(value):String(value??'');
  if(/^[\s]*[=+@-]/.test(s))s="'"+s;
@@ -43,8 +50,8 @@ export function recordsCSV(records,kind){
  return headers.join(',')+'\r\n'+records.map(r=>headers.map(k=>csvCell(k==='record_json'?r.data??r:r[k]??r.data?.[k])).join(',')).join('\r\n')+'\r\n';
 }
 export function repository(db,env,base){
- const version=env.DATASET_VERSION,site=env.ALLOWED_ORIGIN+'/informatics/';
- const wrap=data=>({schemaVersion:'1.0',datasetVersion:version,...data});
+ const version=env.DATASET_VERSION+'+youth-'+youthVersion.sourceSHA256.slice(0,12),site=env.ALLOWED_ORIGIN+'/informatics/';
+ const wrap=data=>({schemaVersion:'1.0',datasetVersion:version,sourceVersions:{publicationDatabase:env.DATASET_VERSION,approvedYouth:youthVersion},...data});
  const page=(offset,limit,total)=>({offset,limit,total,nextOffset:offset+limit<total?offset+limit:null});
  const recordURL=(kind,id)=>`${base}/api/v1/${kind}/${encodeURIComponent(id)}`;
  async function inventory(){
@@ -54,19 +61,23 @@ export function repository(db,env,base){
    (SELECT count(DISTINCT publication_id)::int FROM research.passages WHERE kind='full-text') full_texts,
    (SELECT count(DISTINCT s.publication_id)::int FROM research.passages s WHERE s.kind='full-text' AND ${reusable}) public_full_texts,
    (SELECT count(*)::int FROM research.atlas WHERE data->'family'->>'m9'='true') m9_family`,[]);
-  return wrap({counts:r,access:{records:'Public publication metadata, approved summaries and quotations; complete Atlas records and commentary.',passages:'CC BY and CC0 passages only, with source, attribution and licence. Other full texts remain outside public exports.',writing:false},links:{publications:base+'/api/v1/publications',atlas:base+'/api/v1/atlas',openapi:base+'/api/v1/openapi.json',mcp:base+'/mcp',agentCard:base+'/.well-known/agent-card.json',guide:site+'connect.html',quantum:base+'/api/v1/quantum/oxtr-qrc-01',completeDataset:site+'exports/manifest.json'}});
+  const [duplicates]=await db.query(`SELECT count(*)::int total FROM research.publications p WHERE ${youthDuplicate()}`,youthIdentities);
+  return wrap({counts:{...r,publications:r.publications-duplicates.total+youthRecords.length},coverage:{databasePublications:r.publications,approvedYouthPublications:youthRecords.length,replacedDatabaseRows:duplicates.total,note:'Read-only union of the publication database and approved youth summaries. Other browser-only collections can have different coverage. No new full text is indexed.'},access:{records:'Public publication metadata, approved summaries and quotations; complete Atlas records and commentary.',passages:'CC BY and CC0 passages only, with source, attribution and licence. Other full texts remain outside public exports.',writing:false},links:{publications:base+'/api/v1/publications',atlas:base+'/api/v1/atlas',openapi:base+'/api/v1/openapi.json',mcp:base+'/mcp',agentCard:base+'/.well-known/agent-card.json',guide:site+'connect.html',quantum:base+'/api/v1/quantum/oxtr-qrc-01',completeDataset:site+'exports/manifest.json'}});
  }
  async function publications(args={}){
   const f=filters(args.filters),q=textArg(args.query,'query'),offset=integerArg(args.offset,'offset'),limit=integerArg(args.limit,'limit',100,20);
   if(!limit)throw new RepositoryError('limit must be positive.');
-  const values=[f.collections,f.targets,f.conditions,f.journals,q];
-  const clause=where+` AND ($5='' OR p.search @@ websearch_to_tsquery('english',$5) OR p.data->>'title' ILIKE '%'||$5||'%')`;
+  const values=[f.collections,f.targets,f.conditions,f.journals,q,...youthIdentities];
+  const additions=q?youthSearch(q,f,105):youthRecords.filter(r=>youthMatches(r,f)).sort((a,b)=>a.id.localeCompare(b.id));
+  const selected=additions.slice(offset,offset+limit),remaining=limit-selected.length;
+  const clause=where+` AND ($5='' OR p.search @@ websearch_to_tsquery('english',$5) OR p.data->>'title' ILIKE '%'||$5||'%') AND NOT ${youthDuplicate(6)}`;
   const [count]=await db.query(`SELECT count(*)::int total FROM research.publications p WHERE ${clause}`,values);
-  const rows=await db.query(`SELECT p.id,p.data FROM research.publications p WHERE ${clause} ORDER BY ts_rank(p.search,websearch_to_tsquery('english',$5)) DESC,p.id LIMIT $6 OFFSET $7`,[...values,limit,offset]);
-  return wrap({records:rows.map(r=>({...r.data,id:r.id})),page:page(offset,limit,count.total),filters:f,query:q});
+  const rows=remaining?await db.query(`SELECT p.id,p.data FROM research.publications p WHERE ${clause} ORDER BY ts_rank(p.search,websearch_to_tsquery('english',$5)) DESC,p.id LIMIT $9 OFFSET $10`,[...values,remaining,Math.max(0,offset-additions.length)]):[];
+  return wrap({records:[...selected,...rows.map(r=>({...r.data,id:r.id}))],page:page(offset,limit,count.total+additions.length),filters:f,query:q});
  }
  async function publication(id){
   id=textArg(id,'id',250);
+  const approved=youthRecord(id);if(approved)return wrap({record:approved,url:recordURL('publications',approved.id)});
   const rows=await db.query(`SELECT id,data FROM research.publications WHERE id=$1 OR lower(data->>'doi')=lower($1) OR data->>'pmid'=$1 LIMIT 1`,[id]);
   if(!rows.length)throw new RepositoryError('Publication not found.',404);
   return wrap({record:{...rows[0].data,id:rows[0].id},url:recordURL('publications',rows[0].id)});

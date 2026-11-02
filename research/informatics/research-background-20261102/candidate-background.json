@@ -1,0 +1,1783 @@
+{
+  "passed": true,
+  "phase": "candidate",
+  "processAudioMuted": true,
+  "paidRequestsBlocked": true,
+  "views": 21,
+  "transitions": 147,
+  "viewports": [
+    1440,
+    390,
+    320
+  ],
+  "reloadPersistenceAllModes": true,
+  "articleControls": true,
+  "contrastAtLeast4_5": true,
+  "checks": [
+    {
+      "width": 1440,
+      "query": "collection=all&view=search",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "query": "collection=sound",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "query": "collection=sound&chapter=8",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "query": "collection=vision",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "query": "collection=vision&chapter=8",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "query": "collection=language",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 1440,
+      "query": "collection=language&chapter=6",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "query": "collection=all&view=search",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "query": "collection=sound",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "query": "collection=sound&chapter=8",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "query": "collection=vision",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "query": "collection=vision&chapter=8",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "query": "collection=language",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 390,
+      "query": "collection=language&chapter=6",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 320,
+      "query": "collection=all&view=search",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 320,
+      "query": "collection=sound",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 320,
+      "query": "collection=sound&chapter=8",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 320,
+      "query": "collection=vision",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 320,
+      "query": "collection=vision&chapter=8",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 320,
+      "query": "collection=language",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    },
+    {
+      "width": 320,
+      "query": "collection=language&chapter=6",
+      "modes": [
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "video",
+          "html": "rgba(0, 0, 0, 0)",
+          "body": "rgba(0, 0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "video",
+          "pressed": [
+            "video"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "white",
+          "html": "rgb(255, 255, 255)",
+          "body": "rgb(255, 255, 255)",
+          "ink": "rgb(25, 40, 49)",
+          "stored": "white",
+          "pressed": [
+            "white"
+          ],
+          "overflow": false
+        },
+        {
+          "mode": "black",
+          "html": "rgb(0, 0, 0)",
+          "body": "rgb(0, 0, 0)",
+          "ink": "rgb(231, 237, 241)",
+          "stored": "black",
+          "pressed": [
+            "black"
+          ],
+          "overflow": false
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "errors": []
+}

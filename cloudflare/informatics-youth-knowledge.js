@@ -1,5 +1,6 @@
 // Approved summaries are bundled locally; no embeddings, full-text upload or DB writes.
 import bundle from '../Informatics/library-data/youth-expansion.json' with {type:'json'};
+export const youthVersion={sourceBatch:bundle.sourceBatch,sourceSHA256:bundle.sourceSHA256,approvedAt:bundle.approvedAt,publications:bundle.records.length};
 export const youthRelevant=q=>/\byouth\b|young (?:people|adults)|black dog|orygen|universal mind (?:mobile )?lab|\b16\s*[–-]\s*24\b/i.test(q);
 const fields=['id','aliases','title','authors','journal','year','doi','pmid','urls','collections','categories','targets','conditions','ageGroups','agePopulation','design','summary','limitation','evidence','studyDesignAssessment','paperTrustAssessment','jadad','sourceAccess','publicationApproval','studyFamilyId','randomizedStudyUnitId','institutions','institutionEvidence','researchTopics','labRelevance','publicationStatus','noticeSummary','citationCount','citationSnapshot'];
 export const youthRecords=bundle.records.map(r=>Object.fromEntries(fields.map(k=>[k,r[k]])));
