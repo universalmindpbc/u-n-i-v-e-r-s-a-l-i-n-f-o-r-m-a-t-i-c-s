@@ -1,0 +1,48 @@
+{
+  "integratedSourceCommit": "4b247393e0eb36af8e0925f0bcacf4f666b023f5",
+  "dedicatedSourceCommit": "8d08b4c338ac828e32fc57219d40d35120ebaa0f",
+  "files": [
+    {
+      "path": "Informatics/library.css",
+      "sha256": "d0185b2ab174eec9abb8ed128b7137922094568d6c1cdc5aabf776c14068c4ab"
+    },
+    {
+      "path": "Informatics/library.html",
+      "sha256": "14904541a98f992fc83aa60e83d91f3840d1682d81ba85319c2b8819a6fca455"
+    },
+    {
+      "path": "cloudflare/informatics-repository.js",
+      "sha256": "0e5b5c4d305ab008d4bf03db099ec90355b3bdaad3cc415b1794c91f700076c7"
+    },
+    {
+      "path": "cloudflare/informatics-research-worker.js",
+      "sha256": "b1242b3ed5515bfa6eabf1423bcf288ea1b64306a81e7fbebb34c3f227059e02"
+    },
+    {
+      "path": "cloudflare/informatics-youth-knowledge.js",
+      "sha256": "34c0561e10adff0708af6be9c01f688e78b4c7a624665cfbfa0d1f627a84cb78"
+    },
+    {
+      "path": "cloudflare/informatics-qa-spend.js",
+      "sha256": "89bab8bd2db05a04296a3546e7a5cc9f731ad517097fef00c54fb931f769c050"
+    },
+    {
+      "path": "tools/check-research-background.mjs",
+      "sha256": "177c75e7be2b140bab455654a70eecac0d973b7f413021cb1d39d93f26509132"
+    },
+    {
+      "path": "tools/check-youth-publications.mjs",
+      "sha256": "2eb75997cffe7314a8984e566c6a7e97c889258296f341601b2f63d6ee58cac0"
+    },
+    {
+      "path": "tools/check-youth-live-api.mjs",
+      "sha256": "a41187308061ce25c7fc41f6b68720e62dd3d9f789531669e5a0592e1b0489bd"
+    },
+    {
+      "path": "tools/check-youth-live-answer.mjs",
+      "sha256": "e840313bf4bd3513294c265ae3e1e601031046f4da02fc8c65d07bf942aea4ac"
+    }
+  ],
+  "approvedDataSHA256": "e7fb31adfa8b99fbcc97008e0607f3f7dceda8aad8be3ee35a21bcb0155133cc",
+  "immutableReviewSHA256": "f164c8325ea5f9c989c29524518b598913508117712826dc408f592b7f99a723"
+}

@@ -1,0 +1,44 @@
+{
+  "status": "staging-verified",
+  "verifiedAtUTC": "2026-11-02T06:05:49.530251+00:00",
+  "sourceCommit": "4b247393e0eb36af8e0925f0bcacf4f666b023f5",
+  "dedicatedSourceCommit": "8d08b4c338ac828e32fc57219d40d35120ebaa0f",
+  "stagingURL": "https://staging.universalmind.tv/informatics/research/",
+  "connectURL": "https://staging.universalmind.tv/informatics/connect/",
+  "workerVersion": "d1be0592-14ba-4770-aeb2-e7bef896d9ef",
+  "workerURL": "https://informatics-universal-one-staging.universalmind.workers.dev",
+  "websiteAssetsUploaded": 2,
+  "backgroundTransitions": 147,
+  "views": 21,
+  "widths": [
+    1440,
+    390,
+    320
+  ],
+  "publicationAPI": {
+    "total": 991,
+    "base": 891,
+    "approvedYouth": 105,
+    "additions": 100,
+    "updates": 5,
+    "publicReusableFullTexts": 146
+  },
+  "visibleLibrary": 1323,
+  "completeExportFiles": 1195,
+  "completeExportVersion": "4236ba3449732c396c297767fd618c7b5c8f2245b828b5b7b4238b21ad48509c",
+  "modelResponseVerified": true,
+  "modelQuestionsCompleted": 1,
+  "paidModelCallsTotal": 3,
+  "conservativeSpendAUD": 0.8690499999999999,
+  "estimatedUsageUSDAtPublishedRates": 0.2296185,
+  "productionChanged": false,
+  "productionMainBefore": "57747030461016e4fc2c29bd4534df483118857d",
+  "dedicatedMainBefore": "7d89224d2caca17debcd8170a1873a488d5af82a",
+  "limits": [
+    "Versioned approved summaries and selected-methods appraisals; no fine-tuning or new full-text ingestion.",
+    "One completed representative text conversation, not an exhaustive model-response test for every paper or voice mode.",
+    "Publication API coverage remains narrower than the 1323-record visible library; all 105 approved youth records are present.",
+    "One generated multi-source range remains plain text in the existing renderer; individual study citations and all three source cards resolve correctly."
+  ],
+  "githubStatus": "Final push and remote confirmation pending; see subsequent receipt."
+}

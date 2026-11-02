@@ -1,0 +1,39 @@
+{
+  "status": 422,
+  "question": "For our Universal Mind Mobile Lab youth education programme, compare Black Dog Institute’s app help-seeking research (PMID 36620186) with Orygen’s Horyzons trial (PMID 34002511). In about 250 words, cite both papers, give the studied ages and limits for a 16–24 audience, distinguish the primary social-function result from secondary outcomes, and explain direct response versus inspired by. Does this establish efficacy of the combined Lab or a confirmed partnership? Use approved source summaries and preserve uncertainty.",
+  "requests": 1,
+  "receivedAt": "2026-11-02T05:57:43.744Z",
+  "payload": {
+    "error": "QA spending guard stopped before another paid request.",
+    "qaSpend": {
+      "limitUSD": 0.95,
+      "chargedUpperUSD": 0.11333749999999998,
+      "calls": [
+        {
+          "path": "/responses",
+          "model": "gpt-6-astra",
+          "inputTokenUpper": 51999,
+          "outputTokenUpper": 1400,
+          "reservedUSD": 0.7199875,
+          "chargedUpperUSD": 0.1133375,
+          "usage": {
+            "input_tokens": 8911,
+            "input_tokens_details": {
+              "cache_write_tokens": 8908,
+              "cached_tokens": 0
+            },
+            "output_tokens": 39,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 8950
+          }
+        }
+      ]
+    }
+  },
+  "conservativeAUD": 0.22667499999999996,
+  "usageKnown": true,
+  "processAudioMuted": true,
+  "normalVisitorQuota": true
+}

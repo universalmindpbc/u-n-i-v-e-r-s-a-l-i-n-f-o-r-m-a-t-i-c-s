@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "files": [
+    {
+      "path": "Informatics/library.css",
+      "url": "https://staging.universalmind.tv/informatics/library.css?v=reading-background-20261102",
+      "sha256": "d0185b2ab174eec9abb8ed128b7137922094568d6c1cdc5aabf776c14068c4ab",
+      "hostAnalyticsTagsRemoved": 0,
+      "passed": true
+    },
+    {
+      "path": "Informatics/library.html",
+      "url": "https://staging.universalmind.tv/informatics/library.html?embedded=1",
+      "sha256": "14904541a98f992fc83aa60e83d91f3840d1682d81ba85319c2b8819a6fca455",
+      "hostAnalyticsTagsRemoved": 1,
+      "passed": true
+    }
+  ]
+}

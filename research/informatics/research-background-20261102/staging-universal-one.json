@@ -1,0 +1,135 @@
+{
+  "status": 200,
+  "question": "For our Universal Mind Mobile Lab youth education programme, compare Black Dog Institute’s app help-seeking research (PMID 36620186) with Orygen’s Horyzons trial (PMID 34002511). In about 250 words, cite both papers, give the studied ages and limits for a 16–24 audience, distinguish the primary social-function result from secondary outcomes, and explain direct response versus inspired by. Does this establish efficacy of the combined Lab or a confirmed partnership? Use approved source summaries and preserve uncertainty.",
+  "requests": 1,
+  "receivedAt": "2026-11-02T06:02:34.990Z",
+  "payload": {
+    "answer": "**The papers inform Lab design in different ways—not evidence of combined-Lab efficacy.**\n\n**Black Dog Institute-associated app research (PMID 36620186)** used qualitative workshops with 24 people aged **13–25**. Participants valued privacy, empowerment, engagement rather than achievement, and choice about professional help-seeking. These are stated preferences, not demonstrated improvements in app retention, help-seeking or clinical outcomes. The small purposive sample and exclusion of higher-risk young people limit transfer to the Lab’s 16–24 audience; no separate 16–24 estimate is established. [S1]\n\n**Orygen-associated Horyzons trial (PMID 34002511)** randomised 170 participants, with reported ages **16–27**, following specialist first-episode psychosis care. It tested 18 months of moderated online therapy and social networking with clinician, peer and vocational support. The **primary social-function outcome showed no statistically significant benefit**: difference −0.29 (95% CI −4.20 to 3.63). Secondary employment/education outcomes favoured Horyzons, but imprecisely (OR 5.55; 95% CI 1.09–28.23); emergency visits were lower, while hospitalisation differences were not significant. Its specialist remission population and inclusion beyond age 24 limit transfer to a general youth education programme. [S2]\n\nFor the Lab, **direct response** means addressing documented needs: discreet participation, clear privacy explanations and non-judgmental invitations informed by the app study. **Inspired by** means using research-informed design ideas—such as Horyzons’ continuity, peer and vocational support—without promising replication of outcomes. [S1–S3]\n\nNeither paper tests the combined electronic-music, fashion and mindfulness Lab. Short-term stress and felt connection remain exploratory outcomes. Black Dog Institute and Orygen are prospective partners, **not confirmed partners or endorsers**. These approved summaries reflect selected-methods appraisal, not an independent certainty assessment. [S3]",
+    "sources": [
+      {
+        "label": "S1",
+        "id": "youth-pmid-36620186",
+        "passageId": null,
+        "title": "Encouraging help-seeking and engagement in a mental health app: What young people want.",
+        "authors": "Garrido S, Oliver E, Chmiel A, Doran B, Boydell K.",
+        "journal": "Frontiers in digital health",
+        "year": 2022,
+        "url": "https://doi.org/10.3389/fdgth.2022.1045765",
+        "section": "Library record",
+        "kind": "approved-record",
+        "text": "Themes: privacy, user empowerment, and engagement rather than achievement; participants wanted choice about seeking professional help.",
+        "doi": "10.3389/fdgth.2022.1045765",
+        "rights": null,
+        "sha256": null,
+        "retrievalLabel": "S2"
+      },
+      {
+        "label": "S2",
+        "id": "youth-pmid-34002511",
+        "passageId": null,
+        "title": "The Horyzons project: a randomized controlled trial of a novel online social therapy to maintain treatment effects from specialist first-episode psychosis services.",
+        "authors": "Alvarez-Jimenez M, Koval P, Schmaal L, Bendall S, O'Sullivan S, Cagliarini D, D'Alfonso S, Rice S, Valentine L, Penn DL, Miles C, Russon P, Phillips J, McEnery C, Lederman R, Killackey E, Mihalopoulos C, Gonzalez-Blanch C, Gilbertson T, Lal S, Cotton SM, Herrman H, McGorry PD, Gleeson JFM.",
+        "journal": "World psychiatry : official journal of the World Psychiatric Association (WPA)",
+        "year": 2021,
+        "url": "https://doi.org/10.1002/wps.20858",
+        "section": "Library record",
+        "kind": "approved-record",
+        "text": "Primary social functioning null: difference −0.29 (95% CI −4.20 to 3.63). Employment/education secondary odds favoured Horyzons (OR 5.55, wide CI 1.09–28.23); emergency visits lower; hospitalisation difference not significant.",
+        "doi": "10.1002/wps.20858",
+        "rights": null,
+        "sha256": null,
+        "retrievalLabel": "S3"
+      },
+      {
+        "label": "S3",
+        "id": "approved-youth-20261102",
+        "passageId": null,
+        "title": "Youth research and Universal Mind Mobile Lab · Approved summaries",
+        "authors": "",
+        "url": "https://staging.universalmind.tv/informatics/library.html?collection=language&chapter=6#topic-universal-mind-mobile-lab",
+        "section": "Library record",
+        "kind": "approved-research-guide",
+        "text": "{\"id\":\"approved-youth-20261102\",\"title\":\"Youth research and Universal Mind Mobile Lab · Approved summaries\",\"version\":\"batch-f164c8325ea5f9c9.json\",\"sourceSHA256\":\"f164c8325ea5f9c989c29524518b598913508117712826dc408f592b7f99a723\",\"approvedAt\":\"2026-11-02\",\"overview\":\"105 approved publications: 47 randomized trial reports, 42 reviews or syntheses, eight qualitative studies and eight observational studies. They comprise 100 additions and five existing-library matches. The 47 randomized reports represent 42 conservatively linked trial units. Cross-listed papers and institutional groups overlap; publication counts are not independent participants or trials.\",\"limitations\":\"AI assessed; human approved for publication. This rapid review inspected selected methods and retained source evidence; it is not an independent systematic risk-of-bias or GRADE assessment. Age ranges often extend below 16 or above 24. Source access, age fit, masking, attrition and transfer limits remain attached to each paper. Article crosses describe study design, not benefit, certainty or human clinical review. Reviews do not inherit the crosses of their included trials.\",\"labFraming\":[\"The Universal Mind Mobile Lab is planned as an education and creative-skills initiative: electronic music, fashion and mindfulness experiences, stigma reduction and referral pathways. Reduced short-term stress and greater felt connection are exploratory outcomes to measure. No included paper tests the combined lab model.\",\"Direct response means a response to a documented need or access barrier. Inspired by means a design or evaluation idea informed by relevant research. Neither label establishes that the proposed lab will reproduce a study outcome. Null findings and limits are included alongside supportive evidence.\",\"Ben has identified Central Coast, Bondi / Bondi Junction and Northern Rivers near Byron Bay as the first three destinations. Permanent sites depend on community and council agreement. Public self-nomination, touring and smaller pop-ups are planned access routes. Headspace, Black Dog Institute and Orygen are prospective partners; no partnership or endorsement is asserted.\",\"Programme planning includes youth co-design, community authority, mentoring for 16–17-year-olds, separate clinical referral and nonclinical learning pathways, and independent choices about research and filming. Continuity after a visit, referral follow-through, affordability, transport, accessibility and culturally governed participation remain practical design and evaluation questions.\"],\"counts\":{\"publications\":105,\"new\":100,\"existingMatches\":5,\"designs\":{\"randomized-report\":47,\"review\":42,\"qualitative\":8,\"observational\":8},\"paperCrosses\":{\"1\":58,\"2\":44,\"3\":3},\"studyFamilies\":93,\"randomizedStudyUnits\":42,\"institutions\":{\"Black Dog Institute\":20,\"Orygen\":21,\"headspace services\":7},\"collections\":{\"sound\":11,\"vision\":7,\"language\":89},\"sourceAccess\":{\"selected-methods\":103,\"selected-methods-web\":2},\"ageFit\":{\"mixed-overlap\":72,\"target-centred\":1,\"target-range\":1,\"younger-overlap\":17,\"direct\":7,\"broader-institution-youth\":7},\"labRelationship\":{\"inspired-by\":49,\"limits\":18,\"direct-response\":38}},\"paperTrustFactorPolicy\":{\"1\":\"Peer-reviewed study\",\"2\":\"Confirmed randomized controlled trial\",\"3\":\"Confirmed double-blind randomized controlled trial\",\"unrated\":\"Insufficient publication-specific evidence, protocol, guidance, preprint, retraction or unresolved identity\"},\"chapterTrustFactorPolicy\":{\"1\":\"At least three distinct peer-reviewed study families\",\"2\":\"At least three distinct randomized controlled trial units\",\"3\":\"At least three distinct verified double-blind randomized controlled trial units\"},\"chapters\":{\"sound\":{\"url\":\"https://staging.universalmind.tv/informatics/library.html?collection=sound&cha",
+        "doi": null,
+        "rights": null,
+        "sha256": null,
+        "retrievalLabel": "S1"
+      }
+    ],
+    "model": "gpt-6-astra",
+    "version": "research-20261026-daytab-v1",
+    "knowledgeVersions": {
+      "approvedYouth": {
+        "sourceBatch": "batch-f164c8325ea5f9c9.json",
+        "sourceSHA256": "f164c8325ea5f9c989c29524518b598913508117712826dc408f592b7f99a723",
+        "approvedAt": "2026-11-02",
+        "publications": 105
+      }
+    },
+    "usage": {
+      "totalTokens": 24300,
+      "qaSpend": {
+        "limitUSD": 0.8366625,
+        "chargedUpperUSD": 0.32118749999999996,
+        "calls": [
+          {
+            "path": "/responses",
+            "model": "gpt-6-astra",
+            "inputTokenUpper": 51999,
+            "outputTokenUpper": 1400,
+            "boundMethod": "UTF-8 bytes plus framing",
+            "reservedUSD": 0.7199875,
+            "chargedUpperUSD": 0.1133375,
+            "usage": {
+              "input_tokens": 8911,
+              "input_tokens_details": {
+                "cache_write_tokens": 0,
+                "cached_tokens": 8908
+              },
+              "output_tokens": 39,
+              "output_tokens_details": {
+                "reasoning_tokens": 0
+              },
+              "total_tokens": 8950
+            }
+          },
+          {
+            "path": "/responses",
+            "model": "gpt-6-astra",
+            "inputTokenUpper": 44517,
+            "outputTokenUpper": 1400,
+            "boundMethod": "Provider-counted exact prefix plus new UTF-8 bytes and framing",
+            "reservedUSD": 0.6264624999999999,
+            "chargedUpperUSD": 0.20784999999999998,
+            "usage": {
+              "input_tokens": 14924,
+              "input_tokens_details": {
+                "cache_write_tokens": 6013,
+                "cached_tokens": 8908
+              },
+              "output_tokens": 426,
+              "output_tokens_details": {
+                "reasoning_tokens": 0
+              },
+              "total_tokens": 15350
+            }
+          }
+        ]
+      }
+    },
+    "retrieval": {
+      "required": true,
+      "sourceCount": 3,
+      "contextMessages": 0,
+      "previousReferences": 0
+    }
+  },
+  "conservativeAUD": 0.6423749999999999,
+  "cumulativeConservativeAUD": 0.8690499999999999,
+  "usageKnown": true,
+  "processAudioMuted": true,
+  "normalVisitorQuota": true,
+  "passed": true,
+  "answerRendered": "The papers inform Lab design in different ways—not evidence of combined-Lab efficacy.\n\nBlack Dog Institute-associated app research (PMID 36620186) used qualitative workshops with 24 people aged 13–25. Participants valued privacy, empowerment, engagement rather than achievement, and choice about professional help-seeking. These are stated preferences, not demonstrated improvements in app retention, help-seeking or clinical outcomes. The small purposive sample and exclusion of higher-risk young people limit transfer to the Lab’s 16–24 audience; no separate 16–24 estimate is established. [1]\n\nOrygen-associated Horyzons trial (PMID 34002511) randomised 170 participants, with reported ages 16–27, following specialist first-episode psychosis care. It tested 18 months of moderated online therapy and social networking with clinician, peer and vocational support. The primary social-function outcome showed no statistically significant benefit: difference −0.29 (95% CI −4.20 to 3.63). Secondary employment/education outcomes favoured Horyzons, but imprecisely (OR 5.55; 95% CI 1.09–28.23); emergency visits were lower, while hospitalisation differences were not significant. Its specialist remission population and inclusion beyond age 24 limit transfer to a general youth education programme. [2]\n\nFor the Lab, direct response means addressing documented needs: discreet participation, clear privacy explanations and non-judgmental invitations informed by the app study. Inspired by means using research-informed design ideas—such as Horyzons’ continuity, peer and vocational support—without promising replication of outcomes. [S1–S3]\n\nNeither paper tests the combined electronic-music, fashion and mindfulness Lab. Short-term stress and felt connection remain exploratory outcomes. Black Dog Institute and Orygen are prospective partners, not confirmed partners or endorsers. These approved summaries reflect selected-methods appraisal, not an independent certainty assessment. [3]",
+  "citationCardsVerified": true
+}

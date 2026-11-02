@@ -20,7 +20,7 @@
   "bounds": {
     "maximumModelCallsPerQuestion": 3,
     "maximumOutputTokensPerCall": 1400,
-    "inputTokenUpper": "UTF-8 byte length of serialized request plus 8192 framing allowance; reject at 272000",
+    "inputTokenUpper": "First call: UTF-8 request bytes plus 8192 framing. Later calls: provider-reported input token count for an exactly unchanged input prefix, plus all appended-item and changed-field UTF-8 bytes, plus 8192 framing. Unknown usage retains the full reservation.",
     "serviceTier": "default",
     "unknownUsage": "Retain pre-call reservation; unknown HTTP outcome consumes full remaining allowance without retry"
   },

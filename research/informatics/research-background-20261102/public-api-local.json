@@ -1,5 +1,6 @@
 {
   "passed": true,
+  "explicitPaperIDsRankFirst": true,
   "canonicalIdentityMerge": true,
   "fiveMatchedRecordsReplaced": true,
   "all105QualifiedFieldsPreserved": true,

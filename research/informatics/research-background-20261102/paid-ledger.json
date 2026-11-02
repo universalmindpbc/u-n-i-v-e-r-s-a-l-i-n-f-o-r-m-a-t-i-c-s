@@ -1,0 +1,29 @@
+{
+  "maximumTotalUSD": 0.95,
+  "conservativeAUDPerUSD": 2,
+  "attempts": [
+    {
+      "result": "zero-cost-staging-universal-one.json",
+      "knownUsage": true,
+      "chargedUpperUSD": 0,
+      "providerCalls": 0
+    },
+    {
+      "result": "guard-stopped-staging-universal-one.json",
+      "knownUsage": true,
+      "chargedUpperUSD": 0.11333749999999998,
+      "providerCalls": 1
+    },
+    {
+      "result": "staging-universal-one.json",
+      "knownUsage": true,
+      "chargedUpperUSD": 0.32118749999999996,
+      "providerCalls": 2
+    }
+  ],
+  "chargedUpperUSD": 0.43452499999999994,
+  "conservativeAUD": 0.8690499999999999,
+  "estimatedUsageUSDAtPublishedRates": 0.2296185,
+  "pricingNote": "Computed from provider token usage and published rates; not a provider invoice. Conservative bound prices every input token at the higher cache-write rate and converts at A$2 per US$1.",
+  "testingComplete": true
+}
