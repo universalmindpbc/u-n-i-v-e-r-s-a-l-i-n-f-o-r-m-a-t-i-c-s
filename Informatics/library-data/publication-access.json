@@ -5754,7 +5754,7 @@
       "journalKey": "biologicalpsychiatry",
       "journalLabel": "Biological Psychiatry",
       "doi": "10.1016/s0006-3223(99)00243-7",
-      "pmid": null
+      "pmid": "10686268"
     },
     "src-6187c7d861f2": {
       "publicationKey": null,
@@ -6341,8 +6341,8 @@
       ],
       "journalKey": "",
       "journalLabel": "",
-      "doi": null,
-      "pmid": null
+      "doi": "10.1001/archgenpsychiatry.2010.46",
+      "pmid": "20439832"
     },
     "src-d642e3ff68d3": {
       "publicationKey": null,
@@ -8531,11 +8531,12 @@
     "src-9329423f6826": {
       "publicationKey": null,
       "urls": [
-        "https://doi.org/10.1111/jnu.12304"
+        "https://doi.org/10.1002/wcms.1481",
+        "https://ora.ox.ac.uk/objects/uuid%3A9fcfe879-d852-4678-a21d-f9bc009d43be"
       ],
       "journalKey": "",
-      "journalLabel": "",
-      "doi": "10.1111/jnu.12304",
+      "journalLabel": "WIREs Computational Molecular Science",
+      "doi": "10.1002/wcms.1481",
       "pmid": null
     },
     "src-62d753228d9f": {
@@ -8936,12 +8937,12 @@
     "src-8ad1130190f0": {
       "publicationKey": null,
       "urls": [
-        "https://www.frontiersin.org/articles/10.3389/fnins.2019.00765/full",
+        "https://pubmed.ncbi.nlm.nih.gov/31230462/",
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC6824981/",
-        "https://pubmed.ncbi.nlm.nih.gov/31230462/"
+        "https://doi.org/10.1176/appi.ajp.2019.18101160"
       ],
       "journalKey": "americanjournalofpsychiatry",
-      "journalLabel": "The American journal of psychiatry",
+      "journalLabel": "The American Journal of Psychiatry",
       "doi": "10.1176/appi.ajp.2019.18101160",
       "pmid": "31230462"
     },

@@ -69,7 +69,27 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Experimental mouse study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/17287729/",
+          "https://www.nature.com/articles/nature05526",
+          "https://doi.org/10.1038/nature05526"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Experimental mouse study. No masked human randomized trial classification is assigned."
     },
     {
       "title": "Social reward requires coordinated activity of nucleus accumbens oxytocin and serotonin",
@@ -143,7 +163,28 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Experimental mouse study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/24025838/",
+          "https://www.nature.com/articles/nature12518",
+          "https://doi.org/10.1038/nature12518",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC4091761/"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Experimental mouse study. No masked human randomized trial classification is assigned."
     },
     {
       "title": "Evidence for the existence of dopamine d2-oxytocin receptor heteromers in the ventral and dorsal striatum with facilitatory receptor–receptor interactions",
@@ -214,7 +255,27 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Laboratory receptor-interaction study; research letter. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/22824810/",
+          "https://www.nature.com/articles/mp2012103",
+          "https://doi.org/10.1038/mp.2012.103"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Laboratory receptor-interaction study; research letter. No masked human randomized trial classification is assigned."
     },
     {
       "title": "The neural mechanisms and circuitry of the pair bond",
@@ -290,7 +351,28 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Narrative review. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/30301953/",
+          "https://www.nature.com/articles/s41583-018-0072-6",
+          "https://doi.org/10.1038/s41583-018-0072-6",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC6283620/"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Narrative review. No masked human randomized trial classification is assigned."
     },
     {
       "title": "Quantitative cellular-resolution map of the oxytocin receptor in postnatally developing mouse brains",
@@ -364,7 +446,28 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Experimental developmental brain-mapping study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/32313029/",
+          "https://www.nature.com/articles/s41467-020-15659-1",
+          "https://doi.org/10.1038/s41467-020-15659-1",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC7171089/"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Experimental developmental brain-mapping study. No masked human randomized trial classification is assigned."
     },
     {
       "title": "Oxytocin mediates early experience–dependent cross-modal plasticity in the sensory cortices",
@@ -433,7 +536,27 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Experimental mouse study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/24464043/",
+          "https://www.nature.com/articles/nn.3634",
+          "https://doi.org/10.1038/nn.3634"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Experimental mouse study. No masked human randomized trial classification is assigned."
     },
     {
       "title": "Oxytocin-dependent reopening of a social reward learning critical period with MDMA",
@@ -505,7 +628,27 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Experimental mouse study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/30944474/",
+          "https://www.nature.com/articles/s41586-019-1075-9",
+          "https://doi.org/10.1038/s41586-019-1075-9"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Experimental mouse study. No masked human randomized trial classification is assigned."
     },
     {
       "title": "Functional involvement of septal miR-132 in extinction and oxytocin-mediated reversal of social fear",
@@ -582,7 +725,28 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Experimental mouse molecular study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/37938765/",
+          "https://www.nature.com/articles/s41380-023-02309-3",
+          "https://doi.org/10.1038/s41380-023-02309-3",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC11371636/"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Experimental mouse molecular study. No masked human randomized trial classification is assigned."
     },
     {
       "title": "Effects of intranasal oxytocin on fear extinction learning",
@@ -652,7 +816,28 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 3,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "double",
+        "peerReviewed": true,
+        "basis": "The article reports a randomized, double-blind, placebo-controlled human experiment. Its outcome is laboratory fear extinction.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/39313675/",
+          "https://www.nature.com/articles/s41386-024-01996-y",
+          "https://doi.org/10.1038/s41386-024-01996-y",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC11735929/"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 3,
+      "ratingBasis": "The article reports a randomized, double-blind, placebo-controlled human experiment. Its outcome is laboratory fear extinction."
     },
     {
       "title": "Interdependency between oxytocin and dopamine in trust-based learning in mice",
@@ -723,7 +908,28 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Experimental mouse study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/41663511/",
+          "https://www.nature.com/articles/s41598-026-38976-9",
+          "https://doi.org/10.1038/s41598-026-38976-9",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC12957489/"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Experimental mouse study. No masked human randomized trial classification is assigned."
     },
     {
       "title": "Neural circuitry for maternal oxytocin release induced by infant cries",
@@ -795,7 +1001,28 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Experimental mouse neural-circuit study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/37730989/",
+          "https://www.nature.com/articles/s41586-023-06540-4",
+          "https://doi.org/10.1038/s41586-023-06540-4",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10639004/"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Experimental mouse neural-circuit study. No masked human randomized trial classification is assigned."
     },
     {
       "title": "Epigenetic regulation of the glucocorticoid receptor in human brain associates with childhood abuse",
@@ -867,7 +1094,28 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Human postmortem observational study and laboratory assays. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/19234457/",
+          "https://www.nature.com/articles/nn.2270",
+          "https://doi.org/10.1038/nn.2270",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC2944040/"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Human postmortem observational study and laboratory assays. No masked human randomized trial classification is assigned."
     },
     {
       "title": "Social stress induces neurovascular pathology promoting depression",
@@ -940,7 +1188,28 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Experimental mouse study with human postmortem comparison. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/29184215/",
+          "https://www.nature.com/articles/s41593-017-0010-3",
+          "https://doi.org/10.1038/s41593-017-0010-3",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC5726568/"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Experimental mouse study with human postmortem comparison. No masked human randomized trial classification is assigned."
     },
     {
       "title": "NMDA receptor trafficking in synaptic plasticity and neuropsychiatric disorders",
@@ -1007,7 +1276,27 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Narrative review. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/17514195/",
+          "https://www.nature.com/articles/nrn2153",
+          "https://doi.org/10.1038/nrn2153"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Narrative review. No masked human randomized trial classification is assigned."
     },
     {
       "title": "The effect of music performance on the transcriptome of professional musicians",
@@ -1083,7 +1372,28 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Controlled, non-randomized transcriptome study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/25806429/",
+          "https://www.nature.com/articles/srep09506",
+          "https://doi.org/10.1038/srep09506",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC5380155/"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Controlled, non-randomized transcriptome study. No masked human randomized trial classification is assigned."
     },
     {
       "title": "Anatomically distinct dopamine release during anticipation and experience of peak emotion to music",
@@ -1150,7 +1460,27 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Human PET and functional MRI study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/21217764/",
+          "https://www.nature.com/articles/nn.2726",
+          "https://doi.org/10.1038/nn.2726"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Human PET and functional MRI study. No masked human randomized trial classification is assigned."
     },
     {
       "title": "Biological principles for music and mental health",
@@ -1221,7 +1551,28 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Narrative review. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/38049408/",
+          "https://www.nature.com/articles/s41398-023-02671-4",
+          "https://doi.org/10.1038/s41398-023-02671-4",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10695969/"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Narrative review. No masked human randomized trial classification is assigned."
     },
     {
       "title": "Brain correlates of music-evoked emotions",
@@ -1288,7 +1639,27 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Narrative review. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/24552785/",
+          "https://www.nature.com/articles/nrn3666",
+          "https://doi.org/10.1038/nrn3666"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Narrative review. No masked human randomized trial classification is assigned."
     },
     {
       "title": "Self-administered mindfulness interventions reduce stress in a large, randomized controlled multi-site study",
@@ -1356,7 +1727,28 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Random assignment and an active comparison are reported. A single- or double-blind classification is not established from the reviewed methods.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/38862815/",
+          "https://www.nature.com/articles/s41562-024-01907-7",
+          "https://doi.org/10.1038/s41562-024-01907-7",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC11420060/"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 2,
+      "ratingBasis": "Random assignment and an active comparison are reported. A single- or double-blind classification is not established from the reviewed methods."
     },
     {
       "title": "Meditation and vacation effects have an impact on disease-associated molecular phenotypes",
@@ -1424,7 +1816,28 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Novices were randomized to meditation or vacation; experienced meditators formed a separate observational group. Masked molecular superiority of meditation was not established.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/27576169/",
+          "https://www.nature.com/articles/tp2016164",
+          "https://doi.org/10.1038/tp.2016.164",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC5022094/"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 2,
+      "ratingBasis": "Novices were randomized to meditation or vacation; experienced meditators formed a separate observational group. Masked molecular superiority of meditation was not established."
     },
     {
       "title": "Preliminary indications of the effect of a brief yoga intervention on markers of inflammation and DNA methylation in chronically stressed women",
@@ -1499,7 +1912,28 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Exploratory molecular substudy of a yoga trial. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/27898068/",
+          "https://www.nature.com/articles/tp2016234",
+          "https://doi.org/10.1038/tp.2016.234",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC5290356/"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Exploratory molecular substudy of a yoga trial. No masked human randomized trial classification is assigned."
     },
     {
       "title": "Neural circuits underlying a psychotherapeutic regimen for fear disorders",
@@ -1564,7 +1998,27 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Experimental mouse neural-circuit study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/30760920/",
+          "https://www.nature.com/articles/s41586-019-0931-y",
+          "https://doi.org/10.1038/s41586-019-0931-y"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Experimental mouse neural-circuit study. No masked human randomized trial classification is assigned."
     },
     {
       "title": "Possible neural mechanisms of psychotherapy for trauma-related symptoms: cerebral responses to the neuropsychological treatment of post-traumatic stress disorder model individuals",
@@ -1632,7 +2086,28 @@
       "jadad": {
         "status": "unassessed",
         "score": null
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Human experimental neuroimaging study. No masked human randomized trial classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/27698453/",
+          "https://www.nature.com/articles/srep34610",
+          "https://doi.org/10.1038/srep34610",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC5048146/"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Human experimental neuroimaging study. No masked human randomized trial classification is assigned."
     }
   ],
   "publicationAccess": {

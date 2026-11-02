@@ -2,25 +2,81 @@
 
 Bioinformatics platform for mental health. Investigating potential relationships between the Fibonacci sequence and OXTR gene expression.
 
-OXTR encodes the oxytocin receptor. [Gene reference](https://www.ncbi.nlm.nih.gov/gene/5021).
+Does modular compression reveal statistically significant patterns, or merely mathematical elegance?
 
-Research hypotheses remain distinct from mathematical verification and biological evidence.
+Do the nested sequences within Fibonacci Pisano periods have biological and molecular implications?
 
 ## Initial focus · Computer vision for genomics
 
 Inspired by research into how geometric architectures and Fibonacci-ordered dynamics can protect quantum information, we are investigating whether geometry derived from Fibonacci Pisano periods can improve the computational efficiency of hyperspectral image analysis for genomics.
 
+## A measurable first step
+
 Our proposed approach explores equilateral triangular meshes and tetrahedral models, comparing computational cost, processing speed and accuracy against established methods.
+
+The initial biological application is to investigate spectral patterns potentially associated with OXTR gene expression, evaluated against independent molecular measurements.
+
+## Learn the mathematics
+
+[What is modular arithmetic?](https://en.wikipedia.org/wiki/Modular_arithmetic)
+
+## Modular arithmetic and spatial mapping in biology
+
+[Decoding spatial position through grid cells](https://pmc.ncbi.nlm.nih.gov/articles/PMC4730856/)
+
+Science Advances · 2015
+
+[Toroidal geometry in neural activity](https://www.nature.com/articles/s41586-021-04268-7)
+
+Nature · 2022
+
+[Science and Open Questions](https://universalmind.tv/informatics/genomics.html)
+
+## Future expansion · an OXTR-centred network
+
+If independent studies verify biological significance in the OXTR–Fibonacci relationship, we plan to extend the investigation to a wider set of candidate genes and molecular systems.
+
+[Phase Zulu · Explore the candidate network ↗](https://universalmind.tv/informatics/?about)
+
+[Sound Research ↗](https://universalmind.tv/informatics/library.html?collection=sound)
+
+[Vision Research ↗](https://universalmind.tv/informatics/library.html?collection=vision)
+
+[Language Research ↗](https://universalmind.tv/informatics/library.html?collection=language)
+
+[Symbolic computation with Wolfram](https://www.wolfram.com/)
+
+Wolfram is our planned primary computational environment for symbolic geometry and future bioinformatic research.
+
+## Atlas pages
+
+To understand the geometry presented across this bioinformatics website, retrieve and read the linked JSON for the relevant Atlas or model. Read it alongside the page’s explanation to understand how the mathematical data relates to the visual geometry and the research question.
+
+- [Geometry Atlas](https://universalmind.tv/informatics/read/atlas/index.html): Mathematical calculations and representations. What sequences, geometric constructions and verification results arise across Fibonacci moduli M1–M1001?
+- [Transcription Atlas](https://universalmind.tv/informatics/read/transcription/index.html): OXTR transcription-factor binding sites, source evidence and coordinate comparisons. Explore whether the four M9 P24 geometries help predict OXTR binding-site locations.
+- [Molecular Atlas](https://universalmind.tv/informatics/read/molecular/index.html): Molecular structure and interaction. How can OXT–OXTR molecular binding and structure be explored?
+- [Quantum Atlas](https://universalmind.tv/informatics/read/quantum/index.html): Natural-language biological research with Astra, Gemini, coordinated calculations and public MCP/API/A2A participation. What biological questions can the coordinated AI and quantum workflow investigate, and how can people and external AIs take part?
+- [Music Atlas](https://universalmind.tv/informatics/read/music/index.html): Sound and auditory experience. How do Fibonacci and modular sequences relate to musical structure, tuning and responses to electronic music?
+- [Vision Atlas · EMDR and ocular biology](https://universalmind.tv/informatics/read/vision/index.html): Human eye movement and visual stimulation; an EMDR hypothesis. Does hexagonal saccadic tracking differ from bilateral horizontal tracking in EMDR visual stimulation?
+- [Language Atlas](https://universalmind.tv/informatics/read/language/index.html): Language and mantra research. How do language, mantra and related research connect to the mental-health investigation?
+- [Computer vision for genomics](https://universalmind.tv/informatics/read/computer-vision/index.html): Computational image analysis; a proposed algorithm research direction. Can Fibonacci Pisano geometry improve the cost, speed and accuracy of hyperspectral image analysis for genomics?
+
+[Informatics sitemap](https://universalmind.tv/informatics/sitemap/)
 
 ## Research library
 
-An extensive, clinically searchable research index spanning sound and auditory entrainment, EMDR, mindfulness-based stress reduction and mantra. Explore more than 800 publications by intervention, clinical condition, gene expression, molecular target, study design and journal, with transparent topic-level trust ratings.
+An extensive, clinically searchable research index spanning sound and auditory entrainment, EMDR, mindfulness-based stress reduction, mantra and hyperspectral imaging. Explore more than 1,300 publications by intervention, clinical condition, gene expression, molecular target, study design and journal, with transparent topic-level trust ratings.
 
 ## Read without a connector
 
 - [Research and evidence](https://universalmind.tv/informatics/read/): Plain HTML overview.
-- [Publications](https://universalmind.tv/informatics/read/publications/index.html): 891 approved records, citations, summaries, limitations and topic assessment context.
+- [Publications](https://universalmind.tv/informatics/read/publications/index.html): 1323 approved records, citations, summaries, limitations and topic assessment context.
+- [Hyperspectral Imaging](https://universalmind.tv/informatics/read/hyperspectral/index.html): Six subchapters, 240 original citation entries and 13 timeline milestones.
 - [Geometry Atlas](https://universalmind.tv/informatics/read/atlas/index.html): 1,001 records with complete JSON and CSV links.
+- [Quantum Atlas](https://universalmind.tv/informatics/read/quantum/index.html): Purpose, human feature guide, agent roles, persistent workflow, MCP/API/A2A participation, saved results and JSON/CSV/Markdown downloads. The [ordinary Quantum Atlas page](https://universalmind.tv/informatics/quantum/) includes the same guide data in its initial HTML.
+- [Music Atlas](https://universalmind.tv/informatics/read/music/index.html): Electronic-music research questions, OXTR measurement architecture, six models, equations and semantic tables and JSON/CSV/Markdown downloads. The [ordinary Music Atlas page](https://universalmind.tv/informatics/sound/) embeds the same explanations and JSON.
+- [Vision Atlas · EMDR](https://universalmind.tv/informatics/read/vision/index.html): Human visual stimulation and the hexagonal tracking hypothesis.
+- [Computer vision for genomics](https://universalmind.tv/informatics/read/computer-vision/index.html): Hyperspectral image-analysis algorithm research.
 - [Experiments](https://universalmind.tv/informatics/read/experiments/index.html): Versioned measurements, methods and limitations.
 - [Data and methods](https://universalmind.tv/informatics/read/data.html): Full source inventory and checksums.
 - [Archive record](https://universalmind.tv/informatics/read/provenance.html): Verified storage and timestamp status.

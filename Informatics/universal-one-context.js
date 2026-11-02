@@ -26,7 +26,7 @@ export function compactResearchRequest(body={}){
  }
  const users=raw.filter(m=>m?.role==='user'&&typeof m.content==='string');
  const origin=clipText(body.conversation?.origin||users[0]?.content,900);
- const result={question:clipText(body.question,12000),history:compactHistory(raw),references,conversation:{origin},context:{page:clipText(context.page,160),area:clipText(context.area||atlas.area,80),atlas:{record:clipText(atlas.record,120),view:clipText(atlas.view,80)},library:{collection:clipText(library.collection,60),chapter:clipText(String(library.chapter??''),30),query:clipText(library.query,400)}}};
+ const result={question:clipText(body.question,12000),history:compactHistory(raw),references,conversation:{origin},context:{page:clipText(context.page,160),area:clipText(context.area||atlas.area,80),atlas:{record:clipText(atlas.record,120),view:clipText(atlas.view,80)},library:{collection:clipText(library.collection,60),chapter:clipText(String(library.chapter??''),30),query:clipText(library.query,400),filters:Object.fromEntries(['community','age','condition'].map(key=>[key,(Array.isArray(library.filters?.[key])?library.filters[key]:[]).filter(v=>typeof v==='string').slice(0,12).map(v=>clipText(v,80))])),includeRelated:library.includeRelated===true}}};
  // Bound the encoded JSON, including Unicode and JSON escaping. Sources remain
  // in the on-page transcript; only identifiers cross the network again.
  while(byteLength(result)>44000){if(result.history.length)result.history.shift();else if(result.references.length)result.references.pop();else result.question=clipText(result.question,Math.floor(byteLength(result.question)/2));}

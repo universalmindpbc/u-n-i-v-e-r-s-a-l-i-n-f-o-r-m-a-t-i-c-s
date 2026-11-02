@@ -1,0 +1,8185 @@
+{
+  "schemaVersion": "communities-contexts/v2",
+  "title": "Communities and Contexts",
+  "updatedAt": "2026-11-02",
+  "recordCount": 1323,
+  "taxonomy": [
+    {
+      "id": "refugees",
+      "label": "Refugees & Forced Displacement",
+      "searchTerms": [
+        "refugee",
+        "refugees",
+        "asylum seeker",
+        "asylum seekers",
+        "forced displacement",
+        "internally displaced",
+        "resettlement"
+      ],
+      "scope": "Retain distinctions between refugees, asylum seekers and internally displaced people. Migration alone does not establish forced displacement."
+    },
+    {
+      "id": "housing",
+      "label": "Homelessness & Housing Insecurity",
+      "searchTerms": [
+        "homeless",
+        "homelessness",
+        "rough sleeping",
+        "unstably housed",
+        "housing insecurity",
+        "homeless shelter"
+      ],
+      "scope": "Housing circumstances need explicit support. Poverty or residence in a domestic-violence shelter alone does not establish homelessness."
+    },
+    {
+      "id": "defence",
+      "label": "Defence, Veterans & Security Services",
+      "searchTerms": [
+        "defence",
+        "defense",
+        "military",
+        "veterans",
+        "veteran",
+        "army",
+        "navy",
+        "air force",
+        "marines",
+        "armed forces",
+        "service members",
+        "security services",
+        "police",
+        "law enforcement",
+        "service personnel",
+        "soldiers",
+        "Australian Defence Force"
+      ],
+      "scope": "Identify the service group in each source. Military service does not automatically establish combat or war exposure."
+    },
+    {
+      "id": "indigenous",
+      "label": "Indigenous Peoples & Communities",
+      "searchTerms": [
+        "Indigenous",
+        "Aboriginal",
+        "Torres Strait Islander",
+        "First Nations",
+        "Māori",
+        "Native American",
+        "American Indian",
+        "Alaska Native",
+        "Inuit"
+      ],
+      "scope": "Retain the specific peoples, country and context identified in the source. These terms are search routes, not interchangeable identities."
+    },
+    {
+      "id": "domestic-violence",
+      "label": "Domestic & Family Violence",
+      "searchTerms": [
+        "domestic violence",
+        "DV",
+        "family violence",
+        "intimate partner violence",
+        "IPV",
+        "coercive control",
+        "domestic abuse",
+        "dating violence"
+      ],
+      "scope": "Anxiety, PTSD, depression, abuse or trauma alone does not establish domestic or family violence. Effects on symptoms remain distinct from effects on violence."
+    },
+    {
+      "id": "war-trauma",
+      "label": "War & Conflict-Related Trauma",
+      "searchTerms": [
+        "war trauma",
+        "combat trauma",
+        "combat-related",
+        "war-related",
+        "armed conflict",
+        "conflict-affected",
+        "postconflict"
+      ],
+      "scope": "Require an explicit war or armed-conflict context. Natural disasters, generic trauma and veteran status alone do not establish this category."
+    }
+  ],
+  "records": [
+    {
+      "recordId": "pmid-42519422",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-41308935",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-42615937",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-41367385",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-40281224",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-40749778",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-41064114",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-41020112",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-38776115",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-38362742",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-39060246",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-39680432",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-39295112",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-37982547",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-39098435",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-38671329",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-37764116",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-36658116",
+      "matches": [
+        {
+          "categoryId": "war-trauma",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-38222454",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-38040763",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-36819725",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-37560036",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-36127701",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-35544697",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-36278141",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-36164752",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-36267832",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-36171872",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-35427760",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-30737392",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25593022",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-32795360",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-31521905",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-30414050",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-30605805",
+      "matches": []
+    },
+    {
+      "recordId": "doi-0bf0e1873d286226",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-30135663",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-28891335",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-28889075",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-28795405",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-28890000",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-28890349",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-28912494",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-29306937",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-28526450",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-28670311",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-27317929",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-28721265",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-26903384",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-26738630",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-26178189",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-26121678",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25537522",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25964984",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25935637",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25386727",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25001970",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-24485481",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25749595",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-24703167",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-23613970",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-23435350",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-23380323",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22719790",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22742996",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22820409",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22123970",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-21896752",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22303405",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-20640802",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-18833581",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-17994268",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-17261984",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-17854483",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-15750361",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-15668624",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-12853721",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-12629875",
+      "matches": []
+    },
+    {
+      "recordId": "src-5aaad2520e3b",
+      "matches": []
+    },
+    {
+      "recordId": "src-29826cfefdd8",
+      "matches": []
+    },
+    {
+      "recordId": "src-9f4f86bba592",
+      "matches": []
+    },
+    {
+      "recordId": "src-c4163b9ea6af",
+      "matches": []
+    },
+    {
+      "recordId": "src-d5dc29829a02",
+      "matches": []
+    },
+    {
+      "recordId": "src-f509442c9ca1",
+      "matches": []
+    },
+    {
+      "recordId": "src-073eaac7c1c6",
+      "matches": []
+    },
+    {
+      "recordId": "src-944ec8023c08",
+      "matches": []
+    },
+    {
+      "recordId": "src-ba204cd2f0e1",
+      "matches": []
+    },
+    {
+      "recordId": "src-32ff0961cd36",
+      "matches": []
+    },
+    {
+      "recordId": "src-473becc5048a",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-d3de68b52048",
+      "matches": []
+    },
+    {
+      "recordId": "src-d8da0823ac49",
+      "matches": []
+    },
+    {
+      "recordId": "src-e9b23a765f28",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-41974356",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-42881739",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-42339887",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-39103336",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-38418876",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-36085433",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-36588113",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-37531065",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-37074407",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-36618821",
+      "matches": []
+    },
+    {
+      "recordId": "portal-66ebe89ad390",
+      "matches": [
+        {
+          "categoryId": "war-trauma",
+          "relation": "context"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "context"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "portal-e25cb1d2bb79",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-40547443",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "portal-7c6d9225444d",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-39004412",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-40655918",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-36427257",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-38327501",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "portal-937934d6d2dd",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "portal-1542d1de36c9",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-35329068",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-67fa7275f4f4ba77",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-36248508",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-2a203fb071ddfe54",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-34763697",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-33111597",
+      "matches": []
+    },
+    {
+      "recordId": "doi-b4b0af603557eafe",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-37bd65a31f48ce93",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-34025912",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-34050123",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-31587084",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-32655132",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-31794974",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-33071746",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-29769367",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-30858710",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-30889982",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-30073406",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-30049225",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-30914965",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-31507444",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-30858808",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-30804863",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-31518601",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-30949846",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-28281353",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-29946275",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-98d676644dd46a51",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-29170944",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-30197612",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-29110615",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-30186192",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-30166975",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-29683360",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-29899015",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-30053086",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "context"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-30618659",
+      "matches": []
+    },
+    {
+      "recordId": "doi-66e3650652d792e2",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-30108475",
+      "matches": []
+    },
+    {
+      "recordId": "doi-16fea1e714a7ade6",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-29297265",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-30003481",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-30552076",
+      "matches": []
+    },
+    {
+      "recordId": "doi-94ef326e2e9a602d",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "portal-b171bb6d1a29",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-30545815",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-28798255",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-28669546",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-28660669",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "indigenous",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-28588005",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-27647521",
+      "matches": []
+    },
+    {
+      "recordId": "doi-3033fb68b3cc2d76",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-befa7b53c55cb589",
+      "matches": []
+    },
+    {
+      "recordId": "doi-648f6da34833f786",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-28481610",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-28669654",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-28359771",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-28386342",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-29497485",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-29211795",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-28087128",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-29228794",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-26612201",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-29075623",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-31097900",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-28728017",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-29055680",
+      "matches": []
+    },
+    {
+      "recordId": "doi-2cc6078ca91d89ea",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-28703754",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-28103407",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-28544507",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-28222713",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-27707822",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-28694775",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-27021514",
+      "matches": []
+    },
+    {
+      "recordId": "doi-2f565d066e4e774b",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-26541421",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-27543885",
+      "matches": []
+    },
+    {
+      "recordId": "doi-4177d8a1b6597791",
+      "matches": []
+    },
+    {
+      "recordId": "doi-61628ddd002899ff",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-1e1e2bd1138b8cfd",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-26799456",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25582800",
+      "matches": []
+    },
+    {
+      "recordId": "doi-bfab13a657ed2d81",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-26963955",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-27790154",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-27603755",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-27425032",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-26785376",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-27225519",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-27353367",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-26744309",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-26074123",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-27417882",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-27512317",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-26647109",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-27217844",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-24828126",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-26256140",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-25653222",
+      "matches": []
+    },
+    {
+      "recordId": "doi-1e4b5bdcc2212351",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25989952",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-25635925",
+      "matches": []
+    },
+    {
+      "recordId": "doi-335fd4c429caa4ae",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-25694852",
+      "matches": []
+    },
+    {
+      "recordId": "doi-bbac53b23500d8b1",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25978109",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25862338",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-25345689",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25367403",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25818837",
+      "matches": []
+    },
+    {
+      "recordId": "doi-b1734615d2614781",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-26181573",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-26170587",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25234347",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-26679295",
+      "matches": []
+    },
+    {
+      "recordId": "doi-b2b4a7cf6604ec4e",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-26441614",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-24888477",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-24965797",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "indigenous",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-26347062",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-25881089",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-26491332",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-26059998",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25324790",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-24799299",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25071612",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25452734",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-24883104",
+      "matches": []
+    },
+    {
+      "recordId": "doi-4e5b48cad9b6436d",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-24626068",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-24876768",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-24372522",
+      "matches": []
+    },
+    {
+      "recordId": "doi-1ee8c9dc33b350fa",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-24107199",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-25101684",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-24609454",
+      "matches": []
+    },
+    {
+      "recordId": "doi-0e7b54c332697f06",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-b02eca96b6ce2f96",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25324805",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25333470",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-24515537",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-2d7461017405ab6b",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-25046280",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-24626074",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-24929023",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-23702050",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-23615206",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-23872699",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-24137142",
+      "matches": []
+    },
+    {
+      "recordId": "doi-ed68cfcb4dcfc73a",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-23352229",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-23914165",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-23574691",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-24092689",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-24099859",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-23602876",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-23784718",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-23796855",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-23742229",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-23847555",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-24001876",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "domestic-violence",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-23400965",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-23568415",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-24257410",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-23797149",
+      "matches": []
+    },
+    {
+      "recordId": "doi-bcda25fdeb002c46",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-0017e1c8036baaa5",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-22442202",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22374478",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22169588",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22352291",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22891157",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22742936",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22482765",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22304605",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-b8c111dd4c4a9cd1",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-22937145",
+      "matches": []
+    },
+    {
+      "recordId": "doi-06a7895977c054af",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-23149426",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22402913",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22393318",
+      "matches": []
+    },
+    {
+      "recordId": "doi-a5e4ecfa6a07bf01",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-21401686",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-21630119",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-22893808",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-21716581",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22144961",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-21035949",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-21372745",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-20685168",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22146674",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-21241793",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22171868",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-21967386",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-07f639404ec1fc0d",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-efaa5ab4cab4e9ec",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-21397659",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-21146930",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22021757",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-21488604",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-20367644",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-20593431",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-20557568",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-20490324",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-20378181",
+      "matches": []
+    },
+    {
+      "recordId": "doi-d40c8b9c8ed571ad",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-20492042",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-20453018",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-20440550",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-21423355",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-21423358",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-20121706",
+      "matches": []
+    },
+    {
+      "recordId": "doi-fb45fb2373911e26",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-20013298",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-20117669",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-20193089",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-21062776",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-19875131",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-19815592",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-19654388",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-18706452",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-19673808",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-19267396",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-19646284",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-19673817",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-20099470",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-19583647",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-19275991",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-19696930",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-20871742",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-17827173",
+      "matches": []
+    },
+    {
+      "recordId": "doi-2f7b8dd67e1c8bbb",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-18612994",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-53aa4106dfd35960",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-18979928",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-21768988",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-18710596",
+      "matches": []
+    },
+    {
+      "recordId": "doi-7bca5becd0049aeb",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-18991533",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-18356530",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-17284128",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-17309374",
+      "matches": []
+    },
+    {
+      "recordId": "doi-16f513abd981c573",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-17441816",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-17543993",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-17274213",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-18005804",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-17573044",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-17508316",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-17938152",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-17987115",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-17917468",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-17478041",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-17450451",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-82aafc04d055ceed",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-16772250",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-16899965",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-16388071",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-16314076",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-20072706",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-e5864f2618900cc4",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-16254067",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-16476137",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-16115248",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-16382423",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-733bb2dac57b6cc9",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-16275477",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-15913391",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-15951338",
+      "matches": []
+    },
+    {
+      "recordId": "doi-ee4dbad2ce729f10",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-890fefc8f3be30c0",
+      "matches": [
+        {
+          "categoryId": "war-trauma",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-15669447",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-14961935",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-15310251",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-29b8d72b63cf67cb",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-14991326",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-12801395",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-14681168",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-12531722",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-14743579",
+      "matches": []
+    },
+    {
+      "recordId": "doi-70f1db616203b86f",
+      "matches": []
+    },
+    {
+      "recordId": "doi-afe44de7f462e56e",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-11792664",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-12001882",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-12455680",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-12467953",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-11955466",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-11828038",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-11421971",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-11179406",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-11673340",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-11472279",
+      "matches": []
+    },
+    {
+      "recordId": "doi-b76baa5fd9acdf58",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-11437809",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-a11edc2c0d807446",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-11319676",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-11191043",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-10829412",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-11065312",
+      "matches": []
+    },
+    {
+      "recordId": "doi-1a368149449ab40a",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-11127626",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-10686266",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-18311106",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-10485122",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-9483470",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-9423966",
+      "matches": []
+    },
+    {
+      "recordId": "doi-06a35c77903dbedd",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-9479673",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-9924746",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-9614593",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-8955924",
+      "matches": []
+    },
+    {
+      "recordId": "doi-e7641c6e0eb6fd54",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-9119558",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-206bca1736dab071",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-dd7b3c097a436b46",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-2914733",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-20493150",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-3938842",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-4029259",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-6532580",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-49737",
+      "matches": []
+    },
+    {
+      "recordId": "src-79f3e30fa012",
+      "matches": []
+    },
+    {
+      "recordId": "src-f81bce3efd79",
+      "matches": []
+    },
+    {
+      "recordId": "src-d7ea864fa789",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-487a37fcb405",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-be36c0b9673d",
+      "matches": []
+    },
+    {
+      "recordId": "src-b2288e258f96",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-1d69fc1d3629",
+      "matches": []
+    },
+    {
+      "recordId": "src-56e515aacddb",
+      "matches": []
+    },
+    {
+      "recordId": "src-4658f2126f07",
+      "matches": []
+    },
+    {
+      "recordId": "src-e48f73f227c2",
+      "matches": []
+    },
+    {
+      "recordId": "src-11c37f0b338c",
+      "matches": []
+    },
+    {
+      "recordId": "src-6187c7d861f2",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-41ca41304bcd",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-cb0ec4e8402c",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-ab7cad41c0a1",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-d13ac87370d2",
+      "matches": []
+    },
+    {
+      "recordId": "src-804727a0fe5d",
+      "matches": []
+    },
+    {
+      "recordId": "src-8e2c843200d2",
+      "matches": []
+    },
+    {
+      "recordId": "src-5f67f487758b",
+      "matches": []
+    },
+    {
+      "recordId": "src-5ca96c09ff7a",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-48e0742b692c",
+      "matches": []
+    },
+    {
+      "recordId": "src-c29b6e4e773f",
+      "matches": []
+    },
+    {
+      "recordId": "src-dec9f0a63b40",
+      "matches": []
+    },
+    {
+      "recordId": "src-218662257ef3",
+      "matches": []
+    },
+    {
+      "recordId": "src-923111869fef",
+      "matches": []
+    },
+    {
+      "recordId": "src-f613a9d6c16a",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-a5e92130bd97",
+      "matches": []
+    },
+    {
+      "recordId": "src-dc1db9b682c7",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-4d549c318fe9",
+      "matches": []
+    },
+    {
+      "recordId": "src-c61b4fbb2519",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-22bb91ee46db",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-35cb6bd28036",
+      "matches": []
+    },
+    {
+      "recordId": "src-507ea85612c7",
+      "matches": []
+    },
+    {
+      "recordId": "src-0b5043af2ada",
+      "matches": []
+    },
+    {
+      "recordId": "src-217758559eb4",
+      "matches": []
+    },
+    {
+      "recordId": "src-b66173aa6453",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-4e8fa4627757",
+      "matches": []
+    },
+    {
+      "recordId": "src-2821ce68942b",
+      "matches": []
+    },
+    {
+      "recordId": "src-e4870b8eaf8c",
+      "matches": []
+    },
+    {
+      "recordId": "src-9c3263b6b942",
+      "matches": []
+    },
+    {
+      "recordId": "src-05fee8b7d126",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "src-41119f037bd1",
+      "matches": []
+    },
+    {
+      "recordId": "src-fb22af03c638",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-bd928165f653",
+      "matches": []
+    },
+    {
+      "recordId": "src-1fa27d13ad19",
+      "matches": []
+    },
+    {
+      "recordId": "src-86c4acbb742d",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-6c32dbe59aae",
+      "matches": []
+    },
+    {
+      "recordId": "src-eea02e5f3c8d",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-c6b891dd9958",
+      "matches": []
+    },
+    {
+      "recordId": "src-5e9624ec353b",
+      "matches": []
+    },
+    {
+      "recordId": "src-915d4f585947",
+      "matches": []
+    },
+    {
+      "recordId": "src-43951cc0f671",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-eb96e0eb602d",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-765723fc55e2",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-2c4944155b58",
+      "matches": []
+    },
+    {
+      "recordId": "src-3a89367924ad",
+      "matches": []
+    },
+    {
+      "recordId": "src-f9996534c3de",
+      "matches": []
+    },
+    {
+      "recordId": "src-0d9b2343d896",
+      "matches": []
+    },
+    {
+      "recordId": "src-431b8c7039b1",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-d0bf23be01d8",
+      "matches": []
+    },
+    {
+      "recordId": "src-d642e3ff68d3",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-e697165c619f",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-36ff9563ed31",
+      "matches": []
+    },
+    {
+      "recordId": "src-c1a1df977433",
+      "matches": []
+    },
+    {
+      "recordId": "src-35bb6dff46f4",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-7bab2527ffda",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-9903c78b8bca",
+      "matches": []
+    },
+    {
+      "recordId": "src-18c0ce413c5b",
+      "matches": []
+    },
+    {
+      "recordId": "src-f525470f0e0b",
+      "matches": []
+    },
+    {
+      "recordId": "src-c05ccb0f9eb2",
+      "matches": []
+    },
+    {
+      "recordId": "src-0331f0f8df05",
+      "matches": []
+    },
+    {
+      "recordId": "src-51437ce1145b",
+      "matches": []
+    },
+    {
+      "recordId": "src-3d07e41dbe7a",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-dee30f32ce8c",
+      "matches": []
+    },
+    {
+      "recordId": "src-e9a450b442d3",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-d5959fcb69bc",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "src-ae3dc0d94fef",
+      "matches": []
+    },
+    {
+      "recordId": "src-62baf77006d6",
+      "matches": []
+    },
+    {
+      "recordId": "src-7e2f0ecca8d8",
+      "matches": []
+    },
+    {
+      "recordId": "src-595a254107ad",
+      "matches": []
+    },
+    {
+      "recordId": "src-f8862893c189",
+      "matches": []
+    },
+    {
+      "recordId": "src-feb08f370505",
+      "matches": []
+    },
+    {
+      "recordId": "src-4bfecb06eee8",
+      "matches": []
+    },
+    {
+      "recordId": "src-192b7dfe47ac",
+      "matches": []
+    },
+    {
+      "recordId": "src-ebacdf327973",
+      "matches": []
+    },
+    {
+      "recordId": "src-0d942853ac35",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-f265f80eb04c",
+      "matches": []
+    },
+    {
+      "recordId": "src-0f4a427987f6",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-fee7457e290f",
+      "matches": []
+    },
+    {
+      "recordId": "src-06f32466fb34",
+      "matches": []
+    },
+    {
+      "recordId": "src-47a527b4dc03",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-d173f7852495",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "src-be413ddf58a1",
+      "matches": []
+    },
+    {
+      "recordId": "src-1ee0e5be1bde",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-7447bc610298",
+      "matches": []
+    },
+    {
+      "recordId": "src-96965bda66df",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-418e29320057",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-48c16fe9201b",
+      "matches": []
+    },
+    {
+      "recordId": "src-f7e11cf61952",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-c395c5051a97",
+      "matches": []
+    },
+    {
+      "recordId": "src-29d7f1722875",
+      "matches": []
+    },
+    {
+      "recordId": "src-d14e94a49dd0",
+      "matches": []
+    },
+    {
+      "recordId": "src-56579cb2ab4b",
+      "matches": []
+    },
+    {
+      "recordId": "src-61127c5b6ae5",
+      "matches": []
+    },
+    {
+      "recordId": "src-d5a8539d2615",
+      "matches": []
+    },
+    {
+      "recordId": "src-a880894db1fb",
+      "matches": []
+    },
+    {
+      "recordId": "src-f9a2700acce6",
+      "matches": []
+    },
+    {
+      "recordId": "src-539bacc5aeee",
+      "matches": []
+    },
+    {
+      "recordId": "src-5031d021086a",
+      "matches": []
+    },
+    {
+      "recordId": "src-da6e150a42eb",
+      "matches": []
+    },
+    {
+      "recordId": "src-e968a647d935",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-468b71eb3291",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-d2427f4063b3",
+      "matches": []
+    },
+    {
+      "recordId": "src-d6a462d1d122",
+      "matches": []
+    },
+    {
+      "recordId": "src-dd30f16f4a95",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-3f9a5ebd9493",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-836261e713b0",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-c31d71bab531",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-7079ef417f29",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-0f21374720c6",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-02b1d4949a40",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "indigenous",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "src-6959a598f179",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-e981e4a9d34d",
+      "matches": []
+    },
+    {
+      "recordId": "src-0e1e9057a0a3",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-0bc37ec70145",
+      "matches": []
+    },
+    {
+      "recordId": "src-0c9e697acc13",
+      "matches": []
+    },
+    {
+      "recordId": "src-3108ecac9819",
+      "matches": []
+    },
+    {
+      "recordId": "src-fafddbacaca4",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-5fad89c454d7",
+      "matches": []
+    },
+    {
+      "recordId": "src-d7f47e4a1e10",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-d42ef0deb972",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-ec9560b5ddc0",
+      "matches": []
+    },
+    {
+      "recordId": "src-2fc73b5bedff",
+      "matches": []
+    },
+    {
+      "recordId": "src-b5a8b2663640",
+      "matches": []
+    },
+    {
+      "recordId": "src-056d5bb4ab8f",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-1f31858ead8a",
+      "matches": []
+    },
+    {
+      "recordId": "src-742beffd7dfb",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-87eb83ef302f",
+      "matches": []
+    },
+    {
+      "recordId": "src-e9a8e7396e01",
+      "matches": []
+    },
+    {
+      "recordId": "src-8fa7c87846bb",
+      "matches": []
+    },
+    {
+      "recordId": "src-91ee644ba04e",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-1bdc22144734",
+      "matches": []
+    },
+    {
+      "recordId": "src-ddd4bad4438e",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-2de5a21f0816",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-688f56d0a555",
+      "matches": [
+        {
+          "categoryId": "war-trauma",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-d1eaa478462e",
+      "matches": []
+    },
+    {
+      "recordId": "src-65918bab6057",
+      "matches": []
+    },
+    {
+      "recordId": "src-8fc39ea39386",
+      "matches": []
+    },
+    {
+      "recordId": "src-26666e925d94",
+      "matches": []
+    },
+    {
+      "recordId": "src-050c5805ca1d",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "src-a508e60b7923",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-a25d1aadf21e",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "src-cfebd98a61bb",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-4077e7cc4fae",
+      "matches": []
+    },
+    {
+      "recordId": "src-7f7df6f3a7e2",
+      "matches": []
+    },
+    {
+      "recordId": "src-8058966ee2bb",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "src-7e41f0e25b55",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-20d1ad4a5931",
+      "matches": []
+    },
+    {
+      "recordId": "src-6190b32a0999",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-2b28c61a6dab",
+      "matches": []
+    },
+    {
+      "recordId": "src-bd646690e96a",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-48a653d354ac",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-d2816a086d96",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "src-1aac841dc116",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-374faac36b5c",
+      "matches": []
+    },
+    {
+      "recordId": "src-c0253fb7755c",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-14af5866007b",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-aecb8b44badd",
+      "matches": []
+    },
+    {
+      "recordId": "src-a91553bc6cb6",
+      "matches": []
+    },
+    {
+      "recordId": "src-6b8b9506be26",
+      "matches": []
+    },
+    {
+      "recordId": "src-22567131f310",
+      "matches": []
+    },
+    {
+      "recordId": "src-319a0032dd2e",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-1848d7eaf430",
+      "matches": []
+    },
+    {
+      "recordId": "src-75491f6f55b4",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-5ccef969cd6a",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-867f6d0519f0",
+      "matches": []
+    },
+    {
+      "recordId": "src-ef07290a540d",
+      "matches": []
+    },
+    {
+      "recordId": "src-e74337ebcb41",
+      "matches": []
+    },
+    {
+      "recordId": "src-8696e46a8595",
+      "matches": []
+    },
+    {
+      "recordId": "src-065117587152",
+      "matches": []
+    },
+    {
+      "recordId": "src-ed35d20b36c4",
+      "matches": []
+    },
+    {
+      "recordId": "src-18b777c33bb6",
+      "matches": []
+    },
+    {
+      "recordId": "src-89d6ed0ece09",
+      "matches": []
+    },
+    {
+      "recordId": "src-6ab0a4d396b2",
+      "matches": []
+    },
+    {
+      "recordId": "src-346c18a7b207",
+      "matches": []
+    },
+    {
+      "recordId": "src-0306fa89e427",
+      "matches": []
+    },
+    {
+      "recordId": "src-f5f4305c559e",
+      "matches": []
+    },
+    {
+      "recordId": "src-e3b0fd44d504",
+      "matches": []
+    },
+    {
+      "recordId": "src-6a76d25fd47a",
+      "matches": []
+    },
+    {
+      "recordId": "src-0096ffba98ce",
+      "matches": []
+    },
+    {
+      "recordId": "src-c04464bc7c82",
+      "matches": []
+    },
+    {
+      "recordId": "src-bf0334ee2411",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-8914d4e08c84",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-a69e8c785c65",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-efa5d96ad24f",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-57c7d2ae83b8",
+      "matches": []
+    },
+    {
+      "recordId": "src-c597fbe363bf",
+      "matches": []
+    },
+    {
+      "recordId": "src-d08dbc94cf58",
+      "matches": []
+    },
+    {
+      "recordId": "src-d4fda8276d47",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-757129132fdc",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "src-8b2ea769f9f9",
+      "matches": []
+    },
+    {
+      "recordId": "src-b8f0554d49a8",
+      "matches": []
+    },
+    {
+      "recordId": "src-6e52fa8da5ff",
+      "matches": []
+    },
+    {
+      "recordId": "src-560b5106d25b",
+      "matches": []
+    },
+    {
+      "recordId": "src-c2a045689063",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-cec16e08a07b",
+      "matches": []
+    },
+    {
+      "recordId": "src-8e417c875b1c",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "src-8efda8da414f",
+      "matches": []
+    },
+    {
+      "recordId": "src-badc7276ec5f",
+      "matches": []
+    },
+    {
+      "recordId": "src-c64e6046b78d",
+      "matches": []
+    },
+    {
+      "recordId": "src-701e0de57bdb",
+      "matches": []
+    },
+    {
+      "recordId": "doi-5bb0d2cb9d5aa958",
+      "matches": []
+    },
+    {
+      "recordId": "src-fd4c7398e614",
+      "matches": []
+    },
+    {
+      "recordId": "src-61be16f9220b",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-9c5bb934b060",
+      "matches": []
+    },
+    {
+      "recordId": "src-d899a7527d6e",
+      "matches": []
+    },
+    {
+      "recordId": "src-76124b78a2d9",
+      "matches": []
+    },
+    {
+      "recordId": "src-1a2a9900c208",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "src-d54916eb47e9",
+      "matches": []
+    },
+    {
+      "recordId": "src-4ea7fc11a568",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-beb7877d1a26",
+      "matches": []
+    },
+    {
+      "recordId": "src-f629caf1b15c",
+      "matches": []
+    },
+    {
+      "recordId": "src-8f2595a8750f",
+      "matches": []
+    },
+    {
+      "recordId": "src-9db71a3fce02",
+      "matches": []
+    },
+    {
+      "recordId": "src-aef02aca099c",
+      "matches": []
+    },
+    {
+      "recordId": "src-d6d47376f9c0",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-a3bba47bba9b",
+      "matches": []
+    },
+    {
+      "recordId": "src-eb73dd2f6645",
+      "matches": []
+    },
+    {
+      "recordId": "src-81feac0bd644",
+      "matches": []
+    },
+    {
+      "recordId": "src-38150b2a118e",
+      "matches": []
+    },
+    {
+      "recordId": "src-b9232b337294",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-c0ab648e5e97",
+      "matches": []
+    },
+    {
+      "recordId": "src-87bf47f60a24",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-e73970c48306",
+      "matches": []
+    },
+    {
+      "recordId": "src-453f6cf677d9",
+      "matches": []
+    },
+    {
+      "recordId": "src-6d277422d0a0",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-e33851fc9d08",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-b3cbba6f11c8",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-d57b7c82f21d",
+      "matches": []
+    },
+    {
+      "recordId": "src-1023e40a3842",
+      "matches": []
+    },
+    {
+      "recordId": "src-efe6d52e05ce",
+      "matches": []
+    },
+    {
+      "recordId": "src-34b978285d9c",
+      "matches": []
+    },
+    {
+      "recordId": "src-be597886099b",
+      "matches": []
+    },
+    {
+      "recordId": "src-1fa89730e1eb",
+      "matches": []
+    },
+    {
+      "recordId": "src-973ffd9f69b7",
+      "matches": []
+    },
+    {
+      "recordId": "src-f0c081b81b89",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-9329423f6826",
+      "matches": []
+    },
+    {
+      "recordId": "src-62d753228d9f",
+      "matches": []
+    },
+    {
+      "recordId": "src-5b5cfdfc3ae1",
+      "matches": []
+    },
+    {
+      "recordId": "src-19dff8a8bbe5",
+      "matches": []
+    },
+    {
+      "recordId": "src-1617cb359767",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-ffc7240d28cd",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-5f4dece4d525",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-ea7973a48c81",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-02b414423ea8",
+      "matches": []
+    },
+    {
+      "recordId": "src-91f34e20ce39",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-e3e7571cee79",
+      "matches": []
+    },
+    {
+      "recordId": "src-afa869d2686e",
+      "matches": []
+    },
+    {
+      "recordId": "src-796cb6656464",
+      "matches": []
+    },
+    {
+      "recordId": "src-1ce42b7cb8c4",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "src-58e202d443bd",
+      "matches": []
+    },
+    {
+      "recordId": "src-1c956a43ab59",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-baad390b21ad",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-f8cfd5c578c0",
+      "matches": []
+    },
+    {
+      "recordId": "src-d36d191de4e3",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-cd60e63a37c8",
+      "matches": []
+    },
+    {
+      "recordId": "src-e9e860c4c356",
+      "matches": []
+    },
+    {
+      "recordId": "src-66b12deb6c93",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-251870752ed3",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-94a4e0f0ceac",
+      "matches": []
+    },
+    {
+      "recordId": "src-3f86d9ca1d91",
+      "matches": []
+    },
+    {
+      "recordId": "src-c7690e396a71",
+      "matches": []
+    },
+    {
+      "recordId": "src-971440fee334",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-3fd04fd75050",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-c5f78a99d96b",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        },
+        {
+          "categoryId": "indigenous",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "src-2c770034898e",
+      "matches": []
+    },
+    {
+      "recordId": "src-e1a6ed6a974c",
+      "matches": []
+    },
+    {
+      "recordId": "src-2e5b03d555b3",
+      "matches": []
+    },
+    {
+      "recordId": "src-312a65e2c0be",
+      "matches": []
+    },
+    {
+      "recordId": "src-70737632f875",
+      "matches": []
+    },
+    {
+      "recordId": "src-d4f0ad936eca",
+      "matches": []
+    },
+    {
+      "recordId": "src-6524a07918e6",
+      "matches": []
+    },
+    {
+      "recordId": "src-005e909caead",
+      "matches": []
+    },
+    {
+      "recordId": "src-199d07efad3e",
+      "matches": []
+    },
+    {
+      "recordId": "src-8ad1130190f0",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "src-dc93723ec7c8",
+      "matches": []
+    },
+    {
+      "recordId": "src-4981a8e87964",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "context"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-30083522",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-18596974",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-21840289",
+      "matches": []
+    },
+    {
+      "recordId": "src-f08d504d9cf6",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-41450809",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-41911215",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-40795897",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-40563070",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-42671585",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-42307797",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-39088370",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-32653082",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-36011825",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-38319068",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-32564499",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-33107329",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-32412916",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-40269359",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-36790246",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-35713444",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-38982009",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-42116620",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-40621706",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-35655482",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-40769315",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-40716437",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-38227442",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-39758524",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-42518933",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-41655996",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-37882058",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-30711853",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-24880581",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-32892758",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-22322458",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-39916551",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-12883106",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-11020090",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-19235193",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25686304",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-23541163",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-20876468",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22430268",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-21723049",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-29422189",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-24647726",
+      "matches": [
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-14756612",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-26586819",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-29921143",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-16847590",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-18356284",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-25397817",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-31632617",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-39427264",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-7591024",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-30279666",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-34907015",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-29900257",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-33393484",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-30256277",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-39413359",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-37546047",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-35818436",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-40414454",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-33734493",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-27723444",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-34729544",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-38078959",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-41642087",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-42640862",
+      "matches": [
+        {
+          "categoryId": "war-trauma",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-29936408",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-36006668",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-39808431",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-42599846",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-41534731",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-36350591",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-35820992",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-27002445",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-26241597",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-25907157",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-40379363",
+      "matches": []
+    },
+    {
+      "recordId": "doi-10.1007-s12671-026-02877-9",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-33415797",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-25607833",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-42324567",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-38250261",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-42773467",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-41340540",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-42254728",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-40417270",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-39023949",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-39731040",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-42880055",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-37881ae999c094e1",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-39630422",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "indigenous",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-33709117",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "indigenous",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-40243164",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-42703195",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "indigenous",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-34512458",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "indigenous",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-39835632",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "related"
+        },
+        {
+          "categoryId": "indigenous",
+          "relation": "related"
+        },
+        {
+          "categoryId": "housing",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-38032626",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-42411718",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-9479674",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-35070159",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-36266402",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-31645664",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-31352130",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-35707677",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-40706348",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "doi-14a5c17359f1dfcb",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        },
+        {
+          "categoryId": "war-trauma",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "vision-photoreceptor-mosaic-1998",
+      "matches": []
+    },
+    {
+      "recordId": "vision-retinal-orientation-2011",
+      "matches": []
+    },
+    {
+      "recordId": "vision-hexadirectional-2018",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-17287729",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-24025838",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-22824810",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-30301953",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-32313029",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-24464043",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-30944474",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-37938765",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-39313675",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-41663511",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-37730989",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-19234457",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-29184215",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-17514195",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-25806429",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-21217764",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-38049408",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-24552785",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-38862815",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-27576169",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-27898068",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "pmid-30760920",
+      "matches": []
+    },
+    {
+      "recordId": "pmid-27698453",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-srep27347",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-srep15358",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-023-34880-8",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-nature02081",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-nature12791",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-021-93133-8",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-017-13767-5",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-srep39821",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s41540-026-00733-z",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s41586-025-09570-2",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s41567-024-02529-6",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s41467-025-61493-8",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s41586-022-04853-4",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-nphys1396",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-srep31350",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-srep46302",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-023-28367-9",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-026-66284-9",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-024-62260-3",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-020-64065-6",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s41567-020-0908-7",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s41467-020-15760-5",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-srep38651",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s41467-018-05950-7",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-020-67567-5",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-017-02170-9",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-nphoton.2009.285",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s42005-025-02264-1",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-026-40652-x",
+      "matches": []
+    },
+    {
+      "recordId": "nature-fibonacci-s41598-020-72218-w",
+      "matches": []
+    },
+    {
+      "recordId": "quantum-honeycomb-hastings-haah-2021",
+      "matches": []
+    },
+    {
+      "recordId": "quantum-penrose-fibonacci-code-2024",
+      "matches": []
+    },
+    {
+      "recordId": "quantum-ibm-heavy-hex-2021",
+      "matches": []
+    },
+    {
+      "recordId": "quantum-heavy-hex-scaling-2026",
+      "matches": []
+    },
+    {
+      "recordId": "quantum-kagome-edge-states-2026",
+      "matches": []
+    },
+    {
+      "recordId": "quantum-rydberg-local-error-correction-2024",
+      "matches": []
+    },
+    {
+      "recordId": "quantum-haah-fractal-code-2011",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-fda6f081ed5bea",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-5e1047e741fec6",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-c850f6777572d4",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-84b3c79b78cbd5",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-5741b19204aaa6",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-f2d9fb354d5d0b",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-16f70e898521b3",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-ee301b86285079",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-7ad76f3461e8f4",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-6fe5f46314bf49",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-130fe722e2c413",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-80a547fe5cffcd",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-743d6718e4798d",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-73d87fc83f0d66",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-fb26f28fd984a4",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-4a1a5cee408d6c",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-4c43fe26667b32",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-8e4034b8b289a9",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-3d163ae87207d0",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-28e5e7fe09245a",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-d6215fd15c4e25",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-6b1d2def31c0db",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-55916122662aa4",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-aecb6ce44b1875",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-b2ec2b67bc699b",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-11aecd75cd9043",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-9cc2ba2f0010e1",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-4904d75ff35109",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-c15e2698527a36",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-4471c0cab6e122",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-25e3cdf609e7e8",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-2c85ce08716726",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-b4a2f9f50b86b4",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-27332000a2bc2d",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-a738a60b4fd69e",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-cefd1a89919598",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-f6c36daef82123",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-cc72c20d20ad93",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-474aae27e254f6",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-66bec84627b0dc",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-9d14d253c181bc",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-113f6b6b7e2532",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-f85613b2aab02b",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-d85459e14c4885",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-a6d1ba2316c08d",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-2d570b00f2ccf3",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-688691ea42776f",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-fdb97b4e29c7dd",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-62d3aa9212928c",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-25d9dbb27793f1",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-e4fe63d45bf8b9",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-0f08e7dadf9e0b",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-73a17e50a48e07",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-7388517063a7af",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-ab0d1892ea7227",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-83b2680d02c658",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-ab41c0abb24e53",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-2bdd395b380845",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-f195eb8e628a71",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-60b2c2a14403dd",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-8d0c61cbbe9b8f",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-bf70680de4d4e4",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-10ecf2c046f745",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-946216a176e063",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-aab85699a77a3d",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-77718f06669535",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-4af2057b096b94",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-47902eba688213",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-8a8678573fb17e",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-07cc188cceb30b",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-95de488967bdae",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-fa5125a3521b41",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-6e4cd0919dfce6",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-8f5609e6da289b",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-7d3097f47eb89f",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-0c64f140769534",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-39fab96b7c60e8",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-26e06f24f0b804",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-30665e57818748",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-5251fd98c28e8b",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-4efe761244a9d1",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-be932d8730b595",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-30d689c8edc32d",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-15872e1b8b4ebc",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-4bc623819a8a2f",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-608c987e1bbe8a",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-dbaacd77b57047",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-65629c874781f2",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-9754d6a5bca560",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-de25bca76daa01",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-e2e37e929bf669",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-77fdc107df5fe0",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-228d0ab78ee822",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-c2e2e55e945231",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-d7705f9004e7f6",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-678a9434e390e7",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-f7aa09edd12cad",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-c6f6e59d6a927f",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-fd5105023e2775",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-1f05ba573dcb27",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-fe9beed0c48feb",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-ac1a12e6336bc8",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-58c1b04eae1511",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-8df714c2a5352f",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-02ab11b6d0ef93",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-a4e2cdb5885ae2",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-a6e8dbdcc31098",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-6a797a12e4bebc",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-a9cb2f5e34a281",
+      "matches": [
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "hsi-fdcf14e03d75d0",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-6df09691312824",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-383199709ef6f4",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-93f7d121a0ab35",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-3f248c769cb7e5",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-587c00ecc00816",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-3bbc732bf7d08f",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-0c6e4452422469",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-ce00f43b88b08e",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-b2caf4e538d889",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-f8d72d4059c326",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-db6bcdd185c65d",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-08604531a6bb4f",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-5b22e3b360013a",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-881adcbbeae56a",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-1ab85ffdd4e0cf",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-e850baebbfec10",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-8042baa9bf1d2d",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-ba7873fe043fbf",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-06c534edea044e",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-e5ce75d3c77c19",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-c644e5401b9e2e",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-2d7983e4ef049a",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-e3944b33936175",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-4b75613536363d",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-92cd98c0974786",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-a911e8605e024c",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-c2365ea769851d",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-852a0ba2dbf56c",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-4f3065875d9c72",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-21970c827acaf2",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-9aca948efa6310",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-3d3b5bdc1825c3",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-ed18598f8b5617",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-509cb5093173a7",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-2d7228bf087a2d",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-68920f19acc589",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-8c4a775b474639",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-bb8bd49cde6956",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-db701719d4dfca",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-93d8a400352b6c",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-8ad27b6daef8ac",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-9e3caca1a18860",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-d472a890e03c1b",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-98a399171f2226",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-e7e54aaae200fa",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-51ceed09e76ab1",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-970c306954834e",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-f69919e90b4809",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-890a81b217c123",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-c847bd10379570",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-8b0c28afb02b86",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-3338d715ddefac",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-a969f74bedb780",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-c97f9a5a073dee",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-a7e89452d57b51",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-672c477cf92f2c",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-b89b11771190f7",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-37b2d379bb9681",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-4d0943da705896",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-bb4d6be95a6fbf",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-f85cb98f5b77d1",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-507bbc03f5d2eb",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-a8977d72a1a256",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-d20e21db0f73d9",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-33dac4910c8d78",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-50b42dd5c5b578",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-0d33d222d235dd",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-7d176d0ecb2d26",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-320858d8be27a8",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-5383613370a770",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-1bfd258cce7eef",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-d9b2c705e7f695",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-c72f6f428330c2",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-ca225cf85be823",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-640ffd898d4f0f",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-c1f30e3f5d4055",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-ce108c64ada154",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-347e099d5780a1",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-3775d2078838e2",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-43757b09c98745",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-a2182f3ffa9feb",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-e0d5c3805210ed",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-a767ad286ab4ab",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-a69099559ecd76",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-adeb0509f25117",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-33295070309002",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-d4f9970183960d",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-49e12e857b5371",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-22a43f552b2b2f",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-6963bd6166bcd0",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-be9f5eccf3b27d",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-30eaacfb450209",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-33a52b5cee68bb",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-patent-us20240289989a1",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-patent-wo2021111436a1",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-patent-us20230128051a1",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-patent-wo2020060606a1",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-patent-us8489181b1",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-patent-us20170303790a1",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-patent-us9551613b2",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-patent-us20150044098a1",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-patent-us11222422b2",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-patent-us10018758",
+      "matches": []
+    },
+    {
+      "recordId": "hsi-patent-us20140320858a1",
+      "matches": []
+    },
+    {
+      "recordId": "dv-adult-therapy-42326745",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-mindbody-40552233",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-41045209",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-40883805",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-41065656",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-39529598",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-38206858",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-38678198",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-mindbody-39135298",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-mindbody-c6c616df1710",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-37889918",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-37383647",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-mindbody-37400911",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-33375899",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-32933348",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-32755265",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-32993831",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-34143803",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-34584851",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-33428625",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-33743632",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-34305273",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-mindbody-32969703",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-33303427",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-29648853",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-26613288",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-27459503",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-26437311",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-24252714",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-23948313",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-23414253",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-23598181",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-21153559",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-21787052",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-21199975",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-20977033",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-20658802",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-19634963",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-17022356",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-16865033",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-16569097",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-mindbody-88e29294631c",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-16292115",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-14756610",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-11680554",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-vision-42529059",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-vision-38868491",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-vision-38629403",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-vision-426ce6386119",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-31114620",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-vision-d1f88a25c475",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "related"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-cont-39302822",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-cont-40632759",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        },
+        {
+          "categoryId": "defence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-37148270",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-37937723",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-39180467",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-35793513",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-cont-37383644",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-cont-36429899",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-31359840",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-37133255",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-31711372",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-31623532",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-33497921",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-32584910",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-33306030",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-31981539",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-32608505",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-32373328",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-30621661",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-31415863",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-cont-37131508",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-26335794",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-27377617",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-25211469",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-reviews-17636823",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-37750224",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-40425196",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-mindbody-41024298",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-40469793",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-mindbody-37743664",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-mindbody-37484072",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-32515292",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-mindbody-36232015",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-32077730",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-32650670",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-31715628",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-32512265",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-31363925",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-mindbody-b5f8ce1b573c",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-27359091",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-32318156",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-28503060",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-25751123",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-25410886",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-mindbody-25129883",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-mindbody-23561069",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-mindbody-24043922",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-20587468",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-21816474",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-20712147",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-children-17469878",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-mindbody-16617173",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-12602656",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-adult-therapy-10783523",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-sound-42298885",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-sound-efa9f1420011",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-sound-37107774",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-sound-3c0015edd5fa",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "context"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-sound-24766169",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-sound-1be40a54cbc1",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-vision-da3bfad76f98",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-vision-2a09962793c2",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-vision-d0356a161cd2",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "dv-vision-11036736",
+      "matches": [
+        {
+          "categoryId": "domestic-violence",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "youth-pmid-37205669",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-42389090",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-39910150",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-29066991",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-22893815",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-35241174",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-36186313",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-42337783",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-41662046",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-36407676",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-37151974",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-29144545",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-40109696",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-32232017",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-31068842",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-34040886",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-35820989",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-30345511",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-36833903",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-42284591",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-38250521",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-36596239",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-37147732",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-24499130",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-31237569",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-32554380",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-32074061",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-33264098",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-28330831",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-35914112",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-24901900",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-26220564",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-34527971",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-41454356",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-36991537",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-40086808",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-36620186",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-39720610",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-36877740",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-38566202",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-34983460",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-35980733",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-37393283",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "youth-pmid-34002511",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-37261464",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-39260824",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-32720904",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-40180398",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-39813032",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-21192795",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-39813031",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-32442160",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-38693527",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "youth-pmid-39004687",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-34294067",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-40761439",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-38584397",
+      "matches": [
+        {
+          "categoryId": "indigenous",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "youth-pmid-37390108",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-29622047",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-21559213",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-40789917",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-30622094",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-39438861",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-36844353",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-38939220",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-41313154",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-42057149",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-41806311",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-22799879",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-25537785",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-32572961",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-41262946",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-36373473",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-36964523",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-38090786",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-33725578",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-34021113",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-35544295",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-37213197",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-38362237",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-39665442",
+      "matches": [
+        {
+          "categoryId": "refugees",
+          "relation": "direct"
+        }
+      ]
+    },
+    {
+      "recordId": "youth-pmid-36995752",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-39946428",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-35976180",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-32683737",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-41171275",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-32527236",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-40504611",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-40033658",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-40521225",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-39392547",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-31333198",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-39150513",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-39666705",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-36424575",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-34927592",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-32504808",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-33079071",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-36342533",
+      "matches": []
+    },
+    {
+      "recordId": "youth-pmid-38192586",
+      "matches": []
+    }
+  ]
+}

@@ -10,12 +10,12 @@
   function refresh(id) {
     const ui = controls.get(id); if (!ui) return;
     const options = [...ui.select.options].filter(o=>o.value);
-    const signature = JSON.stringify(options.map(o=>[o.value,o.textContent]));
+    const signature = JSON.stringify(options.map(o=>[o.value,o.textContent,o.dataset.searchTerms || '']));
     if (signature !== ui.signature) {
       ui.signature = signature; ui.list.replaceChildren();
       for (const option of options) {
         const label = document.createElement('label'), input = document.createElement('input'), text = document.createElement('span');
-        input.type='checkbox'; input.value=option.value; text.textContent=option.textContent;
+        input.type='checkbox'; input.value=option.value; text.textContent=option.textContent; label.dataset.search=option.textContent+' '+(option.dataset.searchTerms || '');
         input.addEventListener('change',()=>{ [...ui.select.options].find(o=>o.value===input.value).selected=input.checked; ui.select.dispatchEvent(new Event('change',{bubbles:true})); refresh(id); });
         label.append(input,text); ui.list.append(label);
       }
@@ -40,7 +40,7 @@
       const panel=document.createElement('div');panel.className='multi-panel';panel.id=id+'-options';panel.setAttribute('role','group');panel.setAttribute('aria-labelledby',heading.id);
       const search=document.createElement('input');search.type='search';search.placeholder='Find an option…';search.setAttribute('aria-label','Find '+name.toLowerCase());
       const list=document.createElement('div');list.className='multi-options';
-      search.addEventListener('input',()=>{const q=search.value.toLocaleLowerCase();for(const label of list.children)label.hidden=!label.textContent.toLocaleLowerCase().includes(q);});
+      search.addEventListener('input',()=>{const q=search.value.toLocaleLowerCase();for(const label of list.children)label.hidden=!label.dataset.search.toLocaleLowerCase().includes(q);});
       const clear=document.createElement('button');clear.type='button';clear.className='text-button';clear.textContent='Clear selection';
       clear.addEventListener('click',()=>{set(id,[]);select.dispatchEvent(new Event('change',{bubbles:true}));});
       panel.append(search,list,clear);details.append(summary,panel);holder.replaceWith(wrapper);wrapper.append(heading,select,details);

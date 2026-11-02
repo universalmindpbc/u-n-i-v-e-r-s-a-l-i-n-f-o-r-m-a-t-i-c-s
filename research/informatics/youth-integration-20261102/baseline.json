@@ -1,0 +1,23 @@
+{
+  "baselineCommit": "fcb07c7cd1f7cdf284ac4ebbe29871fc08daf214",
+  "indexedRecords": 1335,
+  "sourceSHA256": {
+    "Informatics/library-data/library.json": "9e8c73b42c5cb5cf04250910279d93ba58b3504a6230aac5020a6c1b0cb0698d",
+    "Informatics/library-data/mindfulness-expansion.json": "52f669b3b56269d9d68333169edbad313733ff838963adafbc9d3b246e0da2c2",
+    "Informatics/library-data/vision-expansion.json": "c1aa46b0b6df3916009e60f912f762081869be97fa79b2729380dc74291d2358",
+    "Informatics/library-data/nature-expansion.json": "f7072ca98ea93b9b751d7d11d4fdf6002a83caaa06c7f46310b79f50db430ba8",
+    "Informatics/library-data/fibonacci-expansion.json": "4dec7704e4b0061d37c6164be4221a97e14c666726164ce522bfb23a84d5340a",
+    "Informatics/library-data/hyperspectral-expansion.json": "7c40d251a8f3055c8d36fcac7e6596f51f469ff1a713b02a8978544bee4fdc4a",
+    "Informatics/library-data/domestic-violence-expansion.json": "6fdae7a666a8199ebd245580dbf831a5feb605afeefe71cff4562d226bc930bf"
+  },
+  "productionCommit": "57747030461016e4fc2c29bd4534df483118857d",
+  "productionTag": "production-2026-11-02-1509",
+  "mode": "local preparation only; remote push and upload permission pending",
+  "qualifiedSource": "Informatics/review/youth-20261102/batch-f164c8325ea5f9c9.json",
+  "qualifiedSourceSHA256": "f164c8325ea5f9c989c29524518b598913508117712826dc408f592b7f99a723",
+  "labBriefSHA256": "6ea6760abe467ec4fab02d174102bb31510e7efe53c1b969d236d87679181113",
+  "sidebarProject": "/Users/benkorbel/Documents/m o d u l 8 i n f i n i t y/i n f o r m a t i c s",
+  "websiteSourceRepository": "https://github.com/universalmindpbc/u-n-i-v-e-r-s-a-l-m-i-n-d",
+  "destination": "https://staging.universalmind.tv/informatics/research/",
+  "localWorkspace": "/Users/benkorbel/Documents/Codex/2026-11-02/task/youth-research-20261102"
+}

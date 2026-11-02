@@ -38,7 +38,9 @@ def inventory():
     for name in sorted(filter(None, tracked)):
         p = ROOT / name
         rel = p.relative_to(SITE).as_posix()
-        if rel.startswith('exports/'):
+        # Staging review packages are pending proposals, not approved research.
+        # Keep them out of the public corpus and all complete-dataset consumers.
+        if rel.startswith(('exports/', 'review/')):
             continue
         # These CSV files are exact alternate serialisations of the JSON files
         # already included. The full record values remain in both exports.
@@ -122,13 +124,16 @@ def build():
         manifest['downloads'][fmt] = {'file': p.name, 'bytes': p.stat().st_size,
                                       'uncompressed_bytes': size, 'sha256': sha(p), 'uncompressed_sha256': h.hexdigest(), 'parts': transport_parts(p)}
         p.unlink()
-    (OUT / 'manifest.json').write_text(json.dumps(manifest, indent=2) + '\n')
+    text=json.dumps(manifest, indent=2) + '\n'
+    (OUT / 'manifest.json').write_text(text)
+    (OUT / ('manifest-' + manifest['dataset_version'] + '.json')).write_text(text)
     print(json.dumps({'sources': len(manifest['sources']), 'downloads': manifest['downloads']}))
 
 
 def check():
     manifest = json.loads((OUT / 'manifest.json').read_text())
     current = inventory()
+    assert (OUT / ('manifest-' + manifest['dataset_version'] + '.json')).read_bytes() == (OUT / 'manifest.json').read_bytes(), 'Versioned manifest differs from the current dataset'
     if any(manifest[k] != current[k] for k in current):
         raise ValueError('Complete exports are stale. Run python3 tools/export-informatics.py, validate, and commit the updated exports.')
     for item in manifest['downloads'].values():

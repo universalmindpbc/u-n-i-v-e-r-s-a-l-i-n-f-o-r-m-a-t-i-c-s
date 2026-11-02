@@ -8,7 +8,7 @@
     return match ? Number(match[1].replace(/,/g,'')) : null;
   };
   const maximumCount = values => { const known = values.map(citationNumber).filter(Number.isInteger); return known.length ? Math.max(...known) : null; };
-  const identity = record => record.doi ? 'doi:'+record.doi.toLowerCase().replace(/^https?:\/\/(dx\.)?doi\.org\//,'').trim() : record.pmid ? 'pmid:'+record.pmid : record.publicationKey || 'id:'+(record.recordId || record.id);
+  const identity = record => record.identityConflict ? 'unresolved:'+(record.recordId || record.id) : record.doi ? 'doi:'+record.doi.toLowerCase().replace(/^https?:\/\/(dx\.)?doi\.org\//,'').trim() : record.pmid ? 'pmid:'+record.pmid : record.publicationKey || 'id:'+(record.recordId || record.id);
   const uniqueCount = papers => new Set(papers.map(identity)).size;
   function deduplicate(records) {
     const grouped = new Map();
@@ -17,12 +17,13 @@
       if (!existing) { grouped.set(id,record); continue; }
       existing.aliases = [...new Set([...existing.aliases,record.id,...record.aliases])];
       for (const field of ['collections','categories','targets','quotes','topicScores']) existing[field] = [...new Set([...existing[field],...record[field]])];
-      for (const field of ['topics','soundEntries','chapterEntries']) existing[field] = [...(existing[field] || []),...(record[field] || [])];
+      for (const field of ['topics','soundEntries','chapterEntries','sourceReferences','relatedVersions']) if(existing[field] || record[field]) existing[field] = [...(existing[field] || []),...(record[field] || [])];
       for (const [collection,count] of Object.entries(record.citationsByCollection)) existing.citationsByCollection[collection] = maximumCount([existing.citationsByCollection[collection],count]);
       existing.citationCount = maximumCount(Object.values(existing.citationsByCollection));
       if (record.studyDesignAssessment && !existing.studyDesignAssessment) {
         for (const field of ['studyDesignAssessment','citationSnapshot','design']) existing[field] = record[field];
       }
+      if (!existing.paperTrustAssessment && record.paperTrustAssessment) existing.paperTrustAssessment=record.paperTrustAssessment;
       if (jadadStatus(existing).status==='unassessed' && jadadStatus(record).status!=='unassessed') existing.jadad=record.jadad;
       existing._search += ' '+record._search;
       if (!existing.journalKey && record.journalKey) { existing.journalKey = record.journalKey; existing.journalLabel = record.journalLabel; }
@@ -39,11 +40,19 @@
     const entries = [...unique.values()];
     return {papers:entries.length,journals:new Set(entries.map(r=>r.journalKey).filter(Boolean)).size,citations:entries.reduce((sum,r)=>sum+(r.citations || 0),0),citationCoverage:entries.filter(r=>r.citations!==null).length};
   }
+  function paperTrustScore(record) {
+    const value=record.paperTrustAssessment;
+    return value?.scope==='Paper' && value.status==='assessed' && [1,2,3].includes(value.score) ? value.score : null;
+  }
+  function matchesPaperTrust(record, score) { return !score || paperTrustScore(record)===score; }
   function matchesStudy(record, kind) {
     const text = [record.title,record.design,record.kind].join(' ').toLowerCase().replace(/[‐‑–—-]/g,' ');
-    const trial = !/\bnon\s*randomi[sz]ed\b/.test(text) && /randomi[sz](?:ed|ation)/.test(text);
+    const assessment=record.paperTrustAssessment;
     const metaAnalysis = /\bmeta\s*analy(?:sis|ses|tic(?:al)?)\b/.test(text);
-    return !kind || kind === 'trial' && trial || kind === 'double-blind' && trial && /double\s+(?:blind|mask)/.test(text) || kind === 'single-blind' && trial && /single\s+(?:blind|mask)/.test(text) || kind === 'meta-analysis' && metaAnalysis || kind === 'review' && (/review|synthesis/.test(text) || metaAnalysis) || kind === 'animal' && /mouse|mice|\brats?\b|\bcells?\b|in vitro|animal|fibroblast|rhesus/.test(text);
+    const review = /\breviews?\b|\bsynthesis\b/.test(text) || metaAnalysis;
+    const trial = assessment ? assessment.randomizedControlledTrial===true : !review && !/\bnon\s*randomi[sz]ed\b/.test(text) && /randomi[sz](?:ed|ation)/.test(text);
+    const blind = assessment?.blinding;
+    return !kind || kind === 'trial' && trial || kind === 'double-blind' && trial && (assessment ? blind==='double' : /double\s+(?:blind|mask)/.test(text)) || kind === 'single-blind' && trial && (assessment ? blind==='single' : /single\s+(?:blind|mask)/.test(text)) || kind === 'meta-analysis' && metaAnalysis || kind === 'review' && review || kind === 'animal' && /mouse|mice|\brats?\b|\bcells?\b|in vitro|animal|fibroblast|rhesus/.test(text);
   }
   function matchesTopicTrust(record, score, collection = 'all', topic = '') {
     return !score || record.topics.some(t => (collection === 'all' || t.collection === collection) && (!topic || t.key === topic) && t.trustScore === score);
@@ -58,5 +67,5 @@
     const value=jadadStatus(record);
     return !selected || selected===value.status || /^[0-5]$/.test(selected) && value.status==='assessed' && value.score===Number(selected);
   }
-  globalThis.UniversalResearchModel = {journalKey,citationNumber,maximumCount,identity,uniqueCount,deduplicate,statistics,matchesStudy,matchesTopicTrust,jadadStatus,matchesJadad};
+  globalThis.UniversalResearchModel = {journalKey,citationNumber,maximumCount,identity,uniqueCount,deduplicate,statistics,matchesStudy,paperTrustScore,matchesPaperTrust,matchesTopicTrust,jadadStatus,matchesJadad};
 })();

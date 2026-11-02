@@ -1,0 +1,181 @@
+{
+  "repository": "https://github.com/universalmindpbc/u-n-i-v-e-r-s-a-l-i-n-f-o-r-m-a-t-i-c-s",
+  "main": "7d89224d2caca17debcd8170a1873a488d5af82a",
+  "branches": [
+    "main"
+  ],
+  "stagingBranchExists": false,
+  "releaseObjects": 0,
+  "importedSourceCommit": "a18a06fa8793d50e51caf2b24bc58cc4babe9de4",
+  "treeEntries": 5144,
+  "treeTruncated": false,
+  "canonicalDestinationUserSupplied": true,
+  "deploymentOwnership": "Dedicated repository AGENTS.md and docs/ARCHITECTURE.md explicitly retain integrated workspace and Panthur scripts until separately authorised migration.",
+  "criticalPaths": [
+    {
+      "path": "AGENTS.md",
+      "remoteBlob": "e255740b3bef3f1347112ebdc5857cdbca89e51b",
+      "deploymentBaselineBlob": "31531bd371960d4f68e13a5be11497b17ef489ad",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "Informatics/library.js",
+      "remoteBlob": "95e470e75738740cf99295bda264c1cbbb0f1f6a",
+      "deploymentBaselineBlob": "2cd080247c52210724dd7c6fdf5f3f1f85cc2e1f",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "Informatics/library-model.js",
+      "remoteBlob": "9623710c3abba91047dbd0598067ee72a997ff6c",
+      "deploymentBaselineBlob": "48472114a53f16a1f78f7bc4af48458c8d73968d",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "Informatics/library.html",
+      "remoteBlob": "300f05610897678ec9bd4b4ed451ef4eba9f587e",
+      "deploymentBaselineBlob": "923c21b46875f87d6914bc64cd04be2a8b0a8010",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "Informatics/library-data/library.json",
+      "remoteBlob": null,
+      "deploymentBaselineBlob": "433e88b809757b45f0cc716c5e7f719ee27c7c85",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "Informatics/library-data/vision-expansion.json",
+      "remoteBlob": "cc8e39a96962d19466d73d05284338fa89b1720a",
+      "deploymentBaselineBlob": "95e6de838ab51723510a9334b8c9e7f431c07b0d",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "Informatics/library-data/mindfulness-expansion.json",
+      "remoteBlob": "da40202c915db2f76898da722e2850d8b6551ca8",
+      "deploymentBaselineBlob": "62ad731f03d88daaf5fe2222cf3555f7feb3cf8a",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "Informatics/library-data/nature-expansion.json",
+      "remoteBlob": "606d2caa054cbc311dd3d7e52b4316210c951a1a",
+      "deploymentBaselineBlob": "570858d09ef75ee9e6c66ad82f667fb1a18a78de",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "Informatics/library-data/fibonacci-expansion.json",
+      "remoteBlob": "2848e592940c3222bd5de1a6c547bb84a13a89d9",
+      "deploymentBaselineBlob": "6598b9d9becafb9ff5490cea061938669153a722",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "Informatics/library-data/hyperspectral-expansion.json",
+      "remoteBlob": null,
+      "deploymentBaselineBlob": "ac6d825ca5eeabf9460875ca270a17ea4187cfc1",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "Informatics/library-data/domestic-violence-expansion.json",
+      "remoteBlob": null,
+      "deploymentBaselineBlob": "8a4b18884be1254a67c7db9158a0ce4e36178ab0",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "Informatics/library-data/age-index.json",
+      "remoteBlob": null,
+      "deploymentBaselineBlob": "4c87b80fd32c8907d9df15729f91d45e07453577",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "Informatics/library-data/community-index.json",
+      "remoteBlob": null,
+      "deploymentBaselineBlob": "fe282ff67ec961cd7ff8b8ed85504bc72f0713b1",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "tools/build-informatics-reading.mjs",
+      "remoteBlob": "c55675fdc757ff8c82acd45f2a888293a74fe605",
+      "deploymentBaselineBlob": "2620528f6aafaccc877ab3a61b4738da28e7a0cd",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "tools/build-age-index.py",
+      "remoteBlob": null,
+      "deploymentBaselineBlob": "d563be2092c89103e31aceac8a8a12543f832948",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "tools/build-community-index.py",
+      "remoteBlob": null,
+      "deploymentBaselineBlob": "575a3b969f7fd3af30b39ca45c8c046e8dc40b68",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "tools/research_topic_trust.py",
+      "remoteBlob": "7a2eaf7eb1a4f096c0dfae3d081d8a0a55df9d9e",
+      "deploymentBaselineBlob": "4331fe4bc5b1f1c59c99296a37138b1c906d145a",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "tools/research_paper_trust.py",
+      "remoteBlob": null,
+      "deploymentBaselineBlob": "d880192e9d67bbf25a9dad5a8c21e278130ccb0a",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "cloudflare/informatics-research-worker.js",
+      "remoteBlob": "3a935184fce143e989f56734a6194d9aacb34a90",
+      "deploymentBaselineBlob": "7dcd5b1c7c7595ad6c94f2859988a89e66524652",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "cloudflare/informatics-research-navigation.js",
+      "remoteBlob": null,
+      "deploymentBaselineBlob": "5ca79a4ebf5ccadffe03720fe91600fab392627b",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "cloudflare/informatics-dv-knowledge.js",
+      "remoteBlob": null,
+      "deploymentBaselineBlob": "fe32a8ccaf24bee6a1ee4fd87a94b1120274ebdc",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "site-navigation/portals.json",
+      "remoteBlob": null,
+      "deploymentBaselineBlob": "b4a1e596ba5d0f62bfd3cd946d038372b3ea515a",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "tools/build-portal-navigation.py",
+      "remoteBlob": null,
+      "deploymentBaselineBlob": "0481179c21514db0a9d8524d0ca6be599e414b37",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "deploy-panthur-staging.sh",
+      "remoteBlob": null,
+      "deploymentBaselineBlob": "91d0838fb1733d39f4f7485ec9a94d41bcef168d",
+      "matchesDeploymentBaseline": false
+    },
+    {
+      "path": "deploy-panthurlive.sh",
+      "remoteBlob": null,
+      "deploymentBaselineBlob": "b74af45020f724e2b3b42155c7c86842e34c4323",
+      "matchesDeploymentBaseline": false
+    }
+  ],
+  "handoff": {
+    "threadId": "01a19041-e26c-7b51-ab88-39253a76a2cf",
+    "title": "Add Music Atlas measurement architecture",
+    "requestId": "youth-informatics-destination-20261102",
+    "deliveryConfirmed": true,
+    "replyPending": false,
+    "replyReceived": true,
+    "receipt": "release-thread-handoff.md"
+  },
+  "actions": "Read only. No remotes changed, no content transferred, no pushes, uploads or deployments.",
+  "localGraphReportsImportAncestor": false,
+  "ancestryLimit": "A negative local ancestry result is not proof of unrelated history; this mission clone may have shallow boundaries. The dedicated repository documentation explicitly identifies the imported upstream source.",
+  "importIsShallowGraph": true,
+  "dedicatedSnapshotCriticalPathsAbsent": 14,
+  "migrationAssessment": "Do not change the existing mission remote or replace the latest deployment tree with the older dedicated snapshot. Preserve the scoped integrated candidate. A future explicitly approved dedicated repository branch needs an exact path/dependency synchronisation and receipt linking both commits, while retaining original import provenance and governance. Deployment ownership remains integrated under the dedicated repository instructions."
+}

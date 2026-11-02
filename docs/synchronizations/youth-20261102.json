@@ -1,0 +1,2147 @@
+{
+  "schemaVersion": "informatics-source-synchronization/v1",
+  "date": "2026-11-02",
+  "integratedRepository": "https://github.com/universalmindpbc/u-n-i-v-e-r-s-a-l-m-i-n-d",
+  "integratedSourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+  "integratedBaseline": "fcb07c7cd1f7cdf284ac4ebbe29871fc08daf214",
+  "dedicatedRepository": "https://github.com/universalmindpbc/u-n-i-v-e-r-s-a-l-i-n-f-o-r-m-a-t-i-c-s",
+  "dedicatedBaseline": "7d89224d2caca17debcd8170a1873a488d5af82a",
+  "dedicatedBranch": "research/youth-20261102",
+  "productionChanged": false,
+  "deploymentOwnership": "Integrated Universal Mind repository; Panthur staging only",
+  "preservedGovernanceSHA256": {
+    "AGENTS.md": "737988d86a5b68b644adf0b7a2933ad24703516e9ff3d0e849cf554f7fa969d9",
+    "README.md": "573f150039115cf2fbce5953ce59a38463cb105a6af48c7157e11eab7c34b1f6",
+    "LICENSE": "94d630a772e1fbcbf06e585848e4db8ddb34ccb47b118d679ac3e4574b6f400f",
+    "docs/ARCHITECTURE.md": "a07e09cc3788e7dadb17f04dacf05b3a8b3364ec5e14ce4d7935da571313c580",
+    "docs/VERIFICATION.md": "7c5f6bcd6ffaff7644416d3bc98c6dbb707436e0f62743e4d468afbdd73d1991"
+  },
+  "files": [
+    {
+      "path": "Informatics/chapters/research.html",
+      "bytes": 68127,
+      "sha256": "467e9ed5aab48a8fe50b0beda28e7a9ed00d0ffbb053f604985ddfc48b2d2514",
+      "gitBlob": "2def348cf46e6248ff66c5c0f080ed83700d6ef9",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/exports/manifest-4236ba3449732c396c297767fd618c7b5c8f2245b828b5b7b4238b21ad48509c.json",
+      "bytes": 2398520,
+      "sha256": "96daa1a6df0744871dc70089e7621676faf7220d46c405e0c2a749df20694182",
+      "gitBlob": "4daf1fcde046d829e03c77b05f7832c3f9fa7e06",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/exports/manifest.json",
+      "bytes": 2398520,
+      "sha256": "96daa1a6df0744871dc70089e7621676faf7220d46c405e0c2a749df20694182",
+      "gitBlob": "4daf1fcde046d829e03c77b05f7832c3f9fa7e06",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/exports/part-0c1e32a7548ca99ac0476ddaac2b36601f5fa87ce0652a3d1e5729e03b60e4b2.bin",
+      "bytes": 50331648,
+      "sha256": "0c1e32a7548ca99ac0476ddaac2b36601f5fa87ce0652a3d1e5729e03b60e4b2",
+      "gitBlob": "eee1d2ea464685f3ac9a5fd22a4c7bd9a2443325",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "upstream-generated-asset",
+      "reason": "Complete export fragment retained in exact integrated source"
+    },
+    {
+      "path": "Informatics/exports/part-1532c18bac72721caf5ea094a966e006d580eb3b586e5984b16dc4bfaf76bcc8.bin",
+      "bytes": 50331648,
+      "sha256": "1532c18bac72721caf5ea094a966e006d580eb3b586e5984b16dc4bfaf76bcc8",
+      "gitBlob": "50dc5af328a7fb1759b14dd375369a1b4368639b",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "upstream-generated-asset",
+      "reason": "Complete export fragment retained in exact integrated source"
+    },
+    {
+      "path": "Informatics/exports/part-1e867c119a4037018f97809bfc3587e88d7d7a5187c5fd33b62130dafcfea924.bin",
+      "bytes": 50331648,
+      "sha256": "1e867c119a4037018f97809bfc3587e88d7d7a5187c5fd33b62130dafcfea924",
+      "gitBlob": "31fa830d437c0d2a560e94a62045d760fac42053",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "upstream-generated-asset",
+      "reason": "Complete export fragment retained in exact integrated source"
+    },
+    {
+      "path": "Informatics/exports/part-cb73f2a163612cb49a9f72a33ff074443285d749c3151e508b4d0aeb71cc6d69.bin",
+      "bytes": 30929466,
+      "sha256": "cb73f2a163612cb49a9f72a33ff074443285d749c3151e508b4d0aeb71cc6d69",
+      "gitBlob": "8e45792669b8a130513bea947e68c10891f07bef",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "upstream-generated-asset",
+      "reason": "Complete export fragment retained in exact integrated source"
+    },
+    {
+      "path": "Informatics/exports/part-e51a2bfce535b3df0d84b5759f23aae4e598a7e52fd98fd14ecb9438ba2efe68.bin",
+      "bytes": 299859,
+      "sha256": "e51a2bfce535b3df0d84b5759f23aae4e598a7e52fd98fd14ecb9438ba2efe68",
+      "gitBlob": "02e99b7d078e620c930c4adfd9a42b075a47d0da",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "upstream-generated-asset",
+      "reason": "Complete export fragment retained in exact integrated source"
+    },
+    {
+      "path": "Informatics/exports/part-fea556eba63978189541ceedf4b239a95c1a0cde3e39961aba9de957f217eb0c.bin",
+      "bytes": 50331648,
+      "sha256": "fea556eba63978189541ceedf4b239a95c1a0cde3e39961aba9de957f217eb0c",
+      "gitBlob": "b5535a3c1358f47815644630a2104cc08cfbd8b3",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "upstream-generated-asset",
+      "reason": "Complete export fragment retained in exact integrated source"
+    },
+    {
+      "path": "Informatics/global-navigation.js",
+      "bytes": 1623,
+      "sha256": "4493d996184ac5a539d93cd2ea924a7cc309f0250ede87979bc23f3ada2e84f2",
+      "gitBlob": "12a93a227f60003feca22caadfce02e564593a99",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reader runtime dependency",
+      "previousSHA256": "a08ff7aea8557d4eef355941e5d4735107a828fbaeb272b2ba1c5e9b66d81b27"
+    },
+    {
+      "path": "Informatics/library-communities.js",
+      "bytes": 1438,
+      "sha256": "6bf513a461b401ae70b2541662399623608bf8f2c5ae40d60d914eec3b1bd936",
+      "gitBlob": "57830119176d1b8ebd775b0dd3991860b2abb2d7",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reader runtime dependency",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/library-data/age-index.json",
+      "bytes": 474774,
+      "sha256": "2757cd5918c305cb200fa4884a5bffc83a941fcec09c188db1c60f9cd1c54022",
+      "gitBlob": "e27ab2d0585da5679f2be73c68c9764ef0780c72",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Current reader corpus and index dependency; preserves existing approved work",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/library-data/clinical-conditions.json",
+      "bytes": 137704,
+      "sha256": "72d41ef50d5718e18152fa6ff280f8bccc59855aef47ee578a46da718eaf4040",
+      "gitBlob": "7fd905aeb81b9bc0db83531e8e7131235dbb33fb",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Current reader corpus and index dependency; preserves existing approved work",
+      "previousSHA256": "72d41ef50d5718e18152fa6ff280f8bccc59855aef47ee578a46da718eaf4040"
+    },
+    {
+      "path": "Informatics/library-data/community-index.json",
+      "bytes": 154657,
+      "sha256": "72c340e2f23ac3e85f87a13d645cd4daa6f556b2eaaffb931b687cd4627fec9a",
+      "gitBlob": "de46b6b419cf9c700e53f72c344456057a60e159",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Current reader corpus and index dependency; preserves existing approved work",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/library-data/domestic-violence-expansion.json",
+      "bytes": 4794015,
+      "sha256": "6fdae7a666a8199ebd245580dbf831a5feb605afeefe71cff4562d226bc930bf",
+      "gitBlob": "8a4b18884be1254a67c7db9158a0ce4e36178ab0",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Current reader corpus and index dependency; preserves existing approved work",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/library-data/fibonacci-expansion.json",
+      "bytes": 187440,
+      "sha256": "4dec7704e4b0061d37c6164be4221a97e14c666726164ce522bfb23a84d5340a",
+      "gitBlob": "6598b9d9becafb9ff5490cea061938669153a722",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Current reader corpus and index dependency; preserves existing approved work",
+      "previousSHA256": "3c0926d690776962d2525e0f4e30b2349aeb14a8d70a2027b2ce2cefc3a20599"
+    },
+    {
+      "path": "Informatics/library-data/fulltext-availability.json",
+      "bytes": 193506,
+      "sha256": "faa1f05a9ea305479c135857000799b727001dd09f41183a4a25a01f1660dfe2",
+      "gitBlob": "658c1d7463a6eed926a66d916496c5bab62963b9",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Current reader corpus and index dependency; preserves existing approved work",
+      "previousSHA256": "faa1f05a9ea305479c135857000799b727001dd09f41183a4a25a01f1660dfe2"
+    },
+    {
+      "path": "Informatics/library-data/general-edition.json",
+      "bytes": 1595658,
+      "sha256": "c0ce0dde985c954f18f29e58f899c192a67861652d12c3b168415a69e46c537c",
+      "gitBlob": "606a022e7b5f2ebdc2cf899d74c27a7502e5850a",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Current reader corpus and index dependency; preserves existing approved work",
+      "previousSHA256": "3c2672d0d4c865d2f97b1fe55bed99be85b829f317f07249411a2af3bf7a0e06"
+    },
+    {
+      "path": "Informatics/library-data/hyperspectral-expansion.json",
+      "bytes": 817793,
+      "sha256": "7c40d251a8f3055c8d36fcac7e6596f51f469ff1a713b02a8978544bee4fdc4a",
+      "gitBlob": "ac6d825ca5eeabf9460875ca270a17ea4187cfc1",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Current reader corpus and index dependency; preserves existing approved work",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/library-data/language-edition.json",
+      "bytes": 864923,
+      "sha256": "b75953821a14dd5d816280fdd17957ca89d3d5dc2a88eb2639828b9a240c82be",
+      "gitBlob": "a176dc9cb408e72b0a10031a8538fe485bb523b0",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Current reader corpus and index dependency; preserves existing approved work",
+      "previousSHA256": "9a5a390d836d369786d76be3dc3b07f5e3eb6597acc0d3f7ee2f665f8a2e8060"
+    },
+    {
+      "path": "Informatics/library-data/library.json",
+      "bytes": 3964374,
+      "sha256": "9e8c73b42c5cb5cf04250910279d93ba58b3504a6230aac5020a6c1b0cb0698d",
+      "gitBlob": "433e88b809757b45f0cc716c5e7f719ee27c7c85",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Current reader corpus and index dependency; preserves existing approved work",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/library-data/mindfulness-expansion.json",
+      "bytes": 78366,
+      "sha256": "52f669b3b56269d9d68333169edbad313733ff838963adafbc9d3b246e0da2c2",
+      "gitBlob": "62ad731f03d88daaf5fe2222cf3555f7feb3cf8a",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Current reader corpus and index dependency; preserves existing approved work",
+      "previousSHA256": "0e933eafe764d5a21f92bde5c712e8871b70a7b490598600af5e7b69e2cb28f7"
+    },
+    {
+      "path": "Informatics/library-data/nature-expansion.json",
+      "bytes": 111315,
+      "sha256": "f7072ca98ea93b9b751d7d11d4fdf6002a83caaa06c7f46310b79f50db430ba8",
+      "gitBlob": "570858d09ef75ee9e6c66ad82f667fb1a18a78de",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Current reader corpus and index dependency; preserves existing approved work",
+      "previousSHA256": "acf88b25054e81b38d5ffcb8a59be1586e2f98776db0c5ce52c794db18a58fc7"
+    },
+    {
+      "path": "Informatics/library-data/publication-access.json",
+      "bytes": 328554,
+      "sha256": "09941fafec05492b5b154006aa237069f9c6c276eb38735bf9913c7ea80418ca",
+      "gitBlob": "68307db095dc32bbcaf2dbbbdc3b3fa4ffd393e1",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Current reader corpus and index dependency; preserves existing approved work",
+      "previousSHA256": "b6bab65cab09030fc0dcb2bbaf0da58e2c762a30912bffc48fef0b7cfa0327d7"
+    },
+    {
+      "path": "Informatics/library-data/sound-edition.json",
+      "bytes": 740914,
+      "sha256": "45cca9765db111a9572a5b4e979a01fed477f5065f78fd43e0df49693a11baa3",
+      "gitBlob": "ae14c2809fb4cb10b67e605eae99d0bbe4291249",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Current reader corpus and index dependency; preserves existing approved work",
+      "previousSHA256": "2fc945cbe83f1627dc4c9bb05ae7b8855199ce04178171ee01a57ef6818ee568"
+    },
+    {
+      "path": "Informatics/library-data/vision-edition.json",
+      "bytes": 366149,
+      "sha256": "72b7f957c48b7db15ef18a13ae70883a816dc946c0f1c480d2873ca84bca1577",
+      "gitBlob": "e38a02d321c06d301f860c59b03bb3c06093f4fe",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Current reader corpus and index dependency; preserves existing approved work",
+      "previousSHA256": "e7964a11f99c4f3cde3883f5b47f20d355da903160c8cfd83c3e97394b9a9897"
+    },
+    {
+      "path": "Informatics/library-data/vision-expansion.json",
+      "bytes": 258440,
+      "sha256": "c1aa46b0b6df3916009e60f912f762081869be97fa79b2729380dc74291d2358",
+      "gitBlob": "95e6de838ab51723510a9334b8c9e7f431c07b0d",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Current reader corpus and index dependency; preserves existing approved work",
+      "previousSHA256": "667923535bb06a96d7a217f992e98f1f47475859b70e497bfca50a76fd270c4b"
+    },
+    {
+      "path": "Informatics/library-data/youth-expansion.json",
+      "bytes": 5700150,
+      "sha256": "e7fb31adfa8b99fbcc97008e0607f3f7dceda8aad8be3ee35a21bcb0155133cc",
+      "gitBlob": "6aad1c1f51e5104a721833996db2fc334cefe1f4",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/library-model.js",
+      "bytes": 5864,
+      "sha256": "00df8dc93a90a09af387c5f32830d1dc3f4b994b1941b7cb066e898b56934841",
+      "gitBlob": "48472114a53f16a1f78f7bc4af48458c8d73968d",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reader runtime dependency",
+      "previousSHA256": "e565f7a479f36b6afcc26b5d24d761e1ddbe271c7bc3b7aed1d3f962325e23ae"
+    },
+    {
+      "path": "Informatics/library-multiselect.js",
+      "bytes": 4975,
+      "sha256": "db8347e6f62eacf2de5be242fb8772a1d75a69414e990197ef845c4fafc9a470",
+      "gitBlob": "6b43a9ba97fa4eb1ffb260c8fabf0c6fd3704491",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reader runtime dependency",
+      "previousSHA256": "fe821d9440a04ad19d0216f1058224155a96243d76371bfe3c415d0479e94108"
+    },
+    {
+      "path": "Informatics/library-navigation.js",
+      "bytes": 2711,
+      "sha256": "b7a5d9a42be48e4b425697f31cf0114972cf825974f4ebde3bcc676c410adb22",
+      "gitBlob": "e3b0caf4be9b60d48c3c41e2d7d5af5bf6af2a7d",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reader runtime dependency",
+      "previousSHA256": "b7a5d9a42be48e4b425697f31cf0114972cf825974f4ebde3bcc676c410adb22"
+    },
+    {
+      "path": "Informatics/library-theme.js",
+      "bytes": 4050,
+      "sha256": "f9595ab6810d7f41d64afc0d863514d2777248b6c93d99efd352d81fbc1c7f04",
+      "gitBlob": "560ef24dd0eac95cf459aa8764c19b0988b1a10f",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reader runtime dependency",
+      "previousSHA256": "f9595ab6810d7f41d64afc0d863514d2777248b6c93d99efd352d81fbc1c7f04"
+    },
+    {
+      "path": "Informatics/library.css",
+      "bytes": 29959,
+      "sha256": "4752f51f4cc3e5ff5527c7517b4562b02af30d22417228195a2e09cf49f9ab05",
+      "gitBlob": "3093fc59af61003a16de4b764a074cfbfb48d59d",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reader runtime dependency",
+      "previousSHA256": "fa53261889024631208f7e7279c87449489740647a26841eba54bf6ad8897d4d"
+    },
+    {
+      "path": "Informatics/library.html",
+      "bytes": 35721,
+      "sha256": "fd996f6e681f8435eb059ab382e51ee96b7cfeb975b780bd865ef8c044f498f5",
+      "gitBlob": "bd04f673fb862c5bc69f57a84e41ff3eaeed0a65",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": "6b2346be0c6b82906c11e6f8652ecf5b17fe32cfdc870cf191317372ca2fe36c"
+    },
+    {
+      "path": "Informatics/library.js",
+      "bytes": 52801,
+      "sha256": "7b63f94749451df6a8e02cc984f0961990e00a9bddfee223f94ef227bc85e862",
+      "gitBlob": "52f65087955a6e28511f17cadad0797d90df1ee7",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reader runtime dependency",
+      "previousSHA256": "a54d471e2fd19833fd6833046f293797cfd4b6daec4dd263b78b16477eca308b"
+    },
+    {
+      "path": "Informatics/llms.txt",
+      "bytes": 7473,
+      "sha256": "2bcead2a2a3276d2548146442758f8928792e501123899bcdce1040df11f1962",
+      "gitBlob": "c696a351ff851f7612d78fc91a009bd4a072c8da",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": "2c8ab1532424ea20904e9076c46a52c91e1d1b7a2265b92f964828eb28f7556d"
+    },
+    {
+      "path": "Informatics/page-markers.css",
+      "bytes": 515,
+      "sha256": "9a3d6808a97551225776eb2e80543651f4e5aecefb93ac5b74f63fd90ad5b03a",
+      "gitBlob": "52413431e0851dee4dc7b689d6d93ccdf50775ee",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reader runtime dependency",
+      "previousSHA256": "9a3d6808a97551225776eb2e80543651f4e5aecefb93ac5b74f63fd90ad5b03a"
+    },
+    {
+      "path": "Informatics/quantum/data/execution-timing.json",
+      "bytes": 5177,
+      "sha256": "5712bf3ff59c7f1fcda773c5da076bc042498da2dff34a584c3e353747ac000b",
+      "gitBlob": "3dbcf5db18c740c6c3db6f58525bfd90acd70598",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": "5712bf3ff59c7f1fcda773c5da076bc042498da2dff34a584c3e353747ac000b"
+    },
+    {
+      "path": "Informatics/quantum/data/oxtr-next-test-evidence.json",
+      "bytes": 1864,
+      "sha256": "6741d032ea6058f0d66a6d1ecf7e35823f5d4701914a39d50c06993003549a76",
+      "gitBlob": "5075425cfce701fdc69dcbd4dfeec9dc3bcfdd77",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": "6741d032ea6058f0d66a6d1ecf7e35823f5d4701914a39d50c06993003549a76"
+    },
+    {
+      "path": "Informatics/quantum/data/oxtr-qrc-qualification.json",
+      "bytes": 49443,
+      "sha256": "9fe40670c064ca9f3d2bc76f6b73a99311421b4939a885a178124e1e71881544",
+      "gitBlob": "c5bf16f908d079cecae8ee658e5882224db5560c",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": "9fe40670c064ca9f3d2bc76f6b73a99311421b4939a885a178124e1e71881544"
+    },
+    {
+      "path": "Informatics/quantum/data/oxtr-qrc-study.json",
+      "bytes": 20771,
+      "sha256": "2e69559c1b034cf206626490a3a278ef1d8e1d9b3a727d0a57aa0c4d977c140e",
+      "gitBlob": "5001c52ce9cc3d9fe45951d0e88d29e92a959451",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": "2e69559c1b034cf206626490a3a278ef1d8e1d9b3a727d0a57aa0c4d977c140e"
+    },
+    {
+      "path": "Informatics/quantum/experiments/index.json",
+      "bytes": 1887,
+      "sha256": "1d6f1cfe66fcd27c97f1a41b5e5ccb53a24d3096151fd832d1c241a803f0e4db",
+      "gitBlob": "fb049f38a625b1df361721af7c1b59d2b504c43a",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": "1d6f1cfe66fcd27c97f1a41b5e5ccb53a24d3096151fd832d1c241a803f0e4db"
+    },
+    {
+      "path": "Informatics/quantum/experiments/oxtr-agent-follow-through-pilot/r1/experiment.json",
+      "bytes": 843753,
+      "sha256": "adc1914cac349c28afc5f4d8c72dbddf80f38063ab1bef3e93e21cea8d415876",
+      "gitBlob": "12c56f33039de1bbafb782764244240a127366b9",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": "adc1914cac349c28afc5f4d8c72dbddf80f38063ab1bef3e93e21cea8d415876"
+    },
+    {
+      "path": "Informatics/read/data.html",
+      "bytes": 183526,
+      "sha256": "ebdaa4522db5971b1bf3f2f924c19b3151e433458327aa4b3c304bb6765a151e",
+      "gitBlob": "7fc5133e830d0ccc0cf1d07d5c31b82c94d2c681",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": "0b7c617bcbfad07213105a4a1fc8ef4c76a2333de9a0e89e2cbde1df6e583df1"
+    },
+    {
+      "path": "Informatics/read/index.html",
+      "bytes": 9015,
+      "sha256": "c5c9a57f9c12cefd0b299a3ae7faceac684a234fdf574c4a4aa892ab64940d81",
+      "gitBlob": "e0a145c1f5131461094fe1755aef23392f0898e0",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": "b390d677d52cb33101bb4c80a8cf03e28167fac653bcb124bbca79f0ebcc7324"
+    },
+    {
+      "path": "Informatics/read/publications/index.html",
+      "bytes": 331350,
+      "sha256": "5c9a7079db6d9f8f2bf0d72fef41c0b20acded5e236623b23dfa25052174a01b",
+      "gitBlob": "98941b5e27e1cb995bf9c3d720a4262576def361",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": "25c3c8fbc1f430f1735e97ecb5d92bdd7bceb387da8c7c0b4c2e885bb069c12b"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-29422189-4e33115a.html",
+      "bytes": 87485,
+      "sha256": "3a66527514d4c35c08668ad31bf0db14489d41fa44e1c414842297f3d360db10",
+      "gitBlob": "b2ab8855b653f63cec327c6c1cfe2b32786f16d7",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": "a5201f53cd7e83fae68ce8dc089bab5bed303c78e520ed5094d05e10d5385aa1"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-40243164-13a606b4.html",
+      "bytes": 84525,
+      "sha256": "95c053ac7884e19fc894474ddce26cf7922473151c4cc80cb14ca3291d7a4e5c",
+      "gitBlob": "ad0d8acd52643d79612066643324ab367ebaf937",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": "da4515961e0eb86b8fea8b0966e0806a06840ccbbdffbd8e6ea1e8884bdc3cbe"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-41340540-2aebfe07.html",
+      "bytes": 84788,
+      "sha256": "04a73670cad38a0daf5bec5ed3192a565d1f78f0e3265338f09bfc1bcb0216f6",
+      "gitBlob": "339096c6923003a22695de0faf35fc95e865eabc",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": "c09932779f1f526a9c795a80df5e16f5bd5ded6353c2d260d4ed9aeb199a6838"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-42324567-01929af4.html",
+      "bytes": 134132,
+      "sha256": "77fead35ba9c70152d10274a02032b706f2dea55fb6dead225fee18b57bf7f30",
+      "gitBlob": "6b2d4c569119e4cdc2c62ad71c9cb38f0a40b19f",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": "caf2639340e8e12f9a5ba641985abcb06dfc994b1250647075d6d7e96c092a55"
+    },
+    {
+      "path": "Informatics/read/publications/src-56e515aacddb-e418b3c8.html",
+      "bytes": 90948,
+      "sha256": "f7860edb4bacc01a2f2060ec97f7a5f7c2f00efdc51ccfa9fd4422833b6aa19d",
+      "gitBlob": "d01a929e362bfa3b49a268f7712a1414bbaf693e",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": "b0580c28e4b689101580f1d3f365b54d1e53911609a62d879af68bbdaf95085a"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-21192795-129a37f4.html",
+      "bytes": 56323,
+      "sha256": "712e2f694b7feb75bec2286a9bffeb55289d3e112a7f47f96f8eaf6ffda66152",
+      "gitBlob": "e5c0c2d70e9b9b3f6e484ae839094fc4fdb84a2f",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-21559213-a8b55a33.html",
+      "bytes": 57739,
+      "sha256": "8d954b83da38f923739a84a1e432c5c77c516809461f32ddaf50e5a7ffc1f8bf",
+      "gitBlob": "fed3a4bb4f73a98bee010fd56ce0bab7419f279c",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-22799879-4a5a1861.html",
+      "bytes": 63076,
+      "sha256": "2ca0d5d3ea1efe2173b4feeb032db3c952e308aecfe5a2e49d8dc3068ea6baa5",
+      "gitBlob": "4dd9ec60cb37c91a3c67e9be3256ceee29db8d97",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-22893815-ba0b1e61.html",
+      "bytes": 57691,
+      "sha256": "5deab508d567462941a6c171729d5c25ec4213a048d265e40d46db5916317598",
+      "gitBlob": "32ebce866fb4033ae1a975721ebed6debcb40d6b",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-24499130-b02ba181.html",
+      "bytes": 58322,
+      "sha256": "c6206a8506aa54651fa986d168c3ae17c4b69f4f57220afbd5a9cd1bdf156ee0",
+      "gitBlob": "9439efefccdecd2d7c564d63958c5051e7105a5c",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-24901900-ff07c900.html",
+      "bytes": 78128,
+      "sha256": "bc5bc80422098bf43f0a1a62d7a08e1e927ce3c50fb007fe18513d25b7c3e36e",
+      "gitBlob": "8e01a05d1e14f588464139d295466cc5c0393678",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-25537785-83a4bf39.html",
+      "bytes": 80029,
+      "sha256": "a36803bfd521fbd8db2a6ee98838ed08bc037286604e3d3971222c3b82d54d1f",
+      "gitBlob": "94f7fc46e3edc5f057a4017fc60718c26f1d5170",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-26220564-d2885258.html",
+      "bytes": 81069,
+      "sha256": "fd4423ff3805a9ef7fd41004f79fa5e968bbe1f9d40a923458f1147a8d21935e",
+      "gitBlob": "2726eec5a0f81c4b2e1cef8dca3cabbc11b03b2a",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-28330831-623c1ff1.html",
+      "bytes": 56339,
+      "sha256": "25a3176e941c185d5745c40ae3ed321a0a312a24a84eb14a1af367d1f348d370",
+      "gitBlob": "870aab92e1181f168c9dadadd239e8a3d7fa14ba",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-29066991-f2320d8a.html",
+      "bytes": 63068,
+      "sha256": "7fd82aaaed165c1e52e1b4cae1cc94912f8547ccd027be3da17972ea9e942360",
+      "gitBlob": "481397618cb59277d67c1019aa778f24afec8fd1",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-29144545-e5528bd9.html",
+      "bytes": 61021,
+      "sha256": "492903e4bed538ebaebd32da4221bb2b38d27d1a5cba591c180428cc03a14472",
+      "gitBlob": "608dd9a7e9d59acf07a6aae6d9c1353fd5d38393",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-29622047-74c84473.html",
+      "bytes": 76177,
+      "sha256": "6da8723deebadffdf58024b85b0832ab1275073ad259583819992507831b0ff2",
+      "gitBlob": "d36284751c5c2b09b2492cdf92a9a6b626542a4f",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-30345511-5a2de9cc.html",
+      "bytes": 59989,
+      "sha256": "43f6bcd3fc529feef0a749d0a10bbf1612bc04fa00b99d23e9d347d1c094ba90",
+      "gitBlob": "c968f5dca63c270b453c30e6082b51aa79d32d0c",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-30622094-df06e3d2.html",
+      "bytes": 75425,
+      "sha256": "ea6f730d26d75e505889261fdd17eac76cfbfc97c131b05168b65c5792130d83",
+      "gitBlob": "3e584f17b4ceb2ded423adc427b87d8fd2d5ec53",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-31068842-d26b2ef3.html",
+      "bytes": 83217,
+      "sha256": "7d55c89dd82b4113c1c063bb30fc4853d8fc5062bff0b2895f1f1bbd973f11fc",
+      "gitBlob": "dd876d450d0bb9dc8bf57cbca7b96e56cec83237",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-31237569-503a5706.html",
+      "bytes": 78021,
+      "sha256": "3343c37901706c3b946ea62205089a6856441251c9a8c17d363ab8a175147a3d",
+      "gitBlob": "ea12074f8cede292dc48c9fec6ecf2d7179e7ec3",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-31333198-54db0c2a.html",
+      "bytes": 57837,
+      "sha256": "e259855c855b08b65c5849100b2bcc527fcb4003835dc693a8f20839ae444116",
+      "gitBlob": "b76059fe110100117d8c6f4a0df03ab159b7916f",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32074061-e89e9268.html",
+      "bytes": 58912,
+      "sha256": "4fa76e7e3117621cf7fd8bf968e996de421a34045744a1df4c053c14e8a30de7",
+      "gitBlob": "adaafbd7c3c5021c102bbf0c4346fbd146b83926",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32232017-3904e5b7.html",
+      "bytes": 59712,
+      "sha256": "d8b8b9a50a0181c12cd820d9ce4fadba45d3cb004fb920d3dc8003edfea7d96b",
+      "gitBlob": "fad56bcc23c30bd4fbb4f4cd769a8e88e08a79ff",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32442160-6a6f6953.html",
+      "bytes": 56301,
+      "sha256": "1987ee0c9255f54addd48aad5e5d344890033dc9c1d73cd1cf53bd232602011d",
+      "gitBlob": "914d18a1a002f00cbfd6cc037f7704dbaf2fa23f",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32504808-214018ee.html",
+      "bytes": 64979,
+      "sha256": "e5f607ff63a4d5b2741c102487a137f30ac2cf17301efbd5fe53537ed3d231f8",
+      "gitBlob": "e86ddcbbaf3b4dae9a6309d3ee2e2a9d01e4cc89",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32527236-faf66d27.html",
+      "bytes": 57416,
+      "sha256": "dccb37294377a367aac342da4abc360b00e53e2b4126ed2b3a22a3b6d9587b24",
+      "gitBlob": "a9b61dc3ead535dc891b25017732318c08801126",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32554380-4a7383ca.html",
+      "bytes": 67571,
+      "sha256": "f64916606d7d2d899fd8c2be3a1b2cf12aa6ed04bc4745d2a0a3bd8e4448c342",
+      "gitBlob": "270dcaefcd852cba296af407a4d978d696f869a0",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32572961-79283efa.html",
+      "bytes": 97162,
+      "sha256": "21e246578250f7e36f3382e8c70b862607a2703ba6d26b9002573e15742ade5d",
+      "gitBlob": "c09c5120b25beee049c0c49d6dffc0e19979b678",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32683737-98ab7056.html",
+      "bytes": 79578,
+      "sha256": "a50df2918212dd8ddcda1d8837ac1ffe92566dcf7b435f94a8ce4fe99e8416f6",
+      "gitBlob": "f77bb9e8509e0d158d77cdacac0b6ecff4a0f243",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32720904-c672a391.html",
+      "bytes": 75315,
+      "sha256": "a497a4b79b9d5fbafa6af32524978ae5663f7f837964bf65756dc935e8849f93",
+      "gitBlob": "f9906457e8c82fce0b9bbc26c92cda34a271f13d",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-33079071-1283aaad.html",
+      "bytes": 54622,
+      "sha256": "0126ba03910f7dc5fabf919c609732f01ba497c00aaa8cfabd50ed10561d911c",
+      "gitBlob": "88ec00d9105227f7eeb3fd210057f6423074993f",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-33264098-30d5a6f6.html",
+      "bytes": 66627,
+      "sha256": "88ba757278eedc79236d1b94eb12e121c29dd4fd444e9b8d67b2e2dc60a6af65",
+      "gitBlob": "1c536c84d2331b44c0dd302db367b1b7b855cd8d",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-33725578-bdc6aa3a.html",
+      "bytes": 78687,
+      "sha256": "759b1cdcc4f1cc6c030d03c3f6a07221bb78202a8b18ceb325c7800c93dec16b",
+      "gitBlob": "ac8d51d57793f52d1dd2abdfdd70d4ccc2c1224b",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34002511-f0ca9f60.html",
+      "bytes": 82611,
+      "sha256": "e5ee3aca9e1f5296d334549d1654319b315ea312218500bae3f68a743e537941",
+      "gitBlob": "679482f36b4b565a0132ee780dab46437905891d",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34021113-5fd90d04.html",
+      "bytes": 79336,
+      "sha256": "2fe816e08c6a4b2b4e2aaebfd5fb4576cef3b4d7c7f82498ffc567a04a5db058",
+      "gitBlob": "420703ae39582fa173354ffc86b2fb8cfdf0c910",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34040886-51a15518.html",
+      "bytes": 56075,
+      "sha256": "8af9cacbcbbabf858f4c478df8403f12d2c52340acb053ba002d3207922d71da",
+      "gitBlob": "59383ffe366acc407dedddc170850f5bd5a8df2a",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34294067-3b018ceb.html",
+      "bytes": 56382,
+      "sha256": "3ebf6228695461d93879af35df87c2c505509896f61d229eb5b4d8b0fede6e58",
+      "gitBlob": "5926da3e26f98478e07b2f2b59b5a1681b6a17c2",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34527971-f74b5982.html",
+      "bytes": 77729,
+      "sha256": "a3d456426513d58e5e2e48c1f307e54e6313d61331324423e4cf44014d33456f",
+      "gitBlob": "ef482007cb35366bcee6505537fb34e5021324f9",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34927592-54e7a6b7.html",
+      "bytes": 73262,
+      "sha256": "32845191b12efcc3f9a8e8cc9ce222d0cb654481b36d913b0416e95f56e71aba",
+      "gitBlob": "98b388534a0e1b991cadedd8269ab92237fbb19b",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34983460-0baa04d5.html",
+      "bytes": 76623,
+      "sha256": "e6d3f9e6b003f4b0d73c749cb1d9128a6619b3b6a6e4c65491049fca23b366b3",
+      "gitBlob": "7f9ecff699d6cbbaf61f790900565af80ad7bf36",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-35241174-d0beafd5.html",
+      "bytes": 80793,
+      "sha256": "03cb3caf391235d3250241a82d984294353b3c3648bb4ecdcb9237027d321d0f",
+      "gitBlob": "08eef0ab408acf98316236ad536d4395acb7371c",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-35544295-3e3eb3a1.html",
+      "bytes": 76977,
+      "sha256": "fd88cf4a00f463b43e1c4a7a5d519c3bfda12f315083d7d5455624ea42dc0ca5",
+      "gitBlob": "6c9d2337b7a7b9c381297d7ca12793bfac3a3be2",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-35820989-7404abf8.html",
+      "bytes": 58326,
+      "sha256": "642cad7e0ed7a929de911e5d8b9162c388d61692a8e37985fac5351c71069351",
+      "gitBlob": "7b6696e23f0fd9a77c4c75ec0f01ad18d697deca",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-35914112-8b1d3db6.html",
+      "bytes": 57083,
+      "sha256": "48205b9cf172767491cc2f1ae81f47ef2286db8c1c11e3c81cd8779bac399926",
+      "gitBlob": "5c769b3c527685107aa82cebd0613b0dbbca9d9c",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-35976180-5277d0bc.html",
+      "bytes": 79067,
+      "sha256": "60ec5e1880ba80e2a6ce49ec7b51da1866269311d0463c10fa81d4e7f4836fde",
+      "gitBlob": "52d7b643ad939b60605813d5293dd66d5cacdb4c",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-35980733-7db668c5.html",
+      "bytes": 75200,
+      "sha256": "5d7ad9d4e984bcc93efd06c346c22790d47477ec533ce2fc62f093750a94d78e",
+      "gitBlob": "2bf236e78ce5058be7b8399def8fc044e51ff907",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36186313-6c158baf.html",
+      "bytes": 60945,
+      "sha256": "a530c0111c99aeea3822ff642d1cb043f9f9d06d105699ce3d3e3d9279b543a7",
+      "gitBlob": "decc0aae283900173c3b83bda1df14e1a4038f9c",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36342533-f37fdd7f.html",
+      "bytes": 92351,
+      "sha256": "b32febecce6738bf3b936af88dbe26f19dbd8e106e902c90a03566048f22e24c",
+      "gitBlob": "0f2f7a9336535c17444e63b534d4024542ad854d",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36373473-5b004fe5.html",
+      "bytes": 82117,
+      "sha256": "fa94e48f1989156b35ef7cd336f3e7dbe6e98dd42eac88b3c668587b5778470f",
+      "gitBlob": "1f81b4609c889c94f555519391cbfe9ab31f1c08",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36407676-b9758061.html",
+      "bytes": 75484,
+      "sha256": "7ff6b3f9ac6c7fa4013dacc646f37f8af21da758d20688328fd3b084c747912a",
+      "gitBlob": "9f21d71bb67e521212378cf5973ec07d37d2c915",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36424575-73049d6a.html",
+      "bytes": 59757,
+      "sha256": "25e536386f2ac83c9125e19b39f8c4bf5d8caf8fc5b478c8bab68b847c27be41",
+      "gitBlob": "ce65058eff340e78fc543eed2a79590f55d676fb",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36596239-1a7eb279.html",
+      "bytes": 59311,
+      "sha256": "1ff51041842c952ec41bd79763fa05ed50be3bc8dd9986d9d7d709c95255660a",
+      "gitBlob": "f51561aefbb6fa2f83504cacca586c509dac8bbd",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36620186-5a97b511.html",
+      "bytes": 75381,
+      "sha256": "067f9e6434503cdc1b783b71b8bbe8b0a1cc3ece666545e230892c9812e0922e",
+      "gitBlob": "a9e1bd17b2498603278540b877b3e6ff1d59bf02",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36833903-a60b16f7.html",
+      "bytes": 58293,
+      "sha256": "24258e221eb4572be7343b3f5c7cd8720649f7ed39b1eff699cfaa0d85483de4",
+      "gitBlob": "5d9dbe016666afe8a0b48def1fdc39848be53089",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36844353-f2973577.html",
+      "bytes": 59232,
+      "sha256": "a1a1a8e8d91bea9172277d3d75832056d7cc965bafe4810d93d169364d666c7d",
+      "gitBlob": "c5dd025e179974c6e5214bb0fb07180e10477447",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36877740-b902486d.html",
+      "bytes": 82845,
+      "sha256": "77c5db1e82612a8fa46e74c96ba2aade69811cc419ffb9aa2d24bd13219046a7",
+      "gitBlob": "a23f6c62510b8975388fe2b525f3b0db3374f591",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36964523-01196eb5.html",
+      "bytes": 81819,
+      "sha256": "eb49da2186e0d7dbe9b0fd0ca0414b17ae64e85537fe9424a35c2fd519cc27f8",
+      "gitBlob": "9f6f00364cc02351894a25bf8743ba687c8c8a6f",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36991537-9bdbda80.html",
+      "bytes": 82485,
+      "sha256": "81f61bbd62d7dac5e34b8527ec68ea13995e599e95e8f081d88aa7ec07be9010",
+      "gitBlob": "e2eea839ecfc701ff6e2c152c823a43d12c049fc",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36995752-79722f64.html",
+      "bytes": 75213,
+      "sha256": "1d3c0c60f268638eed8c5d0f32875f8172801d90575829505496e80d5d359465",
+      "gitBlob": "3a7ad6c7175ccf5258502e4291fb92cd3e2407fe",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37147732-19331cb1.html",
+      "bytes": 59723,
+      "sha256": "624f76ae60fdc904ba21d79fd73cdd13ee80c79f47723d28f8be21c9174752c9",
+      "gitBlob": "cc8ef223e59330c643e76a2040ec2cc4ba184530",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37151974-e37aaf0e.html",
+      "bytes": 80335,
+      "sha256": "a3311cdb307b9e72371877c541980fbd6580f171ce466428fc2ac7a7974613d6",
+      "gitBlob": "7be181ac84fc2762dead7fe9d1397986b3dc0f35",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37205669-2acce08c.html",
+      "bytes": 56731,
+      "sha256": "14db795ed3507fc2d770e7420fb2bc85e8df844f01f560799bba07b40344e598",
+      "gitBlob": "8b79d3317ab0242219102044e24c78362d60fb30",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37213197-a92a3783.html",
+      "bytes": 75255,
+      "sha256": "8ea586987d0212586bf2f2c6231c4847e46136af5c21ee3580dc772afe6faf48",
+      "gitBlob": "29d7cbc071430e77d62561d14883c4b607bd5f2f",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37261464-cf2e155d.html",
+      "bytes": 80247,
+      "sha256": "be3590eb99f30fb97ec3b1ef24513f97992fc16474c46e37ac7c1f6a2fb48770",
+      "gitBlob": "57033df5b3d7c419170ba675a41f0094e3b4f871",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37390108-24661d94.html",
+      "bytes": 78524,
+      "sha256": "ce39a39a2689765ab826f7d340c0e3533bff919496ce438e2d9e62de57465215",
+      "gitBlob": "5ce8299106153a5a4be4b6b2bf95470331e27860",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37393283-6f0af29f.html",
+      "bytes": 78589,
+      "sha256": "9f4662aad904fb5c72ec0e454804f467ea3f5b6b373d3cd480680bbbcdcc3421",
+      "gitBlob": "748da2431e0e72fdf24543a79b52926d75d26198",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38090786-0aae8ab4.html",
+      "bytes": 81648,
+      "sha256": "eb45466bba7b6958b62a6ff61b564391568f13efc1457bd1cc876b243a801049",
+      "gitBlob": "6581550f2debdd6886a8e50cead2920a47367f62",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38192586-fbbc0e84.html",
+      "bytes": 101163,
+      "sha256": "e877c2b9eade1a5de60ae3b9302047bd9ad3beb55f8938a4d656b8d84c3523d7",
+      "gitBlob": "e186f835bd9e2aa4cfc71ecb3959c5a2b7cf3f5b",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38250521-babadc15.html",
+      "bytes": 59616,
+      "sha256": "afca871982fadc4faba28525c682c7d2469636574bd32fb87074a7f8c84b1bf3",
+      "gitBlob": "a9145ba7ec1b44e873a198842a5f8d7361523494",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38362237-3c810039.html",
+      "bytes": 96148,
+      "sha256": "8de4bce5a403ec6c084c4be1bdd9b86b853dea851e7d7970e10f84b328443ff3",
+      "gitBlob": "fb72ffa5f236d805bba57c60c4328b3c02a15bba",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38566202-8b6ea497.html",
+      "bytes": 103892,
+      "sha256": "fdb15a1178e59a041dfa20d507f6d764e2b33ee2dcd6edc8a2a303ee1556cbca",
+      "gitBlob": "de98a53e3ea06b5ad5996f2e5e134dd25587cd7b",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38584397-2b69b05a.html",
+      "bytes": 56482,
+      "sha256": "da5e2063bdd4e05faa0b22c1828049602fb6a6b014d95215252118aade8c5db2",
+      "gitBlob": "1b4600db5d4411b931f833534fb1e5228449c3d4",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38693527-d37ae000.html",
+      "bytes": 57018,
+      "sha256": "d2d5808d949f01b625ddea3bce7f118a1c44b217f5feccb809a471d1ba92a100",
+      "gitBlob": "22c937f05194b9d9f41846aaf0d1f1df763a5986",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38939220-6fb4f967.html",
+      "bytes": 58776,
+      "sha256": "36fc6279a23ae3ba2ebf6b224bd1ae4f9879dfd365be57316777d723a9cae73b",
+      "gitBlob": "270378bc93c0d774107618600d853970d5876d55",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39004687-0c8b2f02.html",
+      "bytes": 56427,
+      "sha256": "a204bc5c478daf8f188c264050d1c761170b9e5558e5e83c1b8aea21ee805393",
+      "gitBlob": "2196d22563ea4fa10b12046955687844d5ccf484",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39150513-960f2561.html",
+      "bytes": 58541,
+      "sha256": "de4ca54977ef5e14509b0aa7f90bb45c3952707fb2844c2d1a2d12266b19c904",
+      "gitBlob": "42677e054074bd0ddf677665bd42682f5764022f",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39260824-76b2e322.html",
+      "bytes": 81630,
+      "sha256": "8ca5bc944fab76ca58e5c0048e666d11cd4f0c602c61378c90114a49f75f6af2",
+      "gitBlob": "9824fe4f87f630cdc51fb7b43fd1add42dc75922",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39392547-dab58cc0.html",
+      "bytes": 55621,
+      "sha256": "97a1eb916b859d9c698beaec964e570c9e605a5f36dce8bb243e51cad5ac9c4d",
+      "gitBlob": "39581a9c8bfb9b53c66c3abd0288b523a1e5e255",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39438861-6b578f3c.html",
+      "bytes": 56775,
+      "sha256": "f4f466fc2abf27ce59de1ae8fdef1a302831af43c4fcce60fe3eceaf0b5bc9b6",
+      "gitBlob": "fabbbca271473ded1dc8603194a1275199640f9c",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39665442-49b6a508.html",
+      "bytes": 76158,
+      "sha256": "087b829249e0f6257f238da85eaea22fd57aac42d1e05ef061bea70b451cab5e",
+      "gitBlob": "cebf100c02301de8dc2da1b35bf3d5b105d8243f",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39666705-a32f9200.html",
+      "bytes": 54940,
+      "sha256": "9abea27ad5fd359817ddcb9606ebb0361100d30c9f8a62a31e431e9af0b25f68",
+      "gitBlob": "4138406fa4b59cc9d19ece8ed2a638470e00059f",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39720610-7f1b2792.html",
+      "bytes": 104464,
+      "sha256": "e0819df74fc811cb203034dd126ea2bd8c8970e5a1ce340c732aeceb9d153421",
+      "gitBlob": "ed561b07d9a07ae557ba6b4d007f78a893a7bf2a",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39813031-0c3a3743.html",
+      "bytes": 57753,
+      "sha256": "ca8c1bae0120b4d64a872278ac00f56c436f19bc72fe698af3d8165572608eeb",
+      "gitBlob": "a59ac2aea54bc118dfe5b73fd2aeff4f66975fc7",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39813032-02ca4fe5.html",
+      "bytes": 83792,
+      "sha256": "b2f130a29cb6658a4337750b0604dc1154f4e42e0cd34997e0fbbf1ff04a5e58",
+      "gitBlob": "015d8f7acd02b255e4c6b416199dc6edc458e5f3",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39910150-493ba630.html",
+      "bytes": 59957,
+      "sha256": "2aa570d84144cd78e1daefafbcde2c6b571a82aa65d965cc65cae85913242126",
+      "gitBlob": "75e165bec9a87b6159932987e86490d16771ae26",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39946428-9dea41c5.html",
+      "bytes": 78550,
+      "sha256": "b418389f79c1dbb7e8248f33a327ef217455fe246d7f52d6f32f9571297f3d10",
+      "gitBlob": "f93301830b73907008445b3d94c7b11cfcb9076d",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40033658-4c5d52c8.html",
+      "bytes": 58758,
+      "sha256": "ddd111df7a8e83febcd8258b5945c5aab17a928b03c5c64074d05cd4e7cc7dd3",
+      "gitBlob": "8ad9ddcc26d911d1f6e3ff57c2fdd0543bfa50bb",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40086808-909c7a45.html",
+      "bytes": 85957,
+      "sha256": "ce3707236b76bec8293e3a01766eabf1e3da1cf4630d9cf01d96ef5c69ea44e2",
+      "gitBlob": "cf6febeb3780af17f437b88b0e526e52a4d88843",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40109696-ae9a6768.html",
+      "bytes": 57423,
+      "sha256": "1a0e0ec2f83b6ce32f693a33150da9b28c75777c31cad9fd3711c0050b63bf3c",
+      "gitBlob": "905128e3af0e2c71ab5c1d4c19872ea065c347b4",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40180398-03752172.html",
+      "bytes": 77611,
+      "sha256": "8b2e8bce24217f4f696d092310d93d8479c5275695669e39b16db9ce3ef127cf",
+      "gitBlob": "d50ea39e98c97a8bfcb5c3753ecde8c79347eaf3",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40504611-47fe7227.html",
+      "bytes": 58256,
+      "sha256": "88032297168fcf93bd1e53be258cb4e9f26544380012b04ec72b10ab07e44b76",
+      "gitBlob": "afbcc4d5c4850cbc97ab1248b960afc9d1844a4c",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40521225-2f0479fb.html",
+      "bytes": 54555,
+      "sha256": "75992223d9e69ecd91ddfecf043db054d6a666ec5a42ae9a36849683ceed1c22",
+      "gitBlob": "ed66e49922b9df3088154c3556f7a42e121a98c3",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40761439-15c8cc45.html",
+      "bytes": 56032,
+      "sha256": "ae16b47f810e613016e494b9001c0faef179506c606410130b8b89c14005e030",
+      "gitBlob": "3968be93351f15918d707aecc552090151bd9836",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40789917-10f70e71.html",
+      "bytes": 57276,
+      "sha256": "a0aefc9c559453c908796585b58be61b0eb4930b2baa5a244d9c0643e445b1a3",
+      "gitBlob": "35a26f4a714e544d285d5aa221f71df9e305b65e",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-41171275-aa302220.html",
+      "bytes": 102667,
+      "sha256": "65038802a4feb9edec4590f7812765d02392479a1f1d307fc1c81a1f7b596f20",
+      "gitBlob": "55f8d0659f3f237f474b8d06e2cacb9b5b56a7a1",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-41262946-67acd9d9.html",
+      "bytes": 55069,
+      "sha256": "23661393d5f487f3055463b887d2a5d4fb0f497f74c60b89fe0fa5b77a50f526",
+      "gitBlob": "af3f86c0f8e19307ad1834dc6f15c5ff562c3535",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-41313154-620e978c.html",
+      "bytes": 58362,
+      "sha256": "9f818bc1d7927a5a8f237204f89deb7d239f31ff08598d3ce7f4a404446be91f",
+      "gitBlob": "bfb50f8b393b1e51ec72052dfa78676468352e97",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-41454356-69275589.html",
+      "bytes": 99905,
+      "sha256": "065fe12cae1369a6a9868b0bc7ddde4079f52518b9fe658218c86fe61b792496",
+      "gitBlob": "971d664e3fd8bd23fd8eac2abb2ee13f8c2bbc9c",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-41662046-100bba64.html",
+      "bytes": 79499,
+      "sha256": "b7d9d66c5ac93de6721f391d27fbf8a3683d0da729869a002081b5c9bf0d8666",
+      "gitBlob": "1f0ad376c1d7b9b1fdf1f8b95e35bf5919594d78",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-41806311-ea4cae54.html",
+      "bytes": 76033,
+      "sha256": "8b433cd9b324db682d159783ceedfb6f2940abb43debbc323f76b08da97a2a3f",
+      "gitBlob": "1ec663296fab9df97bc6ac27acde9795fa333460",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-42057149-aa8c0506.html",
+      "bytes": 57444,
+      "sha256": "2ca02824fb9915c9650eb6758e83488918518f063b271ffd704c415746223bbc",
+      "gitBlob": "28c29a055beb1380a1544cdcc969523137616fbb",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-42284591-33f06edd.html",
+      "bytes": 78112,
+      "sha256": "f8cef78c32b691be9611033acf2e2e18ff43949e01ca6ab815e3607b2198fc18",
+      "gitBlob": "2f2a2a2af02e322b1f3e602ca9cdd0cd02f233e9",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-42337783-bde64ff9.html",
+      "bytes": 58703,
+      "sha256": "ecff90204e8f44384b8585d6c8dd67930b0da7a8e65537a2a206f182e59687ec",
+      "gitBlob": "9bb853a3a718629c6b82a6861653f785991cbcbd",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-42389090-66ac2bf0.html",
+      "bytes": 83045,
+      "sha256": "445a4e19f2928981190cfd9171ba7474f54092690f5f3ab03372d618e07d933d",
+      "gitBlob": "06480fa002ca34b7dbaab8a08573c203530e54cb",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/review/youth-20261102/batch-f164c8325ea5f9c9.json",
+      "bytes": 1161923,
+      "sha256": "f164c8325ea5f9c989c29524518b598913508117712826dc408f592b7f99a723",
+      "gitBlob": "092dd268e27a6f4ccf2b5a5961a46a0b6489474e",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reproduction dependency or immutable source provenance; excluded candidates remain historical review material only",
+      "previousSHA256": null
+    },
+    {
+      "path": "Informatics/shared-shell-route.js",
+      "bytes": 689,
+      "sha256": "6ecfcf7fc994a6a036e38cc426e3c5c2493c5c1f1e816df47f1198375f8f30b6",
+      "gitBlob": "2b26ae8520bb9cfa9e98de69ae369514321a5b2e",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reader runtime dependency",
+      "previousSHA256": "6ecfcf7fc994a6a036e38cc426e3c5c2493c5c1f1e816df47f1198375f8f30b6"
+    },
+    {
+      "path": "Informatics/universal-one-audio.js",
+      "bytes": 1576,
+      "sha256": "38bae647336cc4d8543d2cf37802ef237238bc2ebadf64c96622cec519b6ca79",
+      "gitBlob": "be0f1591cf19449a92fdad050add96642068af0d",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reader runtime dependency",
+      "previousSHA256": "38bae647336cc4d8543d2cf37802ef237238bc2ebadf64c96622cec519b6ca79"
+    },
+    {
+      "path": "Informatics/universal-one-character.js",
+      "bytes": 3250,
+      "sha256": "2840af3f8bb86465920540171971d8409f50aab6c0377f08d6ed854999375b31",
+      "gitBlob": "467c1fa8e98ecb797e802d2f4e4c8c30ed726a16",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reader runtime dependency",
+      "previousSHA256": "2840af3f8bb86465920540171971d8409f50aab6c0377f08d6ed854999375b31"
+    },
+    {
+      "path": "Informatics/universal-one-context.js",
+      "bytes": 3739,
+      "sha256": "b62694b875dd3471e7c8e8b5126a4f27bb36739337023912726191ba691ca470",
+      "gitBlob": "a0d44a1c5d37f900e312e9e88c5dbc3e597a9196",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": "a5241bb3e4378a3377c5954e2ebd3f8a6a93fc3dd1cc5f56a9253dde996a5a91"
+    },
+    {
+      "path": "Informatics/universal-one-live.js",
+      "bytes": 11598,
+      "sha256": "e7230e117c0499253863b623ed30127abfeb244a501afffa98a13b4b3687fdd9",
+      "gitBlob": "03daca9f9402f4263af24f530971abde43072b62",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reader runtime dependency",
+      "previousSHA256": "e7230e117c0499253863b623ed30127abfeb244a501afffa98a13b4b3687fdd9"
+    },
+    {
+      "path": "Informatics/universal-one-routing.js",
+      "bytes": 770,
+      "sha256": "a45e3a5787e18b1b84e8c82ac7c304a2a959323e1c7b0ef449c92663c8730308",
+      "gitBlob": "dbf0a5397a671cb62a02ac77d47d92ff3655f8ca",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": "a45e3a5787e18b1b84e8c82ac7c304a2a959323e1c7b0ef449c92663c8730308"
+    },
+    {
+      "path": "Informatics/universal-one-waveform.js",
+      "bytes": 4580,
+      "sha256": "60d7ffcb8b649e8aa78112e4c29b8f9d2597eaf4ee8be9190e0dc9d3a8c8f57f",
+      "gitBlob": "d7145bdb285781c04fcf4383a6e6a9d4ed83368d",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reader runtime dependency",
+      "previousSHA256": "60d7ffcb8b649e8aa78112e4c29b8f9d2597eaf4ee8be9190e0dc9d3a8c8f57f"
+    },
+    {
+      "path": "Informatics/universal-one.css",
+      "bytes": 8569,
+      "sha256": "89afff1e41f8505b9d8db9f6e7ebd5a3d7f33c78d80c0d430f1d394a15446eb1",
+      "gitBlob": "3b8e8270fc393fb219a10ddcc4ffa9c09e80c2a1",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reader runtime dependency",
+      "previousSHA256": "89afff1e41f8505b9d8db9f6e7ebd5a3d7f33c78d80c0d430f1d394a15446eb1"
+    },
+    {
+      "path": "Informatics/universal-one.js",
+      "bytes": 20574,
+      "sha256": "4a49a72725c9040673fe1223da2c52c4507d24de20c9fb57a027cd2bda88c032",
+      "gitBlob": "63bdf8d3df32853d6b2f88f7e43edd0cbc4a049d",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reader runtime dependency",
+      "previousSHA256": "42a62612224c650b508a586bff1a779996125f8ec8fecff525b6b1f6f1610573"
+    },
+    {
+      "path": "cloudflare/informatics-astra-memory.js",
+      "bytes": 2470,
+      "sha256": "a4384d95c1a0eafb7aa72bbdcf38fe4f1bd88ad895d419b5ff3e4916626a6c6e",
+      "gitBlob": "95f0435b7ed9a0392871e3d34dafe05690179fd9",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": "a4384d95c1a0eafb7aa72bbdcf38fe4f1bd88ad895d419b5ff3e4916626a6c6e"
+    },
+    {
+      "path": "cloudflare/informatics-astra.js",
+      "bytes": 9514,
+      "sha256": "ac521234c4d0ba8de89ecea9d198e2d497add495426c1db2721f3a23a61ea441",
+      "gitBlob": "65503afa8930cd3a6ec990a52ed4b218f75e9082",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": "ac521234c4d0ba8de89ecea9d198e2d497add495426c1db2721f3a23a61ea441"
+    },
+    {
+      "path": "cloudflare/informatics-connectors.js",
+      "bytes": 20081,
+      "sha256": "1c0ad31d1d9eb6d53b3615777d0714eb7bf42a2f4f86f91646a413a97052ca7a",
+      "gitBlob": "1336f9db0ac14b73442baa657fcb3640bf43c3ae",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": "1c0ad31d1d9eb6d53b3615777d0714eb7bf42a2f4f86f91646a413a97052ca7a"
+    },
+    {
+      "path": "cloudflare/informatics-dv-knowledge.js",
+      "bytes": 3832,
+      "sha256": "4924d34bd02dfeff8da5e2207e317f751d1a6fd789008fb60593daf624611e77",
+      "gitBlob": "fe32a8ccaf24bee6a1ee4fd87a94b1120274ebdc",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": null
+    },
+    {
+      "path": "cloudflare/informatics-quantum-budget.js",
+      "bytes": 2216,
+      "sha256": "883b2fef35eb0421efcb6c8487d6403f2dbf260f0d95ab778fba069586d7a0af",
+      "gitBlob": "deff9a9774887e3085f96bbf6e995e23864ca52a",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": "883b2fef35eb0421efcb6c8487d6403f2dbf260f0d95ab778fba069586d7a0af"
+    },
+    {
+      "path": "cloudflare/informatics-quantum-knowledge.js",
+      "bytes": 7610,
+      "sha256": "559caf6534201e060da1d933cd9aa0d8b1e95fc62ba98c70723d124ea35a0204",
+      "gitBlob": "83b17301c34da885157c5c194603c1e26a4b4d4c",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": "559caf6534201e060da1d933cd9aa0d8b1e95fc62ba98c70723d124ea35a0204"
+    },
+    {
+      "path": "cloudflare/informatics-quantum-model.js",
+      "bytes": 2732,
+      "sha256": "a070df3bb4c69b48a1801d0dd9535c8c36c88c81d8c855fc3334443a0b063f19",
+      "gitBlob": "5d51c67ad46ffa36ba0caebd06d7cc3ff13e72a9",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": "a070df3bb4c69b48a1801d0dd9535c8c36c88c81d8c855fc3334443a0b063f19"
+    },
+    {
+      "path": "cloudflare/informatics-quantum.js",
+      "bytes": 6263,
+      "sha256": "1373d17fe91957fec2e27ebe89a2cf4c092cb59abd76b2f603be9460979b54c5",
+      "gitBlob": "b12346cc794b693fd8abb3367af82f6551ec6edd",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": "1373d17fe91957fec2e27ebe89a2cf4c092cb59abd76b2f603be9460979b54c5"
+    },
+    {
+      "path": "cloudflare/informatics-repository.js",
+      "bytes": 10565,
+      "sha256": "4fcc58f387111de52b87c11d927fc1baf168939e1e9353601ee6508f1feaace1",
+      "gitBlob": "fa1fef1ed9587bef66346a9c96e9ef50a576bad5",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": "4fcc58f387111de52b87c11d927fc1baf168939e1e9353601ee6508f1feaace1"
+    },
+    {
+      "path": "cloudflare/informatics-research-budget.js",
+      "bytes": 2599,
+      "sha256": "6483deabb97923693527536b38203d7ff758a69abb2b0004a29b83cb03545206",
+      "gitBlob": "028a33c4a2feaa33c4be99c4b7a2f4ea00149a5c",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": "6483deabb97923693527536b38203d7ff758a69abb2b0004a29b83cb03545206"
+    },
+    {
+      "path": "cloudflare/informatics-research-navigation.js",
+      "bytes": 5159,
+      "sha256": "82fbaa53ba3c4784bb0f79aea890b075e97c7d4d1e935818d78db30f42c997d0",
+      "gitBlob": "36ab8e6c80297280f9aa62f2918be1e3b4dd42f4",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "cloudflare/informatics-research-topics.json",
+      "bytes": 12692,
+      "sha256": "54feb9c7feaac3479634197a4f35a034dfaac34cda86780d640a587f67689c6f",
+      "gitBlob": "f6a749aab7ac5414a8b3460a76c16837f5a58c22",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": "54feb9c7feaac3479634197a4f35a034dfaac34cda86780d640a587f67689c6f"
+    },
+    {
+      "path": "cloudflare/informatics-research-worker.js",
+      "bytes": 41950,
+      "sha256": "3301fb996cc489fac295f6359b992a7d0e3666b6f3214e6c908d940e2d821875",
+      "gitBlob": "9935588af1c23bbba860bd6e51efd76ca9abe21d",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": "27f4680266a1e9b11687ded618f0f02e578e55abfcb74ab59f4fc3083d2bb5d0"
+    },
+    {
+      "path": "cloudflare/informatics-youth-knowledge.js",
+      "bytes": 4069,
+      "sha256": "77df7f220f5999f54e9765a4c2f9b1b3470e45d9c6e374508c26d418bc09cec1",
+      "gitBlob": "532fb444160c450cc0f3fb88ca9ada4863f665b9",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "cloudflare/package-lock.json",
+      "bytes": 3081,
+      "sha256": "fc68e1dbb2d69b19de962554e84b7b7f80bf50b169abb8b032bae6199eb4f905",
+      "gitBlob": "6a107ed6061ebe09a63c841667e5af0eea8788cb",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Existing Worker package/environment definition; no credential values",
+      "previousSHA256": "fc68e1dbb2d69b19de962554e84b7b7f80bf50b169abb8b032bae6199eb4f905"
+    },
+    {
+      "path": "cloudflare/package.json",
+      "bytes": 183,
+      "sha256": "ac48b14bd452853050fbef53180b0cd503da8be633a788d4fe0dde078bd20146",
+      "gitBlob": "a64c35a15d493c5f84c3f80b3d01fc336c7654dd",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Existing Worker package/environment definition; no credential values",
+      "previousSHA256": "ac48b14bd452853050fbef53180b0cd503da8be633a788d4fe0dde078bd20146"
+    },
+    {
+      "path": "cloudflare/patent-model-relay.js",
+      "bytes": 3424,
+      "sha256": "e2ce370385f87feebe0b8441c619298b898955c20513b6f5edb292785ae01bc3",
+      "gitBlob": "618123a290a00d8f1f027d0129f314608ae5bf62",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Transitive staging Worker module dependency",
+      "previousSHA256": null
+    },
+    {
+      "path": "cloudflare/wrangler.informatics-staging.toml",
+      "bytes": 807,
+      "sha256": "2d3ffefa9ca18eaf252a708b457e554f1f6a48a923dfa93bc068bd3ead42e832",
+      "gitBlob": "1adb7a83e8415e50eb3ec37e13d92ecbe5c5ba9b",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Existing Worker package/environment definition; no credential values",
+      "previousSHA256": "2d3ffefa9ca18eaf252a708b457e554f1f6a48a923dfa93bc068bd3ead42e832"
+    },
+    {
+      "path": "research/informatics/communities-full-20261030/classification-audit.json",
+      "bytes": 1738245,
+      "sha256": "a524132589b42a704c136a2dbd5e58730c5769c2beae903fe16e0f00b82a650e",
+      "gitBlob": "8e2083afe5238873004a60137839ba17bd578bf8",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reproduction dependency or immutable source provenance; excluded candidates remain historical review material only",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/communities-related-20261030/age-assessments.json",
+      "bytes": 699537,
+      "sha256": "6d85a11d1f589bde614f4f92877cda8c9aae4cd8c8d5cd18372c52e5dfc50dc4",
+      "gitBlob": "fa6262b4ccb4017c7e855bf88728f5367efe27fe",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reproduction dependency or immutable source provenance; excluded candidates remain historical review material only",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/communities-related-20261030/related-assessments.json",
+      "bytes": 115710,
+      "sha256": "09b405e1bb30e8e895800417ba0461390edd28765ac647035705c9e0e99daa7b",
+      "gitBlob": "286b2e36fd788eded9dedec4fa156e9f5ab3d652",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reproduction dependency or immutable source provenance; excluded candidates remain historical review material only",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/discovery-20261026/build.json",
+      "bytes": 106566,
+      "sha256": "e0ca04ce860cc8afe07432640a2b59d194e3b47889683f799fa315612c850701",
+      "gitBlob": "282630782d71ecc1960e1420d871b62252022c92",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": "dff4cc6bbf3e49d929904a66cf0987c5aedc46af3011ab07a1972bdc2b8e143f"
+    },
+    {
+      "path": "research/informatics/youth-20261102/baseline-corpus.json",
+      "bytes": 459597,
+      "sha256": "908541cf35827d7d8509aba2094a85810778065e8da43f0c1f5c2371a7668158",
+      "gitBlob": "42b44e02a4babcda8676f0ade3c354571ac20543",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reproduction dependency or immutable source provenance; excluded candidates remain historical review material only",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/baseline.json",
+      "bytes": 1816,
+      "sha256": "4c6a5d255a4f8cab920d842ab0718159bc06a4741cf15ceb1241d6a5e32661f4",
+      "gitBlob": "de33606be8a54779ed5ac2a971c251dcabb63f03",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-browser.json",
+      "bytes": 1270,
+      "sha256": "4a3555bbef06ba0c6dd1645f72cd87fd9427dd194308077057340f1c79477906",
+      "gitBlob": "74c9ba93f4185c3ed13b213d11e89336dd07ec37",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-language-1440.png",
+      "bytes": 178267,
+      "sha256": "c5890ca5b7e2045cb8737959205d9f387e8d8c1a6f1ab36dbdfe34ba04a835ca",
+      "gitBlob": "88ad1dc1c42a5c6f06a82b40578374c25c59b5e8",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-language-320.png",
+      "bytes": 68171,
+      "sha256": "321b3f3d26d5c500f3f11e2b03b9a9b5ec2e488b7e34f8521c480c4de40ae168",
+      "gitBlob": "c9b41d937bbf97d557eca092db4cff234508384f",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-language-390.png",
+      "bytes": 77021,
+      "sha256": "0c7d3b65c1d43365f1957123ce4abe9f796a998e564a9cef483c226667b12003",
+      "gitBlob": "9fdce62a41cf594383514f5dc321cf67a747dc45",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-sound-1440.png",
+      "bytes": 212553,
+      "sha256": "ad53671be6419d0647a9fed88196e25a6d23fdbb6327e09746794671b6261c40",
+      "gitBlob": "a6fbdcf97790c46d6d76f4e0b4907a3fdc7aa17e",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-sound-320.png",
+      "bytes": 80862,
+      "sha256": "3dc36ec9f2405442d39b9ad2400344fecae128ad0d6baef124eed8a8809ce7b9",
+      "gitBlob": "d85ab9571882993aa0f76bbc34499527d82d2350",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-sound-390.png",
+      "bytes": 112132,
+      "sha256": "2de161b5241158e1c03817ce3af494846b84be1a3326fb1bccfde4bf07fab672",
+      "gitBlob": "40097d8a2bc399ad26cef8d662051aa52247a81b",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-vision-1440.png",
+      "bytes": 200705,
+      "sha256": "7f630cee099e2d13e3318ac264fa59d7c6a619c14f7e12719375333ecac21287",
+      "gitBlob": "c0754314476fdede9579dce1e2b4f34d9d8754ac",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-vision-320.png",
+      "bytes": 80676,
+      "sha256": "9dca1a4e7ea233859708c852313ac2206537b50824d75b8602e5c82dc0289733",
+      "gitBlob": "95e8ef0ebe23a1a48e5aa9ce1a4b69fbd0f4eee3",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-vision-390.png",
+      "bytes": 112084,
+      "sha256": "4dfc8a7883f3ae1774be76b7f4f8f70c424b03a75d0f55923f8d2167254be041",
+      "gitBlob": "fb452e7dba4edad21fa4491b65e4ca3e13bcce96",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/destination-reconciliation.json",
+      "bytes": 7504,
+      "sha256": "4d0d1e6cd17c0a6bfcbb83b4915e58e0df8ae3891c3043fdbd5a68bcdd306d1f",
+      "gitBlob": "4c8917d6a501e5163ab5f6222f90cd19dd51cc6b",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/export-build.json",
+      "bytes": 1699,
+      "sha256": "a2b3b832abb3a57fe4f7b203723a3310c6240b194969422a7e2903804ee26f19",
+      "gitBlob": "93cace5557178915440f588e8b4871b7e6188027",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/file-manifest.json",
+      "bytes": 37344,
+      "sha256": "961414cc926224cb65f2aa39906073c1394bc511d38504cb7ac8f5073116b7db",
+      "gitBlob": "c8d0b716f34d4704e71350c02a7b88e37fb0db90",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/release-thread-handoff.md",
+      "bytes": 4977,
+      "sha256": "a2cc61c75d47d4dadbcf7a0d31a86c77020efec1295ef3e4107c50e03765dd19",
+      "gitBlob": "9690c1419a912ae22c136140c0dcea6d11cd9e79",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/roundtrip.json",
+      "bytes": 228,
+      "sha256": "ae25db6c1d005192109544bcd58246c1e66be7b3ffe8b432b5e8b20ce67b6cc7",
+      "gitBlob": "0292cf160488a7d160b8a5501a83625391948e44",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/source-checks.json",
+      "bytes": 624,
+      "sha256": "0ca826cbcdf114fb2ae8f404fa13d8203f6633ec8082bbbcd0c1e4fa3167e3e0",
+      "gitBlob": "9756d19fd360d5248d74c00f5679db5d30f9f80f",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "site-navigation/routes.js",
+      "bytes": 9060,
+      "sha256": "375ae77a6715f56630d965d1a79a37c06260147e1580b3987dfffd77cd196710",
+      "gitBlob": "73516a2a00df539c460b68a5872dab94420026b8",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reader runtime dependency",
+      "previousSHA256": null
+    },
+    {
+      "path": "sitemaps/informatics-publications.xml",
+      "bytes": 146588,
+      "sha256": "cefddb6480bbe00f5dec83d94ea250d2df457aa42764c22fd5efb9d91bb6c8c3",
+      "gitBlob": "2813ac33e36b7c94eed01ca01b56f01945b96f1b",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "tools/build-age-index.py",
+      "bytes": 1530,
+      "sha256": "da22ac66319c055e954bd6ccd0de30da8ae8305a91e8c39c07944d89c18b0a24",
+      "gitBlob": "95ef1ffc9d2f4a4e8338e70d41423a215e52f140",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "tools/build-community-index.py",
+      "bytes": 2529,
+      "sha256": "13016ed903dbcb26f9e3f8f8c5dc5cae318dad6596b84e982b8fda68750612a6",
+      "gitBlob": "c67d930d84294063b47b89f7e9943a44b8fa0ec6",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "tools/build-informatics-reading.mjs",
+      "bytes": 25210,
+      "sha256": "ac345cd8a61028d218c63dc09722552d7158e6ff8b3534cfb8371898a3b38055",
+      "gitBlob": "40a4940f69a8e0d8171beeea254d94f98eba1fa1",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": "fcba359584662864808679de0425f7eb6ceac5d0d0e59c735c5e9e007a102769"
+    },
+    {
+      "path": "tools/build-youth-library.py",
+      "bytes": 21390,
+      "sha256": "f1e19163ed8421fa4218fd30cdbdb7bb92c6d7719c3b072e3c1681b844a3500d",
+      "gitBlob": "d6894a7f5c809590a36dcd3691accc49d5873b42",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "tools/check-complete-exports.py",
+      "bytes": 3406,
+      "sha256": "dc1cd5cf148965600b51f79004bfceba34f97fe93d425b3c2fc639025acc7c49",
+      "gitBlob": "30196fc7cae9e2b574d204304ff948244b6eaa17",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reproduction dependency or immutable source provenance; excluded candidates remain historical review material only",
+      "previousSHA256": null
+    },
+    {
+      "path": "tools/check-youth-integration-browser.mjs",
+      "bytes": 11538,
+      "sha256": "4eda1682025f2c9dd4580428dafd247f07c4ebd20d299037a98612878c0cbc44",
+      "gitBlob": "2f346bf3eb8bddad3e196a28746faaa98c79663b",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "tools/check-youth-integration.mjs",
+      "bytes": 6377,
+      "sha256": "132347a9bb155cf28e647fecc9c9c9ffad7de0d23044a0f58d39c02b68f65e91",
+      "gitBlob": "82b1cacba049b24ad52258ce2fd97f31c1bee88e",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Approved youth change or local verification record",
+      "previousSHA256": null
+    },
+    {
+      "path": "tools/export-informatics.py",
+      "bytes": 8488,
+      "sha256": "58bf5abcb109ae47f52a23cc9a5ce62fb9fa7b9084c83c945ad08940a11c6c8d",
+      "gitBlob": "11a2181e0f0bbc1f8dcfd50d11bbb80674525f20",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reproduction dependency or immutable source provenance; excluded candidates remain historical review material only",
+      "previousSHA256": "945f7b879d78fbb0271aade8675145a981af979f9fd1f5d7e5c38c192551b079"
+    },
+    {
+      "path": "tools/research_paper_trust.py",
+      "bytes": 5066,
+      "sha256": "26af29b71fd10fefc8867442c56a9fc1b9c6ebb4670013bb43badebbd65796dc",
+      "gitBlob": "d880192e9d67bbf25a9dad5a8c21e278130ccb0a",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reproduction dependency or immutable source provenance; excluded candidates remain historical review material only",
+      "previousSHA256": null
+    },
+    {
+      "path": "tools/research_topic_trust.py",
+      "bytes": 1638,
+      "sha256": "72ac578ff2c7d2d6e4bd5c4c4e041a19e8fc403dd2a329126bf7b1b19f242fa1",
+      "gitBlob": "4331fe4bc5b1f1c59c99296a37138b1c906d145a",
+      "sourceCommit": "6bafe6bea5d0ef48b095a54734831ed5d95807ae",
+      "mode": "synchronised",
+      "reason": "Reproduction dependency or immutable source provenance; excluded candidates remain historical review material only",
+      "previousSHA256": "f743c1603eef6950661c94a8519a197b92e6762c103382e857b58f33b90d9aa8"
+    }
+  ],
+  "reproduction": "Use the exact integrated source commit for full-site builders, shared I AM assets, complete archive reconstruction and deployment. This is a scoped source synchronization, not a complete migration or independently deployable site. Existing SOURCE_MANIFEST and GENERATED_ASSETS remain historical import records. Newer paths in this receipt take precedence for this youth branch.",
+  "evidenceScope": "105 qualified publications: 100 additions, five canonical matches. The immutable source batch contains separately labelled excluded candidates for provenance only; approved retrieval and indexes contain the qualified set only."
+}

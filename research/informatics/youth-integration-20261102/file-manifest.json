@@ -1,0 +1,917 @@
+{
+  "schemaVersion": "youth-source-manifest/v1",
+  "integratedRepository": "https://github.com/universalmindpbc/u-n-i-v-e-r-s-a-l-m-i-n-d",
+  "integratedBaseline": "fcb07c7cd1f7cdf284ac4ebbe29871fc08daf214",
+  "integratedBranch": "staging",
+  "dedicatedRepository": "https://github.com/universalmindpbc/u-n-i-v-e-r-s-a-l-i-n-f-o-r-m-a-t-i-c-s",
+  "dedicatedBaseline": "7d89224d2caca17debcd8170a1873a488d5af82a",
+  "dedicatedBranch": "research/youth-20261102",
+  "files": [
+    {
+      "path": "Informatics/chapters/research.html",
+      "bytes": 68127,
+      "sha256": "467e9ed5aab48a8fe50b0beda28e7a9ed00d0ffbb053f604985ddfc48b2d2514",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/exports/manifest-4236ba3449732c396c297767fd618c7b5c8f2245b828b5b7b4238b21ad48509c.json",
+      "bytes": 2398520,
+      "sha256": "96daa1a6df0744871dc70089e7621676faf7220d46c405e0c2a749df20694182",
+      "role": "generated-export"
+    },
+    {
+      "path": "Informatics/exports/manifest.json",
+      "bytes": 2398520,
+      "sha256": "96daa1a6df0744871dc70089e7621676faf7220d46c405e0c2a749df20694182",
+      "role": "generated-export"
+    },
+    {
+      "path": "Informatics/exports/part-0c1e32a7548ca99ac0476ddaac2b36601f5fa87ce0652a3d1e5729e03b60e4b2.bin",
+      "bytes": 50331648,
+      "sha256": "0c1e32a7548ca99ac0476ddaac2b36601f5fa87ce0652a3d1e5729e03b60e4b2",
+      "role": "generated-export"
+    },
+    {
+      "path": "Informatics/exports/part-1532c18bac72721caf5ea094a966e006d580eb3b586e5984b16dc4bfaf76bcc8.bin",
+      "bytes": 50331648,
+      "sha256": "1532c18bac72721caf5ea094a966e006d580eb3b586e5984b16dc4bfaf76bcc8",
+      "role": "generated-export"
+    },
+    {
+      "path": "Informatics/exports/part-1e867c119a4037018f97809bfc3587e88d7d7a5187c5fd33b62130dafcfea924.bin",
+      "bytes": 50331648,
+      "sha256": "1e867c119a4037018f97809bfc3587e88d7d7a5187c5fd33b62130dafcfea924",
+      "role": "generated-export"
+    },
+    {
+      "path": "Informatics/exports/part-cb73f2a163612cb49a9f72a33ff074443285d749c3151e508b4d0aeb71cc6d69.bin",
+      "bytes": 30929466,
+      "sha256": "cb73f2a163612cb49a9f72a33ff074443285d749c3151e508b4d0aeb71cc6d69",
+      "role": "generated-export"
+    },
+    {
+      "path": "Informatics/exports/part-e51a2bfce535b3df0d84b5759f23aae4e598a7e52fd98fd14ecb9438ba2efe68.bin",
+      "bytes": 299859,
+      "sha256": "e51a2bfce535b3df0d84b5759f23aae4e598a7e52fd98fd14ecb9438ba2efe68",
+      "role": "generated-export"
+    },
+    {
+      "path": "Informatics/exports/part-fea556eba63978189541ceedf4b239a95c1a0cde3e39961aba9de957f217eb0c.bin",
+      "bytes": 50331648,
+      "sha256": "fea556eba63978189541ceedf4b239a95c1a0cde3e39961aba9de957f217eb0c",
+      "role": "generated-export"
+    },
+    {
+      "path": "Informatics/library-data/age-index.json",
+      "bytes": 474774,
+      "sha256": "2757cd5918c305cb200fa4884a5bffc83a941fcec09c188db1c60f9cd1c54022",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/library-data/community-index.json",
+      "bytes": 154657,
+      "sha256": "72c340e2f23ac3e85f87a13d645cd4daa6f556b2eaaffb931b687cd4627fec9a",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/library-data/youth-expansion.json",
+      "bytes": 5700150,
+      "sha256": "e7fb31adfa8b99fbcc97008e0607f3f7dceda8aad8be3ee35a21bcb0155133cc",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/library.html",
+      "bytes": 35721,
+      "sha256": "fd996f6e681f8435eb059ab382e51ee96b7cfeb975b780bd865ef8c044f498f5",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/library.js",
+      "bytes": 52801,
+      "sha256": "7b63f94749451df6a8e02cc984f0961990e00a9bddfee223f94ef227bc85e862",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/llms.txt",
+      "bytes": 7473,
+      "sha256": "2bcead2a2a3276d2548146442758f8928792e501123899bcdce1040df11f1962",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/data.html",
+      "bytes": 183526,
+      "sha256": "ebdaa4522db5971b1bf3f2f924c19b3151e433458327aa4b3c304bb6765a151e",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/index.html",
+      "bytes": 9015,
+      "sha256": "c5c9a57f9c12cefd0b299a3ae7faceac684a234fdf574c4a4aa892ab64940d81",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/index.html",
+      "bytes": 331350,
+      "sha256": "5c9a7079db6d9f8f2bf0d72fef41c0b20acded5e236623b23dfa25052174a01b",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-29422189-4e33115a.html",
+      "bytes": 87485,
+      "sha256": "3a66527514d4c35c08668ad31bf0db14489d41fa44e1c414842297f3d360db10",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-40243164-13a606b4.html",
+      "bytes": 84525,
+      "sha256": "95c053ac7884e19fc894474ddce26cf7922473151c4cc80cb14ca3291d7a4e5c",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-41340540-2aebfe07.html",
+      "bytes": 84788,
+      "sha256": "04a73670cad38a0daf5bec5ed3192a565d1f78f0e3265338f09bfc1bcb0216f6",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/pmid-42324567-01929af4.html",
+      "bytes": 134132,
+      "sha256": "77fead35ba9c70152d10274a02032b706f2dea55fb6dead225fee18b57bf7f30",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/src-56e515aacddb-e418b3c8.html",
+      "bytes": 90948,
+      "sha256": "f7860edb4bacc01a2f2060ec97f7a5f7c2f00efdc51ccfa9fd4422833b6aa19d",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-21192795-129a37f4.html",
+      "bytes": 56323,
+      "sha256": "712e2f694b7feb75bec2286a9bffeb55289d3e112a7f47f96f8eaf6ffda66152",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-21559213-a8b55a33.html",
+      "bytes": 57739,
+      "sha256": "8d954b83da38f923739a84a1e432c5c77c516809461f32ddaf50e5a7ffc1f8bf",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-22799879-4a5a1861.html",
+      "bytes": 63076,
+      "sha256": "2ca0d5d3ea1efe2173b4feeb032db3c952e308aecfe5a2e49d8dc3068ea6baa5",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-22893815-ba0b1e61.html",
+      "bytes": 57691,
+      "sha256": "5deab508d567462941a6c171729d5c25ec4213a048d265e40d46db5916317598",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-24499130-b02ba181.html",
+      "bytes": 58322,
+      "sha256": "c6206a8506aa54651fa986d168c3ae17c4b69f4f57220afbd5a9cd1bdf156ee0",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-24901900-ff07c900.html",
+      "bytes": 78128,
+      "sha256": "bc5bc80422098bf43f0a1a62d7a08e1e927ce3c50fb007fe18513d25b7c3e36e",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-25537785-83a4bf39.html",
+      "bytes": 80029,
+      "sha256": "a36803bfd521fbd8db2a6ee98838ed08bc037286604e3d3971222c3b82d54d1f",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-26220564-d2885258.html",
+      "bytes": 81069,
+      "sha256": "fd4423ff3805a9ef7fd41004f79fa5e968bbe1f9d40a923458f1147a8d21935e",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-28330831-623c1ff1.html",
+      "bytes": 56339,
+      "sha256": "25a3176e941c185d5745c40ae3ed321a0a312a24a84eb14a1af367d1f348d370",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-29066991-f2320d8a.html",
+      "bytes": 63068,
+      "sha256": "7fd82aaaed165c1e52e1b4cae1cc94912f8547ccd027be3da17972ea9e942360",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-29144545-e5528bd9.html",
+      "bytes": 61021,
+      "sha256": "492903e4bed538ebaebd32da4221bb2b38d27d1a5cba591c180428cc03a14472",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-29622047-74c84473.html",
+      "bytes": 76177,
+      "sha256": "6da8723deebadffdf58024b85b0832ab1275073ad259583819992507831b0ff2",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-30345511-5a2de9cc.html",
+      "bytes": 59989,
+      "sha256": "43f6bcd3fc529feef0a749d0a10bbf1612bc04fa00b99d23e9d347d1c094ba90",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-30622094-df06e3d2.html",
+      "bytes": 75425,
+      "sha256": "ea6f730d26d75e505889261fdd17eac76cfbfc97c131b05168b65c5792130d83",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-31068842-d26b2ef3.html",
+      "bytes": 83217,
+      "sha256": "7d55c89dd82b4113c1c063bb30fc4853d8fc5062bff0b2895f1f1bbd973f11fc",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-31237569-503a5706.html",
+      "bytes": 78021,
+      "sha256": "3343c37901706c3b946ea62205089a6856441251c9a8c17d363ab8a175147a3d",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-31333198-54db0c2a.html",
+      "bytes": 57837,
+      "sha256": "e259855c855b08b65c5849100b2bcc527fcb4003835dc693a8f20839ae444116",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32074061-e89e9268.html",
+      "bytes": 58912,
+      "sha256": "4fa76e7e3117621cf7fd8bf968e996de421a34045744a1df4c053c14e8a30de7",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32232017-3904e5b7.html",
+      "bytes": 59712,
+      "sha256": "d8b8b9a50a0181c12cd820d9ce4fadba45d3cb004fb920d3dc8003edfea7d96b",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32442160-6a6f6953.html",
+      "bytes": 56301,
+      "sha256": "1987ee0c9255f54addd48aad5e5d344890033dc9c1d73cd1cf53bd232602011d",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32504808-214018ee.html",
+      "bytes": 64979,
+      "sha256": "e5f607ff63a4d5b2741c102487a137f30ac2cf17301efbd5fe53537ed3d231f8",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32527236-faf66d27.html",
+      "bytes": 57416,
+      "sha256": "dccb37294377a367aac342da4abc360b00e53e2b4126ed2b3a22a3b6d9587b24",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32554380-4a7383ca.html",
+      "bytes": 67571,
+      "sha256": "f64916606d7d2d899fd8c2be3a1b2cf12aa6ed04bc4745d2a0a3bd8e4448c342",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32572961-79283efa.html",
+      "bytes": 97162,
+      "sha256": "21e246578250f7e36f3382e8c70b862607a2703ba6d26b9002573e15742ade5d",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32683737-98ab7056.html",
+      "bytes": 79578,
+      "sha256": "a50df2918212dd8ddcda1d8837ac1ffe92566dcf7b435f94a8ce4fe99e8416f6",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-32720904-c672a391.html",
+      "bytes": 75315,
+      "sha256": "a497a4b79b9d5fbafa6af32524978ae5663f7f837964bf65756dc935e8849f93",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-33079071-1283aaad.html",
+      "bytes": 54622,
+      "sha256": "0126ba03910f7dc5fabf919c609732f01ba497c00aaa8cfabd50ed10561d911c",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-33264098-30d5a6f6.html",
+      "bytes": 66627,
+      "sha256": "88ba757278eedc79236d1b94eb12e121c29dd4fd444e9b8d67b2e2dc60a6af65",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-33725578-bdc6aa3a.html",
+      "bytes": 78687,
+      "sha256": "759b1cdcc4f1cc6c030d03c3f6a07221bb78202a8b18ceb325c7800c93dec16b",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34002511-f0ca9f60.html",
+      "bytes": 82611,
+      "sha256": "e5ee3aca9e1f5296d334549d1654319b315ea312218500bae3f68a743e537941",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34021113-5fd90d04.html",
+      "bytes": 79336,
+      "sha256": "2fe816e08c6a4b2b4e2aaebfd5fb4576cef3b4d7c7f82498ffc567a04a5db058",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34040886-51a15518.html",
+      "bytes": 56075,
+      "sha256": "8af9cacbcbbabf858f4c478df8403f12d2c52340acb053ba002d3207922d71da",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34294067-3b018ceb.html",
+      "bytes": 56382,
+      "sha256": "3ebf6228695461d93879af35df87c2c505509896f61d229eb5b4d8b0fede6e58",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34527971-f74b5982.html",
+      "bytes": 77729,
+      "sha256": "a3d456426513d58e5e2e48c1f307e54e6313d61331324423e4cf44014d33456f",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34927592-54e7a6b7.html",
+      "bytes": 73262,
+      "sha256": "32845191b12efcc3f9a8e8cc9ce222d0cb654481b36d913b0416e95f56e71aba",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-34983460-0baa04d5.html",
+      "bytes": 76623,
+      "sha256": "e6d3f9e6b003f4b0d73c749cb1d9128a6619b3b6a6e4c65491049fca23b366b3",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-35241174-d0beafd5.html",
+      "bytes": 80793,
+      "sha256": "03cb3caf391235d3250241a82d984294353b3c3648bb4ecdcb9237027d321d0f",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-35544295-3e3eb3a1.html",
+      "bytes": 76977,
+      "sha256": "fd88cf4a00f463b43e1c4a7a5d519c3bfda12f315083d7d5455624ea42dc0ca5",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-35820989-7404abf8.html",
+      "bytes": 58326,
+      "sha256": "642cad7e0ed7a929de911e5d8b9162c388d61692a8e37985fac5351c71069351",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-35914112-8b1d3db6.html",
+      "bytes": 57083,
+      "sha256": "48205b9cf172767491cc2f1ae81f47ef2286db8c1c11e3c81cd8779bac399926",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-35976180-5277d0bc.html",
+      "bytes": 79067,
+      "sha256": "60ec5e1880ba80e2a6ce49ec7b51da1866269311d0463c10fa81d4e7f4836fde",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-35980733-7db668c5.html",
+      "bytes": 75200,
+      "sha256": "5d7ad9d4e984bcc93efd06c346c22790d47477ec533ce2fc62f093750a94d78e",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36186313-6c158baf.html",
+      "bytes": 60945,
+      "sha256": "a530c0111c99aeea3822ff642d1cb043f9f9d06d105699ce3d3e3d9279b543a7",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36342533-f37fdd7f.html",
+      "bytes": 92351,
+      "sha256": "b32febecce6738bf3b936af88dbe26f19dbd8e106e902c90a03566048f22e24c",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36373473-5b004fe5.html",
+      "bytes": 82117,
+      "sha256": "fa94e48f1989156b35ef7cd336f3e7dbe6e98dd42eac88b3c668587b5778470f",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36407676-b9758061.html",
+      "bytes": 75484,
+      "sha256": "7ff6b3f9ac6c7fa4013dacc646f37f8af21da758d20688328fd3b084c747912a",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36424575-73049d6a.html",
+      "bytes": 59757,
+      "sha256": "25e536386f2ac83c9125e19b39f8c4bf5d8caf8fc5b478c8bab68b847c27be41",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36596239-1a7eb279.html",
+      "bytes": 59311,
+      "sha256": "1ff51041842c952ec41bd79763fa05ed50be3bc8dd9986d9d7d709c95255660a",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36620186-5a97b511.html",
+      "bytes": 75381,
+      "sha256": "067f9e6434503cdc1b783b71b8bbe8b0a1cc3ece666545e230892c9812e0922e",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36833903-a60b16f7.html",
+      "bytes": 58293,
+      "sha256": "24258e221eb4572be7343b3f5c7cd8720649f7ed39b1eff699cfaa0d85483de4",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36844353-f2973577.html",
+      "bytes": 59232,
+      "sha256": "a1a1a8e8d91bea9172277d3d75832056d7cc965bafe4810d93d169364d666c7d",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36877740-b902486d.html",
+      "bytes": 82845,
+      "sha256": "77c5db1e82612a8fa46e74c96ba2aade69811cc419ffb9aa2d24bd13219046a7",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36964523-01196eb5.html",
+      "bytes": 81819,
+      "sha256": "eb49da2186e0d7dbe9b0fd0ca0414b17ae64e85537fe9424a35c2fd519cc27f8",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36991537-9bdbda80.html",
+      "bytes": 82485,
+      "sha256": "81f61bbd62d7dac5e34b8527ec68ea13995e599e95e8f081d88aa7ec07be9010",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-36995752-79722f64.html",
+      "bytes": 75213,
+      "sha256": "1d3c0c60f268638eed8c5d0f32875f8172801d90575829505496e80d5d359465",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37147732-19331cb1.html",
+      "bytes": 59723,
+      "sha256": "624f76ae60fdc904ba21d79fd73cdd13ee80c79f47723d28f8be21c9174752c9",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37151974-e37aaf0e.html",
+      "bytes": 80335,
+      "sha256": "a3311cdb307b9e72371877c541980fbd6580f171ce466428fc2ac7a7974613d6",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37205669-2acce08c.html",
+      "bytes": 56731,
+      "sha256": "14db795ed3507fc2d770e7420fb2bc85e8df844f01f560799bba07b40344e598",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37213197-a92a3783.html",
+      "bytes": 75255,
+      "sha256": "8ea586987d0212586bf2f2c6231c4847e46136af5c21ee3580dc772afe6faf48",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37261464-cf2e155d.html",
+      "bytes": 80247,
+      "sha256": "be3590eb99f30fb97ec3b1ef24513f97992fc16474c46e37ac7c1f6a2fb48770",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37390108-24661d94.html",
+      "bytes": 78524,
+      "sha256": "ce39a39a2689765ab826f7d340c0e3533bff919496ce438e2d9e62de57465215",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-37393283-6f0af29f.html",
+      "bytes": 78589,
+      "sha256": "9f4662aad904fb5c72ec0e454804f467ea3f5b6b373d3cd480680bbbcdcc3421",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38090786-0aae8ab4.html",
+      "bytes": 81648,
+      "sha256": "eb45466bba7b6958b62a6ff61b564391568f13efc1457bd1cc876b243a801049",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38192586-fbbc0e84.html",
+      "bytes": 101163,
+      "sha256": "e877c2b9eade1a5de60ae3b9302047bd9ad3beb55f8938a4d656b8d84c3523d7",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38250521-babadc15.html",
+      "bytes": 59616,
+      "sha256": "afca871982fadc4faba28525c682c7d2469636574bd32fb87074a7f8c84b1bf3",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38362237-3c810039.html",
+      "bytes": 96148,
+      "sha256": "8de4bce5a403ec6c084c4be1bdd9b86b853dea851e7d7970e10f84b328443ff3",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38566202-8b6ea497.html",
+      "bytes": 103892,
+      "sha256": "fdb15a1178e59a041dfa20d507f6d764e2b33ee2dcd6edc8a2a303ee1556cbca",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38584397-2b69b05a.html",
+      "bytes": 56482,
+      "sha256": "da5e2063bdd4e05faa0b22c1828049602fb6a6b014d95215252118aade8c5db2",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38693527-d37ae000.html",
+      "bytes": 57018,
+      "sha256": "d2d5808d949f01b625ddea3bce7f118a1c44b217f5feccb809a471d1ba92a100",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-38939220-6fb4f967.html",
+      "bytes": 58776,
+      "sha256": "36fc6279a23ae3ba2ebf6b224bd1ae4f9879dfd365be57316777d723a9cae73b",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39004687-0c8b2f02.html",
+      "bytes": 56427,
+      "sha256": "a204bc5c478daf8f188c264050d1c761170b9e5558e5e83c1b8aea21ee805393",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39150513-960f2561.html",
+      "bytes": 58541,
+      "sha256": "de4ca54977ef5e14509b0aa7f90bb45c3952707fb2844c2d1a2d12266b19c904",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39260824-76b2e322.html",
+      "bytes": 81630,
+      "sha256": "8ca5bc944fab76ca58e5c0048e666d11cd4f0c602c61378c90114a49f75f6af2",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39392547-dab58cc0.html",
+      "bytes": 55621,
+      "sha256": "97a1eb916b859d9c698beaec964e570c9e605a5f36dce8bb243e51cad5ac9c4d",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39438861-6b578f3c.html",
+      "bytes": 56775,
+      "sha256": "f4f466fc2abf27ce59de1ae8fdef1a302831af43c4fcce60fe3eceaf0b5bc9b6",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39665442-49b6a508.html",
+      "bytes": 76158,
+      "sha256": "087b829249e0f6257f238da85eaea22fd57aac42d1e05ef061bea70b451cab5e",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39666705-a32f9200.html",
+      "bytes": 54940,
+      "sha256": "9abea27ad5fd359817ddcb9606ebb0361100d30c9f8a62a31e431e9af0b25f68",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39720610-7f1b2792.html",
+      "bytes": 104464,
+      "sha256": "e0819df74fc811cb203034dd126ea2bd8c8970e5a1ce340c732aeceb9d153421",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39813031-0c3a3743.html",
+      "bytes": 57753,
+      "sha256": "ca8c1bae0120b4d64a872278ac00f56c436f19bc72fe698af3d8165572608eeb",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39813032-02ca4fe5.html",
+      "bytes": 83792,
+      "sha256": "b2f130a29cb6658a4337750b0604dc1154f4e42e0cd34997e0fbbf1ff04a5e58",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39910150-493ba630.html",
+      "bytes": 59957,
+      "sha256": "2aa570d84144cd78e1daefafbcde2c6b571a82aa65d965cc65cae85913242126",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-39946428-9dea41c5.html",
+      "bytes": 78550,
+      "sha256": "b418389f79c1dbb7e8248f33a327ef217455fe246d7f52d6f32f9571297f3d10",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40033658-4c5d52c8.html",
+      "bytes": 58758,
+      "sha256": "ddd111df7a8e83febcd8258b5945c5aab17a928b03c5c64074d05cd4e7cc7dd3",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40086808-909c7a45.html",
+      "bytes": 85957,
+      "sha256": "ce3707236b76bec8293e3a01766eabf1e3da1cf4630d9cf01d96ef5c69ea44e2",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40109696-ae9a6768.html",
+      "bytes": 57423,
+      "sha256": "1a0e0ec2f83b6ce32f693a33150da9b28c75777c31cad9fd3711c0050b63bf3c",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40180398-03752172.html",
+      "bytes": 77611,
+      "sha256": "8b2e8bce24217f4f696d092310d93d8479c5275695669e39b16db9ce3ef127cf",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40504611-47fe7227.html",
+      "bytes": 58256,
+      "sha256": "88032297168fcf93bd1e53be258cb4e9f26544380012b04ec72b10ab07e44b76",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40521225-2f0479fb.html",
+      "bytes": 54555,
+      "sha256": "75992223d9e69ecd91ddfecf043db054d6a666ec5a42ae9a36849683ceed1c22",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40761439-15c8cc45.html",
+      "bytes": 56032,
+      "sha256": "ae16b47f810e613016e494b9001c0faef179506c606410130b8b89c14005e030",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-40789917-10f70e71.html",
+      "bytes": 57276,
+      "sha256": "a0aefc9c559453c908796585b58be61b0eb4930b2baa5a244d9c0643e445b1a3",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-41171275-aa302220.html",
+      "bytes": 102667,
+      "sha256": "65038802a4feb9edec4590f7812765d02392479a1f1d307fc1c81a1f7b596f20",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-41262946-67acd9d9.html",
+      "bytes": 55069,
+      "sha256": "23661393d5f487f3055463b887d2a5d4fb0f497f74c60b89fe0fa5b77a50f526",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-41313154-620e978c.html",
+      "bytes": 58362,
+      "sha256": "9f818bc1d7927a5a8f237204f89deb7d239f31ff08598d3ce7f4a404446be91f",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-41454356-69275589.html",
+      "bytes": 99905,
+      "sha256": "065fe12cae1369a6a9868b0bc7ddde4079f52518b9fe658218c86fe61b792496",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-41662046-100bba64.html",
+      "bytes": 79499,
+      "sha256": "b7d9d66c5ac93de6721f391d27fbf8a3683d0da729869a002081b5c9bf0d8666",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-41806311-ea4cae54.html",
+      "bytes": 76033,
+      "sha256": "8b433cd9b324db682d159783ceedfb6f2940abb43debbc323f76b08da97a2a3f",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-42057149-aa8c0506.html",
+      "bytes": 57444,
+      "sha256": "2ca02824fb9915c9650eb6758e83488918518f063b271ffd704c415746223bbc",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-42284591-33f06edd.html",
+      "bytes": 78112,
+      "sha256": "f8cef78c32b691be9611033acf2e2e18ff43949e01ca6ab815e3607b2198fc18",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-42337783-bde64ff9.html",
+      "bytes": 58703,
+      "sha256": "ecff90204e8f44384b8585d6c8dd67930b0da7a8e65537a2a206f182e59687ec",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "Informatics/read/publications/youth-pmid-42389090-66ac2bf0.html",
+      "bytes": 83045,
+      "sha256": "445a4e19f2928981190cfd9171ba7474f54092690f5f3ab03372d618e07d933d",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "cloudflare/informatics-research-navigation.js",
+      "bytes": 5159,
+      "sha256": "82fbaa53ba3c4784bb0f79aea890b075e97c7d4d1e935818d78db30f42c997d0",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "cloudflare/informatics-research-worker.js",
+      "bytes": 41950,
+      "sha256": "3301fb996cc489fac295f6359b992a7d0e3666b6f3214e6c908d940e2d821875",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "cloudflare/informatics-youth-knowledge.js",
+      "bytes": 4069,
+      "sha256": "77df7f220f5999f54e9765a4c2f9b1b3470e45d9c6e374508c26d418bc09cec1",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "research/informatics/discovery-20261026/build.json",
+      "bytes": 106566,
+      "sha256": "e0ca04ce860cc8afe07432640a2b59d194e3b47889683f799fa315612c850701",
+      "role": "verification"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/baseline.json",
+      "bytes": 1816,
+      "sha256": "4c6a5d255a4f8cab920d842ab0718159bc06a4741cf15ceb1241d6a5e32661f4",
+      "role": "verification"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-browser.json",
+      "bytes": 1270,
+      "sha256": "4a3555bbef06ba0c6dd1645f72cd87fd9427dd194308077057340f1c79477906",
+      "role": "verification"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-language-1440.png",
+      "bytes": 178267,
+      "sha256": "c5890ca5b7e2045cb8737959205d9f387e8d8c1a6f1ab36dbdfe34ba04a835ca",
+      "role": "verification"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-language-320.png",
+      "bytes": 68171,
+      "sha256": "321b3f3d26d5c500f3f11e2b03b9a9b5ec2e488b7e34f8521c480c4de40ae168",
+      "role": "verification"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-language-390.png",
+      "bytes": 77021,
+      "sha256": "0c7d3b65c1d43365f1957123ce4abe9f796a998e564a9cef483c226667b12003",
+      "role": "verification"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-sound-1440.png",
+      "bytes": 212553,
+      "sha256": "ad53671be6419d0647a9fed88196e25a6d23fdbb6327e09746794671b6261c40",
+      "role": "verification"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-sound-320.png",
+      "bytes": 80862,
+      "sha256": "3dc36ec9f2405442d39b9ad2400344fecae128ad0d6baef124eed8a8809ce7b9",
+      "role": "verification"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-sound-390.png",
+      "bytes": 112132,
+      "sha256": "2de161b5241158e1c03817ce3af494846b84be1a3326fb1bccfde4bf07fab672",
+      "role": "verification"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-vision-1440.png",
+      "bytes": 200705,
+      "sha256": "7f630cee099e2d13e3318ac264fa59d7c6a619c14f7e12719375333ecac21287",
+      "role": "verification"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-vision-320.png",
+      "bytes": 80676,
+      "sha256": "9dca1a4e7ea233859708c852313ac2206537b50824d75b8602e5c82dc0289733",
+      "role": "verification"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/candidate-vision-390.png",
+      "bytes": 112084,
+      "sha256": "4dfc8a7883f3ae1774be76b7f4f8f70c424b03a75d0f55923f8d2167254be041",
+      "role": "verification"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/destination-reconciliation.json",
+      "bytes": 7504,
+      "sha256": "4d0d1e6cd17c0a6bfcbb83b4915e58e0df8ae3891c3043fdbd5a68bcdd306d1f",
+      "role": "verification"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/export-build.json",
+      "bytes": 1699,
+      "sha256": "a2b3b832abb3a57fe4f7b203723a3310c6240b194969422a7e2903804ee26f19",
+      "role": "verification"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/release-thread-handoff.md",
+      "bytes": 4977,
+      "sha256": "a2cc61c75d47d4dadbcf7a0d31a86c77020efec1295ef3e4107c50e03765dd19",
+      "role": "verification"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/roundtrip.json",
+      "bytes": 228,
+      "sha256": "ae25db6c1d005192109544bcd58246c1e66be7b3ffe8b432b5e8b20ce67b6cc7",
+      "role": "verification"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/source-checks.json",
+      "bytes": 624,
+      "sha256": "0ca826cbcdf114fb2ae8f404fa13d8203f6633ec8082bbbcd0c1e4fa3167e3e0",
+      "role": "verification"
+    },
+    {
+      "path": "sitemaps/informatics-publications.xml",
+      "bytes": 146588,
+      "sha256": "cefddb6480bbe00f5dec83d94ea250d2df457aa42764c22fd5efb9d91bb6c8c3",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "tools/build-age-index.py",
+      "bytes": 1530,
+      "sha256": "da22ac66319c055e954bd6ccd0de30da8ae8305a91e8c39c07944d89c18b0a24",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "tools/build-community-index.py",
+      "bytes": 2529,
+      "sha256": "13016ed903dbcb26f9e3f8f8c5dc5cae318dad6596b84e982b8fda68750612a6",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "tools/build-informatics-reading.mjs",
+      "bytes": 25210,
+      "sha256": "ac345cd8a61028d218c63dc09722552d7158e6ff8b3534cfb8371898a3b38055",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "tools/build-youth-library.py",
+      "bytes": 21390,
+      "sha256": "f1e19163ed8421fa4218fd30cdbdb7bb92c6d7719c3b072e3c1681b844a3500d",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "tools/check-youth-integration-browser.mjs",
+      "bytes": 11538,
+      "sha256": "4eda1682025f2c9dd4580428dafd247f07c4ebd20d299037a98612878c0cbc44",
+      "role": "scoped-source-or-generated-page"
+    },
+    {
+      "path": "tools/check-youth-integration.mjs",
+      "bytes": 6377,
+      "sha256": "132347a9bb155cf28e647fecc9c9c9ffad7de0d23044a0f58d39c02b68f65e91",
+      "role": "scoped-source-or-generated-page"
+    }
+  ],
+  "notes": [
+    "Explicit path allowlist; five pre-existing duplicate audit files excluded.",
+    "Only final current export revision included; intermediate untracked exports excluded.",
+    "No private cache, credentials, participant data, production files or unrelated edits included.",
+    "This manifest excludes itself to avoid a circular digest. Deployment evidence is recorded separately."
+  ]
+}

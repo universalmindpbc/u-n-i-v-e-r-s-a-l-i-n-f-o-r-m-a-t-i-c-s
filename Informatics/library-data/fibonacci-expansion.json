@@ -87,7 +87,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Biological observations with a mathematical optimality model. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/27273762/",
+          "https://www.nature.com/articles/srep27347"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Biological observations with a mathematical optimality model. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-srep15358",
@@ -175,7 +194,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Mathematical and numerical model of plant development. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/26471765/",
+          "https://www.nature.com/articles/srep15358"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Mathematical and numerical model of plant development. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s41598-023-34880-8",
@@ -263,7 +301,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Observational morphology with a geometric model. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/37188747/",
+          "https://www.nature.com/articles/s41598-023-34880-8"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Observational morphology with a geometric model. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-nature02081",
@@ -352,7 +409,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Plant developmental experiments and mechanistic model. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/14628043/",
+          "https://www.nature.com/articles/nature02081"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Plant developmental experiments and mechanistic model. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-nature12791",
@@ -443,7 +519,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Plant developmental experiments and hormone-signalling model. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/24336201/",
+          "https://www.nature.com/articles/nature12791"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Plant developmental experiments and hormone-signalling model. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s41598-021-93133-8",
@@ -531,7 +626,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Plant morphology measurements and mathematical model. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/34226577/",
+          "https://www.nature.com/articles/s41598-021-93133-8"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Plant morphology measurements and mathematical model. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s41598-017-13767-5",
@@ -619,7 +733,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Algal developmental observations and perturbation experiments. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/29066850/",
+          "https://www.nature.com/articles/s41598-017-13767-5"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Algal developmental observations and perturbation experiments. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-srep39821",
@@ -707,7 +840,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Combinatorial proof and chemical enumeration. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/28071669/",
+          "https://www.nature.com/articles/srep39821"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Combinatorial proof and chemical enumeration. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s41540-026-00733-z",
@@ -797,7 +949,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Transcriptomic data analysis and gene-network computational modelling. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42120901/",
+          "https://www.nature.com/articles/s41540-026-00733-z"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Transcriptomic data analysis and gene-network computational modelling. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s41586-025-09570-2",
@@ -885,7 +1056,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Engineered DNA-circuit experiments with simulations. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/41034583/",
+          "https://www.nature.com/articles/s41586-025-09570-2"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Engineered DNA-circuit experiments with simulations. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s41567-024-02529-6",
@@ -972,7 +1162,25 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Superconducting-processor quantum simulation experiment. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41567-024-02529-6"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Superconducting-processor quantum simulation experiment. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s41467-025-61493-8",
@@ -1060,7 +1268,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Quantum-circuit design and superconducting-processor experiments. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/40617827/",
+          "https://www.nature.com/articles/s41467-025-61493-8"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Quantum-circuit design and superconducting-processor experiments. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s41586-022-04853-4",
@@ -1148,7 +1375,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Trapped-ion quantum-simulation experiment. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/35859195/",
+          "https://www.nature.com/articles/s41586-022-04853-4"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Trapped-ion quantum-simulation experiment. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-nphys1396",
@@ -1235,7 +1481,25 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Analytical and numerical theory of interacting anyons. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/nphys1396"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Analytical and numerical theory of interacting anyons. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-srep31350",
@@ -1323,7 +1587,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": null,
+        "scope": "Paper",
+        "status": "not-applicable",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "This record is outside the paper-rating criteria or has unresolved publication identity.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/27515908/",
+          "https://www.nature.com/articles/srep31350"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": null,
+      "ratingBasis": "This record is outside the paper-rating criteria or has unresolved publication identity."
     },
     {
       "id": "nature-fibonacci-srep46302",
@@ -1411,7 +1694,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Theoretical quantum-cryptography algorithm. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/28406240/",
+          "https://www.nature.com/articles/srep46302"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Theoretical quantum-cryptography algorithm. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s41598-023-28367-9",
@@ -1499,7 +1801,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Numerical optimization and structural-model case study. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/36854757/",
+          "https://www.nature.com/articles/s41598-023-28367-9"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Numerical optimization and structural-model case study. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s41598-026-66284-9",
@@ -1586,7 +1907,25 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Combinatorial construction and quantum-annealing computational experiment. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41598-026-66284-9"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Combinatorial construction and quantum-annealing computational experiment. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s41598-024-62260-3",
@@ -1674,7 +2013,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Image-encryption algorithm with numerical tests. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/38806546/",
+          "https://www.nature.com/articles/s41598-024-62260-3"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Image-encryption algorithm with numerical tests. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s41598-020-64065-6",
@@ -1762,7 +2120,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Optical-fibre experiments and wave-propagation simulation. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/32346020/",
+          "https://www.nature.com/articles/s41598-020-64065-6"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Optical-fibre experiments and wave-propagation simulation. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s41567-020-0908-7",
@@ -1849,7 +2226,25 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Letter"
+      "publisherArticleType": "Letter",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Theoretical modelling and cavity-polariton experiment. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s41567-020-0908-7"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Theoretical modelling and cavity-polariton experiment. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s41467-020-15760-5",
@@ -1937,7 +2332,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Renormalization-group theory and numerical modelling. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/32376859/",
+          "https://www.nature.com/articles/s41467-020-15760-5"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Renormalization-group theory and numerical modelling. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-srep38651",
@@ -2025,7 +2439,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Analytical optics and numerical simulation. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/27934906/",
+          "https://www.nature.com/articles/srep38651"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Analytical optics and numerical simulation. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s41467-018-05950-7",
@@ -2113,7 +2546,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Surface-materials experiment with structural analysis. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/30143631/",
+          "https://www.nature.com/articles/s41467-018-05950-7"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Surface-materials experiment with structural analysis. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s41598-020-67567-5",
@@ -2201,7 +2653,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Polymer-crystallization microscopy and scattering experiments. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/32616728/",
+          "https://www.nature.com/articles/s41598-020-67567-5"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Polymer-crystallization microscopy and scattering experiments. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s41598-017-02170-9",
@@ -2289,7 +2760,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Numerical wave transport and analytical fractional-dynamics modelling. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/28536441/",
+          "https://www.nature.com/articles/s41598-017-02170-9"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Numerical wave transport and analytical fractional-dynamics modelling. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-nphoton.2009.285",
@@ -2376,7 +2866,25 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Laser-device experiment using an aperiodic grating. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/nphoton.2009.285"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Laser-device experiment using an aperiodic grating. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s42005-025-02264-1",
@@ -2463,7 +2971,25 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Theoretical and numerical topological-chain model. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://www.nature.com/articles/s42005-025-02264-1"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Theoretical and numerical topological-chain model. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s41598-026-40652-x",
@@ -2551,7 +3077,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Diffractive-optics simulations and experimental measurements. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/41741524/",
+          "https://www.nature.com/articles/s41598-026-40652-x"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Diffractive-optics simulations and experimental measurements. No human randomized controlled trial is reported."
     },
     {
       "id": "nature-fibonacci-s41598-020-72218-w",
@@ -2639,7 +3184,26 @@
         "score": null,
         "reason": "Not a human randomized controlled trial."
       },
-      "publisherArticleType": "Article"
+      "publisherArticleType": "Article",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Geometric macromolecular model with scattering comparisons. No human randomized controlled trial is reported.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/33208760/",
+          "https://www.nature.com/articles/s41598-020-72218-w"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Geometric macromolecular model with scattering comparisons. No human randomized controlled trial is reported."
     },
     {
       "id": "quantum-honeycomb-hastings-haah-2021",
@@ -2706,7 +3270,26 @@
         "origin": "Verified follow-up to Gemini research notes",
         "notionPage": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
         "reviewedAt": "2026-10-26"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Theoretical quantum error-correcting code. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://quantum-journal.org/papers/q-2021-10-19-564/",
+          "https://doi.org/10.22331/q-2021-10-19-564"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Theoretical quantum error-correcting code. This is not a clinical efficacy trial."
     },
     {
       "id": "quantum-penrose-fibonacci-code-2024",
@@ -2773,7 +3356,26 @@
         "origin": "Verified follow-up to Gemini research notes",
         "notionPage": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
         "reviewedAt": "2026-10-26"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": null,
+        "scope": "Paper",
+        "status": "not-applicable",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": false,
+        "basis": "This record is outside the paper-rating criteria or has unresolved publication identity.",
+        "sources": [
+          "https://arxiv.org/abs/2311.13040v2",
+          "https://doi.org/10.48550/arXiv.2311.13040"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": null,
+      "ratingBasis": "This record is outside the paper-rating criteria or has unresolved publication identity."
     },
     {
       "id": "quantum-ibm-heavy-hex-2021",
@@ -2838,7 +3440,25 @@
         "origin": "Verified follow-up to Gemini research notes",
         "notionPage": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
         "reviewedAt": "2026-10-26"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": null,
+        "scope": "Paper",
+        "status": "not-applicable",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": false,
+        "basis": "This record is outside the paper-rating criteria or has unresolved publication identity.",
+        "sources": [
+          "https://www.ibm.com/quantum/blog/heavy-hex-lattice"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": null,
+      "ratingBasis": "This record is outside the paper-rating criteria or has unresolved publication identity."
     },
     {
       "id": "quantum-heavy-hex-scaling-2026",
@@ -2911,7 +3531,28 @@
         "reviewedAt": "2026-10-26"
       },
       "publisherFamily": "nature",
-      "publisherFamilyLabel": "Nature Portfolio"
+      "publisherFamilyLabel": "Nature Portfolio",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Superconducting quantum-processor experiment and modelling. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42660895/",
+          "https://www.nature.com/articles/s41467-026-76090-6",
+          "https://doi.org/10.1038/s41467-026-76090-6",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC13522603/"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Superconducting quantum-processor experiment and modelling. This is not a clinical efficacy trial."
     },
     {
       "id": "quantum-kagome-edge-states-2026",
@@ -2978,7 +3619,26 @@
         "origin": "Verified follow-up to Gemini research notes",
         "notionPage": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
         "reviewedAt": "2026-10-26"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Molecular-lattice microscopy and tight-binding calculations. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42915366/",
+          "https://doi.org/10.1021/acs.nanolett.6c03195"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Molecular-lattice microscopy and tight-binding calculations. This is not a clinical efficacy trial."
     },
     {
       "id": "quantum-rydberg-local-error-correction-2024",
@@ -3051,7 +3711,28 @@
         "reviewedAt": "2026-10-26"
       },
       "publisherFamily": "nature",
-      "publisherFamilyLabel": "Nature Portfolio"
+      "publisherFamilyLabel": "Nature Portfolio",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Numerical modelling and analysis of Rydberg-atom measurements. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/38378727/",
+          "https://www.nature.com/articles/s41467-024-45584-6",
+          "https://doi.org/10.1038/s41467-024-45584-6",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC10879205/"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Numerical modelling and analysis of Rydberg-atom measurements. This is not a clinical efficacy trial."
     },
     {
       "id": "quantum-haah-fractal-code-2011",
@@ -3116,7 +3797,25 @@
         "origin": "Verified follow-up to Gemini research notes",
         "notionPage": "https://app.notion.com/p/4047b9c99c5680ddb35ec2e2edf83ee4",
         "reviewedAt": "2026-10-26"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Theoretical three-dimensional stabilizer codes. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://doi.org/10.1103/PhysRevA.83.042330"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Theoretical three-dimensional stabilizer codes. This is not a clinical efficacy trial."
     }
   ]
 }

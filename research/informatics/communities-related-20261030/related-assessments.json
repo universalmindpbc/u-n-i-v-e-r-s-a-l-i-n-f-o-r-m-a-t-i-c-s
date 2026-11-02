@@ -1,0 +1,2387 @@
+{
+  "schemaVersion": "communities-related-audit/v1",
+  "assessedAt": "2026-10-30",
+  "baseCommit": "155f85bccb0595d722ef19e1dc413d9c924cb18f",
+  "baselineAudit": "research/informatics/communities-full-20261030/classification-audit.json",
+  "screenedRecordCount": 1108,
+  "assessmentMethod": "Full-corpus metadata and existing classification screen, followed by focused relevance assessment of 42 candidate records using indexed descriptions and primary-source metadata/abstracts. This is not a systematic literature review or a full-text quality appraisal.",
+  "scope": [
+    "defence",
+    "indigenous",
+    "refugees",
+    "housing"
+  ],
+  "policy": {
+    "relation": "related",
+    "meaning": "An editorial inference linking an intervention, outcome, delivery or practice question to an existing community-specific record. It is not a finding that the candidate studied that community or that treatment effects transfer.",
+    "review": "New relationships remain pending Universal Mind staging review, including relationships added to previously approved papers.",
+    "noNewLink": "No added relation in this pass is not a finding that no related evidence exists.",
+    "preservation": "Existing direct, context and related matches, the original 50 human approvals and all underlying source editions remain unchanged."
+  },
+  "sourceVerification": {
+    "records": 80,
+    "metadataMatched": 80,
+    "abstractsAvailable": 67,
+    "fullTextAppraisal": false
+  },
+  "newRelatedCounts": {
+    "defence": 28,
+    "housing": 41,
+    "refugees": 36,
+    "indigenous": 13
+  },
+  "newRelatedPaperCount": 42,
+  "links": [
+    {
+      "recordId": "portal-66ebe89ad390",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "General adult EMDR and PTSD treatment evidence informs the treatment comparison already studied in veterans and serving personnel.",
+      "anchorRecordIds": [
+        "pmid-30197612",
+        "pmid-26963955"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/42129972/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "fb31e27b22edfc86cf8d4632a592db145378369905f58aa411be3461a5771b07"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "portal-66ebe89ad390",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "PTSD treatment evidence is an indirect intervention lead for the trauma and psychiatric needs documented in homeless adults.",
+      "anchorRecordIds": [
+        "pmid-11127626",
+        "pmid-14961935"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Housing instability and continuity of care need separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/42129972/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "fb31e27b22edfc86cf8d4632a592db145378369905f58aa411be3461a5771b07"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-25101684",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "General adult EMDR and PTSD treatment evidence informs the treatment comparison already studied in veterans and serving personnel.",
+      "anchorRecordIds": [
+        "pmid-30197612",
+        "pmid-26963955"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/25101684/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "17d705c30d63f5ce063369f3e1e11232f90be360596c483791befeeba798f92f"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-25101684",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "General EMDR and PTSD treatment evidence supplies comparator and treatment-format context for the indexed refugee EMDR trials.",
+      "anchorRecordIds": [
+        "pmid-27353367",
+        "pmid-22893808"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/25101684/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "17d705c30d63f5ce063369f3e1e11232f90be360596c483791befeeba798f92f"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-25101684",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "PTSD treatment evidence is an indirect intervention lead for the trauma and psychiatric needs documented in homeless adults.",
+      "anchorRecordIds": [
+        "pmid-11127626",
+        "pmid-14961935"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Housing instability and continuity of care need separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/25101684/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "17d705c30d63f5ce063369f3e1e11232f90be360596c483791befeeba798f92f"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-17284128",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "General adult EMDR and PTSD treatment evidence informs the treatment comparison already studied in veterans and serving personnel.",
+      "anchorRecordIds": [
+        "pmid-30197612",
+        "pmid-26963955"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/17284128/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "9a9b9fc79c024287f42f2c12e19eb713e31b037a8d40a98be0a881429b96cf1f"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-17284128",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "General EMDR and PTSD treatment evidence supplies comparator and treatment-format context for the indexed refugee EMDR trials.",
+      "anchorRecordIds": [
+        "pmid-27353367",
+        "pmid-22893808"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/17284128/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "9a9b9fc79c024287f42f2c12e19eb713e31b037a8d40a98be0a881429b96cf1f"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-17284128",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "PTSD treatment evidence is an indirect intervention lead for the trauma and psychiatric needs documented in homeless adults.",
+      "anchorRecordIds": [
+        "pmid-11127626",
+        "pmid-14961935"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Housing instability and continuity of care need separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/17284128/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "9a9b9fc79c024287f42f2c12e19eb713e31b037a8d40a98be0a881429b96cf1f"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-16899965",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "General adult EMDR and PTSD treatment evidence informs the treatment comparison already studied in veterans and serving personnel.",
+      "anchorRecordIds": [
+        "pmid-30197612",
+        "pmid-26963955"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/16899965/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "a766b50ce780eb8e9c1f41fbef778d12cdd09df86f4b9e6ba37f3cdb0a5913f6"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-16899965",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "General EMDR and PTSD treatment evidence supplies comparator and treatment-format context for the indexed refugee EMDR trials.",
+      "anchorRecordIds": [
+        "pmid-27353367",
+        "pmid-22893808"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/16899965/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "a766b50ce780eb8e9c1f41fbef778d12cdd09df86f4b9e6ba37f3cdb0a5913f6"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-16899965",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "PTSD treatment evidence is an indirect intervention lead for the trauma and psychiatric needs documented in homeless adults.",
+      "anchorRecordIds": [
+        "pmid-11127626",
+        "pmid-14961935"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Housing instability and continuity of care need separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/16899965/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "a766b50ce780eb8e9c1f41fbef778d12cdd09df86f4b9e6ba37f3cdb0a5913f6"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-32892758",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "General adult EMDR and PTSD treatment evidence informs the treatment comparison already studied in veterans and serving personnel.",
+      "anchorRecordIds": [
+        "pmid-30197612",
+        "pmid-26963955"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/32892758/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "92e32da1156f8a15d1117b4cb771916da971093349c3716c16e1ddf47e265ba1"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-32892758",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "General EMDR and PTSD treatment evidence supplies comparator and treatment-format context for the indexed refugee EMDR trials.",
+      "anchorRecordIds": [
+        "pmid-27353367",
+        "pmid-22893808"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/32892758/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "92e32da1156f8a15d1117b4cb771916da971093349c3716c16e1ddf47e265ba1"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-32892758",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "PTSD treatment evidence is an indirect intervention lead for the trauma and psychiatric needs documented in homeless adults.",
+      "anchorRecordIds": [
+        "pmid-11127626",
+        "pmid-14961935"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Housing instability and continuity of care need separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/32892758/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "92e32da1156f8a15d1117b4cb771916da971093349c3716c16e1ddf47e265ba1"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-22322458",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "General adult EMDR and PTSD treatment evidence informs the treatment comparison already studied in veterans and serving personnel.",
+      "anchorRecordIds": [
+        "pmid-30197612",
+        "pmid-26963955"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/22322458/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "11ba75875e2c9fe70a1cad53573a8c8279220f006b2061ba30b029324cb79138"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-22322458",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "General EMDR and PTSD treatment evidence supplies comparator and treatment-format context for the indexed refugee EMDR trials.",
+      "anchorRecordIds": [
+        "pmid-27353367",
+        "pmid-22893808"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/22322458/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "11ba75875e2c9fe70a1cad53573a8c8279220f006b2061ba30b029324cb79138"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-22322458",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "PTSD treatment evidence is an indirect intervention lead for the trauma and psychiatric needs documented in homeless adults.",
+      "anchorRecordIds": [
+        "pmid-11127626",
+        "pmid-14961935"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Housing instability and continuity of care need separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/22322458/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "11ba75875e2c9fe70a1cad53573a8c8279220f006b2061ba30b029324cb79138"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-33415797",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "General adult EMDR and PTSD treatment evidence informs the treatment comparison already studied in veterans and serving personnel.",
+      "anchorRecordIds": [
+        "pmid-30197612",
+        "pmid-26963955"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/33415797/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "37160c3e84fb2813ec9d47ab1e5266cfcc45e83a4da359a17fbab5d60096e181"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-33415797",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "General EMDR and PTSD treatment evidence supplies comparator and treatment-format context for the indexed refugee EMDR trials.",
+      "anchorRecordIds": [
+        "pmid-27353367",
+        "pmid-22893808"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/33415797/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "37160c3e84fb2813ec9d47ab1e5266cfcc45e83a4da359a17fbab5d60096e181"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-33415797",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "PTSD treatment evidence is an indirect intervention lead for the trauma and psychiatric needs documented in homeless adults.",
+      "anchorRecordIds": [
+        "pmid-11127626",
+        "pmid-14961935"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Housing instability and continuity of care need separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/33415797/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "37160c3e84fb2813ec9d47ab1e5266cfcc45e83a4da359a17fbab5d60096e181"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-42773467",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "General adult EMDR and PTSD treatment evidence informs the treatment comparison already studied in veterans and serving personnel.",
+      "anchorRecordIds": [
+        "pmid-30197612",
+        "pmid-26963955"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/42773467/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "cc8bf1416cfea5fad5be0d73ca9e91147d16a6d37dfb7505a45ee2f738695b53"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-42773467",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "General EMDR and PTSD treatment evidence supplies comparator and treatment-format context for the indexed refugee EMDR trials.",
+      "anchorRecordIds": [
+        "pmid-27353367",
+        "pmid-22893808"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/42773467/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "cc8bf1416cfea5fad5be0d73ca9e91147d16a6d37dfb7505a45ee2f738695b53"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-42773467",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "adult-trauma-treatment",
+      "rationale": "PTSD treatment evidence is an indirect intervention lead for the trauma and psychiatric needs documented in homeless adults.",
+      "anchorRecordIds": [
+        "pmid-11127626",
+        "pmid-14961935"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Housing instability and continuity of care need separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/42773467/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "cc8bf1416cfea5fad5be0d73ca9e91147d16a6d37dfb7505a45ee2f738695b53"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-34763697",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "remote-trauma-care",
+      "rationale": "Remote trauma-therapy evidence addresses delivery and acceptability questions raised by veteran telehealth EMDR and service-member technology research.",
+      "anchorRecordIds": [
+        "portal-7c6d9225444d",
+        "pmid-18991533"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Clinician-led remote therapy is distinct from unguided self-help.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/34763697/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "17f4eea327fa7f300737c954c76650c3f76b12de2bc3f098cf3741a7c83c651e"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-34763697",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "remote-trauma-care",
+      "rationale": "Remote EMDR evidence informs the delivery question in the indexed online refugee intervention and smartphone-access research.",
+      "anchorRecordIds": [
+        "doi-2a203fb071ddfe54",
+        "doi-94ef326e2e9a602d"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Language, privacy, connectivity and safeguarding require separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/34763697/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "17f4eea327fa7f300737c954c76650c3f76b12de2bc3f098cf3741a7c83c651e"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-34763697",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "remote-trauma-care",
+      "rationale": "Remote trauma care is a research lead alongside studies of mental-health technology access among people experiencing homelessness.",
+      "anchorRecordIds": [
+        "pmid-28481610",
+        "pmid-31097900"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. A home-based intervention can assume privacy, stable housing and reliable connectivity that are not available to every person.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/34763697/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "17f4eea327fa7f300737c954c76650c3f76b12de2bc3f098cf3741a7c83c651e"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-34025912",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "remote-trauma-care",
+      "rationale": "Remote trauma-therapy evidence addresses delivery and acceptability questions raised by veteran telehealth EMDR and service-member technology research.",
+      "anchorRecordIds": [
+        "portal-7c6d9225444d",
+        "pmid-18991533"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Clinician-led remote therapy is distinct from unguided self-help.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/34025912/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "f729483878ffdad9b3429af52d4fef6fef5908173f9a764ca027448b33e9b1a5"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-34025912",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "remote-trauma-care",
+      "rationale": "Remote EMDR evidence informs the delivery question in the indexed online refugee intervention and smartphone-access research.",
+      "anchorRecordIds": [
+        "doi-2a203fb071ddfe54",
+        "doi-94ef326e2e9a602d"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Language, privacy, connectivity and safeguarding require separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/34025912/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "f729483878ffdad9b3429af52d4fef6fef5908173f9a764ca027448b33e9b1a5"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-34025912",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "remote-trauma-care",
+      "rationale": "Remote trauma care is a research lead alongside studies of mental-health technology access among people experiencing homelessness.",
+      "anchorRecordIds": [
+        "pmid-28481610",
+        "pmid-31097900"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. A home-based intervention can assume privacy, stable housing and reliable connectivity that are not available to every person.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/34025912/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "f729483878ffdad9b3429af52d4fef6fef5908173f9a764ca027448b33e9b1a5"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "src-4981a8e87964",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "remote-trauma-care",
+      "rationale": "Remote trauma-therapy evidence addresses delivery and acceptability questions raised by veteran telehealth EMDR and service-member technology research.",
+      "anchorRecordIds": [
+        "portal-7c6d9225444d",
+        "pmid-18991533"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Clinician-led remote therapy is distinct from unguided self-help.",
+      "sourceVerification": {
+        "sourceURL": "https://doi.org/10.1192/bjo.2020.92",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "7f85b1e2bbe0f7aaa1d297ea271330ffee324ce7dd71d718fa0f9c994201f839"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "src-4981a8e87964",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "remote-trauma-care",
+      "rationale": "Remote trauma care is a research lead alongside studies of mental-health technology access among people experiencing homelessness.",
+      "anchorRecordIds": [
+        "pmid-28481610",
+        "pmid-31097900"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. A home-based intervention can assume privacy, stable housing and reliable connectivity that are not available to every person.",
+      "sourceVerification": {
+        "sourceURL": "https://doi.org/10.1192/bjo.2020.92",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "7f85b1e2bbe0f7aaa1d297ea271330ffee324ce7dd71d718fa0f9c994201f839"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-38250261",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "remote-trauma-care",
+      "rationale": "Remote trauma-therapy evidence addresses delivery and acceptability questions raised by veteran telehealth EMDR and service-member technology research.",
+      "anchorRecordIds": [
+        "portal-7c6d9225444d",
+        "pmid-18991533"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Clinician-led remote therapy is distinct from unguided self-help.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/38250261/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "f0d04d2dacab6988d1fb25a9212ca7aada7706ef5170f98c44f4466e24c4b9fb"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-38250261",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "remote-trauma-care",
+      "rationale": "Remote EMDR evidence informs the delivery question in the indexed online refugee intervention and smartphone-access research.",
+      "anchorRecordIds": [
+        "doi-2a203fb071ddfe54",
+        "doi-94ef326e2e9a602d"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Language, privacy, connectivity and safeguarding require separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/38250261/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "f0d04d2dacab6988d1fb25a9212ca7aada7706ef5170f98c44f4466e24c4b9fb"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-38250261",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "remote-trauma-care",
+      "rationale": "Remote trauma care is a research lead alongside studies of mental-health technology access among people experiencing homelessness.",
+      "anchorRecordIds": [
+        "pmid-28481610",
+        "pmid-31097900"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. A home-based intervention can assume privacy, stable housing and reliable connectivity that are not available to every person.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/38250261/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "f0d04d2dacab6988d1fb25a9212ca7aada7706ef5170f98c44f4466e24c4b9fb"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-42254728",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "remote-trauma-care",
+      "rationale": "Remote trauma-therapy evidence addresses delivery and acceptability questions raised by veteran telehealth EMDR and service-member technology research.",
+      "anchorRecordIds": [
+        "portal-7c6d9225444d",
+        "pmid-18991533"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Clinician-led remote therapy is distinct from unguided self-help.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/42254728/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "031ef9d01a7ed9b217af9e5549f332d87dd33ddffe57e3f4ef4d139dc299e2fb"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-42254728",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "remote-trauma-care",
+      "rationale": "Remote EMDR evidence informs the delivery question in the indexed online refugee intervention and smartphone-access research.",
+      "anchorRecordIds": [
+        "doi-2a203fb071ddfe54",
+        "doi-94ef326e2e9a602d"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Language, privacy, connectivity and safeguarding require separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/42254728/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "031ef9d01a7ed9b217af9e5549f332d87dd33ddffe57e3f4ef4d139dc299e2fb"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-42254728",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "remote-trauma-care",
+      "rationale": "Remote trauma care is a research lead alongside studies of mental-health technology access among people experiencing homelessness.",
+      "anchorRecordIds": [
+        "pmid-28481610",
+        "pmid-31097900"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. A home-based intervention can assume privacy, stable housing and reliable connectivity that are not available to every person.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/42254728/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "031ef9d01a7ed9b217af9e5549f332d87dd33ddffe57e3f4ef4d139dc299e2fb"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-40417270",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "remote-trauma-care",
+      "rationale": "Remote trauma-therapy evidence addresses delivery and acceptability questions raised by veteran telehealth EMDR and service-member technology research.",
+      "anchorRecordIds": [
+        "portal-7c6d9225444d",
+        "pmid-18991533"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Clinician-led remote therapy is distinct from unguided self-help.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/40417270/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "1ebacb0957f0917e031342afa4956babe1cb1609fb8420558b0a6b87a61e9bb3"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-40417270",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "remote-trauma-care",
+      "rationale": "Remote EMDR evidence informs the delivery question in the indexed online refugee intervention and smartphone-access research.",
+      "anchorRecordIds": [
+        "doi-2a203fb071ddfe54",
+        "doi-94ef326e2e9a602d"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Language, privacy, connectivity and safeguarding require separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/40417270/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "1ebacb0957f0917e031342afa4956babe1cb1609fb8420558b0a6b87a61e9bb3"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-40417270",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "remote-trauma-care",
+      "rationale": "Remote trauma care is a research lead alongside studies of mental-health technology access among people experiencing homelessness.",
+      "anchorRecordIds": [
+        "pmid-28481610",
+        "pmid-31097900"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. A home-based intervention can assume privacy, stable housing and reliable connectivity that are not available to every person.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/40417270/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "1ebacb0957f0917e031342afa4956babe1cb1609fb8420558b0a6b87a61e9bb3"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-28660669",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Pediatric trauma-treatment comparisons and delivery formats inform the indexed EMDR and KIDNET trial in refugee children.",
+      "anchorRecordIds": [
+        "pmid-42324567"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/28660669/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "bdec47332309705bdf70790b0cfe2e596527494bb5a751a8b397617f50e261c8"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-28660669",
+      "categoryId": "indigenous",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Pediatric trauma-therapy evidence offers comparisons for the indexed culturally adapted trauma-therapy programme involving Aboriginal children in out-of-home care.",
+      "anchorRecordIds": [
+        "doi-37881ae999c094e1"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established. It does not establish Indigenous-specific effects or cultural safety.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/28660669/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "bdec47332309705bdf70790b0cfe2e596527494bb5a751a8b397617f50e261c8"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-28660669",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Youth trauma-treatment evidence is an indirect lead for the documented psychological distress among homeless youth and trauma burden among homeless people.",
+      "anchorRecordIds": [
+        "pmid-11437809",
+        "pmid-11127626"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established. Homelessness is not inferred from trauma or care placement.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/28660669/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "bdec47332309705bdf70790b0cfe2e596527494bb5a751a8b397617f50e261c8"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-24965797",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Pediatric trauma-treatment comparisons and delivery formats inform the indexed EMDR and KIDNET trial in refugee children.",
+      "anchorRecordIds": [
+        "pmid-42324567"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/24965797/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "9e42d2045c7f755e479c3fef4e1acc7a4746897e90bcb762662ab7306196f6e7"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-24965797",
+      "categoryId": "indigenous",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Pediatric trauma-therapy evidence offers comparisons for the indexed culturally adapted trauma-therapy programme involving Aboriginal children in out-of-home care.",
+      "anchorRecordIds": [
+        "doi-37881ae999c094e1"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established. It does not establish Indigenous-specific effects or cultural safety.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/24965797/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "9e42d2045c7f755e479c3fef4e1acc7a4746897e90bcb762662ab7306196f6e7"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-24965797",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Youth trauma-treatment evidence is an indirect lead for the documented psychological distress among homeless youth and trauma burden among homeless people.",
+      "anchorRecordIds": [
+        "pmid-11437809",
+        "pmid-11127626"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established. Homelessness is not inferred from trauma or care placement.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/24965797/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "9e42d2045c7f755e479c3fef4e1acc7a4746897e90bcb762662ab7306196f6e7"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-39630422",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Pediatric trauma-treatment comparisons and delivery formats inform the indexed EMDR and KIDNET trial in refugee children.",
+      "anchorRecordIds": [
+        "pmid-42324567"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/39630422/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "1a1f0acc18da4c3dacd391c9e660c003a6469ee41fd66ce3ac8606a81610f93b"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-39630422",
+      "categoryId": "indigenous",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Pediatric trauma-therapy evidence offers comparisons for the indexed culturally adapted trauma-therapy programme involving Aboriginal children in out-of-home care.",
+      "anchorRecordIds": [
+        "doi-37881ae999c094e1"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established. It does not establish Indigenous-specific effects or cultural safety.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/39630422/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "1a1f0acc18da4c3dacd391c9e660c003a6469ee41fd66ce3ac8606a81610f93b"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-39630422",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Youth trauma-treatment evidence is an indirect lead for the documented psychological distress among homeless youth and trauma burden among homeless people.",
+      "anchorRecordIds": [
+        "pmid-11437809",
+        "pmid-11127626"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established. Homelessness is not inferred from trauma or care placement.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/39630422/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "1a1f0acc18da4c3dacd391c9e660c003a6469ee41fd66ce3ac8606a81610f93b"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-33709117",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Pediatric trauma-treatment comparisons and delivery formats inform the indexed EMDR and KIDNET trial in refugee children.",
+      "anchorRecordIds": [
+        "pmid-42324567"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/33709117/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "181e4aa29c613f5f3d6338aea983749754eb739c9be64f7a82ab280e89a4e13c"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-33709117",
+      "categoryId": "indigenous",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Pediatric trauma-therapy evidence offers comparisons for the indexed culturally adapted trauma-therapy programme involving Aboriginal children in out-of-home care.",
+      "anchorRecordIds": [
+        "doi-37881ae999c094e1"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established. It does not establish Indigenous-specific effects or cultural safety.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/33709117/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "181e4aa29c613f5f3d6338aea983749754eb739c9be64f7a82ab280e89a4e13c"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-33709117",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Youth trauma-treatment evidence is an indirect lead for the documented psychological distress among homeless youth and trauma burden among homeless people.",
+      "anchorRecordIds": [
+        "pmid-11437809",
+        "pmid-11127626"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established. Homelessness is not inferred from trauma or care placement.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/33709117/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "181e4aa29c613f5f3d6338aea983749754eb739c9be64f7a82ab280e89a4e13c"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-42703195",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Pediatric trauma-treatment comparisons and delivery formats inform the indexed EMDR and KIDNET trial in refugee children.",
+      "anchorRecordIds": [
+        "pmid-42324567"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/42703195/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "48db6e29c6d81e362fae3a70e58fe8cf1e4b7d84f093c613ed62e2192dd21572"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-42703195",
+      "categoryId": "indigenous",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Pediatric trauma-therapy evidence offers comparisons for the indexed culturally adapted trauma-therapy programme involving Aboriginal children in out-of-home care.",
+      "anchorRecordIds": [
+        "doi-37881ae999c094e1"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established. It does not establish Indigenous-specific effects or cultural safety.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/42703195/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "48db6e29c6d81e362fae3a70e58fe8cf1e4b7d84f093c613ed62e2192dd21572"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-42703195",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Youth trauma-treatment evidence is an indirect lead for the documented psychological distress among homeless youth and trauma burden among homeless people.",
+      "anchorRecordIds": [
+        "pmid-11437809",
+        "pmid-11127626"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established. Homelessness is not inferred from trauma or care placement.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/42703195/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "48db6e29c6d81e362fae3a70e58fe8cf1e4b7d84f093c613ed62e2192dd21572"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-34512458",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Pediatric trauma-treatment comparisons and delivery formats inform the indexed EMDR and KIDNET trial in refugee children.",
+      "anchorRecordIds": [
+        "pmid-42324567"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/34512458/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "f5bc6b6fa42331fc8810b1f94cf6cf3447f6965bf1506e2c7f0f5807848305f7"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-34512458",
+      "categoryId": "indigenous",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Pediatric trauma-therapy evidence offers comparisons for the indexed culturally adapted trauma-therapy programme involving Aboriginal children in out-of-home care.",
+      "anchorRecordIds": [
+        "doi-37881ae999c094e1"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established. It does not establish Indigenous-specific effects or cultural safety.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/34512458/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "f5bc6b6fa42331fc8810b1f94cf6cf3447f6965bf1506e2c7f0f5807848305f7"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-34512458",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Youth trauma-treatment evidence is an indirect lead for the documented psychological distress among homeless youth and trauma burden among homeless people.",
+      "anchorRecordIds": [
+        "pmid-11437809",
+        "pmid-11127626"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established. Homelessness is not inferred from trauma or care placement.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/34512458/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "f5bc6b6fa42331fc8810b1f94cf6cf3447f6965bf1506e2c7f0f5807848305f7"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-39835632",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Pediatric trauma-treatment comparisons and delivery formats inform the indexed EMDR and KIDNET trial in refugee children.",
+      "anchorRecordIds": [
+        "pmid-42324567"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/39835632/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "fe993920d7da04381670ed837f9c31043bb1c8143d94956ca7ebd57e8ad74689"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-39835632",
+      "categoryId": "indigenous",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Pediatric trauma-therapy evidence offers comparisons for the indexed culturally adapted trauma-therapy programme involving Aboriginal children in out-of-home care.",
+      "anchorRecordIds": [
+        "doi-37881ae999c094e1"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established. It does not establish Indigenous-specific effects or cultural safety.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/39835632/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "fe993920d7da04381670ed837f9c31043bb1c8143d94956ca7ebd57e8ad74689"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-39835632",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "pediatric-trauma-treatment",
+      "rationale": "Youth trauma-treatment evidence is an indirect lead for the documented psychological distress among homeless youth and trauma burden among homeless people.",
+      "anchorRecordIds": [
+        "pmid-11437809",
+        "pmid-11127626"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established. Homelessness is not inferred from trauma or care placement.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/39835632/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "fe993920d7da04381670ed837f9c31043bb1c8143d94956ca7ebd57e8ad74689"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-26256140",
+      "categoryId": "indigenous",
+      "relation": "related",
+      "bridgeType": "youth-mindfulness",
+      "rationale": "Youth mindfulness evidence, including foster-care and school delivery, informs age-appropriate intervention questions alongside the indexed Native American youth mindfulness programme.",
+      "anchorRecordIds": [
+        "doi-bcda25fdeb002c46",
+        "doi-37881ae999c094e1"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established. Neither Indigenous identity nor suicide-prevention effectiveness is inferred.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/26256140/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "edd70ee735eb457e28b508d2bb9da373d9f8bafbf2d5055a1f5b18f49d14dd2a"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-26256140",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "youth-mindfulness",
+      "rationale": "Youth mindfulness evidence supplies comparative delivery and feasibility information for indexed mindfulness work with homeless youth.",
+      "anchorRecordIds": [
+        "doi-2d7461017405ab6b",
+        "doi-efaa5ab4cab4e9ec"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/26256140/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "edd70ee735eb457e28b508d2bb9da373d9f8bafbf2d5055a1f5b18f49d14dd2a"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-26256140",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "youth-mindfulness",
+      "rationale": "Youth mindfulness evidence connects the indexed refugee mindfulness work with the school setting already used for refugee youth psychosocial interventions.",
+      "anchorRecordIds": [
+        "pmid-23784718",
+        "doi-61628ddd002899ff"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/26256140/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "edd70ee735eb457e28b508d2bb9da373d9f8bafbf2d5055a1f5b18f49d14dd2a"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "doi-b8c111dd4c4a9cd1",
+      "categoryId": "indigenous",
+      "relation": "related",
+      "bridgeType": "youth-mindfulness",
+      "rationale": "Youth mindfulness evidence, including foster-care and school delivery, informs age-appropriate intervention questions alongside the indexed Native American youth mindfulness programme.",
+      "anchorRecordIds": [
+        "doi-bcda25fdeb002c46",
+        "doi-37881ae999c094e1"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established. Neither Indigenous identity nor suicide-prevention effectiveness is inferred.",
+      "sourceVerification": {
+        "sourceURL": "https://doi.org/10.1111/j.1750-8606.2011.00215.x",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "3835b9a68a868ca9f9e5bff66612011725e493ee7506b43767f09b215a7669cc"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "doi-b8c111dd4c4a9cd1",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "youth-mindfulness",
+      "rationale": "Youth mindfulness evidence supplies comparative delivery and feasibility information for indexed mindfulness work with homeless youth.",
+      "anchorRecordIds": [
+        "doi-2d7461017405ab6b",
+        "doi-efaa5ab4cab4e9ec"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established.",
+      "sourceVerification": {
+        "sourceURL": "https://doi.org/10.1111/j.1750-8606.2011.00215.x",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "3835b9a68a868ca9f9e5bff66612011725e493ee7506b43767f09b215a7669cc"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "doi-b8c111dd4c4a9cd1",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "youth-mindfulness",
+      "rationale": "Youth mindfulness evidence connects the indexed refugee mindfulness work with the school setting already used for refugee youth psychosocial interventions.",
+      "anchorRecordIds": [
+        "pmid-23784718",
+        "doi-61628ddd002899ff"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established.",
+      "sourceVerification": {
+        "sourceURL": "https://doi.org/10.1111/j.1750-8606.2011.00215.x",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "3835b9a68a868ca9f9e5bff66612011725e493ee7506b43767f09b215a7669cc"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-20440550",
+      "categoryId": "indigenous",
+      "relation": "related",
+      "bridgeType": "youth-mindfulness",
+      "rationale": "Youth mindfulness evidence, including foster-care and school delivery, informs age-appropriate intervention questions alongside the indexed Native American youth mindfulness programme.",
+      "anchorRecordIds": [
+        "doi-bcda25fdeb002c46",
+        "doi-37881ae999c094e1"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established. Neither Indigenous identity nor suicide-prevention effectiveness is inferred.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/20440550/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "01181b151b1101462cd11326ef718a0a9c3d8aada6c909ac2ec652ad088d4dca"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-20440550",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "youth-mindfulness",
+      "rationale": "Youth mindfulness evidence supplies comparative delivery and feasibility information for indexed mindfulness work with homeless youth.",
+      "anchorRecordIds": [
+        "doi-2d7461017405ab6b",
+        "doi-efaa5ab4cab4e9ec"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/20440550/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "01181b151b1101462cd11326ef718a0a9c3d8aada6c909ac2ec652ad088d4dca"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-20440550",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "youth-mindfulness",
+      "rationale": "Youth mindfulness evidence connects the indexed refugee mindfulness work with the school setting already used for refugee youth psychosocial interventions.",
+      "anchorRecordIds": [
+        "pmid-23784718",
+        "doi-61628ddd002899ff"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/20440550/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "01181b151b1101462cd11326ef718a0a9c3d8aada6c909ac2ec652ad088d4dca"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-35820992",
+      "categoryId": "indigenous",
+      "relation": "related",
+      "bridgeType": "youth-mindfulness",
+      "rationale": "Youth mindfulness evidence, including foster-care and school delivery, informs age-appropriate intervention questions alongside the indexed Native American youth mindfulness programme.",
+      "anchorRecordIds": [
+        "doi-bcda25fdeb002c46",
+        "doi-37881ae999c094e1"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established. Neither Indigenous identity nor suicide-prevention effectiveness is inferred.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/35820992/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "8c254c80cc69ddd341517706377ae8adc92f28ff73bdb0a3f6c2bbfc0a34c75a"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-35820992",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "youth-mindfulness",
+      "rationale": "Youth mindfulness evidence supplies comparative delivery and feasibility information for indexed mindfulness work with homeless youth.",
+      "anchorRecordIds": [
+        "doi-2d7461017405ab6b",
+        "doi-efaa5ab4cab4e9ec"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/35820992/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "8c254c80cc69ddd341517706377ae8adc92f28ff73bdb0a3f6c2bbfc0a34c75a"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-35820992",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "youth-mindfulness",
+      "rationale": "Youth mindfulness evidence connects the indexed refugee mindfulness work with the school setting already used for refugee youth psychosocial interventions.",
+      "anchorRecordIds": [
+        "pmid-23784718",
+        "doi-61628ddd002899ff"
+      ],
+      "transferLimit": "Age and intervention overlap support a research lead. Trauma type, care setting, family involvement and cultural adaptation differ; target-community benefit is not established.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/35820992/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "8c254c80cc69ddd341517706377ae8adc92f28ff73bdb0a3f6c2bbfc0a34c75a"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-36427257",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "mind-body-ptsd-and-distress",
+      "rationale": "Mindfulness, mantra and yoga evidence informs nonpharmacological PTSD and distress questions already investigated in veterans.",
+      "anchorRecordIds": [
+        "pmid-29921143",
+        "pmid-26241597"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Yoga, mindfulness and mantram repetition are distinct practices.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/36427257/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "506a846e4f98b6a9c6426d528b484400f7c1465aa182b7559685ebdde16df8b6"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-36427257",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "mind-body-ptsd-and-distress",
+      "rationale": "Mind-body evidence informs the meditation and affect-regulation questions investigated in indexed refugee studies.",
+      "anchorRecordIds": [
+        "pmid-24515537",
+        "pmid-23784718"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Cultural meaning and intervention type require separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/36427257/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "506a846e4f98b6a9c6426d528b484400f7c1465aa182b7559685ebdde16df8b6"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-36427257",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "mind-body-ptsd-and-distress",
+      "rationale": "Mind-body evidence offers intervention context for the indexed mindfulness and stress-reduction research with homeless adults.",
+      "anchorRecordIds": [
+        "doi-afe44de7f462e56e",
+        "src-ea7973a48c81"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Generic stress reduction does not establish an effect on homelessness.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/36427257/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "506a846e4f98b6a9c6426d528b484400f7c1465aa182b7559685ebdde16df8b6"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-38327501",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "mind-body-ptsd-and-distress",
+      "rationale": "Mindfulness, mantra and yoga evidence informs nonpharmacological PTSD and distress questions already investigated in veterans.",
+      "anchorRecordIds": [
+        "pmid-29921143",
+        "pmid-26241597"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Yoga, mindfulness and mantram repetition are distinct practices.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/38327501/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "fd48332553c216bf81adb277b4b9c60f06369e20bb350da217ff777cc35c927b"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-38327501",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "mind-body-ptsd-and-distress",
+      "rationale": "Mind-body evidence informs the meditation and affect-regulation questions investigated in indexed refugee studies.",
+      "anchorRecordIds": [
+        "pmid-24515537",
+        "pmid-23784718"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Cultural meaning and intervention type require separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/38327501/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "fd48332553c216bf81adb277b4b9c60f06369e20bb350da217ff777cc35c927b"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-38327501",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "mind-body-ptsd-and-distress",
+      "rationale": "Mind-body evidence offers intervention context for the indexed mindfulness and stress-reduction research with homeless adults.",
+      "anchorRecordIds": [
+        "doi-afe44de7f462e56e",
+        "src-ea7973a48c81"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Generic stress reduction does not establish an effect on homelessness.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/38327501/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "fd48332553c216bf81adb277b4b9c60f06369e20bb350da217ff777cc35c927b"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-35329068",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "mind-body-ptsd-and-distress",
+      "rationale": "Mindfulness, mantra and yoga evidence informs nonpharmacological PTSD and distress questions already investigated in veterans.",
+      "anchorRecordIds": [
+        "pmid-29921143",
+        "pmid-26241597"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Yoga, mindfulness and mantram repetition are distinct practices.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/35329068/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "ac1a089e8b80ef97c2dcde5d9f39d0a3b61f6c3360119d5bf996792fac2e062b"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-35329068",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "mind-body-ptsd-and-distress",
+      "rationale": "Mind-body evidence informs the meditation and affect-regulation questions investigated in indexed refugee studies.",
+      "anchorRecordIds": [
+        "pmid-24515537",
+        "pmid-23784718"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Cultural meaning and intervention type require separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/35329068/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "ac1a089e8b80ef97c2dcde5d9f39d0a3b61f6c3360119d5bf996792fac2e062b"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-35329068",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "mind-body-ptsd-and-distress",
+      "rationale": "Mind-body evidence offers intervention context for the indexed mindfulness and stress-reduction research with homeless adults.",
+      "anchorRecordIds": [
+        "doi-afe44de7f462e56e",
+        "src-ea7973a48c81"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Generic stress reduction does not establish an effect on homelessness.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/35329068/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "ac1a089e8b80ef97c2dcde5d9f39d0a3b61f6c3360119d5bf996792fac2e062b"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-23796855",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "mind-body-ptsd-and-distress",
+      "rationale": "Mindfulness, mantra and yoga evidence informs nonpharmacological PTSD and distress questions already investigated in veterans.",
+      "anchorRecordIds": [
+        "pmid-29921143",
+        "pmid-26241597"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Yoga, mindfulness and mantram repetition are distinct practices.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/23796855/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "81fd89bce9782ea5f35b4159f6c61e6844f21fd4a6a3f75b5fa4c29583f907a4"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-23796855",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "mind-body-ptsd-and-distress",
+      "rationale": "Mind-body evidence informs the meditation and affect-regulation questions investigated in indexed refugee studies.",
+      "anchorRecordIds": [
+        "pmid-24515537",
+        "pmid-23784718"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Cultural meaning and intervention type require separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/23796855/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "81fd89bce9782ea5f35b4159f6c61e6844f21fd4a6a3f75b5fa4c29583f907a4"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-23796855",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "mind-body-ptsd-and-distress",
+      "rationale": "Mind-body evidence offers intervention context for the indexed mindfulness and stress-reduction research with homeless adults.",
+      "anchorRecordIds": [
+        "doi-afe44de7f462e56e",
+        "src-ea7973a48c81"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Generic stress reduction does not establish an effect on homelessness.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/23796855/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "81fd89bce9782ea5f35b4159f6c61e6844f21fd4a6a3f75b5fa4c29583f907a4"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-20193089",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "mind-body-ptsd-and-distress",
+      "rationale": "Mindfulness, mantra and yoga evidence informs nonpharmacological PTSD and distress questions already investigated in veterans.",
+      "anchorRecordIds": [
+        "pmid-29921143",
+        "pmid-26241597"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Yoga, mindfulness and mantram repetition are distinct practices.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/20193089/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "ff45fd2fe9a4131dad75b5e6691d9dd3b7c78134de8e8a967a9e85552326f736"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-20193089",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "mind-body-ptsd-and-distress",
+      "rationale": "Mind-body evidence informs the meditation and affect-regulation questions investigated in indexed refugee studies.",
+      "anchorRecordIds": [
+        "pmid-24515537",
+        "pmid-23784718"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Cultural meaning and intervention type require separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/20193089/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "ff45fd2fe9a4131dad75b5e6691d9dd3b7c78134de8e8a967a9e85552326f736"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-20193089",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "mind-body-ptsd-and-distress",
+      "rationale": "Mind-body evidence offers intervention context for the indexed mindfulness and stress-reduction research with homeless adults.",
+      "anchorRecordIds": [
+        "doi-afe44de7f462e56e",
+        "src-ea7973a48c81"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Generic stress reduction does not establish an effect on homelessness.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/20193089/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "ff45fd2fe9a4131dad75b5e6691d9dd3b7c78134de8e8a967a9e85552326f736"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-23541163",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "anxiety-mindfulness",
+      "rationale": "Clinical anxiety and stress-reactivity findings provide adjacent outcome evidence for the mindfulness and mantram interventions indexed in veterans.",
+      "anchorRecordIds": [
+        "pmid-26241597",
+        "pmid-29921143"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Anxiety and PTSD are different clinical conditions.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/23541163/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "ef3173897dd06ded9b734343dcf5eebc79c5d41c8b62666402baddcb021f8322"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-23541163",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "anxiety-mindfulness",
+      "rationale": "Clinical anxiety evidence provides adjacent outcome context for indexed refugee research on panic, PTSD and mindfulness.",
+      "anchorRecordIds": [
+        "pmid-16382423",
+        "pmid-23784718"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. General anxiety findings are not refugee-specific evidence.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/23541163/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "ef3173897dd06ded9b734343dcf5eebc79c5d41c8b62666402baddcb021f8322"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-23541163",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "anxiety-mindfulness",
+      "rationale": "Clinical anxiety evidence provides adjacent outcome context for the indexed stress-reduction work and mental-health needs among homeless adults.",
+      "anchorRecordIds": [
+        "doi-afe44de7f462e56e",
+        "pmid-14961935"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/23541163/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "ef3173897dd06ded9b734343dcf5eebc79c5d41c8b62666402baddcb021f8322"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-36350591",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "anxiety-mindfulness",
+      "rationale": "Clinical anxiety and stress-reactivity findings provide adjacent outcome evidence for the mindfulness and mantram interventions indexed in veterans.",
+      "anchorRecordIds": [
+        "pmid-26241597",
+        "pmid-29921143"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Anxiety and PTSD are different clinical conditions.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/36350591/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "f665876de3fc0e373112a2132a5eddb4a0dd0f04db858a13db8279de7cf38e24"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-36350591",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "anxiety-mindfulness",
+      "rationale": "Clinical anxiety evidence provides adjacent outcome context for indexed refugee research on panic, PTSD and mindfulness.",
+      "anchorRecordIds": [
+        "pmid-16382423",
+        "pmid-23784718"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. General anxiety findings are not refugee-specific evidence.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/36350591/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "f665876de3fc0e373112a2132a5eddb4a0dd0f04db858a13db8279de7cf38e24"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-36350591",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "anxiety-mindfulness",
+      "rationale": "Clinical anxiety evidence provides adjacent outcome context for the indexed stress-reduction work and mental-health needs among homeless adults.",
+      "anchorRecordIds": [
+        "doi-afe44de7f462e56e",
+        "pmid-14961935"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/36350591/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "f665876de3fc0e373112a2132a5eddb4a0dd0f04db858a13db8279de7cf38e24"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-40547443",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "music-mental-health",
+      "rationale": "Music intervention reviews provide wider evidence and methodological context for indexed music-therapy work with soldiers and veterans.",
+      "anchorRecordIds": [
+        "doi-0017e1c8036baaa5",
+        "doi-b1734615d2614781"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Music listening, group participation and therapist-led treatment are distinct interventions.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/40547443/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "489bf41f2191cf4f9bd2f78105c1de7dd0131f3ef1c922882fdb87ba3ebc8a3e"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-40547443",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "music-mental-health",
+      "rationale": "Music intervention reviews provide wider evidence and methodological context for indexed clinical and school music-therapy work with refugees.",
+      "anchorRecordIds": [
+        "doi-ee4dbad2ce729f10",
+        "doi-61628ddd002899ff"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Cultural relevance and displacement context need separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/40547443/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "489bf41f2191cf4f9bd2f78105c1de7dd0131f3ef1c922882fdb87ba3ebc8a3e"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-40547443",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "music-mental-health",
+      "rationale": "Music intervention reviews provide wider mental-health evidence for the indexed music-therapy work with homeless adults and children.",
+      "anchorRecordIds": [
+        "doi-07f639404ec1fc0d",
+        "doi-bfab13a657ed2d81"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/40547443/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "489bf41f2191cf4f9bd2f78105c1de7dd0131f3ef1c922882fdb87ba3ebc8a3e"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-40655918",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "music-mental-health",
+      "rationale": "Music intervention reviews provide wider evidence and methodological context for indexed music-therapy work with soldiers and veterans.",
+      "anchorRecordIds": [
+        "doi-0017e1c8036baaa5",
+        "doi-b1734615d2614781"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Music listening, group participation and therapist-led treatment are distinct interventions.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/40655918/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "2261bde1216b70c04dd216e3cf655a74e1fc664818c8140db93420a777cb6332"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-40655918",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "music-mental-health",
+      "rationale": "Music intervention reviews provide wider evidence and methodological context for indexed clinical and school music-therapy work with refugees.",
+      "anchorRecordIds": [
+        "doi-ee4dbad2ce729f10",
+        "doi-61628ddd002899ff"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Cultural relevance and displacement context need separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/40655918/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "2261bde1216b70c04dd216e3cf655a74e1fc664818c8140db93420a777cb6332"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-40655918",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "music-mental-health",
+      "rationale": "Music intervention reviews provide wider mental-health evidence for the indexed music-therapy work with homeless adults and children.",
+      "anchorRecordIds": [
+        "doi-07f639404ec1fc0d",
+        "doi-bfab13a657ed2d81"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/40655918/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "2261bde1216b70c04dd216e3cf655a74e1fc664818c8140db93420a777cb6332"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-24876768",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "music-mental-health",
+      "rationale": "Music intervention reviews provide wider evidence and methodological context for indexed music-therapy work with soldiers and veterans.",
+      "anchorRecordIds": [
+        "doi-0017e1c8036baaa5",
+        "doi-b1734615d2614781"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Music listening, group participation and therapist-led treatment are distinct interventions.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/24876768/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "b9478a19dac6b9c9f81de7c410d3bc57a3f2d3db7bcf7f08a63d0a5ac6a13ec2"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-24876768",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "music-mental-health",
+      "rationale": "Music intervention reviews provide wider evidence and methodological context for indexed clinical and school music-therapy work with refugees.",
+      "anchorRecordIds": [
+        "doi-ee4dbad2ce729f10",
+        "doi-61628ddd002899ff"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ. Cultural relevance and displacement context need separate assessment.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/24876768/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "b9478a19dac6b9c9f81de7c410d3bc57a3f2d3db7bcf7f08a63d0a5ac6a13ec2"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-24876768",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "music-mental-health",
+      "rationale": "Music intervention reviews provide wider mental-health evidence for the indexed music-therapy work with homeless adults and children.",
+      "anchorRecordIds": [
+        "doi-07f639404ec1fc0d",
+        "doi-bfab13a657ed2d81"
+      ],
+      "transferLimit": "A shared PTSD treatment question does not establish effectiveness, acceptability or delivery feasibility in the target community. Trauma histories and clinical settings differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/24876768/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "b9478a19dac6b9c9f81de7c410d3bc57a3f2d3db7bcf7f08a63d0a5ac6a13ec2"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "doi-82aafc04d055ceed",
+      "categoryId": "indigenous",
+      "relation": "related",
+      "bridgeType": "cross-cultural-music",
+      "rationale": "Cross-cultural empathy in music therapy is a practice-context research lead for the indexed cultural-learning work with Indigenous families.",
+      "anchorRecordIds": [
+        "doi-7bca5becd0049aeb"
+      ],
+      "transferLimit": "Cross-cultural professional attitudes do not establish Indigenous cultural safety, community consent or clinical effectiveness.",
+      "sourceVerification": {
+        "sourceURL": "https://doi.org/10.1093/mtp/24.2.108",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "595ccd8c2c3ec8e49c761dbd318690a06e07cc7ff4f3f31934261055c638c9e6"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "doi-82aafc04d055ceed",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "cross-cultural-music",
+      "rationale": "Cross-cultural empathy research informs the cultural-translation and power questions raised in indexed music-therapy work with refugees.",
+      "anchorRecordIds": [
+        "src-96965bda66df",
+        "src-14af5866007b"
+      ],
+      "transferLimit": "Professional attitudes are practice context, not a refugee treatment-effect estimate.",
+      "sourceVerification": {
+        "sourceURL": "https://doi.org/10.1093/mtp/24.2.108",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "595ccd8c2c3ec8e49c761dbd318690a06e07cc7ff4f3f31934261055c638c9e6"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-21768988",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "substance-use-mindfulness",
+      "rationale": "Mindfulness relapse-prevention studies offer intervention comparisons for the indexed meditation and self-care programme with homeless women experiencing addiction.",
+      "anchorRecordIds": [
+        "doi-afe44de7f462e56e"
+      ],
+      "transferLimit": "Study participants are not classified as homeless. Structured substance-use aftercare, housing and access conditions differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/21768988/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "f178e2ad74efcb584cd296be06a0b028e3697ee41a41011e8e1583e6e620eb83"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-21768988",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "substance-use-mindfulness",
+      "rationale": "Mindfulness relapse-prevention studies offer an adjacent intervention question for the indexed veteran mental-health and addiction treatment setting.",
+      "anchorRecordIds": [
+        "doi-b1734615d2614781"
+      ],
+      "transferLimit": "A shared treatment setting supports a research lead, not a veteran-specific estimate or equivalence to music therapy.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/21768988/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "f178e2ad74efcb584cd296be06a0b028e3697ee41a41011e8e1583e6e620eb83"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-24647726",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "substance-use-mindfulness",
+      "rationale": "Mindfulness relapse-prevention studies offer intervention comparisons for the indexed meditation and self-care programme with homeless women experiencing addiction.",
+      "anchorRecordIds": [
+        "doi-afe44de7f462e56e"
+      ],
+      "transferLimit": "Study participants are not classified as homeless. Structured substance-use aftercare, housing and access conditions differ.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/24647726/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "03cf42ced2209cb608a20bd3a5bbd2f9e81269f20d24a6a68fe02f559620311f"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-24647726",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "substance-use-mindfulness",
+      "rationale": "Mindfulness relapse-prevention studies offer an adjacent intervention question for the indexed veteran mental-health and addiction treatment setting.",
+      "anchorRecordIds": [
+        "doi-b1734615d2614781"
+      ],
+      "transferLimit": "A shared treatment setting supports a research lead, not a veteran-specific estimate or equivalence to music therapy.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/24647726/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "03cf42ced2209cb608a20bd3a5bbd2f9e81269f20d24a6a68fe02f559620311f"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-37882058",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "psychosis-trauma-care",
+      "rationale": "Trauma treatment in people with psychosis is a comorbidity research lead alongside the indexed psychiatric-disorder and trauma studies in homeless adults.",
+      "anchorRecordIds": [
+        "pmid-14961935",
+        "pmid-11127626"
+      ],
+      "transferLimit": "Psychosis does not imply homelessness. Feasibility and treatment effects in the studied services do not establish outcomes in homeless communities.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/37882058/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "60155b19213dd631f5d69fb290d72d6fc66244d4a115fa8cd165b201a46dde22"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-25607833",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "psychosis-trauma-care",
+      "rationale": "Trauma treatment in people with psychosis is a comorbidity research lead alongside the indexed psychiatric-disorder and trauma studies in homeless adults.",
+      "anchorRecordIds": [
+        "pmid-14961935",
+        "pmid-11127626"
+      ],
+      "transferLimit": "Psychosis does not imply homelessness. Feasibility and treatment effects in the studied services do not establish outcomes in homeless communities.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/25607833/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "45a769a607a4cc6f2b49eb9dcafe9313e7d8795bbbcee5a3ec0aae49b899878b"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "src-c5f78a99d96b",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "mental-health-digital-access",
+      "rationale": "A behavioural-health smartphone framework provides design context for indexed veteran app and service-member technology research.",
+      "anchorRecordIds": [
+        "pmid-24828126",
+        "pmid-18991533"
+      ],
+      "transferLimit": "A technology framework is not a clinical trial or evidence that a particular community has usable, private access.",
+      "sourceVerification": {
+        "sourceURL": "https://doi.org/10.1037/a0024485",
+        "titleSimilarity": 0.9941,
+        "abstractAvailable": false,
+        "sourceTextSHA256": "517827a4980a01cc3f7feb9c2468124040590995073ca394efbd556a8164bb87"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "src-c5f78a99d96b",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "mental-health-digital-access",
+      "rationale": "A behavioural-health smartphone framework provides design context for indexed refugee digital access and online mental-health intervention research.",
+      "anchorRecordIds": [
+        "doi-2a203fb071ddfe54",
+        "doi-94ef326e2e9a602d"
+      ],
+      "transferLimit": "Connectivity, language, trust and privacy are community-specific implementation questions.",
+      "sourceVerification": {
+        "sourceURL": "https://doi.org/10.1037/a0024485",
+        "titleSimilarity": 0.9941,
+        "abstractAvailable": false,
+        "sourceTextSHA256": "517827a4980a01cc3f7feb9c2468124040590995073ca394efbd556a8164bb87"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "src-c5f78a99d96b",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "mental-health-digital-access",
+      "rationale": "A behavioural-health smartphone framework provides design context for indexed homeless-youth mental-health access and app-usability research.",
+      "anchorRecordIds": [
+        "pmid-28481610",
+        "pmid-27417882"
+      ],
+      "transferLimit": "Device ownership does not establish sustained access, privacy or clinical effectiveness.",
+      "sourceVerification": {
+        "sourceURL": "https://doi.org/10.1037/a0024485",
+        "titleSimilarity": 0.9941,
+        "abstractAvailable": false,
+        "sourceTextSHA256": "517827a4980a01cc3f7feb9c2468124040590995073ca394efbd556a8164bb87"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "src-c5f78a99d96b",
+      "categoryId": "indigenous",
+      "relation": "related",
+      "bridgeType": "mental-health-digital-access",
+      "rationale": "A behavioural-health smartphone framework provides design context for the indexed Indigenous youth app and digital-participation research.",
+      "anchorRecordIds": [
+        "src-0e1e9057a0a3",
+        "pmid-27225519"
+      ],
+      "transferLimit": "General app design does not establish cultural safety, community governance or Indigenous-specific clinical effectiveness.",
+      "sourceVerification": {
+        "sourceURL": "https://doi.org/10.1037/a0024485",
+        "titleSimilarity": 0.9941,
+        "abstractAvailable": false,
+        "sourceTextSHA256": "517827a4980a01cc3f7feb9c2468124040590995073ca394efbd556a8164bb87"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-42599846",
+      "categoryId": "defence",
+      "relation": "related",
+      "bridgeType": "digital-mindfulness-clinical",
+      "rationale": "A digital mindfulness trial in distressed adults connects the indexed veteran app-delivery and structured mindfulness research questions.",
+      "anchorRecordIds": [
+        "pmid-24828126",
+        "pmid-26241597"
+      ],
+      "transferLimit": "The service system, population and follow-up differ; veteran-specific benefit and cost-effectiveness are untested.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/42599846/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "969e9c37b98727d03279274818eb5a6f57398c1dc8c666d7ee37d56bc3bfd90d"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-42599846",
+      "categoryId": "refugees",
+      "relation": "related",
+      "bridgeType": "digital-mindfulness-clinical",
+      "rationale": "A digital mindfulness trial in distressed adults connects indexed refugee online intervention and mindfulness research questions.",
+      "anchorRecordIds": [
+        "doi-2a203fb071ddfe54",
+        "pmid-23784718"
+      ],
+      "transferLimit": "Translation, displacement circumstances and cultural adaptation are untested; short-term trial economics do not transfer automatically.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/42599846/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "969e9c37b98727d03279274818eb5a6f57398c1dc8c666d7ee37d56bc3bfd90d"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    },
+    {
+      "recordId": "pmid-42599846",
+      "categoryId": "housing",
+      "relation": "related",
+      "bridgeType": "digital-mindfulness-clinical",
+      "rationale": "A digital mindfulness trial in distressed adults connects indexed mental-health technology access and mindfulness questions in homelessness research.",
+      "anchorRecordIds": [
+        "pmid-28481610",
+        "doi-afe44de7f462e56e"
+      ],
+      "transferLimit": "Stable access, private space, service support and housing circumstances differ; target-community benefit is untested.",
+      "sourceVerification": {
+        "sourceURL": "https://pubmed.ncbi.nlm.nih.gov/42599846/",
+        "titleSimilarity": 1.0,
+        "abstractAvailable": true,
+        "sourceTextSHA256": "969e9c37b98727d03279274818eb5a6f57398c1dc8c666d7ee37d56bc3bfd90d"
+      },
+      "reviewStatus": "pending",
+      "reviewedBy": null
+    }
+  ],
+  "alreadyClassified": [
+    {
+      "recordId": "portal-66ebe89ad390",
+      "categoryId": "refugees"
+    },
+    {
+      "recordId": "src-4981a8e87964",
+      "categoryId": "refugees"
+    }
+  ]
+}

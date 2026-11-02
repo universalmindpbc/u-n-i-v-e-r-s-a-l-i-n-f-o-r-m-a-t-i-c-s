@@ -41,7 +41,25 @@
           "https://doi.org/10.1891/emdr-2022-0029"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1891/emdr-2022-0029"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Bibliographic identity matched in Crossref; research content and blinding require article-level verification.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-36248508",
@@ -86,7 +104,26 @@
           "https://doi.org/10.3389/fpsyg.2022.935782"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/36248508/",
+          "https://doi.org/10.3389/fpsyg.2022.935782"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "No star rating: protocol, retracted publication or non-research material.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "doi-2a203fb071ddfe54",
@@ -128,7 +165,25 @@
           "https://doi.org/10.1002/capr.12580"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1002/capr.12580"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Bibliographic identity matched in Crossref; research content and blinding require article-level verification.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-34763697",
@@ -173,7 +228,26 @@
           "https://doi.org/10.1186/s12888-021-03571-x"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/34763697/",
+          "https://doi.org/10.1186/s12888-021-03571-x"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 1,
+      "legacyRatingBasis": "Indexed journal paper; blinded-RCT criteria are not confirmed in the retrieved record.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "doi-b4b0af603557eafe",
@@ -215,7 +289,25 @@
           "https://doi.org/10.1891/emdr-d-21-00009"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1891/emdr-d-21-00009"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Bibliographic identity matched in Crossref; research content and blinding require article-level verification.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "doi-37bd65a31f48ce93",
@@ -258,7 +350,25 @@
         ],
         "reviewedAt": "2026-10-23"
       },
-      "limitation": "STEP tested 34 mental-health clinicians using a recorded session with worksheets, clinical screening and access to support. This population and protocol differ from general unguided entertainment use."
+      "limitation": "STEP tested 34 mental-health clinicians using a recorded session with worksheets, clinical screening and access to support. This population and protocol differ from general unguided entertainment use.",
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1891/emdr-d-20-00047"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Bibliographic identity matched in Crossref; research content and blinding require article-level verification.",
+      "stars": 2,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-34025912",
@@ -303,7 +413,26 @@
           "https://doi.org/10.1080/20008198.2020.1860346"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/34025912/",
+          "https://doi.org/10.1080/20008198.2020.1860346"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 1,
+      "legacyRatingBasis": "Indexed journal paper; blinded-RCT criteria are not confirmed in the retrieved record.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-30858808",
@@ -352,7 +481,26 @@
       "evidence": {
         "sample": "Single-episode PTSD patients; not a military-specific sample",
         "measurement": "Clinical outcomes and brain connectivity"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/30858808/",
+          "https://doi.org/10.3389/fpsyg.2019.00129"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 1,
+      "legacyRatingBasis": "Indexed journal paper; blinded-RCT criteria are not confirmed in the retrieved record.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-29946275",
@@ -400,7 +548,26 @@
       },
       "evidence": {
         "trialId": "Yurtsever-GTEP-2018"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "The methods call this a single-blind randomized study, but do not sufficiently identify the masked role or maintenance of masking. It remains counted as peer-reviewed evidence without a verified masked-trial contribution.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/29946275/",
+          "https://doi.org/10.3389/fpsyg.2018.00493"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 1,
+      "legacyRatingBasis": "Indexed journal paper; blinded-RCT criteria are not confirmed in the retrieved record.",
+      "stars": 2,
+      "ratingBasis": "The methods call this a single-blind randomized study, but do not sufficiently identify the masked role or maintenance of masking. It remains counted as peer-reviewed evidence without a verified masked-trial contribution."
     },
     {
       "id": "pmid-30197612",
@@ -445,7 +612,26 @@
           "https://doi.org/10.3389/fpsyg.2018.01458"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/30197612/",
+          "https://doi.org/10.3389/fpsyg.2018.01458"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 1,
+      "legacyRatingBasis": "Indexed journal paper; blinded-RCT criteria are not confirmed in the retrieved record.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-30186192",
@@ -493,7 +679,26 @@
       },
       "evidence": {
         "sample": "People with depression; not a veteran-specific sample"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/30186192/",
+          "https://doi.org/10.3389/fpsyg.2018.01384"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 1,
+      "legacyRatingBasis": "Indexed journal paper; blinded-RCT criteria are not confirmed in the retrieved record.",
+      "stars": 2,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-30166975",
@@ -538,7 +743,26 @@
           "https://doi.org/10.3389/fpsyg.2018.01395"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/30166975/",
+          "https://doi.org/10.3389/fpsyg.2018.01395"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 1,
+      "legacyRatingBasis": "Indexed journal paper; blinded-RCT criteria are not confirmed in the retrieved record.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-28660669",
@@ -585,7 +809,26 @@
       },
       "evidence": {
         "trialId": "de-roos-2017"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "single",
+        "peerReviewed": true,
+        "basis": "The primary article identifies a single-blind, three-arm randomized trial in 103 young people aged 8–18.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/28660669/",
+          "https://doi.org/10.1111/jcpp.12768"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 2,
+      "legacyRatingBasis": "Indexed randomized trial and single-blind methods.",
+      "stars": 2,
+      "ratingBasis": "The primary article identifies a single-blind, three-arm randomized trial in 103 young people aged 8–18."
     },
     {
       "id": "doi-648f6da34833f786",
@@ -627,7 +870,25 @@
           "https://doi.org/10.1891/1933-3196.11.3.129"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1891/1933-3196.11.3.129"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Bibliographic identity matched in Crossref; research content and blinding require article-level verification.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-26963955",
@@ -671,7 +932,26 @@
           "https://doi.org/10.1037/tra0000120"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/26963955/",
+          "https://doi.org/10.1037/tra0000120"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 1,
+      "legacyRatingBasis": "Indexed journal paper; blinded-RCT criteria are not confirmed in the retrieved record.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-27353367",
@@ -718,7 +998,26 @@
       },
       "evidence": {
         "trialId": "acarturk-2016"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "single",
+        "peerReviewed": true,
+        "basis": "The primary report identifies a single-blind randomized trial comparing EMDR and waitlist in Syrian refugees.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/27353367/",
+          "https://doi.org/10.1017/s0033291716001070"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 2,
+      "legacyRatingBasis": "Indexed randomized trial and single-blind methods.",
+      "stars": 2,
+      "ratingBasis": "The primary report identifies a single-blind randomized trial comparing EMDR and waitlist in Syrian refugees."
     },
     {
       "id": "pmid-25989952",
@@ -766,7 +1065,26 @@
       },
       "evidence": {
         "trialId": "Acarturk-2015-pilot"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "single",
+        "peerReviewed": true,
+        "basis": "The methods identify a single-blind, parallel-group randomized trial. Participants and therapists knew allocation; outcome assessors were kept blind. Self-report scales were administered verbally by a blinded assistant when assistance was required.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/25989952/",
+          "https://doi.org/10.3402/ejpt.v6.27414"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 1,
+      "legacyRatingBasis": "Indexed journal paper; blinded-RCT criteria are not confirmed in the retrieved record.",
+      "stars": 2,
+      "ratingBasis": "The methods identify a single-blind, parallel-group randomized trial. Participants and therapists knew allocation; outcome assessors were kept blind. Self-report scales were administered verbally by a blinded assistant when assistance was required."
     },
     {
       "id": "pmid-24965797",
@@ -814,7 +1132,27 @@
       },
       "evidence": {
         "trialId": "NTR1814"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "single",
+        "peerReviewed": true,
+        "basis": "The methods describe a prospective randomized open-label blinded-endpoint trial. Psychologists assessing outcomes were blinded to treatment allocation.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/24965797/",
+          "https://doi.org/10.1007/s00787-014-0572-5",
+          "https://www.vkjp.nl/media/files/De%20praktijk/Diehle%20et%20al%202014%20Trauma%281%29.pdf"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 1,
+      "legacyRatingBasis": "Indexed journal paper; blinded-RCT criteria are not confirmed in the retrieved record.",
+      "stars": 2,
+      "ratingBasis": "The methods describe a prospective randomized open-label blinded-endpoint trial. Psychologists assessing outcomes were blinded to treatment allocation."
     },
     {
       "id": "doi-4e5b48cad9b6436d",
@@ -856,7 +1194,25 @@
           "https://doi.org/10.1891/1933-3196.8.3.147"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1891/1933-3196.8.3.147"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Bibliographic identity matched in Crossref; research content and blinding require article-level verification.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-25101684",
@@ -901,7 +1257,26 @@
           "https://doi.org/10.1371/journal.pone.0103676"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/25101684/",
+          "https://doi.org/10.1371/journal.pone.0103676"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 1,
+      "legacyRatingBasis": "Indexed journal paper; blinded-RCT criteria are not confirmed in the retrieved record.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-24626074",
@@ -946,7 +1321,26 @@
           "https://doi.org/10.7812/tpp/13-098"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/24626074/",
+          "https://doi.org/10.7812/tpp/13-098"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 1,
+      "legacyRatingBasis": "Indexed journal paper; blinded-RCT criteria are not confirmed in the retrieved record.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-23702050",
@@ -991,7 +1385,26 @@
           "https://doi.org/10.1186/1745-6215-14-151"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": null,
+        "scope": "Paper",
+        "status": "not-applicable",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "This record is outside the paper-rating criteria or has unresolved publication identity.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/23702050/",
+          "https://doi.org/10.1186/1745-6215-14-151"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "No star rating: protocol, retracted publication or non-research material.",
+      "stars": null,
+      "ratingBasis": "This record is outside the paper-rating criteria or has unresolved publication identity."
     },
     {
       "id": "pmid-22893808",
@@ -1039,7 +1452,26 @@
       },
       "evidence": {
         "trialId": "ter-Heide-2011-pilot"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "single",
+        "peerReviewed": true,
+        "basis": "The randomized pilot used trained blinded diagnostic assessors. Blinding was maintained in 33 of 44 assessments (70%), a stated limitation.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/22893808/",
+          "https://doi.org/10.3402/ejpt.v2i0.5881"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 1,
+      "legacyRatingBasis": "Indexed journal paper; blinded-RCT criteria are not confirmed in the retrieved record.",
+      "stars": 2,
+      "ratingBasis": "The randomized pilot used trained blinded diagnostic assessors. Blinding was maintained in 33 of 44 assessments (70%), a stated limitation."
     },
     {
       "id": "pmid-18612994",
@@ -1083,7 +1515,26 @@
           "https://doi.org/10.1002/jclp.20510"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/18612994/",
+          "https://doi.org/10.1002/jclp.20510"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 1,
+      "legacyRatingBasis": "Indexed journal paper; blinded-RCT criteria are not confirmed in the retrieved record.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-17284128",
@@ -1127,7 +1578,26 @@
           "https://doi.org/10.4088/jcp.v68n0105"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/17284128/",
+          "https://doi.org/10.4088/jcp.v68n0105"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 2,
+      "legacyRatingBasis": "Randomized comparison with blind outcome raters. Double blinding applies to the medication/placebo comparison, not the EMDR arm; the psychotherapy comparison is scored for assessor blinding.",
+      "stars": 2,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-16899965",
@@ -1171,7 +1641,26 @@
           "https://doi.org/10.1159/000093950"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/16899965/",
+          "https://doi.org/10.1159/000093950"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 3,
+      "legacyRatingBasis": "Indexed randomized trial and double-blind methods.",
+      "stars": 2,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-9479673",
@@ -1215,7 +1704,26 @@
           "https://doi.org/10.1023/a:1024448814268"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/9479673/",
+          "https://doi.org/10.1023/a:1024448814268"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 1,
+      "legacyRatingBasis": "Indexed journal paper; blinded-RCT criteria are not confirmed in the retrieved record.",
+      "stars": 2,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "src-4d549c318fe9",
@@ -1251,7 +1759,25 @@
           "https://apps.who.int/iris/bitstream/handle/10665/85623/9789241505932_eng.pdf"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": null,
+        "scope": "Paper",
+        "status": "not-applicable",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": false,
+        "basis": "This record is outside the paper-rating criteria or has unresolved publication identity.",
+        "sources": [
+          "https://apps.who.int/iris/bitstream/handle/10665/85623/9789241505932_eng.pdf"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Unrated until publication and study design are checked.",
+      "stars": null,
+      "ratingBasis": "This record is outside the paper-rating criteria or has unresolved publication identity."
     },
     {
       "id": "src-35cb6bd28036",
@@ -1287,7 +1813,25 @@
           "https://www.phoenixaustralia.org/australian-guidelines-for-ptsd"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": null,
+        "scope": "Paper",
+        "status": "not-applicable",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": false,
+        "basis": "This record is outside the paper-rating criteria or has unresolved publication identity.",
+        "sources": [
+          "https://www.phoenixaustralia.org/australian-guidelines-for-ptsd"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Unrated until publication and study design are checked.",
+      "stars": null,
+      "ratingBasis": "This record is outside the paper-rating criteria or has unresolved publication identity."
     },
     {
       "id": "src-05fee8b7d126",
@@ -1329,7 +1873,25 @@
           "https://doi.org/10.3390/brainsci11050579"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.3390/brainsci11050579"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Unrated until publication and study design are checked.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "src-3d07e41dbe7a",
@@ -1365,7 +1927,25 @@
           "https://www.facs.nsw.gov.au/__data/assets/pdf_file/0005/835457/Debbie-Haynesv2-.pdf"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": null,
+        "scope": "Paper",
+        "status": "not-applicable",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": false,
+        "basis": "This record is outside the paper-rating criteria or has unresolved publication identity.",
+        "sources": [
+          "https://www.facs.nsw.gov.au/__data/assets/pdf_file/0005/835457/Debbie-Haynesv2-.pdf"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Unrated until publication and study design are checked.",
+      "stars": null,
+      "ratingBasis": "This record is outside the paper-rating criteria or has unresolved publication identity."
     },
     {
       "id": "src-e9a450b442d3",
@@ -1401,7 +1981,25 @@
           "https://www.ifemdr.fr/wp-content/uploads/2014/10/asena-yurtsever.pdf"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": null,
+        "scope": "Paper",
+        "status": "not-applicable",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": false,
+        "basis": "This record is outside the paper-rating criteria or has unresolved publication identity.",
+        "sources": [
+          "https://www.ifemdr.fr/wp-content/uploads/2014/10/asena-yurtsever.pdf"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Unrated until publication and study design are checked.",
+      "stars": null,
+      "ratingBasis": "This record is outside the paper-rating criteria or has unresolved publication identity."
     },
     {
       "id": "src-d5959fcb69bc",
@@ -1443,7 +2041,25 @@
           "https://doi.org/10.1037/tra0001418"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1037/tra0001418"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Unrated until publication and study design are checked.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "src-d173f7852495",
@@ -1479,7 +2095,25 @@
           "https://www.ptsd.va.gov/understand_tx/emdr.asp"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": null,
+        "scope": "Paper",
+        "status": "not-applicable",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": false,
+        "basis": "This record is outside the paper-rating criteria or has unresolved publication identity.",
+        "sources": [
+          "https://www.ptsd.va.gov/understand_tx/emdr.asp"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Unrated until publication and study design are checked.",
+      "stars": null,
+      "ratingBasis": "This record is outside the paper-rating criteria or has unresolved publication identity."
     },
     {
       "id": "src-688f56d0a555",
@@ -1521,7 +2155,25 @@
           "https://doi.org/10.1176/appi.psychotherapy.2003.57.1.148"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": null,
+        "scope": "Paper",
+        "status": "not-applicable",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": false,
+        "basis": "This record is outside the paper-rating criteria or has unresolved publication identity.",
+        "sources": [
+          "https://doi.org/10.1176/appi.psychotherapy.2003.57.1.148"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Unrated until publication and study design are checked.",
+      "stars": null,
+      "ratingBasis": "This record is outside the paper-rating criteria or has unresolved publication identity."
     },
     {
       "id": "src-75491f6f55b4",
@@ -1557,7 +2209,25 @@
           "https://www.openarms.gov.au/sites/default/files/2020-01/webinar_9_mental_health_faqs_panelist.pdf"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": null,
+        "scope": "Paper",
+        "status": "not-applicable",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": false,
+        "basis": "This record is outside the paper-rating criteria or has unresolved publication identity.",
+        "sources": [
+          "https://www.openarms.gov.au/sites/default/files/2020-01/webinar_9_mental_health_faqs_panelist.pdf"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Unrated until publication and study design are checked.",
+      "stars": null,
+      "ratingBasis": "This record is outside the paper-rating criteria or has unresolved publication identity."
     },
     {
       "id": "src-757129132fdc",
@@ -1599,7 +2269,25 @@
           "https://doi.org/10.1037/1072-5245.14.1.61"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1037/1072-5245.14.1.61"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Unrated until publication and study design are checked.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "src-1a2a9900c208",
@@ -1635,7 +2323,25 @@
           "https://doi.org/10.1891/1933-3196.12.3.105"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1891/1933-3196.12.3.105"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Unrated until publication and study design are checked.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "src-796cb6656464",
@@ -1678,7 +2384,25 @@
         ],
         "reviewedAt": "2026-10-23"
       },
-      "limitation": "Parent-supported story-based intervention during COVID-19. This is not a test of unsupervised trauma processing or a complete clinical EMDR protocol."
+      "limitation": "Parent-supported story-based intervention during COVID-19. This is not a test of unsupervised trauma processing or a complete clinical EMDR protocol.",
+      "paperTrustAssessment": {
+        "score": null,
+        "scope": "Paper",
+        "status": "not-applicable",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "This record is outside the paper-rating criteria or has unresolved publication identity.",
+        "sources": [
+          "https://doi.org/10.1891/emdr-d-20-00054"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Unrated: original citation identity conflict.",
+      "stars": null,
+      "ratingBasis": "This record is outside the paper-rating criteria or has unresolved publication identity."
     },
     {
       "id": "src-dc93723ec7c8",
@@ -1715,7 +2439,25 @@
         ],
         "reviewedAt": "2026-10-23"
       },
-      "finding": "A research-search reference; it is not counted as an individual trial in the topic trust score."
+      "finding": "A research-search reference; it is not counted as an individual trial in the topic trust score.",
+      "paperTrustAssessment": {
+        "score": null,
+        "scope": "Paper",
+        "status": "not-applicable",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": false,
+        "basis": "This record is outside the paper-rating criteria or has unresolved publication identity.",
+        "sources": [
+          "https://scholar.google.com.au/scholar?start=0&q=emdr+randomised+control+trial&hl=en&as_sdt=0,5"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Unrated until publication and study design are checked.",
+      "stars": null,
+      "ratingBasis": "This record is outside the paper-rating criteria or has unresolved publication identity."
     },
     {
       "id": "src-4981a8e87964",
@@ -1758,7 +2500,25 @@
         ],
         "reviewedAt": "2026-10-23"
       },
-      "limitation": "The quoted improvement describes an earlier feasibility study combining internet CBT and EMDR with clinician contact. It is not a result from a new randomized trial of unguided self-help."
+      "limitation": "The quoted improvement describes an earlier feasibility study combining internet CBT and EMDR with clinician contact. It is not a result from a new randomized trial of unguided self-help.",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1192/bjo.2020.92"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Unrated until publication and study design are checked.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-33415797",
@@ -1797,7 +2557,26 @@
           "https://doi.org/10.1002/cpp.2549"
         ],
         "reviewedAt": "2026-10-23"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/33415797/",
+          "https://doi.org/10.1002/cpp.2549"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-25607833",
@@ -1844,7 +2623,26 @@
       },
       "evidence": {
         "trialId": "ISRCTN79584912"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "single",
+        "peerReviewed": true,
+        "basis": "The completed trial reports a single-blind randomized comparison of prolonged exposure, EMDR and waiting list.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/25607833/",
+          "https://doi.org/10.1001/jamapsychiatry.2014.2637"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 2,
+      "ratingBasis": "The completed trial reports a single-blind randomized comparison of prolonged exposure, EMDR and waiting list."
     },
     {
       "id": "pmid-42324567",
@@ -1894,7 +2692,26 @@
         "trialId": "NL-OMON22679"
       },
       "finding": "Ninety-six refugee children aged 8–18 were allocated to EMDR, KIDNET or waitlist; both active treatments improved PTSD outcomes.",
-      "limitation": "Small arms and different dropout rates limit comparative claims. Outcomes do not establish treatment equivalence."
+      "limitation": "Small arms and different dropout rates limit comparative claims. Outcomes do not establish treatment equivalence.",
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "single",
+        "peerReviewed": true,
+        "basis": "Independent assessors were blinded to EMDR versus KIDNET, but knew active-treatment versus waitlist status. The single-blind designation applies to the active-treatment comparison; masking was incomplete across all three arms.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42324567/",
+          "https://doi.org/10.1186/s13034-026-01118-0"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 2,
+      "ratingBasis": "Independent assessors were blinded to EMDR versus KIDNET, but knew active-treatment versus waitlist status. The single-blind designation applies to the active-treatment comparison; masking was incomplete across all three arms."
     },
     {
       "id": "portal-937934d6d2dd",
@@ -1932,7 +2749,25 @@
         "reviewedAt": "2026-10-23"
       },
       "finding": "The current U.S. military and veterans guideline places EMDR among the individual trauma-focused psychotherapies with the strongest recommendation for PTSD.",
-      "limitation": "A clinical guideline for qualified care; it does not validate an entertainment-platform adaptation."
+      "limitation": "A clinical guideline for qualified care; it does not validate an entertainment-platform adaptation.",
+      "paperTrustAssessment": {
+        "score": null,
+        "scope": "Paper",
+        "status": "not-applicable",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": false,
+        "basis": "This record is outside the paper-rating criteria or has unresolved publication identity.",
+        "sources": [
+          "https://www.ptsd.va.gov/professional/treat/txessentials/cpg_ptsd_management.asp"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Publication and methods require confirmation.",
+      "stars": null,
+      "ratingBasis": "This record is outside the paper-rating criteria or has unresolved publication identity."
     },
     {
       "id": "portal-7c6d9225444d",
@@ -1983,7 +2818,26 @@
         "sample": "VA clinician update: 256 veterans (130 telehealth, 126 in person). Current article abstract: 279 eligible veterans (140 telehealth, 139 in person).",
         "relationshipNote": "The published summaries use different denominators. The approved finding follows the VA update; an identical analytic denominator has not been established.",
         "evidenceType": "Retrospective clinical comparison"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/40424141/",
+          "https://doi.org/10.1037/tra0001917"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Publication and methods require confirmation.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "portal-66ebe89ad390",
@@ -2029,7 +2883,26 @@
         "reviewedAt": "2026-10-23"
       },
       "finding": "Twelve G-TEP studies produced a large pooled reduction in PTSD symptoms (Hedges' g=1.28), supporting a feasible group option particularly after collective trauma.",
-      "limitation": "The synthesis covers G-TEP generally, not online delivery alone or a veterans-only population, and the included methods and samples differed."
+      "limitation": "The synthesis covers G-TEP generally, not online delivery alone or a veterans-only population, and the included methods and samples differed.",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42129972/",
+          "https://doi.org/10.1002/cpp.70283"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Publication and methods require confirmation.",
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "portal-1542d1de36c9",
@@ -2076,7 +2949,26 @@
         "reviewedAt": "2026-10-23"
       },
       "finding": "Eighty-five participants completed a remotely delivered intensive group protocol; PTSD, anxiety and depression measures improved through six-month follow-up.",
-      "limitation": "The authors call the findings tentative, and no treatment effect was found for moral injury."
+      "limitation": "The authors call the findings tentative, and no treatment effect was found for moral injury.",
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Randomized delayed-treatment study. The article describes therapists and participants as blinded, but the masking target and allocation masking are not sufficiently specified to establish a double-blind treatment comparison. Trauma non-disclosure to the therapist is a different issue.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/37063579/",
+          "https://doi.org/10.3389/fpsyg.2023.1129912"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": "Publication and methods require confirmation.",
+      "stars": 2,
+      "ratingBasis": "Randomized delayed-treatment study. The article describes therapists and participants as blinded, but the masking target and allocation masking are not sufficiently specified to establish a double-blind treatment comparison. Trauma non-disclosure to the therapist is a different issue."
     },
     {
       "id": "pmid-38250261",
@@ -2123,7 +3015,26 @@
         "reviewedAt": "2026-10-23"
       },
       "finding": "Sixteen articles with 1,231 participants cover remote individual, group and computerised interventions.",
-      "limitation": "Heterogeneous designs include uncontrolled studies; this is not a randomised comparison of delivery methods."
+      "limitation": "Heterogeneous designs include uncontrolled studies; this is not a randomised comparison of delivery methods.",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/38250261/",
+          "https://doi.org/10.3389/fpsyt.2023.1336569"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-42773467",
@@ -2170,7 +3081,26 @@
         "reviewedAt": "2026-10-23"
       },
       "finding": "Sixty-five studies with 3,342 participants include immediate and follow-up PTSD outcomes.",
-      "limitation": "Comparator and trauma type influence results; overlapping trials in earlier reviews are not new independent evidence."
+      "limitation": "Comparator and trauma type influence results; overlapping trials in earlier reviews are not new independent evidence.",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42773467/",
+          "https://doi.org/10.1186/s40359-026-05349-w"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-41340540",
@@ -2217,7 +3147,26 @@
         "reviewedAt": "2026-10-23"
       },
       "finding": "Eight clinical RCTs include 794 children and adolescents; one additional study examines cost-effectiveness.",
-      "limitation": "Most comparisons use waitlist or usual care; limited active-comparator and economic evidence. EMDR UK funding is disclosed."
+      "limitation": "Most comparisons use waitlist or usual care; limited active-comparator and economic evidence. EMDR UK funding is disclosed.",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/41340540/",
+          "https://doi.org/10.1002/cpp.70186"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-42254728",
@@ -2264,7 +3213,26 @@
         "reviewedAt": "2026-10-23"
       },
       "finding": "In 89 randomized earthquake survivors, remote EMDR and CBT reduced PTSD, depression and anxiety scores relative to waitlist across 12 sessions.",
-      "limitation": "Outcomes were self-reported. Therapists and participants knew allocation; assessor/analyst masking does not blind the people reporting symptoms. Direct superiority comparisons were not the trial’s primary power target."
+      "limitation": "Outcomes were self-reported. Therapists and participants knew allocation; assessor/analyst masking does not blind the people reporting symptoms. Direct superiority comparisons were not the trial’s primary power target.",
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "open-label",
+        "peerReviewed": true,
+        "basis": "The methods describe open-label therapy and self-reported outcomes, with an independent blinded assistant and blinded analysis. No blinded clinical endpoint establishes a single-blind outcome comparison.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42254728/",
+          "https://doi.org/10.3389/fpsyt.2026.1779057"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 2,
+      "ratingBasis": "The methods describe open-label therapy and self-reported outcomes, with an independent blinded assistant and blinded analysis. No blinded clinical endpoint establishes a single-blind outcome comparison."
     },
     {
       "id": "pmid-40417270",
@@ -2311,7 +3279,26 @@
         "reviewedAt": "2026-10-23"
       },
       "finding": "Online EMDR 2.0 group delivery after traffic accidents produced advantages on several anxiety, stress and trauma measures.",
-      "limitation": "A small non-clinical sample and one-month follow-up; between-group differences were not significant for depression or intrusion."
+      "limitation": "A small non-clinical sample and one-month follow-up; between-group differences were not significant for depression or intrusion.",
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/40417270/",
+          "https://doi.org/10.3389/fpsyt.2025.1452206"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 2,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-39023949",
@@ -2357,7 +3344,26 @@
         "reviewedAt": "2026-10-23"
       },
       "finding": "A 44-person outpatient study and a 23-person hospital study extend evidence on group implementation.",
-      "limitation": "The hospital component is distinct from the randomised outpatient component. Verify exact session structure and masking before grading."
+      "limitation": "The hospital component is distinct from the randomised outpatient component. Verify exact session structure and masking before grading.",
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/39023949/",
+          "https://doi.org/10.1037/tra0001711"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 2,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-39731040",
@@ -2407,7 +3413,26 @@
       "limitation": "The tested neurocognitive endpoints and component intervention do not represent every outcome or the full clinical protocol.",
       "evidence": {
         "trialId": "ISRCTN55239132"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/39731040/",
+          "https://doi.org/10.1186/s12888-024-06420-9"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 2,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-42880055",
@@ -2453,7 +3478,26 @@
         "reviewedAt": "2026-10-23"
       },
       "finding": "Eleven meta-analyses report an average anxiety reduction, with a smaller advantage against active psychological treatments.",
-      "limitation": "Most comparisons involve PTSD, nine reviews were rated low or critically low quality, and heterogeneity was substantial."
+      "limitation": "Most comparisons involve PTSD, nine reviews were rated low or critically low quality, and heterogeneity was substantial.",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42880055/",
+          "https://doi.org/10.1016/j.janxdis.2026.103243"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "doi-37881ae999c094e1",
@@ -2497,7 +3541,25 @@
         "reviewedAt": "2026-10-23"
       },
       "finding": "Analysis of 144 children and adolescents in the LINKS programme reports reduced difficulties and trauma symptoms, with positive findings for EMDR and parent–child interaction therapy.",
-      "limitation": "No randomised treatment assignment or untreated control; the programme includes multiple therapies and cultural adaptations."
+      "limitation": "No randomised treatment assignment or untreated control; the programme includes multiple therapies and cultural adaptations.",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://doi.org/10.1016/j.fnhli.2025.100070"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-39630422",
@@ -2550,7 +3612,26 @@
         "evidenceType": "Clinical & self-report",
         "measuredGenes": [],
         "relationshipNote": "The 70 trials cover several therapies, not EMDR alone. Longer-term EMDR data remain limited; included ages extend to 19."
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/39630422/",
+          "https://doi.org/10.1001/jamapsychiatry.2024.3908"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-33709117",
@@ -2602,7 +3683,26 @@
         "evidenceType": "Clinical & self-report",
         "measuredGenes": [],
         "relationshipNote": "Subthreshold medically related PTSD differs from diagnosed PTSD after other trauma. Keep this neutral primary result alongside positive trials."
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/33709117/",
+          "https://doi.org/10.1093/eurjcn/zvaa006"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 2,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-40243164",
@@ -2655,7 +3755,26 @@
         "evidenceType": "Clinical & self-report",
         "measuredGenes": [],
         "relationshipNote": "Small trial with brief follow-up. This is adjunctive treatment alongside medication; it does not test an entertainment intervention."
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/40243164/",
+          "https://doi.org/10.1080/20008066.2025.2488558"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 2,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-42703195",
@@ -2707,7 +3826,26 @@
         "evidenceType": "Clinical & self-report",
         "measuredGenes": [],
         "relationshipNote": "Only 11 of 235 screened students entered treatment. No control group isolates treatment effects."
-      }
+      },
+      "paperTrustAssessment": {
+        "score": null,
+        "scope": "Paper",
+        "status": "not-applicable",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "This record is outside the paper-rating criteria or has unresolved publication identity.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42703195/",
+          "https://doi.org/10.1007/s40653-025-00808-9"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": null,
+      "ratingBasis": "This record is outside the paper-rating criteria or has unresolved publication identity."
     },
     {
       "id": "pmid-34512458",
@@ -2760,7 +3898,26 @@
         "evidenceType": "Clinical & self-report",
         "measuredGenes": [],
         "relationshipNote": "Mixed adolescent and young-adult sample with no randomized control. Findings do not isolate an 18–24 subgroup or unguided use."
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/34512458/",
+          "https://doi.org/10.3389/fpsyg.2021.701381"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-39835632",
@@ -2813,7 +3970,26 @@
         "evidenceType": "Clinical & self-report",
         "measuredGenes": [],
         "relationshipNote": "Intensive clinician-delivered, multimodal treatment with no randomized comparator. The sample included 36 people aged 12–17 and 38 aged 18–25; it does not establish a gentle entertainment effect."
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/39835632/",
+          "https://doi.org/10.1080/20008066.2025.2451478"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-38032626",
@@ -2865,7 +4041,26 @@
         "evidenceType": "Clinical & self-report",
         "measuredGenes": [],
         "relationshipNote": "University enrolment does not establish an exclusively 18–24 sample. The abstract does not provide sufficient age or masking detail; body-sense effects were not significant."
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/38032626/",
+          "https://doi.org/10.1037/tra0001629"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-42411718",
@@ -2919,7 +4114,26 @@
         "measuredGenes": [],
         "relationshipNote": "Trained peers received clinical supervision. The trial tested a combined intervention, with no significant group-by-time effects for depression, anxiety or self-efficacy.",
         "trialId": "ChiCTR2400090611"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "open-label",
+        "peerReviewed": true,
+        "basis": "The study describes an open-label randomized design. Participants reported their own outcomes; hypothesis masking and blinded analysis do not establish masked outcome collection.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42411718/",
+          "https://doi.org/10.1080/20008066.2026.2686577"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 2,
+      "ratingBasis": "The study describes an open-label randomized design. Participants reported their own outcomes; hypothesis masking and blinded analysis do not establish masked outcome collection."
     },
     {
       "id": "pmid-9479674",
@@ -2971,7 +4185,26 @@
         "evidenceType": "Clinical & self-report",
         "measuredGenes": [],
         "relationshipNote": "A small, early trial with a mixed adolescent/young-adult sample. Immediate outcomes do not establish durable effects or an exclusively 18–24 result."
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/9479674/",
+          "https://doi.org/10.1023/a:1024400931106"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 2,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "pmid-35070159",
@@ -3042,7 +4275,26 @@
         "sample": "41 baseline; 21 longitudinal (12 EMDR, 9 TF-CBT)",
         "measurement": "Whole-blood microRNA expression",
         "trialId": "Brescia-TRD-21"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/35070159/",
+          "https://doi.org/10.1080/20008198.2021.1987655"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned."
     },
     {
       "id": "pmid-42519422",
@@ -3100,7 +4352,26 @@
           "MIR132"
         ],
         "relationshipNote": "EMDR-only subgroup changes did not survive multiple-testing correction. The result does not establish an EMDR-specific microRNA effect."
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/42519422/",
+          "https://doi.org/10.1016/j.nsa.2026.107020"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 1,
+      "legacyRatingBasis": "Indexed journal paper; blinded-RCT criteria are not confirmed in the retrieved record.",
+      "stars": 1,
+      "ratingBasis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned."
     },
     {
       "id": "pmid-38362742",
@@ -3164,7 +4435,26 @@
           "TNF"
         ],
         "relationshipNote": "Small treatment groups and concurrent usual care limit attribution. DNA methylation is a separate measurement from RNA expression."
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/38362742/",
+          "https://doi.org/10.1080/20008066.2024.2314913"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 1,
+      "legacyRatingBasis": "Indexed journal paper; blinded-RCT criteria are not confirmed in the retrieved record.",
+      "stars": 1,
+      "ratingBasis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned."
     },
     {
       "id": "pmid-39060246",
@@ -3226,7 +4516,26 @@
           "NUP35"
         ],
         "relationshipNote": "Treatment combined evidence from EMDR and trauma-focused CBT. Saliva findings do not establish a brain-tissue effect or isolate eye movements."
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/39060246/",
+          "https://doi.org/10.1038/s41398-024-02892-1"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": 1,
+      "legacyRatingBasis": "Indexed journal paper; blinded-RCT criteria are not confirmed in the retrieved record.",
+      "stars": 1,
+      "ratingBasis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned."
     },
     {
       "id": "pmid-36266402",
@@ -3286,7 +4595,26 @@
           "TRAPPC2L"
         ],
         "relationshipNote": "The programme has several components. Saliva methylation findings do not isolate EMDR; the study detected no intervention effect on intrinsic epigenetic age acceleration."
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "The methods report random-number allocation for 44 girls. Post-allocation participant or assessor masking is not established. The intervention combines mindfulness, art and group EMDR.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/36266402/",
+          "https://doi.org/10.1038/s41598-022-21246-9"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 2,
+      "ratingBasis": "The methods report random-number allocation for 44 girls. Post-allocation participant or assessor masking is not established. The intervention combines mindfulness, art and group EMDR."
     },
     {
       "id": "pmid-31645664",
@@ -3355,7 +4683,26 @@
           "TP73"
         ],
         "relationshipNote": "Treatment included trauma-focused CBT and/or EMDR. This observational analysis does not isolate EMDR or establish altered gene expression from methylation alone."
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/31645664/",
+          "https://doi.org/10.1038/s41380-019-0549-3"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned."
     },
     {
       "id": "pmid-31352130",
@@ -3408,7 +4755,26 @@
         "evidenceType": "Molecular biomarkers",
         "measuredGenes": [],
         "relationshipNote": "The trauma script rarely produced a cortisol stress response. The predictive contribution was limited and insufficient for clinical application; this is not a gene-expression measurement."
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/31352130/",
+          "https://doi.org/10.1016/j.psyneuen.2019.104380"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned."
     },
     {
       "id": "pmid-35707677",
@@ -3462,7 +4828,26 @@
         "evidenceType": "Molecular biomarkers",
         "measuredGenes": [],
         "relationshipNote": "Treatments included CBT with exposure or EMDR. Exploratory correlations require replication; endocannabinoid concentrations are distinct from gene expression."
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/35707677/",
+          "https://doi.org/10.1177/24705470221107290"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Molecular or biomarker analysis with combined trauma-focused treatment exposure. No independently verified single- or double-blind randomized molecular comparison is assigned."
     },
     {
       "id": "pmid-40706348",
@@ -3516,7 +4901,26 @@
         "measuredGenes": [],
         "relationshipNote": "Saliva timing depended on participant adherence. This is the same registered component trial as the 2024 neurocognitive report, not an independent replication.",
         "trialId": "ISRCTN55239132"
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 2,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": true,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/40706348/",
+          "https://doi.org/10.1016/j.jbtep.2025.102052"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 2,
+      "ratingBasis": "Publication identity and reported study design checked. Outcome blinding is not established in the material reviewed; no single- or double-blind RCT classification is assigned."
     },
     {
       "id": "doi-14a5c17359f1dfcb",
@@ -3579,7 +4983,25 @@
         ],
         "trialId": "Brescia-TRD-21",
         "relationshipNote": "Combined therapy cohort; no untreated molecular comparator."
-      }
+      },
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Longitudinal observational molecular analysis of a combined EMDR/TF-CBT cohort. No randomized masked molecular comparison.",
+        "sources": [
+          "https://spj.science.org/doi/10.1891/EMDR-2023-0019"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Longitudinal observational molecular analysis of a combined EMDR/TF-CBT cohort. No randomized masked molecular comparison."
     },
     {
       "id": "vision-photoreceptor-mosaic-1998",
@@ -3650,7 +5072,27 @@
         "reviewedAt": "2026-10-26"
       },
       "publisherFamily": "nature",
-      "publisherFamilyLabel": "Nature Portfolio"
+      "publisherFamilyLabel": "Nature Portfolio",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": false,
+        "blinding": "not-applicable",
+        "peerReviewed": true,
+        "basis": "Anatomical review of the human retinal photoreceptor mosaic. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/9775214/",
+          "https://www.nature.com/articles/eye1998142",
+          "https://doi.org/10.1038/eye.1998.142"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Anatomical review of the human retinal photoreceptor mosaic. This is not a clinical efficacy trial."
     },
     {
       "id": "vision-retinal-orientation-2011",
@@ -3723,7 +5165,28 @@
         "reviewedAt": "2026-10-26"
       },
       "publisherFamily": "nature",
-      "publisherFamilyLabel": "Nature Portfolio"
+      "publisherFamilyLabel": "Nature Portfolio",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Computational model with comparative visual-cortex observations. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/21623365/",
+          "https://www.nature.com/articles/nn.2824",
+          "https://doi.org/10.1038/nn.2824",
+          "https://pmc.ncbi.nlm.nih.gov/articles/PMC3196663/"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Computational model with comparative visual-cortex observations. This is not a clinical efficacy trial."
     },
     {
       "id": "vision-hexadirectional-2018",
@@ -3794,7 +5257,27 @@
         "reviewedAt": "2026-10-26"
       },
       "publisherFamily": "nature",
-      "publisherFamilyLabel": "Nature Portfolio"
+      "publisherFamilyLabel": "Nature Portfolio",
+      "paperTrustAssessment": {
+        "score": 1,
+        "scope": "Paper",
+        "status": "assessed",
+        "randomizedControlledTrial": null,
+        "blinding": "not-confirmed",
+        "peerReviewed": true,
+        "basis": "Human fMRI during controlled visual tracking. This is not a clinical efficacy trial.",
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/29311746/",
+          "https://www.nature.com/articles/s41593-017-0050-8",
+          "https://doi.org/10.1038/s41593-017-0050-8"
+        ],
+        "reviewScope": "Existing publication-specific assessments and bibliographic indexing; no blanket full-text appraisal.",
+        "assessedAt": "2026-10-27"
+      },
+      "legacyArticleStars": null,
+      "legacyRatingBasis": null,
+      "stars": 1,
+      "ratingBasis": "Human fMRI during controlled visual tracking. This is not a clinical efficacy trial."
     }
   ],
   "publicationAccess": {
