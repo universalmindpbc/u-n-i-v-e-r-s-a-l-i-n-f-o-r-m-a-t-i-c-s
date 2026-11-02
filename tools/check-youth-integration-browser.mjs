@@ -28,9 +28,9 @@ let reader;
 const errors=[],checks=[];page.on('pageerror',e=>errors.push(e.message));
 async function go(params){
  if(live){
-  await page.goto(base+'/informatics/research/',{waitUntil:'domcontentloaded'});
-  const frame=page.locator('iframe[src*="library.html"]').first();await frame.waitFor({state:'attached'});
-  reader=await (await frame.elementHandle()).contentFrame();await reader.goto(base+'/informatics/library.html?embedded=1&'+params,{waitUntil:'networkidle'});
+  if(!page.url().startsWith(base+'/informatics/research/'))await page.goto(base+'/informatics/research/',{waitUntil:'networkidle'});
+  const frame=page.locator('#research-frame');await frame.waitFor({state:'attached'});
+  reader=await (await frame.elementHandle()).contentFrame();await reader.locator('[data-stat="papers"]').waitFor({timeout:30000});await reader.goto(base+'/informatics/library.html?embedded=1&'+params,{waitUntil:'networkidle'});
  }else{await page.goto(base+'/__youth-reader-test?'+params,{waitUntil:'networkidle'});reader=await (await page.locator('#research-frame').elementHandle()).contentFrame();}
  await reader.locator('[data-stat="papers"]').waitFor({timeout:15000}).catch(async error=>{console.error(JSON.stringify({url:page.url(),errors,body:(await reader.locator('body').innerText()).slice(0,600)}));throw error;});assert.ok(await reader.locator('#load-error').isHidden());}
 async function count(n){const text=await reader.locator('#result-count').innerText();assert.match(text.replaceAll(',',''),new RegExp('^'+n+' papers?'),JSON.stringify(await reader.evaluate(()=>({url:location.href,context:window.UniversalResearchContext()}))));}
@@ -43,6 +43,7 @@ try{
   for(const [collection,chapter] of Object.entries(approved.chapters)){
    await go('collection='+collection);assert.ok(await reader.getByText('AI Guided Youth Research',{exact:true}).count());
    await reader.locator(`[data-chapter="${chapter.number}"]`).first().click();
+   await reader.waitForFunction(n=>document.querySelectorAll('.paper').length===n,chapter.topics.reduce((n,t)=>n+t.papers.length,0),{timeout:15000});
    const actual=await reader.locator('.paper').evaluateAll(cards=>cards.map(c=>({id:c.dataset.paper,crosses:c.querySelectorAll('.trust-score svg').length})));
    assert.equal(actual.length,chapter.topics.reduce((n,t)=>n+t.papers.length,0));
    for(const a of actual)assert.equal(a.crosses,approved.records.find(r=>r.id===a.id).paperTrustAssessment.score,a.id);

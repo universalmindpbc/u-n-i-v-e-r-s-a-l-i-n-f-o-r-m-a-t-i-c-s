@@ -1,0 +1,62 @@
+{
+  "integratedCandidateCommit": "c81a078fb3a368380421d189f3ca9b74d2e4906f",
+  "initialSynchronization": "youth-20261102.json",
+  "scope": "Final test harness, generated-export reference supplement and live verification. Initial immutable receipt remains preserved.",
+  "files": [
+    {
+      "path": "tools/check-youth-integration-browser.mjs",
+      "sha256": "36959b4c3099741673838263310d97ffb21d97c186f3e6d819896574af5c6271"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/file-manifest-supplement.json",
+      "sha256": "6f6774fa01e21043e86c267b025c5256a7a138236e9e70f7cdf257a489296152"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/staging-browser.json",
+      "sha256": "7221be9297a95074af9755f5da3a71fec4e38c5ba5002375eaede930a13113a5"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/staging-assets.json",
+      "sha256": "3406a9390350c73f2a556460830bc1928683d42ae26641d7def7fe96da5f7afd"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/staging-complete-downloads.json",
+      "sha256": "6fdcfe8e541a5a68ed1ec35c725368d914efe0dfa8b207ce7bbd7791e34bc504"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/worker-tool-checks.json",
+      "sha256": "0dfff1cdcbaeb39dd9732c10c017cf9bb20e94f5220042687f193199de94cbb0"
+    },
+    {
+      "path": "research/informatics/youth-integration-20261102/production-readonly-check.json",
+      "sha256": "8ee732845f97d86793b69aa29accd092f8c21a37edf4fd0c2c5ac0f32b2ddcd7"
+    }
+  ],
+  "upstreamOnlyGuideDependencies": [
+    "llms.txt",
+    "read/index.html",
+    "read/resources.json"
+  ],
+  "upstreamGuideSHA256": [
+    {
+      "path": "llms.txt",
+      "bytes": 18141,
+      "sha256": "3fd3557411cbb686ee6f37c46c2655df70fa9cc3d45062117d82f727113841d7"
+    },
+    {
+      "path": "read/index.html",
+      "bytes": 21023,
+      "sha256": "f16c4c0120b1b03bba674c0ba4612f6fdc3f08896e32dd90f9feaef732e93b23"
+    },
+    {
+      "path": "read/resources.json",
+      "bytes": 29519,
+      "sha256": "03bf86be31b0113384c87fdc26581e984e69095f73334bbec22220040c8d942a"
+    }
+  ],
+  "stagingURL": "https://staging.universalmind.tv/informatics/research/",
+  "productionChanged": false,
+  "workerVersion": "0e2b9935-eed4-468e-9df9-2dddb287f994",
+  "liveGPTVerified": false,
+  "reason": "No paid model calls under A$0 additional spend constraint."
+}

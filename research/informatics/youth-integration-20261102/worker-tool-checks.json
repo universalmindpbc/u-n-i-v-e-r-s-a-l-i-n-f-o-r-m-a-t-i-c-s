@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "scope": "Exact committed Worker tool handlers executed locally; live staging Worker deployed and health verified separately.",
+  "workerSHA256": "3301fb996cc489fac295f6359b992a7d0e3666b6f3214e6c908d940e2d821875",
+  "blackDog": 20,
+  "orygen": 21,
+  "studyCitationCards": true,
+  "canonicalMatchAndHistoricalCitations": true,
+  "ageAndSourceLimits": true,
+  "databaseCalls": 0,
+  "modelCalls": 0,
+  "paidCalls": 0,
+  "liveModelWorkflowVerified": false
+}

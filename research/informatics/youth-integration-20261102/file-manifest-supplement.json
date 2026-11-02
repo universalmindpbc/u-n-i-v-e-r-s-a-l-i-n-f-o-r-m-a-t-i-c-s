@@ -1,0 +1,27 @@
+{
+  "schemaVersion": "youth-source-manifest/v1",
+  "supplements": "file-manifest.json",
+  "reason": "Generated shared guide now links to the new complete export revision; browser QA waits for real parent navigation and reuses its shell.",
+  "files": [
+    {
+      "path": "llms.txt",
+      "bytes": 18141,
+      "sha256": "3fd3557411cbb686ee6f37c46c2655df70fa9cc3d45062117d82f727113841d7"
+    },
+    {
+      "path": "read/index.html",
+      "bytes": 21023,
+      "sha256": "f16c4c0120b1b03bba674c0ba4612f6fdc3f08896e32dd90f9feaef732e93b23"
+    },
+    {
+      "path": "read/resources.json",
+      "bytes": 29519,
+      "sha256": "03bf86be31b0113384c87fdc26581e984e69095f73334bbec22220040c8d942a"
+    },
+    {
+      "path": "tools/check-youth-integration-browser.mjs",
+      "bytes": 11790,
+      "sha256": "36959b4c3099741673838263310d97ffb21d97c186f3e6d819896574af5c6271"
+    }
+  ]
+}
